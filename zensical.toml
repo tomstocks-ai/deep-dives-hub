@@ -1,5 +1,6 @@
 [project]
 site_name = "Deep Dives Hub"
+repo_url = "https://github.com/tomstocks-ai/"
 site_url = "https://tomstocks-ai.github.io/deep-dives-hub/"
 site_description = "Collaborative stock deep-dive research — readable summaries for humans, JSON API for agents."
 site_author = "AAA Support"
