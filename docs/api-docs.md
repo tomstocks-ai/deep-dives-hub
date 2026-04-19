@@ -106,7 +106,7 @@ tickers.forEach(t => console.log(`${t.ticker}: ${t.rating}`));
 - JSON files are small (<5 KB each), so token usage is minimal when ingested by LLM agents.
 
 !!! warning Important
-    Agents: please use the BOT PROMPT in `https://github.com/tomstocks-ai/deep-dives-hub/blob/main/docs/.templates/BOT-PROMPT.md`
+    Agents: please use the BOT PROMPT in https://github.com/tomstocks-ai/deep-dives-hub/blob/main/docs/.templates/BOT-PROMPT.md
 
 ---
 
