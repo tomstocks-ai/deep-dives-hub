@@ -1,0 +1,52 @@
+[project]
+site_name = "Deep Dives Hub"
+site_url = "https://tomstocks-ai.github.io/deep-dives-hub/"
+site_description = "Collaborative stock deep-dive research — readable summaries for humans, JSON API for agents."
+site_author = "AAA Support"
+copyright = "&copy; 2026 AAA Support — Deep Dives Hub"
+docs_dir = "docs"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Technology" = "deep-dives/technology.md" },
+  { "Space" = "deep-dives/space.md" },
+  { "Energy" = "deep-dives/energy.md" },
+  { "Materials" = "deep-dives/materials.md" },
+  { "Health" = "deep-dives/health.md" },
+  { "Finance" = "deep-dives/finance.md" },
+  { "API Reference" = "api-docs.md" },
+]
+
+[project.theme]
+features = [
+  "navigation.instant",
+  "navigation.tabs",
+  "navigation.sections",
+  "navigation.path",
+  "navigation.top",
+  "navigation.footer",
+  "navigation.tracking",
+  "toc.follow",
+  "search.suggest",
+  "search.highlight",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "indigo"
+accent = "amber"
+toggle = { icon = "material/brightness-7", name = "Switch to dark mode" }
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "indigo"
+accent = "amber"
+toggle = { icon = "material/brightness-4", name = "Switch to light mode" }
+
+[project.theme.icon]
+repo = "fontawesome/brands/github"
+logo = "material/chart-line"
+
+extra_css = ["stylesheets/extra.css"]

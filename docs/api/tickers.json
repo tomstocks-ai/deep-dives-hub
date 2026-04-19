@@ -1,0 +1,41 @@
+{
+  "last_updated": "2026-04-16",
+  "tickers": [
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health, Inc.",
+      "sector": "Consumer Health",
+      "industry": "Telehealth / DTC Healthcare",
+      "rating": "SPECULATIVE BUY",
+      "price": 22.02,
+      "market_cap": "$5.02B",
+      "last_updated": "2026-04-16",
+      "deep_dive_url": "/deep-dives/HIMS/",
+      "api_url": "/api/HIMS.json"
+    },
+    {
+      "ticker": "SLDP",
+      "company": "Solid Power Inc.",
+      "sector": "Technology",
+      "industry": "Solid-State Batteries",
+      "rating": "HOLD / SPECULATIVE",
+      "price": 3.15,
+      "market_cap": "$662M",
+      "last_updated": "2026-04-14",
+      "deep_dive_url": "/deep-dives/SLDP/",
+      "api_url": "/api/SLDP.json"
+    },
+    {
+      "ticker": "CRCL",
+      "company": "Circle Internet Group",
+      "sector": "Fintech",
+      "industry": "Stablecoin / Digital Payments",
+      "rating": "BUY",
+      "price": 94.44,
+      "market_cap": "$23B",
+      "last_updated": "2026-04-09",
+      "deep_dive_url": "/deep-dives/CRCL/",
+      "api_url": "/api/CRCL.json"
+    }
+  ]
+}

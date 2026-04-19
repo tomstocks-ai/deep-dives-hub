@@ -1,0 +1,72 @@
+{
+  "ticker": "SLDP",
+  "company": "Solid Power Inc.",
+  "sector": "Technology",
+  "industry": "Solid-State Batteries",
+  "exchange": "NASDAQ",
+  "price": 3.15,
+  "market_cap": "$662M",
+  "rating": "HOLD / SPECULATIVE",
+  "last_updated": "2026-04-14",
+  "thesis": "Pre-revenue company pioneering sulfide-based solid-state battery technology for EVs. Asset-light model: sells electrolyte material and licenses cell designs to OEMs (BMW, Ford) rather than building gigafactories. $370M+ liquidity provides ~5–6 years of runway. Commercial revenue expected 2027–2028. Binary outcome: breakthrough adoption or cash-burn failure.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$17.91M",
+    "revenue_source": "Government grants, joint development agreements, electrolyte samples",
+    "net_loss": "-$93.41M",
+    "eps_diluted": "-$0.51",
+    "cash_on_hand": "$250.78M",
+    "total_liquidity": "$370M+",
+    "debt_to_equity": "1.99%",
+    "burn_rate": "~$57–60M/year",
+    "runway": "5–6 years",
+    "shares_outstanding": "~201.2M"
+  },
+  "business_model": {
+    "electrolyte_sales": "Sell proprietary sulfide solid electrolyte to cell manufacturers",
+    "technology_licensing": "License battery cell designs and manufacturing processes to OEMs"
+  },
+  "partnerships": ["BMW", "Ford"],
+  "bull_case": {
+    "target": "$10–15",
+    "drivers": [
+      "Successful pilot line production and OEM qualification",
+      "First major licensing deal announcement",
+      "Solid-state batteries become EV industry standard",
+      "Multiple OEM partnerships beyond BMW/Ford",
+      "Valuation multiple expansion as commercialization nears"
+    ]
+  },
+  "bear_case": {
+    "target": "$0.50–1.00",
+    "risks": [
+      "Manufacturing challenges prove insurmountable at scale",
+      "QuantumScape or Toyota reach market first",
+      "Traditional lithium-ion improves faster than expected",
+      "Cash burn accelerates; further dilutive raises needed",
+      "Loss of key BMW or Ford partnership"
+    ]
+  },
+  "base_case": {
+    "target": "$5–8",
+    "assumptions": "Electrolyte sales begin 2027–2028; 2–3 major licensing deals secured; moderate 5–10% market share of solid-state market; path to profitability by 2030–2031."
+  },
+  "catalysts": [
+    {"date": "2026-05-05", "event": "Q1 2026 Earnings — cash burn and timeline update"},
+    {"date": "2026", "event": "Pilot line milestones"},
+    {"date": "2026-2027", "event": "BMW/Ford partner qualification updates"},
+    {"date": "2027+", "event": "Commercialization and revenue recognition begins"}
+  ],
+  "key_risks": [
+    "Technology fails to scale from lab to manufacturing",
+    "Competitive displacement by QuantumScape, Toyota, or improved lithium-ion",
+    "Additional dilutive equity raises",
+    "5+ year timeline to profitability"
+  ],
+  "scenario_analysis": {
+    "bear": {"probability": "35%", "target": "$1.00", "weighted_return": "-68%"},
+    "base": {"probability": "45%", "target": "$5.00", "weighted_return": "+59%"},
+    "bull": {"probability": "20%", "target": "$12.00", "weighted_return": "+281%"},
+    "expected_value_return": "+42%"
+  }
+}

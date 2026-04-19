@@ -1,0 +1,51 @@
+{
+  "ticker": "{TICKER}",
+  "company": "{COMPANY_NAME}",
+  "sector": "{SECTOR}",
+  "industry": "{INDUSTRY}",
+  "exchange": "{EXCHANGE}",
+  "price": 0.00,
+  "market_cap": "{MARKET_CAP}",
+  "rating": "{RATING}",
+  "last_updated": "{YYYY-MM-DD}",
+  "thesis": "{2-4 sentence thesis summarizing the investment case}",
+  "financials": {
+    "fiscal_year": "FY{YEAR}",
+    "revenue": "{REVENUE}",
+    "revenue_growth": "{+XX%}",
+    "gross_margin": "{XX%}",
+    "net_income": "{NET_INCOME}",
+    "eps_diluted": "{EPS}",
+    "cash": "{CASH}",
+    "fcf": "{FCF}"
+  },
+  "bull_case": {
+    "target": "${BULL_LOW}–{BULL_HIGH}",
+    "drivers": [
+      "{BULL_DRIVER_1}",
+      "{BULL_DRIVER_2}",
+      "{BULL_DRIVER_3}"
+    ]
+  },
+  "bear_case": {
+    "target": "${BEAR_LOW}–{BEAR_HIGH}",
+    "risks": [
+      "{BEAR_RISK_1}",
+      "{BEAR_RISK_2}",
+      "{BEAR_RISK_3}"
+    ]
+  },
+  "base_case": {
+    "target": "${BASE_LOW}–{BASE_HIGH}",
+    "assumptions": "{BASE_ASSUMPTIONS}"
+  },
+  "catalysts": [
+    {"date": "{YYYY-MM-DD}", "event": "{CATALYST_1}"},
+    {"date": "{YYYY-MM-DD}", "event": "{CATALYST_2}"}
+  ],
+  "key_risks": [
+    "{RISK_1}",
+    "{RISK_2}",
+    "{RISK_3}"
+  ]
+}

@@ -1,0 +1,32 @@
+---
+title: Health
+---
+
+# Health
+
+## Summary Table
+
+| Ticker | Company | Rating | Price | Last Updated | Full DD |
+|--------|---------|--------|-------|--------------|---------|
+| **HIMS** | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | $22.02 | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
+| **STAA** | STAAR Surgical | — | — | 2026-04-09 | [:material-file-document: Read](STAA.md) |
+
+---
+
+## Gists
+
+### HIMS — Hims & Hers Health · <span class="rating-spec-buy">SPEC. BUY</span> · $22.02
+
+Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, mental health, dermatology, and weight loss. Revenue grew 59% YoY to $2.35B in FY2025 with 72% gross margins. Key risk: FDA cracking down on compounded GLP-1 drugs (~25% of revenue at stake). 36% short interest creates both danger and squeeze potential. 12-month target: $28–30 (27–36% upside).
+
+**Bull:** $35–40 · **Base:** $28–30 · **Bear:** $12–15
+
+[:material-arrow-right: Full Deep Dive](HIMS.md)
+
+---
+
+### STAA — STAAR Surgical · — · —
+
+<!-- GIST PLACEHOLDER -->
+
+[:material-arrow-right: Full Deep Dive](STAA.md)

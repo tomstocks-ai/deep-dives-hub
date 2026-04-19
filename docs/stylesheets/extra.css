@@ -1,0 +1,37 @@
+/* Deep Dives Hub — custom styles */
+
+/* Sector badges */
+.badge {
+  display: inline-block;
+  padding: 0.15em 0.55em;
+  border-radius: 0.3em;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-tech       { background: #e3f2fd; color: #1565c0; }
+.badge-space      { background: #e8eaf6; color: #283593; }
+.badge-energy     { background: #fff3e0; color: #e65100; }
+.badge-materials  { background: #efebe9; color: #4e342e; }
+.badge-health     { background: #e8f5e9; color: #2e7d32; }
+.badge-fintech    { background: #ede7f6; color: #4527a0; }
+.badge-consumer   { background: #fce4ec; color: #c62828; }
+
+/* Rating chips */
+.rating-buy           { color: #2e7d32; font-weight: 700; }
+.rating-spec-buy      { color: #558b2f; font-weight: 700; }
+.rating-hold          { color: #f57f17; font-weight: 700; }
+.rating-spec-hold     { color: #ff8f00; font-weight: 700; }
+.rating-sell          { color: #c62828; font-weight: 700; }
+.rating-spec          { color: #ff8f00; font-weight: 700; }
+
+/* Back link on DD pages */
+.back-link {
+  display: inline-block;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+  opacity: 0.7;
+}
+.back-link:hover { opacity: 1; }

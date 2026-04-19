@@ -1,0 +1,73 @@
+{
+  "ticker": "HIMS",
+  "company": "Hims & Hers Health, Inc.",
+  "sector": "Consumer Health",
+  "industry": "Telehealth / DTC Healthcare",
+  "exchange": "NYSE",
+  "price": 22.02,
+  "market_cap": "$5.02B",
+  "pe_ttm": 43.18,
+  "beta": 2.32,
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-16",
+  "thesis": "Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, mental health, dermatology, and weight loss. Revenue grew 59% YoY to $2.35B in FY2025 with 72% gross margins. Pivoting from compounded GLP-1 drugs to branded medications. 36% short interest creates squeeze potential but also reflects real regulatory risk.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$2.35B",
+    "revenue_growth": "+59%",
+    "gross_margin": "72%",
+    "net_income": "$128.37M",
+    "adj_ebitda": "$318M",
+    "eps_diluted": "$0.51",
+    "cash": "$577.49M",
+    "total_liquidity": "$929M",
+    "ev_revenue": "2.31x",
+    "fcf": "$110.51M"
+  },
+  "revenue_segments": {
+    "sexual_health": "~30%",
+    "mental_health": "~25%",
+    "dermatology": "~20%",
+    "weight_loss": "~25%"
+  },
+  "guidance_2026": {
+    "revenue": "$2.7B–$2.9B",
+    "growth": "15–23%"
+  },
+  "bull_case": {
+    "target": "$35–40",
+    "drivers": [
+      "Telehealth TAM $185B+ growing 25% annually",
+      "EBITDA grew 80% in 2025; margin expansion continuing",
+      "Platform scalability — fixed costs spread over growing subscriber base",
+      "International growth via Eucalyptus acquisition (UK, Germany)",
+      "36% short interest could fuel squeeze on positive catalyst"
+    ]
+  },
+  "bear_case": {
+    "target": "$12–15",
+    "risks": [
+      "GLP-1 revenue collapse if compounded drugs banned (~25% of revenue at risk)",
+      "DOJ investigation could lead to fines or business restrictions",
+      "Competition from Novo Nordisk, Eli Lilly, Amazon, CVS telehealth",
+      "Subscriber churn if GLP-1 customers don't stay for other services",
+      "Multiple contraction if revenue growth slows below 20%"
+    ]
+  },
+  "base_case": {
+    "target": "$28–30",
+    "assumptions": "Revenue grows 20–25% annually through 2027; EBITDA margins stabilize 13–15%; international contributes 15–20% by 2028; regulatory issues resolved with manageable impact."
+  },
+  "catalysts": [
+    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first quarter post-GLP-1 pivot"},
+    {"date": "2026-06", "event": "FDA GLP-1 decision — regulatory clarity"},
+    {"date": "ongoing", "event": "DOJ investigation updates"},
+    {"date": "2026-08", "event": "Q2 2026 Earnings — international expansion progress"}
+  ],
+  "key_risks": [
+    "FDA crackdown on compounded GLP-1 medications",
+    "DOJ investigation into marketing practices",
+    "Novo Nordisk patent lawsuit blocking alternative GLP-1 formulations",
+    "Margin compression from international expansion and branded drugs"
+  ]
+}
