@@ -9,7 +9,7 @@ title: Health
 | Ticker | Company | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|-------|--------------|---------|
 | **HIMS** | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | $22.02 | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
-| **STAA** | STAAR Surgical | — | — | 2026-04-09 | [:material-file-document: Read](STAA.md) |
+| **STAA** | STAAR Surgical | <span class="rating-hold">HOLD</span> | $26.22 | 2026-04-09 | [:material-file-document: Read](STAA.md) |
 
 ---
 

@@ -8,11 +8,11 @@ title: Energy
 
 | Ticker | Company | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|-------|--------------|---------|
-| **EOSE** | Eos Energy Enterprises | — | — | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
-| **OKLO** | Oklo Inc. | — | — | 2026-04-15 | [:material-file-document: Read](OKLO.md) |
-| **IMSR** | Terrestrial Energy | — | — | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
-| **TE** | T1 Energy | — | — | 2026-03-16 | [:material-file-document: Read](TE.md) |
-| **UUUU** | Energy Fuels | — | — | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
+| **EOSE** | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | $4.86 | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
+| **OKLO** | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | $58.58 | 2026-04-15 | [:material-file-document: Read](OKLO.md) |
+| **IMSR** | Terrestrial Energy | <span class="rating-spec-buy">SPEC. BUY</span> | $6.24 | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
+| **TE** | T1 Energy | <span class="rating-hold">HOLD</span> | $7.60 | 2026-03-16 | [:material-file-document: Read](TE.md) |
+| **UUUU** | Energy Fuels | <span class="rating-buy">BUY</span> | $17.75 | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
 
 ---
 

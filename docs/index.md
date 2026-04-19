@@ -14,26 +14,26 @@ Each ticker gets a concise summary on its sector page and a full deep-dive page.
 | Ticker | Company | Sector | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|--------|-------|--------------|---------|
 | **HIMS** | Hims & Hers Health | <span class="badge badge-health">Health</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $22.02 | 2026-04-16 | [:material-file-document: Read](deep-dives/HIMS.md) |
-| **STAA** | STAAR Surgical | <span class="badge badge-health">Health</span> | — | — | 2026-04-09 | [:material-file-document: Read](deep-dives/STAA.md) |
+| **STAA** | STAAR Surgical | <span class="badge badge-health">Health</span> | <span class="rating-hold">HOLD</span> | $26.22 | 2026-04-09 | [:material-file-document: Read](deep-dives/STAA.md) |
 | **SLDP** | Solid Power | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $3.15 | 2026-04-14 | [:material-file-document: Read](deep-dives/SLDP.md) |
-| **AEHR** | Aehr Test Systems | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-06 | [:material-file-document: Read](deep-dives/AEHR.md) |
-| **SNOW** | Snowflake | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-10 | [:material-file-document: Read](deep-dives/SNOW.md) |
-| **U** | Unity Software | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-10 | [:material-file-document: Read](deep-dives/U.md) |
-| **TSSI** | TSS Inc. | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-03 | [:material-file-document: Read](deep-dives/TSSI.md) |
-| **VELO** | VELO3D | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-02 | [:material-file-document: Read](deep-dives/VELO.md) |
-| **SATS** | EchoStar | <span class="badge badge-tech">Technology</span> | — | — | 2026-04-04 | [:material-file-document: Read](deep-dives/SATS.md) |
-| **ASTS** | AST SpaceMobile | <span class="badge badge-space">Space</span> | — | — | 2026-04-02 | [:material-file-document: Read](deep-dives/ASTS.md) |
-| **PL** | Planet Labs | <span class="badge badge-space">Space</span> | — | — | 2026-04-03 | [:material-file-document: Read](deep-dives/PL.md) |
-| **SATL** | Satellogic | <span class="badge badge-space">Space</span> | — | — | 2026-04-02 | [:material-file-document: Read](deep-dives/SATL.md) |
-| **NN** | NextNav | <span class="badge badge-space">Space</span> | — | — | 2026-04-17 | [:material-file-document: Read](deep-dives/NN.md) |
-| **EOSE** | Eos Energy Enterprises | <span class="badge badge-energy">Energy</span> | — | — | 2026-04-05 | [:material-file-document: Read](deep-dives/EOSE.md) |
-| **OKLO** | Oklo Inc. | <span class="badge badge-energy">Energy</span> | — | — | 2026-04-15 | [:material-file-document: Read](deep-dives/OKLO.md) |
-| **IMSR** | Terrestrial Energy | <span class="badge badge-energy">Energy</span> | — | — | 2026-04-04 | [:material-file-document: Read](deep-dives/IMSR.md) |
-| **TE** | T1 Energy | <span class="badge badge-energy">Energy</span> | — | — | 2026-03-16 | [:material-file-document: Read](deep-dives/TE.md) |
-| **UUUU** | Energy Fuels | <span class="badge badge-energy">Energy</span> | — | — | 2026-04-03 | [:material-file-document: Read](deep-dives/UUUU.md) |
-| **FCX** | Freeport-McMoRan | <span class="badge badge-materials">Materials</span> | — | — | 2026-04-03 | [:material-file-document: Read](deep-dives/FCX.md) |
-| **TECK** | Teck Resources | <span class="badge badge-materials">Materials</span> | — | — | 2026-04-03 | [:material-file-document: Read](deep-dives/TECK.md) |
-| **CRML** | Critical Metals | <span class="badge badge-materials">Materials</span> | — | — | 2026-03-24 | [:material-file-document: Read](deep-dives/CRML.md) |
+| **AEHR** | Aehr Test Systems | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $44.32 | 2026-04-06 | [:material-file-document: Read](deep-dives/AEHR.md) |
+| **SNOW** | Snowflake | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $119.71 | 2026-04-10 | [:material-file-document: Read](deep-dives/SNOW.md) |
+| **U** | Unity Software | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $21.57 | 2026-04-10 | [:material-file-document: Read](deep-dives/U.md) |
+| **TSSI** | TSS Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $13.32 | 2026-04-03 | [:material-file-document: Read](deep-dives/TSSI.md) |
+| **VELO** | VELO3D | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $11.27 | 2026-04-02 | [:material-file-document: Read](deep-dives/VELO.md) |
+| **SATS** | EchoStar | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">ACCUMULATE</span> | $128.68 | 2026-04-04 | [:material-file-document: Read](deep-dives/SATS.md) |
+| **ASTS** | AST SpaceMobile | <span class="badge badge-space">Space</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $82.87 | 2026-04-02 | [:material-file-document: Read](deep-dives/ASTS.md) |
+| **PL** | Planet Labs | <span class="badge badge-space">Space</span> | <span class="rating-hold">HOLD</span> | $35.88 | 2026-04-03 | [:material-file-document: Read](deep-dives/PL.md) |
+| **SATL** | Satellogic | <span class="badge badge-space">Space</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $3.25 | 2026-04-02 | [:material-file-document: Read](deep-dives/SATL.md) |
+| **NN** | NextNav | <span class="badge badge-space">Space</span> | <span class="rating-spec-hold">SPEC. HOLD</span> | $20.82 | 2026-04-17 | [:material-file-document: Read](deep-dives/NN.md) |
+| **EOSE** | Eos Energy Enterprises | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $4.86 | 2026-04-05 | [:material-file-document: Read](deep-dives/EOSE.md) |
+| **OKLO** | Oklo Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $58.58 | 2026-04-15 | [:material-file-document: Read](deep-dives/OKLO.md) |
+| **IMSR** | Terrestrial Energy | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $6.24 | 2026-04-04 | [:material-file-document: Read](deep-dives/IMSR.md) |
+| **TE** | T1 Energy | <span class="badge badge-energy">Energy</span> | <span class="rating-hold">HOLD</span> | $7.60 | 2026-03-16 | [:material-file-document: Read](deep-dives/TE.md) |
+| **UUUU** | Energy Fuels | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $17.75 | 2026-04-03 | [:material-file-document: Read](deep-dives/UUUU.md) |
+| **FCX** | Freeport-McMoRan | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $61.38 | 2026-04-03 | [:material-file-document: Read](deep-dives/FCX.md) |
+| **TECK** | Teck Resources | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $48.54 | 2026-04-03 | [:material-file-document: Read](deep-dives/TECK.md) |
+| **CRML** | Critical Metals | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $8.09 | 2026-03-24 | [:material-file-document: Read](deep-dives/CRML.md) |
 | **CRCL** | Circle Internet Group | <span class="badge badge-fintech">Fintech</span> | <span class="rating-buy">BUY</span> | $94.44 | 2026-04-09 | [:material-file-document: Read](deep-dives/CRCL.md) |
 
 ---

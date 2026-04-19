@@ -9,12 +9,12 @@ title: Technology
 | Ticker | Company | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|-------|--------------|---------|
 | **SLDP** | Solid Power | <span class="rating-spec-hold">HOLD / SPEC.</span> | $3.15 | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
-| **AEHR** | Aehr Test Systems | — | — | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
-| **SNOW** | Snowflake | — | — | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
-| **U** | Unity Software | — | — | 2026-04-10 | [:material-file-document: Read](U.md) |
-| **TSSI** | TSS Inc. | — | — | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
-| **VELO** | VELO3D | — | — | 2026-04-02 | [:material-file-document: Read](VELO.md) |
-| **SATS** | EchoStar | — | — | 2026-04-04 | [:material-file-document: Read](SATS.md) |
+| **AEHR** | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | $44.32 | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
+| **SNOW** | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | $119.71 | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
+| **U** | Unity Software | <span class="rating-hold">HOLD</span> | $21.57 | 2026-04-10 | [:material-file-document: Read](U.md) |
+| **TSSI** | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | $13.32 | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
+| **VELO** | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | $11.27 | 2026-04-02 | [:material-file-document: Read](VELO.md) |
+| **SATS** | EchoStar | <span class="rating-buy">ACCUMULATE</span> | $128.68 | 2026-04-04 | [:material-file-document: Read](SATS.md) |
 
 ---
 

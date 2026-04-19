@@ -8,10 +8,10 @@ title: Space
 
 | Ticker | Company | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|-------|--------------|---------|
-| **ASTS** | AST SpaceMobile | — | — | 2026-04-02 | [:material-file-document: Read](ASTS.md) |
-| **PL** | Planet Labs | — | — | 2026-04-03 | [:material-file-document: Read](PL.md) |
-| **SATL** | Satellogic | — | — | 2026-04-02 | [:material-file-document: Read](SATL.md) |
-| **NN** | NextNav | — | — | 2026-04-17 | [:material-file-document: Read](NN.md) |
+| **ASTS** | AST SpaceMobile | <span class="rating-spec-buy">SPEC. BUY</span> | $82.87 | 2026-04-02 | [:material-file-document: Read](ASTS.md) |
+| **PL** | Planet Labs | <span class="rating-hold">HOLD</span> | $35.88 | 2026-04-03 | [:material-file-document: Read](PL.md) |
+| **SATL** | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | $3.25 | 2026-04-02 | [:material-file-document: Read](SATL.md) |
+| **NN** | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | $20.82 | 2026-04-17 | [:material-file-document: Read](NN.md) |
 
 ---
 

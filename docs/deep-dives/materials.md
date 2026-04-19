@@ -8,9 +8,9 @@ title: Materials
 
 | Ticker | Company | Rating | Price | Last Updated | Full DD |
 |--------|---------|--------|-------|--------------|---------|
-| **FCX** | Freeport-McMoRan | — | — | 2026-04-03 | [:material-file-document: Read](FCX.md) |
-| **TECK** | Teck Resources | — | — | 2026-04-03 | [:material-file-document: Read](TECK.md) |
-| **CRML** | Critical Metals | — | — | 2026-03-24 | [:material-file-document: Read](CRML.md) |
+| **FCX** | Freeport-McMoRan | <span class="rating-buy">BUY</span> | $61.38 | 2026-04-03 | [:material-file-document: Read](FCX.md) |
+| **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | $48.54 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
+| **CRML** | Critical Metals | <span class="rating-spec-buy">SPEC. BUY</span> | $8.09 | 2026-03-24 | [:material-file-document: Read](CRML.md) |
 
 ---
 
