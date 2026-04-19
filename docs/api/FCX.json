@@ -1,0 +1,61 @@
+{
+  "ticker": "FCX",
+  "company": "Freeport-McMoRan Inc.",
+  "sector": "Materials",
+  "industry": "Copper Mining",
+  "exchange": "NYSE",
+  "price": 61.38,
+  "market_cap": "$87.96B",
+  "rating": "BUY",
+  "last_updated": "2026-04-03",
+  "thesis": "World's largest publicly traded copper producer positioned at the epicenter of the global energy transition. Operations spanning Indonesia (Grasberg), North America, and South America. 2024 EBITDA of $10B (+14% YoY) with strong operational execution. Grasberg underground ramp-up progressing with world-class copper/gold grades. Critical leverage to copper structural supply deficit through 2030 driven by EVs, renewables, and AI data centers.",
+  "financials": {
+    "fiscal_year": "FY2024",
+    "revenue": "$25.1B",
+    "revenue_growth": "+9.6% YoY",
+    "ebitda": "$10.0B",
+    "ebitda_growth": "+14% YoY",
+    "net_income": "$2.2B",
+    "eps_diluted": "$1.21",
+    "operating_cash_flow": "$6.8B",
+    "free_cash_flow": "$3.2B",
+    "unit_net_cash_costs": "$2.07/lb (highly competitive)",
+    "debt_to_equity": "Low (investment grade BBB-)"
+  },
+  "bull_case": {
+    "target": "$81.00",
+    "drivers": [
+      "Copper averages $5.50/lb 2025-2027 on structural deficit",
+      "Grasberg achieves 1.6B lbs peak production by 2026-2027",
+      "China stimulus drives demand surge",
+      "Supply deficits widen faster than expected",
+      "Indonesia terms finalized favorably"
+    ]
+  },
+  "bear_case": {
+    "target": "$48.00",
+    "risks": [
+      "Copper falls to $3.75/lb on global recession",
+      "Indonesia imposes punitive terms or export restrictions",
+      "China property crisis deepens",
+      "Grasberg operational issues emerge"
+    ]
+  },
+  "base_case": {
+    "target": "$65.00",
+    "assumptions": "Copper averages $4.50/lb (current levels); Grasberg ramps as planned through 2027; Indonesia negotiations result in status quo; Steady copper demand growth (3-4% CAGR)."
+  },
+  "catalysts": [
+    {"date": "2026-04-16", "event": "Q1 2026 Earnings — Quarterly production update"},
+    {"date": "2026-07", "event": "Grasberg Ramp Update — Production milestone"},
+    {"date": "Q3 2026", "event": "Indonesia Terms Negotiation — Critical regulatory milestone"},
+    {"date": "Ongoing", "event": "Copper Price Movements — LME inventory levels"}
+  ],
+  "key_risks": [
+    "Indonesia political/regulatory risk — government majority stakeholder through Inalum",
+    "Commodity price volatility — 50% revenue sensitivity to copper prices",
+    "Grasberg operational execution — underground ramp-up complexity",
+    "China demand slowdown — 40% of global copper demand",
+    "ESG/tailings management risks in mining operations"
+  ]
+}

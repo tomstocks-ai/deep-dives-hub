@@ -1,0 +1,61 @@
+{
+  "ticker": "CRML",
+  "company": "Critical Metals Corp",
+  "sector": "Materials",
+  "industry": "Rare Earth Elements Mining",
+  "exchange": "NASDAQ",
+  "price": 8.09,
+  "market_cap": "$987M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-03-24",
+  "thesis": "Pre-revenue rare earth mining company developing Tanbreez Project in Greenland — one of the world's largest known rare earth deposits with 4.7 billion-tonne resource and exceptional 27% Heavy Rare Earth Elements content. Strategic JVs with Saudi Arabia ($1.5B) and Romania provide processing capacity and validation. Highly speculative with only $7.3M cash and significant funding/execution risks, but positioned to benefit from U.S.-China decoupling and Project Vault tailwinds.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$560,623",
+    "revenue_growth": "+376% (early stage)",
+    "net_loss": "-$51.87M",
+    "eps_diluted": "-$1.41",
+    "cash": "$7.3M",
+    "cash_per_share": "$0.66",
+    "book_value_per_share": "$1.19",
+    "total_debt": "Minimal (6.40% D/E)",
+    "runway": "6-12 months without JV milestones"
+  },
+  "bull_case": {
+    "target": "$25.00",
+    "drivers": [
+      "Saudi JV closes on schedule with full $1.5B commitment",
+      "Project Vault provides price guarantees and direct U.S. offtake",
+      "Production begins 2027 (accelerated timeline)",
+      "Rare earth prices remain elevated ($40+/kg basket)",
+      "Additional JVs announced (Japan, Korea, Australia)"
+    ]
+  },
+  "bear_case": {
+    "target": "$3.50",
+    "risks": [
+      "Saudi JV collapses or significantly delayed",
+      "Greenland political situation deteriorates",
+      "Rare earth prices collapse on Chinese oversupply",
+      "Multiple dilutive raises required before production",
+      "Production delayed to 2030+ or cancelled"
+    ]
+  },
+  "base_case": {
+    "target": "$15.00",
+    "assumptions": "Saudi JV closes with partial/delayed funding; Project Vault provides indirect support; Production begins 2028; Rare earth prices normalize ($30/kg); One additional equity raise ($100M at $10/share); Successful pilot plant operation."
+  },
+  "catalysts": [
+    {"date": "Q1-Q2 2026", "event": "$30M Strategic Program Execution — Development acceleration"},
+    {"date": "Q2 2026", "event": "Saudi Arabia JV Finalization — $1.5B funding commitment"},
+    {"date": "Q2-Q3 2026", "event": "S-K 1300 Technical Report — Resource standardization"},
+    {"date": "2027-2028", "event": "First Production — Revenue generation begins"}
+  ],
+  "key_risks": [
+    "Critical funding risk with only $7.3M cash vs $800M-$1B capex requirement",
+    "Greenland regulatory/political risk with independence movement",
+    "Heavy insider selling by European Lithium (parent company)",
+    "Rare earth price volatility dominated by Chinese supply",
+    "High 23.78% short float indicates market skepticism"
+  ]
+}

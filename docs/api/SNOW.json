@@ -1,0 +1,62 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake Inc.",
+  "sector": "Technology",
+  "industry": "Cloud Data Platform / SaaS",
+  "exchange": "NYSE",
+  "price": 119.71,
+  "market_cap": "$41.6B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-10",
+  "thesis": "Leading cloud data platform experiencing challenging period with shares down 57% from highs. Q4 FY2026 showed strong fundamentals: 30% product revenue growth, $4.8B cash, first year of positive free cash flow. Transitioning from pure data warehouse to AI Data Cloud with Cortex AI suite gaining traction. However, intensifying competition from Databricks, Microsoft Fabric, and AI bubble concerns creating valuation pressure. RSI 16.43 indicates severely oversold conditions.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "product_revenue": "$4.50B",
+    "total_revenue": "$4.88B",
+    "revenue_growth": "+30% YoY",
+    "gross_margin": "75.8% (non-GAAP)",
+    "operating_margin": "10.5% (non-GAAP, +450bps)",
+    "fcf": "$1.24B",
+    "fcf_margin": "25.5%",
+    "cash": "$4.8B",
+    "nrr": "125% (Net Revenue Retention)",
+    "rpo": "$9.77B (+42% YoY)"
+  },
+  "bull_case": {
+    "target": "$280",
+    "drivers": [
+      "AI Data Cloud positioning captures generative AI workloads",
+      "Snowflake Intelligence and Cortex Code reach mainstream adoption",
+      "Net Revenue Retention rebounds above 130%",
+      "FY2027 guidance (27% growth) proves conservative",
+      "Margin expansion continues toward 20%+ operating margins"
+    ]
+  },
+  "bear_case": {
+    "target": "$90",
+    "risks": [
+      "Databricks continues taking share in AI workloads (65% growth vs 30%)",
+      "Microsoft Fabric bundles data warehouse with Office 365",
+      "Growth deceleration continues below 20% in FY2028",
+      "AI hype cycle ends before Snowflake captures value",
+      "Valuation compression to 5-6x revenue on growth slowdown"
+    ]
+  },
+  "base_case": {
+    "target": "$195",
+    "assumptions": "Revenue grows 25-27% through FY2028 then decelerates to 20%; AI products contribute meaningfully but don't transform growth; Margins continue expanding toward 15-20% operating margin; Stock trades at 10-12x revenue (reasonable for 25% growth)."
+  },
+  "catalysts": [
+    {"date": "2026-05-27", "event": "Q1 FY2027 Earnings — Guidance update critical"},
+    {"date": "2026-06", "event": "Investor Day / Conference — Product announcements"},
+    {"date": "2026-08", "event": "Q2 FY2027 Earnings — AI traction visibility"},
+    {"date": "Ongoing", "event": "AI Product Adoption — Cortex Code, Intelligence metrics"}
+  ],
+  "key_risks": [
+    "Intensifying competition from Databricks (65% growth) and Microsoft Fabric",
+    "Consumption model creates revenue volatility during economic slowdowns",
+    "Heavy stock-based compensation (34% of revenue, improving but dilutive)",
+    "Growth deceleration from 30% to 27% guidance (FY2027)",
+    "RSI 16.43 indicates oversold but may signal fundamental concerns"
+  ]
+}

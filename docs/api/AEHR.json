@@ -1,0 +1,58 @@
+{
+  "ticker": "AEHR",
+  "company": "Aehr Test Systems",
+  "sector": "Technology",
+  "industry": "Semiconductor Test & Burn-in Solutions",
+  "exchange": "NASDAQ",
+  "price": 44.32,
+  "market_cap": "$1.36B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-06",
+  "thesis": "Worldwide supplier of semiconductor test and burn-in solutions pivoting from EV/SiC automotive market to AI/data center opportunities. FOX family systems enable wafer-level burn-in for silicon carbide power semiconductors and now AI processors. Strong balance sheet with $31M cash and minimal debt, but currently unprofitable with negative FCF. High valuation (25x P/S) reflects AI-driven optimism.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$53.25M (TTM)",
+    "revenue_growth": "Declining YoY (transitional)",
+    "gross_margin": "33.28%",
+    "operating_margin": "-22.85%",
+    "net_income": "-$8.86M (loss)",
+    "eps_diluted": "-$0.30",
+    "cash": "$30.84M",
+    "total_debt": "Minimal (~7.77% D/E)",
+    "fcf": "-$7.36M (negative)"
+  },
+  "bull_case": {
+    "target": "$65–75",
+    "drivers": [
+      "AI processor testing becomes major revenue driver ($50M+ annually)",
+      "Silicon photonics orders materialize in FY2027",
+      "Return to profitability in FY2027 with expanding margins",
+      "Short squeeze amplifies upside from elevated short interest (15.58%)"
+    ]
+  },
+  "bear_case": {
+    "target": "$20–25",
+    "risks": [
+      "AI opportunity proves smaller or more competitive than expected",
+      "Customer delays push out production ramps",
+      "Semiconductor capex cycle downturn impacts demand",
+      "Company burns cash and needs to raise capital"
+    ]
+  },
+  "base_case": {
+    "target": "$40–50",
+    "assumptions": "Turnaround takes longer than expected but progress continues; AI revenue grows but doesn't fully offset EV/SiC softness until late FY2027; Company achieves break-even by end of FY2027."
+  },
+  "catalysts": [
+    {"date": "2026-04-07", "event": "Q3 FY2026 Earnings — First quarter of reinstated guidance execution"},
+    {"date": "2026-07", "event": "Q4 FY2026 Earnings — FY2027 guidance will drive stock direction"},
+    {"date": "Ongoing", "event": "New AI/hyperscaler customer announcements"}
+  ],
+  "key_risks": [
+    "Customer concentration risk — pivoting from EV/SiC to AI dependence",
+    "Unprofitability and cash burn during investment phase",
+    "High valuation vulnerable to execution misses",
+    "Competition from larger semiconductor test companies (Advantest, Teradyne)",
+    "Heavy insider selling signals lack of confidence"
+  ]
+}

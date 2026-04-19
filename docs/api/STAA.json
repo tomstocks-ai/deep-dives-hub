@@ -1,0 +1,59 @@
+{
+  "ticker": "STAA",
+  "company": "STAAR Surgical",
+  "sector": "Health",
+  "industry": "Medical Devices / Ophthalmology",
+  "exchange": "NASDAQ",
+  "price": 26.22,
+  "market_cap": "$1.03B",
+  "rating": "HOLD",
+  "last_updated": "2026-04-09",
+  "thesis": "Global leader in phakic Implantable Collamer® Lenses (ICLs) for vision correction. EVO ICL product line with 4+ million lenses sold globally. ~60% revenue concentration in China creates significant opportunity and risk. Q1 2026 pre-announcement beat ($90M+ vs $67.6M consensus) drove 25% stock rally, suggesting potential turnaround after 24% revenue decline in FY2025. FDA expanded age indication in Feb 2026 opens larger addressable market.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$239M",
+    "revenue_growth": "-24% YoY",
+    "gross_margin": "Historic 70%+, currently depressed",
+    "net_loss": "-$1.62/share",
+    "cash": "Declining due to losses",
+    "market_cap": "$1.03B",
+    "fy2024_revenue": "$314M"
+  },
+  "bull_case": {
+    "target": "$35–40",
+    "drivers": [
+      "China market fully recovers, driving 20%+ revenue growth",
+      "US market continues 40%+ growth trajectory",
+      "Company returns to profitability by FY2026",
+      "Gross margins expand back to 75%+",
+      "Market awards 30x+ P/E on restored earnings power"
+    ]
+  },
+  "bear_case": {
+    "target": "$14–16",
+    "risks": [
+      "China economic weakness worsens",
+      "Competitive pressure from LASIK/SMILE intensifies",
+      "Company fails to return to profitability",
+      "Cash burn forces dilutive capital raise",
+      "Multiple compresses to 5-8x sales"
+    ]
+  },
+  "base_case": {
+    "target": "$24–28",
+    "assumptions": "China stabilizes but doesn't accelerate; Revenue grows 10-15% annually; Breakeven profitability by late FY2026; Stock trades sideways as turnaround plays out; Multiple compression offsets earnings growth."
+  },
+  "catalysts": [
+    {"date": "April 2026", "event": "Q1 2026 Earnings Call — Guidance update critical"},
+    {"date": "May 2026", "event": "Analyst Day / Conference — Strategic update"},
+    {"date": "July 2026", "event": "Q2 2026 Earnings — Trend confirmation"},
+    {"date": "Ongoing", "event": "China Economic Data — Impacts 60% of revenue"}
+  ],
+  "key_risks": [
+    "60% revenue concentration in China — regulatory/economic vulnerability",
+    "Lost $1.62/share in FY2025; profitability uncertain",
+    "Trading at 114x forward earnings — expensive",
+    "Competition from LASIK and SMILE procedures",
+    "Single product risk — ~95% of revenue from ICL products"
+  ]
+}

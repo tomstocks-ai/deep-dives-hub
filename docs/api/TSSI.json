@@ -1,0 +1,60 @@
+{
+  "ticker": "TSSI",
+  "company": "TSS, Inc.",
+  "sector": "Technology",
+  "industry": "Data Center Infrastructure / AI Server Integration",
+  "exchange": "NASDAQ",
+  "price": 13.32,
+  "market_cap": "$387M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-02",
+  "thesis": "IT services company specializing in data center infrastructure and AI server integration. Recent IPO (November 2024) with explosive growth: revenue 5x in 2 years ($54M → $246M). Turned profitable in 2025 with $15.1M net income. Major multi-year contract for AI rack integration driving growth. Strong balance sheet with $85.5M cash. High customer concentration risk with one major AI customer representing majority of revenue. Extreme volatility (beta 2-4x market).",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$246M",
+    "revenue_growth": "5x in 2 years (from $54M)",
+    "net_income": "$15.1M (turned profitable)",
+    "eps_diluted": "Positive (profitable)",
+    "cash": "$85.5M",
+    "total_debt": "Minimal",
+    "runway": "Strong balance sheet, minimal funding risk",
+    "gross_margin": "Improving with scale"
+  },
+  "bull_case": {
+    "target": "$20.00",
+    "drivers": [
+      "AI infrastructure demand continues exponential growth",
+      "Major customer expands contract or renews multi-year",
+      "New AI rack integration customers signed",
+      "Data center buildout boom continues (AI/cloud)",
+      "Margi expansion as company scales operations"
+    ]
+  },
+  "bear_case": {
+    "target": "$6.00–8.00",
+    "risks": [
+      "Customer concentration — loss of major AI customer would crater revenue",
+      "Margin compression from business mix shift",
+      "IPO lock-up expirations create selling pressure",
+      "Competition from larger integrators (Flex, Jabil)",
+      "AI capex cycle downturn impacts demand"
+    ]
+  },
+  "base_case": {
+    "target": "$14.00–16.00",
+    "assumptions": "Revenue grows 30-40% in 2026; Major customer relationship stable; New customer wins moderate concentration risk; Margins stabilize at mid-teens; Multiple compression to 1-1.5x revenue."
+  },
+  "catalysts": [
+    {"date": "Q1 2026", "event": "First Post-IPO Earnings — Critical validation"},
+    {"date": "2026", "event": "New Customer Announcements — Diversification"},
+    {"date": "2026", "event": "Major Contract Renewal — Revenue visibility"},
+    {"date": "Ongoing", "event": "AI Infrastructure Spending Updates — Demand signal"}
+  ],
+  "key_risks": [
+    "High customer concentration — one major AI customer majority of revenue",
+    "Recent IPO (Nov 2024) with limited track record as public company",
+    "Extreme volatility (beta 2-4x market)",
+    "Margin compression risk from business mix shift",
+    "Competition from established integrators (Flex, Jabil, Celestica)"
+  ]
+}

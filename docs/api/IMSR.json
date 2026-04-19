@@ -1,0 +1,60 @@
+{
+  "ticker": "IMSR",
+  "company": "Terrestrial Energy Inc.",
+  "sector": "Energy",
+  "industry": "Advanced Nuclear / Molten Salt Reactor",
+  "exchange": "NASDAQ",
+  "price": 6.24,
+  "market_cap": "$661M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-04",
+  "thesis": "Advanced nuclear technology company developing the Integral Molten Salt Reactor (IMSR) — a Generation IV small modular reactor using Standard-Assay Low Enriched Uranium (SALEU) fuel. First molten salt reactor to complete CNSC Vendor Design Review and receive NRC Safety Evaluation. Pre-revenue with ~4-5 year cash runway post-SPAC. TETRA pilot reactor scheduled for criticality July 2026 under DOE fast-track program.",
+  "financials": {
+    "fiscal_year": "Pre-revenue",
+    "revenue": "$0 (development stage)",
+    "net_loss": "-$23.7M (TTM)",
+    "eps_diluted": "-$0.39",
+    "cash": "$27.7M",
+    "post_spa_c_capital": "$292M raised (Oct 2025)",
+    "burn_rate": "~$23M/year",
+    "runway": "~4-5 years at current burn",
+    "shares_outstanding": "105.9M"
+  },
+  "bull_case": {
+    "target": "$23.60",
+    "drivers": [
+      "TETRA pilot reactor achieves criticality on schedule (July 2026)",
+      "NRC continues timely review of design elements",
+      "First Construction Permit application submitted by 2028",
+      "3-4 plants operational by 2035 with recurring core replacement revenues",
+      "Regulatory fast-track accelerates commercialization timeline"
+    ]
+  },
+  "bear_case": {
+    "target": "$3.80",
+    "risks": [
+      "NRC raises unforeseen safety concerns with molten salt design",
+      "TETRA pilot reactor encounters technical issues",
+      "Competitors (NuScale, Kairos) capture market share",
+      "Funding dries up; dilutive raises required",
+      "First plant delayed to 2040+ or cancelled"
+    ]
+  },
+  "base_case": {
+    "target": "$14.16",
+    "assumptions": "12-18 month delays in regulatory timeline; 2-3 plants operational by 2036; Moderate competition from NuScale, Kairos; One additional capital raise required; Revenue of $300M by 2036."
+  },
+  "catalysts": [
+    {"date": "2026-07", "event": "TETRA Reactor Criticality — DOE fast-track program milestone"},
+    {"date": "2026", "event": "Additional NRC Topical Report Approvals — Further de-risks licensing"},
+    {"date": "2026-2027", "event": "Site Characterization Completion (Texas A&M) — Enables Construction Permit"},
+    {"date": "2028-2029", "event": "First Construction Permit Application — Major regulatory milestone"}
+  ],
+  "key_risks": [
+    "Pre-revenue with no near-term revenue expected until ~2030",
+    "Regulatory delays — NRC has never licensed a non-water-cooled commercial reactor",
+    "Dilution risk from future capital raises before commercialization",
+    "Technology execution risk — first-of-a-kind reactor deployment",
+    "80% decline from SPAC highs indicates market skepticism"
+  ]
+}

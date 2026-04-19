@@ -1,0 +1,57 @@
+{
+  "ticker": "NN",
+  "company": "NextNav Inc.",
+  "sector": "Space",
+  "industry": "Positioning, Navigation, and Timing (PNT)",
+  "exchange": "NASDAQ",
+  "price": 20.82,
+  "market_cap": "$1.5B",
+  "rating": "SPECULATIVE HOLD",
+  "last_updated": "2026-04-17",
+  "thesis": "Developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. Pre-revenue company with 900 MHz spectrum license covering 90%+ of U.S. population. Binary outcome bet entirely dependent on FCC approval to monetize spectrum. Pinnacle service operational in 4,400 cities but tiny revenue. Critical catalyst: FCC Notice of Proposed Rulemaking (NPRM) could drop any day.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$887K (Q3, down 44.8% YoY)",
+    "operating_margin": "-19.92%",
+    "cash": "$167.6M",
+    "debt": "$190M convertible notes (5% due 2028)",
+    "runway": "12-18 months at current burn"
+  },
+  "bull_case": {
+    "target": "$28–32",
+    "drivers": [
+      "FCC NPRM drops with clear pathway for spectrum reconfiguration",
+      "Notice of Proposed Rulemaking validates regulatory approval",
+      "Commercial TerraPoiNT deployment begins",
+      "Government contracts for GPS backup system",
+      "Monopoly economics in critical 5G PNT infrastructure"
+    ]
+  },
+  "bear_case": {
+    "target": "$8–12",
+    "risks": [
+      "FCC denies or punts spectrum petition",
+      "Interagency delays from OMB or NTIA",
+      "Incumbent 900 MHz opposition blocks reconfiguration",
+      "Cash burn forces dilutive financing before approval",
+      "Qualcomm or Trimble develop competing solutions"
+    ]
+  },
+  "base_case": {
+    "target": "$22–24",
+    "assumptions": "NPRM released with moderate pathway; 30-90 day comment period; Final approval 6-12 months after NPRM; Commercial deployment 2027; Revenue begins flowing 2027-2028."
+  },
+  "catalysts": [
+    {"date": "Any day", "event": "FCC NPRM Release — Binary catalyst (+20-40% or -40-60%)"},
+    {"date": "2026", "event": "Public Comment Period — Industry feedback on NPRM"},
+    {"date": "2026-2027", "event": "Report and Order — Final FCC approval"},
+    {"date": "Ongoing", "event": "Government Contract Awards — Validation and revenue"}
+  ],
+  "key_risks": [
+    "Regulatory binary outcome — entirely dependent on FCC approval",
+    "Pre-revenue with minimal $887K quarterly revenue",
+    "Cash burn with 12-18 month runway; may need more capital",
+    "High 20%+ portfolio concentration dangerous for this risk profile",
+    "Estimated RSI 70-75 (overbought) after +24% rally"
+  ]
+}

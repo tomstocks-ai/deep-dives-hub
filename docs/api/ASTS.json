@@ -1,0 +1,61 @@
+{
+  "ticker": "ASTS",
+  "company": "AST SpaceMobile",
+  "sector": "Space",
+  "industry": "Satellite Communications / Direct-to-Cell",
+  "exchange": "NASDAQ",
+  "price": 82.87,
+  "market_cap": "$31.7B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-02",
+  "thesis": "Pioneering the world's first space-based cellular broadband network enabling standard smartphones to connect directly to satellites without specialized hardware. First-mover advantage in direct-to-cell technology with 5 BlueBird satellites operational. Partnerships with AT&T, Verizon, Vodafone, and 50+ global carriers represent nearly 3 billion potential subscribers. $70.9M revenue in 2025 (up 1,505%) proves technology works, but extreme 447x P/S valuation prices in massive execution success. Heavy competition from SpaceX Starlink is the primary threat.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$70.9M",
+    "revenue_growth": "+1,505% YoY",
+    "gross_margin": "50.3%",
+    "operating_loss": "-$342M",
+    "net_loss": "-$342M",
+    "eps_diluted": "-$1.34",
+    "cash": "$2.34B",
+    "total_debt": "$2.2B",
+    "fcf": "-$1.24B (negative)"
+  },
+  "bull_case": {
+    "target": "$180–220",
+    "drivers": [
+      "45-60 satellites achieve continuous U.S. coverage by end of 2026",
+      "Verizon and AT&T commercial launches drive 5%+ rural adoption",
+      "International partnerships (Vodafone, Rakuten, stc) generate material revenue",
+      "Government contracts scale to $200M+ annually with high margins",
+      "SpaceX competition less severe than feared; carriers prefer ASTS neutral model"
+    ]
+  },
+  "bear_case": {
+    "target": "$25–35",
+    "risks": [
+      "SpaceX Starlink with T-Mobile captures 70%+ market share",
+      "AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions",
+      "Satellite launches face delays or technical issues",
+      "Revenue growth stalls below $200M annually; cash burn forces dilutive financing",
+      "Market loses patience with 'story stocks'; multiple compression to 50x sales"
+    ]
+  },
+  "base_case": {
+    "target": "$70–95",
+    "assumptions": "Successful satellite deployment with mixed adoption; SpaceX competition real but ASTS maintains 30-40% market share; Revenue grows to $400-600M by 2027; EBITDA breakeven by 2028-2029."
+  },
+  "catalysts": [
+    {"date": "Ongoing", "event": "BlueBird Satellite Launches — Monthly through 2026"},
+    {"date": "H2 2026", "event": "Verizon Service Launch — Major carrier going live"},
+    {"date": "2026-2027", "event": "Constellation Completion (45-60 satellites) — Continuous coverage milestone"},
+    {"date": "Ongoing", "event": "Government Contract Wins — Higher-margin revenue validation"}
+  ],
+  "key_risks": [
+    "SpaceX competition with deeper pockets and lower launch costs",
+    "Burning $1.2B+ annually with 2-year runway requiring future capital raises",
+    "Extreme 447x P/S valuation vulnerable to any execution miss",
+    "Customer concentration with AT&T and Verizon as key partners",
+    "Technology execution risk — satellites are complex with launch/manufacturing risks"
+  ]
+}

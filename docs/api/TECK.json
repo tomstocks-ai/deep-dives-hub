@@ -1,0 +1,61 @@
+{
+  "ticker": "TECK",
+  "company": "Teck Resources Limited",
+  "sector": "Materials",
+  "industry": "Diversified Mining (Copper/Zinc)",
+  "exchange": "NYSE",
+  "price": 48.54,
+  "market_cap": "$24.3B",
+  "rating": "BUY",
+  "last_updated": "2026-04-03",
+  "thesis": "Pure-play 'green metals' champion following strategic divestiture of steelmaking coal business to Glencore for $7.3B. Now focused on copper and zinc with best-in-class growth pipeline. Pending 'merger of equals' with Anglo American (expected mid-2026) will create Anglo Teck — top-five global copper producer with >70% copper exposure and $800M annual synergies. QB2 copper project in Chile is flagship growth asset. $5B net cash position provides fortress balance sheet.",
+  "financials": {
+    "fiscal_year": "FY2024",
+    "revenue": "$9.1B (post-coal sale)",
+    "ebitda": "$10.0B (2024, +14% YoY)",
+    "net_income": "$2.2B",
+    "eps_diluted": "$1.21",
+    "operating_cash_flow": "$6.8B",
+    "free_cash_flow": "$3.2B",
+    "cash": "$5.01B (net cash)",
+    "debt": "~$6.5B (manageable)",
+    "copper_production": "1.04B lbs (Q4 2024)"
+  },
+  "bull_case": {
+    "target": "$68",
+    "drivers": [
+      "Copper averages $5.50/lb 2025-2027 on structural deficit",
+      "QB2 achieves 1.6B lbs peak production by 2026-2027",
+      "Anglo American merger closes on schedule with $800M synergies",
+      "Anglo Teck becomes top-5 global copper producer with >70% copper exposure",
+      "Copper supercycle narrative gains traction"
+    ]
+  },
+  "bear_case": {
+    "target": "$38",
+    "risks": [
+      "Copper falls to $3.50/lb on global recession",
+      "QB2 TMF (Tailings Management Facility) issues persist",
+      "Anglo American merger faces delays or fails",
+      "China demand slows more than expected",
+      "Chile royalty increases hurt margins"
+    ]
+  },
+  "base_case": {
+    "target": "$55",
+    "assumptions": "Copper averages $4.25/lb; QB2 reaches 240kt by 2027; Anglo merger closes with normal execution; Synergies achieved as guided; Moderate copper market tightness."
+  },
+  "catalysts": [
+    {"date": "2026-04-23", "event": "Q4 2025 Earnings — Operational update"},
+    {"date": "Q2 2026", "event": "Anglo Merger Regulatory Approvals — Key milestone"},
+    {"date": "Mid-2026", "event": "Anglo Teck Merger Close — Transformational event"},
+    {"date": "Ongoing", "event": "QB2 Production Ramp — 280kt+ target by 2028"}
+  ],
+  "key_risks": [
+    "QB2 TMF (Tailings Management Facility) sand drainage challenges delaying ramp-up",
+    "Anglo American merger execution and regulatory approval risk",
+    "Copper price volatility — high correlation to China demand",
+    "Chile political risk — royalty increases, regulatory changes",
+    "Merger integration complexity with Anglo American"
+  ]
+}
