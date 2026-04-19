@@ -1,0 +1,62 @@
+{
+  "ticker": "PL",
+  "company": "Planet Labs PBC",
+  "sector": "Space",
+  "industry": "Earth Observation / Satellite Imagery",
+  "exchange": "NYSE",
+  "price": 35.88,
+  "market_cap": "$12.42B",
+  "rating": "HOLD",
+  "last_updated": "2026-04-03",
+  "thesis": "Leading provider of daily satellite imagery and geospatial data, operating the largest commercial Earth observation constellation with ~200 satellites. FY2026 revenue of $307.7M (+26% YoY) with first year of positive free cash flow ($57.7M). $900M backlog (+79% YoY) provides strong visibility. However, stock trades at extreme 40x P/S valuation after 900%+ run-up, leaving limited margin of safety. Market leader position but priced for near-flawless execution.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$307.7M",
+    "revenue_growth": "+25.9% YoY",
+    "gross_margin": "56.2%",
+    "operating_loss": "-$95.1M",
+    "net_loss": "-$246.9M",
+    "adjusted_ebitda": "$15.5M (turned positive)",
+    "cash": "$640.1M",
+    "debt": "$462.5M (convertible notes)",
+    "fcf": "$57.7M (first year positive)",
+    "backlog": "$900M (+79% YoY)"
+  },
+  "bull_case": {
+    "target": "$45–50",
+    "drivers": [
+      "Revenue grows at 50% CAGR through 2030",
+      "Gross margins expand to 65%+",
+      "Operating leverage drives 30%+ operating margins",
+      "Government contracts accelerate internationally",
+      "Platform adoption drives recurring revenue to 85%+"
+    ]
+  },
+  "bear_case": {
+    "target": "$15–20",
+    "risks": [
+      "Revenue growth slows to 20% CAGR",
+      "Gross margins compressed by competition",
+      "Government contract delays or cancellations",
+      "Operating expenses grow faster than revenue",
+      "Space sector sentiment shifts negative"
+    ]
+  },
+  "base_case": {
+    "target": "$28–32",
+    "assumptions": "Revenue grows at 35% CAGR through 2030; Gross margins stabilize at 58-60%; Operating margins reach 20% by 2030; Market share remains strong but faces competition; Free cash flow generation continues."
+  },
+  "catalysts": [
+    {"date": "2026-06-03", "event": "Q1 FY2027 Earnings — Guidance validation"},
+    {"date": "Q2 2026", "event": "New Contract Announcements — Government and commercial"},
+    {"date": "Ongoing", "event": "SpaceX IPO Developments — Sector effect"},
+    {"date": "Q3 2026", "event": "Pelican Satellite Launches — High-resolution constellation"}
+  ],
+  "key_risks": [
+    "Extreme valuation at 40x P/S prices in perfection",
+    "900%+ run-up in past year creates significant downside risk",
+    "Short interest at 12.3% of float creates volatility",
+    "Customer concentration in government contracts",
+    "Competition from Maxar, BlackSky, and new entrants"
+  ]
+}

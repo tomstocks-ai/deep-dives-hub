@@ -1,0 +1,59 @@
+{
+  "ticker": "OKLO",
+  "company": "Oklo Inc.",
+  "sector": "Energy",
+  "industry": "Advanced Nuclear / Fast Reactor",
+  "exchange": "NYSE",
+  "price": 58.58,
+  "market_cap": "$10.17B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-15",
+  "thesis": "Building small, advanced nuclear power plants (Aurora Powerhouses) — compact 15-75 MW factory-built reactors. 'Build, Own, Operate' model with long-term PPAs. Liquid metal-cooled fast reactor technology based on proven EBR-II heritage. $1.23B cash provides 30+ years runway — eliminates near-term dilution risk. Meta partnership (1.2 GW Ohio campus) validates commercial demand. First commercial operation targeted late 2027/early 2028.",
+  "financials": {
+    "fiscal_year": "Pre-revenue",
+    "revenue": "$0",
+    "net_loss": "-$105.7M (TTM)",
+    "eps_diluted": "-$0.72",
+    "cash": "$1.23B",
+    "total_debt": "$1.45M (essentially debt-free)",
+    "cash_burn": "$35-40M/year",
+    "runway": "30+ years (unprecedented for pre-revenue)"
+  },
+  "bull_case": {
+    "target": "$150–200",
+    "drivers": [
+      "NRC approves Aurora Powerhouse design without major delays",
+      "Aurora-INL comes online in 2027-2028 as scheduled",
+      "Meta Ohio campus proceeds on timeline (Phase 1 by 2030)",
+      "LOI-to-PPA conversion rate exceeds 50%",
+      "SpaceX IPO at $200B+ valuation validates space/energy plays"
+    ]
+  },
+  "bear_case": {
+    "target": "$30–40",
+    "risks": [
+      "NRC delays push first deployment to 2029-2030",
+      "Technology issues emerge during commissioning",
+      "Competitors (TerraPower, NuScale) capture market share",
+      "HALEU fuel supply constraints limit deployment speed",
+      "Multiple year delays erode investor confidence"
+    ]
+  },
+  "base_case": {
+    "target": "$90–100",
+    "assumptions": "Aurora-INL online by 2028 (6-12 month delay from target); Meta Phase 1 by 2031; 3-5 reactors operational by 2030; Revenue of $200-300M by 2030; Stock trades based on execution with partial success."
+  },
+  "catalysts": [
+    {"date": "2025", "event": "NRC Combined License Application Filing — Critical regulatory step"},
+    {"date": "2026-07", "event": "DOE Authorization for Aurora-INL — Potential accelerated operation"},
+    {"date": "2026-2027", "event": "LOI-to-PPA Conversions — Revenue visibility"},
+    {"date": "Late 2027/Early 2028", "event": "First Commercial Operation — Major derisking event"}
+  ],
+  "key_risks": [
+    "Regulatory risk — NRC denied first license application in 2022; new design requires fresh review",
+    "First-of-a-kind technology execution risk at commercial scale",
+    "HALEU fuel supply scarcity (Russia was dominant supplier, now banned)",
+    "2-3 years until first revenue is a long time for impatient investors",
+    "High short interest and post-SPAC warrant overhang"
+  ]
+}

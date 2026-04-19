@@ -1,0 +1,59 @@
+{
+  "ticker": "SATS",
+  "company": "EchoStar Corporation",
+  "sector": "Technology",
+  "industry": "Satellite Communications / Telecom",
+  "exchange": "NASDAQ",
+  "price": 128.68,
+  "market_cap": "$37.2B",
+  "rating": "ACCUMULATE",
+  "last_updated": "2026-04-04",
+  "thesis": "Undergoing dramatic transformation from distressed wireless carrier to spectrum monetization entity. $42.6B in strategic asset sales to AT&T ($22.65B) and SpaceX (~$20B) resolves 2026 debt maturity wall. Retains ~2% SpaceX equity stake worth ~$11B. EchoStar Capital division formed to manage space economy M&A. Pay-TV (DISH TV + Sling: 7M subscribers) generates $2.69B Adjusted OIBDA but declining. Boost Mobile transitioning to 'hybrid MNO' on AT&T network.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$15.0B",
+    "revenue_growth": "-5.2% YoY",
+    "adjusted_oibda": "$1.49B",
+    "net_loss": "-$14.5B (includes $17.6B non-cash impairments)",
+    "normalized_net_loss": "-$1.05B (ex-impairments)",
+    "debt": "~$26B (pre-deal); ~$5-8B (post-deal est.)",
+    "spacex_stake_value": "~$11B (~2% of SpaceX)"
+  },
+  "bull_case": {
+    "target": "$180–220",
+    "drivers": [
+      "SpaceX IPO at $200B+ valuation (2x current) — stake worth $20B+",
+      "Successful Boost Mobile turnaround on AT&T network",
+      "Spectrum monetization exceeds expectations",
+      "Deleveraging complete — debt-free spectrum holding company",
+      "Multiple expansion to 3-4x EBITDA on clean balance sheet"
+    ]
+  },
+  "bear_case": {
+    "target": "$60–80",
+    "risks": [
+      "FCC or DOJ blocks major transaction (low probability, high impact)",
+      "Pay-TV decline accelerates faster than expected",
+      "Boost Mobile continues bleeding subscribers",
+      "Creditor litigation delays/dilutes recovery",
+      "Forced asset sales at unfavorable prices"
+    ]
+  },
+  "base_case": {
+    "target": "$125–145",
+    "assumptions": "Deals close as planned by mid-2026; Debt reduced to $5-8B; Pay-TV decline moderates; Boost stabilizes on AT&T network; SpaceX stake maintains current $11B value; Modest dividend potential by 2027-2028."
+  },
+  "catalysts": [
+    {"date": "Mid-2026", "event": "AT&T Deal FCC Approval — Critical regulatory milestone"},
+    {"date": "Mid-2026", "event": "SpaceX Deal Close — $11B+ equity stake formalized"},
+    {"date": "2026-2027", "event": "SpaceX/Starlink IPO — Potentially very bullish"},
+    {"date": "Ongoing", "event": "Debt Paydown Announcements — Deleveraging confirmation"}
+  ],
+  "key_risks": [
+    "Regulatory approval risk for $42.6B spectrum deals",
+    "Infrastructure creditor protests from American Tower, Crown Castle",
+    "Pay-TV acceleration — DISH TV lost 168K subs in Q4 2025",
+    "Starlink competition crushing HughesNet (97% of speed tests)",
+    "Complex 'sum-of-parts' valuation dependent on SpaceX IPO timing"
+  ]
+}

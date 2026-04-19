@@ -1,0 +1,61 @@
+{
+  "ticker": "EOSE",
+  "company": "Eos Energy Enterprises",
+  "sector": "Energy",
+  "industry": "Battery Energy Storage Systems (BESS)",
+  "exchange": "NASDAQ",
+  "price": 4.86,
+  "market_cap": "$1.69B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-05",
+  "thesis": "U.S.-based manufacturer of zinc-bromine battery energy storage systems for utility-scale applications. Non-flammable aqueous chemistry offers safety advantages over lithium-ion. $305.3M DOE loan guarantee provides critical funding support. Revenue grew 632% in 2025 to $114.2M with $701.5M backlog (2.8 GWh), but gross margins remain deeply negative (-126%) during manufacturing scale-up. Path to profitability depends on achieving positive gross margins by Q4 2026.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$114.2M",
+    "revenue_growth": "+632% YoY",
+    "gross_margin": "-125.9% (negative)",
+    "operating_loss": "-$259.3M",
+    "net_loss": "-$969.6M",
+    "adjusted_ebitda": "-$219.1M",
+    "cash": "$624.6M (including restricted)",
+    "total_debt": "$1.76B (convertible notes)",
+    "book_value": "Negative ($2.24B deficit)"
+  },
+  "bull_case": {
+    "target": "$18.00",
+    "drivers": [
+      "Achieves 2026 revenue guidance high end ($400M)",
+      "Gross margins turn positive by Q4 2026",
+      "DOE loan funds full manufacturing expansion to 8 GWh",
+      "Zinc-bromine chemistry gains acceptance vs lithium-ion",
+      "IRA manufacturing credits provide meaningful cash contribution"
+    ]
+  },
+  "bear_case": {
+    "target": "$3.50",
+    "risks": [
+      "Manufacturing quality issues delay shipments",
+      "Lithium-ion prices drop faster than expected, eroding cost advantage",
+      "Cash burn exceeds expectations; dilutive raise required",
+      "Customer project delays push revenue to 2027",
+      "Technical issues with Z3 or Indensity products"
+    ]
+  },
+  "base_case": {
+    "target": "$9.50",
+    "assumptions": "Revenue reaches $350M in 2026 (middle of guidance); Gross margins improve but stay negative through mid-2027; Successful DOE loan draw but slower ramp than planned; Market assigns 3x EV/Sales on 2029E revenue of $900M."
+  },
+  "catalysts": [
+    {"date": "2026-05-12", "event": "Q1 2026 Earnings — First 2026 data point"},
+    {"date": "Q2 2026", "event": "Manufacturing Update — Capacity progress"},
+    {"date": "2026-08", "event": "Q2 Earnings — Margin inflection watch"},
+    {"date": "Q3 2026", "event": "DOE Loan Milestones — Critical funding trigger"}
+  ],
+  "key_risks": [
+    "Negative gross margins — losing $1.26 for every $1 of sales",
+    "High cash burn rate (~$70M/quarter)",
+    "Heavy $1.76B debt load with convertible note dilution risk",
+    "Customer concentration in utility-scale projects",
+    "Competition from established lithium-ion players (Tesla, Fluence, CATL)"
+  ]
+}

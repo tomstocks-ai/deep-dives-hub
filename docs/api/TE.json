@@ -1,0 +1,60 @@
+{
+  "ticker": "TE",
+  "company": "T1 Energy Inc.",
+  "sector": "Energy",
+  "industry": "Solar Manufacturing / Renewable Energy",
+  "exchange": "NYSE",
+  "price": 7.60,
+  "market_cap": "$1.3-2.0B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-03-16",
+  "thesis": "Pure-play U.S. solar domestic manufacturer building America's first fully integrated silicon solar supply chain. G1_Dallas facility operational (5 GW capacity), G2_Austin under construction ($400-425M investment, 2.1 GW cells). Section 45X manufacturing credits ($93M accrued) provide critical subsidy support. Recently turned EBITDA positive with improving margins. High leverage (269% D/E) and $34M restricted cash create balance sheet risk requiring additional financing.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$396.7M (9 months)",
+    "revenue_growth": "Variable (contract timing)",
+    "adjusted_ebitda_guidance": "$25M-$50M (FY2025)",
+    "gross_margin": "Improving with scale",
+    "cash": "$34.1M unrestricted + $52.6M restricted",
+    "total_debt": "~$702M",
+    "debt_to_equity": "269% (high risk)",
+    "q3_2025_revenue": "$210.5M"
+  },
+  "bull_case": {
+    "target": "$15–20",
+    "drivers": [
+      "Toliara FID approved (early 2026); Madagascar project adds REE/HMS diversification",
+      "Section 45X credits monetized ($93M+)",
+      "G2_Austin comes online Q4 2026, creating fully integrated supply chain",
+      "Trump administration supports domestic manufacturing",
+      "First Solar valuation comparison drives multiple expansion"
+    ]
+  },
+  "bear_case": {
+    "target": "$4–6",
+    "risks": [
+      "Balance sheet stress forces highly dilutive financing",
+      "Policy changes eliminate 45X benefits",
+      "G2 construction halted or delayed",
+      "Chinese oversupply crashes solar prices",
+      "G1_Dallas fails to achieve 4.5 GW run rate"
+    ]
+  },
+  "base_case": {
+    "target": "$10–14",
+    "assumptions": "Toliara FID delayed but proceeds; 45X credits partially monetized; G2 operational by Q4 2026; Revenue reaches $600M+ by 2027; EBITDA breakeven achieved; One additional equity raise required."
+  },
+  "catalysts": [
+    {"date": "Q1-Q2 2026", "event": "$30M Strategic Program Execution — Development acceleration"},
+    {"date": "Early 2026", "event": "Toliara Project FID — Major project sanctioning"},
+    {"date": "Late 2025", "event": "Donald Project FID — JV with Astron (Australia)"},
+    {"date": "Q4 2026", "event": "G2_Austin Production Start — Fully integrated supply chain"}
+  ],
+  "key_risks": [
+    "Critical balance sheet risk — 269% D/E, only $34M unrestricted cash",
+    "$400-425M G2_Austin capex requires additional financing",
+    "Policy dependency on 45X tax credits and domestic content requirements",
+    "Variable revenue due to utility contract timing",
+    "Intense competition from First Solar (profitable, $15B+ market cap)"
+  ]
+}

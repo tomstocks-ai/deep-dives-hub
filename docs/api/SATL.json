@@ -1,0 +1,60 @@
+{
+  "ticker": "SATL",
+  "company": "Satellogic",
+  "sector": "Space",
+  "industry": "Earth Observation / Satellite Services",
+  "exchange": "NASDAQ",
+  "price": 3.00,
+  "market_cap": "$444M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-02",
+  "thesis": "Vertically integrated Earth observation company designing, manufacturing, launching, and operating its own satellites. 20+ satellites in orbit with AI-first constellation (Merlin) launching October 2026. FY2025 revenue $17.7M (+38% YoY) with exceptional 72% gross margins. $130M cash runway post-January 2026 raise. Unique sovereign partnership model selling satellites + technology transfer to nations (Portugal, Malaysia, Albania, Australia). Merlin constellation is make-or-break catalyst.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$17.7M",
+    "revenue_growth": "+37.6% YoY",
+    "gross_margin": "72% (exceptional for hardware)",
+    "operating_loss": "-$31.0M",
+    "net_loss": "-$4.8M (improved from -$116.3M)",
+    "adjusted_ebitda_loss": "-$17.4M",
+    "cash": "~$130M (post-Jan 2026 raise)",
+    "runway": "~4-5 years"
+  },
+  "bull_case": {
+    "target": "$8–10",
+    "drivers": [
+      "Merlin constellation launch successful (Oct 2026)",
+      "AI-first, 1-meter daily remapping drives defense customer adoption",
+      "Sovereign program replication — 3-5 similar deals annually",
+      "Break-even profitability by 2027-2028",
+      "Acquisition by Maxar, Planet, or defense prime at $800M-$1.2B"
+    ]
+  },
+  "bear_case": {
+    "target": "$1.00–1.50",
+    "risks": [
+      "Customer concentration blow-up (top 2 = 50%+ revenue)",
+      "Merlin launch failure or technical delays",
+      "Competitive pressure from Planet Labs and Maxar",
+      "Cash burn forces additional dilutive financing",
+      "Defense customer non-renewal"
+    ]
+  },
+  "base_case": {
+    "target": "$5.00",
+    "assumptions": "Merlin launches successfully late 2026; 2-3 additional sovereign deals signed; Revenue grows to $35-40M by 2027; EBITDA losses narrow to $5-10M; Operational break-even by 2028."
+  },
+  "catalysts": [
+    {"date": "Q2 2026", "event": "CEiiA Satellite Delivery — $18M Portugal contract validation"},
+    {"date": "2026-10", "event": "Merlin Launch — Make-or-break moment for AI-first constellation"},
+    {"date": "May 2026", "event": "Q1 2026 Earnings — Revenue trajectory update"},
+    {"date": "Ongoing", "event": "New Sovereign Partnerships — Malaysia, Albania expansions"}
+  ],
+  "key_risks": [
+    "Customer concentration — top 2 customers ~60% of backlog",
+    "Binary Merlin launch catalyst (Oct 2026) — failure could destroy credibility",
+    "Small-cap with limited liquidity and ~25% dilution potential",
+    "Competition from Planet Labs' 200+ satellite constellation",
+    "Pre-revenue scale with high execution risk"
+  ]
+}
