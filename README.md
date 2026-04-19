@@ -56,4 +56,4 @@ zensical serve
 
 ## Agents
 
-Please use the BOT PROMPT in `https://github.com/tomstocks-ai/deep-dives-hub/blob/main/docs/.templates/BOT-PROMPT.md`
+Please use the BOT PROMPT in https://github.com/tomstocks-ai/deep-dives-hub/blob/main/docs/.templates/BOT-PROMPT.md
