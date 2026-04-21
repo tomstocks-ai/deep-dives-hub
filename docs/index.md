@@ -33,7 +33,7 @@ Each ticker gets a concise summary on its sector page and a full deep-dive page.
 | **UUUU** | Energy Fuels | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $21.51 | 2026-04-03 | [:material-file-document: Read](deep-dives/UUUU.md) |
 | **FCX** | Freeport-McMoRan | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $70.18 | 2026-04-03 | [:material-file-document: Read](deep-dives/FCX.md) |
 | **TECK** | Teck Resources | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $59.13 | 2026-04-03 | [:material-file-document: Read](deep-dives/TECK.md) |
-| **CRML** | Critical Metals | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-03-24 | [:material-file-document: Read](deep-dives/CRML.md) |
+| **CRML** | Critical Metals | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-04-21 | [:material-file-document: Read](deep-dives/CRML.md) |
 | **CRCL** | Circle Internet Group | <span class="badge badge-fintech">Fintech</span> | <span class="rating-buy">BUY</span> | $106.36 | 2026-04-09 | [:material-file-document: Read](deep-dives/CRCL.md) |
 
 ---

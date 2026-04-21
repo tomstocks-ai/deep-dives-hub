@@ -10,7 +10,7 @@ title: Materials
 |--------|---------|--------|-------|--------------|---------|
 | **FCX** | Freeport-McMoRan | <span class="rating-buy">BUY</span> | $70.18 | 2026-04-03 | [:material-file-document: Read](FCX.md) |
 | **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | $59.13 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
-| **CRML** | Critical Metals | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-03-24 | [:material-file-document: Read](CRML.md) |
+| **CRML** | Critical Metals | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-04-21 | [:material-file-document: Read](CRML.md) |
 
 ---
 
@@ -38,8 +38,8 @@ Transformed to pure-play "green metals" champion focused on copper and zinc afte
 
 ### CRML — Critical Metals · <span class="rating-spec-buy">SPEC. BUY</span> · $11.94
 
-Developing Tanbreez Project in Greenland — one of world's largest rare earth deposits with 4.7 billion-tonne resource. 27% Heavy Rare Earth Elements (HREE) content is critical differentiator (vs. ~10% industry standard). Saudi Arabia JV ($1.5B processing facility) + Romania JV create strategic partnerships. $30M strategic program announced March 2026. Project Vault ($12B U.S. critical mineral stockpile) provides tailwind. High short interest (23.8%) creates squeeze potential. Pre-revenue; production 2028 target.
+Pre-revenue rare earth mining company developing Tanbreez Project in Greenland — one of world's largest rare earth deposits with 4.7 billion-tonne resource. **92.5% ownership** (recently increased from 42%) after Greenland cleared transfer of additional 50.5% stake. 27% Heavy Rare Earth Elements (HREE) content is critical differentiator (vs. ~10% industry standard). Saudi Arabia JV ($1.5B processing facility) + Romania JV create strategic partnerships. $30M strategic program announced March 2026. Project Vault ($12B U.S. critical mineral stockpile) provides tailwind. High short interest creates squeeze potential. Pre-revenue; production 2028 target. Stock +72% YTD, +380% over past year.
 
-**Bull:** $25 · **Base:** $15 · **Bear:** $3.50
+**Bull:** $28 · **Base:** $18 · **Bear:** $5
 
 [:material-arrow-right: Full Deep Dive](CRML.md)
