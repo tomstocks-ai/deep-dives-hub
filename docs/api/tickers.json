@@ -27,13 +27,13 @@
     },
     {
       "ticker": "CRCL",
-      "company": "Circle Internet Group",
+      "company": "Circle Internet Group, Inc.",
       "sector": "Fintech",
       "industry": "Stablecoin / Digital Payments",
-      "rating": "BUY",
-      "price": 94.44,
-      "market_cap": "$23B",
-      "last_updated": "2026-04-09",
+      "rating": "SPECULATIVE BUY",
+      "price": 106.36,
+      "market_cap": "$26.3B",
+      "last_updated": "2026-04-21",
       "deep_dive_url": "/deep-dives/CRCL/",
       "api_url": "/api/CRCL.json"
     },
