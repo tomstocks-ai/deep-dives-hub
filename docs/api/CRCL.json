@@ -1,72 +1,62 @@
 {
   "ticker": "CRCL",
-  "company": "Circle Internet Group",
+  "company": "Circle Internet Group, Inc.",
   "sector": "Fintech",
   "industry": "Stablecoin / Digital Payments",
   "exchange": "NYSE",
-  "price": 94.44,
-  "market_cap": "$23B",
-  "rating": "BUY",
-  "last_updated": "2026-04-09",
-  "thesis": "Issuer of USDC, the second-largest stablecoin (~$75B market cap, 25% share). Revenue of $2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. IPO'd June 2025 at $31, peaked ~$299. Revenue directly tied to interest rates and USDC supply growth. GENIUS Act passage is a major catalyst. Coinbase revenue-sharing (50% of non-Coinbase USDC interest) is the biggest structural drag on margins.",
+  "price": 106.36,
+  "market_cap": "$26.3B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-04-21",
+  "thesis": "Circle is the leading regulated stablecoin issuer (USDC, ~$75B circulation) with 64% revenue growth in FY2025. Revenue is interest-rate sensitive (~95% from reserve income), but the GENIUS Act creates a powerful regulatory moat. The Coinbase revenue-share agreement and extreme valuation premium (9.5x P/S) create binary risk/reward. SPEC. BUY for investors comfortable with crypto-sector volatility and Fed-policy sensitivity.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$2.75B",
-    "revenue_growth": "+63.9%",
+    "revenue_growth": "+64%",
     "gross_margin": "39.4%",
-    "operating_income": "-$96M (IPO-related costs)",
-    "net_income": "-$139M (one-time items)",
-    "fcf": "$530M",
-    "fcf_margin": "19.3%",
-    "usdc_supply": "~$75B",
-    "usdc_growth": "+78% YoY"
-  },
-  "revenue_composition": {
-    "reserve_income_usdc": "~95.5%",
-    "other_revenue": "~4.5%"
-  },
-  "coinbase_revenue_share": {
-    "coinbase_held_usdc": "100% of interest to Coinbase",
-    "non_coinbase_usdc": "50% of interest to Coinbase",
-    "coinbase_share_of_supply": "22% (Q1 2025)",
-    "coinbase_revenue_captured": "~56% of total reserve revenue (2024)"
+    "net_income": "-$70M (GAAP, impacted by $424M SBC)",
+    "eps_diluted": "-$0.44",
+    "cash": "$1.53B",
+    "fcf": "-$91M (Levered FCF TTM)",
+    "adjusted_ebitda": "$582M",
+    "usdc_supply": "$75.3B"
   },
   "bull_case": {
-    "target": "$150–200",
+    "target": "$160–200",
     "drivers": [
       "USDC supply reaches $150B+ by 2028",
-      "GENIUS Act creates favorable regulatory moat",
-      "Stablecoin TAM reaches $1T+",
-      "New revenue streams (Circle Payments Network, CCTP fees)",
-      "Interest rates remain above 3%"
+      "Fed funds rate stabilizes at 3.5–4.5% keeping reserve income elevated",
+      "GENIUS Act implementation creates regulated duopoly with Tether",
+      "Arc mainnet launch generates new gas-fee revenue",
+      "CPN reaches $50B+ TPV diversifying beyond reserve income"
     ]
   },
   "bear_case": {
-    "target": "$50–65",
+    "target": "$60–85",
     "risks": [
-      "Interest rates fall below 2% — revenue collapses",
-      "Bank-issued stablecoins capture market share",
-      "Coinbase renegotiates revenue share unfavorably",
-      "USDC loses share to Tether or Ethena",
-      "Regulatory reversal or unfavorable stablecoin legislation"
+      "Interest rates fall below 2% crushing reserve income",
+      "Bank-issued stablecoins capture 30%+ market share",
+      "Coinbase renegotiates revenue share or launches competitor",
+      "USDC loses share to Tether, Ethena, or alternatives",
+      "Regulatory reversal or restrictive GENIUS Act interpretation"
     ]
   },
   "base_case": {
-    "target": "$120–140",
-    "assumptions": "USDC supply grows to $100B+ by 2027; interest rates stabilize 3–4%; GENIUS Act implemented; Coinbase share stays manageable; new revenue streams contribute 5–10%."
+    "target": "$120–150",
+    "assumptions": "USDC supply grows to $100B+ by 2027; interest rates stabilize 2.5–3.5%; GENIUS Act implemented without major restrictions; Coinbase share stays manageable; other revenue grows to 8–12%; stock trades at 8–10x forward revenue as growth normalizes."
   },
   "catalysts": [
-    {"event": "GENIUS Act full implementation"},
-    {"event": "USDC supply crossing $100B milestone"},
-    {"event": "Circle Payments Network commercial launch"},
-    {"event": "MiCA compliance driving EU USDC adoption"},
-    {"event": "Quarterly earnings showing normalized profitability"}
+    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first normalized post-IPO quarter"},
+    {"date": "2026-06-30", "event": "GENIUS Act draft rules expected (FinCEN/FDIC/SEC)"},
+    {"date": "2026-12-31", "event": "Arc mainnet launch (targeted 2026)"},
+    {"date": "2026-07-30", "event": "Q2 2026 Earnings & potential FY2026 guidance"}
   ],
   "key_risks": [
-    "Interest rate sensitivity — revenue directly tied to Fed policy",
-    "Single-product concentration (95%+ from USDC reserves)",
-    "Coinbase revenue-sharing agreement eroding margins",
-    "Competition from Tether, bank-issued stablecoins, Ethena",
-    "Regulatory uncertainty despite GENIUS Act progress"
+    "Interest rate sensitivity — 95%+ of revenue is reserve income tied to Fed policy",
+    "Single-product concentration — USDC dominates revenue; a depeg or regulatory action would be catastrophic",
+    "Coinbase revenue-sharing agreement eroding margins (50% of non-Coinbase interest)",
+    "Competition from Tether (USDT), bank-issued stablecoins, and Ethena",
+    "Regulatory uncertainty despite GENIUS Act progress",
+    "Extreme valuation premium (9.5x P/S, 100x+ forward P/E) prices in significant growth"
   ]
 }
