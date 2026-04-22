@@ -15,6 +15,7 @@ title: Technology
 | **TSSI** | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | $14.64 | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
 | **VELO** | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | $11.69 | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | **SATS** | EchoStar | <span class="rating-buy">ACCUMULATE</span> | $135.11 | 2026-04-04 | [:material-file-document: Read](SATS.md) |
+| **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 
 ---
 
@@ -87,3 +88,13 @@ Dramatic transformation from distressed wireless carrier to spectrum monetizatio
 **Bull:** $180–220 · **Base:** $125–145 · **Bear:** $60–80
 
 [:material-arrow-right: Full Deep Dive](SATS.md)
+
+---
+
+### NBIS — Nebius Group · <span class="rating-spec-buy">SPEC. BUY</span> · $158.34
+
+AI infrastructure powerhouse that signed two of the largest compute contracts in history: $27B with Meta and $19.4B with Microsoft. Revenue grew 351% to $530M in FY2025 with improving margins and $2.45B cash. NVIDIA invested $2B and is supplying Vera Rubin/Blackwell GPUs. Goldman sees $3.0–$3.4B revenue in 2026. The stock is up 616% in a year and RSI sits at 84.86 (extremely overbought), creating near-term technical risk despite strong fundamentals.
+
+**Bull:** $250–280 · **Base:** $170–200 · **Bear:** $70–85
+
+[:material-arrow-right: Full Deep Dive](NBIS.md)

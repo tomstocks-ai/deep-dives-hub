@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19",
+  "last_updated": "2026-04-22",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -264,6 +264,18 @@
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/VELO/",
       "api_url": "/api/VELO.json"
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "sector": "Technology",
+      "industry": "AI Infrastructure / GPU Cloud",
+      "rating": "SPECULATIVE BUY",
+      "price": 158.34,
+      "market_cap": "$40.3B",
+      "last_updated": "2026-04-22",
+      "deep_dive_url": "/deep-dives/NBIS/",
+      "api_url": "/api/NBIS.json"
     }
   ]
 }
