@@ -1,0 +1,72 @@
+{
+  "ticker": "NBIS",
+  "company": "Nebius Group N.V.",
+  "sector": "Technology",
+  "industry": "AI Infrastructure / GPU Cloud",
+  "exchange": "NASDAQ",
+  "price": 158.34,
+  "market_cap": "$40.3B",
+  "rating": "HOLD / SPEC. BUY",
+  "last_updated": "2026-04-22",
+  "thesis": "AI infrastructure company building GPU-powered data centers. Up to $46B in contracted revenue from Meta ($27B) and Microsoft ($19.4B) over 5 years. FY2024 revenue $117.5M (+462% YoY); Q4 2025 revenue $228M (+547% YoY). ARR reached $1.2B at end 2025. NVIDIA invested $2B strategically. Extreme overbought conditions with RSI at 84.86 after +616% annual run. Customer concentration (Meta+MSFT = ~100% of contracted revenue) and execution risk are primary concerns.",
+  "financials": {
+    "fiscal_year": "FY2024",
+    "revenue": "$117.5M",
+    "revenue_growth": "+462% YoY",
+    "gross_margin": "68.63%",
+    "net_income": "-$396.9M",
+    "eps_diluted": "-$0.38",
+    "cash": "$2.45B",
+    "fcf": "Negative (investment phase)"
+  },
+  "bull_case": {
+    "target": "$250–$300",
+    "drivers": [
+      "Meta and Microsoft contracts ramp to $5B+ annual revenue by 2027",
+      "Additional hyperscaler deals signed",
+      "GPU deployment stays on schedule",
+      "Margins expand as utilization improves",
+      "Becomes top-3 AI infrastructure provider globally"
+    ]
+  },
+  "bear_case": {
+    "target": "$70–$100",
+    "risks": [
+      "GPU deployment delays push revenue recognition back",
+      "Meta or Microsoft reduce commitments",
+      "Geopolitical/sanctions issues resurface",
+      "Competition from CoreWeave or hyperscalers intensifies",
+      "Multiple compresses on execution miss"
+    ]
+  },
+  "base_case": {
+    "target": "$150–$180",
+    "assumptions": "Revenue reaches $3.0–3.5B by 2026. No major new contracts beyond Meta/MSFT. Margins improve but stay below hyperscaler levels. Multiple settles at ~15x sales."
+  },
+  "catalysts": [
+    {"date": "2026-Q1", "event": "Q1 2026 earnings — revenue acceleration validation"},
+    {"date": "2026", "event": "GPU deployment milestones (22,000 Blackwell GPUs)"},
+    {"date": "Ongoing", "event": "New customer announcements beyond Meta/MSFT"},
+    {"date": "Ongoing", "event": "Profitability timeline update"}
+  ],
+  "key_risks": [
+    "Customer concentration — Meta + Microsoft = ~100% of contracted revenue",
+    "Execution risk — building 22,000 GPU data centers is enormously complex",
+    "Valuation risk — trading at ~76x TTM sales with $40B+ market cap",
+    "GPU supply risk — dependent on NVIDIA for latest chips",
+    "Geopolitical risk — Russian origins create sanctions/headline risk",
+    "RSI at 84.86 — extremely overbought; pullback likely"
+  ],
+  "technical": {
+    "rsi_14": 84.86,
+    "rsi_status": "Extremely overbought",
+    "price": 158.34,
+    "support_1": 140,
+    "support_2": 120,
+    "resistance_1": 165,
+    "resistance_2": 168.71,
+    "ma_20": 150,
+    "ma_50": 130,
+    "ma_200": 65
+  }
+}
