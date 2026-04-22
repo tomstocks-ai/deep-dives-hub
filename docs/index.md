@@ -39,6 +39,6 @@ See the [API Reference](api-docs.md) for details.
 2. Add a Markdown deep dive at `docs/deep-dives/<TICKER>.md`
 3. Add the corresponding JSON at `docs/api/<TICKER>.json`
 4. Add the gist & table row to the sector page (`docs/deep-dives/<sector>.md`)
-5. Add the table row to `docs/index.md`
+5. Add the table row to `docs/table.md`
 6. Update `docs/api/tickers.json`
 7. Open a PR — the site redeploys automatically on merge to `master`

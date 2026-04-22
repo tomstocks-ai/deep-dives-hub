@@ -194,7 +194,7 @@ After generating all 4 artifacts, remind the user:
 
 1. ✅ Save Artifact 1 → `docs/deep-dives/{TICKER}.md`
 2. ✅ Save Artifact 4 → `docs/api/{TICKER}.json`
-3. ✅ Paste Artifact 2 table row → into `docs/index.md` Summary Table
+3. ✅ Paste Artifact 2 table row → into `docs/table.md` Summary Table
 4. ✅ Paste Artifact 3A table row → into `docs/deep-dives/{sector}.md` Summary Table
 5. ✅ Paste Artifact 3B gist → into `docs/deep-dives/{sector}.md` Gists section
 6. ✅ Add entry to `docs/api/tickers.json`
