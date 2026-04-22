@@ -5,68 +5,53 @@
   "industry": "AI Infrastructure / GPU Cloud",
   "exchange": "NASDAQ",
   "price": 158.34,
-  "market_cap": "$40.3B",
-  "rating": "HOLD / SPEC. BUY",
+  "market_cap": "$40.1B",
+  "rating": "SPECULATIVE BUY",
   "last_updated": "2026-04-22",
-  "thesis": "AI infrastructure company building GPU-powered data centers. Up to $46B in contracted revenue from Meta ($27B) and Microsoft ($19.4B) over 5 years. FY2024 revenue $117.5M (+462% YoY); Q4 2025 revenue $228M (+547% YoY). ARR reached $1.2B at end 2025. NVIDIA invested $2B strategically. Extreme overbought conditions with RSI at 84.86 after +616% annual run. Customer concentration (Meta+MSFT = ~100% of contracted revenue) and execution risk are primary concerns.",
+  "thesis": "Nebius is a transformational AI infrastructure play with two of the largest compute contracts in history (Meta $27B, Microsoft $19.4B). Revenue grew 351% in FY2025 to $530M with improving margins and $2.45B cash. However, the stock trades at 75x P/S, RSI is 85 (extremely overbought), and customer concentration risk is high. A SPEC. BUY for investors who can stomach extreme volatility and believe AI capex demand remains durable.",
   "financials": {
-    "fiscal_year": "FY2024",
-    "revenue": "$117.5M",
-    "revenue_growth": "+462% YoY",
-    "gross_margin": "68.63%",
-    "net_income": "-$396.9M",
-    "eps_diluted": "-$0.38",
+    "fiscal_year": "FY2025",
+    "revenue": "$529.8M",
+    "revenue_growth": "+351%",
+    "gross_margin": "68.6%",
+    "net_income": "$29.0M",
+    "eps_diluted": "$0.11",
     "cash": "$2.45B",
-    "fcf": "Negative (investment phase)"
+    "fcf": "N/A (capex-intensive)"
   },
   "bull_case": {
-    "target": "$250–$300",
+    "target": "$250–$280",
     "drivers": [
-      "Meta and Microsoft contracts ramp to $5B+ annual revenue by 2027",
-      "Additional hyperscaler deals signed",
-      "GPU deployment stays on schedule",
-      "Margins expand as utilization improves",
-      "Becomes top-3 AI infrastructure provider globally"
+      "Meta and Microsoft contracts execute on schedule with no delays",
+      "Additional hyperscaler deals signed in 2026–2027",
+      "Margin expansion to 40%+ as operating leverage kicks in",
+      "Vera Rubin and Blackwell deployments establish Nebius as tier-1 AI infrastructure provider"
     ]
   },
   "bear_case": {
-    "target": "$70–$100",
+    "target": "$70–$85",
     "risks": [
-      "GPU deployment delays push revenue recognition back",
-      "Meta or Microsoft reduce commitments",
-      "Geopolitical/sanctions issues resurface",
-      "Competition from CoreWeave or hyperscalers intensifies",
-      "Multiple compresses on execution miss"
+      "Deployment delays push revenue recognition into 2027–2028",
+      "GPU supply constraints or cost overruns compress margins",
+      "Meta or Microsoft slows AI capex, reducing contracted take rates",
+      "Multiple compression from 75x P/S to 15–20x as growth decelerates"
     ]
   },
   "base_case": {
-    "target": "$150–$180",
-    "assumptions": "Revenue reaches $3.0–3.5B by 2026. No major new contracts beyond Meta/MSFT. Margins improve but stay below hyperscaler levels. Multiple settles at ~15x sales."
+    "target": "$170–$200",
+    "assumptions": "Core contracts deliver on schedule with minor delays. 2026 revenue $2.5–$3.0B in line with Goldman estimates. AI Cloud platform attracts enough third-party customers to reduce concentration risk. Margins improve but remain below long-term targets due to ongoing capex intensity."
   },
   "catalysts": [
-    {"date": "2026-Q1", "event": "Q1 2026 earnings — revenue acceleration validation"},
-    {"date": "2026", "event": "GPU deployment milestones (22,000 Blackwell GPUs)"},
-    {"date": "Ongoing", "event": "New customer announcements beyond Meta/MSFT"},
-    {"date": "Ongoing", "event": "Profitability timeline update"}
+    {"date": "2026-05", "event": "Q1 2026 Earnings — first report post-Meta deal, ARR update"},
+    {"date": "2026-H2", "event": "Blackwell GPU deployment milestones — capacity expansion progress"},
+    {"date": "2027-Q1", "event": "Vera Rubin delivery to Meta — first revenue from largest contract"},
+    {"date": "TBD", "event": "Potential new hyperscaler customer announcements"}
   ],
   "key_risks": [
-    "Customer concentration — Meta + Microsoft = ~100% of contracted revenue",
-    "Execution risk — building 22,000 GPU data centers is enormously complex",
-    "Valuation risk — trading at ~76x TTM sales with $40B+ market cap",
-    "GPU supply risk — dependent on NVIDIA for latest chips",
-    "Geopolitical risk — Russian origins create sanctions/headline risk",
-    "RSI at 84.86 — extremely overbought; pullback likely"
-  ],
-  "technical": {
-    "rsi_14": 84.86,
-    "rsi_status": "Extremely overbought",
-    "price": 158.34,
-    "support_1": 140,
-    "support_2": 120,
-    "resistance_1": 165,
-    "resistance_2": 168.71,
-    "ma_20": 150,
-    "ma_50": 130,
-    "ma_200": 65
-  }
+    "Extreme customer concentration (Meta + Microsoft = majority of forward revenue)",
+    "Valuation risk at 75x P/S and 1,366x P/E — priced for perfection",
+    "Execution risk at scale — data center build-outs are technically complex and capital-intensive",
+    "NVIDIA supply chain dependency",
+    "Geopolitical headline risk from Yandex/Russian roots"
+  ]
 }

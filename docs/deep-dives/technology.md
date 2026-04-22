@@ -93,8 +93,8 @@ Dramatic transformation from distressed wireless carrier to spectrum monetizatio
 
 ### NBIS — Nebius Group · <span class="rating-spec-buy">SPEC. BUY</span> · $158.34
 
-AI infrastructure powerhouse that signed two of the largest compute contracts in history: $27B with Meta and $19.4B with Microsoft. FY2024 revenue $117.5M (+462% YoY); Q4 2025 revenue $228M (+547% YoY). ARR reached $1.2B at end 2025. NVIDIA invested $2B and is supplying Vera Rubin/Blackwell GPUs. Goldman sees $3.0–$3.4B revenue in 2026. The stock is up 616% in a year and RSI sits at 84.86 (extremely overbought), creating near-term technical risk despite strong fundamentals.
+AI infrastructure powerhouse that signed two of the largest compute contracts in history: $27B with Meta and $19.4B with Microsoft. Revenue grew 351% to $530M in FY2025 with improving margins and $2.45B cash. NVIDIA invested $2B and is supplying Vera Rubin/Blackwell GPUs. Goldman sees $3.0–$3.4B revenue in 2026. The stock is up 616% in a year and RSI sits at 84.86 (extremely overbought), creating near-term technical risk despite strong fundamentals.
 
-**Bull:** $250–300 · **Base:** $150–180 · **Bear:** $70–100
+**Bull:** $250–280 · **Base:** $170–200 · **Bear:** $70–85
 
 [:material-arrow-right: Full Deep Dive](NBIS.md)
