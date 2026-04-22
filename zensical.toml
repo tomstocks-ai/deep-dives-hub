@@ -6,9 +6,14 @@ site_description = "Collaborative stock deep-dive research — readable summarie
 site_author = "AAA Support"
 copyright = "&copy; 2026 AAA Support — Deep Dives Hub"
 docs_dir = "docs"
+extra_javascript = [
+    "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
+    "javascripts/tablesort.js"
+]
 
 nav = [
   { "Home" = "index.md" },
+  { "All" = "table.md" },
   { "Technology" = "deep-dives/technology.md" },
   { "Space" = "deep-dives/space.md" },
   { "Energy" = "deep-dives/energy.md" },
