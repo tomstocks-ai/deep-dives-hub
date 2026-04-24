@@ -2,6 +2,9 @@
 title: Technology
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Technology
 
 ## Summary Table
@@ -98,3 +101,13 @@ AI infrastructure powerhouse that signed two of the largest compute contracts in
 **Bull:** $250–280 · **Base:** $170–200 · **Bear:** $70–85
 
 [:material-arrow-right: Full Deep Dive](NBIS.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - TECHNOLOGY](https://finance.yahoo.com/quote/TECHNOLOGY)
+2. [SEC EDGAR - TECHNOLOGY Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TECHNOLOGY)
+3. [MarketBeat - TECHNOLOGY Analysis](https://www.marketbeat.com/stocks/NASDAQ/TECHNOLOGY)
+4. [TipRanks - TECHNOLOGY Stock](https://www.tipranks.com/stocks/technology)
+5. [Finviz - TECHNOLOGY](https://finviz.com/quote.ashx?t=TECHNOLOGY)

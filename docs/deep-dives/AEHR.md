@@ -1,3 +1,11 @@
+---
+title: "AEHR — Aehr Test Systems"
+hide:
+  - navigation
+---
+
+[← Back to Summary](../index.md)
+
 # AEHR (Aehr Test Systems) - Comprehensive Investment Deep Dive
 **Report Date:** April 6, 2026  
 **Ticker:** NASDAQ: AEHR  
@@ -514,6 +522,16 @@ AI chips (like those in ChatGPT data centers) run extremely hot and must be extr
 | Lake Street | Maxwell Michaelis |
 | Freedom Broker | Egor Tolmachev |
 | William Blair | (no target) |
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - AEHR](https://finance.yahoo.com/quote/AEHR)
+2. [SEC EDGAR - AEHR Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEHR)
+3. [MarketBeat - AEHR Analysis](https://www.marketbeat.com/stocks/NASDAQ/AEHR)
+4. [TipRanks - AEHR Stock](https://www.tipranks.com/stocks/aehr)
+5. [Finviz - AEHR](https://finviz.com/quote.ashx?t=AEHR)
 
 ---
 

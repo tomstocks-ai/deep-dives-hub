@@ -1,3 +1,12 @@
+---
+title: "SATS — EchoStar"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # EchoStar Corporation (SATS) - Investment-Grade Deep Dive Analysis
 
 **Report Date:** April 4, 2026  
@@ -597,3 +606,13 @@ This report is for informational purposes only and does not constitute investmen
 
 *Report Generated: April 4, 2026*  
 *Next Update: Following Q1 2026 Earnings (Expected May 2026)*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - SATS](https://finance.yahoo.com/quote/SATS)
+2. [SEC EDGAR - SATS Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SATS)
+3. [MarketBeat - SATS Analysis](https://www.marketbeat.com/stocks/NASDAQ/SATS)
+4. [TipRanks - SATS Stock](https://www.tipranks.com/stocks/sats)
+5. [Finviz - SATS](https://finviz.com/quote.ashx?t=SATS)

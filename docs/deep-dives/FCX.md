@@ -1,3 +1,12 @@
+---
+title: "FCX — Freeport-McMoRan"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # FCX (Freeport-McMoRan Inc.) - Investment-Grade Deep Dive Analysis
 **Report Date:** April 3, 2026  
 **Ticker:** NYSE: FCX  
@@ -562,3 +571,13 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 *Report Generated: April 3, 2026*  
 *Analyst: OpenClaw Investment Research*  
 *Next Update: Post-Q1 2025 Earnings (April 16, 2026)*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - FCX](https://finance.yahoo.com/quote/FCX)
+2. [SEC EDGAR - FCX Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FCX)
+3. [MarketBeat - FCX Analysis](https://www.marketbeat.com/stocks/NASDAQ/FCX)
+4. [TipRanks - FCX Stock](https://www.tipranks.com/stocks/fcx)
+5. [Finviz - FCX](https://finviz.com/quote.ashx?t=FCX)

@@ -1,3 +1,12 @@
+---
+title: "ASTS — AST SpaceMobile"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # AST SpaceMobile (ASTS) Deep Dive Analysis
 **Investment-Grade Research Report** | April 2, 2026
 
@@ -674,3 +683,13 @@ This report is for informational purposes only and does not constitute investmen
 
 *Report Generated: April 2, 2026*
 *Data Sources: Company filings, Yahoo Finance, TipRanks, Simply Wall St, SEC EDGAR, Financial media*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - ASTS](https://finance.yahoo.com/quote/ASTS)
+2. [SEC EDGAR - ASTS Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASTS)
+3. [MarketBeat - ASTS Analysis](https://www.marketbeat.com/stocks/NASDAQ/ASTS)
+4. [TipRanks - ASTS Stock](https://www.tipranks.com/stocks/asts)
+5. [Finviz - ASTS](https://finviz.com/quote.ashx?t=ASTS)

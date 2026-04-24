@@ -1,3 +1,12 @@
+---
+title: "OKLO — Oklo Inc"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # OKLO (Oklo Inc.) - Comprehensive Deep Dive Analysis
 **Date:** April 15, 2026  
 **Current Price:** $58.58  
@@ -502,6 +511,16 @@ The risks are real - regulatory delays, technology execution, competition - but 
 - [Oklo Investor Relations](https://oklo.com/investors/)
 - [NRC Pre-Application Page](https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/pre-application-activities/okla-aurora-powerhouse)
 - [SEC Filings](https://www.sec.gov/edgar/search/#/q=oklo)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - OKLO](https://finance.yahoo.com/quote/OKLO)
+2. [SEC EDGAR - OKLO Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OKLO)
+3. [MarketBeat - OKLO Analysis](https://www.marketbeat.com/stocks/NASDAQ/OKLO)
+4. [TipRanks - OKLO Stock](https://www.tipranks.com/stocks/oklo)
+5. [Finviz - OKLO](https://finviz.com/quote.ashx?t=OKLO)
 
 ---
 

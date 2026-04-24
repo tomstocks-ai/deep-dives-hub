@@ -2,6 +2,9 @@
 title: Materials
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Materials
 
 ## Summary Table
@@ -43,3 +46,13 @@ Pre-revenue rare earth mining company developing Tanbreez Project in Greenland �
 **Bull:** $28 · **Base:** $18 · **Bear:** $5
 
 [:material-arrow-right: Full Deep Dive](CRML.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - MATERIALS](https://finance.yahoo.com/quote/MATERIALS)
+2. [SEC EDGAR - MATERIALS Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MATERIALS)
+3. [MarketBeat - MATERIALS Analysis](https://www.marketbeat.com/stocks/NASDAQ/MATERIALS)
+4. [TipRanks - MATERIALS Stock](https://www.tipranks.com/stocks/materials)
+5. [Finviz - MATERIALS](https://finviz.com/quote.ashx?t=MATERIALS)

@@ -1,3 +1,12 @@
+---
+title: "SNOW — Snowflake"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Snowflake Inc. (SNOW) - Investment-Grade Deep Dive Analysis
 
 **Date:** April 10, 2026  
@@ -585,6 +594,16 @@ Snowflake represents a high-conviction, high-volatility opportunity for investor
 - **Market Cap:** $41.6B
 - **Enterprise Value:** $44.4B
 - **EV/Revenue:** 9.1x
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - SNOW](https://finance.yahoo.com/quote/SNOW)
+2. [SEC EDGAR - SNOW Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SNOW)
+3. [MarketBeat - SNOW Analysis](https://www.marketbeat.com/stocks/NASDAQ/SNOW)
+4. [TipRanks - SNOW Stock](https://www.tipranks.com/stocks/snow)
+5. [Finviz - SNOW](https://finviz.com/quote.ashx?t=SNOW)
 
 ---
 

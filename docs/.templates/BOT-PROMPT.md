@@ -54,7 +54,30 @@ Assign one rating with its CSS class:
 
 ## Your Output
 
-When given a ticker, produce EXACTLY these 4 artifacts, clearly separated:
+When given a ticker, produce EXACTLY these 5 artifacts, clearly separated:
+
+---
+
+### ARTIFACT 5: RSI Chart (`docs/assets/images/{TICKER}_rsi.png`)
+
+Generate a 14-period RSI chart for the ticker and save it as a PNG file.
+
+**Requirements:**
+- **Save location:** `docs/assets/images/{TICKER}_rsi.png` (all charts must go in this directory)
+- **Reference path:** Use relative paths like `../assets/images/{TICKER}_rsi.png` when embedding in deep dive pages
+- **Chart specifications:**
+  - 14-period RSI with oversold (30) and overbought (70) reference lines
+  - Include current price and RSI value in the title or legend
+  - Date range: minimum 6 months of daily data
+  - Clear labels and readable axis formatting
+- **Embedding in deep dive:** Add a "TECHNICAL ANALYSIS" subsection or include the chart in the existing technical analysis section:
+  ```markdown
+  ### RSI (14-Day)
+  ![{TICKER} RSI Chart](../assets/images/{TICKER}_rsi.png)
+  
+  - **Current RSI:** {VALUE}
+  - **Signal:** {OVERSOLD / NEUTRAL / OVERBOUGHT / interpretation}
+  ```
 
 ---
 
@@ -188,15 +211,46 @@ Also remind the user to add this entry to `docs/api/tickers.json`:
 
 ---
 
+## Quality Validation
+
+Before publishing, run through these checks to ensure completeness and consistency:
+
+### Content Checks
+- [ ] All 5 artifacts are generated (Deep Dive, Index Row, Sector Additions, JSON API, RSI Chart)
+- [ ] RSI chart is saved to `docs/assets/images/{TICKER}_rsi.png`
+- [ ] Price targets (Bull/Base/Bear) are consistent across all artifacts
+- [ ] Rating and sector classification match in all files
+- [ ] Company name and ticker are spelled correctly everywhere
+- [ ] Financial metrics are current and sourced
+
+### Formatting Checks
+- [ ] Front matter is valid YAML (no trailing spaces, proper quoting)
+- [ ] Markdown tables have correct column alignment and delimiters
+- [ ] All CSS classes (`badge-*`, `rating-*`) are spelled correctly
+- [ ] Links use relative paths correctly (`../index.md`, `{TICKER}.md`, etc.)
+- [ ] Image references use relative paths (`../assets/images/{TICKER}_rsi.png`)
+- [ ] JSON is valid (no trailing commas, proper quoting)
+
+### Completeness Checks
+- [ ] Deep dive covers all 9 required sections (Overview, Financials, Valuation, Catalysts, Risks, Technicals, Recommendation, Readability, Sources)
+- [ ] Sector page has both table row AND gist section
+- [ ] `docs/api/tickers.json` includes the new entry
+- [ ] Date format is consistent (`YYYY-MM-DD` everywhere)
+- [ ] Price format is consistent (`$XX.XX` everywhere)
+
+---
+
 ## Publishing Checklist
 
-After generating all 4 artifacts, remind the user:
+After generating all 5 artifacts, remind the user:
 
 1. ✅ Save Artifact 1 → `docs/deep-dives/{TICKER}.md`
 2. ✅ Save Artifact 4 → `docs/api/{TICKER}.json`
-3. ✅ Paste Artifact 2 table row → into `docs/table.md` Summary Table
-4. ✅ Paste Artifact 3A table row → into `docs/deep-dives/{sector}.md` Summary Table
-5. ✅ Paste Artifact 3B gist → into `docs/deep-dives/{sector}.md` Gists section
-6. ✅ Add entry to `docs/api/tickers.json`
-7. ✅ `git add . && git commit -m "Add {TICKER} deep dive" && git push`
-8. ✅ Site auto-deploys via GitHub Actions
+3. ✅ Save Artifact 5 → `docs/assets/images/{TICKER}_rsi.png`
+4. ✅ Paste Artifact 2 table row → into `docs/index.md` Summary Table
+5. ✅ Paste Artifact 3A table row → into `docs/deep-dives/{sector}.md` Summary Table
+6. ✅ Paste Artifact 3B gist → into `docs/deep-dives/{sector}.md` Gists section
+7. ✅ Add entry to `docs/api/tickers.json`
+8. ✅ Run Quality Validation checks above
+9. ✅ `git add . && git commit -m "Add {TICKER} deep dive" && git push`
+10. ✅ Site auto-deploys via GitHub Actions

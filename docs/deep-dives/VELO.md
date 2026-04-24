@@ -1,3 +1,12 @@
+---
+title: "VELO — Velo3D"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Session: 2026-04-02 19:21:27 UTC
 
 - **Session Key**: agent:main:discord:channel:1467872303147651247
@@ -141,3 +150,13 @@ Could you clarify? Are you referring to:
 - Something else entirely?
 
 If you can give me the filename or describe what it does, I can pull it up right away.
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - VELO](https://finance.yahoo.com/quote/VELO)
+2. [SEC EDGAR - VELO Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VELO)
+3. [MarketBeat - VELO Analysis](https://www.marketbeat.com/stocks/NASDAQ/VELO)
+4. [TipRanks - VELO Stock](https://www.tipranks.com/stocks/velo)
+5. [Finviz - VELO](https://finviz.com/quote.ashx?t=VELO)

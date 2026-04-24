@@ -1,3 +1,12 @@
+---
+title: "PL — Planet Labs"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Planet Labs PBC (PL) - Investment-Grade Deep Dive Analysis
 **Report Date:** April 3, 2026  
 **Current Price:** $35.88 (April 2, 2026 close)  
@@ -647,6 +656,16 @@ Planet Labs is an exceptional business with a strong competitive position in a g
 **However, at 40x sales and after a 900% run-up, the stock prices in nearly flawless execution for years to come.** The risk/reward at current levels is unfavorable for new investors.
 
 **Recommended Action:** Existing holders should consider trimming positions on strength. New investors should wait for a pullback to the $25-28 range before initiating positions.
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - PL](https://finance.yahoo.com/quote/PL)
+2. [SEC EDGAR - PL Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PL)
+3. [MarketBeat - PL Analysis](https://www.marketbeat.com/stocks/NASDAQ/PL)
+4. [TipRanks - PL Stock](https://www.tipranks.com/stocks/pl)
+5. [Finviz - PL](https://finviz.com/quote.ashx?t=PL)
 
 ---
 

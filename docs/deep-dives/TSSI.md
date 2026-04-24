@@ -1,3 +1,12 @@
+---
+title: "TSSI — TSS Inc"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Session: 2026-04-03 11:58:42 UTC
 
 - **Session Key**: agent:main:discord:channel:1467872303147651247
@@ -122,3 +131,13 @@ assistant: Based on all four deep dives, here's the risk ranking (safest → ris
 - ✅ One bright spot: $32.6M DoD contract
 
 **Summary:** TSSI is the only profitable one with proven growth. ASTS has the most cash but trades at extreme valuation. SATL is a focused execution bet. VELO is the classic "binary outcome" spec — could 3-5x or go to zero.
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - TSSI](https://finance.yahoo.com/quote/TSSI)
+2. [SEC EDGAR - TSSI Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSSI)
+3. [MarketBeat - TSSI Analysis](https://www.marketbeat.com/stocks/NASDAQ/TSSI)
+4. [TipRanks - TSSI Stock](https://www.tipranks.com/stocks/tssi)
+5. [Finviz - TSSI](https://finviz.com/quote.ashx?t=TSSI)

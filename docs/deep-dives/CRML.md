@@ -1,3 +1,12 @@
+---
+title: "CRML — Cream Finance"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Critical Metals Corp (CRML) - Investment Deep Dive Analysis
 **Date:** April 21, 2026
 **Ticker:** CRML (NASDAQ)
@@ -718,3 +727,13 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 ---
 *End of Report*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - CRML](https://finance.yahoo.com/quote/CRML)
+2. [SEC EDGAR - CRML Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRML)
+3. [MarketBeat - CRML Analysis](https://www.marketbeat.com/stocks/NASDAQ/CRML)
+4. [TipRanks - CRML Stock](https://www.tipranks.com/stocks/crml)
+5. [Finviz - CRML](https://finviz.com/quote.ashx?t=CRML)
