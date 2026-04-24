@@ -1,3 +1,12 @@
+---
+title: "UUUU — Energy Fuels"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Energy Fuels Inc. (UUUU) - Investment Grade Deep Dive Analysis
 
 **Report Date:** April 3, 2025  
@@ -771,3 +780,13 @@ This report is for informational purposes only and does not constitute investmen
 
 *Report Generated: April 3, 2025*
 *Energy Fuels Inc. (UUUU) - Investment Grade Deep Dive Analysis*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - UUUU](https://finance.yahoo.com/quote/UUUU)
+2. [SEC EDGAR - UUUU Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UUUU)
+3. [MarketBeat - UUUU Analysis](https://www.marketbeat.com/stocks/NASDAQ/UUUU)
+4. [TipRanks - UUUU Stock](https://www.tipranks.com/stocks/uuuu)
+5. [Finviz - UUUU](https://finviz.com/quote.ashx?t=UUUU)

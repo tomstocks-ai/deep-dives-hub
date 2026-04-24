@@ -1,3 +1,12 @@
+---
+title: "SATL — Satellogic"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # SATL (Satellogic) Deep Dive Analysis
 ## Investment-Grade Equity Research Report
 
@@ -636,3 +645,13 @@ This is a high-risk, high-reward position suitable only for investors who can to
 *Data sources: Company filings, SEC EDGAR, Yahoo Finance, Seeking Alpha, Stock Titan, investor presentations.*
 
 *Report Date: April 2, 2026*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - SATL](https://finance.yahoo.com/quote/SATL)
+2. [SEC EDGAR - SATL Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SATL)
+3. [MarketBeat - SATL Analysis](https://www.marketbeat.com/stocks/NASDAQ/SATL)
+4. [TipRanks - SATL Stock](https://www.tipranks.com/stocks/satl)
+5. [Finviz - SATL](https://finviz.com/quote.ashx?t=SATL)

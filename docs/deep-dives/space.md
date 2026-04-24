@@ -2,6 +2,9 @@
 title: Space
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Space
 
 ## Summary Table
@@ -54,3 +57,13 @@ Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 
 **Bull:** $28–32 · **Base:** $22–24 · **Bear:** $8–12
 
 [:material-arrow-right: Full Deep Dive](NN.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - SPACE](https://finance.yahoo.com/quote/SPACE)
+2. [SEC EDGAR - SPACE Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPACE)
+3. [MarketBeat - SPACE Analysis](https://www.marketbeat.com/stocks/NASDAQ/SPACE)
+4. [TipRanks - SPACE Stock](https://www.tipranks.com/stocks/space)
+5. [Finviz - SPACE](https://finviz.com/quote.ashx?t=SPACE)

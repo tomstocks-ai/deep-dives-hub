@@ -1,3 +1,12 @@
+---
+title: "U — Unity Software"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # Unity Software Inc. (U) - Comprehensive Deep Dive Analysis
 
 **Date:** April 10, 2026  
@@ -574,6 +583,16 @@ At 20% of your portfolio, Unity represents significant concentration risk in a s
 **Rating:** HOLD (with risk management)  
 **Price Target:** $28.00 (+30%)  
 **Stop Loss:** $16.50 (-23%)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - U](https://finance.yahoo.com/quote/U)
+2. [SEC EDGAR - U Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=U)
+3. [MarketBeat - U Analysis](https://www.marketbeat.com/stocks/NASDAQ/U)
+4. [TipRanks - U Stock](https://www.tipranks.com/stocks/u)
+5. [Finviz - U](https://finviz.com/quote.ashx?t=U)
 
 ---
 

@@ -1,3 +1,12 @@
+---
+title: "STAA — STAAR Surgical"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # STAAR Surgical (STAA) Deep Dive Analysis
 ## April 9, 2026
 
@@ -350,3 +359,13 @@ STAAR Surgical (STAA) is a **speculative turnaround story** trading at ~$26, up 
 *Report Date: April 9, 2026*
 *Stock Price: $26.22 (as of report)*
 *Market Cap: ~$1.03 billion*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - STAA](https://finance.yahoo.com/quote/STAA)
+2. [SEC EDGAR - STAA Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STAA)
+3. [MarketBeat - STAA Analysis](https://www.marketbeat.com/stocks/NASDAQ/STAA)
+4. [TipRanks - STAA Stock](https://www.tipranks.com/stocks/staa)
+5. [Finviz - STAA](https://finviz.com/quote.ashx?t=STAA)

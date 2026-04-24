@@ -2,6 +2,9 @@
 title: Energy
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Energy
 
 ## Summary Table
@@ -65,3 +68,13 @@ Leading U.S. critical minerals company with unique diversification: uranium (#1 
 **Bull:** $40–50 · **Base:** $22–28 · **Bear:** $10–12
 
 [:material-arrow-right: Full Deep Dive](UUUU.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - ENERGY](https://finance.yahoo.com/quote/ENERGY)
+2. [SEC EDGAR - ENERGY Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ENERGY)
+3. [MarketBeat - ENERGY Analysis](https://www.marketbeat.com/stocks/NASDAQ/ENERGY)
+4. [TipRanks - ENERGY Stock](https://www.tipranks.com/stocks/energy)
+5. [Finviz - ENERGY](https://finviz.com/quote.ashx?t=ENERGY)

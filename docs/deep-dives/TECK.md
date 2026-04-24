@@ -1,3 +1,12 @@
+---
+title: "TECK — Teck Resources"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # TECK RESOURCES LIMITED (TECK)
 ## Investment-Grade Deep Dive Analysis
 
@@ -635,3 +644,13 @@ This report is for informational purposes only and does not constitute investmen
 
 *Report Generated: April 3, 2026*  
 *Next Review Recommended: Q2 2026 (post-earnings)*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - TECK](https://finance.yahoo.com/quote/TECK)
+2. [SEC EDGAR - TECK Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TECK)
+3. [MarketBeat - TECK Analysis](https://www.marketbeat.com/stocks/NASDAQ/TECK)
+4. [TipRanks - TECK Stock](https://www.tipranks.com/stocks/teck)
+5. [Finviz - TECK](https://finviz.com/quote.ashx?t=TECK)

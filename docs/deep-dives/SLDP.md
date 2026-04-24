@@ -607,3 +607,13 @@ Your 84 shares at $3.06 represent a small speculative bet on solid-state battery
 
 *Report Generated: April 14, 2026*  
 *This report is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results.*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - SLDP](https://finance.yahoo.com/quote/SLDP)
+2. [SEC EDGAR - SLDP Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLDP)
+3. [MarketBeat - SLDP Analysis](https://www.marketbeat.com/stocks/NASDAQ/SLDP)
+4. [TipRanks - SLDP Stock](https://www.tipranks.com/stocks/sldp)
+5. [Finviz - SLDP](https://finviz.com/quote.ashx?t=SLDP)

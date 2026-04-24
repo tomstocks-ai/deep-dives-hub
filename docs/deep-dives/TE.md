@@ -1,3 +1,12 @@
+---
+title: "TE — Tecnicas Reunidas"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # T1 Energy (NYSE: TE) - Pre-Earnings Deep Dive Analysis
 **Date:** March 16, 2026  
 **Prepared for:** Thomas  
@@ -523,6 +532,16 @@ Given high volatility expectations and balance sheet risk, consider taking 50% o
 - StockInvest.us Technical Analysis
 - Canary Media Feature (Nov 25, 2025)
 - Reddit Communities: r/T1Energy, r/energy, r/stocks
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - TE](https://finance.yahoo.com/quote/TE)
+2. [SEC EDGAR - TE Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TE)
+3. [MarketBeat - TE Analysis](https://www.marketbeat.com/stocks/NASDAQ/TE)
+4. [TipRanks - TE Stock](https://www.tipranks.com/stocks/te)
+5. [Finviz - TE](https://finviz.com/quote.ashx?t=TE)
 
 ---
 

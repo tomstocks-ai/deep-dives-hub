@@ -2,6 +2,9 @@
 title: Health
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Health
 
 ## Summary Table
@@ -32,3 +35,13 @@ Global leader in phakic Implantable Collamer Lenses (ICLs) with 4M+ EVO ICLs sol
 **Bull:** $35–40 · **Base:** $24–28 · **Bear:** $14–16
 
 [:material-arrow-right: Full Deep Dive](STAA.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - HEALTH](https://finance.yahoo.com/quote/HEALTH)
+2. [SEC EDGAR - HEALTH Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HEALTH)
+3. [MarketBeat - HEALTH Analysis](https://www.marketbeat.com/stocks/NASDAQ/HEALTH)
+4. [TipRanks - HEALTH Stock](https://www.tipranks.com/stocks/health)
+5. [Finviz - HEALTH](https://finviz.com/quote.ashx?t=HEALTH)

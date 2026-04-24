@@ -2,6 +2,9 @@
 title: Finance
 ---
 
+
+[← Back to Summary](../index.md)
+
 # Finance
 
 ## Summary Table
@@ -21,3 +24,13 @@ Circle is the issuer of USDC, the second-largest stablecoin with ~$75B in circul
 **Bull:** $180–$220 · **Base:** $100–$130 · **Bear:** $45–$65
 
 [:material-arrow-right: Full Deep Dive](CRCL.md)
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - FINANCE](https://finance.yahoo.com/quote/FINANCE)
+2. [SEC EDGAR - FINANCE Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FINANCE)
+3. [MarketBeat - FINANCE Analysis](https://www.marketbeat.com/stocks/NASDAQ/FINANCE)
+4. [TipRanks - FINANCE Stock](https://www.tipranks.com/stocks/finance)
+5. [Finviz - FINANCE](https://finviz.com/quote.ashx?t=FINANCE)

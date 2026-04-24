@@ -1,3 +1,12 @@
+---
+title: "EOSE — Eos Energy Enterprises"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # EOSE Deep Dive Analysis: Eos Energy Enterprises, Inc.
 **Report Date:** April 5, 2026  
 **Ticker:** EOSE (NASDAQ)  
@@ -474,6 +483,16 @@ Eos is trying to become a major American battery manufacturer at exactly the rig
 | **Headquarters** | Edison, NJ |
 | **Founded** | 2008 |
 | **IPO** | November 2020 (SPAC) |
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - EOSE](https://finance.yahoo.com/quote/EOSE)
+2. [SEC EDGAR - EOSE Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EOSE)
+3. [MarketBeat - EOSE Analysis](https://www.marketbeat.com/stocks/NASDAQ/EOSE)
+4. [TipRanks - EOSE Stock](https://www.tipranks.com/stocks/eose)
+5. [Finviz - EOSE](https://finviz.com/quote.ashx?t=EOSE)
 
 ---
 

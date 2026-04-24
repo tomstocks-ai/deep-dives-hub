@@ -1,3 +1,12 @@
+---
+title: "NN — NextNav"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # NextNav Inc (NN) — Deep Dive Analysis
 **Date:** April 17, 2026  
 **Current Price:** $20.82 (as of April 16 close)  
@@ -262,3 +271,13 @@ The FCC NPRM could drop today, tomorrow, or never. If it hits, you'll wish you h
 *Report Generated: April 17, 2026*  
 *Price Reference: $20.82 (April 16 close)*  
 *Next Catalyst: FCC NPRM (timing uncertain)*
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - NN](https://finance.yahoo.com/quote/NN)
+2. [SEC EDGAR - NN Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NN)
+3. [MarketBeat - NN Analysis](https://www.marketbeat.com/stocks/NASDAQ/NN)
+4. [TipRanks - NN Stock](https://www.tipranks.com/stocks/nn)
+5. [Finviz - NN](https://finviz.com/quote.ashx?t=NN)

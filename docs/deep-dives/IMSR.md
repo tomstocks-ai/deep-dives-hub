@@ -1,3 +1,12 @@
+---
+title: "IMSR — IMSR Inc"
+hide:
+  - navigation
+---
+
+
+[← Back to Summary](../index.md)
+
 # IMSR (Terrestrial Energy Inc.) - Deep Dive Analysis
 **Report Date:** April 4, 2026  
 **Ticker:** IMSR (NASDAQ)  
@@ -627,6 +636,16 @@ However, investors must understand this is a **development-stage company with no
 3. Progress on Texas A&M and other project sites
 4. Cash position and funding activities
 5. Competitive developments from NuScale, Kairos, X-energy
+
+---
+
+## Sources Consulted
+
+1. [Yahoo Finance - IMSR](https://finance.yahoo.com/quote/IMSR)
+2. [SEC EDGAR - IMSR Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IMSR)
+3. [MarketBeat - IMSR Analysis](https://www.marketbeat.com/stocks/NASDAQ/IMSR)
+4. [TipRanks - IMSR Stock](https://www.tipranks.com/stocks/imsr)
+5. [Finviz - IMSR](https://finviz.com/quote.ashx?t=IMSR)
 
 ---
 
