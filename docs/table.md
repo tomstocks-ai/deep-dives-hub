@@ -25,6 +25,6 @@
 | **CRML** | Critical Metals | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-04-21 | [:material-file-document: Read](deep-dives/CRML.md) |
 | **CRCL** | Circle Internet Group | <span class="badge badge-fintech">Fintech</span> | <span class="rating-buy">BUY</span> | $106.36 | 2026-04-21 | [:material-file-document: Read](deep-dives/CRCL.md) |
 | **INFQ** | Infleqtion | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $12.02 | 2026-04-29 | [:material-file-document: Read](deep-dives/INFQ.md) |
-| **NBIS** | Nebius Group | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](deep-dives/NBIS.md) |
+| **PPTA** | Perpetua Resources | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $26.30 | 2026-04-29 | [:material-file-document: Read](deep-dives/PPTA.md) |
 
 ---

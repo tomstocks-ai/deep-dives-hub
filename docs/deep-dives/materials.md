@@ -13,7 +13,7 @@ title: Materials
 |--------|---------|--------|-------|--------------|---------|
 | **FCX** | Freeport-McMoRan | <span class="rating-buy">BUY</span> | $70.18 | 2026-04-03 | [:material-file-document: Read](FCX.md) |
 | **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | $59.13 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
-| **CRML** | Critical Metals | <span class="rating-spec-buy">SPEC. BUY</span> | $11.94 | 2026-04-21 | [:material-file-document: Read](CRML.md) |
+| **PPTA** | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | $26.30 | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
 
 ---
 
@@ -46,6 +46,16 @@ Pre-revenue rare earth mining company developing Tanbreez Project in Greenland �
 **Bull:** $28 · **Base:** $18 · **Bear:** $5
 
 [:material-arrow-right: Full Deep Dive](CRML.md)
+
+---
+
+### PPTA — Perpetua Resources · <span class="rating-spec-buy">SPEC. BUY</span> · $26.30
+
+Development-stage mining company advancing the $1.3B Stibnite Gold Project in Idaho — one of the largest undeveloped gold deposits in the U.S. with 6M+ oz gold and 148M lbs antimony (a critical mineral). Broke ground in October 2025 after 9 years of permitting. America's answer to China's antimony export bans. $2B U.S. EXIM debt financing pending Board approval (Spring 2026). Full production targeted H2 2029. Stock up from $11.22 low to $26.30 on construction commencement and critical minerals tailwinds. RSI at 35.4 — near oversold after pullback from $37.37 high.
+
+**Bull:** $50 · **Base:** $35 · **Bear:** $15
+
+[:material-arrow-right: Full Deep Dive](PPTA.md)
 
 ---
 

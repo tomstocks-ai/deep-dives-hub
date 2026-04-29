@@ -288,6 +288,18 @@
       "last_updated": "2026-04-22",
       "deep_dive_url": "/deep-dives/NBIS/",
       "api_url": "/api/NBIS.json"
+    },
+    {
+      "ticker": "PPTA",
+      "company": "Perpetua Resources Corp.",
+      "sector": "Materials",
+      "industry": "Precious Metals & Critical Minerals Mining",
+      "rating": "SPECULATIVE BUY",
+      "price": 26.30,
+      "market_cap": "$3.29B",
+      "last_updated": "2026-04-29",
+      "deep_dive_url": "/deep-dives/PPTA/",
+      "api_url": "/api/PPTA.json"
     }
   ]
 }

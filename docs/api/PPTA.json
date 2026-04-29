@@ -1,0 +1,59 @@
+{
+  "ticker": "PPTA",
+  "company": "Perpetua Resources Corp.",
+  "sector": "Materials",
+  "industry": "Precious Metals & Critical Minerals Mining",
+  "exchange": "NASDAQ / TSX",
+  "price": 26.30,
+  "market_cap": "$3.29B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-04-29",
+  "thesis": "Development-stage mining company advancing the $1.3B Stibnite Gold Project in Idaho — one of the largest undeveloped gold deposits in the U.S. (6M+ oz gold, 148M lbs antimony). Broke ground in October 2025 after 9 years of permitting. America's answer to China's antimony export bans. $2B U.S. EXIM debt financing pending Board approval (Spring 2026). Full production targeted H2 2029. High-risk, high-reward with significant financing and execution risks but strong geopolitical tailwinds.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$0 (pre-revenue)",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "-$135M (est.)",
+    "eps_diluted": "-$1.08",
+    "cash": "$200M+ (post equity raise)",
+    "fcf": "N/A (pre-revenue)"
+  },
+  "bull_case": {
+    "target": "$50.00",
+    "drivers": [
+      "EXIM $2B financing closes at favorable terms (Spring 2026)",
+      "Gold price remains above $3,200/oz supporting project economics",
+      "Antimony prices spike on Chinese supply constraints and export bans",
+      "Construction stays on schedule with first production H2 2029",
+      "Additional strategic partnerships (defense, battery manufacturers) announced"
+    ]
+  },
+  "bear_case": {
+    "target": "$15.00",
+    "risks": [
+      "EXIM financing delayed or denied, forcing expensive alternative financing",
+      "Significant construction cost overruns (industry average 20-40%)",
+      "Gold price drops below $2,600/oz impairing project economics",
+      "Major equity dilution (15-30%) required before production",
+      "Environmental/regulatory challenges delay construction"
+    ]
+  },
+  "base_case": {
+    "target": "$35.00",
+    "assumptions": "EXIM financing closes Q2 2026 with standard terms; gold price $3,000/oz; construction progresses with minor delays; first production H2 2029; equity dilution ~15%; antimony offtake agreements signed with defense contractors."
+  },
+  "catalysts": [
+    {"date": "2026-04", "event": "U.S. EXIM Board consideration of $2B debt financing"},
+    {"date": "2026-06", "event": "Expected full construction sanction decision"},
+    {"date": "2027-01", "event": "Major construction milestones (mill, tailings)"},
+    {"date": "2029-07", "event": "First gold production targeted"}
+  ],
+  "key_risks": [
+    "Financing risk: $2B EXIM debt not guaranteed; alternatives may be dilutive or expensive",
+    "Execution risk: First mine development with no operating history; cost overruns common",
+    "Commodity price risk: Gold and antimony price volatility affects project economics",
+    "Regulatory/environmental risk: Ongoing compliance and potential opposition in Idaho",
+    "Dilution risk: Multiple equity raises likely before 2029 production start"
+  ]
+}
