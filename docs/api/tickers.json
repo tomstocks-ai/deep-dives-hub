@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-29",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -266,6 +266,18 @@
       "api_url": "/api/VELO.json"
     },
     {
+      "ticker": "INFQ",
+      "company": "Infleqtion, Inc.",
+      "sector": "Technology",
+      "industry": "Quantum Computing / Quantum Sensing",
+      "rating": "SPECULATIVE BUY",
+      "price": 12.02,
+      "market_cap": "$2.76B",
+      "last_updated": "2026-04-29",
+      "deep_dive_url": "/deep-dives/INFQ/",
+      "api_url": "/api/INFQ.json"
+    },
+    {
       "ticker": "NBIS",
       "company": "Nebius Group N.V.",
       "sector": "Technology",
@@ -276,6 +288,18 @@
       "last_updated": "2026-04-22",
       "deep_dive_url": "/deep-dives/NBIS/",
       "api_url": "/api/NBIS.json"
+    },
+    {
+      "ticker": "PPTA",
+      "company": "Perpetua Resources Corp.",
+      "sector": "Materials",
+      "industry": "Precious Metals & Critical Minerals Mining",
+      "rating": "SPECULATIVE BUY",
+      "price": 26.30,
+      "market_cap": "$3.29B",
+      "last_updated": "2026-04-29",
+      "deep_dive_url": "/deep-dives/PPTA/",
+      "api_url": "/api/PPTA.json"
     }
   ]
 }
