@@ -18,6 +18,7 @@ title: Technology
 | **TSSI** | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | $14.64 | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
 | **VELO** | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | $11.69 | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | **SATS** | EchoStar | <span class="rating-buy">ACCUMULATE</span> | $135.11 | 2026-04-04 | [:material-file-document: Read](SATS.md) |
+| **INFQ** | Infleqtion | <span class="rating-spec-buy">SPEC. BUY</span> | $12.02 | 2026-04-29 | [:material-file-document: Read](INFQ.md) |
 | **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 
 ---
@@ -101,6 +102,16 @@ AI infrastructure powerhouse that signed two of the largest compute contracts in
 **Bull:** $250–280 · **Base:** $170–200 · **Bear:** $70–85
 
 [:material-arrow-right: Full Deep Dive](NBIS.md)
+
+---
+
+### INFQ — Infleqtion · <span class="rating-spec-buy">SPEC. BUY</span> · $12.02
+
+First publicly traded neutral-atom quantum technology company, delivering quantum computers, precision sensors, and software for defense, space, and commercial markets. $32.5M revenue in 2025 (up 13% YoY) with $40M 2026 guidance. Unique among quantum pure-plays for having active commercial revenue from sensing products (clocks, RF receivers, navigation) while computing scales toward 100 logical qubits by 2028. NVIDIA partnership, DARPA contracts, and 235+ patents create differentiated IP position. Citi Buy rating with $20 target implies 67% upside.
+
+**Bull:** $28–35 · **Base:** $16–22 · **Bear:** $5–8
+
+[:material-arrow-right: Full Deep Dive](INFQ.md)
 
 ---
 

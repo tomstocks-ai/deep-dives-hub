@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-29",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -264,6 +264,18 @@
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/VELO/",
       "api_url": "/api/VELO.json"
+    },
+    {
+      "ticker": "INFQ",
+      "company": "Infleqtion, Inc.",
+      "sector": "Technology",
+      "industry": "Quantum Computing / Quantum Sensing",
+      "rating": "SPECULATIVE BUY",
+      "price": 12.02,
+      "market_cap": "$2.76B",
+      "last_updated": "2026-04-29",
+      "deep_dive_url": "/deep-dives/INFQ/",
+      "api_url": "/api/INFQ.json"
     },
     {
       "ticker": "NBIS",
