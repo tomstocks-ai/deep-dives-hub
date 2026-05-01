@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-05-01",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -300,6 +300,18 @@
       "last_updated": "2026-04-29",
       "deep_dive_url": "/deep-dives/PPTA/",
       "api_url": "/api/PPTA.json"
+    },
+    {
+      "ticker": "FIG",
+      "company": "Figma, Inc.",
+      "sector": "Technology",
+      "industry": "Collaborative Design Platform",
+      "rating": "SPECULATIVE BUY",
+      "price": 17.70,
+      "market_cap": "$9.33B",
+      "last_updated": "2026-05-01",
+      "deep_dive_url": "/deep-dives/FIG/",
+      "api_url": "/api/FIG.json"
     }
   ]
 }

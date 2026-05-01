@@ -20,6 +20,7 @@ title: Technology
 | **SATS** | EchoStar | <span class="rating-buy">ACCUMULATE</span> | $135.11 | 2026-04-04 | [:material-file-document: Read](SATS.md) |
 | **INFQ** | Infleqtion | <span class="rating-spec-buy">SPEC. BUY</span> | $12.02 | 2026-04-29 | [:material-file-document: Read](INFQ.md) |
 | **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
+| **FIG** | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | $17.70 | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 
 ---
 
@@ -112,6 +113,16 @@ First publicly traded neutral-atom quantum technology company, delivering quantu
 **Bull:** $28–35 · **Base:** $16–22 · **Bear:** $5–8
 
 [:material-arrow-right: Full Deep Dive](INFQ.md)
+
+---
+
+### FIG — Figma · <span class="rating-spec-buy">SPEC. BUY</span> · $17.70
+
+Dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. Stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with $1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5% of float) adds squeeze potential. Anthropic partnership (Code to Canvas) and AI products (Figma Make, Weave) represent new monetization layers. Next catalyst: Q1 2026 earnings May 14, guided $315-317M vs $291.9M consensus.
+
+**Bull:** $55–65 · **Base:** $30–40 · **Bear:** $10–15
+
+[:material-arrow-right: Full Deep Dive](FIG.md)
 
 ---
 
