@@ -55,17 +55,19 @@ def validate_deep_dive(md_path: str) -> dict:
         results["failed"].append("Missing back link to summary (e.g. [← Back to Summary](../index.md))")
 
     # ------------------------------------------------------------------
-    # 3. No escaped characters
+    # 3. No escaped characters (except \$ for MathJax compatibility)
     # ------------------------------------------------------------------
     escaped_chars = []
     for i, line in enumerate(lines, 1):
-        # Look for backslash-escaped common markdown chars (not in code blocks)
         # Skip code blocks
         stripped = line.lstrip()
         if stripped.startswith("```") or stripped.startswith("    "):
             continue
-        # Find escaped: \$, \%, \>, \<, \&, \#, \@, etc.
+        # Find escaped chars but EXCLUDE \$ (needed for MathJax on Zensical)
+        # Pattern: backslash followed by a special char, but not \$
         matches = re.findall(r"\\[$%><&#@~^=+|\[\]{}]", line)
+        # Filter out \$ — it's intentionally escaped for MathJax
+        matches = [m for m in matches if m != "\\$"]
         if matches:
             escaped_chars.append((i, matches))
 
