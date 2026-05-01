@@ -1,0 +1,81 @@
+{
+  "ticker": "FIG",
+  "company": "Figma, Inc.",
+  "sector": "Technology",
+  "industry": "Software — Collaborative Design Platform",
+  "exchange": "NYSE",
+  "price": 17.70,
+  "market_cap": "$9.33B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-05-01",
+  "thesis": "Figma is the dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. The stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with $1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5% of float) adds squeeze potential. Key risks: AI disruption, path to GAAP profitability, gross margin compression from 91% to 82%.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$1,056M",
+    "revenue_growth": "+40.96%",
+    "gross_margin": "82.43%",
+    "operating_margin": "-122.23%",
+    "net_income": "($1,250M)",
+    "eps_diluted": "($3.71)",
+    "free_cash_flow": "$246.2M",
+    "fcf_margin": "23.32%",
+    "cash": "$1.66B",
+    "debt": "$58.5M",
+    "enterprise_value": "$7.64B"
+  },
+  "bull_case": {
+    "target": "$55–65",
+    "drivers": [
+      "FY2026 revenue beats guidance ($1.4B+) with AI products accelerating adoption",
+      "Net revenue retention stays above 135% as enterprise customers expand seats",
+      "SaaS multiples re-rate higher as rates stabilize and growth scarcity premium returns",
+      "Path to GAAP profitability by 2028 as SBC moderates and operating leverage kicks in",
+      "Short squeeze from 26.5% short interest on any positive catalyst"
+    ]
+  },
+  "bear_case": {
+    "target": "$10–15",
+    "risks": [
+      "Revenue growth decelerates below 25% as AI-native tools (v0, Claude Design) erode share",
+      "Gross margins continue compressing below 80% due to AI compute costs",
+      "SBC remains elevated, preventing GAAP profitability and causing talent retention issues",
+      "Lockup expirations and insider selling create persistent supply overhang",
+      "Broader SaaS multiple compression pushes EV/Revenue below 5x"
+    ]
+  },
+  "base_case": {
+    "target": "$30–40",
+    "assumptions": "Revenue grows 30-35% in FY2026 to ~$1.35-1.4B; FCF margin stabilizes at 20-25%; SBC moderates to 30-35% of revenue; company reaches EBITDA breakeven by 2027; stock trades at 8-10x EV/Revenue as profitability path becomes visible"
+  },
+  "catalysts": [
+    {"date": "2026-05-14", "event": "Q1 2026 Earnings — guided $315-317M vs $291.9M consensus", "impact": "HIGH"},
+    {"date": "2026-08", "event": "Q2 2026 Earnings — mid-year guidance check", "impact": "MEDIUM"},
+    {"date": "2026-H2", "event": "Figma Make / Weave general availability launch", "impact": "MEDIUM"},
+    {"date": "2026-2027", "event": "IPO lockup expiration waves complete", "impact": "LOW-MEDIUM"}
+  ],
+  "key_risks": [
+    "AI disruption risk — AI-native design tools could commoditize Figma's core value proposition",
+    "No GAAP profitability with -$1.29B operating loss; path to earnings uncertain",
+    "Gross margin compression from 91% (2023) to 82% (2025) — trend direction matters",
+    "Massive SBC dilution: shares outstanding increased 72% YoY to 337M diluted",
+    "High short interest (26.5% of float) creates volatility but also squeeze potential",
+    "Recent IPO with limited trading history; lockup overhang may pressure stock further",
+    "SaaS sector multiple compression could persist if rates rise or recession fears intensify"
+  ],
+  "analyst_targets": {
+    "count": 8,
+    "consensus": "Hold / Moderate Buy",
+    "high": 60.0,
+    "low": 30.0,
+    "mean": 40.25,
+    "median": 38.50
+  },
+  "technical": {
+    "rsi_14": 47.55,
+    "rsi_date": "2026-04-30",
+    "fifty_two_week_low": 16.60,
+    "fifty_two_week_high": 142.92,
+    "short_percent_float": 0.265,
+    "short_ratio": 3.57
+  }
+}
