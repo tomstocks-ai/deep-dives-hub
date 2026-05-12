@@ -312,6 +312,18 @@
       "last_updated": "2026-05-01",
       "deep_dive_url": "/deep-dives/FIG/",
       "api_url": "/api/FIG.json"
+    },
+    {
+      "ticker": "P",
+      "company": "Everpure, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware / Data Storage",
+      "rating": "HOLD",
+      "price": 83.33,
+      "market_cap": "$27.68B",
+      "last_updated": "2026-05-12",
+      "deep_dive_url": "/deep-dives/P/",
+      "api_url": "/api/P.json"
     }
   ]
 }

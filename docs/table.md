@@ -27,5 +27,6 @@
 | **INFQ** | Infleqtion | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $12.02 | 2026-04-29 | [:material-file-document: Read](deep-dives/INFQ.md) |
 | **PPTA** | Perpetua Resources | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $26.30 | 2026-04-29 | [:material-file-document: Read](deep-dives/PPTA.md) |
 | **FIG** | Figma | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $17.70 | 2026-05-01 | [:material-file-document: Read](deep-dives/FIG.md) |
+| **P** | Everpure, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](deep-dives/P.md) |
 
 ---
