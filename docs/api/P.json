@@ -1,0 +1,58 @@
+{
+  "ticker": "P",
+  "company": "Everpure, Inc.",
+  "sector": "Technology",
+  "industry": "Computer Hardware / Data Storage",
+  "exchange": "NYSE",
+  "price": 83.33,
+  "market_cap": "$27.68B",
+  "rating": "HOLD",
+  "last_updated": "2026-05-12",
+  "thesis": "Leading all-flash enterprise data storage provider formerly known as Pure Storage (PSTG). Rebranded to Everpure in February 2026 with single-letter ticker 'P' change in April 2026. FY2026 revenue of $3.66B (+15.6% YoY) with gross margin expansion to 70.4% and first year of GAAP profitability ($188.2M net income). Strong FCF generation of $690.6M and $2.39B cash balance. Evergreen//One subscription model and AI infrastructure positioning provide durable growth. However, stock has rallied sharply post-rebrand with RSI near overbought and forward P/E of ~29x leaving limited margin of safety. Significant SBC dilution ($481.7M annually) remains a headwind.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$3.66B",
+    "revenue_growth": "+15.6% YoY",
+    "gross_margin": "70.4%",
+    "net_income": "$188.2M",
+    "eps_diluted": "$0.55",
+    "cash": "$2.39B",
+    "debt": "$2.78B (convertible notes)",
+    "fcf": "$690.6M"
+  },
+  "bull_case": {
+    "target": "$108–$116",
+    "drivers": [
+      "Revenue grows at 20% CAGR through FY2030 driven by AI infrastructure demand",
+      "Operating margins expand to 22%+ as subscription mix increases and scale benefits accrue",
+      "1touch acquisition integration accelerates data intelligence revenue stream",
+      "Evergreen//One subscription reaches 40%+ of revenue, driving multiple expansion"
+    ]
+  },
+  "bear_case": {
+    "target": "$51–$56",
+    "risks": [
+      "Revenue growth slows to 10% CAGR due to cloud migration and competitive pressure",
+      "Operating margins stall at 14% due to pricing pressure and SBC inflation",
+      "Enterprise IT spending downturn compresses storage demand cyclically",
+      "Valuation compresses to 20x forward earnings on execution concerns"
+    ]
+  },
+  "base_case": {
+    "target": "$76–$82",
+    "assumptions": "Revenue grows at 15% CAGR through FY2030; Gross margins stabilize at 69-71%; Operating margins reach 18% by FY2030; Subscription mix grows to 35% of revenue; FCF generation sustains $700M+ annually."
+  },
+  "catalysts": [
+    {"date": "2026-06", "event": "Q1 FY2027 Earnings — First post-rebrand guidance validation"},
+    {"date": "H1 2026", "event": "1touch Acquisition Close — Expands data intelligence TAM"},
+    {"date": "2026-09", "event": "Everpure Investor Day — Long-term strategic roadmap"},
+    {"date": "2026-11", "event": "Q3 FY2027 Earnings — Full-year guidance update"}
+  ],
+  "key_risks": [
+    "Stock has rallied ~20% in two weeks post-rebrand; RSI near overbought at 70.9",
+    "$481.7M annual stock-based compensation creates ongoing shareholder dilution",
+    "$2.78B convertible notes create potential future dilution if converted",
+    "Intense competition from Dell EMC, NetApp, and hyperscaler cloud storage",
+    "Enterprise storage is cyclical; recession would materially impact demand"
+  ]
+}
