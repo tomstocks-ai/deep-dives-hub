@@ -131,7 +131,7 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 
 All-flash data storage leader formerly known as Pure Storage, now expanding beyond storage into AI-ready data management. FY2026 revenue of $3.66B (+15.6% YoY) with exceptional 70.4% gross margins and $690.6M free cash flow. Strong competitive moat via 50%+ lower TCO than legacy storage. Rebrand to Everpure and 1touch acquisition signal platform ambitions. However, stock trades at premium valuation (151x TTM P/E, 6.3x P/S) and RSI of 70.9 indicates overbought conditions after recent run-up.
 
-**Bull:** $95–105 · **Base:** $75–82 · **Bear:** $55–62
+**Bull:** $108–116 · **Base:** $76–82 · **Bear:** $51–56
 
 [:material-arrow-right: Full Deep Dive](P.md)
 
