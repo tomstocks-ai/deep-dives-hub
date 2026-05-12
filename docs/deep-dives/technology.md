@@ -21,6 +21,7 @@ title: Technology
 | **INFQ** | Infleqtion | <span class="rating-spec-buy">SPEC. BUY</span> | $12.02 | 2026-04-29 | [:material-file-document: Read](INFQ.md) |
 | **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 | **FIG** | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | $17.70 | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+| **P** | Everpure, Inc. | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](P.md) |
 
 ---
 
@@ -123,6 +124,16 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 **Bull:** $55–65 · **Base:** $30–40 · **Bear:** $10–15
 
 [:material-arrow-right: Full Deep Dive](FIG.md)
+
+---
+
+### P — Everpure, Inc. · <span class="rating-hold">HOLD</span> · $83.33
+
+All-flash data storage leader formerly known as Pure Storage, now expanding beyond storage into AI-ready data management. FY2026 revenue of $3.66B (+15.6% YoY) with exceptional 70.4% gross margins and $690.6M free cash flow. Strong competitive moat via 50%+ lower TCO than legacy storage. Rebrand to Everpure and 1touch acquisition signal platform ambitions. However, stock trades at premium valuation (151x TTM P/E, 6.3x P/S) and RSI of 70.9 indicates overbought conditions after recent run-up.
+
+**Bull:** $95–105 · **Base:** $75–82 · **Bear:** $55–62
+
+[:material-arrow-right: Full Deep Dive](P.md)
 
 ---
 
