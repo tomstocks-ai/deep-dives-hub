@@ -324,6 +324,18 @@
       "last_updated": "2026-05-12",
       "deep_dive_url": "/deep-dives/P/",
       "api_url": "/api/P.json"
+    },
+    {
+      "ticker": "WOLF",
+      "company": "Wolfspeed, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors / Silicon Carbide Power Devices",
+      "rating": "HOLD",
+      "price": 53.72,
+      "market_cap": "$2.60B",
+      "last_updated": "2026-05-13",
+      "deep_dive_url": "/deep-dives/WOLF/",
+      "api_url": "/api/WOLF.json"
     }
   ]
 }

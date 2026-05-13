@@ -22,6 +22,7 @@ title: Technology
 | **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | $158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 | **FIG** | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | $17.70 | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 | **P** | Everpure, Inc. | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](P.md) |
+| **WOLF** | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | $53.72 | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
 
 ---
 
@@ -134,6 +135,16 @@ All-flash data storage leader formerly known as Pure Storage, now expanding beyo
 **Bull:** $95–105 · **Base:** $75–82 · **Bear:** $55–62
 
 [:material-arrow-right: Full Deep Dive](P.md)
+
+---
+
+### WOLF — Wolfspeed, Inc. · <span class="rating-hold">HOLD</span> · $53.72
+
+Pure-play silicon carbide (SiC) semiconductor company with vertical integration from crystal growth to power devices. Recent $476M capital raise and 25% debt reduction improved balance sheet and extended runway. Revenue still declining (-18.9% YoY), gross margins deeply negative, and stock has risen 560%+ from lows in what appears to be a short-squeeze dynamic (RSI 83+). AI/data center power opportunity is real but current price embeds flawless execution.
+
+**Bull:** $65–75 · **Base:** $35–45 · **Bear:** $12–18
+
+[:material-arrow-right: Full Deep Dive](WOLF.md)
 
 ---
 
