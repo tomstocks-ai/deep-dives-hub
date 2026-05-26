@@ -1,0 +1,56 @@
+{
+  "ticker": "WOLF",
+  "company": "Wolfspeed, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors / Silicon Carbide Power Devices",
+  "exchange": "NYSE",
+  "price": 53.72,
+  "market_cap": "$2.60B",
+  "rating": "HOLD",
+  "last_updated": "2026-05-13",
+  "thesis": "Wolfspeed is the leading pure-play silicon carbide (SiC) semiconductor company, vertically integrated from crystal growth to power devices. A recent $476M capital raise and 25% debt reduction have materially improved the balance sheet and extended runway. However, revenue remains in decline (-18.9% YoY), gross margins are deeply negative, and the stock has risen 560%+ from lows in what appears to be a short-squeeze dynamic (RSI 83+). The AI/data center power opportunity is real, but the current price embeds a flawless turnaround execution that is unlikely to materialize smoothly. Hold existing positions; do not chase.",
+  "financials": {
+    "fiscal_year": "FY2026 (Q3)",
+    "revenue": "$150.2M (quarterly)",
+    "revenue_growth": "-18.9%",
+    "gross_margin": "Negative (~-17% TTM)",
+    "net_income": "-$119.9M (quarterly)",
+    "eps_diluted": "-$4.38 (quarterly)",
+    "cash": "$1.29B",
+    "fcf": "-$42.6M (quarterly)"
+  },
+  "bull_case": {
+    "target": "$65–$75",
+    "drivers": [
+      "AI/data center power revenue grows to 30%+ of revenue mix by FY28",
+      "Mohawk Valley 200mm fab reaches 50%+ utilization, driving positive gross margins",
+      "Automotive SiC adoption accelerates with Chinese EV and Tier-1 partnerships",
+      "Continued debt paydown creates path to profitability by FY28"
+    ]
+  },
+  "bear_case": {
+    "target": "$12–$18",
+    "risks": [
+      "SiC commoditization accelerates; pricing pressure crushes margins",
+      "EV demand weakness persists; revenue continues declining",
+      "Additional dilutive capital raises required within 12–18 months",
+      "Short-squeeze reversal drives violent technical selloff"
+    ]
+  },
+  "base_case": {
+    "target": "$35–$45",
+    "assumptions": "Revenue stabilizes at $600–700M annually with modest growth. Gross margins turn slightly positive by late FY27. EBITDA breakeven by FY29. Valuation converges toward analyst consensus (~$40 target). Additional capital raises cause moderate dilution."
+  },
+  "catalysts": [
+    {"date": "2026-05-27", "event": "Q4 FY26 Earnings (expected) — revenue guidance for FY27"},
+    {"date": "2026-06-15", "event": "Potential analyst/investor day with Mohawk Valley update"},
+    {"date": "2026-08-15", "event": "Q1 FY27 Earnings — first post-restructuring clean quarter"}
+  ],
+  "key_risks": [
+    "Continued cash burn and potential dilutive capital raises",
+    "SiC commoditization and intensifying competition from Onsemi, Infineon, STMicro, Chinese vendors",
+    "Automotive EV demand weakness in key markets",
+    "Mohawk Valley 200mm ramp delays or yield challenges",
+    "Short-squeeze reversal creating violent technical downside"
+  ]
+}
