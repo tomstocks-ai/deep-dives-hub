@@ -15,6 +15,7 @@ title: Space
 | **PL** | Planet Labs | <span class="rating-hold">HOLD</span> | $37.49 | 2026-04-03 | [:material-file-document: Read](PL.md) |
 | **SATL** | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | $6.70 | 2026-04-02 | [:material-file-document: Read](SATL.md) |
 | **NN** | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | $23.19 | 2026-04-17 | [:material-file-document: Read](NN.md) |
+| **SPCE** | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | $4.53 | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
 
 ---
 
@@ -57,6 +58,16 @@ Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 
 **Bull:** $28–32 · **Base:** $22–24 · **Bear:** $8–12
 
 [:material-arrow-right: Full Deep Dive](NN.md)
+
+---
+
+### SPCE — Virgin Galactic Holdings · <span class="rating-spec">SPECULATIVE</span> · $4.53
+
+Commercial spaceflight company developing suborbital tourism via air-launched SpaceShip vehicles. Currently pre-revenue after pausing flights to focus on next-generation Delta-class fleet. First Delta-class ship enters ground tests April 2026, flight tests Q3 2026, and commercial service targeted for Q4 2026. FY2025 revenue was only $1.54M against a $279M net loss and $438M negative free cash flow. Cash of $338M provides ~3–4 quarters of runway. Stock has doubled from lows; RSI is overbought at 78.83. Pure speculative call option on Delta-class execution.
+
+**Bull:** $12–$16 · **Base:** $3–$5 · **Bear:** $1–$2
+
+[:material-arrow-right: Full Deep Dive](SPCE.md)
 
 ---
 

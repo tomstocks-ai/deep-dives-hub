@@ -336,6 +336,18 @@
       "last_updated": "2026-05-13",
       "deep_dive_url": "/deep-dives/WOLF/",
       "api_url": "/api/WOLF.json"
+    },
+    {
+      "ticker": "SPCE",
+      "company": "Virgin Galactic Holdings, Inc.",
+      "sector": "Space",
+      "industry": "Aerospace / Commercial Spaceflight",
+      "rating": "SPECULATIVE",
+      "price": 4.53,
+      "market_cap": "$2.10B",
+      "last_updated": "2026-05-29",
+      "deep_dive_url": "/deep-dives/SPCE/",
+      "api_url": "/api/SPCE.json"
     }
   ]
 }
