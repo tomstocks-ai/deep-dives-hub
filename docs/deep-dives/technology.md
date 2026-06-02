@@ -23,6 +23,7 @@ title: Technology
 | **FIG** | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | $17.70 | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 | **P** | Everpure, Inc. | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](P.md) |
 | **WOLF** | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | $53.72 | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
+| **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | $3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 
 ---
 
@@ -145,6 +146,16 @@ Pure-play silicon carbide (SiC) semiconductor company with vertical integration 
 **Bull:** $65–75 · **Base:** $35–45 · **Bear:** $12–18
 
 [:material-arrow-right: Full Deep Dive](WOLF.md)
+
+---
+
+### DDD — 3D Systems Corporation · <span class="rating-spec-buy">SPEC. BUY</span> · $3.88
+
+Legacy additive manufacturing pioneer executing a multi-year turnaround. Q1 2026 revenue grew 11% YoY to $95.5M with gross margin of 35.9% and adjusted EBITDA turning positive at $2.1M (vs. -$23.9M prior year). Healthcare segment is the growth engine (+21% YoY), while $55M in cost savings is reshaping the cost base. The stock has rallied ~45% in two weeks on turnaround optimism and is now overbought (RSI 75). At <1x sales, the risk/reward is asymmetric — but only on a pullback.
+
+**Bull:** $6.50–$8.00 · **Base:** $4.00–$5.00 · **Bear:** $1.50–$2.50
+
+[:material-arrow-right: Full Deep Dive](DDD.md)
 
 ---
 

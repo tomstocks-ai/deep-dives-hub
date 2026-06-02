@@ -30,5 +30,6 @@
 | **P** | Everpure, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](deep-dives/P.md) |
 | **WOLF** | Wolfspeed, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $53.72 | 2026-05-13 | [:material-file-document: Read](deep-dives/WOLF.md) |
 | **SPCE** | Virgin Galactic Holdings | <span class="badge badge-space">Space</span> | <span class="rating-spec">SPECULATIVE</span> | $4.53 | 2026-05-29 | [:material-file-document: Read](deep-dives/SPCE.md) |
+| **DDD** | 3D Systems Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $3.88 | 2026-06-02 | [:material-file-document: Read](deep-dives/DDD.md) |
 
 ---

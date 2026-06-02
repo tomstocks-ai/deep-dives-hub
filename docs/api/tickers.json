@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-02",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -348,6 +348,18 @@
       "last_updated": "2026-05-29",
       "deep_dive_url": "/deep-dives/SPCE/",
       "api_url": "/api/SPCE.json"
+    },
+    {
+      "ticker": "DDD",
+      "company": "3D Systems Corporation",
+      "sector": "Technology",
+      "industry": "3D Printing / Additive Manufacturing",
+      "rating": "SPECULATIVE BUY",
+      "price": 3.88,
+      "market_cap": "$355M",
+      "last_updated": "2026-06-02",
+      "deep_dive_url": "/deep-dives/DDD/",
+      "api_url": "/api/DDD.json"
     }
   ]
 }
