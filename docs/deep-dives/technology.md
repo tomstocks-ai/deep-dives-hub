@@ -24,6 +24,7 @@ title: Technology
 | **P** | Everpure, Inc. | <span class="rating-hold">HOLD</span> | $83.33 | 2026-05-12 | [:material-file-document: Read](P.md) |
 | **WOLF** | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | $53.72 | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
 | **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | $3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
+| **PURR** | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | $10.97 | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 
 ---
 
@@ -156,6 +157,16 @@ Legacy additive manufacturing pioneer executing a multi-year turnaround. Q1 2026
 **Bull:** $6.50–$8.00 · **Base:** $4.00–$5.00 · **Bear:** $1.50–$2.50
 
 [:material-arrow-right: Full Deep Dive](DDD.md)
+
+---
+
+### PURR — Hyperliquid Strategies Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · $10.97
+
+Publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoin playbook, but focused on Hyperliquid's HYPE token. Holds ~17.6M HYPE (~$1.14B) plus $103M cash with minimal liabilities. Q3 FY2026 profit of $152.5M driven by $198.4M unrealized HYPE gains. Russell 3000 inclusion effective June 26 creates mandatory passive buying. Stock is extremely overbought (RSI 78) after a 219% YTD run — wait for pullback to $8–$8.50.
+
+**Bull:** $16–$20 · **Base:** $11–$14 · **Bear:** $5–$7
+
+[:material-arrow-right: Full Deep Dive](PURR.md)
 
 ---
 
