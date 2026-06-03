@@ -9,7 +9,7 @@ hide:
 # SLDP Deep Dive Analysis: Solid Power Inc.
 **Date:** April 14, 2026  
 **Ticker:** SLDP (NASDAQ)  
-**Current Price:** $3.15  
+**Current Price:** \$3.15  
 **Report Type:** Comprehensive Investment Analysis
 
 ---
@@ -18,7 +18,7 @@ hide:
 
 **Solid Power Inc. (SLDP)** is a development-stage company pioneering all-solid-state battery technology for electric vehicles (EVs). Unlike traditional lithium-ion batteries that use flammable liquid electrolytes, Solid Power's batteries use a proprietary sulfide-based solid electrolyte, potentially offering higher energy density, faster charging, and improved safety.
 
-**Portfolio Context:** Your position of 84 shares at $3.06 cost basis (€218.06 market value) is currently **down -18.78%**. This is a high-risk, high-reward speculative position in the emerging solid-state battery sector.
+**Portfolio Context:** Your position of 84 shares at \$3.06 cost basis (€218.06 market value) is currently **down -18.78%**. This is a high-risk, high-reward speculative position in the emerging solid-state battery sector.
 
 ---
 
@@ -61,7 +61,7 @@ Think of Solid Power as a "pick and shovel" play on the EV battery revolution—
 
 **CEO: John Van Scoter** (appointed June 2023)
 - **Background:** 30-year career at Texas Instruments (TXN), former SVP of Alternative Energy Strategy
-- **Compensation:** $2.85M annually (82% stock-based)
+- **Compensation:** \$2.85M annually (82% stock-based)
 - **Insider Ownership:** Directly owns 0.26% of the company
 - **What This Means:** An experienced tech executive with big-company operational discipline. His Texas Instruments background suggests focus on manufacturing scalability—a critical challenge for solid-state batteries.
 
@@ -84,10 +84,10 @@ Solid Power has secured partnerships with major automotive players:
 
 | Metric | Value | What This Means |
 |--------|-------|-----------------|
-| **Revenue** | $17.91M | Down 11% from $20.14M in 2024. This is primarily from government grants and joint development agreements, not product sales. |
-| **Net Loss** | -$93.41M | The company lost $93M while generating $18M in revenue. This is expected for development-stage tech companies. |
+| **Revenue** | \$17.91M | Down 11% from \$20.14M in 2024. This is primarily from government grants and joint development agreements, not product sales. |
+| **Net Loss** | -\$93.41M | The company lost \$93M while generating \$18M in revenue. This is expected for development-stage tech companies. |
 | **Loss Improvement** | -3.22% vs 2024 | Losses actually *improved* slightly year-over-year—good cost discipline. |
-| **EPS (Diluted)** | -$0.51 | For every share outstanding, the company lost 51 cents. |
+| **EPS (Diluted)** | -\$0.51 | For every share outstanding, the company lost 51 cents. |
 
 **What Revenue Actually Represents:**
 Solid Power's revenue comes from:
@@ -101,26 +101,26 @@ Solid Power's revenue comes from:
 
 | Metric | Value | What This Means |
 |--------|-------|-----------------|
-| **Cash on Hand** | $250.78M (as of Q4 2025) | The company's "runway"—how long they can operate before needing more money. |
+| **Cash on Hand** | \$250.78M (as of Q4 2025) | The company's "runway"—how long they can operate before needing more money. |
 | **Total Debt** | Minimal (1.99% debt-to-equity) | Very low leverage—good financial flexibility. |
-| **Market Cap** | ~$662M | Total value of all outstanding shares at current price. |
+| **Market Cap** | ~\$662M | Total value of all outstanding shares at current price. |
 | **Shares Outstanding** | ~201.2M | The total number of shares that exist. |
 
 ### Cash Runway Analysis (Critical)
 
-**Burn Rate:** Approximately $57-60M annually (based on operating cash flow)
+**Burn Rate:** Approximately \$57-60M annually (based on operating cash flow)
 
 **Calculation:**
-- Cash on hand: $250.78M
-- Recent capital raise: +$121.4M (net proceeds from March 2025 offering)
-- **Total liquidity:** ~$370M+
+- Cash on hand: \$250.78M
+- Recent capital raise: +\$121.4M (net proceeds from March 2025 offering)
+- **Total liquidity:** ~\$370M+
 - **Estimated runway:** 5-6 years at current burn rate
 
 **What This Means:** With the recent capital raise, Solid Power has sufficient funding to reach commercialization—assuming they don't dramatically increase spending. This addresses one of the biggest risks for pre-revenue companies: running out of money.
 
 ### The Dilution Issue
 
-In March 2025, Solid Power completed a $130M equity offering (net $121.4M after fees).
+In March 2025, Solid Power completed a \$130M equity offering (net \$121.4M after fees).
 
 **What Dilution Means:** When a company issues new shares, existing shareholders own a smaller percentage of the company. Think of it like a pizza—if you cut more slices, each slice gets smaller.
 
@@ -143,12 +143,12 @@ Traditional valuation metrics (P/E ratio, PEG ratio) don't work for companies wi
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
-| **Price/Sales (P/S)** | 30.24 | You pay $30 for every $1 of revenue. High, but typical for development-stage tech. |
-| **Price/Book (P/B)** | 1.55 | You pay $1.55 for every $1 of book value. Reasonable. |
+| **Price/Sales (P/S)** | 30.24 | You pay \$30 for every \$1 of revenue. High, but typical for development-stage tech. |
+| **Price/Book (P/B)** | 1.55 | You pay \$1.55 for every \$1 of book value. Reasonable. |
 | **EV/Revenue** | 22.53 | Enterprise value to sales ratio—accounts for cash/debt. |
 
 **What These Mean:**
-- **P/S of 30x** sounds expensive—and it is. But for a company with potential to disrupt a $100B+ market, high multiples are common before commercialization.
+- **P/S of 30x** sounds expensive—and it is. But for a company with potential to disrupt a \$100B+ market, high multiples are common before commercialization.
 - For context, **QuantumScape (QS)** trades at 100x+ revenue multiple—SLDP is "cheaper" than its main pure-play competitor.
 
 ### Analyst Price Targets
@@ -156,12 +156,12 @@ Traditional valuation metrics (P/E ratio, PEG ratio) don't work for companies wi
 | Metric | Value |
 |--------|-------|
 | **Consensus Rating** | Strong Buy (2 analysts) |
-| **Average Price Target** | $7.00 |
+| **Average Price Target** | \$7.00 |
 | **Upside from Current** | +122% |
-| **Price Target Range** | $7.00 (both analysts agree) |
+| **Price Target Range** | \$7.00 (both analysts agree) |
 
 **Recent Analyst Action:**
-- **March 16, 2026:** HC Wainwright initiated coverage with **Buy** rating and $7.00 target
+- **March 16, 2026:** HC Wainwright initiated coverage with **Buy** rating and \$7.00 target
 
 ### Valuation Approach for Pre-Revenue Companies
 
@@ -175,11 +175,11 @@ Since traditional metrics don't work, analysts typically use:
 
 | Scenario | Probability | Implied Value | Key Assumption |
 |----------|-------------|---------------|----------------|
-| **Bear Case** | 35% | $1.00-1.50 | Technology fails to commercialize; company burns cash |
-| **Base Case** | 45% | $5.00-8.00 | Successful licensing deals; moderate market share |
-| **Bull Case** | 20% | $15.00-25.00 | Breakthrough adoption; multiple OEM partnerships |
+| **Bear Case** | 35% | \$1.00-1.50 | Technology fails to commercialize; company burns cash |
+| **Base Case** | 45% | \$5.00-8.00 | Successful licensing deals; moderate market share |
+| **Bull Case** | 20% | \$15.00-25.00 | Breakthrough adoption; multiple OEM partnerships |
 
-**Probability-Weighted Fair Value:** ~$6.50-7.00 (close to analyst targets)
+**Probability-Weighted Fair Value:** ~\$6.50-7.00 (close to analyst targets)
 
 ---
 
@@ -213,10 +213,10 @@ Since traditional metrics don't work, analysts typically use:
 
 | Source | 2024 Market | 2030/2032 Forecast | CAGR |
 |--------|-------------|-------------------|------|
-| Research Nester | $1.6B | $27.7B (2035) | 38% |
-| PS Market Research | $128.5M | $2.0B (2032) | 41% |
-| Fortune Business | $99M | $1.36B (2032) | 42% |
-| MarkNtel Advisors | $1.2B | $6.35B (2030) | 32% |
+| Research Nester | \$1.6B | \$27.7B (2035) | 38% |
+| PS Market Research | \$128.5M | \$2.0B (2032) | 41% |
+| Fortune Business | \$99M | \$1.36B (2032) | 42% |
+| MarkNtel Advisors | \$1.2B | \$6.35B (2030) | 32% |
 
 **What This Means:** Even conservative estimates suggest a 10x+ market expansion over the next 5-7 years. If Solid Power captures just 5-10% of this market, the revenue opportunity is substantial.
 
@@ -240,7 +240,7 @@ Since traditional metrics don't work, analysts typically use:
 
 | Risk | Severity | Explanation |
 |------|----------|-------------|
-| **Cash Burn** | MEDIUM | $50-60M annual burn rate. While current cash provides 5+ years runway, any setbacks could accelerate spending. |
+| **Cash Burn** | MEDIUM | \$50-60M annual burn rate. While current cash provides 5+ years runway, any setbacks could accelerate spending. |
 | **Future Dilution** | MEDIUM | Will likely need additional capital before profitability, further diluting shareholders. |
 | **No Near-Term Revenue** | HIGH | No meaningful product revenue expected until 2027-2028 at earliest. |
 
@@ -250,8 +250,8 @@ Since traditional metrics don't work, analysts typically use:
 
 | Company | Ticker | Approach | Market Cap |
 |---------|--------|----------|------------|
-| **QuantumScape** | QS | Building own factories (capital intensive) | ~$2.5B |
-| **Toyota** | TM | Internal development, automotive-focused | ~$300B+ |
+| **QuantumScape** | QS | Building own factories (capital intensive) | ~\$2.5B |
+| **Toyota** | TM | Internal development, automotive-focused | ~\$300B+ |
 | **Samsung SDI** | Private | Korean conglomerate approach | N/A |
 | **CATL** | Private | World's largest battery maker | N/A |
 
@@ -280,29 +280,29 @@ Since traditional metrics don't work, analysts typically use:
 
 | Date | Close | RSI | Signal |
 |------|-------|-----|--------|
-| Mar 31 | $3.00 | 36.73 | Approaching oversold |
-| Apr 1 | $2.94 | 36.73 | Stabilizing |
-| Apr 2 | $2.94 | 38.71 | Bouncing |
-| Apr 6 | $2.91 | 34.07 | Near oversold |
-| Apr 7 | $2.84 | 31.96 | **Near oversold** |
-| Apr 8 | $3.00 | 44.34 | Rebound |
-| Apr 9 | $2.96 | 40.57 | Consolidation |
-| Apr 10 | $2.95 | 45.26 | Building strength |
-| Apr 13 | $2.98 | 41.57 | Neutral |
-| Apr 14 | **$3.15** | **52.94** | Rising momentum |
+| Mar 31 | \$3.00 | 36.73 | Approaching oversold |
+| Apr 1 | \$2.94 | 36.73 | Stabilizing |
+| Apr 2 | \$2.94 | 38.71 | Bouncing |
+| Apr 6 | \$2.91 | 34.07 | Near oversold |
+| Apr 7 | \$2.84 | 31.96 | **Near oversold** |
+| Apr 8 | \$3.00 | 44.34 | Rebound |
+| Apr 9 | \$2.96 | 40.57 | Consolidation |
+| Apr 10 | \$2.95 | 45.26 | Building strength |
+| Apr 13 | \$2.98 | 41.57 | Neutral |
+| Apr 14 | **\$3.15** | **52.94** | Rising momentum |
 
 **Key Technical Observations:**
 
 1. **RSI Currently at 52.94** — Neutral territory, neither overbought nor oversold
 2. **Recent Oversold Bounce** — RSI hit 31.96 on April 7 (near the 30 oversold threshold), followed by a bounce to current levels
 3. **Trend Reversal Signal** — The move from ~32 to ~53 in one week suggests short-term momentum shift
-4. **Historical Context** — Stock has been in a downtrend since November 2025 highs ($8+), but showing signs of stabilization
+4. **Historical Context** — Stock has been in a downtrend since November 2025 highs (\$8+), but showing signs of stabilization
 
 **Price Action Context:**
 
 | Metric | Value |
 |--------|-------|
-| **52-Week Range** | $0.92 — $8.86 |
+| **52-Week Range** | \$0.92 — \$8.86 |
 | **Current Position** | ~35% of 52-week range |
 | **YTD Return** | +29.41% (outperforming S&P 500's +0.92%) |
 | **1-Year Return** | +220.51% |
@@ -317,20 +317,20 @@ Since traditional metrics don't work, analysts typically use:
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Major Resistance** | $5.50-6.00 | Previous support turned resistance (Jan 2026) |
-| **Minor Resistance** | $4.00 | Psychological level, recent highs |
-| **Current Price** | $3.15 | Trading near recent consolidation |
-| **Minor Support** | $2.80-2.90 | April lows |
-| **Major Support** | $2.00 | Key psychological level |
-| **52-Week Low** | $0.92 | Extreme downside (unlikely without catastrophic failure) |
+| **Major Resistance** | \$5.50-6.00 | Previous support turned resistance (Jan 2026) |
+| **Minor Resistance** | \$4.00 | Psychological level, recent highs |
+| **Current Price** | \$3.15 | Trading near recent consolidation |
+| **Minor Support** | \$2.80-2.90 | April lows |
+| **Major Support** | \$2.00 | Key psychological level |
+| **52-Week Low** | \$0.92 | Extreme downside (unlikely without catastrophic failure) |
 
 ### Moving Averages
 
 | Period | Approximate Level | Current Status |
 |--------|-------------------|----------------|
-| **20-Day EMA** | ~$3.20 | Price testing from below |
-| **50-Day EMA** | ~$3.80 | Below, indicating medium-term downtrend |
-| **200-Day EMA** | ~$2.80 | Above, indicating long-term uptrend intact |
+| **20-Day EMA** | ~\$3.20 | Price testing from below |
+| **50-Day EMA** | ~\$3.80 | Below, indicating medium-term downtrend |
+| **200-Day EMA** | ~\$2.80 | Above, indicating long-term uptrend intact |
 
 **Technical Summary:**
 - Short-term: Neutral to slightly bullish (RSI bounce from oversold)
@@ -347,7 +347,7 @@ Since traditional metrics don't work, analysts typically use:
 |--------|-------|
 | **Consensus Rating** | Strong Buy |
 | **Number of Analysts** | 2 (limited coverage) |
-| **Average Price Target** | $7.00 |
+| **Average Price Target** | \$7.00 |
 | **Upside to Target** | +122% |
 
 **Note:** Limited analyst coverage is typical for small-cap pre-revenue companies. More coverage will come as the company approaches commercialization.
@@ -391,19 +391,19 @@ Short interest appears manageable—not heavily shorted like some speculative EV
 
 ### Recent Key Developments
 
-**March 2025: $130M Equity Offering**
-- Gross proceeds of $130M (net ~$121.4M)
+**March 2025: \$130M Equity Offering**
+- Gross proceeds of \$130M (net ~\$121.4M)
 - Extends cash runway significantly
 - Dilutive but necessary for survival
 - Stock sold off ~15-20% on announcement (typical for dilutive offerings)
 
 **Q4 2025 Earnings (February 2026):**
-- Revenue: $3.63M (quarterly)
-- Net Loss: -$27.05M (quarterly)
-- Cash position: $336.5M (year-end) before March offering
+- Revenue: \$3.63M (quarterly)
+- Net Loss: -\$27.05M (quarterly)
+- Cash position: \$336.5M (year-end) before March offering
 
 **Analyst Coverage Initiation (March 2026):**
-- HC Wainwright initiated with Buy rating, $7.00 target
+- HC Wainwright initiated with Buy rating, \$7.00 target
 - Provides validation of commercialization potential
 
 ### News Themes
@@ -447,7 +447,7 @@ If solid-state batteries become the standard for next-generation EVs (which many
    - Increased analyst coverage
    - Institutional accumulation
 
-**Realistic Bull Case Price Target:** $10-15 (3-5x from current levels)
+**Realistic Bull Case Price Target:** \$10-15 (3-5x from current levels)
 
 ### Bear Case: What Could Go Wrong
 
@@ -471,7 +471,7 @@ Solid-state batteries may never achieve commercial viability, or competitors may
    - Unable to raise additional capital
    - Dilution or bankruptcy
 
-**Realistic Bear Case Price Target:** $0.50-1.00 (70-85% downside)
+**Realistic Bear Case Price Target:** \$0.50-1.00 (70-85% downside)
 
 ### Base Case: Most Likely Scenario
 
@@ -484,17 +484,17 @@ Solid Power successfully commercializes its technology but faces significant com
 - Moderate market share (5-10% of solid-state market)
 - Path to profitability by 2030-2031
 
-**Base Case Price Target:** $5-8 (60-150% upside from current levels)
+**Base Case Price Target:** \$5-8 (60-150% upside from current levels)
 
-**12-Month Target:** $5.00 (realistic based on milestone progress)
+**12-Month Target:** \$5.00 (realistic based on milestone progress)
 
 ### Risk/Reward Assessment
 
 | Scenario | Probability | Price Target | Weighted Return |
 |----------|-------------|--------------|-----------------|
-| Bear | 35% | $1.00 | -68% |
-| Base | 45% | $5.00 | +59% |
-| Bull | 20% | $12.00 | +281% |
+| Bear | 35% | \$1.00 | -68% |
+| Base | 45% | \$5.00 | +59% |
+| Bull | 20% | \$12.00 | +281% |
 | **Expected Value** | — | — | **+42%** |
 
 **Conclusion:** Positive expected value, but high variance. This is a speculative position that should be sized accordingly.
@@ -506,7 +506,7 @@ Solid Power successfully commercializes its technology but faces significant com
 ### Official Rating: **HOLD / SPECULATIVE**
 
 **For Your Current Position:**
-- You are already invested (84 shares at $3.06 cost basis)
+- You are already invested (84 shares at \$3.06 cost basis)
 - Current loss: -18.78%
 - **Do not add at this time** given the speculative nature
 - **Do not sell** unless thesis fundamentally changes
@@ -523,16 +523,16 @@ Solid Power successfully commercializes its technology but faces significant com
 **For New Positions:**
 - **Immediate Entry:** Not recommended—wait for better entry
 - **Scale In Approach:** If entering, use 3 tranches:
-  - Tranche 1: At current levels ($3.00-3.20)
-  - Tranche 2: On pullback to $2.50-2.80
-  - Tranche 3: On major technical breakdown below $2.00 (if willing to average down)
+  - Tranche 1: At current levels (\$3.00-3.20)
+  - Tranche 2: On pullback to \$2.50-2.80
+  - Tranche 3: On major technical breakdown below \$2.00 (if willing to average down)
 
 ### Stop Loss / Risk Management
 
 | Level | Action | Rationale |
 |-------|--------|-----------|
-| **Soft Stop: $2.00** | Reduce position by 50% | Major technical support break |
-| **Hard Stop: $1.25** | Full exit | 60% decline suggests fundamental issues |
+| **Soft Stop: \$2.00** | Reduce position by 50% | Major technical support break |
+| **Hard Stop: \$1.25** | Full exit | 60% decline suggests fundamental issues |
 
 **Mental Stop:** If company announces:
 - Major technical setbacks
@@ -544,12 +544,12 @@ Solid Power successfully commercializes its technology but faces significant com
 
 | Type | Level | Significance |
 |------|-------|--------------|
-| **Entry (Add)** | $2.50-2.80 | Technical support, better risk/reward |
-| **Current** | $3.15 | Hold existing position |
-| **Target 1** | $5.00 | Analyst consensus, take partial profits |
-| **Target 2** | $7.00 | Bull case scenario, significant profits |
-| **Target 3** | $10.00+ | Extreme bull case, trim aggressively |
-| **Stop Loss** | $2.00 | Protect capital if thesis breaks |
+| **Entry (Add)** | \$2.50-2.80 | Technical support, better risk/reward |
+| **Current** | \$3.15 | Hold existing position |
+| **Target 1** | \$5.00 | Analyst consensus, take partial profits |
+| **Target 2** | \$7.00 | Bull case scenario, significant profits |
+| **Target 3** | \$10.00+ | Extreme bull case, trim aggressively |
+| **Stop Loss** | \$2.00 | Protect capital if thesis breaks |
 
 ### Catalyst Calendar
 
@@ -575,13 +575,13 @@ Solid Power is a bet on a better battery. They're not making batteries yet—the
 - Their "asset-light" model means they don't need billions to build factories
 
 **The Bad News:**
-- They're losing $93M per year with only $18M in revenue
+- They're losing \$93M per year with only \$18M in revenue
 - They may issue more shares (diluting your ownership) before profitability
 - Many battery startups have failed at the "scale-up" phase
 - Commercial revenue is likely 2-3 years away
 
 **The Bottom Line for Your Position:**
-Your 84 shares at $3.06 represent a small speculative bet on solid-state battery technology. With a cost basis of €218, this is sized appropriately as a "lottery ticket" investment. Don't add more, but don't panic sell either—unless the company announces major setbacks or runs low on cash.
+Your 84 shares at \$3.06 represent a small speculative bet on solid-state battery technology. With a cost basis of €218, this is sized appropriately as a "lottery ticket" investment. Don't add more, but don't panic sell either—unless the company announces major setbacks or runs low on cash.
 
 **Key Acronyms Defined:**
 - **RSI** = Relative Strength Index (momentum indicator, 0-100 scale)

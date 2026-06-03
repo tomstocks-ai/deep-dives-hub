@@ -12,8 +12,8 @@ hide:
 
 **Report Date:** April 2, 2026  
 **Ticker:** NASDAQ: SATL  
-**Current Price:** ~$3.00-$3.50 (estimated range)  
-**Market Cap:** ~$444M  
+**Current Price:** ~\$3.00-\$3.50 (estimated range)  
+**Market Cap:** ~\$444M  
 **Shares Outstanding:** ~143M  
 **Sector:** Aerospace & Defense / Satellite Services  
 **Industry:** Earth Observation & Geospatial Intelligence
@@ -29,16 +29,16 @@ Satellogic is a **vertically integrated Earth observation (EO) company** — mea
 **Revenue Breakdown (FY2025):**
 | Segment | Revenue | % of Total | Description |
 |---------|---------|------------|-------------|
-| Data & Analytics | $16.0M | 90% | Satellite imagery sales, CaaS (Constellation-as-a-Service) |
-| Space Systems | $1.7M | 10% | Satellite sales, technology transfer, hardware |
-| **Total** | **$17.7M** | **100%** | |
+| Data & Analytics | \$16.0M | 90% | Satellite imagery sales, CaaS (Constellation-as-a-Service) |
+| Space Systems | \$1.7M | 10% | Satellite sales, technology transfer, hardware |
+| **Total** | **\$17.7M** | **100%** | |
 
 *What this means:* Nearly all revenue comes from selling imagery and data services rather than hardware. This is a software/services margin story, not a manufacturing story.
 
 ### Industry Position and Competitive Moat
 
 **The Earth Observation Market Landscape:**
-- **Market Size:** ~$4.3B in 2025, growing to $6.6B by 2034 (CAGR ~5.9%)
+- **Market Size:** ~\$4.3B in 2025, growing to \$6.6B by 2034 (CAGR ~5.9%)
 - **Key Competitors:** Planet Labs (largest), Maxar Technologies, BlackSky, Airbus
 
 **Satellogic's Position:** Small-cap challenger with differentiated technology
@@ -93,63 +93,63 @@ Class A shares (public) = 1 vote per share. Class B shares (insiders) = multiple
 
 | Metric | FY2025 | FY2024 | Change | What This Means |
 |--------|--------|--------|--------|-----------------|
-| Revenue | $17.7M | $12.9M | +37.6% | Strong growth trajectory |
-| Gross Profit | $12.8M | $7.9M | +62% | Improving unit economics |
+| Revenue | \$17.7M | \$12.9M | +37.6% | Strong growth trajectory |
+| Gross Profit | \$12.8M | \$7.9M | +62% | Improving unit economics |
 | Gross Margin | 72% | 61% | +11pp | More revenue dropping to bottom line |
-| Operating Loss | ($31.0M) | ($52.2M) | +41% improvement | Getting closer to breakeven |
-| Net Loss | ($4.8M) | ($116.3M) | +96% improvement | Almost break-even |
-| Adj. EBITDA Loss | ($17.4M) | ($33.7M) | +48% improvement | Core operations improving |
+| Operating Loss | (\$31.0M) | (\$52.2M) | +41% improvement | Getting closer to breakeven |
+| Net Loss | (\$4.8M) | (\$116.3M) | +96% improvement | Almost break-even |
+| Adj. EBITDA Loss | (\$17.4M) | (\$33.7M) | +48% improvement | Core operations improving |
 
 **Revenue Growth Trajectory (3-Year):**
-- 2023: ~$10M (estimated)
-- 2024: $12.9M (+29% YoY)
-- 2025: $17.7M (+38% YoY)
+- 2023: ~\$10M (estimated)
+- 2024: \$12.9M (+29% YoY)
+- 2025: \$17.7M (+38% YoY)
 
 **What Gross Margin Tells Us:**
-A 72% gross margin means for every $1 in sales, Satellogic keeps $0.72 after direct costs (satellite operations, data delivery). This is excellent for a hardware-heavy business — comparable to software companies. It suggests once they reach scale, profitability could be substantial.
+A 72% gross margin means for every \$1 in sales, Satellogic keeps \$0.72 after direct costs (satellite operations, data delivery). This is excellent for a hardware-heavy business — comparable to software companies. It suggests once they reach scale, profitability could be substantial.
 
 **The "Almost Profitable" Story:**
-Net loss of only $4.8M on $17.7M revenue is a massive improvement from $116M loss in 2024. This was driven by fair value gains on financial instruments (warrants, convertible notes). **Core operations are NOT yet profitable** — this was an accounting gain, not operational profit.
+Net loss of only \$4.8M on \$17.7M revenue is a massive improvement from \$116M loss in 2024. This was driven by fair value gains on financial instruments (warrants, convertible notes). **Core operations are NOT yet profitable** — this was an accounting gain, not operational profit.
 
 ### Balance Sheet Analysis
 
 | Item | Dec 2025 | Dec 2024 | Change | Health Assessment |
 |------|----------|----------|--------|-------------------|
-| Cash & Equivalents | $94.4M | $22.5M | +319% | Strong post-capital raises |
-| Restricted Cash | $7.4M | $0 | New | Funds earmarked for specific uses |
-| Total Current Assets | $115.2M | $27.9M | +313% | Liquidity improved dramatically |
-| Property & Equipment | $24.7M | $27.2M | -9% | Satellites depreciating |
-| Total Assets | $151.3M | $61.7M | +145% | |
-| Secured Convertible Notes | $56.1M | $79.1M | -29% | Some conversion/warrants exercised |
-| Total Liabilities | $90.8M | $114.7M | -21% | |
-| Stockholders' Equity | $60.5M | ($53.0M) | N/A | No longer negative! |
+| Cash & Equivalents | \$94.4M | \$22.5M | +319% | Strong post-capital raises |
+| Restricted Cash | \$7.4M | \$0 | New | Funds earmarked for specific uses |
+| Total Current Assets | \$115.2M | \$27.9M | +313% | Liquidity improved dramatically |
+| Property & Equipment | \$24.7M | \$27.2M | -9% | Satellites depreciating |
+| Total Assets | \$151.3M | \$61.7M | +145% | |
+| Secured Convertible Notes | \$56.1M | \$79.1M | -29% | Some conversion/warrants exercised |
+| Total Liabilities | \$90.8M | \$114.7M | -21% | |
+| Stockholders' Equity | \$60.5M | (\$53.0M) | N/A | No longer negative! |
 
 **Cash Runway Analysis:**
-- Cash burn from operations: $26.9M in 2025 (down from $35.9M in 2024)
-- Current cash: $94.4M + $35M subsequent offering (Jan 2026) = ~$130M
+- Cash burn from operations: \$26.9M in 2025 (down from \$35.9M in 2024)
+- Current cash: \$94.4M + \$35M subsequent offering (Jan 2026) = ~\$130M
 - At 2025 burn rate: ~5 years of runway
 - At conservative 20% growth: ~4 years of runway
 
 **What "Convertible Notes" Means:**
-These are loans that can convert to stock. The $56M balance represents debt that could become ~15-20M shares, diluting existing shareholders. However, if the stock price rises significantly, conversion benefits the company (debt disappears).
+These are loans that can convert to stock. The \$56M balance represents debt that could become ~15-20M shares, diluting existing shareholders. However, if the stock price rises significantly, conversion benefits the company (debt disappears).
 
 **Asset-Lite vs Asset-Heavy:**
-Satellogic is **asset-heavy** — they own $25M in satellites (property & equipment). Unlike software companies with minimal physical assets, Satellogic must continually invest in new satellites as old ones de-orbit (typical lifespan: 3-5 years).
+Satellogic is **asset-heavy** — they own \$25M in satellites (property & equipment). Unlike software companies with minimal physical assets, Satellogic must continually invest in new satellites as old ones de-orbit (typical lifespan: 3-5 years).
 
 ### Cash Flow Analysis
 
 | Metric | 2025 | 2024 | Trend |
 |--------|------|------|-------|
-| Operating Cash Flow | ($26.9M) | ($35.9M) | Improving |
-| Capital Expenditures | ($7.4M) | ($5.0M) | Increasing |
-| Free Cash Flow | ($34.3M) | ($40.9M) | Improving |
-| Financing Cash Flow | +$112.5M | +$37.5M | Major raises |
+| Operating Cash Flow | (\$26.9M) | (\$35.9M) | Improving |
+| Capital Expenditures | (\$7.4M) | (\$5.0M) | Increasing |
+| Free Cash Flow | (\$34.3M) | (\$40.9M) | Improving |
+| Financing Cash Flow | +\$112.5M | +\$37.5M | Major raises |
 
 **Capital Intensity:**
-This is a capital-intensive business. Each satellite costs $1M+ to build and launch. The Merlin constellation (fully funded by a $30M customer contract) requires continued investment.
+This is a capital-intensive business. Each satellite costs \$1M+ to build and launch. The Merlin constellation (fully funded by a \$30M customer contract) requires continued investment.
 
 **Free Cash Flow Story:**
-Negative $34M free cash flow means Satellogic spent $34M more than it generated. This is normal for growth-phase companies but requires continued access to capital markets.
+Negative \$34M free cash flow means Satellogic spent \$34M more than it generated. This is normal for growth-phase companies but requires continued access to capital markets.
 
 ---
 
@@ -159,24 +159,24 @@ Negative $34M free cash flow means Satellogic spent $34M more than it generated.
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| Market Cap | ~$444M | Small-cap stock |
-| Enterprise Value | ~$500M | Market cap + debt - cash |
+| Market Cap | ~\$444M | Small-cap stock |
+| Enterprise Value | ~\$500M | Market cap + debt - cash |
 | Price/Sales (TTM) | 25x | High for current revenue |
 | Price/Sales (2026E) | ~12-15x | If growth continues |
 | EV/Revenue | ~28x | Including debt |
 | Shares Outstanding | ~143M | |
 
 **What These Multiples Mean:**
-A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This is expensive compared to mature companies (typically 2-5x) but common for high-growth space tech. The bet: Revenue will 5-10x over the next few years, making today's price cheap in hindsight.
+A 25x price-to-sales ratio means investors pay \$25 for every \$1 of revenue. This is expensive compared to mature companies (typically 2-5x) but common for high-growth space tech. The bet: Revenue will 5-10x over the next few years, making today's price cheap in hindsight.
 
 ### Comparable Company Analysis
 
 | Company | Market Cap | Revenue | EV/Sales | Business Model |
 |---------|------------|---------|----------|----------------|
-| Planet Labs (PL) | ~$1.5B | ~$220M | ~7x | Pure-play imagery, larger constellation |
-| BlackSky (BKSY) | ~$300M | ~$100M | ~3x | Real-time geospatial intelligence |
-| Maxar (private) | N/A | ~$1.8B | N/A | Legacy player, high-end government |
-| Satellogic (SATL) | ~$444M | $17.7M | ~28x | Emerging challenger, integrated model |
+| Planet Labs (PL) | ~\$1.5B | ~\$220M | ~7x | Pure-play imagery, larger constellation |
+| BlackSky (BKSY) | ~\$300M | ~\$100M | ~3x | Real-time geospatial intelligence |
+| Maxar (private) | N/A | ~\$1.8B | N/A | Legacy player, high-end government |
+| Satellogic (SATL) | ~\$444M | \$17.7M | ~28x | Emerging challenger, integrated model |
 
 **Valuation Conclusion:** Satellogic trades at a premium to peers on current metrics but has higher growth potential and better unit economics (72% gross margin vs Planet's ~45%).
 
@@ -186,9 +186,9 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
 
 **Assumptions:**
 - Fair EV/Sales for mature Earth observation: 5-7x
-- Current EV: ~$500M
-- Implied "fair" revenue at maturity: $71-100M
-- Current revenue: $17.7M
+- Current EV: ~\$500M
+- Implied "fair" revenue at maturity: \$71-100M
+- Current revenue: \$17.7M
 - **Required growth:** 4-6x revenue over 5 years = ~30-40% CAGR
 
 **What This Means:** The stock is pricing in continued strong execution and 30-40% annual revenue growth. If they achieve this, the stock could double or triple. If growth stalls, significant downside exists.
@@ -197,13 +197,13 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
 
 | Scenario | Probability | Revenue 2027E | Stock Price Target | IRR |
 |------------|-------------|---------------|-------------------|-----|
-| **Bear** | 30% | $25M | $1.50 (-50%) | -30% |
-| **Base** | 50% | $40M | $5.00 (+50%) | +20% |
-| **Bull** | 20% | $70M | $10.00 (+200%) | +60% |
+| **Bear** | 30% | \$25M | \$1.50 (-50%) | -30% |
+| **Base** | 50% | \$40M | \$5.00 (+50%) | +20% |
+| **Bull** | 20% | \$70M | \$10.00 (+200%) | +60% |
 
 **Bear Case Drivers:** Customer concentration risk, launch failures, competition from Planet/Maxar
 **Base Case Drivers:** Continued 35% growth, Merlin launch success, sovereign deal expansion
-**Bull Case Drivers:** Merlin constellation drives $30M+ new annual revenue, AI-first analytics premium pricing, acquisition target
+**Bull Case Drivers:** Merlin constellation drives \$30M+ new annual revenue, AI-first analytics premium pricing, acquisition target
 
 ---
 
@@ -212,20 +212,20 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
 ### Near-Term Catalysts (6-12 Months)
 
 1. **Merlin Constellation Launch (October 2026)**
-   - Fully funded by $30M customer contract
+   - Fully funded by \$30M customer contract
    - First satellites launch Q4 2026
    - 1-meter daily global remapping capability
    - AI-first processing with real-time alerts
    - **What this means:** If successful, Satellogic leapfrogs competitors in automated detection and alerting — a potentially game-changing capability for defense/intelligence customers.
 
 2. **CEiiA Satellite Delivery (Q2-Q3 2026)**
-   - $18M Portugal contract
+   - \$18M Portugal contract
    - Two satellites delivered in-orbit
    - Demonstrates sovereign model scalability
    - **What this means:** Proof that the "sell satellites to nations" model works. Could unlock similar deals with other countries.
 
-3. **Remaining Performance Obligations ($65.1M)**
-   - $28.6M recognized within 12 months
+3. **Remaining Performance Obligations (\$65.1M)**
+   - \$28.6M recognized within 12 months
    - Provides visibility into 2026 revenue
    - **What this means:** Nearly 2x 2025 revenue already contracted — de-risks the growth story.
 
@@ -242,7 +242,7 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
    - **What this means:** Shift from "selling pixels" to "selling insights" — dramatically higher margins.
 
 3. **Defense Contract Expansion**
-   - Strategic defense customer already committed $30M
+   - Strategic defense customer already committed \$30M
    - US government market access post-domestication
    - **What this means:** Government contracts are sticky, multi-year, and premium-priced.
 
@@ -250,7 +250,7 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
 
 | Partner | Relationship | Strategic Value |
 |---------|--------------|-----------------|
-| CEiiA (Portugal) | $18M satellite sale | Sovereign model validation |
+| CEiiA (Portugal) | \$18M satellite sale | Sovereign model validation |
 | Suhora (India) | Exclusive distributor | Access to massive Indian market |
 | HEO Robotics | Non-Earth imaging partnership | New revenue stream (space domain awareness) |
 | SpaceX | Launch provider | Cost-effective, reliable launches |
@@ -270,14 +270,14 @@ A 25x price-to-sales ratio means investors pay $25 for every $1 of revenue. This
 | **Execution Risk** | MEDIUM | Experienced management | Merlin launch must happen on time |
 
 **Customer Concentration Detail:**
-The $30M defense contract and $18M Portugal contract likely represent ~60% of remaining performance obligations. If either cancels, revenue growth stalls.
+The \$30M defense contract and \$18M Portugal contract likely represent ~60% of remaining performance obligations. If either cancels, revenue growth stalls.
 
 ### Financial Risks
 
 | Risk | Severity | Impact |
 |------|----------|--------|
 | **Dilution** | HIGH | Convertible notes + warrant exercises could add 30-50M shares |
-| **Cash Burn** | MEDIUM | Still burning $25M+/year despite improvements |
+| **Cash Burn** | MEDIUM | Still burning \$25M+/year despite improvements |
 | **Debt Covenants** | LOW | Secured notes have conversion features, not restrictive covenants |
 
 **Dilution Math:**
@@ -305,19 +305,19 @@ Your ownership percentage could shrink by 20-25% as these securities convert. Ho
 
 ### Price Action Overview
 
-**Current Trading Range:** $3.00 - $3.50 (estimated based on recent news)
+**Current Trading Range:** \$3.00 - \$3.50 (estimated based on recent news)
 
 **Key Levels:**
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Strong Resistance** | $5.92 | Post-SPAC highs, significant supply zone |
-| **Resistance** | $3.48-$3.68 | Recent consolidation ceiling |
-| **200-Day MA** | $3.07 | Long-term trend indicator |
-| **Current Price** | ~$3.00 | Near 200-day MA |
-| **Support** | $2.50 | Psychological level |
-| **Strong Support** | $1.94 | Major Fibonacci retracement |
-| **All-Time Low** | ~$1.00 | Post-SPAC panic selling |
+| **Strong Resistance** | \$5.92 | Post-SPAC highs, significant supply zone |
+| **Resistance** | \$3.48-\$3.68 | Recent consolidation ceiling |
+| **200-Day MA** | \$3.07 | Long-term trend indicator |
+| **Current Price** | ~\$3.00 | Near 200-day MA |
+| **Support** | \$2.50 | Psychological level |
+| **Strong Support** | \$1.94 | Major Fibonacci retracement |
+| **All-Time Low** | ~\$1.00 | Post-SPAC panic selling |
 
 **What "200-Day Moving Average" Means:**
 The average closing price over the last 200 trading days (~10 months). Trading above it suggests long-term uptrend; below suggests downtrend. Satellogic is hovering right at this level — a decisive break above/below will determine next major move.
@@ -330,12 +330,12 @@ The average closing price over the last 200 trading days (~10 months). Trading a
 
 ### Trend Structure
 
-**Short-term (Daily):** Neutral consolidation between $2.80-$3.50
+**Short-term (Daily):** Neutral consolidation between \$2.80-\$3.50
 **Medium-term (Weekly):** Sideways after recovery from 2024 lows
-**Long-term (Monthly):** Downtrend from SPAC merger ($10) to current levels
+**Long-term (Monthly):** Downtrend from SPAC merger (\$10) to current levels
 
 **Pattern Recognition:**
-Satellogic is forming a **base-building pattern** after the catastrophic post-SPAC decline. This is constructive long-term price action — stocks that go from $10 to $1 and then build a base often become good investments if fundamentals improve.
+Satellogic is forming a **base-building pattern** after the catastrophic post-SPAC decline. This is constructive long-term price action — stocks that go from \$10 to \$1 and then build a base often become good investments if fundamentals improve.
 
 ### Relative Performance
 
@@ -354,14 +354,14 @@ Satellogic is forming a **base-building pattern** after the catastrophic post-SP
 
 | Firm | Rating | Price Target | Date |
 |------|--------|--------------|------|
-| Consensus | Strong Buy | $5.50 | March 2026 |
+| Consensus | Strong Buy | \$5.50 | March 2026 |
 
 **What "Strong Buy" Consensus Means:**
 With only 3 analysts covering the stock, this rating should be taken with a grain of salt. Small-cap stocks often have limited analyst coverage, making the consensus less meaningful than for large-caps like Apple or Microsoft.
 
 **Price Target Analysis:**
-- Consensus PT: $5.50
-- Current Price: ~$3.00
+- Consensus PT: \$5.50
+- Current Price: ~\$3.00
 - Implied Upside: 83%
 
 **What This Means:** If analysts are right, significant upside exists. However, analyst price targets on small-cap growth stocks are often overly optimistic.
@@ -403,8 +403,8 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 |------|------|--------------|
 | March 2026 | Q4 2025 Earnings — 94% revenue growth | Validates growth trajectory |
 | March 2026 | Merlin constellation announcement | Game-changing capability if executed |
-| Feb 2026 | $35M registered direct offering | Strengthened balance sheet |
-| Jan 2026 | CEiiA $18M contract execution | Sovereign model working |
+| Feb 2026 | \$35M registered direct offering | Strengthened balance sheet |
+| Jan 2026 | CEiiA \$18M contract execution | Sovereign model working |
 | Dec 2025 | Albania contract extension | Recurring revenue validation |
 
 ### Industry News Context
@@ -431,13 +431,13 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 **Key Upside Drivers:**
 1. **Merlin Constellation Success** — If the AI-first, 1-meter daily remapping system launches successfully, Satellogic leapfrogs competitors in a capability that defense customers will pay premium pricing for.
 
-2. **Sovereign Program Replication** — The Portugal ($18M) and Malaysia deals prove the model. If Satellogic signs 3-5 similar deals annually, revenue could 5x within 3 years.
+2. **Sovereign Program Replication** — The Portugal (\$18M) and Malaysia deals prove the model. If Satellogic signs 3-5 similar deals annually, revenue could 5x within 3 years.
 
-3. **Path to Profitability** — With $17.4M Adjusted EBITDA loss and improving margins, break-even is achievable by 2027-2028 if growth continues.
+3. **Path to Profitability** — With \$17.4M Adjusted EBITDA loss and improving margins, break-even is achievable by 2027-2028 if growth continues.
 
-4. **Acquisition Target** — Maxar (private), Planet, or defense primes (Lockheed, Northrop) could acquire Satellogic for technology/constellation at $800M-$1.2B (2-3x current price).
+4. **Acquisition Target** — Maxar (private), Planet, or defense primes (Lockheed, Northrop) could acquire Satellogic for technology/constellation at \$800M-\$1.2B (2-3x current price).
 
-**Realistic Upside Price Target:** $8-10 (150-250% upside)
+**Realistic Upside Price Target:** \$8-10 (150-250% upside)
 
 **What Needs to Go Right:**
 - Merlin launches on schedule (October 2026)
@@ -448,7 +448,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 ### Bear Case
 
 **Key Downside Risks:**
-1. **Customer Concentration Blow-Up** — Losing the $30M defense customer or Portugal deal would crater revenue growth.
+1. **Customer Concentration Blow-Up** — Losing the \$30M defense customer or Portugal deal would crater revenue growth.
 
 2. **Merlin Launch Failure** — Technical delays or failures would destroy credibility and likely require additional dilutive financing.
 
@@ -456,7 +456,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 
 4. **Funding Risk** — Despite recent raises, another capital raise may be needed before profitability, diluting shareholders further.
 
-**Realistic Downside Price Target:** $1.00-1.50 (50-65% downside)
+**Realistic Downside Price Target:** \$1.00-1.50 (50-65% downside)
 
 **What Could Go Wrong:**
 - Launch failures or satellite malfunctions
@@ -467,16 +467,16 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 ### Base Case
 
 **Most Likely Scenario:**
-Satellogic successfully launches Merlin in late 2026, signs 2-3 additional sovereign deals, grows revenue to $35-40M by 2027, and narrows EBITDA losses to $5-10M. The company raises additional capital in 2027 but achieves operational break-even by 2028.
+Satellogic successfully launches Merlin in late 2026, signs 2-3 additional sovereign deals, grows revenue to \$35-40M by 2027, and narrows EBITDA losses to \$5-10M. The company raises additional capital in 2027 but achieves operational break-even by 2028.
 
-**12-Month Price Target:** $5.00 (+65% from current levels)
+**12-Month Price Target:** \$5.00 (+65% from current levels)
 
 **Risk/Reward Assessment:**
 | Scenario | Probability | Target | Weighted Return |
 |----------|-------------|--------|-----------------|
-| Bear | 30% | $1.25 | -58% |
-| Base | 50% | $5.00 | +65% |
-| Bull | 20% | $9.00 | +200% |
+| Bear | 30% | \$1.25 | -58% |
+| Base | 50% | \$5.00 | +65% |
+| Bull | 20% | \$9.00 | +200% |
 | **Expected Return** | | | **+44%** |
 
 ---
@@ -496,25 +496,25 @@ This is a high-risk, high-reward position suitable only for investors who can to
 ### Entry Strategy
 
 **Option A: Immediate Entry**
-- **Rationale:** Current levels ($3.00) offer attractive risk/reward
-- **Risk:** Could decline to $2.00 on broader market weakness
+- **Rationale:** Current levels (\$3.00) offer attractive risk/reward
+- **Risk:** Could decline to \$2.00 on broader market weakness
 - **Suitable for:** Investors with long-term horizon, can dollar-cost average
 
 **Option B: Scale In**
 - **Rationale:** Build position gradually to average entry price
-- **Execution:** 1/3 position at $3.00, 1/3 at $2.50, 1/3 at $2.00
+- **Execution:** 1/3 position at \$3.00, 1/3 at \$2.50, 1/3 at \$2.00
 - **Risk:** Stock may never reach lower targets
 - **Suitable for:** Most investors — recommended approach
 
 **Option C: Wait for Pullback**
 - **Rationale:** Market volatility may offer better entry
-- **Target Entry:** $2.00-2.50
+- **Target Entry:** \$2.00-2.50
 - **Risk:** Positive catalyst (contract, Merlin update) could gap stock higher
 - **Suitable for:** Patient investors not afraid of missing out
 
 ### Risk Management
 
-**Stop Loss:** $1.80 (40% below current price)
+**Stop Loss:** \$1.80 (40% below current price)
 - Triggers if technical support breaks
 - Preserves capital for better opportunities
 
@@ -522,11 +522,11 @@ This is a high-risk, high-reward position suitable only for investors who can to
 
 | Level | Action | Rationale |
 |-------|--------|-----------|
-| $5.50 | Take partial profits | Analyst price target, resistance |
-| $8.00 | Take 50% profits | Bull case target |
-| $10.00 | Sell remaining | Maximum bull case |
-| $2.00 | Add to position | Strong support, better risk/reward |
-| $1.80 | Stop loss | Technical breakdown |
+| \$5.50 | Take partial profits | Analyst price target, resistance |
+| \$8.00 | Take 50% profits | Bull case target |
+| \$10.00 | Sell remaining | Maximum bull case |
+| \$2.00 | Add to position | Strong support, better risk/reward |
+| \$1.80 | Stop loss | Technical breakdown |
 
 ### Catalyst Calendar
 
@@ -546,11 +546,11 @@ This is a high-risk, high-reward position suitable only for investors who can to
 
 | Term | Simple Explanation | Why It Matters |
 |------|-------------------|----------------|
-| **Gross Margin** | How much of each sale you keep after direct costs | 72% = keep $0.72 of every $1 sold. High = good pricing power |
+| **Gross Margin** | How much of each sale you keep after direct costs | 72% = keep \$0.72 of every \$1 sold. High = good pricing power |
 | **EBITDA** | Profit before interest, taxes, and accounting charges | Shows if core business makes money, ignoring financing decisions |
 | **Convertible Notes** | Loans that can become stock | Good: Debt disappears if stock rises. Bad: Dilutes shareholders |
 | **Dual-Class Shares** | Some shares have more voting power | Founders keep control even with minority economic ownership |
-| **Price/Sales (P/S)** | Stock price divided by revenue per share | 25x = paying $25 for every $1 of sales. High = growth expectations |
+| **Price/Sales (P/S)** | Stock price divided by revenue per share | 25x = paying \$25 for every \$1 of sales. High = growth expectations |
 | **Runway** | How long until cash runs out at current burn | Longer = more time to prove business model |
 | **Dilution** | Creating new shares, reducing ownership % | Existing shareholders own less of the company |
 | **CAGR** | Average annual growth rate over period | 35% CAGR means doubling every 2.5 years |
@@ -569,24 +569,24 @@ This is a high-risk, high-reward position suitable only for investors who can to
 
 ### What The Numbers Actually Mean
 
-**"$17.7M Revenue"**
-- This is tiny. For context, Planet Labs does $220M. 
+**"\$17.7M Revenue"**
+- This is tiny. For context, Planet Labs does \$220M. 
 - **What it means:** Early-stage company with massive growth potential OR struggling to find market fit.
 - **Verdict:** Growth rate (+38%) suggests potential, not struggle.
 
 **"72% Gross Margin"**
-- For every $100 in sales, direct costs are only $28.
+- For every \$100 in sales, direct costs are only \$28.
 - **What it means:** Satellogic's "factory" (satellite operations) is highly efficient.
 - **Comparison:** Software companies: 70-85%. Manufacturing: 20-40%.
 - **Verdict:** Exceptional for a hardware business — suggests strong competitive position.
 
-**"$65.1M Remaining Performance Obligations"**
+**"\$65.1M Remaining Performance Obligations"**
 - Money already contracted but not yet recognized as revenue.
 - **What it means:** Nearly 4 years of 2025-level revenue already booked.
 - **Verdict:** Strong revenue visibility — customers are committed.
 
-**"$4.8M Net Loss"**
-- Lost less than $5M in 2025 vs. $116M in 2024.
+**"\$4.8M Net Loss"**
+- Lost less than \$5M in 2025 vs. \$116M in 2024.
 - **What it means:** Massive improvement, but still losing money.
 - **Caveat:** This was helped by accounting gains, not just operations.
 - **Verdict:** Trend is positive, but not yet profitable.
@@ -622,14 +622,14 @@ This is a high-risk, high-reward position suitable only for investors who can to
 ### Key Metrics Summary
 | Metric | Value |
 |--------|-------|
-| Revenue (TTM) | $17.7M |
+| Revenue (TTM) | \$17.7M |
 | Revenue Growth | +38% YoY |
 | Gross Margin | 72% |
-| Cash | ~$130M (post-Jan 2026 raise) |
-| Market Cap | ~$444M |
+| Cash | ~\$130M (post-Jan 2026 raise) |
+| Market Cap | ~\$444M |
 | EV/Revenue | ~28x |
 | Analyst Rating | Strong Buy (3 analysts) |
-| Price Target | $5.50 |
+| Price Target | \$5.50 |
 
 ### Investment Summary
 **Thesis:** Satellogic is a high-risk, high-reward play on the growing Earth observation market. The vertically integrated model, sovereign partnerships, and upcoming Merlin constellation differentiate it from competitors. Recent capital raises provide runway to reach profitability, but execution risk is significant.

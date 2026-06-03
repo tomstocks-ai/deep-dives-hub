@@ -10,10 +10,10 @@ hide:
 
 **Sector:** Technology — Digital Asset Treasury  
 **Exchange:** NASDAQ  
-**Price:** $10.97 (as of 2026-06-02)  
-**Market Cap:** ~$1.5B  
+**Price:** \$10.97 (as of 2026-06-02)  
+**Market Cap:** ~\$1.5B  
 **Rating:** SPEC. BUY  
-**Analyst Consensus:** $9.25 (Chardan Buy)
+**Analyst Consensus:** \$9.25 (Chardan Buy)
 
 ---
 
@@ -22,19 +22,19 @@ hide:
 Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoin playbook, but focused exclusively on the Hyperliquid ecosystem. The company provides investors with traditional equity exposure to HYPE — the native token of the Hyperliquid Layer-1 blockchain — through accumulation, staking, and yield optimization strategies.
 
 **Business Model:**
-- **Treasury Accumulation:** PURR holds approximately 17.6–20 million HYPE tokens (valued at ~$1.14–1.5B depending on HYPE price), making it the largest public corporate HYPE holder with ~1.8% of total supply.
+- **Treasury Accumulation:** PURR holds approximately 17.6–20 million HYPE tokens (valued at ~\$1.14–1.5B depending on HYPE price), making it the largest public corporate HYPE holder with ~1.8% of total supply.
 - **Staking Revenue:** HYPE holdings are staked to generate yield, contributing to operating revenue.
 - **Yield Optimization:** Treasury management strategies maximize returns within the Hyperliquid DeFi ecosystem.
 
 **Key Metrics:**
-- HYPE Holdings: ~17.6M–20M tokens (~$1.14B–$1.5B at $65–$75/HYPE)
-- Cash: ~$103M (as of April 2026)
+- HYPE Holdings: ~17.6M–20M tokens (~\$1.14B–\$1.5B at \$65–\$75/HYPE)
+- Cash: ~\$103M (as of April 2026)
 - Liabilities: Minimal / none reported
 - Russell 3000 Inclusion: Effective June 26, 2026 (announced May 22)
 
 **Management & Ownership:**
 - Modeled after MicroStrategy's treasury-first approach
-- Institutional ownership growing: State Street added ~$16M in Q1 2026, BlackRock ~$10.5M, Goldman Sachs disclosed a $3.3M stake
+- Institutional ownership growing: State Street added ~\$16M in Q1 2026, BlackRock ~\$10.5M, Goldman Sachs disclosed a \$3.3M stake
 - No significant insider selling reported
 
 ---
@@ -42,14 +42,14 @@ Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset tr
 ## 2. FINANCIAL ANALYSIS
 
 ### Income Statement
-- **Q3 FY2026 (ended Mar 31, 2026):** Net profit of **$152.5 million**
-- **Unrealized Gains:** $198.4M on HYPE holdings during Q3
+- **Q3 FY2026 (ended Mar 31, 2026):** Net profit of **\$152.5 million**
+- **Unrealized Gains:** \$198.4M on HYPE holdings during Q3
 - **Revenue Model:** Primarily staking yield + unrealized/ realized gains on digital assets
 - **Profitability:** Highly profitable when HYPE appreciates; losses possible in downturns
 
 ### Balance Sheet
-- **Digital Assets:** ~$1.14B–$1.5B in HYPE (mark-to-market)
-- **Cash:** ~$103M
+- **Digital Assets:** ~\$1.14B–\$1.5B in HYPE (mark-to-market)
+- **Cash:** ~\$103M
 - **Debt:** Minimal to none
 - **NAV Premium/Discount:** Stock trades at a premium or discount to underlying HYPE NAV depending on sentiment
 
@@ -58,33 +58,33 @@ Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset tr
 - **Free Cash Flow:** Positive in HYPE bull markets
 - **Capital Intensity:** Very low — no capex, no R&D, no manufacturing
 
-**What this means:** PURR is essentially a closed-end fund for HYPE. Its "earnings" are mostly mark-to-market gains, not operating cash flow. When HYPE goes up 10%, PURR's book value rises ~$100M+. The stock price tracks HYPE with a leverage-like beta.
+**What this means:** PURR is essentially a closed-end fund for HYPE. Its "earnings" are mostly mark-to-market gains, not operating cash flow. When HYPE goes up 10%, PURR's book value rises ~\$100M+. The stock price tracks HYPE with a leverage-like beta.
 
 ---
 
 ## 3. VALUATION
 
 ### NAV-Based Valuation
-At $72.96/HYPE (current approximate price):
-- HYPE holdings (17.6M): ~$1.28B
-- Cash: ~$103M
-- **Implied NAV:** ~$1.38B
-- **Current Market Cap:** ~$1.5B
+At \$72.96/HYPE (current approximate price):
+- HYPE holdings (17.6M): ~\$1.28B
+- Cash: ~\$103M
+- **Implied NAV:** ~\$1.38B
+- **Current Market Cap:** ~\$1.5B
 - **Premium to NAV:** ~8–10%
 
 ### Scenario Analysis
 | Scenario | HYPE Price | Implied NAV | PURR Target | Upside/Downside |
 |----------|-----------|-------------|-------------|-----------------|
-| **Bull** | $100–$120 | $1.9B–$2.2B | **$16–$20** | +46% to +82% |
-| **Base** | $70–$85 | $1.3B–$1.6B | **$11–$14** | +0% to +28% |
-| **Bear** | $35–$45 | $700M–$900M | **$5–$7** | −54% to −36% |
+| **Bull** | \$100–\$120 | \$1.9B–\$2.2B | **\$16–\$20** | +46% to +82% |
+| **Base** | \$70–\$85 | \$1.3B–\$1.6B | **\$11–\$14** | +0% to +28% |
+| **Bear** | \$35–\$45 | \$700M–\$900M | **\$5–\$7** | −54% to −36% |
 
 **Key Assumptions:**
 - NAV premium/discount range: −20% to +20%
 - Shares outstanding: ~137M (estimated from market cap / price)
 - HYPE staking yield: ~3–5% annually
 
-**What this means:** You're not buying a business — you're buying HYPE with a management fee and a NAV premium. The bull case is HYPE going to $100+. The bear case is a crypto winter where both HYPE and the NAV premium compress.
+**What this means:** You're not buying a business — you're buying HYPE with a management fee and a NAV premium. The bull case is HYPE going to \$100+. The bear case is a crypto winter where both HYPE and the NAV premium compress.
 
 ---
 
@@ -120,7 +120,7 @@ At $72.96/HYPE (current approximate price):
 - **Regulatory Crackdown:** SEC or global crypto regulation could suppress HYPE and all crypto treasuries.
 - **Crypto Winter:** Extended bear market in crypto would crush NAV and sentiment simultaneously.
 - **Hyperliquid Protocol Risk:** Smart contract bugs, hacks, or competition could damage HYPE's value proposition.
-- **HYPE Token Unlock (June 6, 2026):** 9.92M HYPE ($703M) unlocking for core contributors — potential near-term selling pressure on HYPE itself.
+- **HYPE Token Unlock (June 6, 2026):** 9.92M HYPE (\$703M) unlocking for core contributors — potential near-term selling pressure on HYPE itself.
 
 **What this means:** This is a leveraged bet on HYPE with extra points of failure. If you believe in Hyperliquid but want equity exposure, PURR is the vehicle. But if HYPE drops 50%, PURR likely drops 60–70%.
 
@@ -129,12 +129,12 @@ At $72.96/HYPE (current approximate price):
 ## 6. TECHNICAL ANALYSIS
 
 ### Key Levels
-- **Current Price:** $10.97
-- **52-Week High:** $11.62 (June 2, 2026)
-- **52-Week Low:** $3.01 (December 2025)
+- **Current Price:** \$10.97
+- **52-Week High:** \$11.62 (June 2, 2026)
+- **52-Week Low:** \$3.01 (December 2025)
 - **Distance to 52W High:** 5.9%
-- **SMA 20:** $7.80 (price +41% above)
-- **SMA 50:** $6.55 (price +68% above)
+- **SMA 20:** \$7.80 (price +41% above)
+- **SMA 50:** \$6.55 (price +68% above)
 
 ### Momentum
 - **1-Month Performance:** +75.0%
@@ -147,15 +147,15 @@ At $72.96/HYPE (current approximate price):
 
 - **Current RSI:** 78.29
 - **Signal:** OVERBOUGHT
-- **Interpretation:** RSI above 70 indicates severely overbought conditions. The stock has gone parabolic — up 75% in a month and 219% YTD. This is momentum-driven, not fundamentals-driven. A pullback to the $8–$9 range (20-day SMA zone) would be healthy and provide a better entry.
+- **Interpretation:** RSI above 70 indicates severely overbought conditions. The stock has gone parabolic — up 75% in a month and 219% YTD. This is momentum-driven, not fundamentals-driven. A pullback to the \$8–\$9 range (20-day SMA zone) would be healthy and provide a better entry.
 
-**What this means:** The chart is screaming "too far, too fast." Chardan's $9.75 target was already exceeded. This is FOMO and index-inclusion front-running. Don't chase at $11.
+**What this means:** The chart is screaming "too far, too fast." Chardan's \$9.75 target was already exceeded. This is FOMO and index-inclusion front-running. Don't chase at \$11.
 
 ---
 
 ## 7. SENTIMENT & FLOWS
 
-- **Analyst Ratings:** Chardan Buy ($9.75 target — already breached)
+- **Analyst Ratings:** Chardan Buy (\$9.75 target — already breached)
 - **Short Interest:** Unknown but likely low given the float dynamics
 - **Institutional Flows:** Strongly positive — State Street, BlackRock, Goldman all accumulating in Q1
 - **Social Media:** Extremely bullish on crypto Twitter/X; "next MSTR" narratives circulating
@@ -165,25 +165,25 @@ At $72.96/HYPE (current approximate price):
 
 ## 8. SUBSTACK & NEWS SCAN
 
-- **June 2, 2026:** Crypto Times — "Why the Buyback Model Could Push HYPE to $100"
-- **June 1, 2026:** PURR stock pops as Chardan hikes price target to $9.75 (already exceeded)
+- **June 2, 2026:** Crypto Times — "Why the Buyback Model Could Push HYPE to \$100"
+- **June 1, 2026:** PURR stock pops as Chardan hikes price target to \$9.75 (already exceeded)
 - **May 22, 2026:** FTSE Russell announces PURR to join Russell 3000, effective June 26
-- **May 2026:** Goldman Sachs 13F reveals $3.3M PURR stake
-- **April 2026:** CoinGecko reports PURR holds 17.6M HYPE worth $1.14B
-- **March 2026:** Q3 FY2026 earnings: $152.5M profit on $198.4M unrealized HYPE gains
+- **May 2026:** Goldman Sachs 13F reveals \$3.3M PURR stake
+- **April 2026:** CoinGecko reports PURR holds 17.6M HYPE worth \$1.14B
+- **March 2026:** Q3 FY2026 earnings: \$152.5M profit on \$198.4M unrealized HYPE gains
 
 ---
 
 ## 9. INVESTMENT THESIS
 
 ### Bull Case
-HYPE continues its ascent toward $100+ as Hyperliquid cements itself as the dominant perpetual DEX. PURR's NAV grows to $2B+, the Russell 3000 inclusion drives passive flows, and the "crypto treasury" narrative attracts a premium valuation like MicroStrategy's. Target: **$16–$20** (+46% to +82%).
+HYPE continues its ascent toward \$100+ as Hyperliquid cements itself as the dominant perpetual DEX. PURR's NAV grows to \$2B+, the Russell 3000 inclusion drives passive flows, and the "crypto treasury" narrative attracts a premium valuation like MicroStrategy's. Target: **\$16–\$20** (+46% to +82%).
 
 ### Base Case
-HYPE stabilizes in the $70–$85 range. PURR trades near NAV with a modest premium. Staking yield provides steady revenue. Russell inclusion provides a one-time boost but no sustained squeeze. Target: **$11–$14** (flat to +28%).
+HYPE stabilizes in the \$70–\$85 range. PURR trades near NAV with a modest premium. Staking yield provides steady revenue. Russell inclusion provides a one-time boost but no sustained squeeze. Target: **\$11–\$14** (flat to +28%).
 
 ### Bear Case
-HYPE corrects to $35–$45 post-token-unlock or due to a broader crypto downturn. PURR's NAV gets cut in half, the premium flips to a discount, and "earnings" turn to losses. Target: **$5–$7** (−36% to −54%).
+HYPE corrects to \$35–\$45 post-token-unlock or due to a broader crypto downturn. PURR's NAV gets cut in half, the premium flips to a discount, and "earnings" turn to losses. Target: **\$5–\$7** (−36% to −54%).
 
 ---
 
@@ -191,13 +191,13 @@ HYPE corrects to $35–$45 post-token-unlock or due to a broader crypto downturn
 
 - **Rating:** SPEC. BUY
 - **Position Sizing:** 2–4% of portfolio max — treat as a leveraged crypto proxy, not a stock
-- **Entry Strategy:** WAIT FOR PULLBACK. Current price ($10.97) is extended. Target entry: $8.00–$8.50 (20-day SMA zone, pre-breakout consolidation level)
-- **Stop Loss:** $6.50 (below 50-day SMA and key psychological support)
+- **Entry Strategy:** WAIT FOR PULLBACK. Current price (\$10.97) is extended. Target entry: \$8.00–\$8.50 (20-day SMA zone, pre-breakout consolidation level)
+- **Stop Loss:** \$6.50 (below 50-day SMA and key psychological support)
 - **Key Levels:**
-  - Entry: $8.00–$8.50
-  - Target (Base): $12–$14
-  - Target (Bull): $16–$20
-  - Stop: $6.50
+  - Entry: \$8.00–\$8.50
+  - Target (Base): \$12–\$14
+  - Target (Bull): \$16–\$20
+  - Stop: \$6.50
 - **Catalyst Calendar:**
   - **June 6, 2026:** HYPE token unlock (9.92M tokens — watch for HYPE price impact)
   - **June 26, 2026:** Russell 3000 inclusion effective (passive buying)
@@ -215,7 +215,7 @@ HYPE corrects to $35–$45 post-token-unlock or due to a broader crypto downturn
 
 **The risk in plain English:** If Hyperliquid gets hacked, or regulators shut it down, or traders stop using it, HYPE becomes worthless. And since PURR is 90%+ HYPE, it goes down with it. This is not a diversified company — it's a bet on one token.
 
-**NAV Premium explained:** If PURR holds $1.38B in assets but the stock market values it at $1.5B, that's an 8% premium. Investors are paying extra for the "convenience" of owning HYPE through a stock. MicroStrategy trades at a huge premium to its Bitcoin NAV for the same reason.
+**NAV Premium explained:** If PURR holds \$1.38B in assets but the stock market values it at \$1.5B, that's an 8% premium. Investors are paying extra for the "convenience" of owning HYPE through a stock. MicroStrategy trades at a huge premium to its Bitcoin NAV for the same reason.
 
 ---
 

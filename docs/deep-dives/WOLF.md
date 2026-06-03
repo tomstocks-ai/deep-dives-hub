@@ -8,7 +8,7 @@ hide:
 
 # WOLF — Wolfspeed, Inc.
 
-**Price:** $53.72 | **Market Cap:** ~$2.6B | **Sector:** Technology / Semiconductors | **Rating:** <span class="rating-hold">HOLD</span>
+**Price:** \$53.72 | **Market Cap:** ~\$2.6B | **Sector:** Technology / Semiconductors | **Rating:** <span class="rating-hold">HOLD</span>
 
 ---
 
@@ -45,47 +45,47 @@ The company has experienced significant leadership turnover in recent years. The
 
 | Metric | Value |
 |--------|-------|
-| Revenue | $150.2M |
+| Revenue | \$150.2M |
 | YoY Revenue Growth | -18.9% |
 | Gross Profit | Negative (~€46M inventory charge impact) |
-| Operating Income | -$137.1M (estimated) |
-| Net Income | -$119.9M |
-| EPS (Diluted) | ~-$4.38 |
+| Operating Income | -\$137.1M (estimated) |
+| Net Income | -\$119.9M |
+| EPS (Diluted) | ~-\$4.38 |
 
 **Key Observations:**
 - Revenue continues to decline year-over-year, reflecting weakness in automotive demand and pricing pressure in SiC devices
 - Gross margins remain deeply negative due to underutilization charges, inventory write-downs (~€46M), and aggressive pricing to secure long-term design wins
-- The Q3 FY26 loss of $119.9M represents a 58% improvement from prior-year quarters, driven by cost-cutting and operational restructuring
-- R&D spending has been reduced to ~$25M/quarter from $44M year-ago, reflecting tightened capital allocation
+- The Q3 FY26 loss of \$119.9M represents a 58% improvement from prior-year quarters, driven by cost-cutting and operational restructuring
+- R&D spending has been reduced to ~\$25M/quarter from \$44M year-ago, reflecting tightened capital allocation
 
 ### Balance Sheet (as of December 2025)
 
 | Metric | Value |
 |--------|-------|
-| Cash & Short-Term Investments | ~$1.29B |
-| Total Debt | ~$2.07B |
-| Net Debt | ~$935M |
-| Stockholders' Equity | ~$627M |
+| Cash & Short-Term Investments | ~\$1.29B |
+| Total Debt | ~\$2.07B |
+| Net Debt | ~\$935M |
+| Stockholders' Equity | ~\$627M |
 | Debt-to-Equity | ~169% |
 | Current Ratio | 7.03 |
 | Quick Ratio | 5.48 |
 
 **Key Observations:**
-- Liquidity position improved dramatically following Q3 FY26 capital raises (~$476M via convertible 1.5-lien notes and equity)
-- Debt reduced by $97M (25%) in Q3, with ~$62M in annual interest expense savings expected
+- Liquidity position improved dramatically following Q3 FY26 capital raises (~\$476M via convertible 1.5-lien notes and equity)
+- Debt reduced by \$97M (25%) in Q3, with ~\$62M in annual interest expense savings expected
 - Current ratio of 7.03 is artificially inflated by cash reserves; underlying operational working capital remains strained
-- Tangible book value of ~$200M is thin relative to market cap, implying the market is pricing significant future earnings power
+- Tangible book value of ~\$200M is thin relative to market cap, implying the market is pricing significant future earnings power
 
 ### Cash Flow
 
 | Metric | Value |
 |--------|-------|
-| Operating Cash Flow (Q3 FY26) | -$42.6M |
-| Free Cash Flow (Q3 FY26) | -$42.6M (capex minimal) |
+| Operating Cash Flow (Q3 FY26) | -\$42.6M |
+| Free Cash Flow (Q3 FY26) | -\$42.6M (capex minimal) |
 | Capital Expenditure (TTM) | Significantly reduced from peak |
 
 **Key Observations:**
-- Cash burn has improved from ~$100M+/quarter peaks but remains negative
+- Cash burn has improved from ~\$100M+/quarter peaks but remains negative
 - The company has pulled back on capex to preserve liquidity, slowing Mohawk Valley ramp
 - Operating cash flow improvement is driven by working capital management and cost cuts, not operational profitability
 
@@ -104,27 +104,27 @@ Wolfspeed is currently unprofitable with negative gross margins, making traditio
 **DCF / Scenario Analysis:**
 Given the uncertainty, a scenario-based approach is more appropriate than a precise DCF:
 
-**Bull Case ($65–75):**
+**Bull Case (\$65–75):**
 - AI/data center power revenue grows to 30%+ of mix by FY28
 - Mohawk Valley reaches 50%+ utilization, driving positive gross margins by FY27
 - Automotive SiC adoption accelerates with Chinese EV makers and Tier-1 partnerships
 - Debt continues to be paid down; path to profitability by FY28
 
-**Base Case ($35–45):**
-- Revenue stabilizes at $600–700M annually with modest growth
+**Base Case (\$35–45):**
+- Revenue stabilizes at \$600–700M annually with modest growth
 - Gross margins turn slightly positive by late FY27
 - Continued cash burn requires additional capital raises (dilution)
 - Company achieves EBITDA breakeven by FY29
-- Valuation converges toward analyst consensus (~$40 target)
+- Valuation converges toward analyst consensus (~\$40 target)
 
-**Bear Case ($12–18):**
+**Bear Case (\$12–18):**
 - Revenue continues declining as SiC commoditizes and competitors gain share
-- Gross margins remain negative; cash burn resumes at $100M+/quarter
+- Gross margins remain negative; cash burn resumes at \$100M+/quarter
 - Additional dilutive capital raises or debt restructuring required
-- Strategic value as an acquisition target at $10–15/share
+- Strategic value as an acquisition target at \$10–15/share
 
 **Current Implied Expectations:**
-At $53.72, the market is pricing in a near-flawless execution of the bull case — a remarkable leap of faith for a company with declining revenue, negative gross margins, and $2B in debt. The stock trades 34% above the sole analyst price target of $40.
+At \$53.72, the market is pricing in a near-flawless execution of the bull case — a remarkable leap of faith for a company with declining revenue, negative gross margins, and \$2B in debt. The stock trades 34% above the sole analyst price target of \$40.
 
 ---
 
@@ -132,7 +132,7 @@ At $53.72, the market is pricing in a near-flawless execution of the bull case �
 
 1. **AI Data Center Power (Near-Term):** The fastest-growing segment. AI servers require more efficient power conversion; SiC MOSFETs reduce energy loss in server power supplies. Management has highlighted "AI revenue surges" in recent quarters.
 
-2. **Debt Restructuring Completion (Q3 FY26):** The $476M capital raise and 25% debt reduction materially improve the balance sheet. Lower interest expense (~$62M annual savings) extends runway and reduces bankruptcy risk.
+2. **Debt Restructuring Completion (Q3 FY26):** The \$476M capital raise and 25% debt reduction materially improve the balance sheet. Lower interest expense (~\$62M annual savings) extends runway and reduces bankruptcy risk.
 
 3. **Mohawk Valley Fab Ramp (2026–2027):** 200mm SiC wafers offer ~2x die-per-wafer advantage over 150mm. Successful ramp to target utilization would transform unit economics.
 
@@ -154,7 +154,7 @@ At $53.72, the market is pricing in a near-flawless execution of the bull case �
 
 5. **Massive Short Squeeze Reversal:** Short ratio of 6.51 and RSI of 83+ suggest a significant portion of the recent move is technical/short-covering driven. Reversal could be violent.
 
-6. **Debt Overhang:** Even after restructuring, ~$2B in debt on a ~$600M equity base is precarious. Covenant compliance remains a risk if operations don't improve.
+6. **Debt Overhang:** Even after restructuring, ~\$2B in debt on a ~\$600M equity base is precarious. Covenant compliance remains a risk if operations don't improve.
 
 ---
 
@@ -166,11 +166,11 @@ At $53.72, the market is pricing in a near-flawless execution of the bull case �
 - **Current RSI:** 83.6
 - **Signal:** EXTREMELY OVERBOUGHT
 
-The RSI reading above 80 is a flashing red warning sign. The stock has moved from $8 to $53+ in a matter of months — a 560%+ gain. Volume has surged to 12M shares (3.5x average), consistent with a short-squeeze dynamic. The 50-day MA ($24.47) and 200-day MA ($22.29) are miles below the current price, indicating how parabolic this move has been.
+The RSI reading above 80 is a flashing red warning sign. The stock has moved from \$8 to \$53+ in a matter of months — a 560%+ gain. Volume has surged to 12M shares (3.5x average), consistent with a short-squeeze dynamic. The 50-day MA (\$24.47) and 200-day MA (\$22.29) are miles below the current price, indicating how parabolic this move has been.
 
 **Key Levels:**
-- **Resistance:** $54.00 (52-week high, psychological)
-- **Support:** $45 (recent breakout level), $35 (prior consolidation), $24 (50-day MA)
+- **Resistance:** \$54.00 (52-week high, psychological)
+- **Support:** \$45 (recent breakout level), \$35 (prior consolidation), \$24 (50-day MA)
 
 **Trend:** Parabolic advance — unsustainable by definition. Risk/reward at current levels is heavily skewed to the downside for new money.
 
@@ -183,11 +183,11 @@ The RSI reading above 80 is a flashing red warning sign. The stock has moved fro
 **Position Sizing:** 0–2% of portfolio (speculative position only)
 
 **Entry Strategy:**
-- **Do NOT chase at $53+.** If you believe in the turnaround thesis, wait for a pullback to the $30–35 range or lower
-- Alternatively, scale in on weakness: 25% position at $35, 25% at $28, 50% at $22
+- **Do NOT chase at \$53+.** If you believe in the turnaround thesis, wait for a pullback to the \$30–35 range or lower
+- Alternatively, scale in on weakness: 25% position at \$35, 25% at \$28, 50% at \$22
 - The current price embeds flawless execution; the market rarely rewards that bet
 
-**Stop Loss:** $20 (below 200-day MA and prior support cluster)
+**Stop Loss:** \$20 (below 200-day MA and prior support cluster)
 
 **Catalyst Calendar:**
 
@@ -198,7 +198,7 @@ The RSI reading above 80 is a flashing red warning sign. The stock has moved fro
 | August 2026 | Q1 FY27 Earnings (first post-restructuring clean quarter) |
 | Ongoing | EV platform launch announcements (design win disclosures) |
 
-**Bottom Line:** Wolfspeed is a real company with real technology in a structurally growing market (SiC power semiconductors). The recent debt restructuring is genuinely positive. However, the stock price has disconnected from fundamentals due to short-squeeze dynamics. Existing holders should consider taking partial profits above $50. New capital should wait for a significant pullback or a confirmed operational inflection in gross margins.
+**Bottom Line:** Wolfspeed is a real company with real technology in a structurally growing market (SiC power semiconductors). The recent debt restructuring is genuinely positive. However, the stock price has disconnected from fundamentals due to short-squeeze dynamics. Existing holders should consider taking partial profits above \$50. New capital should wait for a significant pullback or a confirmed operational inflection in gross margins.
 
 ---
 

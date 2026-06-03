@@ -11,8 +11,8 @@ hide:
 **Date:** April 21, 2026
 **Ticker:** CRML (NASDAQ)
 **Sector:** Materials — Rare Earth Elements Mining
-**Current Price:** $11.94 (as of April 20, 2026 close)
-**Market Cap:** $1.46B
+**Current Price:** \$11.94 (as of April 20, 2026 close)
+**Market Cap:** \$1.46B
 **Report Type:** Investment-Grade Deep Dive
 
 ---
@@ -21,13 +21,13 @@ hide:
 
 Critical Metals Corp is a pre-revenue rare earth mining company that just received a transformative regulatory approval: Greenland cleared the transfer of an additional 50.5% stake in the Tanbreez Project, bringing CRML's total ownership to **92.5%**. This makes it one of the most significant Western rare earth development stories in years. The Tanbreez deposit is the world's largest known undeveloped heavy rare earth deposit outside China, with a 4.7 billion-tonne resource and exceptional 27% Heavy Rare Earth Elements (HREE) content.
 
-The stock has surged **+72% YTD** and **+380% over the past year**, fueled by geopolitical tailwinds (U.S.-China decoupling, Project Vault), strategic JVs (Saudi Arabia $1.5B, Romania), and now full operational control of its crown jewel asset.
+The stock has surged **+72% YTD** and **+380% over the past year**, fueled by geopolitical tailwinds (U.S.-China decoupling, Project Vault), strategic JVs (Saudi Arabia \$1.5B, Romania), and now full operational control of its crown jewel asset.
 
 **Analyst Rating:** SPECULATIVE BUY (High Risk/High Reward)
 **Price Targets:**
-- **Bull Case:** $28.00 (+135%)
-- **Base Case:** $18.00 (+51%)
-- **Bear Case:** $5.00 (-58%)
+- **Bull Case:** \$28.00 (+135%)
+- **Base Case:** \$18.00 (+51%)
+- **Bear Case:** \$5.00 (-58%)
 
 ---
 
@@ -60,7 +60,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | Drilling Database | 414+ drill holes, 366,000+ assays |
 | Bulk Testing | ~709 tonnes completed |
 | Mine Life Potential | 100+ years |
-| Preliminary NPV | ~$3 billion |
+| Preliminary NPV | ~\$3 billion |
 | Initial Production Target | 85,000 tonnes REO/year |
 | Scalable Production | Up to 425,000 tonnes REO/year |
 
@@ -94,10 +94,10 @@ Critical Metals Corp is a mining exploration and development company focused on 
 
 | Metric | FY2025 | FY2024 | Change |
 |--------|--------|--------|--------|
-| Revenue | $560,623 | $117,660 | +376% |
-| Net Income | -$51.87M | -$139.43M | +63% (improved) |
-| EPS (TTM) | -$1.41 | - | - |
-| EPS Next Year Est. | -$0.17 | - | Improving |
+| Revenue | \$560,623 | \$117,660 | +376% |
+| Net Income | -\$51.87M | -\$139.43M | +63% (improved) |
+| EPS (TTM) | -\$1.41 | - | - |
+| EPS Next Year Est. | -\$0.17 | - | Improving |
 | Profit Margin | 0% | 0% | - |
 
 **Analysis:** CRML is pre-revenue with minimal income from early-stage activities. The company is burning cash on exploration, permitting, and early-stage development. Losses improved significantly in FY2025 (-63% vs prior year) as the company transitioned from pure exploration to development phase. EPS is expected to improve further in FY2026.
@@ -106,9 +106,9 @@ Critical Metals Corp is a mining exploration and development company focused on 
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| Total Cash (MRQ) | ~$7-10M | ⚠️ LOW |
-| Cash per Share | $0.66 | ⚠️ CRITICAL |
-| Book Value per Share | $1.19 | - |
+| Total Cash (MRQ) | ~\$7-10M | ⚠️ LOW |
+| Cash per Share | \$0.66 | ⚠️ CRITICAL |
+| Book Value per Share | \$1.19 | - |
 | Total Debt/Equity | 2% | ✅ MINIMAL LEVERAGE |
 | LT Debt/Equity | 0% | ✅ NO LONG-TERM DEBT |
 | Quick Ratio | 0.75 | ⚠️ TIGHT |
@@ -116,10 +116,10 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | P/B Ratio | 10.07x | High for pre-revenue |
 
 **Funding Status:** The company has minimal cash relative to development needs, but several non-dilutive funding avenues are in progress:
-- **$120M EXIM Bank letter of intent** for project financing
-- **$30M strategic acceleration program** (approved March 2026)
-- **$1.5B Saudi Arabia JV** for processing facility (non-dilutive)
-- **Up to $120M potential U.S. Export-Import Bank financing**
+- **\$120M EXIM Bank letter of intent** for project financing
+- **\$30M strategic acceleration program** (approved March 2026)
+- **\$1.5B Saudi Arabia JV** for processing facility (non-dilutive)
+- **Up to \$120M potential U.S. Export-Import Bank financing**
 
 ### 2.3 Cash Flow Analysis
 
@@ -134,11 +134,11 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 2.4 Capital Requirements
 
 **Estimated Capex Requirements:**
-- **Tanbreez Mine Development:** $800M - $1B (management guidance)
-- **Processing Facilities:** Covered by JV partners (Saudi Arabia $1.5B, Romania undisclosed)
+- **Tanbreez Mine Development:** \$800M - \$1B (management guidance)
+- **Processing Facilities:** Covered by JV partners (Saudi Arabia \$1.5B, Romania undisclosed)
 - **Pilot Plant:** Under construction in Greenland (commenced January 2026, operations begin May 2026)
 
-**Funding Runway:** With the $30M acceleration program, EXIM Bank LOI, and potential JV milestone payments, the company has extended its runway. However, additional financing will likely be needed before production cash flow.
+**Funding Runway:** With the \$30M acceleration program, EXIM Bank LOI, and potential JV milestone payments, the company has extended its runway. However, additional financing will likely be needed before production cash flow.
 
 ---
 
@@ -148,24 +148,24 @@ Critical Metals Corp is a mining exploration and development company focused on 
 
 | Company | Ticker | Market Cap | Stage | P/B | Notes |
 |---------|--------|------------|-------|-----|-------|
-| **Critical Metals** | **CRML** | **$1.46B** | **Pre-production** | **10.07x** | **Largest HREE resource outside China** |
-| MP Materials | MP | ~$9B | Producing | ~5x | Only U.S. rare earth producer |
+| **Critical Metals** | **CRML** | **\$1.46B** | **Pre-production** | **10.07x** | **Largest HREE resource outside China** |
+| MP Materials | MP | ~\$9B | Producing | ~5x | Only U.S. rare earth producer |
 | USA Rare Earth | Private | N/A | Development | N/A | U.S.-based, govt-backed |
 
 **Resource-Based Valuation:**
-- Tanbreez: 4.7 billion tonnes at ~$0.31/tonne = $1.46B market cap
-- Comparable REE projects in development stage trade $0.15-$0.50/tonne depending on grade and jurisdiction
-- PEA valued project at ~$3B NPV, suggesting significant upside if execution succeeds
+- Tanbreez: 4.7 billion tonnes at ~\$0.31/tonne = \$1.46B market cap
+- Comparable REE projects in development stage trade \$0.15-\$0.50/tonne depending on grade and jurisdiction
+- PEA valued project at ~\$3B NPV, suggesting significant upside if execution succeeds
 
 ### 3.2 Analyst Price Targets
 
 | Source | Rating | Price Target | Upside |
 |--------|--------|--------------|--------|
-| Finviz Consensus | 1.00 (Strong Buy) | $18.33 | +54% |
-| StockAnalysis | Strong Buy | $13.50 | +13% |
-| Texas Capital (Apr 2026) | Buy | $20.00 | +68% |
-| Clear Street (Jan 2026) | Buy | $20.00 | +68% |
-| TradingView Range | Strong Buy | $15.00-$20.00 | +26% to +68% |
+| Finviz Consensus | 1.00 (Strong Buy) | \$18.33 | +54% |
+| StockAnalysis | Strong Buy | \$13.50 | +13% |
+| Texas Capital (Apr 2026) | Buy | \$20.00 | +68% |
+| Clear Street (Jan 2026) | Buy | \$20.00 | +68% |
+| TradingView Range | Strong Buy | \$15.00-\$20.00 | +26% to +68% |
 
 **Current Valuation Gap:** CRML trades at a discount to most analyst targets, reflecting:
 - Pre-revenue status
@@ -178,16 +178,16 @@ Critical Metals Corp is a mining exploration and development company focused on 
 **Key Assumptions:**
 - Production start: 2029 (base case)
 - Annual production: 85,000 tonnes REO concentrate (initial), scalable to 425,000
-- Average REE price: $30/kg (blended basket)
-- Operating costs: $15/kg
+- Average REE price: \$30/kg (blended basket)
+- Operating costs: \$15/kg
 - Discount rate: 12%
 
 | Scenario | NPV (per share) | Probability | Weighted Value |
 |----------|-----------------|-------------|----------------|
-| Bull (2028 production, $40/kg, full scale) | $40.00 | 25% | $10.00 |
-| Base (2029 production, $30/kg, initial scale) | $22.00 | 50% | $11.00 |
-| Bear (2030+ production, $20/kg, delays) | $6.00 | 25% | $1.50 |
-| **Probability-Weighted Fair Value** | | | **$22.50** |
+| Bull (2028 production, \$40/kg, full scale) | \$40.00 | 25% | \$10.00 |
+| Base (2029 production, \$30/kg, initial scale) | \$22.00 | 50% | \$11.00 |
+| Bear (2030+ production, \$20/kg, delays) | \$6.00 | 25% | \$1.50 |
+| **Probability-Weighted Fair Value** | | | **\$22.50** |
 
 ---
 
@@ -201,8 +201,8 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | Texas Capital Coverage Initiation | April 2026 ✅ | Institutional validation |
 | Pilot Plant Operations Begin | May 2026 | Proof of concept |
 | 150-Tonne Bulk Sample Program | June 2026 | Metallurgical validation |
-| $30M Strategic Program Execution | Q1-Q2 2026 | Development acceleration |
-| Saudi Arabia JV Finalization | Q2 2026 | $1.5B funding commitment |
+| \$30M Strategic Program Execution | Q1-Q2 2026 | Development acceleration |
+| Saudi Arabia JV Finalization | Q2 2026 | \$1.5B funding commitment |
 | Feasibility Study Completion | Q2-Q3 2026 | Project standardization |
 | S-K 1300 Technical Report | Q3 2026 | Resource upgrade |
 
@@ -220,7 +220,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 4.3 Strategic Partnerships
 
 **Saudi Arabia JV (January 2026)**
-- **Value:** Up to $1.5 billion processing facility
+- **Value:** Up to \$1.5 billion processing facility
 - **Structure:** Partnership with Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company
 - **Benefit:** Processing capacity + strategic Middle East positioning
 
@@ -239,14 +239,14 @@ Critical Metals Corp is a mining exploration and development company focused on 
 
 ### 4.4 Project Vault & U.S. Policy Tailwinds
 
-The Trump administration's **$12 billion Project Vault** (announced February 2026) for critical mineral stockpiles represents a significant structural tailwind:
+The Trump administration's **\$12 billion Project Vault** (announced February 2026) for critical mineral stockpiles represents a significant structural tailwind:
 - Potential direct U.S. government offtake
 - Accelerated permitting for strategic projects
 - Tanbreez positioned as largest Western HREE source
 - Note: Price floor guarantees were walked back in January 2026, causing a temporary sell-off
 
 **Additional U.S. Support:**
-- Up to $120M EXIM Bank letter of intent for project financing
+- Up to \$120M EXIM Bank letter of intent for project financing
 - Trump administration previously discussed taking a direct stake in Critical Metals
 - Heavy rare earths declared strategic material by U.S. Department of Defense
 
@@ -258,13 +258,13 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Risk Factor | Assessment | Mitigation |
 |-------------|------------|------------|
-| Cash Position | Minimal (~$7-10M) | $30M program, EXIM Bank LOI |
-| Capex Requirements | $800M-$1B | JV partners covering processing |
+| Cash Position | Minimal (~\$7-10M) | \$30M program, EXIM Bank LOI |
+| Capex Requirements | \$800M-\$1B | JV partners covering processing |
 | Dilution Risk | Moderate-High | Non-dilutive JVs reduce pressure |
 | Funding Timeline | Extended via JVs | Saudi/Romania JVs provide capital |
 
 **Probability of Significant Dilution:** MODERATE (40-50%) — reduced from prior assessment due to non-dilutive JV progress
-**Estimated Additional Capital Needed:** $200-400M before cash flow positive
+**Estimated Additional Capital Needed:** \$200-400M before cash flow positive
 
 ### 5.2 Greenland Regulatory/Political Risk ⚠️ HIGH
 
@@ -312,8 +312,8 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| Current Price | $11.94 | - |
-| 52-Week Range | $1.29 - $32.15 | Highly volatile |
+| Current Price | \$11.94 | - |
+| 52-Week Range | \$1.29 - \$32.15 | Highly volatile |
 | YTD Return | +72.05% | Strong outperformance |
 | 1-Year Return | +379.52% | Exceptional performance |
 | Performance vs 52W High | -62.86% | Deep correction from peak |
@@ -326,14 +326,14 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Strong Resistance** | $32.15 | 52-week high (January 2026) |
-| **Resistance** | $15.00-16.00 | Prior consolidation zone |
-| **Resistance** | $13.68 | Recent intraday spike high |
-| **Current Price** | $11.94 | - |
-| **Support** | $10.00-11.00 | Recent breakout level |
-| **Support** | $8.00-9.00 | March 2026 consolidation |
-| **Strong Support** | $5.00-6.00 | December 2025 base |
-| **Floor** | $1.29 | 52-week low (April 2025) |
+| **Strong Resistance** | \$32.15 | 52-week high (January 2026) |
+| **Resistance** | \$15.00-16.00 | Prior consolidation zone |
+| **Resistance** | \$13.68 | Recent intraday spike high |
+| **Current Price** | \$11.94 | - |
+| **Support** | \$10.00-11.00 | Recent breakout level |
+| **Support** | \$8.00-9.00 | March 2026 consolidation |
+| **Strong Support** | \$5.00-6.00 | December 2025 base |
+| **Floor** | \$1.29 | 52-week low (April 2025) |
 
 ### 6.3 Moving Averages
 
@@ -352,7 +352,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 | RSI (14) | 67.23 | Neutral, approaching overbought |
 | RSI Recent Peak | 72.63 | Briefly touched overbought during surge |
 | Beta | 1.89 | High volatility vs market |
-| ATR (14) | $1.23 | 10.3% daily volatility |
+| ATR (14) | \$1.23 | 10.3% daily volatility |
 | Volatility (Weekly/Monthly) | 13.66% / 10.77% | Very high |
 
 ![CRML RSI Chart](assets/CRML_RSI_20260421_072621.png)
@@ -374,7 +374,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 **Pattern:** Breakout from a 4-month descending channel on massive volume
 **Volume:** 25.5M shares on April 20 (vs 13.5M average) — confirming breakout
-**Interpretation:** The April 2026 ownership approval has fundamentally changed the technical picture. The stock broke above $12 resistance with conviction. A sustained hold above $11.50 would confirm a new uptrend phase.
+**Interpretation:** The April 2026 ownership approval has fundamentally changed the technical picture. The stock broke above \$12 resistance with conviction. A sustained hold above \$11.50 would confirm a new uptrend phase.
 
 ---
 
@@ -389,8 +389,8 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 | Hold | 0 | - |
 | Sell | 1 | - |
 
-**Average Price Target:** $18.33 (+54% upside)
-**Newest Coverage:** Texas Capital initiated April 17, 2026 with Buy and $20 target
+**Average Price Target:** \$18.33 (+54% upside)
+**Newest Coverage:** Texas Capital initiated April 17, 2026 with Buy and \$20 target
 
 ### 7.2 Institutional Ownership
 
@@ -409,9 +409,9 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Insider | Date | Transaction | Shares | Price |
 |---------|------|-------------|--------|-------|
-| European Lithium | Feb 2026 | Sale | Multiple | ~$14.76 |
-| Dietrich Wanke | Oct 2025 | Proposed Sale | 120,000 | $15.00 |
-| Michael Hanson | Oct 2025 | Proposed Sale | 50,000 | $16.27 |
+| European Lithium | Feb 2026 | Sale | Multiple | ~\$14.76 |
+| Dietrich Wanke | Oct 2025 | Proposed Sale | 120,000 | \$15.00 |
+| Michael Hanson | Oct 2025 | Proposed Sale | 50,000 | \$16.27 |
 
 **Assessment:** European Lithium (parent) has been selling shares to fund its own operations, but retains a significant 37.5% stake. Recent selling appears to have slowed with the stock at lower levels. Insider ownership of 48.57% still shows meaningful alignment.
 
@@ -427,7 +427,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 **Recent Headlines (April 2026):**
 - "Critical Metals stock surges after taking full control of Greenland rare earth project" — **Positive**
-- "Texas Capital initiates coverage with $20 target" — **Positive**
+- "Texas Capital initiates coverage with \$20 target" — **Positive**
 - "This Rare Earth Stock Jumps More Than 40%" (Barrons) — **Positive**
 - "Investors in This Stock Are Still Bullish on Greenland" (WSJ) — **Positive**
 
@@ -446,7 +446,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 | China REE Export Restrictions | Positive — accelerates Western supply chain development |
 | US-China Decoupling | Positive — strategic priority for U.S. government |
 | EV/Defense Demand Growth | Positive — structural demand driver |
-| Project Vault ($12B) | Positive — potential direct beneficiary |
+| Project Vault (\$12B) | Positive — potential direct beneficiary |
 | Greenland Geopolitics | Mixed — attention but also uncertainty |
 
 ### 8.2 Recent Press Releases Analysis
@@ -470,7 +470,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 - Leading local engineering/mining operator acquired
 - **Impact:** Reduces execution risk, builds local capacity
 
-**March 10, 2026: $30M Strategic Program**
+**March 10, 2026: \$30M Strategic Program**
 - Immediate funding to advance Tanbreez
 - **Impact:** Near-term catalyst, accelerates timeline
 
@@ -507,28 +507,28 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 ## 9. INVESTMENT THESIS
 
-### 9.1 Bull Case (+135% upside to $28.00)
+### 9.1 Bull Case (+135% upside to \$28.00)
 
 **Probability:** 25%
 
 **Assumptions:**
-- Saudi JV closes on schedule with full $1.5B commitment
+- Saudi JV closes on schedule with full \$1.5B commitment
 - EXIM Bank converts LOI to full financing
 - Project Vault provides direct U.S. offtake
 - Production begins 2028 (accelerated timeline)
-- Rare earth prices remain elevated ($40+/kg basket)
-- Feasibility study confirms $3B+ NPV
+- Rare earth prices remain elevated (\$40+/kg basket)
+- Feasibility study confirms \$3B+ NPV
 - Additional JVs announced (Japan, Korea, Australia)
 - Short squeeze adds 20-30% to fair value
 
 **Price Target Derivation:**
-- 2029 EBITDA estimate: $600M
+- 2029 EBITDA estimate: \$600M
 - EV/EBITDA multiple: 15x (growth + strategic premium)
-- Enterprise Value: $9.0B
-- Equity Value: $8.5B (net of debt)
-- Per Share: $28.00
+- Enterprise Value: \$9.0B
+- Equity Value: \$8.5B (net of debt)
+- Per Share: \$28.00
 
-### 9.2 Base Case (+51% upside to $18.00)
+### 9.2 Base Case (+51% upside to \$18.00)
 
 **Probability:** 50%
 
@@ -537,18 +537,18 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 - EXIM Bank provides partial financing
 - Project Vault provides indirect support (faster permitting)
 - Production begins late 2028 / early 2029
-- Rare earth prices normalize ($30/kg basket)
-- One additional equity raise ($100M at $12/share)
+- Rare earth prices normalize (\$30/kg basket)
+- One additional equity raise (\$100M at \$12/share)
 - Successful pilot plant and bulk sample program
-- Feasibility study confirms $2.5B+ NPV
+- Feasibility study confirms \$2.5B+ NPV
 
 **Price Target Derivation:**
-- 2030 EBITDA estimate: $400M
+- 2030 EBITDA estimate: \$400M
 - EV/EBITDA multiple: 12x
-- Enterprise Value: $4.8B
-- Per Share: $18.00 (accounting for dilution)
+- Enterprise Value: \$4.8B
+- Per Share: \$18.00 (accounting for dilution)
 
-### 9.3 Bear Case (-58% downside to $5.00)
+### 9.3 Bear Case (-58% downside to \$5.00)
 
 **Probability:** 25%
 
@@ -557,7 +557,7 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 - EXIM Bank financing falls through
 - Greenland political situation deteriorates
 - Rare earth prices collapse on Chinese oversupply
-- Multiple dilutive raises required ($200M+)
+- Multiple dilutive raises required (\$200M+)
 - Production delayed to 2030+
 - Technical challenges at pilot plant
 - Significant share count dilution (50%+)
@@ -565,18 +565,18 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 **Price Target Derivation:**
 - Continued cash burn for 3+ years
 - Asset value only (no production premium)
-- Per Share: $5.00
+- Per Share: \$5.00
 
 ### 9.4 Probability-Weighted Fair Value
 
 | Scenario | Price Target | Probability | Weighted Value |
 |----------|--------------|-------------|----------------|
-| Bull | $28.00 | 25% | $7.00 |
-| Base | $18.00 | 50% | $9.00 |
-| Bear | $5.00 | 25% | $1.25 |
-| **Fair Value** | | | **$17.25** |
+| Bull | \$28.00 | 25% | \$7.00 |
+| Base | \$18.00 | 50% | \$9.00 |
+| Bear | \$5.00 | 25% | \$1.25 |
+| **Fair Value** | | | **\$17.25** |
 
-**Current Price vs Fair Value:** $11.94 vs $17.25 = **31% discount**
+**Current Price vs Fair Value:** \$11.94 vs \$17.25 = **31% discount**
 
 ---
 
@@ -592,12 +592,12 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Entry Level | Price Range | Action |
 |-------------|-------------|--------|
-| Aggressive Entry | $11.50-12.50 | Initiate 50% position |
-| Base Entry | $10.00-11.50 | Initiate 100% position |
-| Conservative Entry | $8.50-10.00 | Full position + call options |
-| Stop Loss | $7.50 | Exit on break of major support |
+| Aggressive Entry | \$11.50-12.50 | Initiate 50% position |
+| Base Entry | \$10.00-11.50 | Initiate 100% position |
+| Conservative Entry | \$8.50-10.00 | Full position + call options |
+| Stop Loss | \$7.50 | Exit on break of major support |
 
-**Current Assessment:** At $11.94, CRML has already moved +32% in one week on the Greenland news. The risk/reward is still favorable long-term but short-term entry at these levels carries pullback risk. Consider scaling in or waiting for a pullback to $10-11.
+**Current Assessment:** At \$11.94, CRML has already moved +32% in one week on the Greenland news. The risk/reward is still favorable long-term but short-term entry at these levels carries pullback risk. Consider scaling in or waiting for a pullback to \$10-11.
 
 ### 10.3 Position Sizing
 
@@ -608,18 +608,18 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 **For Existing Position Holders:**
 - If underwater from higher cost basis: **HOLD** — don't realize losses at what may be a cyclical turning point
-- Consider **averaging down** if price pulls back to $9-10
-- Set **stop loss** at $7.50 (major support break)
-- Target **partial profit** at $18 (base case)
+- Consider **averaging down** if price pulls back to \$9-10
+- Set **stop loss** at \$7.50 (major support break)
+- Target **partial profit** at \$18 (base case)
 
 ### 10.4 Exit Strategy
 
 | Exit Trigger | Price | Action |
 |--------------|-------|--------|
-| Partial Profit | $18.00 | Sell 50% of position |
-| Full Profit (Base) | $22.00 | Sell remaining 50% |
-| Full Profit (Bull) | $28.00+ | Sell remaining position |
-| Stop Loss | $7.50 | Exit full position |
+| Partial Profit | \$18.00 | Sell 50% of position |
+| Full Profit (Base) | \$22.00 | Sell remaining 50% |
+| Full Profit (Bull) | \$28.00+ | Sell remaining position |
+| Stop Loss | \$7.50 | Exit full position |
 | Thesis Break | Any | Exit if funding fails or Greenland license revoked |
 
 ### 10.5 Key Monitoring Points
@@ -644,10 +644,10 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 ## 11. MP MATERIALS (MP) PEER COMPARISON
 
 ### 11.1 MP Materials Overview
-- **Market Cap:** ~$9B (6x larger than CRML)
+- **Market Cap:** ~\$9B (6x larger than CRML)
 - **Stage:** Producing (Mountain Pass operational since 2020)
-- **Revenue:** ~$275M TTM
-- **Cash:** ~$1.8B
+- **Revenue:** ~\$275M TTM
+- **Cash:** ~\$1.8B
 - **HREE Content:** ~10% (vs CRML's 27%)
 
 ### 11.2 Key Differences
@@ -657,10 +657,10 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 | Resource Size | 4.7B tonnes | ~30M tonnes | CRML |
 | HREE Content | 27% | ~10% | CRML |
 | Production Status | Pre-revenue (2029 target) | Producing | MP |
-| Cash Position | Minimal | $1.8B | MP |
+| Cash Position | Minimal | \$1.8B | MP |
 | Political Risk | Greenland | USA | MP |
 | Processing | JV-dependent | In-house | MP |
-| Valuation | $1.46B | ~$9B | CRML (discount) |
+| Valuation | \$1.46B | ~\$9B | CRML (discount) |
 | Short Interest | 31.76% | Low | CRML (squeeze potential) |
 
 ### 11.3 Investment Implications
@@ -679,13 +679,13 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 - ✅ Exceptional HREE content (27%) — critical for defense and advanced tech
 - ✅ Full operational control (92.5% ownership) — April 2026 Greenland approval
 - ✅ Valid mining license (2020) + government support demonstrated
-- ✅ Strategic JVs ($1.5B Saudi, Romania, Ucore offtake)
+- ✅ Strategic JVs (\$1.5B Saudi, Romania, Ucore offtake)
 - ✅ Favorable sector tailwinds (Project Vault, China decoupling)
 - ✅ Extreme short interest (31.76%) creates squeeze potential
-- ✅ Analyst consensus Strong Buy with $18.33 average target
-- ✅ Texas Capital initiation with $20 target adds institutional credibility
+- ✅ Analyst consensus Strong Buy with \$18.33 average target
+- ✅ Texas Capital initiation with \$20 target adds institutional credibility
 - ✅ Pilot plant and bulk sample programs beginning 2026
-- ✅ $120M EXIM Bank letter of intent
+- ✅ \$120M EXIM Bank letter of intent
 
 **Weaknesses:**
 - ❌ Pre-revenue with high cash burn
@@ -702,8 +702,8 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 **SPECULATIVE BUY** with the following caveats:
 
 1. **Position size appropriately** — this is a high-risk development-stage mining company
-2. **Consider scaling in** — current price has moved +32% in a week; pullbacks to $10-11 offer better entries
-3. **Use stop loss** — protect against thesis-breaking events at $7.50
+2. **Consider scaling in** — current price has moved +32% in a week; pullbacks to \$10-11 offer better entries
+3. **Use stop loss** — protect against thesis-breaking events at \$7.50
 4. **Be patient** — production is 2-3 years away; this is a hold, not a trade
 5. **Monitor funding** — watch for equity raises and JV milestones
 
@@ -711,10 +711,10 @@ The Trump administration's **$12 billion Project Vault** (announced February 202
 
 | Case | Target | Return |
 |------|--------|--------|
-| Bull | $28.00 | +135% |
-| Base | $18.00 | +51% |
-| Bear | $5.00 | -58% |
-| Fair Value | $17.25 | +45% |
+| Bull | \$28.00 | +135% |
+| Base | \$18.00 | +51% |
+| Bear | \$5.00 | -58% |
+| Fair Value | \$17.25 | +45% |
 
 **Recommendation:** CRML has fundamentally changed its risk profile with the April 2026 Greenland approval. Full operational control of the world's largest HREE deposit, combined with Saudi JV progress, EXIM Bank support, and extreme short interest, creates a compelling asymmetric opportunity. The stock is not without risks — funding, execution, and geopolitical concerns remain — but the risk/reward has shifted favorably for patient speculators.
 

@@ -10,14 +10,14 @@ hide:
 # T1 Energy (NYSE: TE) - Pre-Earnings Deep Dive Analysis
 **Date:** March 16, 2026  
 **Prepared for:** Thomas  
-**Position:** 60 shares at $8.02 cost basis (+32% unrealized gain at $10.58)  
-**Current Price:** ~$7.50-$8.05 (as of March 15, 2026)
+**Position:** 60 shares at \$8.02 cost basis (+32% unrealized gain at \$10.58)  
+**Current Price:** ~\$7.50-\$8.05 (as of March 15, 2026)
 
 ---
 
 ## ⚠️ EXECUTIVE SUMMARY
 
-**CRITICAL FINDING:** Thomas's cost basis shows +32% unrealized gains, but current trading price (~$7.60) suggests his actual cost basis may be showing paper losses. **Immediate clarification needed on actual position status.**
+**CRITICAL FINDING:** Thomas's cost basis shows +32% unrealized gains, but current trading price (~\$7.60) suggests his actual cost basis may be showing paper losses. **Immediate clarification needed on actual position status.**
 
 **Investment Thesis:** T1 Energy is a high-risk, high-reward pure-play on U.S. solar domestic manufacturing. The company is executing on building America's first fully integrated silicon solar supply chain, but faces significant balance sheet risk and policy uncertainty.
 
@@ -38,29 +38,29 @@ hide:
 **Assessment:** There is conflicting information about Q4 2025/FY2025 earnings timing. Based on historical patterns (Q3 reported Nov 14, 2025), Q4 results could come anytime between now and mid-May 2026.
 
 ### Key Q3 2025 Results (Most Recent)
-- **Revenue:** $210.5M (Q3) / $396.7M (9 months)
-- **EPS:** -$0.87 (Q3) vs -$0.20 (Q3 2024)
-- **Adjusted EBITDA:** -$14.6M (Q3) / -$18.6M (9 months)
-- **Net Loss:** -$140.8M attributable to common stockholders
+- **Revenue:** \$210.5M (Q3) / \$396.7M (9 months)
+- **EPS:** -\$0.87 (Q3) vs -\$0.20 (Q3 2024)
+- **Adjusted EBITDA:** -\$14.6M (Q3) / -\$18.6M (9 months)
+- **Net Loss:** -\$140.8M attributable to common stockholders
 
 ### Full-Year 2025 Guidance (From Q3 Report)
 | Metric | Guidance |
 |--------|----------|
-| EBITDA | $25M - $50M |
+| EBITDA | \$25M - \$50M |
 | Production | 2.6 - 3.0 GW |
 | G1_Dallas Run Rate | 4.5 GW annualized by Q4 |
 
 ### Analyst Expectations
 - **Consensus Rating:** Strong Buy (3 Buy, 0 Hold, 0 Sell)
-- **Average Price Target:** $7.30
-- **Target Range:** $6.00 - $7.30
-- **Note:** Current price ~$7.60 trades above average target
+- **Average Price Target:** \$7.30
+- **Target Range:** \$6.00 - \$7.30
+- **Note:** Current price ~\$7.60 trades above average target
 
 ### Key Metrics to Watch
-1. **Section 45X Credits:** $93.1M accrued - monetization progress critical
+1. **Section 45X Credits:** \$93.1M accrued - monetization progress critical
 2. **Production Ramp:** Q4 production should exceed Q1+Q2+Q3 combined
-3. **Cash Burn:** Only $34.1M unrestricted cash as of Sept 30
-4. **G2_Austin Construction Progress:** $400-425M capex requirement
+3. **Cash Burn:** Only \$34.1M unrestricted cash as of Sept 30
+4. **G2_Austin Construction Progress:** \$400-425M capex requirement
 5. **Offtake Contracts:** Expect at least one G2 contract by year-end 2025
 
 ---
@@ -82,55 +82,55 @@ hide:
 #### G2_Austin (Under Construction)
 - **Location:** Rockdale/Milam County, Texas
 - **Phase 1 Capacity:** 2.1 GW solar cells
-- **Investment:** $400-425 million
+- **Investment:** \$400-425 million
 - **Production Start:** Q4 2026
 - **Jobs:** Up to 1,800 advanced manufacturing positions
 - **Significance:** Will be larger than ALL current U.S. silicon cell capacity combined
 
 **Revenue Model:**
 - Module sales to utility-scale solar developers
-- Section 45X advanced manufacturing tax credits ($93M accrued)
+- Section 45X advanced manufacturing tax credits (\$93M accrued)
 - Potential cell sales to other module manufacturers
 
 ### Recent Quarterly Trends
 
 | Quarter | Revenue | Adj. EBITDA | EPS |
 |---------|---------|-------------|-----|
-| Q1 2025 | $131.2M | -$2.0M | -$0.24 |
-| Q2 2025 | $54.9M | -$2.0M | -$0.20 |
-| Q3 2025 | $210.5M | -$14.6M | -$0.87 |
+| Q1 2025 | \$131.2M | -\$2.0M | -\$0.24 |
+| Q2 2025 | \$54.9M | -\$2.0M | -\$0.20 |
+| Q3 2025 | \$210.5M | -\$14.6M | -\$0.87 |
 
 **Trend Analysis:**
 - Revenue highly variable due to contract timing
-- Q3 saw significant impairment ($53.2M non-cash) related to offtake customer dispute
+- Q3 saw significant impairment (\$53.2M non-cash) related to offtake customer dispute
 - Operating leverage improving but still burning cash
 - Q4 expected to be strongest quarter of 2025
 
 ### Balance Sheet Health Assessment ⚠️
 
 **Cash Position (Sept 30, 2025):**
-- Unrestricted Cash: $34.1M
-- Restricted Cash: $52.6M
-- **Total:** $86.7M
+- Unrestricted Cash: \$34.1M
+- Restricted Cash: \$52.6M
+- **Total:** \$86.7M
 
 **Debt:**
-- Total Debt: ~$702M
-- Long-term Debt: $152.9M
-- Related Party Debt: $348.3M
-- Current Portion: $120.1M
+- Total Debt: ~\$702M
+- Long-term Debt: \$152.9M
+- Related Party Debt: \$348.3M
+- Current Portion: \$120.1M
 
 **Key Ratios:**
 | Metric | Value | Assessment |
 |--------|-------|------------|
 | Debt/Equity | 2.69 (269%) | ⚠️ HIGH RISK |
-| Net Cash/Share | -$3.14 | ⚠️ NEGATIVE |
+| Net Cash/Share | -\$3.14 | ⚠️ NEGATIVE |
 | Current Ratio | ~1.13 | Marginal |
-| Total Liabilities | $1.24B | Elevated |
+| Total Liabilities | \$1.24B | Elevated |
 
-**Balance Sheet Verdict:** This is the **biggest risk** for T1 Energy. The 351% debt/equity ratio mentioned in the brief is concerning. While the company raised $122M in October 2025 through equity and convertible preferred offerings, liquidity remains tight. The $400-425M G2_Austin capex requirement will require additional financing.
+**Balance Sheet Verdict:** This is the **biggest risk** for T1 Energy. The 351% debt/equity ratio mentioned in the brief is concerning. While the company raised \$122M in October 2025 through equity and convertible preferred offerings, liquidity remains tight. The \$400-425M G2_Austin capex requirement will require additional financing.
 
 **Mitigating Factors:**
-- $93.1M in accrued 45X credits expected to monetize
+- \$93.1M in accrued 45X credits expected to monetize
 - Potential European asset sales (discontinued operations)
 - Customer offtake deposits expected for G2
 
@@ -140,7 +140,7 @@ hide:
 | Factor | T1 Energy | First Solar |
 |--------|-----------|-------------|
 | Technology | Silicon (TOPCon) | Thin-film (CdTe) |
-| Market Cap | ~$1.3-2.0B | ~$15B+ |
+| Market Cap | ~\$1.3-2.0B | ~\$15B+ |
 | U.S. Manufacturing | G1: 5GW, G2: 2.1GW | ~20GW+ capacity |
 | Financial Health | High debt, pre-profit | Profitable, strong BS |
 | IRA Benefit | 45X eligible | 45X eligible |
@@ -178,13 +178,13 @@ hide:
 - Demonstrates monetization pathway
 
 **December 17, 2025 - G2_Austin Construction Start** ⬆️
-- Broke ground on $400-425M solar cell fab
+- Broke ground on \$400-425M solar cell fab
 - 2.1GW Phase 1 capacity
 - Production expected Q4 2026
 
 **October 2025 - Capital Raise** ⬆️
-- $72M registered direct equity offering
-- $50M registered direct convertible preferred
+- \$72M registered direct equity offering
+- \$50M registered direct convertible preferred
 - Positioned for G2 construction start
 
 ### Policy Updates
@@ -228,16 +228,16 @@ hide:
 **r/T1Energy (Official Subreddit):**
 - Small but active community
 - Recent post: "I believe in T1 Energy in 2026" - holding conviction
-- Entry points discussed: $7.00-$7.50 range
+- Entry points discussed: \$7.00-\$7.50 range
 
 **r/wallstreetbets:**
 - Mixed sentiment
-- One YOLO post from Nov 2025 ($50K position)
+- One YOLO post from Nov 2025 (\$50K position)
 - Some meme-stock treatment but underlying DD discussion
 
 **r/energy:**
 - More serious discussion
-- Post: "T1 Energy projects $650-700M annual run-rate EBITDA for 2027"
+- Post: "T1 Energy projects \$650-700M annual run-rate EBITDA for 2027"
 - Strong support for domestic manufacturing thesis
 - Cautious optimism about policy environment
 
@@ -277,9 +277,9 @@ hide:
 
 ### Price Action
 
-**Current Trading Range:** $7.42 - $8.05 (recent sessions)
+**Current Trading Range:** \$7.42 - \$8.05 (recent sessions)
 **52-Week Range:** Data limited (recent transformation)
-**Market Cap:** ~$1.3-2.0B (varies by source)
+**Market Cap:** ~\$1.3-2.0B (varies by source)
 
 ### Moving Averages
 
@@ -292,18 +292,18 @@ hide:
 **StockInvest.us Analysis:**
 - Sell signal issued from Jan 28, 2026 pivot
 - Further fall indicated until new bottom pivot
-- 90% probability of price between $18.18-$25.12 in 3 months (conflicting signals)
+- 90% probability of price between \$18.18-\$25.12 in 3 months (conflicting signals)
 
 ### Support & Resistance
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| Resistance 1 | $8.05 | Recent high |
-| Resistance 2 | $8.50 | Psychological level |
-| Current Price | ~$7.60 | Trading range |
-| Support 1 | $7.42 | Recent low |
-| Support 2 | $7.00 | Psychological |
-| Support 3 | $6.00 | Analyst low target |
+| Resistance 1 | \$8.05 | Recent high |
+| Resistance 2 | \$8.50 | Psychological level |
+| Current Price | ~\$7.60 | Trading range |
+| Support 1 | \$7.42 | Recent low |
+| Support 2 | \$7.00 | Psychological |
+| Support 3 | \$6.00 | Analyst low target |
 
 **Volume Patterns:**
 - Elevated volume during news events
@@ -329,35 +329,35 @@ hide:
 ### Scenario A: Beat & Raise 🟢
 
 **Triggers:**
-- Q4 EBITDA at/above high end of guidance ($50M+)
+- Q4 EBITDA at/above high end of guidance (\$50M+)
 - Strong 2026 guidance
 - Progress on G2 financing
 - 45X credit monetization announced
 
 **Expected Price Action:**
-- Immediate: +15-25% to $8.75-$9.50
-- Follow-through: Potential test of $10+
+- Immediate: +15-25% to \$8.75-\$9.50
+- Follow-through: Potential test of \$10+
 
 **Strategy Recommendation:**
-- **Thomas's Move:** Take 50% profits at $10+, hold remainder for G2 ramp
+- **Thomas's Move:** Take 50% profits at \$10+, hold remainder for G2 ramp
 - Consider trailing stop on remaining position
 
 ### Scenario B: Miss or Soft Guidance 🔴
 
 **Triggers:**
-- Q4 EBITDA below $25M
+- Q4 EBITDA below \$25M
 - 2026 guidance cautious
 - Cash concerns raised
 - G2 delays announced
 
 **Expected Price Action:**
-- Immediate: -15-25% to $5.75-$6.50
-- Potential overshoot to $5.00 on panic
+- Immediate: -15-25% to \$5.75-\$6.50
+- Potential overshoot to \$5.00 on panic
 
 **Strategy Recommendation:**
 - **Thomas's Move:** If thesis intact, hold and consider averaging down
 - If balance sheet concerns emerge, exit and reassess
-- Stop-loss at $6.50 (19% from current)
+- Stop-loss at \$6.50 (19% from current)
 
 ### Scenario C: In-Line (Hold Pattern) 🟡
 
@@ -367,7 +367,7 @@ hide:
 - 2026 guidance maintained but not raised
 
 **Expected Price Action:**
-- Range-bound: $7.00-$8.50
+- Range-bound: \$7.00-\$8.50
 - Awaiting G2 progress visibility
 
 **Strategy Recommendation:**
@@ -381,10 +381,10 @@ hide:
 
 ### Current Position Summary
 - **Shares:** 60
-- **Cost Basis:** $8.02
-- **Current Price:** ~$7.60
-- **Unrealized P&L:** -$25 (-5.2%) *[Note: Conflicts with stated +32% gain - verify]*
-- **Position Value:** ~$456
+- **Cost Basis:** \$8.02
+- **Current Price:** ~\$7.60
+- **Unrealized P&L:** -\$25 (-5.2%) *[Note: Conflicts with stated +32% gain - verify]*
+- **Position Value:** ~\$456
 
 ### Strategy Options
 
@@ -392,7 +392,7 @@ hide:
 **Action:**
 - Sell 30 shares (50%) before earnings
 - Hold 30 shares for upside
-- Set stop-loss on remaining at $6.50
+- Set stop-loss on remaining at \$6.50
 
 **Rationale:**
 - Reduces single-stock risk
@@ -405,8 +405,8 @@ hide:
 #### Option 2: Aggressive - Hold Full Position 🚀
 **Action:**
 - Hold all 60 shares through earnings
-- Add on any dip below $7.00
-- Target $12+ for partial exit
+- Add on any dip below \$7.00
+- Target \$12+ for partial exit
 
 **Rationale:**
 - Full conviction in integrated U.S. supply chain thesis
@@ -419,10 +419,10 @@ hide:
 #### Option 3: Risk-Managed - Stops & Targets 🎯
 **Action:**
 - Hold full position
-- Set stop-loss at $6.80 (-10% from current)
-- Take 30 shares off at $9.00 (+18%)
-- Take remaining 30 at $12.00 (+58%)
-- Trailing stop on remainder if $12 broken
+- Set stop-loss at \$6.80 (-10% from current)
+- Take 30 shares off at \$9.00 (+18%)
+- Take remaining 30 at \$12.00 (+58%)
+- Trailing stop on remainder if \$12 broken
 
 **Rationale:**
 - Defined risk/reward parameters
@@ -435,8 +435,8 @@ hide:
 #### Option 4: Options Overlay (If Available) 🛡️
 **Action:**
 - Hold shares
-- Buy protective puts (strike $7.00, April expiration)
-- Cost: ~$0.50-0.75 per share
+- Buy protective puts (strike \$7.00, April expiration)
+- Cost: ~\$0.50-0.75 per share
 
 **Rationale:**
 - Downside protection for earnings
@@ -471,20 +471,20 @@ hide:
 
 ### Bull Case (60% probability)
 - G2_Austin comes online Q4 2026 as planned
-- 2027 run-rate EBITDA of $375-450M achieved
+- 2027 run-rate EBITDA of \$375-450M achieved
 - Section 45X credits continue supporting margins
-- Stock re-rates to $15-20 (3-4x EBITDA multiple)
+- Stock re-rates to \$15-20 (3-4x EBITDA multiple)
 
 ### Base Case (30% probability)
 - Execution delays push G2 to 2027
 - EBITDA breakeven in 2026, modest profits 2027
-- Stock range-bound $6-10 through 2026
+- Stock range-bound \$6-10 through 2026
 
 ### Bear Case (10% probability)
 - Balance sheet stress forces dilutive financing
 - Policy changes eliminate 45X benefits
 - G2 construction halted
-- Stock falls below $4
+- Stock falls below \$4
 
 ---
 
@@ -502,8 +502,8 @@ Given the **conflicting information about actual cost basis**, first verify:
 **If position is small (<2% of portfolio):**
 → **Option 3: Risk-Managed**
 - Hold full position
-- Stop-loss at $6.80
-- Layer out at $9 and $12
+- Stop-loss at \$6.80
+- Layer out at \$9 and \$12
 
 **If position is concentrated (>5% of portfolio):**
 → **Option 1: Conservative**
@@ -511,11 +511,11 @@ Given the **conflicting information about actual cost basis**, first verify:
 - Hold remainder with stop
 
 **Key Levels to Watch:**
-- **$6.80:** Stop-loss consideration
-- **$8.05:** Recent high, resistance break
-- **$9.00:** First profit-taking level
-- **$10.58:** Your stated cost basis +32% target
-- **$12.00:** Second profit-taking level
+- **\$6.80:** Stop-loss consideration
+- **\$8.05:** Recent high, resistance break
+- **\$9.00:** First profit-taking level
+- **\$10.58:** Your stated cost basis +32% target
+- **\$12.00:** Second profit-taking level
 
 **Earnings Play:**
 Given high volatility expectations and balance sheet risk, consider taking 50% off the table before earnings if you're risk-averse, or hold with a tight stop if you believe in the G2 catalyst.

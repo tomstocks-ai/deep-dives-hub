@@ -29,7 +29,7 @@ Findings:
 
 ### Summary of Findings
 
-**VELO (Velo3D, Inc.)** is a metal additive manufacturing company trading on NASDAQ at **$11.27** with a market cap of **~$277M**. The company provides advanced 3D printing solutions for mission-critical aerospace and defense applications.
+**VELO (Velo3D, Inc.)** is a metal additive manufacturing company trading on NASDAQ at **\$11.27** with a market cap of **~\$277M**. The company provides advanced 3D printing solutions for mission-critical aerospace and defense applications.
 
 ---
 
@@ -38,7 +38,7 @@ Findings:
 | Category | Finding |
 |----------|---------|
 | **Recommendation** | **SPECULATIVE BUY** |
-| **12-Month Price Target** | $14.00 (Base) / $28.00 (Bull) |
+| **12-Month Price Target** | \$14.00 (Base) / \$28.00 (Bull) |
 | **Implied Upside** | +24% to +148% |
 | **Risk Level** | High |
 | **Position Size** | 1-3% max (aggressive portfolios only) |
@@ -49,20 +49,20 @@ Findings:
 - Strong defense partnerships (U.S. Army CRADA, U.S. Navy contracts)
 - Unique technology with true design freedom vs. legacy AM
 - AS9100D certification for aerospace quality
-- Management guided 30-52% revenue growth in 2026 ($60-70M)
+- Management guided 30-52% revenue growth in 2026 (\$60-70M)
 - Path to EBITDA profitability by H2 2026
 - High short interest (28.6% of float) creates squeeze potential
 
 **Key Risks:**
-- Precarious financials: $39M cash, -$71M net loss TTM
+- Precarious financials: \$39M cash, -\$71M net loss TTM
 - Need to achieve profitability by H2 2026 or risk dilutive financing
 - Customer concentration and lumpy system sales
 - Micro-cap volatility with limited float (7.2M shares)
 
 ### Technical Picture
-- **Current Price:** $11.27 (below 20/50 SMA, above 200 SMA)
+- **Current Price:** \$11.27 (below 20/50 SMA, above 200 SMA)
 - **RSI:** 40.1 (neutral, approaching oversold)
-- **Support:** $9.50 / $8.30 | **Resistance:** $13.00 / $16.20
+- **Support:** \$9.50 / \$8.30 | **Resistance:** \$13.00 / \$16.20
 - **YTD Performance:** -31.8%
 
 ---
@@ -81,15 +81,15 @@ Stats: runtime 5m35s • tokens 36.7k (in 381 / out 545) • sessionKey agent:ma
 Summarize this naturally for the user. Keep it brief (1-2 sentences). Flow it into the conversation naturally.
 Do not mention technical details like tokens, stats, or that this was a background task.
 You can respond with NO_REPLY if no announcement is needed (e.g., internal task with no user-facing result).
-assistant: VELO deep dive is ready — **SPECULATIVE BUY** at $11.27.
+assistant: VELO deep dive is ready — **SPECULATIVE BUY** at \$11.27.
 
-**Thesis:** Velo3D is a metal 3D printing company with unique "support-free" technology for aerospace/defense. Strong defense tailwinds (Army, Navy contracts) and 30-52% guided revenue growth for 2026, but precarious financials ($39M cash, -$71M net loss) mean they need to hit profitability by H2 2026 or face dilution.
+**Thesis:** Velo3D is a metal 3D printing company with unique "support-free" technology for aerospace/defense. Strong defense tailwinds (Army, Navy contracts) and 30-52% guided revenue growth for 2026, but precarious financials (\$39M cash, -\$71M net loss) mean they need to hit profitability by H2 2026 or face dilution.
 
 **Key numbers:**
-- Price target: $14 base / $28 bull (+24% to +148% upside)
+- Price target: \$14 base / \$28 bull (+24% to +148% upside)
 - High short interest (28.6%) = squeeze potential
 - Position size: 1-3% max (aggressive only)
-- Support: $9.50 / Resistance: $13.00
+- Support: \$9.50 / Resistance: \$13.00
 
 **Risk:** Micro-cap volatility, customer concentration, lumpy system sales. This is a high-risk/high-reward speculative play — not for core holdings.
 
