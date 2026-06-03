@@ -1,0 +1,54 @@
+{
+  "ticker": "PURR",
+  "company": "Hyperliquid Strategies Inc.",
+  "sector": "Technology",
+  "industry": "Digital Asset Treasury",
+  "exchange": "NASDAQ",
+  "price": 10.97,
+  "market_cap": "$1.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-03",
+  "thesis": "Hyperliquid Strategies is the largest publicly traded HYPE treasury vehicle, holding ~17.6M HYPE tokens (~$1.14B). The stock provides equity exposure to the Hyperliquid ecosystem with staking yield. Russell 3000 inclusion on June 26 creates mandatory passive buying. Highly correlated to HYPE price with NAV premium/discount dynamics.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "Staking yield + asset gains",
+    "revenue_growth": "N/A (treasury model)",
+    "gross_margin": "N/A",
+    "net_income": "$152.5M (Q3 FY2026)",
+    "eps_diluted": "N/A",
+    "cash": "$103M",
+    "fcf": "Positive (staking + gains)"
+  },
+  "bull_case": {
+    "target": "$16–$20",
+    "drivers": [
+      "HYPE reaches $100+ on Hyperliquid dominance",
+      "Russell 3000 inclusion drives passive flows",
+      "Crypto treasury narrative attracts premium valuation"
+    ]
+  },
+  "bear_case": {
+    "target": "$5–$7",
+    "risks": [
+      "HYPE corrects to $35–$45 post-token-unlock",
+      "NAV premium flips to discount in bear market",
+      "Regulatory crackdown on crypto treasuries"
+    ]
+  },
+  "base_case": {
+    "target": "$11–$14",
+    "assumptions": "HYPE stabilizes $70–$85, PURR trades near NAV with modest premium, staking yield provides steady revenue"
+  },
+  "catalysts": [
+    {"date": "2026-06-06", "event": "HYPE token unlock (9.92M tokens for core contributors)"},
+    {"date": "2026-06-26", "event": "Russell 3000 inclusion effective"},
+    {"date": "2026-07-15", "event": "Q4 FY2026 earnings (estimated)"}
+  ],
+  "key_risks": [
+    "Single-asset concentration (90%+ HYPE)",
+    "Mark-to-market volatility — earnings are unrealized gains",
+    "HYPE token unlock selling pressure",
+    "Regulatory risk in crypto sector",
+    "NAV premium could flip to discount"
+  ]
+}

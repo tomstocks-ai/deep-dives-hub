@@ -360,6 +360,18 @@
       "last_updated": "2026-06-02",
       "deep_dive_url": "/deep-dives/DDD/",
       "api_url": "/api/DDD.json"
+    },
+    {
+      "ticker": "PURR",
+      "company": "Hyperliquid Strategies Inc.",
+      "sector": "Technology",
+      "industry": "Digital Asset Treasury",
+      "rating": "SPEC. BUY",
+      "price": 10.97,
+      "market_cap": "$1.5B",
+      "last_updated": "2026-06-03",
+      "deep_dive_url": "/deep-dives/PURR/",
+      "api_url": "/api/PURR.json"
     }
   ]
 }
