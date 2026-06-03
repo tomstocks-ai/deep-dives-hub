@@ -9,8 +9,8 @@ hide:
 
 # OKLO (Oklo Inc.) - Comprehensive Deep Dive Analysis
 **Date:** April 15, 2026  
-**Current Price:** $58.58  
-**Market Cap:** $10.17B  
+**Current Price:** \$58.58  
+**Market Cap:** \$10.17B  
 **Sector:** Utilities - Advanced Nuclear Technology  
 **Recommendation:** SPECULATIVE BUY
 
@@ -52,25 +52,25 @@ Oklo doesn't just sell reactors - it builds them, owns them, and sells the elect
 ## 2. FINANCIAL ANALYSIS
 
 ### Cash Position: Strong Runway (The Good News)
-Oklo has **$1.23 billion in cash** (as of latest data) and only **$1.45 million in debt**. For a pre-revenue company, this is a remarkably strong balance sheet.
+Oklo has **\$1.23 billion in cash** (as of latest data) and only **\$1.45 million in debt**. For a pre-revenue company, this is a remarkably strong balance sheet.
 
-**What This Means:** At a cash burn rate of $35-40 million per year, Oklo has approximately **30+ years of runway** - unheard of for a development-stage company. This eliminates near-term dilution risk.
+**What This Means:** At a cash burn rate of \$35-40 million per year, Oklo has approximately **30+ years of runway** - unheard of for a development-stage company. This eliminates near-term dilution risk.
 
 ### Income Statement (No Revenue Yet)
 | Metric | Value | What It Means |
 |--------|-------|---------------|
-| Revenue | $0 | Pre-revenue; first commercial plant expected 2027-2028 |
-| Net Income | -$105.7M (TTM) | Losing money while developing technology |
-| EPS | -$0.72 | Expected for pre-revenue development stage |
+| Revenue | \$0 | Pre-revenue; first commercial plant expected 2027-2028 |
+| Net Income | -\$105.7M (TTM) | Losing money while developing technology |
+| EPS | -\$0.72 | Expected for pre-revenue development stage |
 
 ### Key Financial Metrics Explained
-- **Cash Burn:** ~$35-40M/year (management guidance)
+- **Cash Burn:** ~\$35-40M/year (management guidance)
 - **Cash Runway:** 30+ years at current burn rate
 - **Debt/Equity:** 0.10% (essentially debt-free)
 - **Return on Equity:** -12.24% (negative because spending exceeds any income)
 
 ### What "Pre-Revenue" Really Means Here
-Unlike a software startup that might need continuous fundraising, Oklo's $1.2B cash position gives it the resources to reach commercialization without further dilution. The company has already:
+Unlike a software startup that might need continuous fundraising, Oklo's \$1.2B cash position gives it the resources to reach commercialization without further dilution. The company has already:
 - Broken ground on its first reactor (September 2025)
 - Secured major customer commitments (Meta, Diamondback Energy, Equinix)
 - Entered DOE's fast-track pilot program
@@ -82,17 +82,17 @@ Unlike a software startup that might need continuous fundraising, Oklo's $1.2B c
 ### Current Valuation Metrics
 | Metric | OKLO Value | Industry Context |
 |--------|-----------|------------------|
-| Market Cap | $10.17B | High for pre-revenue but reflects optionality |
+| Market Cap | \$10.17B | High for pre-revenue but reflects optionality |
 | Price/Book | 6.34x | Premium to utilities, but this isn't a utility yet |
 | P/E Ratio | N/A | No earnings yet |
-| Analyst Target | $90.41 (avg) | 54% upside implied |
+| Analyst Target | \$90.41 (avg) | 54% upside implied |
 
 ### Valuation Framework: Optionality Pricing
-Oklo trades like a **call option on the future of nuclear energy**. The $10B valuation isn't based on current earnings (there are none) but on:
+Oklo trades like a **call option on the future of nuclear energy**. The \$10B valuation isn't based on current earnings (there are none) but on:
 
 **Bull Case Value Drivers:**
 - **LOI Pipeline:** 1,350 MW of non-binding letters of intent (up 93% since mid-2024)
-- **Meta Deal:** 1.2 GW campus potential - if fully deployed, could generate $400M+ annual revenue
+- **Meta Deal:** 1.2 GW campus potential - if fully deployed, could generate \$400M+ annual revenue
 - **Market Position:** Only publicly-traded pure-play on non-water-cooled advanced reactors
 - **Competitive Moat:** 10+ year head start on regulatory engagement
 
@@ -103,17 +103,17 @@ Traditional DCF doesn't work well here because:
 3. The model scales exponentially once certified (each subsequent reactor is faster to license)
 
 **Alternative Valuation Approach:**
-- If OKLO captures just 5% of projected SMR market by 2035 (~$10B market), that's $500M revenue
-- At 30% margins (typical for nuclear), $150M EBITDA
-- 15x EBITDA multiple = $2.25B value for mature business
-- Current $10B price implies capturing ~20-25% market share
+- If OKLO captures just 5% of projected SMR market by 2035 (~\$10B market), that's \$500M revenue
+- At 30% margins (typical for nuclear), \$150M EBITDA
+- 15x EBITDA multiple = \$2.25B value for mature business
+- Current \$10B price implies capturing ~20-25% market share
 
 ### Comparable Company Analysis
 | Company | Market Cap | Stage | Technology |
 |---------|-----------|-------|------------|
-| **OKLO** | $10.2B | Pre-commercial | Fast reactor, 15-75 MW |
-| NNE (Nano Nuclear) | ~$1.5B | Early development | Microreactors |
-| SMR (NuScale) | ~$400M | NRC certified | LWR SMR, 77 MW |
+| **OKLO** | \$10.2B | Pre-commercial | Fast reactor, 15-75 MW |
+| NNE (Nano Nuclear) | ~\$1.5B | Early development | Microreactors |
+| SMR (NuScale) | ~\$400M | NRC certified | LWR SMR, 77 MW |
 | IMSR (Terrestrial) | Private | Development | Molten salt |
 
 **Takeaway:** OKLO trades at a premium to competitors but has the most advanced regulatory pathway and commercial traction.
@@ -159,9 +159,9 @@ Traditional DCF doesn't work well here because:
 ### Long-Term Catalysts (2030+)
 
 7. **Scale Economics**
-   - First 50 MW plant: ~$145M cost
+   - First 50 MW plant: ~\$145M cost
    - Subsequent plants: Lower costs through learning curve
-   - Target LCOE: $40-90/MWh (competitive with gas + CCS)
+   - Target LCOE: \$40-90/MWh (competitive with gas + CCS)
 
 8. **International Expansion**
    - Partnership with Blykalla AB (Sweden) for European market
@@ -203,7 +203,7 @@ Traditional DCF doesn't work well here because:
 - Requires long-term capital commitment
 
 **5. Dilution Risk (LOW)**
-- Current cash position is strong ($1.23B)
+- Current cash position is strong (\$1.23B)
 - But if costs exceed projections, future raises possible
 - SPAC warrants could create selling pressure
 
@@ -240,16 +240,16 @@ Traditional DCF doesn't work well here because:
 
 | Date | Close Price | RSI | Signal |
 |------|-------------|-----|--------|
-| 3/30/2026 | $45.58 | 21.87 | ⚠️ OVERSOLD |
-| 4/1/2026 | $48.07 | 30.18 | ⚠️ Near Oversold |
-| 4/7/2026 | $46.59 | 25.58 | ⚠️ OVERSOLD |
-| 4/14/2026 | $58.58 | 55.13 | Neutral |
+| 3/30/2026 | \$45.58 | 21.87 | ⚠️ OVERSOLD |
+| 4/1/2026 | \$48.07 | 30.18 | ⚠️ Near Oversold |
+| 4/7/2026 | \$46.59 | 25.58 | ⚠️ OVERSOLD |
+| 4/14/2026 | \$58.58 | 55.13 | Neutral |
 
 **Current RSI: 55.13** (Neutral territory)
 
 **Key Observations:**
 - Stock hit **deeply oversold** levels (RSI ~22) in late March
-- Strong bounce from $45 to $58 in two weeks (+30%)
+- Strong bounce from \$45 to \$58 in two weeks (+30%)
 - RSI now in neutral zone - room to run higher or consolidate
 - Recent momentum shift suggests bottom may be in
 
@@ -257,11 +257,11 @@ Traditional DCF doesn't work well here because:
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| 52-Week High | $193.84 | All-time high post-SPAC (likely blow-off top) |
-| Recent Resistance | $75-80 | March 2025 consolidation area |
-| Current Price | $58.58 | Post-bounce level |
-| Support | $45-48 | Recent lows, strong buying interest |
-| 52-Week Low | $19.89 | Absolute floor ( unlikely to retest) |
+| 52-Week High | \$193.84 | All-time high post-SPAC (likely blow-off top) |
+| Recent Resistance | \$75-80 | March 2025 consolidation area |
+| Current Price | \$58.58 | Post-bounce level |
+| Support | \$45-48 | Recent lows, strong buying interest |
+| 52-Week Low | \$19.89 | Absolute floor ( unlikely to retest) |
 
 **Volume Profile:**
 - Average Volume: ~9.2M shares/day
@@ -270,15 +270,15 @@ Traditional DCF doesn't work well here because:
 
 ### Moving Averages
 - **Stock is below** all major moving averages (50-day, 200-day)
-- This suggests the longer-term trend is still down from the $193 peak
+- This suggests the longer-term trend is still down from the \$193 peak
 - Recent bounce may be establishing a new base
 
 ### Chart Pattern
 - **Cup and handle** potential forming from March lows
-- **Double bottom** at $45-46 zone
-- Break above $65 would confirm trend reversal
+- **Double bottom** at \$45-46 zone
+- Break above \$65 would confirm trend reversal
 
-**Technical Summary:** Stock is recovering from oversold conditions. The brutal selloff from $193 to $45 appears to have found a floor. RSI neutralizes risk of chasing here, but momentum is improving.
+**Technical Summary:** Stock is recovering from oversold conditions. The brutal selloff from \$193 to \$45 appears to have found a floor. RSI neutralizes risk of chasing here, but momentum is improving.
 
 ---
 
@@ -288,12 +288,12 @@ Traditional DCF doesn't work well here because:
 
 | Firm | Rating | Price Target | Date |
 |------|--------|--------------|------|
-| UBS | Neutral | $60 (lowered from $95) | March 2026 |
-| Consensus | - | $90.41 avg | - |
+| UBS | Neutral | \$60 (lowered from \$95) | March 2026 |
+| Consensus | - | \$90.41 avg | - |
 
 **Key Analyst Notes:**
 - Recent UBS downgrade reflects valuation concerns, not fundamental issues
-- Wide dispersion in price targets ($14 to $168) reflects uncertainty
+- Wide dispersion in price targets (\$14 to \$168) reflects uncertainty
 - As first commercial deployment approaches, estimates will converge
 
 ### Institutional Ownership
@@ -375,8 +375,8 @@ Traditional DCF doesn't work well here because:
 4. LOI-to-PPA conversion rate exceeds 50%
 
 **Upside Scenario:**
-- By 2030: 5-10 reactors operational, $500M+ revenue run rate
-- Stock could reach $150-200+ on execution
+- By 2030: 5-10 reactors operational, \$500M+ revenue run rate
+- Stock could reach \$150-200+ on execution
 - Becomes the "go-to" advanced nuclear provider for tech companies
 
 **Why It Could Happen:**
@@ -395,7 +395,7 @@ Traditional DCF doesn't work well here because:
 
 **Downside Scenario:**
 - Multiple year delays erode investor confidence
-- Stock could retest $30-40 range
+- Stock could retest \$30-40 range
 - Potential dilution if cash burn exceeds projections
 
 **Probability Assessment:**
@@ -409,9 +409,9 @@ Traditional DCF doesn't work well here because:
 - Aurora-INL online by 2028 (6-12 month delay from target)
 - Meta Phase 1 by 2031
 - 3-5 reactors operational by 2030
-- Revenue of $200-300M by 2030
+- Revenue of \$200-300M by 2030
 
-**Price Target: $90-100**
+**Price Target: \$90-100**
 - 54% upside from current levels
 - Reflects partial success with room for further upside as scale builds
 
@@ -438,25 +438,25 @@ Oklo is a high-conviction, high-risk investment in the nuclear renaissance. This
 **Current Situation:** Post-oversold bounce, RSI neutral
 
 **Recommended Approach:**
-1. **Immediate Entry:** Start with 1/3 position at current levels ($58-60)
-2. **Add on Weakness:** Scale in if stock pulls back to $48-52 support
-3. **Momentum Entry:** Add remaining 1/3 on break above $65
+1. **Immediate Entry:** Start with 1/3 position at current levels (\$58-60)
+2. **Add on Weakness:** Scale in if stock pulls back to \$48-52 support
+3. **Momentum Entry:** Add remaining 1/3 on break above \$65
 
 **Dollar-Cost Averaging:** Given the 2-3 year timeline to revenue, DCA approach is sensible.
 
 ### Stop Loss / Risk Management
-- **Hard Stop:** $42 (below recent lows)
-- **Trailing Stop:** 25% below entry once stock exceeds $75
+- **Hard Stop:** \$42 (below recent lows)
+- **Trailing Stop:** 25% below entry once stock exceeds \$75
 - **Time Stop:** Reassess if no NRC progress by end of 2025
 
 ### Key Levels to Watch
 | Level | Action |
 |-------|--------|
-| $75 | Add to position on trend confirmation |
-| $90 | Consider partial profit taking (analyst consensus) |
-| $120+ | Reassess valuation; potential trim zone |
-| $48 | Support test - add if thesis intact |
-| $42 | Stop loss - thesis broken |
+| \$75 | Add to position on trend confirmation |
+| \$90 | Consider partial profit taking (analyst consensus) |
+| \$120+ | Reassess valuation; potential trim zone |
+| \$48 | Support test - add if thesis intact |
+| \$42 | Stop loss - thesis broken |
 
 ### Catalyst Calendar
 | Date | Event | Impact |
@@ -471,7 +471,7 @@ Oklo is a high-conviction, high-risk investment in the nuclear renaissance. This
 ### Final Thoughts
 Oklo represents a rare opportunity to invest in a transformational energy technology with:
 - ✅ Proven technology heritage (EBR-II)
-- ✅ Strong balance sheet ($1.23B cash)
+- ✅ Strong balance sheet (\$1.23B cash)
 - ✅ Validated customer demand (Meta, Equinix, Diamondback)
 - ✅ Regulatory fast-track (DOE pilot program)
 - ✅ Experienced management team
@@ -492,20 +492,20 @@ The risks are real - regulatory delays, technology execution, competition - but 
 ### Ticker Information
 - **Symbol:** OKLO (NYSE)
 - **Shares Outstanding:** ~174M
-- **Market Cap:** $10.17B
-- **52-Week Range:** $19.89 - $193.84
+- **Market Cap:** \$10.17B
+- **52-Week Range:** \$19.89 - \$193.84
 - **Average Volume:** 9.2M
 
 ### Key Financials
-- **Cash:** $1.23B
-- **Debt:** $1.45M
-- **Cash Burn:** $35-40M/year
+- **Cash:** \$1.23B
+- **Debt:** \$1.45M
+- **Cash Burn:** \$35-40M/year
 - **Runway:** 30+ years
 
 ### Key Metrics
 - **RSI (14-day):** 55.13 (Neutral)
 - **Price/Book:** 6.34x
-- **Analyst Target:** $90.41
+- **Analyst Target:** \$90.41
 
 ### Important Links
 - [Oklo Investor Relations](https://oklo.com/investors/)

@@ -26,9 +26,9 @@ STAAR Surgical is the **global leader in phakic Implantable Collamer® Lenses (I
 ### Geographic Revenue Breakdown (2024)
 | Region | Revenue Share | Key Notes |
 |--------|--------------|-----------|
-| **China** | ~60% ($203M) | Largest market, significant growth driver |
-| **Other International** | ~25% ($84M) | Diversified emerging markets |
-| **Japan** | ~11% ($38M) | Mature, stable market |
+| **China** | ~60% (\$203M) | Largest market, significant growth driver |
+| **Other International** | ~25% (\$84M) | Diversified emerging markets |
+| **Japan** | ~11% (\$38M) | Mature, stable market |
 | **US** | ~4% | Growth opportunity with recent FDA approvals |
 
 **What this means:** STAAR is heavily exposed to China — nearly 60% of revenue comes from this single market, creating both opportunity and risk.
@@ -40,14 +40,14 @@ STAAR Surgical is the **global leader in phakic Implantable Collamer® Lenses (I
 ### Income Statement (Recent History)
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |--------|--------|--------|--------|--------|--------|
-| Revenue | $230M | $284M | $322M | $314M | $239M |
+| Revenue | \$230M | \$284M | \$322M | \$314M | \$239M |
 | Revenue Growth | +41% | +23% | +13% | -2.6% | **-24%** |
-| EPS | $0.56 | $0.80 | $0.43 | -$0.41 | **-$1.62** |
+| EPS | \$0.56 | \$0.80 | \$0.43 | -\$0.41 | **-\$1.62** |
 
 **What this means:** After years of strong growth, STAAR hit a wall in 2024-2025 with revenue declining 24% and swinging to a significant loss. This was driven by China market headwinds and competitive pressures.
 
 ### Balance Sheet Highlights
-- **Market Cap:** ~$1.03 billion (as of Apr 2026)
+- **Market Cap:** ~\$1.03 billion (as of Apr 2026)
 - **Cash Position:** Declining due to losses
 - **Debt:** Limited debt; primarily lease obligations
 - **Asset-Lite:** Manufacturing facilities in US; majority of operations outsourced
@@ -64,19 +64,19 @@ STAAR Surgical is the **global leader in phakic Implantable Collamer® Lenses (I
 ## 3. VALUATION
 
 ### Current Metrics (April 2026)
-- **Stock Price:** ~$26.00 (up 25%+ today on Q1 pre-announcement)
-- **Market Cap:** ~$1.03 billion
-- **52-Week Range:** $14.69 - $30.81
+- **Stock Price:** ~\$26.00 (up 25%+ today on Q1 pre-announcement)
+- **Market Cap:** ~\$1.03 billion
+- **52-Week Range:** \$14.69 - \$30.81
 - **P/E Ratio:** Negative (company not profitable)
 - **Forward P/E (2027):** ~114x (if company returns to profitability)
 
 ### Analyst Price Targets
 | Target | Price | Upside/Downside |
 |--------|-------|-----------------|
-| **Low** | $16 | -38% |
-| **Average** | $22.81 | -13% |
-| **Median** | $26 | -0.8% |
-| **High** | $28 | +7% |
+| **Low** | \$16 | -38% |
+| **Average** | \$22.81 | -13% |
+| **Median** | \$26 | -0.8% |
+| **High** | \$28 | +7% |
 
 **Analyst Consensus:** HOLD / BUY (2 Strong Buy, 7 Hold)
 
@@ -88,14 +88,14 @@ Given the company's transition from growth to profitability challenges, traditio
 - **US expansion:** Can FDA approvals drive new growth?
 - **Margin recovery:** Can gross margins return to 70%+ levels?
 
-**Fair Value Range:** $18-28 (wide range due to uncertainty)
+**Fair Value Range:** \$18-28 (wide range due to uncertainty)
 
 ---
 
 ## 4. GROWTH CATALYSTS
 
 ### Near-Term (6-12 months)
-1. **Q1 2026 Beat:** Company pre-announced Q1 revenue above $90M vs. $67.6M consensus — a 33% beat
+1. **Q1 2026 Beat:** Company pre-announced Q1 revenue above \$90M vs. \$67.6M consensus — a 33% beat
 2. **China Recovery:** Early signs of stabilization in largest market
 3. **US Momentum:** Domestic revenue grew 45%+ in recent quarters
 4. **FDA Age Expansion:** February 2026 approval expanded age indication, opening larger addressable market
@@ -134,7 +134,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ### Financial Risks
 1. **Profitability Challenges:**
-   - FY2025 operating loss of ~$1.62/share
+   - FY2025 operating loss of ~\$1.62/share
    - Cash burn during turnaround phase
    - May need to raise capital if losses continue
 
@@ -158,25 +158,25 @@ Given the company's transition from growth to profitability challenges, traditio
 ## 6. TECHNICAL ANALYSIS
 
 ### Current Technical Picture
-- **Stock Price:** $26.22 (+25% today on Q1 pre-announcement)
-- **52-Week Range:** $14.69 - $30.81
+- **Stock Price:** \$26.22 (+25% today on Q1 pre-announcement)
+- **52-Week Range:** \$14.69 - \$30.81
 - **TradingView Rating:** BUY (based on technical indicators)
 
 ### Key Levels
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Resistance 1** | $28.00 | Near-term ceiling; recent highs |
-| **Resistance 2** | $31.00 | 52-week high; psychological barrier |
-| **Current Price** | $26.22 | Post-announcement level |
-| **Support 1** | $20.00 | Key technical support |
-| **Support 2** | $16.00 | Major low; Wells Fargo target |
+| **Resistance 1** | \$28.00 | Near-term ceiling; recent highs |
+| **Resistance 2** | \$31.00 | 52-week high; psychological barrier |
+| **Current Price** | \$26.22 | Post-announcement level |
+| **Support 1** | \$20.00 | Key technical support |
+| **Support 2** | \$16.00 | Major low; Wells Fargo target |
 
 ### Technical Observations
 - **RSI:** 63 (approaching overbought after today's move)
 - **Volume:** Heavy volume on Q1 announcement — institutional interest
 - **Trend:** Broke above 50-day moving average; testing 200-day
 
-**What this means:** The stock has momentum but is approaching resistance. A break above $28-31 would be very bullish; failure to hold $20 would be bearish.
+**What this means:** The stock has momentum but is approaching resistance. A break above \$28-31 would be very bullish; failure to hold \$20 would be bearish.
 
 ---
 
@@ -185,9 +185,9 @@ Given the company's transition from growth to profitability challenges, traditio
 ### Analyst Sentiment
 - **Consensus Rating:** BUY (cautious)
 - **Recent Changes:**
-  - **Canaccord Genuity:** Upgraded HOLD → STRONG BUY, raised target $22→$27 (Apr 2026)
-  - **Wedbush:** Maintained HOLD, raised target $21→$26 (Apr 2026)
-  - **Wells Fargo:** Maintained HOLD, cut target $31→$16 (Mar 2026) — most bearish
+  - **Canaccord Genuity:** Upgraded HOLD → STRONG BUY, raised target \$22→\$27 (Apr 2026)
+  - **Wedbush:** Maintained HOLD, raised target \$21→\$26 (Apr 2026)
+  - **Wells Fargo:** Maintained HOLD, cut target \$31→\$16 (Mar 2026) — most bearish
 
 ### Institutional Activity
 - **Ownership:** Mix of growth and healthcare-focused funds
@@ -220,7 +220,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ## 9. INVESTMENT THESIS
 
-### Bull Case ($35-40 target — +35-55% upside)
+### Bull Case (\$35-40 target — +35-55% upside)
 **What needs to go right:**
 - China market fully recovers, driving 20%+ revenue growth
 - US market continues 40%+ growth trajectory
@@ -230,7 +230,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 **Probability:** 25-30%
 
-### Base Case ($24-28 target — 0-10% upside)
+### Base Case (\$24-28 target — 0-10% upside)
 **Most likely scenario:**
 - China stabilizes but doesn't accelerate
 - Revenue grows 10-15% annually
@@ -240,7 +240,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 **Probability:** 50-55%
 
-### Bear Case ($14-16 target — -40-45% downside)
+### Bear Case (\$14-16 target — -40-45% downside)
 **What could go wrong:**
 - China economic weakness worsens
 - Competitive pressure from LASIK/SMILE intensifies
@@ -271,20 +271,20 @@ Given the company's transition from growth to profitability challenges, traditio
 **Current Situation:** Stock jumped 25% on Q1 pre-announcement
 
 **Options:**
-1. **Wait for pullback:** Look for entry near $20-22 (support level)
+1. **Wait for pullback:** Look for entry near \$20-22 (support level)
 2. **Scale in:** Start small position now, add on any weakness
-3. **Momentum play:** Buy breakout above $28 with tight stop
+3. **Momentum play:** Buy breakout above \$28 with tight stop
 
 ### Stop Loss / Risk Management
-- **Stop Loss:** $18 (-31% from current)
+- **Stop Loss:** \$18 (-31% from current)
 - **Position Size:** Size such that a -40% loss is tolerable
 
 ### Key Levels to Watch
 | Level | Action |
 |-------|--------|
-| **Above $28** | Bullish breakout — add to position |
-| **$20-22** | Support zone — accumulate if bullish |
-| **Below $18** | Stop loss triggered — exit position |
+| **Above \$28** | Bullish breakout — add to position |
+| **\$20-22** | Support zone — accumulate if bullish |
+| **Below \$18** | Stop loss triggered — exit position |
 
 ### Catalyst Calendar
 | Date | Event | Impact |
@@ -306,9 +306,9 @@ Given the company's transition from growth to profitability challenges, traditio
 
 **Myopia:** Nearsightedness — the inability to see distant objects clearly. STAAR's target market.
 
-**Gross Margin:** The percentage of revenue left after direct costs. If gross margin is 70%, the company keeps $0.70 of every dollar in sales after manufacturing costs.
+**Gross Margin:** The percentage of revenue left after direct costs. If gross margin is 70%, the company keeps \$0.70 of every dollar in sales after manufacturing costs.
 
-**Forward P/E:** Price-to-Earnings ratio based on future (forecasted) earnings rather than past earnings. A 114x forward P/E means investors are paying $114 for every $1 of expected future earnings — very expensive.
+**Forward P/E:** Price-to-Earnings ratio based on future (forecasted) earnings rather than past earnings. A 114x forward P/E means investors are paying \$114 for every \$1 of expected future earnings — very expensive.
 
 **Pre-announcement:** When a company releases preliminary financial results before the official earnings call. STAAR's Q1 pre-announcement beat expectations significantly.
 
@@ -339,26 +339,26 @@ STAAR Surgical is a **high-risk, high-reward medical device turnaround play**. T
 
 ## SUMMARY
 
-STAAR Surgical (STAA) is a **speculative turnaround story** trading at ~$26, up 25% on a Q1 2026 revenue beat. The company sells EVO ICL implantable lenses for vision correction, with 60% of revenue from China.
+STAAR Surgical (STAA) is a **speculative turnaround story** trading at ~\$26, up 25% on a Q1 2026 revenue beat. The company sells EVO ICL implantable lenses for vision correction, with 60% of revenue from China.
 
 **The Good:**
-- Q1 2026 revenue beat ($90M+ vs. $67.6M consensus) suggests turnaround
+- Q1 2026 revenue beat (\$90M+ vs. \$67.6M consensus) suggests turnaround
 - 4M+ lenses sold globally; market leader in phakic IOLs
 - FDA expanded age indication in Feb 2026
 
 **The Bad:**
-- Lost $1.62/share in FY2025; profitability uncertain
+- Lost \$1.62/share in FY2025; profitability uncertain
 - 60% revenue concentration in China creates significant risk
 - Trading at 114x forward earnings — expensive
 
 **The Verdict:**
-**HOLD / SPECULATIVE BUY** with tight risk management. The Q1 beat is encouraging, but the stock isn't cheap and China exposure remains a concern. Consider scaling in on any pullback to $20-22.
+**HOLD / SPECULATIVE BUY** with tight risk management. The Q1 beat is encouraging, but the stock isn't cheap and China exposure remains a concern. Consider scaling in on any pullback to \$20-22.
 
 ---
 
 *Report Date: April 9, 2026*
-*Stock Price: $26.22 (as of report)*
-*Market Cap: ~$1.03 billion*
+*Stock Price: \$26.22 (as of report)*
+*Market Cap: ~\$1.03 billion*
 
 ---
 

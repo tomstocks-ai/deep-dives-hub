@@ -9,9 +9,9 @@ hide:
 # AEHR (Aehr Test Systems) - Comprehensive Investment Deep Dive
 **Report Date:** April 6, 2026  
 **Ticker:** NASDAQ: AEHR  
-**Current Price:** $44.32 (as of April 2, 2026 close)  
-**Market Cap:** ~$1.36B  
-**52-Week Range:** $6.27 - $46.95  
+**Current Price:** \$44.32 (as of April 2, 2026 close)  
+**Market Cap:** ~\$1.36B  
+**52-Week Range:** \$6.27 - \$46.95  
 **YTD Performance:** +119.51%  
 **1-Year Performance:** +465.31%  
 
@@ -57,35 +57,35 @@ Founded in 1977 by Rhea J. Posedel. IPO on August 15, 1997. The company has evol
 ### Income Statement Highlights
 | Metric | TTM (Trailing Twelve Months) | Q2 FY2026 (Nov 2025) |
 |--------|------------------------------|----------------------|
-| **Revenue** | $53.25M | $9.9M |
-| **Net Income** | -$8.86M (Loss) | -$3.2M (GAAP) |
-| **EPS (Diluted)** | -$0.30 | -$0.11 (GAAP) |
-| **Non-GAAP EPS** | N/A | -$0.04 |
+| **Revenue** | \$53.25M | \$9.9M |
+| **Net Income** | -\$8.86M (Loss) | -\$3.2M (GAAP) |
+| **EPS (Diluted)** | -\$0.30 | -\$0.11 (GAAP) |
+| **Non-GAAP EPS** | N/A | -\$0.04 |
 | **Gross Margin** | 33.28% | ~35% |
 | **Operating Margin** | -22.85% | Negative |
 | **Profit Margin** | -16.63% | Negative |
 
 ### Revenue Trends
-- **FY2026 First Half:** $20.9M (down from $26.6M in prior year period)
-- **Q2 FY2026:** $9.9M (down from $13.5M in Q2 FY2025)
-- **Bookings Q2 FY2026:** $6.2M
-- **Backlog (Nov 28, 2025):** $11.8M ($18.3M effective backlog)
+- **FY2026 First Half:** \$20.9M (down from \$26.6M in prior year period)
+- **Q2 FY2026:** \$9.9M (down from \$13.5M in Q2 FY2025)
+- **Bookings Q2 FY2026:** \$6.2M
+- **Backlog (Nov 28, 2025):** \$11.8M (\$18.3M effective backlog)
 
 ### Balance Sheet Strength
 | Metric | Value |
 |--------|-------|
-| **Cash & Cash Equivalents** | $30.84M |
-| **Total Cash (with restricted)** | $31.0M |
+| **Cash & Cash Equivalents** | \$30.84M |
+| **Total Cash (with restricted)** | \$31.0M |
 | **Debt/Equity Ratio** | 7.77% (very low) |
 | **LT Debt/Equity** | 0.07 |
 | **Current Ratio** | 10.62 (excellent) |
 | **Quick Ratio** | 5.47 (strong) |
-| **Book Value/Share** | $4.27 |
+| **Book Value/Share** | \$4.27 |
 
 ### Cash Flow
-- **Levered Free Cash Flow (TTM):** -$7.36M (negative due to growth investments)
-- **Cash Used in Operating Activities (6 months):** $1.5M
-- **Cash position improved:** $31.0M (Nov 2025) vs $24.7M (Aug 2025)
+- **Levered Free Cash Flow (TTM):** -\$7.36M (negative due to growth investments)
+- **Cash Used in Operating Activities (6 months):** \$1.5M
+- **Cash position improved:** \$31.0M (Nov 2025) vs \$24.7M (Aug 2025)
 
 ### Financial Health Summary
 ✅ **Strengths:**
@@ -122,16 +122,16 @@ AEHR trades at **premium valuation multiples** reflecting:
 ### DCF Scenarios (Illustrative)
 
 **Assumptions:**
-- Current revenue: $53M (TTM)
-- FY2027 target revenue: $100M+ (based on $60-80M H2 bookings guidance)
+- Current revenue: \$53M (TTM)
+- FY2027 target revenue: \$100M+ (based on \$60-80M H2 bookings guidance)
 - Terminal growth: 3-5%
 - WACC: 12-15% (high beta stock)
 
 | Scenario | Revenue CAGR (3yr) | Target Price | Implied Return |
 |----------|-------------------|--------------|----------------|
-| **Bull** | 40% | $65-75 | +47-69% |
-| **Base** | 25% | $40-50 | -10% to +13% |
-| **Bear** | 10% | $20-25 | -49% to -44% |
+| **Bull** | 40% | \$65-75 | +47-69% |
+| **Base** | 25% | \$40-50 | -10% to +13% |
+| **Bear** | 10% | \$20-25 | -49% to -44% |
 
 ### Sensitivity Analysis
 Key valuation drivers:
@@ -147,7 +147,7 @@ Key valuation drivers:
 Aehr is expanding beyond its traditional SiC automotive market into:
 
 1. **AI Processors & Data Centers:**
-   - $14M order from lead AI processor customer (Feb 2026)
+   - \$14M order from lead AI processor customer (Feb 2026)
    - Sonoma PPBI systems for AI accelerators and GPUs
    - Benchmark evaluations with multiple AI companies
    - Partnership with ISE Labs for HPC/AI applications
@@ -177,9 +177,9 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 ### Recent Major Orders
 | Date | Order | Significance |
 |------|-------|--------------|
-| Feb 2026 | $14M | Multiple FOX-XP systems for AI processor customer |
+| Feb 2026 | \$14M | Multiple FOX-XP systems for AI processor customer |
 | Mar 2026 | Undisclosed | New silicon photonics customer |
-| Jan 2026 | $5.5M+ | Sonoma ultra-high-power systems for AI processors |
+| Jan 2026 | \$5.5M+ | Sonoma ultra-high-power systems for AI processors |
 | Aug 2025 | Follow-on | Additional orders from major hyperscaler |
 
 ---
@@ -215,9 +215,9 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 ### Price Action Summary
 | Metric | Value |
 |--------|-------|
-| **Current Price** | $44.32 |
-| **52-Week High** | $46.95 (9.63% above current) |
-| **52-Week Low** | $6.27 (620% below current) |
+| **Current Price** | \$44.32 |
+| **52-Week High** | \$46.95 (9.63% above current) |
+| **52-Week Low** | \$6.27 (620% below current) |
 | **YTD Return** | +119.51% |
 | **1-Year Return** | +465.31% |
 | **5-Year Return** | +1,624.51% |
@@ -232,11 +232,11 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 **Technical Assessment:** Strong uptrend with price well above all major moving averages. Significant momentum.
 
 ### Support & Resistance Levels
-- **Immediate Resistance:** $46.95 (52-week high)
-- **Next Resistance:** $50.00 (psychological + analyst target)
-- **Immediate Support:** $38-40 (prior consolidation zone)
-- **Strong Support:** $30.00 (Feb 2026 breakout level)
-- **Major Support:** $20.00 (2024-2025 trading range)
+- **Immediate Resistance:** \$46.95 (52-week high)
+- **Next Resistance:** \$50.00 (psychological + analyst target)
+- **Immediate Support:** \$38-40 (prior consolidation zone)
+- **Strong Support:** \$30.00 (Feb 2026 breakout level)
+- **Major Support:** \$20.00 (2024-2025 trading range)
 
 ### Volume Analysis
 - **Average Volume:** 1.63M shares/day
@@ -246,10 +246,10 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 ### Technical Indicators
 - **RSI (14):** 67.39 (approaching overbought but not extreme)
 - **Beta:** 2.29-2.40 (high volatility vs. market)
-- **ATR (14):** $4.86 (high daily volatility)
+- **ATR (14):** \$4.86 (high daily volatility)
 
 ### Chart Pattern
-- **Breakout:** Stock broke out above $30 resistance in Feb 2026
+- **Breakout:** Stock broke out above \$30 resistance in Feb 2026
 - **Trend:** Strong uptrend with higher highs and higher lows
 - **Volatility:** 14.43% weekly, 12.08% monthly (elevated)
 
@@ -260,11 +260,11 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 ### Analyst Ratings
 | Firm | Rating | Price Target | Date |
 |------|--------|--------------|------|
-| **Lake Street** | Buy | $50 (raised from $29) | Mar 2026 |
+| **Lake Street** | Buy | \$50 (raised from \$29) | Mar 2026 |
 | **William Blair** | Outperform | N/A | Mar 2026 |
-| **Craig-Hallum** | Buy | $21 (lowered from $24) | Jan 2026 |
-| **Freedom Broker** | Hold | $38 (raised from $24) | Jan 2026 |
-| **Consensus** | Hold/Neutral | $36.33 avg | - |
+| **Craig-Hallum** | Buy | \$21 (lowered from \$24) | Jan 2026 |
+| **Freedom Broker** | Hold | \$38 (raised from \$24) | Jan 2026 |
+| **Consensus** | Hold/Neutral | \$36.33 avg | - |
 
 **Rating Distribution:**
 - Strong Buy: 0
@@ -291,24 +291,24 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 | **General Public** | 23.0% |
 
 **Top Institutional Holders:**
-1. FMR LLC (Fidelity): 8.19% (~$111M)
-2. Vanguard Group: 7.63% (~$104M)
-3. BlackRock: 6.95% (~$94M)
-4. AWM Investment: 5.02% (~$68M)
-5. Baillie Gifford: 4.21% (~$57M)
+1. FMR LLC (Fidelity): 8.19% (~\$111M)
+2. Vanguard Group: 7.63% (~\$104M)
+3. BlackRock: 6.95% (~\$94M)
+4. AWM Investment: 5.02% (~\$68M)
+5. Baillie Gifford: 4.21% (~\$57M)
 
 **Institutional Activity:**
 - Wellington Management: +130% increase in position
-- William Blair: New $27M stake (Q3 2025)
+- William Blair: New \$27M stake (Q3 2025)
 - Two Sigma: +238% increase
 
 ### Insider Activity
 **Recent Insider Sales (last 3 months):**
 | Insider | Role | Date | Shares | Price | Value |
 |---------|------|------|--------|-------|-------|
-| Rhea Posedel | Director | Feb 2026 | 13,998 | $30.02 | $420,151 |
-| Alistair Sporck | VP | Feb 2026 | 3,000 | $27.59 | $82,716 |
-| Laura Oliphant | Director | Jan 2026 | 4,546 | $31.49 | $142,750 |
+| Rhea Posedel | Director | Feb 2026 | 13,998 | \$30.02 | \$420,151 |
+| Alistair Sporck | VP | Feb 2026 | 3,000 | \$27.59 | \$82,716 |
+| Laura Oliphant | Director | Jan 2026 | 4,546 | \$31.49 | \$142,750 |
 
 **Assessment:** Insiders have been selling, not buying. However, some sales are pre-planned (10b5-1). CEO Gayn Erickson holds 414,326 shares (~1.35% of company).
 
@@ -335,7 +335,7 @@ Based on recent news flow:
 - Follow-on order for fully automated wafer-level burn-in systems for AI Optical I/O
 
 **February 26, 2026:**
-- **$14 Million Order:** From lead AI processor customer for multiple FOX-XP systems
+- **\$14 Million Order:** From lead AI processor customer for multiple FOX-XP systems
 - Stock gained ~25% on announcement
 
 **February 11, 2026:**
@@ -343,9 +343,9 @@ Based on recent news flow:
 - Stock climbed 33%
 
 **January 8, 2026:**
-- Q2 FY2026 earnings: Revenue $9.9M (miss), but reinstated guidance
-- H2 FY2026 guidance: $25-30M revenue, $60-80M bookings
-- Sonoma orders exceeding $5.5M in Q3 (already exceeding Q2 total)
+- Q2 FY2026 earnings: Revenue \$9.9M (miss), but reinstated guidance
+- H2 FY2026 guidance: \$25-30M revenue, \$60-80M bookings
+- Sonoma orders exceeding \$5.5M in Q3 (already exceeding Q2 total)
 
 ### Key Themes from News
 1. **AI Pivot Accelerating:** Multiple orders and engagements for AI processor testing
@@ -363,11 +363,11 @@ Based on recent news flow:
 
 ## 9. Investment Thesis
 
-### Bull Case ($65-75 Target)
+### Bull Case (\$65-75 Target)
 **Probability:** 30%
 
 **Key Assumptions:**
-- AI processor testing becomes major revenue driver ($50M+ annually)
+- AI processor testing becomes major revenue driver (\$50M+ annually)
 - Silicon photonics orders materialize in FY2027 as forecasted
 - Return to profitability in FY2027 with expanding margins
 - Short squeeze amplifies upside from current elevated short interest
@@ -375,9 +375,9 @@ Based on recent news flow:
 **Catalysts:**
 - Q3 earnings beat and raised guidance (April 7)
 - Additional major AI customer announcements
-- FY2027 guidance indicating $100M+ revenue
+- FY2027 guidance indicating \$100M+ revenue
 
-### Base Case ($40-50 Target)
+### Base Case (\$40-50 Target)
 **Probability:** 50%
 
 **Key Assumptions:**
@@ -389,9 +389,9 @@ Based on recent news flow:
 **Path:**
 - Current valuation already prices in significant improvement
 - Stock trades sideways to slightly higher as execution proves out story
-- Range-bound between $35-55 through 2026
+- Range-bound between \$35-55 through 2026
 
-### Bear Case ($20-25 Target)
+### Bear Case (\$20-25 Target)
 **Probability:** 20%
 
 **Key Assumptions:**
@@ -424,21 +424,21 @@ AEHR represents a **high-risk, high-reward turnaround play** in the semiconducto
 **Recommendation:** Limit position size due to high volatility (2.4 beta) and unproven profitability.
 
 ### Entry Strategy
-- **Aggressive Entry:** Current levels ($44-45) if you believe in the AI thesis
-- **Conservative Entry:** Wait for pullback to $35-38 range (20-day SMA support)
+- **Aggressive Entry:** Current levels (\$44-45) if you believe in the AI thesis
+- **Conservative Entry:** Wait for pullback to \$35-38 range (20-day SMA support)
 - **Dollar-Cost Averaging:** Scale in over 2-3 tranches given volatility
 
 ### Stop Loss
-- **Technical Stop:** $30.00 (major support/Feb breakout level)
+- **Technical Stop:** \$30.00 (major support/Feb breakout level)
 - **Risk-Based Stop:** 25-30% below entry
 - **Time Stop:** Reassess if no progress by Q4 FY2026 (early 2027)
 
 ### Price Targets
 | Timeframe | Bull | Base | Bear |
 |-----------|------|------|------|
-| **6 Months** | $60 | $45 | $30 |
-| **12 Months** | $75 | $50 | $25 |
-| **18 Months** | $90 | $55 | $20 |
+| **6 Months** | \$60 | \$45 | \$30 |
+| **12 Months** | \$75 | \$50 | \$25 |
+| **18 Months** | \$90 | \$55 | \$20 |
 
 ### Catalyst Calendar
 | Date | Event | Impact |
@@ -450,8 +450,8 @@ AEHR represents a **high-risk, high-reward turnaround play** in the semiconducto
 | **Ongoing** | Customer announcements | HIGH – New AI/hyperscaler wins drive volatility |
 
 ### Key Metrics to Monitor
-1. **Bookings Trend:** Targeting $60-80M in H2 FY2026
-2. **Backlog Growth:** Current $18.3M effective backlog
+1. **Bookings Trend:** Targeting \$60-80M in H2 FY2026
+2. **Backlog Growth:** Current \$18.3M effective backlog
 3. **Customer Diversification:** % revenue from AI vs. EV
 4. **Gross Margins:** Recovery toward 40%+ target
 5. **Cash Burn:** Maintaining strong balance sheet
@@ -513,7 +513,7 @@ AI chips (like those in ChatGPT data centers) run extremely hot and must be extr
 - **Exchange:** NASDAQ
 - **Beta:** 2.29-2.40
 - **Average Volume:** 1.63M
-- **52-Week Range:** $6.27 - $46.95
+- **52-Week Range:** \$6.27 - \$46.95
 
 ### Analyst Coverage
 | Firm | Analyst |

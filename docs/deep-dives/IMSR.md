@@ -10,10 +10,10 @@ hide:
 # IMSR (Terrestrial Energy Inc.) - Deep Dive Analysis
 **Report Date:** April 4, 2026  
 **Ticker:** IMSR (NASDAQ)  
-**Price:** $6.24 (as of April 2, 2026 close)  
-**Market Cap:** $661M  
-**52-Week Range:** $5.33 - $31.50  
-**Analyst Consensus Price Target:** $13.50  
+**Price:** \$6.24 (as of April 2, 2026 close)  
+**Market Cap:** \$661M  
+**52-Week Range:** \$5.33 - \$31.50  
+**Analyst Consensus Price Target:** \$13.50  
 
 ---
 
@@ -83,23 +83,23 @@ The company expects **four principal revenue streams** once commercial operation
 
 | Metric | Value | What This Means |
 |--------|-------|-----------------|
-| Cash (most recent quarter) | **$27.7M** | Liquid assets available for operations |
-| Accumulated Deficit | **$124.6M** | Total historical losses since inception |
-| Net Income (TTM) | **-$23.7M** | Annual cash burn rate |
-| EPS (TTM) | **-$0.39** | Loss per share |
+| Cash (most recent quarter) | **\$27.7M** | Liquid assets available for operations |
+| Accumulated Deficit | **\$124.6M** | Total historical losses since inception |
+| Net Income (TTM) | **-\$23.7M** | Annual cash burn rate |
+| EPS (TTM) | **-\$0.39** | Loss per share |
 | Shares Outstanding | **105.9M** | Total shares after SPAC merger |
-| Post-SPAC Capital Raised | **$292M gross** | Proceeds from October 2025 SPAC merger |
+| Post-SPAC Capital Raised | **\$292M gross** | Proceeds from October 2025 SPAC merger |
 
 ### Post-SPAC Financial Structure
 
 The October 28, 2025 merger with HCM II Acquisition Corp. provided significant funding:
-- **$292 million** in gross proceeds from the business combination
-- Additional **$25.8M** preferred stock private placement (July 2025)
-- Additional **$36.7M** in bridge financing raised since December 2024
+- **\$292 million** in gross proceeds from the business combination
+- Additional **\$25.8M** preferred stock private placement (July 2025)
+- Additional **\$36.7M** in bridge financing raised since December 2024
 
 ### Cash Runway Analysis
 
-Based on current burn rate (~$23M annually) and post-SPAC cash position:
+Based on current burn rate (~\$23M annually) and post-SPAC cash position:
 
 | Scenario | Estimated Runway |
 |----------|------------------|
@@ -132,24 +132,24 @@ Based on current burn rate (~$23M annually) and post-SPAC cash position:
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| Market Cap | **$661M** | Total company value at current price |
-| Enterprise Value | **$353M** | Market cap minus cash (EV = $661M - $28M) |
+| Market Cap | **\$661M** | Total company value at current price |
+| Enterprise Value | **\$353M** | Market cap minus cash (EV = \$661M - \$28M) |
 | Price/Book | **2.19x** | Trading at 2.2x book value |
 | Forward P/E | **N/A** | No earnings yet—pre-revenue |
 | EV/Revenue | **N/A** | No revenue yet |
 
-**What this means:** Traditional valuation metrics don't apply to pre-revenue companies. IMSR's value is based on **future potential** rather than current earnings. The $661M market cap reflects investor confidence in the technology, regulatory progress, and management team.
+**What this means:** Traditional valuation metrics don't apply to pre-revenue companies. IMSR's value is based on **future potential** rather than current earnings. The \$661M market cap reflects investor confidence in the technology, regulatory progress, and management team.
 
 ### Analyst Valuation
 
 | Source | Price Target | Rating |
 |--------|--------------|--------|
-| Northland Securities | **$15.00** | Outperform |
-| Yahoo Finance Consensus | **$13.50** | — |
-| High Estimate | **$15.00** | — |
-| Low Estimate | **$12.00** | — |
+| Northland Securities | **\$15.00** | Outperform |
+| Yahoo Finance Consensus | **\$13.50** | — |
+| High Estimate | **\$15.00** | — |
+| Low Estimate | **\$12.00** | — |
 
-**Upside from current price ($6.24):** 92% to 140%
+**Upside from current price (\$6.24):** 92% to 140%
 
 ### DCF Scenarios (Illustrative)
 
@@ -157,12 +157,12 @@ Given the pre-revenue nature, traditional DCF is speculative. Below are scenario
 
 | Scenario | 2035 Revenue Estimate | Implied Valuation | Stock Price |
 |----------|----------------------|-------------------|-------------|
-| **Bear Case** | $100M (delayed deployment) | $400M | **$3.80** |
-| **Base Case** | $500M (3-4 plants operational) | $2.5B | **$23.60** |
-| **Bull Case** | $1.2B (fleet deployment) | $6B+ | **$56.60** |
+| **Bear Case** | \$100M (delayed deployment) | \$400M | **\$3.80** |
+| **Base Case** | \$500M (3-4 plants operational) | \$2.5B | **\$23.60** |
+| **Bull Case** | \$1.2B (fleet deployment) | \$6B+ | **\$56.60** |
 
 **Key Assumptions:**
-- Base case: 4 plants by 2035 generating $125M each in construction/component revenue
+- Base case: 4 plants by 2035 generating \$125M each in construction/component revenue
 - Bull case: 10+ plants in various stages, recurring fuel/core replacement revenues flowing
 - Bear case: Significant regulatory delays, funding challenges, competitor capture
 
@@ -179,9 +179,9 @@ The valuation is highly sensitive to:
 
 | Company | Market Cap | Stage | Technology |
 |---------|------------|-------|------------|
-| **NuScale (SMR)** | ~$1.5B | Licensed (NRC approved) | Light-water SMR |
-| **Terrestrial Energy (IMSR)** | $661M | Pre-licensing | Molten salt SMR |
-| **Oklo (OKLO)** | ~$800M | Pre-licensing | Fast reactor |
+| **NuScale (SMR)** | ~\$1.5B | Licensed (NRC approved) | Light-water SMR |
+| **Terrestrial Energy (IMSR)** | \$661M | Pre-licensing | Molten salt SMR |
+| **Oklo (OKLO)** | ~\$800M | Pre-licensing | Fast reactor |
 | **Kairos Power** | Private | Pilot phase | Molten salt |
 | **X-energy** | Private | Development | High-temp gas reactor |
 
@@ -220,9 +220,9 @@ The valuation is highly sensitive to:
 
 | Market Segment | Estimated Size (Current) | Growth to 2050 |
 |----------------|-------------------------|----------------|
-| OECD grid electricity | **$800B** | Expanding with demand |
-| OECD industrial heat | **$600B** | Expanding with demand |
-| **Total Serviceable Market** | **$1.4T** | **$1.9T** |
+| OECD grid electricity | **\$800B** | Expanding with demand |
+| OECD industrial heat | **\$600B** | Expanding with demand |
+| **Total Serviceable Market** | **\$1.4T** | **\$1.9T** |
 
 **Target Verticals:**
 1. **Data centers** — 24/7 reliable power for AI/cloud infrastructure
@@ -302,9 +302,9 @@ The valuation is highly sensitive to:
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
-| Current Price | **$6.24** | Near 52-week lows |
-| 52-Week High | **$31.50** (Oct 15, 2025) | SPAC merger enthusiasm peak |
-| 52-Week Low | **$5.33** (Mar 19, 2026) | Recent capitulation low |
+| Current Price | **\$6.24** | Near 52-week lows |
+| 52-Week High | **\$31.50** (Oct 15, 2025) | SPAC merger enthusiasm peak |
+| 52-Week Low | **\$5.33** (Mar 19, 2026) | Recent capitulation low |
 | % Below High | **-80%** | Significant correction from merger peak |
 | Beta | **0.47** | Less volatile than market |
 | 1-Year Return | **-41.9%** | Underperforming market |
@@ -313,11 +313,11 @@ The valuation is highly sensitive to:
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Strong Resistance** | $12.00 | Analyst price target floor |
-| **Resistance** | $8.00 | Recent consolidation area |
-| **Current** | $6.24 | — |
-| **Support** | $5.77 | All-time low (March 2026) |
-| **Strong Support** | $5.33 | Potential psychological floor |
+| **Strong Resistance** | \$12.00 | Analyst price target floor |
+| **Resistance** | \$8.00 | Recent consolidation area |
+| **Current** | \$6.24 | — |
+| **Support** | \$5.77 | All-time low (March 2026) |
+| **Strong Support** | \$5.33 | Potential psychological floor |
 
 ### Volume Analysis
 
@@ -327,7 +327,7 @@ The valuation is highly sensitive to:
 | Recent Volume | **1.2M shares/day** | Below average—consolidation phase |
 | Float | ~80M shares (est.) | Adequate for trading |
 
-**What this means:** The stock has experienced a severe correction from post-SPAC highs ($31.50 to $6.24). This creates potential value opportunity but also indicates significant selling pressure. Low volatility (beta 0.47) suggests relatively stable trading despite the decline.
+**What this means:** The stock has experienced a severe correction from post-SPAC highs (\$31.50 to \$6.24). This creates potential value opportunity but also indicates significant selling pressure. Low volatility (beta 0.47) suggests relatively stable trading despite the decline.
 
 ### Moving Averages
 
@@ -346,7 +346,7 @@ Based on price action patterns:
 
 - **Pattern:** Steep decline from SPAC merger highs followed by consolidation
 - **Volume:** Declining volume on down moves suggests selling exhaustion
-- **Potential Pattern:** Potential double-bottom formation around $5.77-$6.00
+- **Potential Pattern:** Potential double-bottom formation around \$5.77-\$6.00
 
 ---
 
@@ -356,8 +356,8 @@ Based on price action patterns:
 
 | Firm | Rating | Price Target | Date |
 |------|--------|--------------|------|
-| Northland Securities | Outperform | $15.00 | Recent |
-| Consensus | — | $13.50 | Current |
+| Northland Securities | Outperform | \$15.00 | Recent |
+| Consensus | — | \$13.50 | Current |
 
 **What this means:** Limited analyst coverage (common for newly public small-caps). The single visible rating is positive with significant upside to target.
 
@@ -444,10 +444,10 @@ Based on price action patterns:
 - Recurring core replacement and fuel revenues begin flowing
 
 **Financial Outcome:**
-- 2035 Revenue: $500M+
-- 2035 EBITDA: $100M+
-- Valuation: $2.5B+ (4x current)
-- **Stock Price Target: $23.60** (277% upside)
+- 2035 Revenue: \$500M+
+- 2035 EBITDA: \$100M+
+- Valuation: \$2.5B+ (4x current)
+- **Stock Price Target: \$23.60** (277% upside)
 
 ### Base Case (40% probability)
 
@@ -460,9 +460,9 @@ Based on price action patterns:
 - One additional capital raise required
 
 **Financial Outcome:**
-- 2036 Revenue: $300M
-- Valuation: $1.5B (2.3x current)
-- **Stock Price Target: $14.16** (127% upside)
+- 2036 Revenue: \$300M
+- Valuation: \$1.5B (2.3x current)
+- **Stock Price Target: \$14.16** (127% upside)
 
 ### Bear Case (20% probability)
 
@@ -479,16 +479,16 @@ Based on price action patterns:
 - Continued cash burn without revenue
 - Multiple dilutive capital raises
 - Potential insolvency or fire-sale valuation
-- **Stock Price Target: $3.00** (52% downside)
+- **Stock Price Target: \$3.00** (52% downside)
 
 ### Risk/Reward Assessment
 
 | Scenario | Probability | Target Price | Weighted Return |
 |----------|-------------|--------------|-----------------|
-| Bull | 40% | $23.60 | +9.44 |
-| Base | 40% | $14.16 | +5.66 |
-| Bear | 20% | $3.00 | -0.60 |
-| **Expected Value** | | | **$14.50** (+132%) |
+| Bull | 40% | \$23.60 | +9.44 |
+| Base | 40% | \$14.16 | +5.66 |
+| Bear | 20% | \$3.00 | -0.60 |
+| **Expected Value** | | | **\$14.50** (+132%) |
 
 ---
 
@@ -523,9 +523,9 @@ Based on price action patterns:
 
 | Action | Price Level | Rationale |
 |--------|-------------|-----------|
-| **Initial Entry** | $6.00-$6.50 | Current levels attractive for long-term accumulation |
-| **Add on Weakness** | $5.00-$5.50 | Scale in if stock breaks to new lows |
-| **Full Position** | Below $5.00 | Aggressive accumulation if fear peaks |
+| **Initial Entry** | \$6.00-\$6.50 | Current levels attractive for long-term accumulation |
+| **Add on Weakness** | \$5.00-\$5.50 | Scale in if stock breaks to new lows |
+| **Full Position** | Below \$5.00 | Aggressive accumulation if fear peaks |
 
 **Timing:** 
 - **Immediate entry acceptable** at current levels for long-term investors
@@ -536,8 +536,8 @@ Based on price action patterns:
 
 | Risk Level | Stop Price | Rationale |
 |------------|------------|-----------|
-| **Soft Stop** | $4.50 | Break below 20% from current levels |
-| **Hard Stop** | $3.75 | 40% loss from entry; re-evaluate thesis |
+| **Soft Stop** | \$4.50 | Break below 20% from current levels |
+| **Hard Stop** | \$3.75 | 40% loss from entry; re-evaluate thesis |
 | **Thesis Break** | N/A | Exit if major regulatory rejection or technology failure |
 
 **Position Management:**
@@ -549,10 +549,10 @@ Based on price action patterns:
 
 | Level | Price | Action if Reached |
 |-------|-------|-------------------|
-| **Entry Target** | $5.50-$6.50 | Begin/continue accumulation |
-| **Resistance** | $8.00 | First profit-taking opportunity |
-| **Bull Confirmation** | $12.00+ | Break above analyst targets |
-| **Stop Loss** | $4.50 | Reduce position |
+| **Entry Target** | \$5.50-\$6.50 | Begin/continue accumulation |
+| **Resistance** | \$8.00 | First profit-taking opportunity |
+| **Bull Confirmation** | \$12.00+ | Break above analyst targets |
+| **Stop Loss** | \$4.50 | Reduce position |
 
 ### Catalyst Calendar
 
@@ -588,13 +588,13 @@ Based on price action patterns:
 
 ### Financial Metrics in Plain Language
 
-**Market Cap ($661M):** The total value of all Terrestrial Energy shares combined. If you wanted to buy the entire company, this is what you'd theoretically pay.
+**Market Cap (\$661M):** The total value of all Terrestrial Energy shares combined. If you wanted to buy the entire company, this is what you'd theoretically pay.
 
-**Enterprise Value ($353M):** Market cap minus cash. This represents the value of the actual business operations, separate from the cash sitting in the bank.
+**Enterprise Value (\$353M):** Market cap minus cash. This represents the value of the actual business operations, separate from the cash sitting in the bank.
 
-**Accumulated Deficit ($124.6M):** The total amount of money the company has lost since it was founded. This is common for development-stage companies.
+**Accumulated Deficit (\$124.6M):** The total amount of money the company has lost since it was founded. This is common for development-stage companies.
 
-**Cash Burn Rate (~$23M/year):** How fast the company is spending its cash. With $27.7M in the bank, they'd run out in just over a year without the SPAC proceeds.
+**Cash Burn Rate (~\$23M/year):** How fast the company is spending its cash. With \$27.7M in the bank, they'd run out in just over a year without the SPAC proceeds.
 
 **Beta (0.47):** How much the stock moves relative to the overall market. A beta below 1 means the stock is less volatile than the market.
 
@@ -608,7 +608,7 @@ Based on price action patterns:
 
 **Recurring Revenue:** Revenue that comes in regularly rather than as one-time sales. IMSR's model is designed to generate recurring revenue through fuel supply and core replacements.
 
-**Levelized Cost of Energy (LCOE):** The average cost of electricity over a power plant's lifetime. IMSR estimates $69/MWh—competitive with natural gas and cheaper than many renewables when storage is included.
+**Levelized Cost of Energy (LCOE):** The average cost of electricity over a power plant's lifetime. IMSR estimates \$69/MWh—competitive with natural gas and cheaper than many renewables when storage is included.
 
 ### Summary for Non-Technical Investors
 
@@ -618,7 +618,7 @@ Based on price action patterns:
 
 **The Risk:** The company is years away from revenue. They need to complete testing, get final regulatory approvals, build their first plant, and prove the economics work. Many things could go wrong along the way.
 
-**The Investment Case:** At current prices ($6.24), investors are paying $661M for a company that could be worth billions if successful—or zero if they fail. This is a high-risk, high-reward bet on the future of nuclear energy.
+**The Investment Case:** At current prices (\$6.24), investors are paying \$661M for a company that could be worth billions if successful—or zero if they fail. This is a high-risk, high-reward bet on the future of nuclear energy.
 
 ---
 

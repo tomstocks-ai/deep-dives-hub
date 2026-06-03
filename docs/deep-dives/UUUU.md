@@ -10,9 +10,9 @@ hide:
 # Energy Fuels Inc. (UUUU) - Investment Grade Deep Dive Analysis
 
 **Report Date:** April 3, 2025  
-**Current Price:** $17.75 (NYSE American: UUUU / TSX: EFR)  
-**Market Cap:** $4.29B  
-**52-Week Range:** $3.20 - $27.90  
+**Current Price:** \$17.75 (NYSE American: UUUU / TSX: EFR)  
+**Market Cap:** \$4.29B  
+**52-Week Range:** \$3.20 - \$27.90  
 **YTD Return:** +24.91%  
 **1-Year Return:** +370.82%
 
@@ -41,8 +41,8 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Segment | Description | Revenue Contribution (2024) |
 |---------|-------------|---------------------------|
-| **Uranium** | Mining, milling, and sale of U3O8 to nuclear utilities | $37.9M (49%) |
-| **Heavy Mineral Sands (HMS)** | Production of titanium (rutile, ilmenite) and zirconium products | $39.9M (51%) |
+| **Uranium** | Mining, milling, and sale of U3O8 to nuclear utilities | \$37.9M (49%) |
+| **Heavy Mineral Sands (HMS)** | Production of titanium (rutile, ilmenite) and zirconium products | \$39.9M (51%) |
 | **Rare Earth Elements (REE)** | Separation and production of NdPr (neodymium-praseodymium) and other REE | Commercial production initiated |
 
 ### Key Assets
@@ -93,19 +93,19 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Metric | 2024 | 2023 | Change |
 |--------|------|------|--------|
-| **Total Revenue** | $78.11M | $37.93M | +106% |
-| Uranium Concentrates | $37.90M | $33.28M | +14% |
-| Heavy Mineral Sands | $39.87M | $0 | New segment |
-| Gross Profit | $22.20M | $19.75M | +12% |
+| **Total Revenue** | \$78.11M | \$37.93M | +106% |
+| Uranium Concentrates | \$37.90M | \$33.28M | +14% |
+| Heavy Mineral Sands | \$39.87M | \$0 | New segment |
+| Gross Profit | \$22.20M | \$19.75M | +12% |
 | Gross Margin | 28.4% | 52.1% | Compression |
-| Operating Loss | ($47.52M) | ($32.37M) | Wider |
-| **Net Loss** | **($47.77M)** | $99.86M (gain) | N/A |
-| Loss Per Share | ($0.28) | $0.63 gain | - |
+| Operating Loss | (\$47.52M) | (\$32.37M) | Wider |
+| **Net Loss** | **(\$47.77M)** | \$99.86M (gain) | N/A |
+| Loss Per Share | (\$0.28) | \$0.63 gain | - |
 
 **Key Observations:**
 - Revenue doubled primarily due to Base Resources acquisition (HMS segment)
 - Gross margin compressed due to lower-margin HMS business mix and integration costs
-- Net loss includes $10.34M in one-time transaction/integration costs
+- Net loss includes \$10.34M in one-time transaction/integration costs
 - 2023 included significant one-time gains affecting comparability
 
 ### Uranium Segment Deep Dive
@@ -113,37 +113,37 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Metric | 2024 Data |
 |--------|-----------|
 | U3O8 Sold | 450,000 lbs |
-| Long-term contract sales | 200,000 lbs @ $75.13/lb |
-| Spot market sales | 250,000 lbs @ $91.51/lb |
-| Uranium Gross Profit | $21.32M |
+| Long-term contract sales | 200,000 lbs @ \$75.13/lb |
+| Spot market sales | 250,000 lbs @ \$91.51/lb |
+| Uranium Gross Profit | \$21.32M |
 | Uranium Gross Margin | 56% |
 
 **Inventory Position (Dec 31, 2024):**
 - Finished U3O8: 393,000 lbs
 | Uranium in ore/work-in-progress: 725,000 lbs
 - **Total uranium inventory: 1,118,000 lbs**
-- Market value of inventory: ~$45.6M (at Feb 2025 prices)
+- Market value of inventory: ~\$45.6M (at Feb 2025 prices)
 
 ### Balance Sheet (December 31, 2024)
 
 | Metric | 2024 | 2023 | Change |
 |--------|------|------|--------|
-| **Cash & Equivalents** | $38.60M | — | — |
-| Marketable Securities | $80.85M | — | — |
-| Trade Receivables | $37.76M | — | — |
-| Inventory | $66.50M | — | — |
-| **Working Capital** | **$170.90M** | $222.34M | -23% |
-| PP&E (net) | $55.19M | $26.12M | +111% |
-| Mineral Properties | $278.33M | $119.58M | +133% |
-| **Total Assets** | **$611.97M** | $401.94M | +52% |
-| Current Liabilities | $59.29M | $10.36M | +472% |
-| **Total Liabilities** | **$80.29M** | $22.73M | +253% |
-| **Total Debt** | **$0** | $0 | — |
+| **Cash & Equivalents** | \$38.60M | — | — |
+| Marketable Securities | \$80.85M | — | — |
+| Trade Receivables | \$37.76M | — | — |
+| Inventory | \$66.50M | — | — |
+| **Working Capital** | **\$170.90M** | \$222.34M | -23% |
+| PP&E (net) | \$55.19M | \$26.12M | +111% |
+| Mineral Properties | \$278.33M | \$119.58M | +133% |
+| **Total Assets** | **\$611.97M** | \$401.94M | +52% |
+| Current Liabilities | \$59.29M | \$10.36M | +472% |
+| **Total Liabilities** | **\$80.29M** | \$22.73M | +253% |
+| **Total Debt** | **\$0** | \$0 | — |
 
 **Balance Sheet Strengths:**
 - **Zero debt** - exceptionally clean capital structure
-- $170.9M working capital provides substantial liquidity
-- $60M additional capital raised in early 2025 via ATM facility
+- \$170.9M working capital provides substantial liquidity
+- \$60M additional capital raised in early 2025 via ATM facility
 - Strong asset base with mineral properties more than doubling
 
 ### Cash Flow & Capital Allocation
@@ -153,7 +153,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Operating Cash Flow | Negative (development phase) |
 | Capital Expenditures | Elevated (acquisition-related) |
 | Free Cash Flow | Negative (expected during growth phase) |
-| Levered FCF (TTM) | -$106.05M |
+| Levered FCF (TTM) | -\$106.05M |
 
 **Capital Allocation Priorities:**
 1. **Toliara Project FID** (Madagascar): Expected early 2026
@@ -178,8 +178,8 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| Market Cap | $4.29B | — |
-| Enterprise Value | $4.15B | — |
+| Market Cap | \$4.29B | — |
+| Enterprise Value | \$4.15B | — |
 | Price/Sales (TTM) | 61.19x | High (growth premium) |
 | Price/Book | 6.39x | Premium to book |
 | Forward P/E | 333.33x | Expensive (earnings not yet material) |
@@ -193,25 +193,25 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 **Uranium Inventory Valuation:**
 | Inventory Component | Quantity | Spot Price | Value |
 |--------------------|----------|------------|-------|
-| Finished U3O8 | 393,000 lbs | $65.25/lb | $25.6M |
-| Ore/WIP | 725,000 lbs | $65.25/lb | $47.3M |
-| **Total Uranium** | **1,118,000 lbs** | — | **~$72.9M** |
+| Finished U3O8 | 393,000 lbs | \$65.25/lb | \$25.6M |
+| Ore/WIP | 725,000 lbs | \$65.25/lb | \$47.3M |
+| **Total Uranium** | **1,118,000 lbs** | — | **~\$72.9M** |
 
-**Vanadium Inventory:** 905,000 lbs V2O5 @ $5.35/lb = ~$4.8M
+**Vanadium Inventory:** 905,000 lbs V2O5 @ \$5.35/lb = ~\$4.8M
 
 **Strategic Asset Value:**
 | Asset | Estimated Value | Rationale |
 |-------|-----------------|-----------|
-| White Mesa Mill | $200M - $400M | Only licensed conventional mill in U.S. - irreplaceable |
-| Mineral Properties | $278M (book) | Could appreciate with development |
-| Toliara Project | $500M - $1B+ | World-class HMS/REE project upon FID |
-| Donald Project JV | $100M - $200M | Monazite-rich HMS project |
-| Total Asset Value | **$1.5B - $2.5B** | Conservative estimate |
+| White Mesa Mill | \$200M - \$400M | Only licensed conventional mill in U.S. - irreplaceable |
+| Mineral Properties | \$278M (book) | Could appreciate with development |
+| Toliara Project | \$500M - \$1B+ | World-class HMS/REE project upon FID |
+| Donald Project JV | \$100M - \$200M | Monazite-rich HMS project |
+| Total Asset Value | **\$1.5B - \$2.5B** | Conservative estimate |
 
 ### DCF Scenario Analysis
 
 **Key Assumptions:**
-- Uranium long-term price: $80/lb
+- Uranium long-term price: \$80/lb
 - Production ramp to 2M lbs/year by 2026, 5M lbs by 2028
 - REE commercial production: 6,000 tpa NdPr by 2027
 - HMS contribution from Toliara: 2027+
@@ -220,18 +220,18 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Scenario | Uranium Price | 2027 EBITDA | Target Price | Upside/Downside |
 |----------|--------------|-------------|--------------|-----------------|
-| **Bull** | $100+/lb | $300M+ | $40-50 | +125-180% |
-| **Base** | $80/lb | $150-200M | $22-28 | +25-60% |
-| **Bear** | $60/lb | $50M | $10-12 | -35-45% |
+| **Bull** | \$100+/lb | \$300M+ | \$40-50 | +125-180% |
+| **Base** | \$80/lb | \$150-200M | \$22-28 | +25-60% |
+| **Bear** | \$60/lb | \$50M | \$10-12 | -35-45% |
 
 ### Comparable Company Analysis
 
 | Company | Market Cap | EV/lb U3O8 | P/NAV | Notes |
 |---------|-----------|-----------|-------|-------|
-| **Energy Fuels (UUUU)** | $4.29B | ~$2,800/lb | Premium | Diversified REE/HMS |
-| Cameco (CCJ) | $30B+ | ~$100/lb | 1.5x | Established producer |
-| NexGen (NXE) | $5B+ | N/A | 1.8x | Development stage |
-| Uranium Energy (UEC) | $3B+ | ~$150/lb | 1.3x | ISR producer |
+| **Energy Fuels (UUUU)** | \$4.29B | ~\$2,800/lb | Premium | Diversified REE/HMS |
+| Cameco (CCJ) | \$30B+ | ~\$100/lb | 1.5x | Established producer |
+| NexGen (NXE) | \$5B+ | N/A | 1.8x | Development stage |
+| Uranium Energy (UEC) | \$3B+ | ~\$150/lb | 1.3x | ISR producer |
 
 **Assessment:** UUUU trades at a premium to pure-play uranium companies due to its **unique diversification** into REE and HMS, plus its **strategic U.S. domestic position**. The premium is justified if the company successfully executes its multi-commodity strategy.
 
@@ -239,14 +239,14 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Source | Price Target | Rating |
 |--------|--------------|--------|
-| Wall Street Average | $21.90 | Strong Buy |
-| Yahoo Finance Consensus | $26.55 | — |
-| HC Wainwright (Feb 2026) | $27.25 | Buy |
-| Goldman Sachs (Feb 2026) | $30.00 | — |
-| High Estimate | $34.00 | — |
+| Wall Street Average | \$21.90 | Strong Buy |
+| Yahoo Finance Consensus | \$26.55 | — |
+| HC Wainwright (Feb 2026) | \$27.25 | Buy |
+| Goldman Sachs (Feb 2026) | \$30.00 | — |
+| High Estimate | \$34.00 | — |
 
 **Current Price vs. Targets:**
-- Average target implies **23-50% upside** from current $17.75
+- Average target implies **23-50% upside** from current \$17.75
 - Consensus strongly bullish (80% Strong Buy, 20% Hold)
 
 ---
@@ -290,11 +290,11 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Market | Size | Growth Driver |
 |--------|------|---------------|
-| **Global Uranium Market** | $8-10B annually | Nuclear renaissance; 60+ reactors under construction |
-| **Rare Earth Elements** | $15B+ annually | EVs, wind turbines, electronics; supply chain reshoring |
-| **NdPr (Magnet REE)** | $5B+ annually | Permanent magnets for EV motors |
-| **Heavy Mineral Sands** | $10B+ annually | Titanium feedstocks; zirconium |
-| **Medical Isotopes** | $5B+ annually | Cancer therapy growth |
+| **Global Uranium Market** | \$8-10B annually | Nuclear renaissance; 60+ reactors under construction |
+| **Rare Earth Elements** | \$15B+ annually | EVs, wind turbines, electronics; supply chain reshoring |
+| **NdPr (Magnet REE)** | \$5B+ annually | Permanent magnets for EV motors |
+| **Heavy Mineral Sands** | \$10B+ annually | Titanium feedstocks; zirconium |
+| **Medical Isotopes** | \$5B+ annually | Cancer therapy growth |
 
 ### Regulatory Tailwinds
 
@@ -330,7 +330,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Risk | Assessment |
 |------|------------|
-| **Negative Cash Flow** | Expected during growth phase; $230M+ liquidity provides runway |
+| **Negative Cash Flow** | Expected during growth phase; \$230M+ liquidity provides runway |
 | **Dilution Risk** | ATM facility used; disciplined capital raising |
 | **No Dividend** | Growth company; all cash reinvested |
 | **High Operating Leverage** | Fixed costs at White Mesa Mill; profit accelerates with volume |
@@ -371,8 +371,8 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Metric | Value |
 |--------|-------|
-| Current Price | $17.75 |
-| 52-Week Range | $3.20 - $27.90 |
+| Current Price | \$17.75 |
+| 52-Week Range | \$3.20 - \$27.90 |
 | YTD Performance | +24.91% |
 | 1-Year Performance | +370.82% |
 | 3-Year Performance | +218.10% |
@@ -382,34 +382,34 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **All-Time High** | $27.90 | Resistance; tested in early 2025 |
-| **Near-term Resistance** | $22.54 | Previous consolidation area |
-| **Secondary Resistance** | $23.89 - $26.73 | Fibonacci/extension levels |
-| **Current Price** | $17.75 | Trading near support zone |
-| **Near-term Support** | $18.47 | Accumulated volume level |
-| **Key Support** | $16.93 | Recent low (April 2, 2025) |
-| **Major Support** | $15.00-15.50 | Psychological + structural level |
-| **200-Day Moving Avg** | ~$10-12 | Long-term trend support |
+| **All-Time High** | \$27.90 | Resistance; tested in early 2025 |
+| **Near-term Resistance** | \$22.54 | Previous consolidation area |
+| **Secondary Resistance** | \$23.89 - \$26.73 | Fibonacci/extension levels |
+| **Current Price** | \$17.75 | Trading near support zone |
+| **Near-term Support** | \$18.47 | Accumulated volume level |
+| **Key Support** | \$16.93 | Recent low (April 2, 2025) |
+| **Major Support** | \$15.00-15.50 | Psychological + structural level |
+| **200-Day Moving Avg** | ~\$10-12 | Long-term trend support |
 
 ### Moving Averages
 
 | Period | Typical Level | Current Status |
 |--------|---------------|----------------|
-| 20-day EMA | ~$19-20 | Price below; short-term bearish |
-| 50-day SMA | ~$16-18 | Price near; consolidation |
-| 200-day SMA | ~$10-12 | Well above; long-term bullish |
+| 20-day EMA | ~\$19-20 | Price below; short-term bearish |
+| 50-day SMA | ~\$16-18 | Price near; consolidation |
+| 200-day SMA | ~\$10-12 | Well above; long-term bullish |
 
 **Technical Summary:**
 - Stock in **correction phase** after parabolic 2024-2025 run
-- Pullback from $27.90 highs to $17.75 (-36%) creates opportunity
-- Trading near key support cluster ($16.93-$18.47)
+- Pullback from \$27.90 highs to \$17.75 (-36%) creates opportunity
+- Trading near key support cluster (\$16.93-\$18.47)
 - Volume remains elevated indicating active interest
 - Long-term trend remains bullish; short-term consolidation
 
 ### Chart Pattern Analysis
 
 **Pattern:** Ascending channel with correction
-- 2024-2025: Strong uptrend from ~$5 to ~$28
+- 2024-2025: Strong uptrend from ~\$5 to ~\$28
 - Current: Pullback to test support; flag/consolidation forming
 - Volume: Declining on pullback (potentially constructive)
 
@@ -442,8 +442,8 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 **Recent Analyst Actions:**
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
-| Feb 27, 2026 | HC Wainwright | Maintains Buy | Raised to $27.25 |
-| Feb 11, 2026 | Goldman Sachs | — | $30.00 |
+| Feb 27, 2026 | HC Wainwright | Maintains Buy | Raised to \$27.25 |
+| Feb 11, 2026 | Goldman Sachs | — | \$30.00 |
 
 ### Institutional Ownership
 
@@ -494,23 +494,23 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Recent Developments
 
 **April 2025:**
-- Uranium spot price declined to ~$64/lb (18-month low)
+- Uranium spot price declined to ~\$64/lb (18-month low)
 - Market uncertainty around Trump administration policies
 - UUUU stock pulled back ~36% from highs
 
 **March 2025:**
-- Uranium spot touched ~$63.50 (March low)
-- Long-term uranium price stable at ~$80/lb
+- Uranium spot touched ~\$63.50 (March low)
+- Long-term uranium price stable at ~\$80/lb
 - Microsoft reportedly canceled 200MW data center leases (nuclear demand question)
 
 **February 2025:**
 - Energy Fuels reported Q4 2024 results
 - Ore transport from Pinyon Plain resumed (Navajo Nation agreement)
-- HC Wainwright raised price target to $27.25
+- HC Wainwright raised price target to \$27.25
 
 **January 2025:**
 - Navajo Nation transport agreement signed
-- $60M raised through ATM facility
+- \$60M raised through ATM facility
 
 ### Sector News
 
@@ -530,9 +530,9 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Source | 12-Month Spot Forecast |
 |--------|------------------------|
-| Trading Economics | $64.43/lb (declining) |
-| Long-term Contract Market | $80/lb (stable) |
-| Industry Consensus | $75-100/lb range |
+| Trading Economics | \$64.43/lb (declining) |
+| Long-term Contract Market | \$80/lb (stable) |
+| Industry Consensus | \$75-100/lb range |
 
 **Key Quote:**
 > "Despite the Trump administration's promise to 'unleash commercial nuclear power,' uranium-related investments have had a rough start to the year. Tariffs and unpredictable geopolitical moves are causing more uncertainty in the market, even if long-term fundamentals look solid." — Wall Street Journal, March 19, 2025
@@ -549,10 +549,10 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ## 9. Investment Thesis
 
-### Bull Case ($35-50 Target)
+### Bull Case (\$35-50 Target)
 
 **Assumptions:**
-- Uranium spot price recovers to $100+/lb
+- Uranium spot price recovers to \$100+/lb
 - Toliara FID approved and project developed on schedule
 - REE commercial offtake agreements signed
 - U.S. nuclear policy provides tailwinds
@@ -562,10 +562,10 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 **Probability:** 25-30%
 
-### Base Case ($22-28 Target)
+### Base Case (\$22-28 Target)
 
 **Assumptions:**
-- Uranium prices stabilize at $80/lb long-term
+- Uranium prices stabilize at \$80/lb long-term
 - Toliara and Donald projects advance per plan
 - REE business reaches commercial scale
 - Uranium production reaches 2-3M lbs/year
@@ -575,10 +575,10 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 **Probability:** 50-60%
 
-### Bear Case ($8-12 Target)
+### Bear Case (\$8-12 Target)
 
 **Assumptions:**
-- Uranium prices decline to $60/lb or below
+- Uranium prices decline to \$60/lb or below
 - Toliara faces political/development delays
 - REE commercialization slower than expected
 - Nuclear sentiment shifts negative
@@ -592,12 +592,12 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Scenario | Target | Probability | Weighted |
 |----------|--------|-------------|----------|
-| Bull | $42.50 | 25% | $10.63 |
-| Base | $25.00 | 55% | $13.75 |
-| Bear | $10.00 | 20% | $2.00 |
-| **Weighted Average** | — | 100% | **$26.38** |
+| Bull | \$42.50 | 25% | \$10.63 |
+| Base | \$25.00 | 55% | \$13.75 |
+| Bear | \$10.00 | 20% | \$2.00 |
+| **Weighted Average** | — | 100% | **\$26.38** |
 
-**Implied Upside:** +49% from current $17.75
+**Implied Upside:** +49% from current \$17.75
 
 ---
 
@@ -629,10 +629,10 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Price Zone | Action |
 |------------|--------|
-| $15.00-16.50 | Aggressive accumulation (major support) |
-| $16.50-18.00 | Standard accumulation (current zone) |
-| $18.00-20.00 | Moderate accumulation |
-| Above $22.00 | Reduce new position size; consider trailing stop |
+| \$15.00-16.50 | Aggressive accumulation (major support) |
+| \$16.50-18.00 | Standard accumulation (current zone) |
+| \$18.00-20.00 | Moderate accumulation |
+| Above \$22.00 | Reduce new position size; consider trailing stop |
 
 **Recommended Approach:**
 - Scale in over 2-4 tranches
@@ -643,7 +643,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Stop Type | Level | Rationale |
 |-----------|-------|-----------|
-| Hard Stop | $14.50 | -18% from current; major technical breakdown |
+| Hard Stop | \$14.50 | -18% from current; major technical breakdown |
 | Trailing Stop | 20% below entry | Protects gains; allows upside |
 | Time Stop | Reassess Q3 2025 | If catalysts don't materialize |
 
@@ -651,9 +651,9 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 | Timeframe | Target | Rationale |
 |-----------|--------|-----------|
-| 6-month | $22-25 | Toliara FID; REE progress |
-| 12-month | $25-30 | Commercial milestones met |
-| 24-month | $30-40 | Production at scale |
+| 6-month | \$22-25 | Toliara FID; REE progress |
+| 12-month | \$25-30 | Commercial milestones met |
+| 24-month | \$30-40 | Production at scale |
 
 ### Catalyst Calendar
 
@@ -736,22 +736,22 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Metric | Value |
 |--------|-------|
 | Ticker | UUUU (NYSE American) / EFR (TSX) |
-| Price | $17.75 |
-| 52-Week Range | $3.20 - $27.90 |
-| Market Cap | $4.29B |
-| Enterprise Value | $4.15B |
+| Price | \$17.75 |
+| 52-Week Range | \$3.20 - \$27.90 |
+| Market Cap | \$4.29B |
+| Enterprise Value | \$4.15B |
 | Avg Volume | 13.6M |
 | Beta | 1.57 |
 
 ### Financial Summary (FY 2024)
 | Metric | Value |
 |--------|-------|
-| Revenue | $78.1M |
-| Gross Profit | $22.2M |
-| Net Loss | ($47.8M) |
-| Cash | $38.6M |
-| Working Capital | $170.9M |
-| Debt | $0 |
+| Revenue | \$78.1M |
+| Gross Profit | \$22.2M |
+| Net Loss | (\$47.8M) |
+| Cash | \$38.6M |
+| Working Capital | \$170.9M |
+| Debt | \$0 |
 
 ### Uranium Operations
 | Metric | Value |
@@ -764,9 +764,9 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Analyst Targets
 | Source | Target |
 |--------|--------|
-| Average | $21.90 - $26.55 |
-| High | $34.00 |
-| Goldman Sachs | $30.00 |
+| Average | \$21.90 - \$26.55 |
+| High | \$34.00 |
+| Goldman Sachs | \$30.00 |
 
 ---
 

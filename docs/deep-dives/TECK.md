@@ -12,9 +12,9 @@ hide:
 
 **Report Date:** April 3, 2026  
 **Ticker:** TECK (NYSE), TECK.A/TECK.B (TSX)  
-**Current Price:** $48.54 USD  
-**52-Week Range:** $28.32 - $62.41  
-**Market Cap:** $24.3B USD  
+**Current Price:** \$48.54 USD  
+**52-Week Range:** \$28.32 - \$62.41  
+**Market Cap:** \$24.3B USD  
 **Sector:** Materials - Diversified Mining  
 **Rating:** OVERWEIGHT / BUY
 
@@ -22,13 +22,13 @@ hide:
 
 ## EXECUTIVE SUMMARY
 
-Teck Resources Limited represents one of the most compelling transformation stories in the global mining sector. Following the strategic divestiture of its steelmaking coal business (Elk Valley Resources) to Glencore for $7.3 billion in 2024, Teck has emerged as a pure-play "green metals" champion focused on copper and zinc. The company is now positioned at the epicenter of the global energy transition, with copper demand being driven by electric vehicle infrastructure, renewable energy projects, and AI data centers.
+Teck Resources Limited represents one of the most compelling transformation stories in the global mining sector. Following the strategic divestiture of its steelmaking coal business (Elk Valley Resources) to Glencore for \$7.3 billion in 2024, Teck has emerged as a pure-play "green metals" champion focused on copper and zinc. The company is now positioned at the epicenter of the global energy transition, with copper demand being driven by electric vehicle infrastructure, renewable energy projects, and AI data centers.
 
-The pending "merger of equals" with Anglo American (expected completion: mid-2026) will create **Anglo Teck**—a top-five global copper producer with >70% copper exposure, annual synergies of $800 million, and transformative adjacency benefits from combining Quebrada Blanca with Anglo's Collahuasi operation.
+The pending "merger of equals" with Anglo American (expected completion: mid-2026) will create **Anglo Teck**—a top-five global copper producer with >70% copper exposure, annual synergies of \$800 million, and transformative adjacency benefits from combining Quebrada Blanca with Anglo's Collahuasi operation.
 
 **Investment Thesis:** Teck offers investors a unique combination of:
 - Pure-play exposure to copper, the "metal of electrification"
-- Bulletproof balance sheet with net cash position (~$5B)
+- Bulletproof balance sheet with net cash position (~\$5B)
 - Transformational merger creating a global mining champion
 - Best-in-class copper growth pipeline among mid-tier miners
 
@@ -48,7 +48,7 @@ Teck's history is deeply intertwined with Canada's industrial development:
 | **2001** | Teck and Cominco merge to form Teck Cominco |
 | **2009** | Renamed Teck Resources Limited |
 | **2022** | Exits oil sands (Fort Hills sale) |
-| **2024** | Divests steelmaking coal business to Glencore for $7.3B |
+| **2024** | Divests steelmaking coal business to Glencore for \$7.3B |
 | **2025** | Announces Anglo American merger of equals |
 
 ### 1.2 Business Model Transformation
@@ -89,10 +89,10 @@ The Keevil family's dual-class share structure—long a governance overhang—ha
 
 | Metric | 2023 | 2024 | 2025E | 2026E |
 |--------|------|------|-------|-------|
-| **Revenue** | $14.4B | $9.1B* | $10.76B | $11.5B |
-| **Adjusted EBITDA** | $5.2B | $2.9B* | $3.5B | $4.2B |
-| **Net Income** | $2.8B | $283M* | $1.4B | $1.8B |
-| **EPS (Diluted)** | $3.85 | $0.55* | $2.05 | $2.80 |
+| **Revenue** | \$14.4B | \$9.1B* | \$10.76B | \$11.5B |
+| **Adjusted EBITDA** | \$5.2B | \$2.9B* | \$3.5B | \$4.2B |
+| **Net Income** | \$2.8B | \$283M* | \$1.4B | \$1.8B |
+| **EPS (Diluted)** | \$3.85 | \$0.55* | \$2.05 | \$2.80 |
 | **Profit Margin** | 19.4% | 3.1%* | 13.0% | 15.7% |
 
 *2024 reflects coal business divestiture; comparative figures exclude discontinued operations
@@ -103,11 +103,11 @@ Teck's balance sheet is among the strongest in the sector:
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| **Total Cash** | $5.01B | Net cash position post-coal sale |
-| **Total Debt** | ~$6.5B | Manageable, investment grade |
+| **Total Cash** | \$5.01B | Net cash position post-coal sale |
+| **Total Debt** | ~\$6.5B | Manageable, investment grade |
 | **Debt-to-Equity** | 0.39 (37%) | Conservative |
-| **Total Equity** | $27.1B CAD | Strong book value |
-| **Total Assets** | $47.0B CAD | Quality asset base |
+| **Total Equity** | \$27.1B CAD | Strong book value |
+| **Total Assets** | \$47.0B CAD | Quality asset base |
 
 **Key Point:** The coal divestiture transformed Teck from a leveraged, cyclical play to a fortress balance sheet growth story.
 
@@ -115,21 +115,21 @@ Teck's balance sheet is among the strongest in the sector:
 
 | Metric | 2024 | 2025E | Commentary |
 |--------|------|-------|------------|
-| **Operating Cash Flow** | $2.1B | $2.8B | Improving with QB2 ramp |
-| **Capital Expenditures** | $2.4B | $2.2B | QB2 completion phase |
-| **Free Cash Flow** | ($0.3B) | $0.6B | Turning positive in 2025 |
-| **Shareholder Returns** | $1.0B | $1.5B | Dividends + buybacks |
+| **Operating Cash Flow** | \$2.1B | \$2.8B | Improving with QB2 ramp |
+| **Capital Expenditures** | \$2.4B | \$2.2B | QB2 completion phase |
+| **Free Cash Flow** | (\$0.3B) | \$0.6B | Turning positive in 2025 |
+| **Shareholder Returns** | \$1.0B | \$1.5B | Dividends + buybacks |
 
-**Liquidity Cushion:** C$9.3 billion provides exceptional flexibility for growth investments and shareholder returns.
+**Liquidity Cushion:** C\$9.3 billion provides exceptional flexibility for growth investments and shareholder returns.
 
 ### 2.4 Quarterly Performance (Q4 2025)
 
 | Metric | Q4 2025 | YoY Change |
 |--------|---------|------------|
-| Revenue | $3.06B | +12% |
-| Adjusted EBITDA | C$1.5B | +19% |
+| Revenue | \$3.06B | +12% |
+| Adjusted EBITDA | C\$1.5B | +19% |
 | Copper Production | 104.1 kt | In line |
-| Copper Price Realization | $4.44/lb avg | Strong LME |
+| Copper Price Realization | \$4.44/lb avg | Strong LME |
 
 ---
 
@@ -151,43 +151,43 @@ Teck's balance sheet is among the strongest in the sector:
 
 | Source | Target | Rating | Date |
 |--------|--------|--------|------|
-| **Consensus** | $45.92 | Hold | Current |
-| **Benchmark** | $67.00 | Buy | Feb 2026 |
-| **BMO Capital** | $62.00 | Outperform | Recent |
-| **Goldman Sachs** | $58.00 | Buy | Recent |
-| **Low Estimate** | $34.31 | Sell | - |
-| **High Estimate** | $59.12 | Buy | - |
+| **Consensus** | \$45.92 | Hold | Current |
+| **Benchmark** | \$67.00 | Buy | Feb 2026 |
+| **BMO Capital** | \$62.00 | Outperform | Recent |
+| **Goldman Sachs** | \$58.00 | Buy | Recent |
+| **Low Estimate** | \$34.31 | Sell | - |
+| **High Estimate** | \$59.12 | Buy | - |
 
-**Current Price:** $48.54 sits near consensus, suggesting fair valuation pending merger execution.
+**Current Price:** \$48.54 sits near consensus, suggesting fair valuation pending merger execution.
 
 ### 3.3 DCF Scenario Analysis
 
 **Assumptions:**
-- Copper long-term price: $4.00-4.50/lb
+- Copper long-term price: \$4.00-4.50/lb
 - QB2 reaches 280kt+ by 2028
-- Anglo merger synergies: $800M annual from Year 4
+- Anglo merger synergies: \$800M annual from Year 4
 - WACC: 8.5%
 - Terminal growth: 2%
 
 | Scenario | Copper Price | 2027 EBITDA | Fair Value | Upside |
 |----------|--------------|-------------|------------|--------|
-| **Bull** | $5.00/lb | $5.2B | $68 | +40% |
-| **Base** | $4.25/lb | $4.2B | $55 | +13% |
-| **Bear** | $3.50/lb | $3.0B | $38 | -22% |
+| **Bull** | \$5.00/lb | \$5.2B | \$68 | +40% |
+| **Base** | \$4.25/lb | \$4.2B | \$55 | +13% |
+| **Bear** | \$3.50/lb | \$3.0B | \$38 | -22% |
 
 ### 3.4 Sum-of-the-Parts Valuation
 
 | Asset | Ownership | Estimated Value | Notes |
 |-------|-----------|-----------------|-------|
-| **Quebrada Blanca** | 60% | $8.0B | Flagship growth asset |
-| **Highland Valley Copper** | 100% | $2.5B | Canadian cornerstone |
-| **Antamina** | 22.5% | $1.8B | Joint venture stake |
-| **Carmen de Andacollo** | 90% | $1.2B | Mature operation |
-| **Red Dog (Zinc)** | 100% | $3.5B | World-class zinc mine |
-| **Trail Operations** | 100% | $1.0B | Integrated smelter |
-| **Net Cash** | 100% | $5.0B | Balance sheet strength |
-| **Less: Debt** | - | ($6.5B) | - |
-| **Total SOTP** | - | **~$16.5B** | vs. $24.3B market cap |
+| **Quebrada Blanca** | 60% | \$8.0B | Flagship growth asset |
+| **Highland Valley Copper** | 100% | \$2.5B | Canadian cornerstone |
+| **Antamina** | 22.5% | \$1.8B | Joint venture stake |
+| **Carmen de Andacollo** | 90% | \$1.2B | Mature operation |
+| **Red Dog (Zinc)** | 100% | \$3.5B | World-class zinc mine |
+| **Trail Operations** | 100% | \$1.0B | Integrated smelter |
+| **Net Cash** | 100% | \$5.0B | Balance sheet strength |
+| **Less: Debt** | - | (\$6.5B) | - |
+| **Total SOTP** | - | **~\$16.5B** | vs. \$24.3B market cap |
 
 **Note:** SOTP suggests market pricing in Anglo merger premium and copper optionality.
 
@@ -200,7 +200,7 @@ Teck's balance sheet is among the strongest in the sector:
 **Project Overview:**
 - Location: Tarapacá Region, Chile
 - Ownership: 60% Teck / 40% Sumitomo
-- Investment: ~$7.5B total capital
+- Investment: ~\$7.5B total capital
 - Design Capacity: 316,000 tonnes copper/year at full production
 - Mine Life: 27+ years
 
@@ -223,8 +223,8 @@ The merger creates exceptional value through:
 
 | Synergy Type | Value | Timeline |
 |--------------|-------|----------|
-| **Cost Synergies** | $800M/year pre-tax | By Year 4 |
-| **Revenue Synergies (Collahuasi/QB2)** | $1.4B/year EBITDA | 2030-2049 |
+| **Cost Synergies** | \$800M/year pre-tax | By Year 4 |
+| **Revenue Synergies (Collahuasi/QB2)** | \$1.4B/year EBITDA | 2030-2049 |
 | **Additional Copper Production** | ~175,000 tonnes/year | Post-integration |
 
 **Combined Copper Portfolio (Anglo Teck):**
@@ -254,7 +254,7 @@ The merger creates exceptional value through:
 **Supply-Demand Outlook:**
 - Structural deficit projected: 5M tonnes by 2030
 - New project development lag: 10-15 years
-- Copper price forecast: $4.00-5.00/lb long-term
+- Copper price forecast: \$4.00-5.00/lb long-term
 
 ### 4.4 Growth Pipeline (Project Satellite)
 
@@ -304,7 +304,7 @@ The merger creates exceptional value through:
 | **Regulatory Approval** | Canada approved; other jurisdictions pending |
 | **Integration Execution** | Both companies have recent restructuring experience |
 | **Merger Fatigue** | 12-18 month timeline creates uncertainty |
-| **Interloper Risk** | $330M break fee; Glencore/BHP could bid |
+| **Interloper Risk** | \$330M break fee; Glencore/BHP could bid |
 
 ### 5.5 Risk Matrix
 
@@ -324,8 +324,8 @@ The merger creates exceptional value through:
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
-| **Current Price** | $48.54 | Near 52-week middle |
-| **52-Week Range** | $28.32 - $62.41 | +72% from lows, -22% from highs |
+| **Current Price** | \$48.54 | Near 52-week middle |
+| **52-Week Range** | \$28.32 - \$62.41 | +72% from lows, -22% from highs |
 | **YTD Return** | +1.37% | Slight outperformance vs. TSX |
 | **1-Year Return** | +24.23% | Strong momentum |
 | **5-Year Return** | +172.77% | Exceptional long-term performance |
@@ -334,20 +334,20 @@ The merger creates exceptional value through:
 
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **All-Time High** | ~$62.41 | Major resistance (April 2025) |
-| **Strong Resistance** | $55.00 | Psychological level |
-| **Recent Resistance** | $52.00 | Near-term target |
-| **Current Price** | $48.54 | Neutral zone |
-| **Support** | $45.00 | Consolidation area |
-| **Strong Support** | $40.00 | Major institutional support |
-| **Critical Support** | $34.00 | 2024 lows, must hold |
+| **All-Time High** | ~\$62.41 | Major resistance (April 2025) |
+| **Strong Resistance** | \$55.00 | Psychological level |
+| **Recent Resistance** | \$52.00 | Near-term target |
+| **Current Price** | \$48.54 | Neutral zone |
+| **Support** | \$45.00 | Consolidation area |
+| **Strong Support** | \$40.00 | Major institutional support |
+| **Critical Support** | \$34.00 | 2024 lows, must hold |
 
 ### 6.3 Moving Averages
 
 | MA | Level | Status |
 |----|-------|--------|
-| **50-Day MA** | ~$50 | Price below; short-term neutral |
-| **200-Day MA** | ~$42 | Price above; long-term bullish |
+| **50-Day MA** | ~\$50 | Price below; short-term neutral |
+| **200-Day MA** | ~\$42 | Price above; long-term bullish |
 | **Golden Cross** | N/A | Bullish MA alignment |
 
 ### 6.4 Volume and Momentum
@@ -361,9 +361,9 @@ The merger creates exceptional value through:
 
 ### 6.5 Chart Pattern Assessment
 
-Recent trading has shown consolidation following the September 2025 merger announcement. The stock has found support around $45-48 range following the QB2 guidance reduction in October 2025.
+Recent trading has shown consolidation following the September 2025 merger announcement. The stock has found support around \$45-48 range following the QB2 guidance reduction in October 2025.
 
-**Pattern:** Ascending triangle formation with resistance at $52; breakout above $55 would signal resumption of uptrend.
+**Pattern:** Ascending triangle formation with resistance at \$52; breakout above \$55 would signal resumption of uptrend.
 
 ---
 
@@ -373,10 +373,10 @@ Recent trading has shown consolidation following the September 2025 merger annou
 
 | Firm | Rating | Target | Action |
 |------|--------|--------|--------|
-| Benchmark | Buy | $67 | Raised (Feb 2026) |
-| BMO Capital | Outperform | $62 | Maintained |
-| Goldman Sachs | Buy | $58 | Maintained |
-| Consensus | Hold | $46 | - |
+| Benchmark | Buy | \$67 | Raised (Feb 2026) |
+| BMO Capital | Outperform | \$62 | Maintained |
+| Goldman Sachs | Buy | \$58 | Maintained |
+| Consensus | Hold | \$46 | - |
 
 **Consensus Distribution:**
 - Strong Buy: 35%
@@ -418,11 +418,11 @@ Recent trading has shown consolidation following the September 2025 merger annou
 
 | Date | Event | Impact |
 |------|-------|--------|
-| **Feb 2026** | Benchmark raises PT to $67 | +Positive sentiment |
+| **Feb 2026** | Benchmark raises PT to \$67 | +Positive sentiment |
 | **Dec 2025** | Canada approves Anglo merger | +Regulatory milestone |
 | **Oct 2025** | QB2 guidance reduced | -Short-term negative |
 | **Sep 2025** | Anglo merger announced | +Transformational deal |
-| **Jul 2025** | Q2 earnings; $328M copper GP | +Solid operational results |
+| **Jul 2025** | Q2 earnings; \$328M copper GP | +Solid operational results |
 
 ### 8.2 Sector Developments
 
@@ -446,25 +446,25 @@ Key upcoming catalysts:
 
 ## 9. INVESTMENT THESIS
 
-### 9.1 Bull Case (40% Probability) - Target: $68
+### 9.1 Bull Case (40% Probability) - Target: \$68
 
 **Assumptions:**
-- Copper price averages $5.00/lb (2026-2028)
+- Copper price averages \$5.00/lb (2026-2028)
 - QB2 achieves 280kt+ by 2027
 - Anglo merger closes on schedule (mid-2026)
-- Synergies exceed $800M target
+- Synergies exceed \$800M target
 - Global copper deficit accelerates
 
 **Upside Drivers:**
 - QB2 optimization adds 5-10% throughput
-- Collahuasi/QB2 integration unlocks $1.4B EBITDA
+- Collahuasi/QB2 integration unlocks \$1.4B EBITDA
 - Copper supercycle narrative gains traction
 - Multiple expansion to 12x EV/EBITDA
 
-### 9.2 Base Case (45% Probability) - Target: $55
+### 9.2 Base Case (45% Probability) - Target: \$55
 
 **Assumptions:**
-- Copper price averages $4.25/lb
+- Copper price averages \$4.25/lb
 - QB2 reaches 240kt by 2027
 - Anglo merger closes with normal execution
 - Synergies achieved as guided
@@ -475,10 +475,10 @@ Key upcoming catalysts:
 - Dividend yield: 0.75%
 - Total return potential: 15-18% annually
 
-### 9.3 Bear Case (15% Probability) - Target: $38
+### 9.3 Bear Case (15% Probability) - Target: \$38
 
 **Assumptions:**
-- Copper price falls to $3.50/lb (global recession)
+- Copper price falls to \$3.50/lb (global recession)
 - QB2 continues to underperform
 - Anglo merger faces delays or fails
 - China demand collapses
@@ -493,10 +493,10 @@ Key upcoming catalysts:
 
 | Scenario | Price Target | Probability | Weighted Return |
 |----------|--------------|-------------|-----------------|
-| Bull | $68 | 40% | +40% |
-| Base | $55 | 45% | +13% |
-| Bear | $38 | 15% | -22% |
-| **Expected Value** | **$56** | 100% | **+15%** |
+| Bull | \$68 | 40% | +40% |
+| Base | \$55 | 45% | +13% |
+| Bear | \$38 | 15% | -22% |
+| **Expected Value** | **\$56** | 100% | **+15%** |
 
 ---
 
@@ -513,10 +513,10 @@ Key upcoming catalysts:
 
 | Condition | Action | Entry Price |
 |-----------|--------|-------------|
-| **Current Level** | Accumulate | $48-50 |
-| **On Weakness** | Add | $44-46 |
-| **Strong Support** | Full position | $40-42 |
-| **Breakout** | Add | Above $55 |
+| **Current Level** | Accumulate | \$48-50 |
+| **On Weakness** | Add | \$44-46 |
+| **Strong Support** | Full position | \$40-42 |
+| **Breakout** | Add | Above \$55 |
 
 **Strategy:** Dollar-cost average over 3-6 months given merger timeline uncertainty.
 
@@ -524,7 +524,7 @@ Key upcoming catalysts:
 
 | Type | Level | Rationale |
 |------|-------|-----------|
-| **Stop Loss** | $38.00 | Below 52-week low |
+| **Stop Loss** | \$38.00 | Below 52-week low |
 | **Trailing Stop** | 20% below recent high | Protect gains |
 | **Time Stop** | Reassess if merger not closed by Q4 2026 | Event risk |
 
@@ -622,7 +622,7 @@ Investing in TECK is like:
 - **1 TECK Share** = **1.3301 Anglo American Shares**
 - Anglo American Shareholders: 62.4% of combined company
 - Teck Shareholders: 37.6% of combined company
-- Special Dividend: $4.5B to Anglo shareholders pre-close
+- Special Dividend: \$4.5B to Anglo shareholders pre-close
 
 ### 12.4 Data Sources
 

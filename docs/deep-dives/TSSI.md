@@ -30,12 +30,12 @@ Findings:
 - Recent IPO: November 2024
 
 **Key Findings:**
-- **Explosive Growth:** Revenue 5x in 2 years ($54M → $246M)
-- **Turned Profitable:** $15.1M net income in 2025 (vs. break-even in 2023)
+- **Explosive Growth:** Revenue 5x in 2 years (\$54M → \$246M)
+- **Turned Profitable:** \$15.1M net income in 2025 (vs. break-even in 2023)
 - **AI Infrastructure Play:** Major multi-year contract for AI rack integration driving growth
-- **Strong Balance Sheet:** $85.5M cash, minimal funding risk
-- **Current Valuation:** $13.32/share, $387M market cap, P/E of 23.8x
-- **Analyst Target:** $20.00 (50% upside)
+- **Strong Balance Sheet:** \$85.5M cash, minimal funding risk
+- **Current Valuation:** \$13.32/share, \$387M market cap, P/E of 23.8x
+- **Analyst Target:** \$20.00 (50% upside)
 
 **Recommendation:** SPECULATIVE BUY with tight risk management due to:
 - High customer concentration risk
@@ -62,7 +62,7 @@ Stats: runtime 3m47s • tokens 34.2k (in 183 / out 449) • sessionKey agent:ma
 Summarize this naturally for the user. Keep it brief (1-2 sentences). Flow it into the conversation naturally.
 Do not mention technical details like tokens, stats, or that this was a background task.
 You can respond with NO_REPLY if no announcement is needed (e.g., internal task with no user-facing result).
-assistant: TSSI deep dive complete. **TSS, Inc.** — AI infrastructure/data center play with 5x revenue growth in 2 years ($54M → $246M), now profitable. **SPECULATIVE BUY** at $13.32, target $20 (+50%). High customer concentration risk but strong balance sheet ($85.5M cash).
+assistant: TSSI deep dive complete. **TSS, Inc.** — AI infrastructure/data center play with 5x revenue growth in 2 years (\$54M → \$246M), now profitable. **SPECULATIVE BUY** at \$13.32, target \$20 (+50%). High customer concentration risk but strong balance sheet (\$85.5M cash).
 assistant: TSSI_DeepDive_Analysis_2026-04-02.pdf
 assistant: PDF attached. Key takeaway: Recent IPO (Nov 2024) riding AI infrastructure wave — explosive growth but volatile, needs tight risk management.
 user: [Discord Guild #general channel id:1467872303147651247 +3m 2026-04-02 20:55 UTC] tom (tom6______): Run dd on ASTS [from: tom (440865137683857408)]
@@ -78,7 +78,7 @@ Stats: runtime 10m0s • tokens 36.5k (in 370 / out 70) • sessionKey agent:mai
 Summarize this naturally for the user. Keep it brief (1-2 sentences). Flow it into the conversation naturally.
 Do not mention technical details like tokens, stats, or that this was a background task.
 You can respond with NO_REPLY if no announcement is needed (e.g., internal task with no user-facing result).
-assistant: ASTS deep dive complete. **SPECULATIVE BUY** — satellite-to-cell pioneer with real revenue ($70.9M, up 1,505%) but extreme valuation (447x P/S). Key risk: SpaceX competition. CEO Abel Avellan owns 40%+ — strong alignment. Target $140-180 bull case, $70-95 base case, $25-35 bear case.
+assistant: ASTS deep dive complete. **SPECULATIVE BUY** — satellite-to-cell pioneer with real revenue (\$70.9M, up 1,505%) but extreme valuation (447x P/S). Key risk: SpaceX competition. CEO Abel Avellan owns 40%+ — strong alignment. Target \$140-180 bull case, \$70-95 base case, \$25-35 bear case.
 assistant: ASTS_DeepDive_Analysis_2026-04-02.pdf
 assistant: PDF attached. 39KB markdown + 47KB PDF with full readability pass — all jargon translated with practical context.
 user: [Discord Guild #general channel id:1467872303147651247 +3h 2026-04-03 00:33 UTC] tom (tom6______): Class ASTS VELO and SATL from safest to rickyest [from: tom (440865137683857408)]
@@ -86,21 +86,21 @@ user: [Discord Guild #general channel id:1467872303147651247 +3h 2026-04-03 00:3
 assistant: Based on the deep dives, here's the risk ranking (safest → riskiest):
 
 **1. ASTS (Safest)**
-- ✅ Real revenue: $70.9M (up 1,505%)
-- ✅ $2.34B cash — 22+ month runway
+- ✅ Real revenue: \$70.9M (up 1,505%)
+- ✅ \$2.34B cash — 22+ month runway
 - ✅ Working technology + major carrier partnerships (Verizon, AT&T, Vodafone)
 - ⚠️ Risk: Extreme valuation (447x P/S), SpaceX competition
 
 **2. SATL (Middle)**
 - ✅ Solid margins: 72% gross, 38% revenue growth
-- ✅ $130M cash runway
+- ✅ \$130M cash runway
 - ⚠️ Risk: Customer concentration (top 2 = 50%+ revenue), binary Merlin launch catalyst (Oct 2026)
 
 **3. VELO (Riskiest)**
 - ⚠️ Going concern warning — may not survive without funding
 - ⚠️ Negative gross margins, burning cash
 - ⚠️ Major pivot from equipment sales to manufacturing (unproven)
-- ✅ One positive: $32.6M DoD contract
+- ✅ One positive: \$32.6M DoD contract
 
 **Summary:** ASTS has the strongest fundamentals despite valuation. SATL is a smaller, focused bet with execution risk. VELO is a turnaround story with existential risk — highest potential reward but also highest chance of zero.
 user: [Discord Guild #general channel id:1467872303147651247 +4h 2026-04-03 05:31 UTC] tom (tom6______): Class ASTS VELO TSSI and SATL from safest to rickyest [from: tom (440865137683857408)]
@@ -108,27 +108,27 @@ user: [Discord Guild #general channel id:1467872303147651247 +4h 2026-04-03 05:3
 assistant: Based on all four deep dives, here's the risk ranking (safest → riskiest):
 
 **1. TSSI (Safest)**
-- ✅ **Profitable:** $15.1M net income (2025)
-- ✅ Explosive growth: 5x revenue in 2 years ($54M → $246M)
-- ✅ $85.5M cash — minimal funding risk
+- ✅ **Profitable:** \$15.1M net income (2025)
+- ✅ Explosive growth: 5x revenue in 2 years (\$54M → \$246M)
+- ✅ \$85.5M cash — minimal funding risk
 - ⚠️ Risk: High customer concentration, IPO volatility (Nov 2024)
 
 **2. ASTS**
-- ✅ Real revenue: $70.9M (up 1,505%)
-- ✅ $2.34B cash — 22+ month runway
+- ✅ Real revenue: \$70.9M (up 1,505%)
+- ✅ \$2.34B cash — 22+ month runway
 - ✅ Working tech + carrier partnerships (Verizon, AT&T, Vodafone)
 - ⚠️ Risk: Extreme valuation (447x P/S), SpaceX competition
 
 **3. SATL**
 - ✅ Solid fundamentals: 72% gross margins, 38% revenue growth
-- ✅ $130M cash runway
+- ✅ \$130M cash runway
 - ⚠️ Risk: Customer concentration (top 2 = 50%+ revenue), binary Merlin launch catalyst (Oct 2026)
 
 **4. VELO (Riskiest)**
 - ⚠️ **Going concern warning** — may not survive without additional funding
 - ⚠️ Negative gross margins, burning cash
 - ⚠️ Unproven pivot from equipment sales to manufacturing
-- ✅ One bright spot: $32.6M DoD contract
+- ✅ One bright spot: \$32.6M DoD contract
 
 **Summary:** TSSI is the only profitable one with proven growth. ASTS has the most cash but trades at extreme valuation. SATL is a focused execution bet. VELO is the classic "binary outcome" spec — could 3-5x or go to zero.
 

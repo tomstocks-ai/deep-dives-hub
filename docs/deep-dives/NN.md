@@ -9,7 +9,7 @@ hide:
 
 # NextNav Inc (NN) — Deep Dive Analysis
 **Date:** April 17, 2026  
-**Current Price:** $20.82 (as of April 16 close)  
+**Current Price:** \$20.82 (as of April 16 close)  
 **Portfolio Position:** 110 shares + 100 CFD units (20.5% of portfolio — CRITICAL CONCENTRATION)  
 **Analyst:** MrWhimsy  
 **Rating:** SPECULATIVE HOLD with CATALYST-DRIVEN UPSIDE
@@ -20,7 +20,7 @@ hide:
 
 NextNav is a binary outcome bet disguised as a 5G infrastructure play. The company has spent nearly two decades developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. But here's the reality: **this is a pre-revenue company burning cash while waiting for regulatory approval to monetize its spectrum.**
 
-Your position at **20.5% of portfolio** is dangerously concentrated for a stock with this risk profile. The +24% rally yesterday (April 16) pushed NN to $20.82 on renewed FCC optimism. The catalyst everyone is waiting for — the Notice of Proposed Rulemaking (NPRM) — could drop any day now. When it does, the stock will likely gap up or down 15-30% within hours.
+Your position at **20.5% of portfolio** is dangerously concentrated for a stock with this risk profile. The +24% rally yesterday (April 16) pushed NN to \$20.82 on renewed FCC optimism. The catalyst everyone is waiting for — the Notice of Proposed Rulemaking (NPRM) — could drop any day now. When it does, the stock will likely gap up or down 15-30% within hours.
 
 **Bottom Line:** This is a lottery ticket with better-than-random odds, but you're holding way too many tickets. Trim before the drawing.
 
@@ -53,15 +53,15 @@ Their real asset isn't the technology — it's the **spectrum license**. If the 
 ### The Numbers (Q3 2025)
 | Metric | Value | Context |
 |--------|-------|---------|
-| Revenue | $887K | Down 44.8% YoY — basically non-existent |
+| Revenue | \$887K | Down 44.8% YoY — basically non-existent |
 | Gross Margin | N/A | Pre-revenue, R&D stage |
 | Operating Margin | -19.92% | Burning cash aggressively |
 | R&D Expense | Up 45.4% | Investing heavily in network buildout |
-| Cash | $167.6M | As of Q3 2025 |
-| Debt | $190M convertible notes | 5% due 2028, redeemed $70M of higher-cost 2026 notes |
+| Cash | \$167.6M | As of Q3 2025 |
+| Debt | \$190M convertible notes | 5% due 2028, redeemed \$70M of higher-cost 2026 notes |
 
 ### Cash Runway
-With $167.6M cash and current burn rate, NextNav has roughly **12-18 months** of runway. The March 2025 convertible note offering extended their lifeline, but they're not self-sustaining yet.
+With \$167.6M cash and current burn rate, NextNav has roughly **12-18 months** of runway. The March 2025 convertible note offering extended their lifeline, but they're not self-sustaining yet.
 
 ### What This Means
 This company is entirely dependent on regulatory approval to generate meaningful revenue. The Pinnacle service (911 altitude) is operational but tiny. The big prize — commercial deployment of TerraPoiNT — requires FCC blessing.
@@ -72,21 +72,21 @@ This company is entirely dependent on regulatory approval to generate meaningful
 
 ### Traditional Metrics Don't Apply
 - **No P/E** — no earnings
-- **No P/S meaningful** — $887K quarterly revenue on ~$1.5B market cap = absurd multiple
+- **No P/S meaningful** — \$887K quarterly revenue on ~\$1.5B market cap = absurd multiple
 - **EV/Revenue** — astronomical, irrelevant at this stage
 
 ### How to Value This
 You can't value NextNav on fundamentals. It's a **call option on regulatory approval** with these parameters:
 - **Strike price:** Current market cap prices in ~50% probability of approval
 - **Expiry:** 12-18 months (cash runway)
-- **Premium:** Whatever you pay above the "denial" scenario (~$5-8/share)
+- **Premium:** Whatever you pay above the "denial" scenario (~\$5-8/share)
 
 ### Peer Comparison (Speculative Infrastructure)
 | Company | Stage | Market Cap | Valuation Basis |
 |---------|-------|------------|-----------------|
-| NextNav | Pre-revenue, regulatory pending | ~$1.5B | Option value on spectrum |
-| ASTS | Pre-revenue, tech validation | ~$2-3B | Satellite-to-cell TAM |
-| Oklo | Pre-revenue, NRC pending | ~$800M | SMR licensing option |
+| NextNav | Pre-revenue, regulatory pending | ~\$1.5B | Option value on spectrum |
+| ASTS | Pre-revenue, tech validation | ~\$2-3B | Satellite-to-cell TAM |
+| Oklo | Pre-revenue, NRC pending | ~\$800M | SMR licensing option |
 
 NextNav trades at a premium to Oklo but discount to ASTS, which feels roughly fair given the regulatory uncertainty.
 
@@ -136,14 +136,14 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 ### Concentration Risk (CRITICAL FOR YOU)
 - **20.5% of portfolio** in one binary catalyst stock
 - **110 shares + 100 CFDs** = leveraged exposure
-- **Your cost basis** ~$18.65 means you're up ~12% — lock some in
+- **Your cost basis** ~\$18.65 means you're up ~12% — lock some in
 
 ---
 
 ## 6. Technical Analysis: Overbought on Hope
 
 ### Price Action Context
-- **April 16 close:** $20.82
+- **April 16 close:** \$20.82
 - **1-day gain:** +21-24% (varies by source)
 - **30-day return:** +13.6% (per Yahoo Finance data)
 - **1-year return:** +54.9%
@@ -151,12 +151,12 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 ### Support/Resistance Levels
 | Level | Price | Significance |
 |-------|-------|--------------|
-| **Resistance 1** | $22.00 | Recent high from March rally |
-| **Resistance 2** | $25.00 | Psychological round number |
-| **Current** | $20.82 | Post-rally consolidation zone |
-| **Support 1** | $18.00 | Your average cost basis zone |
-| **Support 2** | $15.00 | Pre-rally consolidation |
-| **Support 3** | $12.00 | Major gap down if NPRM delayed |
+| **Resistance 1** | \$22.00 | Recent high from March rally |
+| **Resistance 2** | \$25.00 | Psychological round number |
+| **Current** | \$20.82 | Post-rally consolidation zone |
+| **Support 1** | \$18.00 | Your average cost basis zone |
+| **Support 2** | \$15.00 | Pre-rally consolidation |
+| **Support 3** | \$12.00 | Major gap down if NPRM delayed |
 
 ### RSI Status
 *Note: NN not available in OpenBB/FMP database (small cap). Based on price action:*
@@ -172,13 +172,13 @@ Thursday's volume spike indicates institutional interest and/or retail FOMO. Hig
 ## 7. Sentiment & Flows
 
 ### Insider Activity
-- **CEO Mariam Sorond** sold ~$1.2M in early March 2026
+- **CEO Mariam Sorond** sold ~\$1.2M in early March 2026
 - **Interpretation:** Common for execs to manage holdings, but not bullish signal
 
 ### Analyst Sentiment
 - **Bull case:** Regulatory approval unlocks monopoly economics
 - **Bear case:** Pre-revenue, cash burn, regulatory uncertainty
-- **Price targets:** Varied, generally $15-30 range depending on NPRM assumptions
+- **Price targets:** Varied, generally \$15-30 range depending on NPRM assumptions
 
 ### Retail Sentiment (Twitter/X/Reddit)
 - **Narrative:** "GPS backup = national security play"
@@ -199,21 +199,21 @@ Thursday's volume spike indicates institutional interest and/or retail FOMO. Hig
 
 | Sub-Scenario | Probability | Price Target |
 |--------------|-------------|--------------|
-| Strong NPRM (clear pathway) | 25% | $28-32 |
-| Weak NPRM (punted to study) | 15% | $22-24 |
+| Strong NPRM (clear pathway) | 25% | \$28-32 |
+| Weak NPRM (punted to study) | 15% | \$22-24 |
 
 **Your Action:** If +30% gap up, trim aggressively. Sell 50 shares + 50 CFDs, reduce to <10% position.
 
 ### Scenario B: NPRM Delayed (35% probability)
 **Timeline:** Pushed to May/June  
-**Stock Reaction:** -10-15% drift to $17-18  
+**Stock Reaction:** -10-15% drift to \$17-18  
 **Follow-through:** Support at your cost basis
 
-**Your Action:** Hold, maybe add small if drops to $17 (your cost basis zone). Keep powder dry for real catalyst.
+**Your Action:** Hold, maybe add small if drops to \$17 (your cost basis zone). Keep powder dry for real catalyst.
 
 ### Scenario C: NPRM Denied/Punted (25% probability)
 **Timeline:** Anytime  
-**Stock Reaction:** -40-60% crash to $8-12  
+**Stock Reaction:** -40-60% crash to \$8-12  
 **Follow-through:** Long road to recovery
 
 **Your Action:** Cut losses immediately. Binary bet failed. Redeploy to uranium/energy positions.
@@ -233,8 +233,8 @@ This isn't a company you invest in — it's a catalyst you trade. The technology
 ### Specific Actions
 
 **BEFORE NPRM DROPS:**
-1. **Sell 30 shares** (~$625) — lock in some gains
-2. **Close 30 CFD units** (~$625) — reduce leverage
+1. **Sell 30 shares** (~\$625) — lock in some gains
+2. **Close 30 CFD units** (~\$625) — reduce leverage
 3. **Result:** Position drops to ~14% of portfolio
 
 **IF NPRM DROPS + STOCK GAPS UP:**
@@ -243,8 +243,8 @@ This isn't a company you invest in — it's a catalyst you trade. The technology
 
 **IF NPRM DELAYED:**
 1. Hold current reduced position
-2. Add only if drops to $17 (your cost basis)
-3. Set stop-loss at $15 (cut losses if thesis breaks)
+2. Add only if drops to \$17 (your cost basis)
+3. Set stop-loss at \$15 (cut losses if thesis breaks)
 
 **IF NPRM DENIED:**
 1. Sell entire position immediately
@@ -252,9 +252,9 @@ This isn't a company you invest in — it's a catalyst you trade. The technology
 3. Redeploy to UUUU, EOSE, or hold cash
 
 ### Risk Management
-- **Stop Loss:** $15.00 (technical support break)
-- **Take Profit (Partial):** $25.00 (resistance zone)
-- **Take Profit (Full):** $30.00+ (if euphoria develops)
+- **Stop Loss:** \$15.00 (technical support break)
+- **Take Profit (Partial):** \$25.00 (resistance zone)
+- **Take Profit (Full):** \$30.00+ (if euphoria develops)
 
 ---
 
@@ -269,7 +269,7 @@ The FCC NPRM could drop today, tomorrow, or never. If it hits, you'll wish you h
 ---
 
 *Report Generated: April 17, 2026*  
-*Price Reference: $20.82 (April 16 close)*  
+*Price Reference: \$20.82 (April 16 close)*  
 *Next Catalyst: FCC NPRM (timing uncertain)*
 
 ---

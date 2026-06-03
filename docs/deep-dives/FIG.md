@@ -10,8 +10,8 @@ hide:
 # Figma, Inc. (FIG) - Comprehensive Deep Dive Analysis
 
 **Date:** May 1, 2026  
-**Current Price:** $17.70 (as of April 30, 2026 close)  
-**Market Cap:** ~$9.3B  
+**Current Price:** \$17.70 (as of April 30, 2026 close)  
+**Market Cap:** ~\$9.3B  
 **Sector:** Technology — Software Application  
 **Exchange:** NYSE  
 **Risk Rating:** HIGH (Recent IPO, Unprofitable, High Short Interest)  
@@ -21,16 +21,16 @@ hide:
 
 ## Executive Summary
 
-Figma is the dominant collaborative design platform that went public in July 2025 at $33/share, briefly spiked above $100, and has since cratered **88% from its 52-week high of $142.92** to $17.70 today. The stock is caught in a perfect storm: post-IPO lockup expirations, broad SaaS multiple compression, and investor anxiety about AI disruption — yet the underlying business is growing revenue at 40%+ with positive free cash flow and 136% net revenue retention.
+Figma is the dominant collaborative design platform that went public in July 2025 at \$33/share, briefly spiked above \$100, and has since cratered **88% from its 52-week high of \$142.92** to \$17.70 today. The stock is caught in a perfect storm: post-IPO lockup expirations, broad SaaS multiple compression, and investor anxiety about AI disruption — yet the underlying business is growing revenue at 40%+ with positive free cash flow and 136% net revenue retention.
 
 **Key Investment Metrics at a Glance:**
 - **RSI:** 47.55 (neutral, recovering from oversold ~32 on April 24)
 - **Analyst Consensus:** Hold / Moderate Buy (8 analysts)
-- **Average Price Target:** $40.25 (representing ~127% upside)
+- **Average Price Target:** \$40.25 (representing ~127% upside)
 - **Revenue Growth:** 40.96% YoY (FY2025)
 - **NRR (Net Revenue Retention):** 136%
 - **Short Interest:** 26.5% of float (potential squeeze setup)
-- **Cash Position:** $1.66B (strong liquidity, minimal debt at $58.5M)
+- **Cash Position:** \$1.66B (strong liquidity, minimal debt at \$58.5M)
 
 **Bottom Line:** This is a high-quality growth business trading like a distressed asset. The disconnect between fundamentals (40% growth, positive FCF, dominant market position) and valuation (trading below IPO price with 127% analyst upside) creates an asymmetric opportunity — but only for investors who can stomach extreme volatility and a multi-year path to GAAP profitability.
 
@@ -75,7 +75,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 - **AI integration:** Partnership with Anthropic (Claude) positions Figma as the design layer for AI-generated code workflows
 
 **Competitive Threats:**
-- **Adobe Creative Cloud:** Still dominates high-end creative work; Adobe tried to acquire Figma for $20B in 2022 (deal blocked by EU regulators in 2023)
+- **Adobe Creative Cloud:** Still dominates high-end creative work; Adobe tried to acquire Figma for \$20B in 2022 (deal blocked by EU regulators in 2023)
 - **Canva:** Dominates consumer and SMB segments; increasingly encroaching on professional design
 - **AI-native startups:** Tools like v0 (Vercel), Anthropic's Claude Design, and others could disrupt from below
 - **Open-source alternatives:** Penpot gaining traction among privacy-conscious and cost-sensitive users
@@ -90,7 +90,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 **Key Executive Insights:**
 - Dylan Field has navigated Figma from startup to category leader to public company
-- Successfully fought off Adobe's $20B acquisition attempt, maintaining independence
+- Successfully fought off Adobe's \$20B acquisition attempt, maintaining independence
 - Aggressive product expansion strategy (Slides, Sites, Make, Weave) suggests ambitious TAM expansion
 - Recent Anthropic partnership indicates forward-thinking AI strategy
 
@@ -112,34 +112,34 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 | Metric | FY2024 | FY2025 | Change |
 |--------|--------|--------|--------|
-| **Revenue** | $749.0M | $1,056M | **+40.96%** |
-| **Cost of Revenue** | $87.5M | $185.5M | +112% |
-| **Gross Profit** | $661.5M | $870.2M | +31.5% |
+| **Revenue** | \$749.0M | \$1,056M | **+40.96%** |
+| **Cost of Revenue** | \$87.5M | \$185.5M | +112% |
+| **Gross Profit** | \$661.5M | \$870.2M | +31.5% |
 | **Gross Margin** | 88.32% | 82.43% | -589 bps |
-| **SG&A** | $787.8M | $1,131M | +43.5% |
-| **R&D** | $751.1M | $1,030M | +37.1% |
-| **Total Operating Expenses** | $1,539M | $2,161M | +40.4% |
-| **Operating Income** | -$877.4M | -$1,290M | Worsened |
-| **Net Income** | -$732.1M | -$1,250M | Worsened |
-| **EPS (Diluted)** | -$3.74 | -$3.71 | Slightly improved |
-| **Free Cash Flow** | -$63.7M | $246.2M | **+$309.9M** |
+| **SG&A** | \$787.8M | \$1,131M | +43.5% |
+| **R&D** | \$751.1M | \$1,030M | +37.1% |
+| **Total Operating Expenses** | \$1,539M | \$2,161M | +40.4% |
+| **Operating Income** | -\$877.4M | -\$1,290M | Worsened |
+| **Net Income** | -\$732.1M | -\$1,250M | Worsened |
+| **EPS (Diluted)** | -\$3.74 | -\$3.71 | Slightly improved |
+| **Free Cash Flow** | -\$63.7M | \$246.2M | **+\$309.9M** |
 | **FCF Margin** | -8.50% | 23.32% | +3,182 bps |
 
 **Key Observations:**
-- **Revenue growth remains stellar:** 40%+ YoY growth with $1B+ scale is rare in SaaS
+- **Revenue growth remains stellar:** 40%+ YoY growth with \$1B+ scale is rare in SaaS
 - **Gross margin compression:** Declined from 91.2% (2023) to 82.4% (2025) — still excellent but trending down; likely due to AI compute costs and infrastructure scaling
-- **Operating losses widening:** -$1.29B operating loss driven by aggressive R&D ($1.03B) and SG&A ($1.13B) investment
-- **FCF inflection:** Most important metric — FCF turned sharply positive at $246M (23% margin), proving the business can generate cash when it chooses to
-- **EPS barely improved:** -$3.71 vs -$3.74; massive share count increase from 196M to 337M diluted shares (+72%) offset any per-share progress
+- **Operating losses widening:** -\$1.29B operating loss driven by aggressive R&D (\$1.03B) and SG&A (\$1.13B) investment
+- **FCF inflection:** Most important metric — FCF turned sharply positive at \$246M (23% margin), proving the business can generate cash when it chooses to
+- **EPS barely improved:** -\$3.71 vs -\$3.74; massive share count increase from 196M to 337M diluted shares (+72%) offset any per-share progress
 
 ### Balance Sheet Strength
 
 | Item | Amount | Notes |
 |------|--------|-------|
-| **Cash & Equivalents** | $1.66B | Strong liquidity post-IPO |
-| **Total Debt** | $58.5M | Minimal leverage |
-| **Net Cash** | ~$1.60B | ~17% of market cap in net cash |
-| **Enterprise Value** | ~$7.64B | EV/Revenue: ~7.2x |
+| **Cash & Equivalents** | \$1.66B | Strong liquidity post-IPO |
+| **Total Debt** | \$58.5M | Minimal leverage |
+| **Net Cash** | ~\$1.60B | ~17% of market cap in net cash |
+| **Enterprise Value** | ~\$7.64B | EV/Revenue: ~7.2x |
 | **Shares Outstanding** | 444.3M | Significant dilution from IPO |
 | **Float** | 216.4M | ~49% of shares outstanding |
 
@@ -149,11 +149,11 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 | Metric | FY2025 | Analysis |
 |--------|--------|----------|
-| **Operating Cash Flow** | $246.2M | Positive despite net losses — strong cash conversion |
-| **Free Cash Flow** | $246.2M | 23.3% margin; business generates real cash |
-| **FCF Per Share** | $0.73 | Positive on a per-share basis |
+| **Operating Cash Flow** | \$246.2M | Positive despite net losses — strong cash conversion |
+| **Free Cash Flow** | \$246.2M | 23.3% margin; business generates real cash |
+| **FCF Per Share** | \$0.73 | Positive on a per-share basis |
 
-**Cash Flow Quality:** The FCF inflection is the most bullish financial signal. Figma went from burning $63.7M in FY2024 to generating $246.2M in FY2025. This suggests the company is demonstrating operating leverage and can dial back SBC and opex to produce cash if needed. The gap between GAAP losses (-$1.25B) and FCF ($246M) is largely driven by non-cash stock-based compensation.
+**Cash Flow Quality:** The FCF inflection is the most bullish financial signal. Figma went from burning \$63.7M in FY2024 to generating \$246.2M in FY2025. This suggests the company is demonstrating operating leverage and can dial back SBC and opex to produce cash if needed. The gap between GAAP losses (-\$1.25B) and FCF (\$246M) is largely driven by non-cash stock-based compensation.
 
 ---
 
@@ -176,11 +176,11 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 | Scenario | Price Target | Key Assumptions |
 |----------|-------------|-----------------|
-| **Bull Case** | $55–65 | FY2026 revenue beats guidance ($1.4B+), AI products (Make, Weave) drive accelerated adoption, NRR stays above 135%, path to GAAP profitability by 2028, SaaS multiples re-rate higher |
-| **Base Case** | $30–40 | Revenue grows 30-35% in FY2026, FCF margin stabilizes at 20-25%, SBC moderates as % of revenue, company reaches EBITDA breakeven by 2027, stock trades at 8-10x EV/Revenue |
-| **Bear Case** | $10–15 | Revenue growth decelerates below 25%, AI competition erodes market share, gross margins continue compressing, cash burn resumes, further multiple compression in SaaS sector |
+| **Bull Case** | \$55–65 | FY2026 revenue beats guidance (\$1.4B+), AI products (Make, Weave) drive accelerated adoption, NRR stays above 135%, path to GAAP profitability by 2028, SaaS multiples re-rate higher |
+| **Base Case** | \$30–40 | Revenue grows 30-35% in FY2026, FCF margin stabilizes at 20-25%, SBC moderates as % of revenue, company reaches EBITDA breakeven by 2027, stock trades at 8-10x EV/Revenue |
+| **Bear Case** | \$10–15 | Revenue growth decelerates below 25%, AI competition erodes market share, gross margins continue compressing, cash burn resumes, further multiple compression in SaaS sector |
 
-**Probability-Weighted Target:** ~$35 (representing ~98% upside from current levels)
+**Probability-Weighted Target:** ~\$35 (representing ~98% upside from current levels)
 
 ---
 
@@ -196,7 +196,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 5. **Short Squeeze Potential:** 26.5% short interest with only 3.57 days to cover creates technical upside. Any positive catalyst (earnings beat, AI product launch, analyst upgrade) could force covering.
 
-6. **Q1 2026 Earnings (May 14, 2026):** Company guided $315-317M vs $291.9M consensus. A beat could re-rate the stock significantly.
+6. **Q1 2026 Earnings (May 14, 2026):** Company guided \$315-317M vs \$291.9M consensus. A beat could re-rate the stock significantly.
 
 ---
 
@@ -204,7 +204,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 1. **AI Disruption Risk (HIGH):** The core threat is that AI makes design tools obsolete or commodity. If developers can generate UIs directly from prompts (v0, Claude Design, etc.), Figma's design-tool moat erodes. The Anthropic partnership is a hedge, but Figma must successfully integrate AI without cannibalizing core subscriptions.
 
-2. **GAAP Profitability Path (MEDIUM-HIGH):** Figma burned $1.29B in operating losses in FY2025. While FCF is positive, that's largely because SBC is a non-cash expense. If employees demand more cash compensation or SBC dilution limits talent retention, the economic model changes.
+2. **GAAP Profitability Path (MEDIUM-HIGH):** Figma burned \$1.29B in operating losses in FY2025. While FCF is positive, that's largely because SBC is a non-cash expense. If employees demand more cash compensation or SBC dilution limits talent retention, the economic model changes.
 
 3. **Gross Margin Compression (MEDIUM):** Gross margins declined from 91.2% (2023) to 82.4% (2025). If AI compute costs and infrastructure scaling continue pressuring margins, the long-term margin profile may be lower than premium SaaS peers.
 
@@ -223,16 +223,16 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 **Current RSI (14):** 47.55 — neutral territory, recovering from oversold conditions (RSI ~32 on April 24, 2026)
 
 **Price Action:**
-- **All-time high:** ~$142.92 (post-IPO spike)
-- **Current price:** $17.70
+- **All-time high:** ~\$142.92 (post-IPO spike)
+- **Current price:** \$17.70
 - **Drawdown from highs:** -87.6%
-- **vs IPO price ($33):** -46.4% below IPO
-- **52-week low:** $16.60 (set April 2026)
-- **Trend:** Violent downtrend since IPO spike; recent stabilization near $16-18 range
+- **vs IPO price (\$33):** -46.4% below IPO
+- **52-week low:** \$16.60 (set April 2026)
+- **Trend:** Violent downtrend since IPO spike; recent stabilization near \$16-18 range
 
 **Support/Resistance Levels:**
-- **Support:** $16.60 (52-week low) — psychological level; a break below opens downside to $12-14
-- **Resistance:** $21-22 (recent local highs), then $28-30 (post-earnings spike zone from February 2026)
+- **Support:** \$16.60 (52-week low) — psychological level; a break below opens downside to \$12-14
+- **Resistance:** \$21-22 (recent local highs), then \$28-30 (post-earnings spike zone from February 2026)
 
 **Volume Patterns:** Elevated volume on down days suggests distribution; recent stabilization on lower volume may indicate selling exhaustion.
 
@@ -261,14 +261,14 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 | Investor Type | Allocation | Rationale |
 |---------------|------------|-----------|
 | Aggressive | 5-8% | High conviction on AI integration and market dominance; accepts volatility |
-| Moderate | 2-4% | Quality growth at distressed price; trim if breaks $16 support |
+| Moderate | 2-4% | Quality growth at distressed price; trim if breaks \$16 support |
 | Conservative | 0-1% | Wait for GAAP profitability or sustained FCF margin >25% |
 
 ### Catalyst Calendar
 
 | Date | Event | Impact |
 |------|-------|--------|
-| **May 14, 2026** | Q1 2026 Earnings | HIGH — guided $315-317M vs $291.9M consensus; beat could spark re-rating |
+| **May 14, 2026** | Q1 2026 Earnings | HIGH — guided \$315-317M vs \$291.9M consensus; beat could spark re-rating |
 | **August 2026** | Q2 2026 Earnings | MEDIUM — mid-year guidance check; AI product adoption metrics |
 | **2026 H2** | Figma Make / Weave GA | MEDIUM — AI product launches could accelerate growth |
 | **Ongoing** | Lockup expirations | LOW-MEDIUM — potential selling pressure as restrictions lift |
