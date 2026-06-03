@@ -211,6 +211,27 @@ Also remind the user to add this entry to `docs/api/tickers.json`:
 
 ---
 
+## Markdown Escaping Rules
+
+When generating Markdown content, escape these characters to avoid rendering issues:
+
+| Character | Escape | Why |
+|-----------|--------|-----|
+| `$` | `\$` | Triggers LaTeX math mode in MkDocs/Material |
+| `|` inside table cells | `\|` | Breaks table column alignment |
+| `<` or `>` in text | `\<` / `\>` | Parsed as HTML tags |
+
+**Dollar sign rule:** Every price, market cap, revenue figure, or any numeric value prefixed with `$` MUST be written as `\$XX.XX` in all Markdown artifacts (deep dive, sector pages, index table, gists). This includes:
+- Price targets: `\$14.00` (not `$14.00`)
+- Market caps: `\$277M` (not `$277M`)
+- Revenue ranges: `\$60–70M` (not `$60–70M`)
+- Table cells: `\$3.39` (not `$3.39`)
+- Gist summaries: `\$10–15` (not `$10–15`)
+
+**JSON artifacts are exempt** — use unescaped `$` inside JSON string values since JSON does not interpret `$` as math mode.
+
+---
+
 ## Quality Validation
 
 Before publishing, run through these checks to ensure completeness and consistency:
@@ -230,6 +251,7 @@ Before publishing, run through these checks to ensure completeness and consisten
 - [ ] Links use relative paths correctly (`../index.md`, `{TICKER}.md`, etc.)
 - [ ] Image references use relative paths (`../assets/images/{TICKER}_rsi.png`)
 - [ ] JSON is valid (no trailing commas, proper quoting)
+- [ ] **All dollar signs are escaped (`\$`)** — unescaped `$` triggers LaTeX math mode in MkDocs/Markdown and breaks rendering
 
 ### Completeness Checks
 - [ ] Deep dive covers all 9 required sections (Overview, Financials, Valuation, Catalysts, Risks, Technicals, Recommendation, Readability, Sources)
