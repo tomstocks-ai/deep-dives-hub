@@ -14,6 +14,7 @@ title: Materials
 | **FCX** | Freeport-McMoRan | <span class="rating-buy">BUY</span> | \$70.18 | 2026-04-03 | [:material-file-document: Read](FCX.md) |
 | **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | \$59.13 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
 | **PPTA** | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | \$26.30 | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
+| **AEM** | Agnico Eagle Mines | <span class="rating-buy">BUY</span> | \$163.66 | 2026-06-07 | [:material-file-document: Read](AEM.md) |
 
 ---
 
@@ -56,6 +57,16 @@ Development-stage mining company advancing the \$1.3B Stibnite Gold Project in I
 **Bull:** \$50 · **Base:** \$35 · **Bear:** \$15
 
 [:material-arrow-right: Full Deep Dive](PPTA.md)
+
+---
+
+### AEM — Agnico Eagle Mines · <span class="rating-buy">BUY</span> · \$163.66
+
+World's third-largest gold producer with Tier-1 jurisdictional exposure across Canada, Australia, Finland, and Mexico. Q1 2026 delivered record operating margins: net income of \$1.7B (+113% YoY) on ~825k oz production at a realized gold price of \$4,861/oz. AISC of \$1,483/oz leaves massive margin cushion. Balance sheet is pristine (~\$2.9B cash, net debt/EBITDA \u003c0.5x). Dividend increased 12.5% in 2026. Stock has corrected 36% from \$255 highs — RSI at 35.6, approaching oversold. Best-in-class large-cap gold exposure for investors seeking quality and leverage.
+
+**Bull:** \$225–\$245 · **Base:** \$185–\$205 · **Bear:** \$130–\$150
+
+[:material-arrow-right: Full Deep Dive](AEM.md)
 
 ---
 
