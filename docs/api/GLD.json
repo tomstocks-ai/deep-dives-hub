@@ -1,0 +1,56 @@
+{
+  "ticker": "GLD",
+  "company": "SPDR Gold Shares",
+  "sector": "Materials",
+  "industry": "Precious Metals / Gold",
+  "exchange": "NYSE Arca",
+  "price": 396.24,
+  "market_cap": "$70.2B",
+  "rating": "BUY",
+  "last_updated": "2026-06-07",
+  "thesis": "Gold is in a structural bull market driven by record central bank buying, fiscal debasement concerns, and geopolitical fragmentation. Fed rate cuts in 2026 will reduce the opportunity cost of holding gold. J.P. Morgan targets $5,055 by Q4 2026.",
+  "financials": {
+    "fiscal_year": "N/A",
+    "revenue": "N/A",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$5,000–5,500/oz",
+    "drivers": [
+      "Fed cuts aggressively; real rates turn negative",
+      "Central bank buying accelerates (China, BRICS+)",
+      "Geopolitical shock triggers flight-to-safety",
+      "U.S. fiscal crisis concerns intensify"
+    ]
+  },
+  "bear_case": {
+    "target": "$3,200–3,500/oz",
+    "risks": [
+      "Fed holds or hikes on reaccelerating inflation",
+      "Dollar surges above 110",
+      "Risk-on environment reduces safe-haven demand",
+      "Crypto absorbs 'digital gold' demand"
+    ]
+  },
+  "base_case": {
+    "target": "$4,000–4,500/oz",
+    "assumptions": "2–3 Fed rate cuts in 2026; steady central bank demand; moderate geopolitical tension; GLD returns 10–15% from current levels."
+  },
+  "catalysts": [
+    {"date": "2026-06-18", "event": "FOMC meeting — rate decision and dot plot"},
+    {"date": "2026-07-04", "event": "Monthly U.S. nonfarm payrolls"},
+    {"date": "2026-07-15", "event": "Q2 Treasury refunding announcement"},
+    {"date": "2026-10-22", "event": "BRICS summit — watch for reserve currency developments"}
+  ],
+  "key_risks": [
+    "Strong dollar / DXY >110",
+    "Fed hawkish pivot on inflation",
+    "Bitcoin competition for store-of-value demand",
+    "Profit-taking after 80% rally from 2022 lows"
+  ]
+}

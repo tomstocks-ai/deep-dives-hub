@@ -17,6 +17,7 @@ title: Energy
 | **TE** | T1 Energy | <span class="rating-hold">HOLD</span> | \$4.97 | 2026-03-16 | [:material-file-document: Read](TE.md) |
 | **UUUU** | Energy Fuels | <span class="rating-buy">BUY</span> | \$21.51 | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
 | **LEU** | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$161.78 | 2026-06-07 | [:material-file-document: Read](LEU.md) |
+| **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
 
 ---
 

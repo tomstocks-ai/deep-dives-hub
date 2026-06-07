@@ -1,0 +1,56 @@
+{
+  "ticker": "COPX",
+  "company": "Global X Copper Miners ETF",
+  "sector": "Materials",
+  "industry": "Copper Mining",
+  "exchange": "NYSE Arca",
+  "price": 80.64,
+  "market_cap": "$1.5B",
+  "rating": "BUY",
+  "last_updated": "2026-06-07",
+  "thesis": "Copper faces a structural supply deficit as electrification demand (EVs, renewables, AI data centers, grid modernization) outpaces constrained mine supply. S&P Global projects a 19M tonne shortfall by 2050. Miners with existing production benefit from operating leverage.",
+  "financials": {
+    "fiscal_year": "N/A",
+    "revenue": "N/A",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$110–125",
+    "drivers": [
+      "Copper deficit materializes faster than expected",
+      "AI data center demand surprises to upside",
+      "Supply disruptions in Chile/Peru",
+      "China stimulus boosts construction demand"
+    ]
+  },
+  "bear_case": {
+    "target": "$60–70",
+    "risks": [
+      "China property sector implodes",
+      "Global manufacturing recession",
+      "Aluminum substitution accelerates",
+      "Trade war tariffs distort copper markets"
+    ]
+  },
+  "base_case": {
+    "target": "$90–100",
+    "assumptions": "Steady electrification demand; modest supply growth; copper trades $4.50–5.00/lb; COPX returns 15–20% annually."
+  },
+  "catalysts": [
+    {"date": "2026-06-30", "event": "Monthly China PMI data"},
+    {"date": "2026-07-15", "event": "Quarterly copper inventory reports (LME, COMEX, SHFE)"},
+    {"date": "2026-07-22", "event": "FCX Q2 earnings — watch for copper guidance"},
+    {"date": "2026-08-15", "event": "China potential stimulus announcement"}
+  ],
+  "key_risks": [
+    "China hard landing / property crash",
+    "Substitution by aluminum in wiring",
+    "Recession crushing industrial demand",
+    "Political risk in Peru/DRC mining regions"
+  ]
+}

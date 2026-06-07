@@ -1,0 +1,56 @@
+{
+  "ticker": "SLV",
+  "company": "iShares Silver Trust",
+  "sector": "Materials",
+  "industry": "Precious Metals / Silver",
+  "exchange": "NYSE Arca",
+  "price": 61.57,
+  "market_cap": "$12.1B",
+  "rating": "BUY",
+  "last_updated": "2026-06-07",
+  "thesis": "Silver is in a structural supply deficit with industrial demand (solar, EVs, AI) growing faster than mine supply. The gold/silver ratio near 80:1 is historically elevated, suggesting significant upside as the ratio mean-reverts. Investment demand provides a floor during uncertainty.",
+  "financials": {
+    "fiscal_year": "N/A",
+    "revenue": "N/A",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$75–85/oz",
+    "drivers": [
+      "Supply deficit widens as solar demand accelerates",
+      "Investment demand surges on recession/geopolitical fears",
+      "Gold/silver ratio compresses from 80:1 toward 55:1",
+      "LBMA/COMEX inventories draw down to critical levels"
+    ]
+  },
+  "bear_case": {
+    "target": "$32–38/oz",
+    "risks": [
+      "Global recession crushes industrial demand",
+      "Silver thrifting in solar cells reduces intensity faster than expected",
+      "Strong dollar (DXY >110) suppresses precious metals",
+      "ETF outflows during risk-off liquidations"
+    ]
+  },
+  "base_case": {
+    "target": "$50–60/oz",
+    "assumptions": "Steady industrial demand growth of 3–4% annually; 1–2 Fed rate cuts; moderate investment flows; gold/silver ratio normalizes to 65:1."
+  },
+  "catalysts": [
+    {"date": "2026-06-18", "event": "FOMC meeting — watch for rate-cut guidance"},
+    {"date": "2026-07-04", "event": "Monthly U.S. nonfarm payrolls"},
+    {"date": "2026-07-15", "event": "Q2 solar installation data (China, U.S.)"},
+    {"date": "2026-07-31", "event": "LBMA silver inventory report"}
+  ],
+  "key_risks": [
+    "Industrial demand collapse in recession",
+    "Silver substitution in electronics and solar",
+    "Strong U.S. dollar persisting",
+    "Profit-taking after 144% rally from 2022 lows"
+  ]
+}

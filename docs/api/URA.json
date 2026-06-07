@@ -1,0 +1,56 @@
+{
+  "ticker": "URA",
+  "company": "Global X Uranium ETF",
+  "sector": "Energy",
+  "industry": "Uranium Mining",
+  "exchange": "NYSE Arca",
+  "price": 45.31,
+  "market_cap": "$2.5B",
+  "rating": "BUY",
+  "last_updated": "2026-06-07",
+  "thesis": "Nuclear power is experiencing a global renaissance as countries seek baseload zero-carbon energy. Uranium demand (~204M lbs) already exceeds mine supply (~173M lbs), creating a structural deficit. Prices must reach $100+/lb to incentivize new production.",
+  "financials": {
+    "fiscal_year": "N/A",
+    "revenue": "N/A",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$70–85",
+    "drivers": [
+      "Supply deficit forces utility panic-buying",
+      "Kazatomprom further cuts production guidance",
+      "New reactor announcements accelerate (China, U.S., EU)",
+      "Sprott Physical Trust continues removing supply from market"
+    ]
+  },
+  "bear_case": {
+    "target": "$30–38",
+    "risks": [
+      "Nuclear accident freezes global reactor development",
+      "Prolonged recession reduces electricity demand",
+      "Secondary supply floods market temporarily",
+      "Political instability in Kazakhstan"
+    ]
+  },
+  "base_case": {
+    "target": "$55–65",
+    "assumptions": "Steady reactor demand growth; supply slowly responds; uranium trades $90–110/lb; URA returns 20–30% annually."
+  },
+  "catalysts": [
+    {"date": "2026-06-15", "event": "Monthly uranium spot price update (UxC)"},
+    {"date": "2026-07-20", "event": "Kazatomprom Q2 production report"},
+    {"date": "2026-08-05", "event": "U.S. DOE uranium supply chain funding announcement"},
+    {"date": "2026-09-10", "event": "Japan Nuclear Regulation Authority restart decision"}
+  ],
+  "key_risks": [
+    "Nuclear accident or Fukushima-type event",
+    "Recession delaying reactor builds",
+    "Secondary supply filling deficit gap",
+    "Junior miner equity dilution"
+  ]
+}
