@@ -18,6 +18,7 @@ nav = [
   { "Space" = "deep-dives/space.md" },
   { "Energy" = "deep-dives/energy.md" },
   { "Materials" = "deep-dives/materials.md" },
+  { "Commodities" = "deep-dives/commodities.md" },
   { "Health" = "deep-dives/health.md" },
   { "Finance" = "deep-dives/finance.md" },
   { "API Reference" = "api-docs.md" },

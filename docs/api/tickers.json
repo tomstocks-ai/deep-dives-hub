@@ -384,6 +384,54 @@
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/LEU/",
       "api_url": "/api/LEU.json"
+    },
+    {
+      "ticker": "SLV",
+      "company": "iShares Silver Trust",
+      "sector": "Commodities",
+      "industry": "Precious Metals / Silver",
+      "rating": "BUY",
+      "price": 61.57,
+      "market_cap": "$12.1B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/SLV/",
+      "api_url": "/api/SLV.json"
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "sector": "Commodities",
+      "industry": "Precious Metals / Gold",
+      "rating": "BUY",
+      "price": 396.24,
+      "market_cap": "$70.2B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/GLD/",
+      "api_url": "/api/GLD.json"
+    },
+    {
+      "ticker": "COPX",
+      "company": "Global X Copper Miners ETF",
+      "sector": "Commodities",
+      "industry": "Copper Mining",
+      "rating": "BUY",
+      "price": 80.64,
+      "market_cap": "$1.5B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/COPX/",
+      "api_url": "/api/COPX.json"
+    },
+    {
+      "ticker": "URA",
+      "company": "Global X Uranium ETF",
+      "sector": "Commodities",
+      "industry": "Uranium Mining",
+      "rating": "BUY",
+      "price": 45.31,
+      "market_cap": "$2.5B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/URA/",
+      "api_url": "/api/URA.json"
     }
   ]
 }

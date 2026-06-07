@@ -32,6 +32,10 @@
 | **SPCE** | Virgin Galactic Holdings | <span class="badge badge-space">Space</span> | <span class="rating-spec">SPECULATIVE</span> | $4.53 | 2026-05-29 | [:material-file-document: Read](deep-dives/SPCE.md) |
 | **DDD** | 3D Systems Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $3.88 | 2026-06-02 | [:material-file-document: Read](deep-dives/DDD.md) |
 || **PURR** | Hyperliquid Strategies Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $10.97 | 2026-06-03 | [:material-file-document: Read](deep-dives/PURR.md) |
-|| **LEU** | Centrus Energy Corp. | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $161.78 | 2026-06-07 | [:material-file-document: Read](deep-dives/LEU.md) |
+||| **LEU** | Centrus Energy Corp. | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $161.78 | 2026-06-07 | [:material-file-document: Read](deep-dives/LEU.md) |
+|| **SLV** | iShares Silver Trust | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $61.57 | 2026-06-07 | [:material-file-document: Read](deep-dives/SLV.md) |
+|| **GLD** | SPDR Gold Shares | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $396.24 | 2026-06-07 | [:material-file-document: Read](deep-dives/GLD.md) |
+|| **COPX** | Global X Copper Miners ETF | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $80.64 | 2026-06-07 | [:material-file-document: Read](deep-dives/COPX.md) |
+|| **URA** | Global X Uranium ETF | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $45.31 | 2026-06-07 | [:material-file-document: Read](deep-dives/URA.md) |
 
-|---
+||---
