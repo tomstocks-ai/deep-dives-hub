@@ -16,6 +16,7 @@ title: Energy
 | **IMSR** | Terrestrial Energy | <span class="rating-spec-buy">SPEC. BUY</span> | \$7.61 | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
 | **TE** | T1 Energy | <span class="rating-hold">HOLD</span> | \$4.97 | 2026-03-16 | [:material-file-document: Read](TE.md) |
 | **UUUU** | Energy Fuels | <span class="rating-buy">BUY</span> | \$21.51 | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
+| **LEU** | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$161.78 | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 
 ---
 
@@ -68,6 +69,16 @@ Leading U.S. critical minerals company with unique diversification: uranium (#1 
 **Bull:** \$40–50 · **Base:** \$22–28 · **Bear:** \$10–12
 
 [:material-arrow-right: Full Deep Dive](UUUU.md)
+
+---
+
+### LEU — Centrus Energy Corp. · <span class="rating-spec-buy">SPEC. BUY</span> · \$161.78
+
+Only U.S.-licensed HALEU producer supplying enriched uranium to nuclear utilities and government customers. \$3.9B contracted backlog plus \$900M DOE investment provide multi-year revenue visibility. Q1 2026 revenue \$76.7M with raised FY2026 guidance to \$450–\$500M. High short interest at 21.6% creates squeeze potential. Stock down 65% from 52-week highs — asymmetric risk/reward for risk-tolerant investors.
+
+**Bull:** \$280–320 · **Base:** \$200–240 · **Bear:** \$110–140
+
+[:material-arrow-right: Full Deep Dive](LEU.md)
 
 ---
 

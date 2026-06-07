@@ -372,6 +372,18 @@
       "last_updated": "2026-06-03",
       "deep_dive_url": "/deep-dives/PURR/",
       "api_url": "/api/PURR.json"
+    },
+    {
+      "ticker": "LEU",
+      "company": "Centrus Energy Corp.",
+      "sector": "Energy",
+      "industry": "Uranium Enrichment / Nuclear Fuel",
+      "rating": "SPEC. BUY",
+      "price": 161.78,
+      "market_cap": "$3.18B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/LEU/",
+      "api_url": "/api/LEU.json"
     }
   ]
 }
