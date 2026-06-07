@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02",
+  "last_updated": "2026-06-07",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -432,6 +432,18 @@
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/URA/",
       "api_url": "/api/URA.json"
+    },
+    {
+      "ticker": "AEM",
+      "company": "Agnico Eagle Mines Limited",
+      "sector": "Materials",
+      "industry": "Gold Mining",
+      "rating": "BUY",
+      "price": 163.66,
+      "market_cap": "$98.2B",
+      "last_updated": "2026-06-07",
+      "deep_dive_url": "/deep-dives/AEM/",
+      "api_url": "/api/AEM.json"
     }
   ]
 }

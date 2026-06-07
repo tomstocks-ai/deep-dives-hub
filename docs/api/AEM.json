@@ -1,0 +1,56 @@
+{
+  "ticker": "AEM",
+  "company": "Agnico Eagle Mines Limited",
+  "sector": "Materials",
+  "industry": "Gold Mining",
+  "exchange": "NYSE",
+  "price": 163.66,
+  "market_cap": "$98.2B",
+  "rating": "BUY",
+  "last_updated": "2026-06-07",
+  "thesis": "World's third-largest gold producer with Tier-1 jurisdictional exposure, record margins, and a fortress balance sheet. Q1 2026 net income of $1.7B and FCF of $730M demonstrate exceptional gold price leverage. Stock has corrected 36% from highs, improving risk/reward for long-term accumulators.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$16.0B",
+    "revenue_growth": "+67% (Q1 YoY)",
+    "gross_margin": "~75% (operating margin)",
+    "net_income": "$1.70B (Q1)",
+    "eps_diluted": "$3.50 (Q1)",
+    "cash": "$2.9B",
+    "fcf": "$730M (Q1)"
+  },
+  "bull_case": {
+    "target": "$225–$245",
+    "drivers": [
+      "Gold sustains $5,500–$6,000/oz on continued central bank buying and geopolitical tension",
+      "Detour Lake expansion adds 100k+ oz/year by 2027–2028",
+      "Fosterville turnaround reduces group AISC below $1,400/oz",
+      "AEM uses balance sheet strength for accretive M&A"
+    ]
+  },
+  "bear_case": {
+    "target": "$130–$150",
+    "risks": [
+      "Gold drops below $4,000/oz on Fed hawkishness / real yield surge",
+      "AISC inflation exceeds guidance, compressing margins",
+      "Operational disruption at Detour or Canadian Malartic",
+      "USD strength raises costs at non-North American assets"
+    ]
+  },
+  "base_case": {
+    "target": "$185–$205",
+    "assumptions": "Gold averages $4,500–$5,000/oz in 2026–2027. Production meets 3.3–3.5M oz guidance. AISC stays within $1,400–$1,550/oz range. Dividend grows 8–12% annually."
+  },
+  "catalysts": [
+    {"date": "2026-07-29", "event": "Q2 2026 Earnings — production and cost update"},
+    {"date": "2026-10-29", "event": "Q3 2026 Earnings"},
+    {"date": "2026-12", "event": "2027 Production and Cost Guidance Update"},
+    {"date": "TBD", "event": "Gold price movement / Federal Reserve policy shifts"}
+  ],
+  "key_risks": [
+    "Gold price volatility — pure-play leverage cuts both ways",
+    "Cost inflation in energy, labor, and consumables",
+    "FX exposure (EUR, AUD, MXN) vs. USD",
+    "Permitting or operational delays at core assets"
+  ]
+}
