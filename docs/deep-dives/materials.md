@@ -15,6 +15,7 @@ title: Materials
 | **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | \$59.13 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
 | **PPTA** | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | \$26.30 | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
 | **AEM** | Agnico Eagle Mines | <span class="rating-buy">BUY</span> | \$163.66 | 2026-06-07 | [:material-file-document: Read](AEM.md) |
+| **FNV** | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | \$218.74 | 2026-06-08 | [:material-file-document: Read](FNV.md) |
 
 ---
 
@@ -67,6 +68,16 @@ World's third-largest gold producer with Tier-1 jurisdictional exposure across C
 **Bull:** \$225–\$245 · **Base:** \$185–\$205 · **Bear:** \$130–\$150
 
 [:material-arrow-right: Full Deep Dive](AEM.md)
+
+---
+
+### FNV — Franco-Nevada Corporation · <span class="rating-buy">BUY</span> · \$218.74
+
+World's largest gold-focused royalty and streaming company. Asset-light model — no mines, no debt, no operational risk. Record Q1 2026: \$650.7M revenue (+77% YoY), \$591.9M adjusted EBITDA (+84%), \$2.38 adjusted EPS (+122%). 400+ assets across 114 properties; no single asset exceeds 13% of revenue. Zero debt balance sheet with ~\$2B cash. Dividend raised 16% in Jan 2026 — 19 consecutive years of increases. Cobre Panamá arbitration hearing Oct 2026 (potential \$5B claim). Stock corrected 24% from \$285 highs; RSI at 40.5 — neutral, room to fall before oversold. Best-in-class gold exposure for investors seeking quality, yield, and leverage without operational risk.
+
+**Bull:** \$285–\$300 · **Base:** \$235–\$250 · **Bear:** \$165–\$180
+
+[:material-arrow-right: Full Deep Dive](FNV.md)
 
 ---
 

@@ -38,5 +38,6 @@
 | **COPX** | Global X Copper Miners ETF | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $80.64 | 2026-06-07 | [:material-file-document: Read](deep-dives/COPX.md) |
 | **URA** | Global X Uranium ETF | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $45.31 | 2026-06-07 | [:material-file-document: Read](deep-dives/URA.md) |
 | **AEM** | Agnico Eagle Mines | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $163.66 | 2026-06-07 | [:material-file-document: Read](deep-dives/AEM.md) |
+| **FNV** | Franco-Nevada Corporation | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $218.74 | 2026-06-08 | [:material-file-document: Read](deep-dives/FNV.md) |
 
-|||---
+||||---

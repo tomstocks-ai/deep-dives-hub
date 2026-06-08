@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-08",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -444,6 +444,18 @@
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/AEM/",
       "api_url": "/api/AEM.json"
+    },
+    {
+      "ticker": "FNV",
+      "company": "Franco-Nevada Corporation",
+      "sector": "Materials",
+      "industry": "Gold Royalty & Streaming",
+      "rating": "BUY",
+      "price": 218.74,
+      "market_cap": "$45.7B",
+      "last_updated": "2026-06-08",
+      "deep_dive_url": "/deep-dives/FNV/",
+      "api_url": "/api/FNV.json"
     }
   ]
 }
