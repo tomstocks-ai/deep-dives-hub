@@ -1,0 +1,55 @@
+{
+  "ticker": "FNV",
+  "company": "Franco-Nevada Corporation",
+  "sector": "Materials",
+  "industry": "Gold Royalty & Streaming",
+  "exchange": "NYSE",
+  "price": 218.74,
+  "market_cap": "$45.7B",
+  "rating": "BUY",
+  "last_updated": "2026-06-08",
+  "thesis": "Franco-Nevada is the world's largest gold-focused royalty and streaming company, offering asset-light exposure to precious metals without operational or debt risk. Record Q1 2026 results ($650.7M revenue, +77% YoY) demonstrate leverage to gold prices above $3,000/oz. Zero debt, 19 consecutive dividend increases, and a diversified portfolio of 400+ assets provide a fortress balance sheet. Key catalysts include Cobre Panamá arbitration (Oct 2026), new stream acquisitions, and continued central bank gold demand.",
+  "financials": {
+    "fiscal_year": "FY2025 / Q1 2026",
+    "revenue": "$1.82B (FY2025); $650.7M (Q1 2026)",
+    "revenue_growth": "+64% YoY (FY2025); +77% YoY (Q1 2026)",
+    "gross_margin": "~90% (royalty model)",
+    "net_income": "$458.3M adjusted (Q1 2026)",
+    "eps_diluted": "$2.38 adjusted (Q1 2026)",
+    "cash": "~$2.0B",
+    "fcf": "~$1.5B annual run-rate"
+  },
+  "bull_case": {
+    "target": "$285–$300",
+    "drivers": [
+      "Gold sustains $3,200+/oz on central bank buying and geopolitical risk premium",
+      "Cobre Panamá arbitration delivers partial or full $5B recovery",
+      "New acquisitions (Casa Berardi, i-80 Gold) add incremental GEOs",
+      "Dividend yield compounds at 10–15% annually"
+    ]
+  },
+  "bear_case": {
+    "target": "$165–$180",
+    "risks": [
+      "Gold drops below $2,500/oz on rate hikes or risk-on sentiment",
+      "Cobre Panamá arbitration fails; asset permanently impaired",
+      "Miners cut production at key assets due to lower metal prices",
+      "Multiple compression to 18x P/E on lower earnings"
+    ]
+  },
+  "base_case": {
+    "target": "$235–$250",
+    "assumptions": "Gold averages $3,000/oz through 2026–2027; GEO production hits mid-point of guidance (~540K oz); Cobre Panamá remains unresolved but stockpile deliveries offset some loss; modest multiple compression offset by earnings growth."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 earnings release"},
+    {"date": "2026-10-01", "event": "Cobre Panamá arbitration hearing"},
+    {"date": "2027-01-01", "event": "Potential dividend increase (20th consecutive year)"}
+  ],
+  "key_risks": [
+    "Cobre Panamá arbitration outcome uncertainty",
+    "Gold price volatility and macro sensitivity",
+    "Geopolitical risk in Latin American operating jurisdictions",
+    "Interest rate environment reducing dividend stock attractiveness"
+  ]
+}
