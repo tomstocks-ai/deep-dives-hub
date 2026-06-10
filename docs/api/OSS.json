@@ -1,0 +1,53 @@
+{
+  "ticker": "OSS",
+  "company": "One Stop Systems, Inc.",
+  "sector": "Technology",
+  "industry": "AI Edge Compute / Rugged Transportable Systems",
+  "exchange": "NASDAQ",
+  "price": 15.71,
+  "market_cap": "$350M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-10",
+  "thesis": "OSS is at an inflection point with accelerating revenue (+55-70% YoY), expanding gross margins (51-58%), and a pristine balance sheet ($36M+ liquidity, zero debt). The company is a pure-play on defense AI edge computing with a $400M pipeline and development-to-production conversion catalysts. Small scale and customer concentration keep it speculative, but risk/reward is attractive at ~$350M market cap.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$30M (core segment)",
+    "revenue_growth": "+20-25% (guided)",
+    "gross_margin": "51-58%",
+    "net_income": "-$3.9M (est.)",
+    "eps_diluted": "-$0.15",
+    "cash": "$26.5M",
+    "fcf": "Not yet consistent"
+  },
+  "bull_case": {
+    "target": "$24–$28",
+    "drivers": [
+      "Defense AI spending accelerates and OSS captures meaningful share of $400M pipeline",
+      "Development contracts convert to production at scale in 2025-2026",
+      "Gross margins sustain above 50% as mix shifts entirely to AI Transportable"
+    ]
+  },
+  "bear_case": {
+    "target": "$8–$10",
+    "risks": [
+      "Revenue growth stalls as development programs fail to convert",
+      "Customer concentration in defense primes creates single-program risk",
+      "Competition from larger defense contractors erodes pricing power"
+    ]
+  },
+  "base_case": {
+    "target": "$16–$19",
+    "assumptions": "20-25% revenue growth continues through 2027, gross margins stabilize around 42%, and the company reaches sustained profitability by 2027."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 earnings — margin sustainability test"},
+    {"date": "2026-09-01", "event": "Potential new defense contract awards"},
+    {"date": "2026-11-01", "event": "Q3 2026 earnings — H2 production ramp evidence"}
+  ],
+  "key_risks": [
+    "Customer concentration in defense primes",
+    "Small revenue base creates high operating leverage risk",
+    "Defense budget cuts or program cancellations",
+    "GPU technology obsolescence requiring continuous R&D"
+  ]
+}

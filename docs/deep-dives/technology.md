@@ -170,6 +170,16 @@ Publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoi
 
 ---
 
+### OSS — One Stop Systems, Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · \$15.71
+
+AI edge compute pure-play pivoting from low-margin media OEM to ruggedized GPU-accelerated systems for defense and autonomous applications. Q1 2026 revenue jumped 55% to \$8.1M with gross margin of 51.6%, and adjusted EBITDA turned positive. \$26.5M cash, zero debt, and a \$400M pipeline provide substantial runway. Defense AI tailwind is real, but customer concentration and small scale keep it speculative.
+
+**Bull:** \$24–28 · **Base:** \$16–19 · **Bear:** \$8–10
+
+[:material-arrow-right: Full Deep Dive](OSS.md)
+
+---
+
 ## Sources Consulted
 
 1. [Yahoo Finance - TECHNOLOGY](https://finance.yahoo.com/quote/TECHNOLOGY)

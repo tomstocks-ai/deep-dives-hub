@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-06-10",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -199,7 +199,7 @@
       "sector": "Energy",
       "industry": "Solar Manufacturing",
       "rating": "HOLD",
-      "price": 7.60,
+      "price": 7.6,
       "market_cap": "$1.3-2.0B",
       "last_updated": "2026-03-16",
       "deep_dive_url": "/deep-dives/TE/",
@@ -295,7 +295,7 @@
       "sector": "Materials",
       "industry": "Precious Metals & Critical Minerals Mining",
       "rating": "SPECULATIVE BUY",
-      "price": 26.30,
+      "price": 26.3,
       "market_cap": "$3.29B",
       "last_updated": "2026-04-29",
       "deep_dive_url": "/deep-dives/PPTA/",
@@ -307,7 +307,7 @@
       "sector": "Technology",
       "industry": "Collaborative Design Platform",
       "rating": "SPECULATIVE BUY",
-      "price": 17.70,
+      "price": 17.7,
       "market_cap": "$9.33B",
       "last_updated": "2026-05-01",
       "deep_dive_url": "/deep-dives/FIG/",
@@ -456,6 +456,18 @@
       "last_updated": "2026-06-08",
       "deep_dive_url": "/deep-dives/FNV/",
       "api_url": "/api/FNV.json"
+    },
+    {
+      "ticker": "OSS",
+      "company": "One Stop Systems, Inc.",
+      "sector": "Technology",
+      "industry": "AI Edge Compute / Rugged Transportable Systems",
+      "rating": "SPECULATIVE BUY",
+      "price": 15.71,
+      "market_cap": "$350M",
+      "last_updated": "2026-06-10",
+      "deep_dive_url": "/deep-dives/OSS/",
+      "api_url": "/api/OSS.json"
     }
   ]
 }
