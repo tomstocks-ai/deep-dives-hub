@@ -16,6 +16,7 @@ title: Materials
 | **PPTA** | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | \$26.30 | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
 | **AEM** | Agnico Eagle Mines | <span class="rating-buy">BUY</span> | \$163.66 | 2026-06-07 | [:material-file-document: Read](AEM.md) |
 | **FNV** | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | \$218.74 | 2026-06-08 | [:material-file-document: Read](FNV.md) |
+| **ASPI** | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$6.40 | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 
 ---
 
@@ -78,6 +79,16 @@ World's largest gold-focused royalty and streaming company. Asset-light model �
 **Bull:** \$285–\$300 · **Base:** \$235–\$250 · **Bear:** \$165–\$180
 
 [:material-arrow-right: Full Deep Dive](FNV.md)
+
+---
+
+### ASPI — ASP Isotopes Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · \$6.40
+
+Advanced materials company producing enriched isotopes for nuclear medicine, quantum computing, green energy, and semiconductors. Q1 2026 revenue surged 280% YoY to \$4.2M, with \$290.5M cash providing runway. January 2026 Renergen acquisition adds helium and LNG assets; Phase 1 targeted for 2026 completion. Planned QLE spin-off (H1 2026) focuses on HALEU and lithium isotopes. Management targets \$300M+ EBITDA by 2030. Stock corrected 56% from \$14.49 highs; RSI at 49.5 (neutral). Analyst consensus price target \$13.26 implies >100% upside. High short interest at 23% of float creates squeeze potential.
+
+**Bull:** \$12–\$14 · **Base:** \$8–\$10 · **Bear:** \$3–\$4
+
+[:material-arrow-right: Full Deep Dive](ASPI.md)
 
 ---
 

@@ -468,6 +468,18 @@
       "last_updated": "2026-06-10",
       "deep_dive_url": "/deep-dives/OSS/",
       "api_url": "/api/OSS.json"
+    },
+    {
+      "ticker": "ASPI",
+      "company": "ASP Isotopes Inc.",
+      "sector": "Materials",
+      "industry": "Enriched Isotopes / Critical Materials",
+      "rating": "SPEC. BUY",
+      "price": 6.40,
+      "market_cap": "$664M",
+      "last_updated": "2026-06-10",
+      "deep_dive_url": "/deep-dives/ASPI/",
+      "api_url": "/api/ASPI.json"
     }
   ]
 }
