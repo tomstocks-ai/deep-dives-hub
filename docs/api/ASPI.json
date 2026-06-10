@@ -1,0 +1,58 @@
+{
+  "ticker": "ASPI",
+  "company": "ASP Isotopes Inc.",
+  "sector": "Materials",
+  "industry": "Enriched Isotopes / Critical Materials",
+  "exchange": "NasdaqCM",
+  "price": 6.40,
+  "market_cap": "$664M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-10",
+  "thesis": "ASP Isotopes is an advanced materials company producing enriched isotopes for nuclear medicine, quantum computing, green energy, and semiconductors. The January 2026 Renergen acquisition adds helium and LNG assets, while the planned QLE spin-off targets HALEU and lithium isotopes. Q1 2026 revenue surged 280% YoY to $4.2M. High short interest (23% of float) and analyst consensus price target of $13+ create asymmetric upside on execution.",
+  "financials": {
+    "fiscal_year": "FY2025/Q1 2026",
+    "revenue": "$4.2M (Q1 2026)",
+    "revenue_growth": "+280% YoY",
+    "gross_margin": "N/A (pre-profitability)",
+    "net_income": "-$6.9M (Q1 2026)",
+    "eps_diluted": "-$0.14 (Q1 2026)",
+    "cash": "$290.5M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$12–$14",
+    "drivers": [
+      "QLE spin-off unlocks value and focuses core isotope business",
+      "Silicon-28 commercial shipments scale for quantum computing",
+      "Renergen Phase 1 completion positions ASPI as major helium producer",
+      "HALEU contracts secured from advanced reactor developers",
+      "High short interest creates squeeze potential on positive catalysts"
+    ]
+  },
+  "bear_case": {
+    "target": "$3–$4",
+    "risks": [
+      "Commercial delays in isotope shipments and Renergen ramp",
+      "Cash burn of ~$25M/quarter forces dilutive capital raise",
+      "Regulatory hurdles delay HALEU licensing",
+      "Technology scale-up proves more costly than projected"
+    ]
+  },
+  "base_case": {
+    "target": "$8–$10",
+    "assumptions": "Revenue ramps to $50–80M by 2027 as commercial contracts materialize. Renergen contributes steady cash flow by 2027–2028. QLE spin-off completes at modest valuation."
+  },
+  "catalysts": [
+    {"date": "2026-06-30", "event": "QLE spin-off expected H1 2026"},
+    {"date": "2026-12-31", "event": "Renergen Virginia Gas Project Phase 1 completion"},
+    {"date": "2026-08-15", "event": "Q2 2026 earnings (expected)"},
+    {"date": "2026-06-30", "event": "Silicon-28 commercial shipment ramp"}
+  ],
+  "key_risks": [
+    "Pre-profitability with high cash burn rate",
+    "Dilution risk from future equity raises",
+    "Regulatory and licensing delays for nuclear materials",
+    "South Africa geopolitical and infrastructure risks (Renergen)",
+    "Technology scale-up execution risk"
+  ]
+}
