@@ -1,0 +1,54 @@
+{
+  "ticker": "ADPT",
+  "company": "Adaptive Biotechnologies Corporation",
+  "sector": "Health",
+  "industry": "Biotechnology / Immune-Based Diagnostics",
+  "exchange": "NASDAQ",
+  "price": 18.78,
+  "market_cap": "$2.8B",
+  "rating": "HOLD / SPECULATIVE",
+  "last_updated": "2026-06-11",
+  "thesis": "Adaptive Biotechnologies is the leader in minimal residual disease (MRD) testing for blood cancers via its FDA-cleared clonoSEQ assay, which grew 46% in FY2025 and now drives 95% of revenue. The company has guided to profitability in 2026, but the stock has already rallied 80%+ over the past year and RSI sits at 71 (overbought). Insider selling of $16M in recent months adds caution. A compelling long-term story, but better entry on a pullback to $16.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$224M",
+    "revenue_growth": "+46% (MRD)",
+    "gross_margin": "~65%",
+    "net_income": "Negative",
+    "eps_diluted": "Negative",
+    "cash": "$281M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$28–$32",
+    "drivers": [
+      "MRD test volume grows 50%+ in 2026 with expanding indications",
+      "Immune Medicine lands a major pharma partnership",
+      "Company achieves profitability in 2026, re-rating from pre-profitability biotech to high-growth diagnostics"
+    ]
+  },
+  "bear_case": {
+    "target": "$10–$13",
+    "risks": [
+      "Test volume growth decelerates as market matures",
+      "Payer pushback or competitive pressure from Natera Signatera erodes pricing",
+      "Cash burn forces dilutive raise below $15"
+    ]
+  },
+  "base_case": {
+    "target": "$18–$22",
+    "assumptions": "MRD grows 35–40% with stable pricing; Immune Medicine stabilizes; breakeven achieved in H1 2027."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 earnings — test volume trends critical"},
+    {"date": "2026-09-01", "event": "Potential Immune Medicine partnership announcement"},
+    {"date": "2026-11-01", "event": "Q3 2026 guidance update on profitability timeline"}
+  ],
+  "key_risks": [
+    "CMS/payor coverage risk for clonoSEQ",
+    "Competition from Natera Signatera and other MRD assays",
+    "Funding risk if profitability is delayed beyond 2026",
+    "Insider selling ($16M over 3 months)",
+    "Biotech sector rate sensitivity"
+  ]
+}

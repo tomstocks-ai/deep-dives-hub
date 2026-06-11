@@ -13,6 +13,7 @@ title: Health
 |--------|---------|--------|-------|--------------|---------|
 | **HIMS** | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | \$31.03 | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
 | **STAA** | STAAR Surgical | <span class="rating-hold">HOLD</span> | \$25.53 | 2026-04-09 | [:material-file-document: Read](STAA.md) |
+| **ADPT** | Adaptive Biotechnologies | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$18.78 | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
 
 ---
 
@@ -35,6 +36,16 @@ Global leader in phakic Implantable Collamer Lenses (ICLs) with 4M+ EVO ICLs sol
 **Bull:** \$35–40 · **Base:** \$24–28 · **Bear:** \$14–16
 
 [:material-arrow-right: Full Deep Dive](STAA.md)
+
+---
+
+### ADPT — Adaptive Biotechnologies · <span class="rating-spec-hold">HOLD / SPEC.</span> · \$18.78
+
+Commercial-stage biotech leading the minimal residual disease (MRD) testing market via its FDA-cleared clonoSEQ assay. MRD revenue grew 46% in FY2025 to \$212M and now drives 95% of total revenue. Q1 2026 test volume surged 41% to 32,595. Company targets profitability in 2026, but the stock has already rallied 80%+ over the past year and RSI sits at 71 (overbought). Insider selling of \$16M in recent months adds caution. Better entry on a pullback to \$16.
+
+**Bull:** \$28–32 · **Base:** \$18–22 · **Bear:** \$10–13
+
+[:material-arrow-right: Full Deep Dive](ADPT.md)
 
 ---
 

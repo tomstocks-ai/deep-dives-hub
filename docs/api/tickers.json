@@ -492,6 +492,18 @@
       "last_updated": "2026-06-11",
       "deep_dive_url": "/deep-dives/QS/",
       "api_url": "/api/QS.json"
+    },
+    {
+      "ticker": "ADPT",
+      "company": "Adaptive Biotechnologies Corporation",
+      "sector": "Health",
+      "industry": "Biotechnology / Immune-Based Diagnostics",
+      "rating": "HOLD / SPECULATIVE",
+      "price": 18.78,
+      "market_cap": "$2.8B",
+      "last_updated": "2026-06-11",
+      "deep_dive_url": "/deep-dives/ADPT/",
+      "api_url": "/api/ADPT.json"
     }
   ]
 }
