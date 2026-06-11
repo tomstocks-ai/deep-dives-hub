@@ -1,0 +1,56 @@
+{
+  "ticker": "QS",
+  "company": "QuantumScape Corporation",
+  "sector": "Technology",
+  "industry": "Solid-State Batteries",
+  "exchange": "NASDAQ",
+  "price": 7.00,
+  "market_cap": "$3.6B",
+  "rating": "HOLD / SPECULATIVE",
+  "last_updated": "2026-06-11",
+  "thesis": "Pre-revenue solid-state battery developer with a proprietary ceramic separator technology and anchor partnership with Volkswagen. Eagle Line pilot production is now operational, but commercial revenue is unlikely before 2027–2028. Binary outcome: successful licensing model or cash-burn-to-zero. Elevated short interest (17%) creates squeeze potential on positive OEM news.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$0",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "-$400M+",
+    "eps_diluted": "-$0.80",
+    "cash": "$1.0B",
+    "fcf": "-$350M"
+  },
+  "bull_case": {
+    "target": "$18–$22",
+    "drivers": [
+      "Eagle Line produces validation cells that meet OEM specs",
+      "Volkswagen and 2+ additional OEMs sign licensing by 2027",
+      "Solid-state batteries gain regulatory preference due to safety",
+      "First commercial revenue in 2027–2028, accelerating through 2030"
+    ]
+  },
+  "bear_case": {
+    "target": "$2–$4",
+    "risks": [
+      "Technical setbacks scaling the ceramic separator",
+      "Volkswagen reduces or delays commitment",
+      "Competition (Toyota, Samsung SDI) reaches market first",
+      "Distressed capital raise heavily dilutes shareholders"
+    ]
+  },
+  "base_case": {
+    "target": "$6–$9",
+    "assumptions": "Technology works but timeline extends to 2029–2030; single major OEM partner; modest licensing revenue by 2030; one or more dilutive capital raises before profitability."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 earnings — Eagle Line operational update"},
+    {"date": "2026-09-01", "event": "2026 technology roadmap reveal (next-gen cell formats)"},
+    {"date": "2026-12-01", "event": "Potential first sample cell deliveries to OEMs for validation"}
+  ],
+  "key_risks": [
+    "Pre-revenue with ~2.5–3 years of cash runway",
+    "Heavy dependence on Volkswagen partnership",
+    "Intensifying competition from Toyota, Samsung SDI, Solid Power",
+    "High dilution risk from future capital raises",
+    "EV demand slowdown reduces OEM urgency for next-gen batteries"
+  ]
+}
