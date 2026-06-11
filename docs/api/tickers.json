@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -480,6 +480,18 @@
       "last_updated": "2026-06-10",
       "deep_dive_url": "/deep-dives/ASPI/",
       "api_url": "/api/ASPI.json"
+    },
+    {
+      "ticker": "QS",
+      "company": "QuantumScape Corporation",
+      "sector": "Technology",
+      "industry": "Solid-State Batteries",
+      "rating": "HOLD / SPECULATIVE",
+      "price": 7.00,
+      "market_cap": "$3.6B",
+      "last_updated": "2026-06-11",
+      "deep_dive_url": "/deep-dives/QS/",
+      "api_url": "/api/QS.json"
     }
   ]
 }

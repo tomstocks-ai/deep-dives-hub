@@ -25,6 +25,8 @@ title: Technology
 | **WOLF** | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | \$53.72 | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
 | **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | \$3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | **PURR** | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$10.97 | 2026-06-03 | [:material-file-document: Read](PURR.md) |
+| **OSS** | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$15.71 | 2026-06-10 | [:material-file-document: Read](OSS.md) |
+| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
 
 ---
 
@@ -177,6 +179,16 @@ AI edge compute pure-play pivoting from low-margin media OEM to ruggedized GPU-a
 **Bull:** \$24–28 · **Base:** \$16–19 · **Bear:** \$8–10
 
 [:material-arrow-right: Full Deep Dive](OSS.md)
+
+---
+
+### QS — QuantumScape Corporation · <span class="rating-spec-hold">HOLD / SPEC.</span> · \$7.00
+
+Pre-revenue solid-state battery developer with a proprietary ceramic separator technology and anchor partnership with Volkswagen. Eagle Line pilot production is now operational, but commercial revenue is unlikely before 2027–2028. Binary outcome: successful licensing model or cash-burn-to-zero. Elevated short interest (17%) creates squeeze potential on positive OEM news.
+
+**Bull:** \$18–\$22 · **Base:** \$6–\$9 · **Bear:** \$2–\$4
+
+[:material-arrow-right: Full Deep Dive](QS.md)
 
 ---
 
