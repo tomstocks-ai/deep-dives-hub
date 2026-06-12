@@ -41,6 +41,7 @@
 | **FNV** | Franco-Nevada Corporation | <span class="badge badge-materials">Materials</span> | <span class="rating-buy">BUY</span> | $218.74 | 2026-06-08 | [:material-file-document: Read](deep-dives/FNV.md) |
 | **OSS** | One Stop Systems, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $15.71 | 2026-06-10 | [:material-file-document: Read](deep-dives/OSS.md) |
 || **ASPI** | ASP Isotopes Inc. | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $6.40 | 2026-06-10 | [:material-file-document: Read](deep-dives/ASPI.md) |
-|| **QS** | QuantumScape Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $7.00 | 2026-06-11 | [:material-file-document: Read](deep-dives/QS.md) |
-||
-|||||||---
+||| **QS** | QuantumScape Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $7.00 | 2026-06-11 | [:material-file-document: Read](deep-dives/QS.md) |
+||| **ADPT** | Adaptive Biotechnologies | <span class="badge badge-health">Health</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$18.78 | 2026-06-11 | [:material-file-document: Read](deep-dives/ADPT.md) |
+|||
+||||||||---
