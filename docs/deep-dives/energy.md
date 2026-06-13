@@ -19,6 +19,7 @@ title: Energy
 | **LEU** | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$161.78 | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
 | **PWR** | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](PWR.md) |
+| **MTZ** | MasTec, Inc. | <span class="rating-hold">HOLD</span> | \$362.97 | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
 
 ---
 
@@ -91,6 +92,16 @@ Largest North American infrastructure contractor with a near-record \$50 billion
 **Bull:** \$850–900 · **Base:** \$750–800 · **Bear:** \$550–600
 
 [:material-arrow-right: Full Deep Dive](PWR.md)
+
+---
+
+### MTZ — MasTec, Inc. · <span class="rating-hold">HOLD</span> · \$362.97
+
+Leading North American infrastructure contractor with record \$20.3B backlog. Q1 2026 revenue \$3.83B (+34% YoY) and adjusted EBITDA \$284M (+73% YoY). FY2026 guidance raised to \$17.5B revenue and \$1.5B adjusted EBITDA. Key beneficiary of broadband expansion, clean energy buildout, and data center electrification. \$3.0B debt load manageable if operating cash flow exceeds \$1B as guided. Valuation at ~62x trailing P/E is elevated — wait for pullback to \$320–\$340 for better entry.
+
+**Bull:** \$480–520 · **Base:** \$380–420 · **Bear:** \$220–260
+
+[:material-arrow-right: Full Deep Dive](MTZ.md)
 
 ---
 
