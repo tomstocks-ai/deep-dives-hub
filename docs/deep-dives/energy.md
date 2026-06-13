@@ -18,6 +18,7 @@ title: Energy
 | **UUUU** | Energy Fuels | <span class="rating-buy">BUY</span> | \$21.51 | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
 | **LEU** | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$161.78 | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
+| **PWR** | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 
 ---
 
@@ -80,6 +81,16 @@ Only U.S.-licensed HALEU producer supplying enriched uranium to nuclear utilitie
 **Bull:** \$280–320 · **Base:** \$200–240 · **Bear:** \$110–140
 
 [:material-arrow-right: Full Deep Dive](LEU.md)
+
+---
+
+### PWR — Quanta Services, Inc. · <span class="rating-buy">BUY</span> · \$707.74
+
+Largest North American infrastructure contractor with a near-record \$50 billion backlog. Q1 2026 revenue \$7.87B (+26% YoY) and adjusted EPS \$2.68 (+51% YoY), both beating consensus by double digits. Primary beneficiary of grid modernization, renewable energy buildout, and data center electrification. FY2026 guidance raised to \$34.7–35.2B revenue. Operating margins at ~4% are thin but expansion opportunity exists vs. peers. Oppenheimer upgraded to Outperform with \$800 PT (May 2026). Debt load of \$6.4B is manageable given cash flow but must be monitored.
+
+**Bull:** \$850–900 · **Base:** \$750–800 · **Bear:** \$550–600
+
+[:material-arrow-right: Full Deep Dive](PWR.md)
 
 ---
 

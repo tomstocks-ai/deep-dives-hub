@@ -1,0 +1,57 @@
+{
+  "ticker": "PWR",
+  "company": "Quanta Services, Inc.",
+  "sector": "Energy",
+  "industry": "Infrastructure Contracting / Grid Modernization",
+  "exchange": "NYSE",
+  "price": 707.74,
+  "market_cap": "$94.3B",
+  "rating": "BUY",
+  "last_updated": "2026-06-13",
+  "thesis": "Quanta Services is the dominant North American infrastructure contractor with a near-record $50 billion backlog. The company is the primary beneficiary of secular trends in grid modernization, renewable energy buildout, and data center electrification. Q1 2026 revenue grew 26% YoY to $7.87B with adjusted EPS of $2.68 (+51% YoY), both beating consensus by double digits. Valuation at ~35x forward earnings is elevated but justified by the backlog visibility and growth trajectory. The key risk is thin operating margins (~4%) which leave little room for error on tariffs, labor inflation, or project overruns.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$34.7–35.2B",
+    "revenue_growth": "+20–25%",
+    "gross_margin": "~15%",
+    "net_income": "$1.40–1.50B",
+    "eps_diluted": "$2.68 (Q1 2026 adjusted)",
+    "cash": "$440M",
+    "fcf": "Lumpy; guided for improvement"
+  },
+  "bull_case": {
+    "target": "$850–$900",
+    "drivers": [
+      "Grid spending accelerates under federal infrastructure bills",
+      "Margins expand toward peer levels (6%+) as scale improves",
+      "Data center backlog grows 40%+ on hyperscaler demand",
+      "M&A continues to add accretive capabilities and revenue"
+    ]
+  },
+  "bear_case": {
+    "target": "$550–$600",
+    "risks": [
+      "Tariffs and labor inflation compress already-thin margins",
+      "Backlog burns without replacement contracts",
+      "$6.4B debt load becomes burdensome if rates stay elevated",
+      "Valuation compression on any guidance miss"
+    ]
+  },
+  "base_case": {
+    "target": "$750–$800",
+    "assumptions": "Revenue grows 20–25% annually through 2027. Margins stabilize at 4.5–5%. Debt managed via operating cash flow. No equity raise needed."
+  },
+  "catalysts": [
+    {"date": "2026-07-30", "event": "Q2 2026 earnings release"},
+    {"date": "2026-08-15", "event": "Potential data center contract announcements"},
+    {"date": "2026-10-30", "event": "Q3 2026 earnings release"},
+    {"date": "2027-01-15", "event": "FY2027 guidance and backlog update"}
+  ],
+  "key_risks": [
+    "Thin operating margins (~4%) leave little buffer for cost inflation",
+    "$6.4B debt load is material if interest rates stay elevated",
+    "Customer concentration among top-20 utilities",
+    "Fixed-price contract overruns are an industry hazard",
+    "Valuation at 35x forward earnings leaves no room for error"
+  ]
+}
