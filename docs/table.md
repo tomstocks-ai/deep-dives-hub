@@ -44,5 +44,6 @@
 | **QS** | QuantumScape Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $7.00 | 2026-06-11 | [:material-file-document: Read](deep-dives/QS.md) |
 | **ADPT** | Adaptive Biotechnologies | <span class="badge badge-health">Health</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$18.78 | 2026-06-11 | [:material-file-document: Read](deep-dives/ADPT.md) |
 | **PWR** | Quanta Services, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](deep-dives/PWR.md) |
+| **MTZ** | MasTec, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-hold">HOLD</span> | \$362.97 | 2026-06-13 | [:material-file-document: Read](deep-dives/MTZ.md) |
 
 ---

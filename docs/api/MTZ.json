@@ -1,0 +1,57 @@
+{
+  "ticker": "MTZ",
+  "company": "MasTec, Inc.",
+  "sector": "Energy",
+  "industry": "Infrastructure Construction / Energy & Utilities",
+  "exchange": "NYSE",
+  "price": 362.97,
+  "market_cap": "$28.3B",
+  "rating": "HOLD",
+  "last_updated": "2026-06-13",
+  "thesis": "MasTec is a leading North American infrastructure contractor benefiting from secular tailwinds in grid modernization, broadband expansion, clean energy buildout, and data center electrification. Q1 2026 revenue grew 34% YoY to $3.83B with adjusted EBITDA of $284M (+73% YoY) and record backlog of $20.3B. FY2026 guidance raised to $17.5B revenue and $1.5B adjusted EBITDA. Valuation at ~62x trailing P/E and ~21x EV/EBITDA is elevated, requiring continued execution. The $3.0B debt load is manageable if operating cash flow exceeds $1B as guided. HOLD at current levels — wait for a pullback to $320–$340 for better entry.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$17.5B",
+    "revenue_growth": "+22%",
+    "gross_margin": "~15%",
+    "net_income": "$69.7M (Q1 2026 GAAP)",
+    "eps_diluted": "$1.39 (Q1 2026 adjusted)",
+    "cash": "$396M",
+    "fcf": ">$1B operating cash flow guided for FY2026"
+  },
+  "bull_case": {
+    "target": "$480–$520",
+    "drivers": [
+      "Infrastructure spending accelerates under federal programs (BEAD, IRA, grid hardening)",
+      "Margins expand to 10% as project mix improves and scale benefits kick in",
+      "Data center and clean energy backlog grows 40%+ annually",
+      "Operating cash flow exceeds $1B, enabling rapid deleveraging"
+    ]
+  },
+  "bear_case": {
+    "target": "$220–$260",
+    "risks": [
+      "Infrastructure spending slows due to economic weakness or political gridlock",
+      "Tariffs and labor inflation compress margins back to 6–7%",
+      "Backlog burns without replacement; revenue growth drops to single digits",
+      "Debt covenants tighten; equity dilution risk emerges"
+    ]
+  },
+  "base_case": {
+    "target": "$380–$420",
+    "assumptions": "Revenue grows 15% annually through 2028 on backlog execution. EBITDA margins stabilize at 8.5–9.0%. Debt is managed via operating cash flow. No equity raise needed."
+  },
+  "catalysts": [
+    {"date": "2026-07-30", "event": "Q2 2026 earnings release — watch margin trajectory and backlog update"},
+    {"date": "2026-08-15", "event": "Potential data center or clean energy contract announcements"},
+    {"date": "2026-10-30", "event": "Q3 2026 earnings release"},
+    {"date": "2027-01-15", "event": "FY2027 guidance and backlog update"}
+  ],
+  "key_risks": [
+    "Project execution risk on large fixed-price contracts",
+    "$3.0B debt load is material if EBITDA growth stalls",
+    "Labor availability and wage inflation are persistent cost pressures",
+    "Tariffs on steel and equipment directly impact material costs",
+    "Valuation at 62x trailing P/E leaves no room for error"
+  ]
+}

@@ -516,6 +516,18 @@
       "last_updated": "2026-06-13",
       "deep_dive_url": "/deep-dives/PWR/",
       "api_url": "/api/PWR.json"
+    },
+    {
+      "ticker": "MTZ",
+      "company": "MasTec, Inc.",
+      "sector": "Energy",
+      "industry": "Infrastructure Construction / Energy & Utilities",
+      "rating": "HOLD",
+      "price": 362.97,
+      "market_cap": "$28.3B",
+      "last_updated": "2026-06-13",
+      "deep_dive_url": "/deep-dives/MTZ/",
+      "api_url": "/api/MTZ.json"
     }
   ]
 }
