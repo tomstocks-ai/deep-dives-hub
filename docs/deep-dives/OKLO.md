@@ -241,33 +241,33 @@ Traditional DCF doesn't work well here because:
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-OKLO/" rel="noopener nofollow" target="_blank"><span class="blue-text">OKLO stock chart</span></a><span class="trademark"> by TradingView</span></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
-  "allow_symbol_change": true,
-  "calendar": false,
-  "details": false,
-  "hide_side_toolbar": true,
-  "hide_top_toolbar": false,
-  "hide_legend": false,
-  "hide_volume": false,
-  "hotlist": false,
-  "interval": "D",
-  "locale": "en",
-  "save_image": true,
-  "style": "1",
-  "symbol": "NYSE:OKLO",
-  "theme": "dark",
-  "timezone": "Etc/UTC",
-  "backgroundColor": "#0F0F0F",
-  "gridColor": "rgba(242, 242, 242, 0.06)",
-  "watchlist": [],
-  "withdateranges": false,
-  "compareSymbols": [],
-  "studies": [
-    "STD;RSI",
-    "STD;EMA"
-  ],
-  "autosize": true,
-  "height": 500
-}
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NYSE:OKLO",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+   }
   </script>
 </div>
 
