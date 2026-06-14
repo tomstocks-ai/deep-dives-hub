@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-14",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -528,6 +528,18 @@
       "last_updated": "2026-06-13",
       "deep_dive_url": "/deep-dives/MTZ/",
       "api_url": "/api/MTZ.json"
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "sector": "Technology",
+      "industry": "Cloud Observability / SaaS",
+      "rating": "HOLD",
+      "price": 229.90,
+      "market_cap": "$83B",
+      "last_updated": "2026-06-14",
+      "deep_dive_url": "/deep-dives/DDOG/",
+      "api_url": "/api/DDOG.json"
     }
   ]
 }
