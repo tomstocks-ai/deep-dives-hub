@@ -182,29 +182,41 @@ The company operates a full-stack platform that spans hardware (quantum computer
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-INFQ/" rel="noopener nofollow" target="_blank"><span class="blue-text">INFQ stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:INFQ",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-![INFQ RSI Chart](../assets/images/INFQ_rsi.png)
-
-- **Current RSI:** ~55 (neutral zone)
-- **Signal:** NEUTRAL — Limited trading history since February 2026 IPO makes RSI less reliable. Price has consolidated in the \$11-\$14 range after initial post-IPO volatility.
-- **Note:** INFQ began trading on February 17, 2026. Technical indicators require more data history for meaningful interpretation.
-
-### Price Action Analysis
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | ~\$15.80 | Post-IPO peak; resistance until fundamental catalyst |
-| **Recent High** | ~\$14.50 | April 2026 high following DARPA contract news |
-| **Current Price** | \$12.02 | Trading near middle of post-IPO range |
-| **Support** | ~\$10.50 | Multiple tests held; IPO reference price area |
-| **All-Time Low** | ~\$8.50 | Initial post-IPO low; unlikely to retest without major negative catalyst |
-
-**Volume Profile:** Average daily volume is building as institutional awareness grows. Volume spikes on news days (contract awards, analyst initiations) indicate growing interest.
-
-**Trend Assessment:** Sideways consolidation since IPO. No clear trend established. Price is waiting for fundamental catalysts (earnings, contract awards, technical milestones) to break out of the \$10-\$15 range.
-
----
 
 ## 7. RECOMMENDATION
 

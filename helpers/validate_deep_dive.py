@@ -155,8 +155,99 @@ def validate_deep_dive(md_path: str) -> dict:
     if json_path.exists():
         try:
             with open(json_path, "r", encoding="utf-8") as f:
-                json.load(f)
+                data = json.load(f)
             results["passed"].append(f"JSON file valid: {json_path.name}")
+
+            # Required top-level keys and expected types
+            required_keys = {
+                "ticker": str, "company": str, "sector": str,
+                "industry": str, "exchange": str, "price": (int, float),
+                "market_cap": str, "rating": str, "last_updated": str,
+                "thesis": str, "financials": dict, "bull_case": dict,
+                "bear_case": dict, "base_case": dict, "catalysts": list,
+                "key_risks": list,
+            }
+            for key, expected_type in required_keys.items():
+                if key not in data:
+                    results["failed"].append(f"JSON missing required key: '{key}'")
+                elif not isinstance(data[key], expected_type):
+                    results["failed"].append(
+                        f"JSON key '{key}' has wrong type: expected {expected_type}, got {type(data[key]).__name__}"
+                    )
+
+            # Check for empty/placeholder values in top-level strings
+            placeholder_re = re.compile(r"^\{.*\}$")
+            for key in ("ticker", "company", "sector", "industry", "exchange",
+                        "market_cap", "rating", "last_updated", "thesis"):
+                val = data.get(key)
+                if isinstance(val, str) and (not val.strip() or placeholder_re.match(val)):
+                    results["failed"].append(f"JSON key '{key}' has empty/placeholder value: '{val}'")
+
+            # Validate financials sub-keys
+            financials_keys = ["fiscal_year", "revenue", "revenue_growth",
+                               "gross_margin", "net_income", "eps_diluted", "cash", "fcf"]
+            if isinstance(data.get("financials"), dict):
+                for fk in financials_keys:
+                    if fk not in data["financials"]:
+                        results["failed"].append(f"JSON financials missing key: '{fk}'")
+                    elif not str(data["financials"][fk]).strip():
+                        results["failed"].append(f"JSON financials key '{fk}' is empty")
+
+            # Validate bull_case structure
+            if isinstance(data.get("bull_case"), dict):
+                if "target" not in data["bull_case"]:
+                    results["failed"].append("JSON bull_case missing 'target'")
+                if "drivers" not in data["bull_case"]:
+                    results["failed"].append("JSON bull_case missing 'drivers'")
+                elif not isinstance(data["bull_case"]["drivers"], list) or len(data["bull_case"]["drivers"]) == 0:
+                    results["failed"].append("JSON bull_case 'drivers' must be a non-empty list")
+
+            # Validate bear_case structure
+            if isinstance(data.get("bear_case"), dict):
+                if "target" not in data["bear_case"]:
+                    results["failed"].append("JSON bear_case missing 'target'")
+                if "risks" not in data["bear_case"]:
+                    results["failed"].append("JSON bear_case missing 'risks'")
+                elif not isinstance(data["bear_case"]["risks"], list) or len(data["bear_case"]["risks"]) == 0:
+                    results["failed"].append("JSON bear_case 'risks' must be a non-empty list")
+
+            # Validate base_case structure
+            if isinstance(data.get("base_case"), dict):
+                if "target" not in data["base_case"]:
+                    results["failed"].append("JSON base_case missing 'target'")
+                if "assumptions" not in data["base_case"]:
+                    results["failed"].append("JSON base_case missing 'assumptions'")
+
+            # Validate catalysts entries
+            if isinstance(data.get("catalysts"), list):
+                if len(data["catalysts"]) == 0:
+                    results["failed"].append("JSON 'catalysts' list is empty")
+                for i, cat in enumerate(data["catalysts"]):
+                    if not isinstance(cat, dict):
+                        results["failed"].append(f"JSON catalysts[{i}] is not an object")
+                    elif "date" not in cat or "event" not in cat:
+                        results["failed"].append(f"JSON catalysts[{i}] missing 'date' or 'event'")
+
+            # Validate key_risks is non-empty
+            if isinstance(data.get("key_risks"), list) and len(data["key_risks"]) == 0:
+                results["failed"].append("JSON 'key_risks' list is empty")
+
+            # Validate last_updated date format
+            last_updated = data.get("last_updated", "")
+            if isinstance(last_updated, str) and last_updated:
+                if not re.match(r"^\d{4}-\d{2}-\d{2}$", last_updated):
+                    results["failed"].append(f"JSON 'last_updated' not in YYYY-MM-DD format: '{last_updated}'")
+
+            # Validate price is positive
+            price = data.get("price")
+            if isinstance(price, (int, float)) and price <= 0:
+                results["failed"].append(f"JSON 'price' should be positive, got {price}")
+
+            # If all sub-checks passed (no new failures beyond the initial parse pass)
+            json_failures = [f for f in results["failed"] if f.startswith("JSON")]
+            if not json_failures:
+                results["passed"].append("JSON structure and values are complete and consistent")
+
         except json.JSONDecodeError as e:
             results["failed"].append(f"JSON file invalid: {json_path.name} — {e}")
     else:

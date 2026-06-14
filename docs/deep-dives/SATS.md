@@ -284,47 +284,41 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ## 6. Technical Analysis
 
-### 6.1 Price Action Summary
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATS/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:SATS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value |
-|--------|-------|
-| Current Price | \$128.68 |
-| 52-Week High | \$132.25 |
-| 52-Week Low | \$14.90 |
-| YTD Return | +497.68% |
-| 3-Month Return | +14.71% |
-| 1-Month Return | +16.08% |
-| Average Weekly Volatility | 8.4% |
-| Beta | ~1.0 |
-
-### 6.2 Support and Resistance Levels
-
-| Level | Price Zone | Significance |
-|-------|------------|--------------|
-| Strong Resistance | \$132-135 | 52-week highs, psychological barrier |
-| Near Resistance | \$130 | Recent after-hours high |
-| Current Price | \$128.68 | Trading near highs |
-| Near Support | \$115-120 | Recent consolidation zone |
-| Strong Support | \$100 | Post-deal-announcement level |
-| Critical Support | \$85 | Gap-fill from major move |
-
-### 6.3 Volume Analysis
-
-- **Average Volume:** Elevated due to transformation news
-- **Institutional Activity:** Significant accumulation following deal announcements
-- **Short Interest:** Previously elevated; likely decreased post-deal given fundamental transformation
-
-### 6.4 Moving Averages
-
-| Moving Average | Estimated Level | Status |
-|----------------|-----------------|--------|
-| 20-day EMA | ~\$115 | Well above |
-| 50-day SMA | ~\$105 | Well above |
-| 200-day SMA | ~\$65 | Well above |
-
-**Technical Bias:** Bullish. Stock is in a strong uptrend with price above all major moving averages. However, overbought conditions exist given the 500%+ move.
-
----
 
 ## 7. Sentiment & Flows
 

@@ -246,46 +246,41 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 
 ## 6. Technical Analysis
 
-### Key Price Levels
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FCX/" rel="noopener nofollow" target="_blank"><span class="blue-text">FCX stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:FCX",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | \$69.75 | Feb 25, 2026 |
-| **Resistance 1** | \$65.00 | Recent consolidation top |
-| **Resistance 2** | \$69.75 | All-time high |
-| **Current Price** | \$61.38 | Neutral zone |
-| **Support 1** | \$58.00 | 20-day EMA |
-| **Support 2** | \$54.00 | Major pivot level |
-| **Support 3** | \$50.00 | 200-day MA / psychological |
-
-### Moving Averages
-- **5-day EMA:** \$60.80 - PRICE ABOVE ✓
-- **20-day EMA:** \$58.50 - PRICE ABOVE ✓
-- **50-day EMA:** \$56.20 - PRICE ABOVE ✓
-- **200-day MA:** \$49.80 - PRICE ABOVE ✓
-
-**Trend Assessment:** STRONGLY BULLISH - Price above all major moving averages
-
-### Volume Analysis
-- Average Daily Volume: 12-15M shares
-- Recent volume on breakouts: 20M+ shares (confirming conviction)
-- Volume pattern: Higher on up-days than down-days (accumulation)
-
-### Chart Patterns
-- **1-Year Pattern:** Ascending channel, +63% return
-- **YTD Performance:** +16% (outperforming S&P 500)
-- **Recent Pattern:** Double-bottom formation near \$54 support
-- **Measured Move Target:** \$72-75 (if \$69.75 ATH breaks)
-
-### Technical Indicators
-| Indicator | Reading | Signal |
-|-----------|---------|--------|
-| RSI (14-day) | 62 | Neutral-Bullish |
-| MACD | Positive | Bullish |
-| Bollinger Bands | Upper half | Bullish momentum |
-| ADX | 28 | Trending (not ranging) |
-
----
 
 ## 7. Sentiment & Flows
 

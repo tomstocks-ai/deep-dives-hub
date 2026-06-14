@@ -80,17 +80,41 @@ URA is valued relative to uranium spot prices and miner earnings.
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
-![URA RSI Chart](../assets/images/URA_rsi.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-URA/" rel="noopener nofollow" target="_blank"><span class="blue-text">URA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "AMEX:URA",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-- **Current RSI:** 35.79
-- **Signal:** NEAR OVERSOLD
-- **Interpretation:** URA has corrected ~35% from 2025 highs near \$70. RSI near 36 suggests selling exhaustion. Previous bounces from 30–35 RSI were sharp (March 2025, October 2024). Volume declining on the pullback — healthy consolidation.
-
-### Key Levels
-- **Support:** \$40 (psychological), \$38 (2024 breakout level)
-- **Resistance:** \$50 (50-day MA), \$58 (prior high), \$70 (2025 peak)
-- **Trend:** Pullback within a multi-year uptrend. Price above 200-week MA.
 
 ## 7. SENTIMENT & FLOWS
 

@@ -119,22 +119,41 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$161.78
-- **52-Week High:** \$464.25 (down ~65% from highs)
-- **52-Week Low:** \$130.81 (up ~24% from lows)
-- **Trend:** Downtrend from late-2025 highs. Bounced off \$130 support in early 2026.
-- **Key Support:** \$130–\$135 (52-week low zone)
-- **Key Resistance:** \$200 (psychological), \$250 (prior consolidation)
-- **Volume:** Elevated on down days — distribution pattern from highs.
-- **Moving Averages:** Price below 50-day and 200-day MAs. Bearish trend structure.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-LEU/" rel="noopener nofollow" target="_blank"><span class="blue-text">LEU stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:LEU",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-![LEU RSI Chart](../assets/images/LEU_rsi.png)
-
-- **Current RSI:** 38.46
-- **Signal:** NEUTRAL — approaching oversold but not there yet. RSI has been declining with price, showing no positive divergence.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

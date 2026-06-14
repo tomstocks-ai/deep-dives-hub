@@ -298,57 +298,41 @@ The valuation is highly sensitive to:
 
 ## 6. TECHNICAL ANALYSIS
 
-### Price Action Summary
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-IMSR/" rel="noopener nofollow" target="_blank"><span class="blue-text">IMSR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:IMSR",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| Current Price | **\$6.24** | Near 52-week lows |
-| 52-Week High | **\$31.50** (Oct 15, 2025) | SPAC merger enthusiasm peak |
-| 52-Week Low | **\$5.33** (Mar 19, 2026) | Recent capitulation low |
-| % Below High | **-80%** | Significant correction from merger peak |
-| Beta | **0.47** | Less volatile than market |
-| 1-Year Return | **-41.9%** | Underperforming market |
-
-### Support and Resistance Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Strong Resistance** | \$12.00 | Analyst price target floor |
-| **Resistance** | \$8.00 | Recent consolidation area |
-| **Current** | \$6.24 | — |
-| **Support** | \$5.77 | All-time low (March 2026) |
-| **Strong Support** | \$5.33 | Potential psychological floor |
-
-### Volume Analysis
-
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| Average Volume | **2.8M shares/day** | Moderate liquidity |
-| Recent Volume | **1.2M shares/day** | Below average—consolidation phase |
-| Float | ~80M shares (est.) | Adequate for trading |
-
-**What this means:** The stock has experienced a severe correction from post-SPAC highs (\$31.50 to \$6.24). This creates potential value opportunity but also indicates significant selling pressure. Low volatility (beta 0.47) suggests relatively stable trading despite the decline.
-
-### Moving Averages
-
-Based on price action patterns:
-
-| Indicator | Status | Signal |
-|-----------|--------|--------|
-| Price vs. 50-day MA | Below | Short-term bearish |
-| Price vs. 200-day MA | Below | Long-term bearish |
-| Trend Structure | Down | No clear reversal yet |
-| RSI (implied) | Oversold | Potential bounce territory |
-
-**TradingView Technical Rating:** Sell (as of recent data)
-
-### Chart Patterns
-
-- **Pattern:** Steep decline from SPAC merger highs followed by consolidation
-- **Volume:** Declining volume on down moves suggests selling exhaustion
-- **Potential Pattern:** Potential double-bottom formation around \$5.77-\$6.00
-
----
 
 ## 7. SENTIMENT & FLOWS
 

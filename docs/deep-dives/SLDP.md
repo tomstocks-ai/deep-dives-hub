@@ -272,72 +272,41 @@ Since traditional metrics don't work, analysts typically use:
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (Relative Strength Index) Analysis
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SLDP/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLDP stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:SLDP",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-![SLDP RSI Chart](/memory/SLDP_RSI_2026-04-14.png)
-
-**Latest RSI Readings (Last 10 Days):**
-
-| Date | Close | RSI | Signal |
-|------|-------|-----|--------|
-| Mar 31 | \$3.00 | 36.73 | Approaching oversold |
-| Apr 1 | \$2.94 | 36.73 | Stabilizing |
-| Apr 2 | \$2.94 | 38.71 | Bouncing |
-| Apr 6 | \$2.91 | 34.07 | Near oversold |
-| Apr 7 | \$2.84 | 31.96 | **Near oversold** |
-| Apr 8 | \$3.00 | 44.34 | Rebound |
-| Apr 9 | \$2.96 | 40.57 | Consolidation |
-| Apr 10 | \$2.95 | 45.26 | Building strength |
-| Apr 13 | \$2.98 | 41.57 | Neutral |
-| Apr 14 | **\$3.15** | **52.94** | Rising momentum |
-
-**Key Technical Observations:**
-
-1. **RSI Currently at 52.94** — Neutral territory, neither overbought nor oversold
-2. **Recent Oversold Bounce** — RSI hit 31.96 on April 7 (near the 30 oversold threshold), followed by a bounce to current levels
-3. **Trend Reversal Signal** — The move from ~32 to ~53 in one week suggests short-term momentum shift
-4. **Historical Context** — Stock has been in a downtrend since November 2025 highs (\$8+), but showing signs of stabilization
-
-**Price Action Context:**
-
-| Metric | Value |
-|--------|-------|
-| **52-Week Range** | \$0.92 — \$8.86 |
-| **Current Position** | ~35% of 52-week range |
-| **YTD Return** | +29.41% (outperforming S&P 500's +0.92%) |
-| **1-Year Return** | +220.51% |
-| **Volume (Apr 14)** | 5.4M shares |
-| **Average Volume** | 5.1M shares |
-
-**Volume Analysis:**
-- Recent trading volume is in line with averages—no unusual institutional activity
-- No major volume spikes suggest accumulation or distribution
-
-**Key Support/Resistance Levels:**
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Major Resistance** | \$5.50-6.00 | Previous support turned resistance (Jan 2026) |
-| **Minor Resistance** | \$4.00 | Psychological level, recent highs |
-| **Current Price** | \$3.15 | Trading near recent consolidation |
-| **Minor Support** | \$2.80-2.90 | April lows |
-| **Major Support** | \$2.00 | Key psychological level |
-| **52-Week Low** | \$0.92 | Extreme downside (unlikely without catastrophic failure) |
-
-### Moving Averages
-
-| Period | Approximate Level | Current Status |
-|--------|-------------------|----------------|
-| **20-Day EMA** | ~\$3.20 | Price testing from below |
-| **50-Day EMA** | ~\$3.80 | Below, indicating medium-term downtrend |
-| **200-Day EMA** | ~\$2.80 | Above, indicating long-term uptrend intact |
-
-**Technical Summary:**
-- Short-term: Neutral to slightly bullish (RSI bounce from oversold)
-- Medium-term: Bearish (below 50-day MA)
-- Long-term: Bullish (above 200-day MA, strong 1-year performance)
-
----
 
 ## 7. SENTIMENT & FLOWS
 

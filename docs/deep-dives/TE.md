@@ -275,54 +275,41 @@ hide:
 
 ## 5. TECHNICAL ANALYSIS
 
-### Price Action
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-TE/" rel="noopener nofollow" target="_blank"><span class="blue-text">TE stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:TE",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-**Current Trading Range:** \$7.42 - \$8.05 (recent sessions)
-**52-Week Range:** Data limited (recent transformation)
-**Market Cap:** ~\$1.3-2.0B (varies by source)
-
-### Moving Averages
-
-| Indicator | Status | Signal |
-|-----------|--------|--------|
-| 200-day MA | Recently crossed above | **Bullish** |
-| Short-term trend | Declining from Jan peak | Bearish |
-| Jan 28 pivot | -12.86% from pivot | Sell signal active |
-
-**StockInvest.us Analysis:**
-- Sell signal issued from Jan 28, 2026 pivot
-- Further fall indicated until new bottom pivot
-- 90% probability of price between \$18.18-\$25.12 in 3 months (conflicting signals)
-
-### Support & Resistance
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| Resistance 1 | \$8.05 | Recent high |
-| Resistance 2 | \$8.50 | Psychological level |
-| Current Price | ~\$7.60 | Trading range |
-| Support 1 | \$7.42 | Recent low |
-| Support 2 | \$7.00 | Psychological |
-| Support 3 | \$6.00 | Analyst low target |
-
-**Volume Patterns:**
-- Elevated volume during news events
-- Lower volume in consolidation periods
-- Earnings typically drive volume spikes
-
-### Post-Earnings Volatility Expectations
-
-**Historical Volatility:** High
-- Solar sector beta typically 1.5-2.0x market
-- Small-cap manufacturing stocks amplified moves
-- Policy news creates additional volatility
-
-**Expected Moves:**
-- Beat & Raise: +15-25% potential
-- Miss/Soft Guidance: -15-25% risk
-- In-Line: ±5-10% range
-
----
 
 ## 6. STRATEGIC SCENARIOS
 

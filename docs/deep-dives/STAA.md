@@ -157,28 +157,41 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ## 6. TECHNICAL ANALYSIS
 
-### Current Technical Picture
-- **Stock Price:** \$26.22 (+25% today on Q1 pre-announcement)
-- **52-Week Range:** \$14.69 - \$30.81
-- **TradingView Rating:** BUY (based on technical indicators)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-STAA/" rel="noopener nofollow" target="_blank"><span class="blue-text">STAA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:STAA",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### Key Levels
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Resistance 1** | \$28.00 | Near-term ceiling; recent highs |
-| **Resistance 2** | \$31.00 | 52-week high; psychological barrier |
-| **Current Price** | \$26.22 | Post-announcement level |
-| **Support 1** | \$20.00 | Key technical support |
-| **Support 2** | \$16.00 | Major low; Wells Fargo target |
-
-### Technical Observations
-- **RSI:** 63 (approaching overbought after today's move)
-- **Volume:** Heavy volume on Q1 announcement — institutional interest
-- **Trend:** Broke above 50-day moving average; testing 200-day
-
-**What this means:** The stock has momentum but is approaching resistance. A break above \$28-31 would be very bullish; failure to hold \$20 would be bearish.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

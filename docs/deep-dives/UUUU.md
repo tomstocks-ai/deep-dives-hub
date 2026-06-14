@@ -367,63 +367,41 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ## 6. Technical Analysis
 
-### Price Action Overview
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-UUUU/" rel="noopener nofollow" target="_blank"><span class="blue-text">UUUU stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "AMEX:UUUU",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value |
-|--------|-------|
-| Current Price | \$17.75 |
-| 52-Week Range | \$3.20 - \$27.90 |
-| YTD Performance | +24.91% |
-| 1-Year Performance | +370.82% |
-| 3-Year Performance | +218.10% |
-| Beta | 1.57 (high volatility) |
-
-### Key Technical Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | \$27.90 | Resistance; tested in early 2025 |
-| **Near-term Resistance** | \$22.54 | Previous consolidation area |
-| **Secondary Resistance** | \$23.89 - \$26.73 | Fibonacci/extension levels |
-| **Current Price** | \$17.75 | Trading near support zone |
-| **Near-term Support** | \$18.47 | Accumulated volume level |
-| **Key Support** | \$16.93 | Recent low (April 2, 2025) |
-| **Major Support** | \$15.00-15.50 | Psychological + structural level |
-| **200-Day Moving Avg** | ~\$10-12 | Long-term trend support |
-
-### Moving Averages
-
-| Period | Typical Level | Current Status |
-|--------|---------------|----------------|
-| 20-day EMA | ~\$19-20 | Price below; short-term bearish |
-| 50-day SMA | ~\$16-18 | Price near; consolidation |
-| 200-day SMA | ~\$10-12 | Well above; long-term bullish |
-
-**Technical Summary:**
-- Stock in **correction phase** after parabolic 2024-2025 run
-- Pullback from \$27.90 highs to \$17.75 (-36%) creates opportunity
-- Trading near key support cluster (\$16.93-\$18.47)
-- Volume remains elevated indicating active interest
-- Long-term trend remains bullish; short-term consolidation
-
-### Chart Pattern Analysis
-
-**Pattern:** Ascending channel with correction
-- 2024-2025: Strong uptrend from ~\$5 to ~\$28
-- Current: Pullback to test support; flag/consolidation forming
-- Volume: Declining on pullback (potentially constructive)
-
-**Indicators:**
-- RSI: Likely neutral-oversold after correction
-- MACD: Bearish crossover possible; watch for divergence
-- Bollinger Bands: Price near lower band; potential mean reversion
-
-**Volume Analysis:**
-- Average Volume: 13.6M shares/day
-- Recent Volume: 7.4M (below average; consolidation)
-- High volume on up-days suggests institutional accumulation
-
----
 
 ## 7. Sentiment & Flows
 

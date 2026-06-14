@@ -236,51 +236,41 @@ Traditional DCF doesn't work well here because:
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (Relative Strength Index) Analysis
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-OKLO/" rel="noopener nofollow" target="_blank"><span class="blue-text">OKLO stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:OKLO",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Date | Close Price | RSI | Signal |
-|------|-------------|-----|--------|
-| 3/30/2026 | \$45.58 | 21.87 | ⚠️ OVERSOLD |
-| 4/1/2026 | \$48.07 | 30.18 | ⚠️ Near Oversold |
-| 4/7/2026 | \$46.59 | 25.58 | ⚠️ OVERSOLD |
-| 4/14/2026 | \$58.58 | 55.13 | Neutral |
-
-**Current RSI: 55.13** (Neutral territory)
-
-**Key Observations:**
-- Stock hit **deeply oversold** levels (RSI ~22) in late March
-- Strong bounce from \$45 to \$58 in two weeks (+30%)
-- RSI now in neutral zone - room to run higher or consolidate
-- Recent momentum shift suggests bottom may be in
-
-### Price Action & Key Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| 52-Week High | \$193.84 | All-time high post-SPAC (likely blow-off top) |
-| Recent Resistance | \$75-80 | March 2025 consolidation area |
-| Current Price | \$58.58 | Post-bounce level |
-| Support | \$45-48 | Recent lows, strong buying interest |
-| 52-Week Low | \$19.89 | Absolute floor ( unlikely to retest) |
-
-**Volume Profile:**
-- Average Volume: ~9.2M shares/day
-- Recent sessions showing elevated volume on up-days
-- Institutional interest likely increasing post-Meta announcement
-
-### Moving Averages
-- **Stock is below** all major moving averages (50-day, 200-day)
-- This suggests the longer-term trend is still down from the \$193 peak
-- Recent bounce may be establishing a new base
-
-### Chart Pattern
-- **Cup and handle** potential forming from March lows
-- **Double bottom** at \$45-46 zone
-- Break above \$65 would confirm trend reversal
-
-**Technical Summary:** Stock is recovering from oversold conditions. The brutal selloff from \$193 to \$45 appears to have found a floor. RSI neutralizes risk of chasing here, but momentum is improving.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

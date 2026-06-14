@@ -212,48 +212,41 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 
 ## 6. Technical Analysis
 
-### Price Action Summary
-| Metric | Value |
-|--------|-------|
-| **Current Price** | \$44.32 |
-| **52-Week High** | \$46.95 (9.63% above current) |
-| **52-Week Low** | \$6.27 (620% below current) |
-| **YTD Return** | +119.51% |
-| **1-Year Return** | +465.31% |
-| **5-Year Return** | +1,624.51% |
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AEHR/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEHR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:AEHR",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### Moving Averages
-| MA Level | Distance from Current |
-|----------|----------------------|
-| **SMA 20** | +34.24% (price above) |
-| **SMA 50** | +49.67% (price above) |
-| **SMA 200** | +101.20% (price above) |
-
-**Technical Assessment:** Strong uptrend with price well above all major moving averages. Significant momentum.
-
-### Support & Resistance Levels
-- **Immediate Resistance:** \$46.95 (52-week high)
-- **Next Resistance:** \$50.00 (psychological + analyst target)
-- **Immediate Support:** \$38-40 (prior consolidation zone)
-- **Strong Support:** \$30.00 (Feb 2026 breakout level)
-- **Major Support:** \$20.00 (2024-2025 trading range)
-
-### Volume Analysis
-- **Average Volume:** 1.63M shares/day
-- **Recent Volume:** 3.56M - 5.39M (elevated, 2-3x average)
-- **Relative Volume:** 6.00x (significant institutional/retail interest)
-
-### Technical Indicators
-- **RSI (14):** 67.39 (approaching overbought but not extreme)
-- **Beta:** 2.29-2.40 (high volatility vs. market)
-- **ATR (14):** \$4.86 (high daily volatility)
-
-### Chart Pattern
-- **Breakout:** Stock broke out above \$30 resistance in Feb 2026
-- **Trend:** Strong uptrend with higher highs and higher lows
-- **Volatility:** 14.43% weekly, 12.08% monthly (elevated)
-
----
 
 ## 7. Sentiment & Flows
 

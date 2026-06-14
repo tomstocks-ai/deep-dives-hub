@@ -265,53 +265,41 @@ At \$120/share, the market is pricing in approximately **15% long-term revenue g
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI Analysis (14-Day)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-SNOW/" rel="noopener nofollow" target="_blank"><span class="blue-text">SNOW stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:SNOW",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-**RSI Chart:**
-![SNOW RSI Chart](memory/SNOW_RSI_20260410.png)
-
-**Key Technical Metrics:**
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Current RSI | 16.43 | Severely Oversold |
-| RSI Trend | Falling | Weak momentum |
-| Distance to Oversold (30) | -13.6 points | Deep oversold |
-| Distance to Overbought (70) | +53.6 points | Significant room |
-
-**⚠️ OVERSOLD ALERT:** RSI of 16.43 is in the bottom 5% of readings historically. The stock is extremely oversold on a short-term basis, suggesting potential for mean reversion bounce.
-
-**Last 5 RSI Readings:** 25.88 → 25.52 → 27.29 → 17.69 → 16.43
-- Downward trend accelerating into oversold territory
-- Typically precedes short-term bounce within 1-2 weeks
-
-### Price Action Analysis
-
-**Key Levels:**
-| Level | Price | Significance |
-|-------|-------|--------------|
-| 52-Week High | \$280.67 | Major resistance |
-| 200-Day MA | ~\$175 | Long-term trend resistance |
-| 50-Day MA | ~\$145 | Medium-term resistance |
-| Current Price | \$119.71 | Near 52-week lows |
-| 52-Week Low | \$118.30 | Critical support |
-
-**Volume Analysis:**
-- Today's volume: 18M+ shares (3x average of 6.3M)
-- High volume on decline suggests capitulation selling
-- Could mark intermediate-term bottom if support holds
-
-**Chart Pattern:**
-- Stock has declined from \$280 to \$120 (-57%) over past 12 months
-- Recent breakdown below \$130 support level
-- Trading at/near 52-week lows - critical test of support
-
-### Relative Strength
-
-- **YTD Performance:** -45.12% (massive underperformance)
-- **1-Year Return:** +16.66% (vs. S&P 500 +29.47%)
-- **Sector:** Significantly underperforming software/tech peers
-
----
 
 ## 7. SENTIMENT & FLOWS
 

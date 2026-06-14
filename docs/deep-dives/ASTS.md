@@ -303,72 +303,41 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 ## 6. TECHNICAL ANALYSIS
 
-### Price Action Overview
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ASTS/" rel="noopener nofollow" target="_blank"><span class="blue-text">ASTS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:ASTS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| **Current Price** | \$82.87 | Down ~36% from January highs |
-| **52-Week High** | \$129.89 | Reached January 30, 2026 |
-| **52-Week Low** | \$18.22 | March 2025 |
-| **YTD Return** | +14.1% | Outperforming S&P 500 (+4.6%) |
-| **1-Year Return** | +264% | Massive gains but highly volatile |
-
-**What this means:** ASTS has been a roller coaster. A \$10,000 investment 12 months ago would be worth \$36,400 today—but you would have endured multiple 30%+ drawdowns along the way.
-
-### Key Technical Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | \$129.89 | Major resistance; needs catalyst to break |
-| **Recent High** | \$110 | Secondary resistance from February |
-| **50-Day MA** | ~\$85 | Currently trading around this level |
-| **Current Price** | \$82.87 | Testing support/resistance flip zone |
-| **200-Day MA** | ~\$55 | Major support level; if broken, expect deeper correction |
-| **Fibonacci 38.2%** | ~\$75 | Key retracement support |
-| **Fibonacci 50%** | ~\$65 | Major support if bearish momentum continues |
-
-**What these levels mean:**
-- **Above \$85 (50-day MA):** Bullish short-term momentum
-- **\$75 zone:** First major support—buyers historically step in here
-- **\$65 zone:** Critical support. If broken, could retest \$50-55
-- **Below \$55 (200-day MA):** Technical damage; trend reversal to bearish
-
-### Volume Profile & Institutional Activity
-
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| **Average Daily Volume** | 14.9M shares | Highly liquid; easy to enter/exit |
-| **Recent Volume** | 15M+ shares | Sustained interest despite pullback |
-| **Beta** | 2.87 | 2.9x more volatile than S&P 500 |
-| **Institutional Ownership** | 39.4% | Significant institutional interest |
-
-**What this means:** ASTS is a high-volatility stock. A 2.87 beta means if the S&P 500 moves 1%, ASTS typically moves 2.87%. This creates trading opportunities but also significant risk. The high volume suggests institutional accumulation during the recent pullback.
-
-### Chart Patterns
-
-**Current Pattern:** Descending Channel (Bullish Flag)
-- Since the January peak at \$129, ASTS has been in a controlled pullback
-- Lower highs, lower lows—but finding support at higher levels
-- **What this means:** If ASTS breaks above \$95-100 with volume, could signal resumption of uptrend toward \$130+ targets.
-
-**Risk Pattern:** Head and Shoulders (Potential)
-- Left shoulder: ~\$95 (December)
-- Head: ~\$130 (January)  
-- Right shoulder: ~\$100 (February)
-- Neckline: ~\$75
-- **What this means:** If ASTS breaks below \$75 decisively, the measured move target would be ~\$50 (\$130 - \$75 = \$55; \$75 - \$55 = \$20, adjusted). This is a bearish scenario to watch.
-
-### Relative Strength
-
-| Comparison | Performance | Interpretation |
-|------------|-------------|----------------|
-| ASTS vs. S&P 500 | +264% vs +16% | Massive outperformance |
-| ASTS vs. Telecom Sector | +264% vs +4% | Leading the sector |
-| ASTS vs. RKLB (Rocket Lab) | Similar volatility | Space sector correlation |
-
-**What this means:** ASTS has been a top-performing stock across all sectors. This relative strength is positive—but also means the stock may be due for a period of underperformance (reversion to mean).
-
----
 
 ## 7. SENTIMENT & FLOWS
 

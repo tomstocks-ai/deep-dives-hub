@@ -66,17 +66,41 @@ Gold has no cash flows — valuation is based on real rates, central bank demand
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
-![GLD RSI Chart](../assets/images/GLD_rsi.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-GLD/" rel="noopener nofollow" target="_blank"><span class="blue-text">GLD stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "AMEX:GLD",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-- **Current RSI:** 33.02
-- **Signal:** NEAR OVERSOLD
-- **Interpretation:** GLD pulled back from all-time highs near \$420. RSI near 33 is approaching oversold territory. In the 2024–2025 bull market, RSI dips below 35 were consistently bought. The 50-day MA (~\$390) is the first support.
-
-### Key Levels
-- **Support:** \$380 (50-day MA), \$360 (prior breakout level)
-- **Resistance:** \$405 (recent high), \$420 (all-time high)
-- **Trend:** Higher highs and higher lows intact. Pullback is corrective, not structural.
 
 ## 7. SENTIMENT & FLOWS
 
