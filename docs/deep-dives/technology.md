@@ -26,9 +26,10 @@ title: Technology
 | **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | \$3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | **PURR** | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$10.97 | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | **OSS** | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$15.71 | 2026-06-10 | [:material-file-document: Read](OSS.md) |
-| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
-
----
+|| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
+|| **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
+|
+|---
 
 ## Gists
 
@@ -189,6 +190,16 @@ Pre-revenue solid-state battery developer with a proprietary ceramic separator t
 **Bull:** \$18–\$22 · **Base:** \$6–\$9 · **Bear:** \$2–\$4
 
 [:material-arrow-right: Full Deep Dive](QS.md)
+
+---
+
+### DDOG — Datadog, Inc. · <span class="rating-hold">HOLD</span> · \$229.90
+
+Cloud-native observability and security platform with best-in-class fundamentals: 32% revenue growth, 80% gross margins, and 29% free cash flow margins. Q1 2026 revenue hit \$1.01B with 4,550 large customers. AI infrastructure monitoring (LLM observability, Bits AI) expands TAM. However, at 20x+ EV/Revenue the valuation reflects exceptional quality. Analyst consensus ~\$220 implies limited upside. Risk/reward balanced — wait for pullback to \$200–\$210 or breakout above \$240.
+
+**Bull:** \$300–\$320 · **Base:** \$220–\$240 · **Bear:** \$150–\$170
+
+[:material-arrow-right: Full Deep Dive](DDOG.md)
 
 ---
 

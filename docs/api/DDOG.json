@@ -1,0 +1,55 @@
+{
+  "ticker": "DDOG",
+  "company": "Datadog, Inc.",
+  "sector": "Technology",
+  "industry": "Cloud Observability / SaaS",
+  "exchange": "NASDAQ",
+  "price": 229.90,
+  "market_cap": "$83B",
+  "rating": "HOLD",
+  "last_updated": "2026-06-14",
+  "thesis": "Best-in-class cloud observability platform with 32% revenue growth, 80% gross margins, and 29% FCF margins. However, at 20x+ EV/Revenue the valuation already reflects exceptional quality. Analyst consensus targets (~$220) imply slight downside. Risk/reward is balanced, not asymmetric. Wait for pullback to $200-$210 or breakout above $240.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$4.25B–$4.35B",
+    "revenue_growth": "+21–24%",
+    "gross_margin": "80%",
+    "net_income": "N/A (GAAP not disclosed in Q1)",
+    "eps_diluted": "$0.52 (Q1 non-GAAP)",
+    "cash": "$2.8B",
+    "fcf": "$1.05B (FY2025)"
+  },
+  "bull_case": {
+    "target": "$300–$320",
+    "drivers": [
+      "AI infrastructure monitoring TAM expands by $5B+",
+      "Datadog captures 20%+ share of AI/LLM observability",
+      "NRR stays >120%, revenue growth reaccelerates to 30%",
+      "Multiple expands to 25x EV/Revenue on AI enthusiasm"
+    ]
+  },
+  "bear_case": {
+    "target": "$150–$170",
+    "risks": [
+      "Cloud optimization headwinds return, growth drops to 15%",
+      "Dynatrace or open-source alternatives gain pricing power",
+      "Multiple compresses to 12x EV/Revenue on deceleration",
+      "SBC dilution accelerates, GAAP margins disappoint"
+    ]
+  },
+  "base_case": {
+    "target": "$220–$240",
+    "assumptions": "Steady 20–25% growth with 22–25% operating margins. Platform consolidation continues but no acceleration. Multiple compresses modestly to 15–18x as company matures. Stock tracks fundamentals with limited alpha."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 Earnings — guidance update and AI traction metrics"},
+    {"date": "2026-09-01", "event": "Datadog DASH Conference — product announcements"},
+    {"date": "2026-11-01", "event": "FY2027 Guidance — first look at next-year growth trajectory"}
+  ],
+  "key_risks": [
+    "Valuation risk: 20x+ EV/Revenue priced for perfection",
+    "Growth deceleration: cloud optimization or macro weakness",
+    "Competition: Dynatrace, Grafana, bundled cloud monitoring",
+    "SBC dilution: GAAP margins significantly lower than non-GAAP"
+  ]
+}
