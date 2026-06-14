@@ -119,23 +119,41 @@ Traditional multiples (P/E, EV/EBITDA, P/S) are not applicable. Valuation is sce
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$7.00
-- **52-Week High:** \$19.07 (Aug 2025)
-- **52-Week Low:** \$4.16 (Apr 2025)
-- **Trend:** Downtrend from Aug 2025 highs; basing pattern since Apr 2025 lows
-- **Key Support:** \$5.00 (psychological), \$4.16 (52-week low)
-- **Key Resistance:** \$8.50 (recent highs), \$10.00 (psychological), \$12.00 (gap fill area)
-- **Volume:** Elevated on news days; average daily volume ~20M shares
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-QS/" rel="noopener nofollow" target="_blank"><span class="blue-text">QS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:QS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-
-![QS RSI Chart](../assets/images/QS_rsi.png)
-
-- **Current RSI:** 41.13
-- **Signal:** NEUTRAL — neither overbought nor oversold
-- **Interpretation:** After a sharp rally from \$4.16 lows to \$7.00, momentum has cooled. RSI in the 40s suggests consolidation rather than exhaustion. No clear directional bias from momentum alone.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

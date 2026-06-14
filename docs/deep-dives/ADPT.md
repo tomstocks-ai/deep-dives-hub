@@ -93,19 +93,41 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current price:** US\\$18.78
-- **52-week range:** US\\$9.90 – US\\$20.76
-- **Trend:** Strong uptrend. The stock has nearly doubled from its 52-week low and is trading just below the 52-week high.
-- **Support levels:** US\\$16.00 (recent consolidation), US\\$14.00 (prior resistance-turned-support)
-- **Resistance:** US\\$20.76 (52-week high). A breakout above this level opens the door to US\\$22–25.
-- **Volume:** Institutional accumulation evident on up-days.
 
-### RSI (14-Day)
-
-![ADPT RSI Chart](../assets/images/ADPT_rsi.png)
-
-- **Current RSI:** 70.96
-- **Signal:** OVERBOUGHT — The RSI has pushed above the 70 threshold, indicating the stock may be due for a near-term pullback or consolidation. This is not a sell signal in isolation, but it suggests the current rally is extended.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ADPT/" rel="noopener nofollow" target="_blank"><span class="blue-text">ADPT stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:ADPT",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
 ---
 

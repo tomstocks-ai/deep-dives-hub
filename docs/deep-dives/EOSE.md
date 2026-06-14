@@ -249,39 +249,41 @@ hide:
 
 ## 6. TECHNICAL ANALYSIS
 
-### Key Levels (as of April 2026)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-EOSE/" rel="noopener nofollow" target="_blank"><span class="blue-text">EOSE stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:EOSE",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | \$31.95 (Jan 2021) | Meme stock peak; unlikely near-term |
-| **52-Week High** | \$19.86 | Recent momentum high |
-| **52-Week Low** | \$3.07 | April 2024 capitulation low |
-| **Current Price** | \$4.86 | Near middle of 52-week range |
-| **Analyst Average PT** | \$9.71 | 100% upside to consensus |
-
-### Support & Resistance
-
-| Type | Level | Analysis |
-|------|-------|----------|
-| **Strong Resistance** | \$8.00 | Prior support turned resistance; analyst target cluster |
-| **Near Resistance** | \$6.00 | Recent highs; psychological level |
-| **Pivot** | \$5.00 | Current consolidation zone |
-| **Near Support** | \$4.50 | Recent lows; bid support |
-| **Strong Support** | \$3.70 | Must hold or risk retest of \$3.07 lows |
-
-### Moving Averages & Trends
-
-| Indicator | Signal | Notes |
-|-----------|--------|-------|
-| **50-Day MA** | Below | Trading below 50-day; short-term bearish |
-| **200-Day MA** | Mixed | Price near 200-day; long-term trend neutral |
-| **Trend Structure** | Consolidation | Range-bound since January 2026 |
-| **Volume** | Elevated | Recent volume spikes on earnings/news |
-| **RSI (14)** | Neutral | Not overbought or oversold |
-
-**Technical Summary:** EOSE is in a consolidation phase after a strong 2025 run (+83% 1-year). The stock needs to hold \$3.70 support to maintain bullish structure. A break above \$6.00 could signal next leg higher toward analyst targets.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

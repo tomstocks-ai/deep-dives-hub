@@ -303,50 +303,41 @@ Your ownership percentage could shrink by 20-25% as these securities convert. Ho
 
 ## 6. TECHNICAL ANALYSIS
 
-### Price Action Overview
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATL/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:SATL",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-**Current Trading Range:** \$3.00 - \$3.50 (estimated based on recent news)
-
-**Key Levels:**
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Strong Resistance** | \$5.92 | Post-SPAC highs, significant supply zone |
-| **Resistance** | \$3.48-\$3.68 | Recent consolidation ceiling |
-| **200-Day MA** | \$3.07 | Long-term trend indicator |
-| **Current Price** | ~\$3.00 | Near 200-day MA |
-| **Support** | \$2.50 | Psychological level |
-| **Strong Support** | \$1.94 | Major Fibonacci retracement |
-| **All-Time Low** | ~\$1.00 | Post-SPAC panic selling |
-
-**What "200-Day Moving Average" Means:**
-The average closing price over the last 200 trading days (~10 months). Trading above it suggests long-term uptrend; below suggests downtrend. Satellogic is hovering right at this level — a decisive break above/below will determine next major move.
-
-### Volume Profile
-
-- **Average Daily Volume:** ~4.1M shares
-- **Recent Volume:** ~2.3M (below average, suggesting consolidation)
-- **What Low Volume Means:** Neither buyers nor sellers are in control. A catalyst (earnings, contract announcement, Merlin update) will likely break this stalemate.
-
-### Trend Structure
-
-**Short-term (Daily):** Neutral consolidation between \$2.80-\$3.50
-**Medium-term (Weekly):** Sideways after recovery from 2024 lows
-**Long-term (Monthly):** Downtrend from SPAC merger (\$10) to current levels
-
-**Pattern Recognition:**
-Satellogic is forming a **base-building pattern** after the catastrophic post-SPAC decline. This is constructive long-term price action — stocks that go from \$10 to \$1 and then build a base often become good investments if fundamentals improve.
-
-### Relative Performance
-
-| Comparison | Performance | Interpretation |
-|------------|-------------|----------------|
-| vs S&P 500 | Underperforming | High-beta speculative stock |
-| vs Defense Sector | Mixed | Space tech out of favor |
-| vs Planet Labs (PL) | Comparable | Both small-cap EO plays struggling |
-| vs Space Index | In-line | Broader space sector weakness |
-
----
 
 ## 7. SENTIMENT & FLOWS
 

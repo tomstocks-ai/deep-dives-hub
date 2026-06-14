@@ -111,21 +111,41 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$4.53 (as of 2026-05-28).
-- **52-Week Range:** ~\$1.80 – \$4.85.
-- **Trend:** Strong uptrend since early 2026; stock has more than doubled from lows.
-- **Key Resistance:** \$4.85 (52-week high) — a break above could open a move toward \$6–\$7.
-- **Key Support:** \$3.50 (recent consolidation zone), then \$2.80 (200-day moving average area).
-- **Volume:** Elevated on up-days, suggesting accumulation ahead of Delta-class milestones.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-SPCE/" rel="noopener nofollow" target="_blank"><span class="blue-text">SPCE stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:SPCE",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-![SPCE RSI Chart](../assets/images/SPCE_rsi.png)
-
-- **Current RSI:** 78.83
-- **Signal:** Overbought
-- **Interpretation:** RSI above 70 indicates the stock has moved too far, too fast. A pullback or consolidation is likely before any sustained move higher. This is consistent with a "momentum trade" ahead of the Q3/Q4 2026 flight test catalysts.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

@@ -308,75 +308,41 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 ## 6. TECHNICAL ANALYSIS
 
-### 6.1 Price Action Summary
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-CRML/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRML stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:CRML",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value | Signal |
-|--------|-------|--------|
-| Current Price | \$11.94 | - |
-| 52-Week Range | \$1.29 - \$32.15 | Highly volatile |
-| YTD Return | +72.05% | Strong outperformance |
-| 1-Year Return | +379.52% | Exceptional performance |
-| Performance vs 52W High | -62.86% | Deep correction from peak |
-| Performance vs 52W Low | +824.94% | Strong uptrend intact |
-| Perf Week | +32.52% | Surging on Greenland news |
-| Perf Month | +41.97% | Strong momentum |
-| Perf Quarter | -32.35% | Still recovering from Q1 drop |
-
-### 6.2 Key Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Strong Resistance** | \$32.15 | 52-week high (January 2026) |
-| **Resistance** | \$15.00-16.00 | Prior consolidation zone |
-| **Resistance** | \$13.68 | Recent intraday spike high |
-| **Current Price** | \$11.94 | - |
-| **Support** | \$10.00-11.00 | Recent breakout level |
-| **Support** | \$8.00-9.00 | March 2026 consolidation |
-| **Strong Support** | \$5.00-6.00 | December 2025 base |
-| **Floor** | \$1.29 | 52-week low (April 2025) |
-
-### 6.3 Moving Averages
-
-| MA | Status |
-|----|--------|
-| SMA 20 | +38.39% above ✅ Bullish |
-| SMA 50 | +28.23% above ✅ Bullish |
-| SMA 200 | +29.72% above ✅ Bullish |
-
-**Technical Interpretation:** The stock is in a strong uptrend with price above all major moving averages. The April 2026 Greenland approval triggered a sharp breakout above the 20/50/200-day MAs. The +30% move in one week is significant but follows a -60% drawdown from January highs.
-
-### 6.4 Momentum Indicators
-
-| Indicator | Value | Signal |
-|-----------|-------|--------|
-| RSI (14) | 67.23 | Neutral, approaching overbought |
-| RSI Recent Peak | 72.63 | Briefly touched overbought during surge |
-| Beta | 1.89 | High volatility vs market |
-| ATR (14) | \$1.23 | 10.3% daily volatility |
-| Volatility (Weekly/Monthly) | 13.66% / 10.77% | Very high |
-
-![CRML RSI Chart](assets/CRML_RSI_20260421_072621.png)
-
-**RSI Analysis:** The RSI of 67.23 is in neutral territory, though it recently spiked to 72.63 during the Greenland approval surge. This suggests the stock is not yet overbought on a closing basis, but the rapid +30% weekly move warrants caution for new entries. Historically, CRML's RSI has ranged from deeply oversold (<20) to overbought (>80) due to its high beta and news-driven price action.
-
-### 6.5 Short Interest Analysis
-
-| Metric | Value | Assessment |
-|--------|-------|------------|
-| Short Float | 31.76% | ⚠️ EXTREMELY HIGH |
-| Short Ratio | 1.48 | ~1.5 days to cover |
-| Short Interest | 19.94M shares | Massive bearish positioning |
-| Float | 62.78M shares | ~32% of float shorted |
-
-**Short Squeeze Potential:** With 31.76% short float and a relatively low short ratio, any positive catalyst could trigger rapid short covering. The April 2026 Greenland news already triggered partial covering. Additional catalysts (Saudi JV close, pilot plant success, feasibility study) could accelerate this. This creates significant asymmetric upside risk for short sellers.
-
-### 6.6 Chart Pattern Analysis
-
-**Pattern:** Breakout from a 4-month descending channel on massive volume
-**Volume:** 25.5M shares on April 20 (vs 13.5M average) — confirming breakout
-**Interpretation:** The April 2026 ownership approval has fundamentally changed the technical picture. The stock broke above \$12 resistance with conviction. A sustained hold above \$11.50 would confirm a new uptrend phase.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

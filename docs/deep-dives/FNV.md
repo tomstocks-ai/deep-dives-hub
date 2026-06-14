@@ -129,22 +129,41 @@ These multiples trade at a premium to gold miners because the royalty model carr
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$218.74
-- **52-Week High:** \$285.67 (Feb 2026)
-- **52-Week Low:** \$152.89 (Jun 2025)
-- **Key Support:** \$210 (recent consolidation), \$200 (psychological), \$190 (200-day MA vicinity)
-- **Key Resistance:** \$230 (recent highs), \$250 (prior breakout zone), \$285 (52-week high)
-- **Trend:** Corrected ~24% from February highs; now consolidating above \$210
-- **Volume:** Elevated on down-moves, suggesting distribution; need volume confirmation on any breakout
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FNV/" rel="noopener nofollow" target="_blank"><span class="blue-text">FNV stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:FNV",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-
-![FNV RSI Chart](../assets/images/FNV_rsi.png)
-
-- **Current RSI:** 40.52
-- **Signal:** NEUTRAL — RSI has cooled from overbought levels above 70 in February to neutral territory. Not yet oversold, but no longer extended. Room to fall to 30–35 on further weakness before a tactical bounce.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

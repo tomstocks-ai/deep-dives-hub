@@ -73,17 +73,41 @@ COPX is valued relative to copper prices and miner earnings multiples.
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
-![COPX RSI Chart](../assets/images/COPX_rsi.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-COPX/" rel="noopener nofollow" target="_blank"><span class="blue-text">COPX stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "AMEX:COPX",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-- **Current RSI:** 42.79
-- **Signal:** NEUTRAL
-- **Interpretation:** COPX has consolidated after a strong run. RSI in the 40s suggests neither overbought nor oversold. Price is holding above the 200-day MA. A breakout above \$85 would confirm continuation.
-
-### Key Levels
-- **Support:** \$72 (200-day MA), \$65 (prior breakout)
-- **Resistance:** \$85 (recent high), \$95 (all-time high area)
-- **Trend:** Uptrend intact. Higher lows since October 2025.
 
 ## 7. SENTIMENT & FLOWS
 

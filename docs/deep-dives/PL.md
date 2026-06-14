@@ -315,56 +315,41 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ## 6. Technical Analysis
 
-### 6.1 Price Performance
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PL/" rel="noopener nofollow" target="_blank"><span class="blue-text">PL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:PL",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Period | Return | vs S&P 500 |
-|--------|--------|------------|
-| **1 Week** | +10.7% | +8.8% |
-| **1 Month** | +41.8% | +37.4% |
-| **3 Months** | +75.8% | +70.9% |
-| **YTD 2026** | +82.0% | +78.2% |
-| **1 Year** | +946% | +923% |
-
-### 6.2 Support & Resistance Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | \$37.05 | Recent resistance (April 2026) |
-| **Current Price** | \$35.88 | Trading near highs |
-| **Near-term Support** | \$30.00 | Psychological level |
-| **Strong Support** | \$26.00 | 50-day moving average |
-| **Major Support** | \$15.50 | 200-day moving average |
-
-### 6.3 Moving Averages
-
-| Indicator | Value | Signal |
-|-----------|-------|--------|
-| **50-Day MA** | \$26.11 | Well above = strong momentum |
-| **200-Day MA** | \$15.43 | Well above = bull market |
-| **Golden Cross** | Confirmed | Bullish long-term signal |
-
-### 6.4 Volume & Momentum
-
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| **Average Volume (20D)** | 18.0M shares | High institutional interest |
-| **RSI (14-day)** | 64.3 | Approaching overbought (>70) |
-| **Beta** | 1.83 | 83% more volatile than market |
-| **Weekly Volatility** | 15.0% | Higher than 75% of US stocks |
-
-### 6.5 Chart Pattern Analysis
-
-**Current Pattern:** Parabolic advance following Q4 earnings
-
-**Key Observations:**
-- Stock has gone nearly vertical since March 20 earnings
-- Volume expansion confirms institutional accumulation
-- No meaningful pullback in recent weeks
-- Trading at all-time highs with no overhead resistance
-
-**Technical Outlook:** Strong momentum but overbought conditions suggest caution near-term. A pullback to the 50-day MA (~\$26) would be healthy for the uptrend.
-
----
 
 ## 7. Sentiment & Flows
 

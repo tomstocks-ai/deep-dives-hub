@@ -128,24 +128,41 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 
 ## 6. TECHNICAL ANALYSIS
 
-### Key Levels
-- **Support:** \$12.50 (prior breakout level), \$10.00 (200-day moving average)
-- **Resistance:** \$18.00 (recent highs), \$20.00 (psychological)
-- **Trend:** Uptrend intact since Q4 2025 earnings. Price has consolidated in a \$13–\$17 range.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-OSS/" rel="noopener nofollow" target="_blank"><span class="blue-text">OSS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:OSS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-
-![OSS RSI Chart](../assets/images/OSS_rsi.png)
-
-- **Current RSI:** 48.86
-- **Signal:** NEUTRAL — neither overbought nor oversold. Room to run in either direction.
-- **Interpretation:** After a strong rally from \$8 to \$17, RSI has cooled from overbought territory. The consolidation is healthy. A breakout above \$18 with volume would confirm continuation.
-
-### Volume & Moving Averages
-- Volume has been elevated on earnings days but otherwise moderate.
-- Price sits above the 50-day MA (~\$14.50) and well above the 200-day MA (~\$10.80).
-
----
 
 ## 7. RECOMMENDATION
 

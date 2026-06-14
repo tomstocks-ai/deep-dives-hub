@@ -160,21 +160,41 @@ At \$53.72, the market is pricing in a near-flawless execution of the bull case 
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
-![WOLF RSI Chart](../assets/images/WOLF_rsi.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-WOLF/" rel="noopener nofollow" target="_blank"><span class="blue-text">WOLF stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:WOLF",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-- **Current RSI:** 83.6
-- **Signal:** EXTREMELY OVERBOUGHT
-
-The RSI reading above 80 is a flashing red warning sign. The stock has moved from \$8 to \$53+ in a matter of months — a 560%+ gain. Volume has surged to 12M shares (3.5x average), consistent with a short-squeeze dynamic. The 50-day MA (\$24.47) and 200-day MA (\$22.29) are miles below the current price, indicating how parabolic this move has been.
-
-**Key Levels:**
-- **Resistance:** \$54.00 (52-week high, psychological)
-- **Support:** \$45 (recent breakout level), \$35 (prior consolidation), \$24 (50-day MA)
-
-**Trend:** Parabolic advance — unsustainable by definition. Risk/reward at current levels is heavily skewed to the downside for new money.
-
----
 
 ## 7. RECOMMENDATION
 

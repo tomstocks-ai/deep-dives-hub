@@ -58,26 +58,60 @@ When given a ticker, produce EXACTLY these 5 artifacts, clearly separated:
 
 ---
 
-### ARTIFACT 5: RSI Chart (`docs/assets/images/{TICKER}_rsi.png`)
+### ARTIFACT 5: TradingView Widget (embedded in deep dive)
 
-Generate a 14-period RSI chart for the ticker and save it as a PNG file.
+Instead of a static RSI chart, embed a live TradingView Advanced Chart widget in the TECHNICAL ANALYSIS section. The widget includes RSI and EMA studies.
 
-**Requirements:**
-- **Save location:** `docs/assets/images/{TICKER}_rsi.png` (all charts must go in this directory)
-- **Reference path:** Use relative paths like `../assets/images/{TICKER}_rsi.png` when embedding in deep dive pages
-- **Chart specifications:**
-  - 14-period RSI with oversold (30) and overbought (70) reference lines
-  - Include current price and RSI value in the title or legend
-  - Date range: minimum 6 months of daily data
-  - Clear labels and readable axis formatting
-- **Embedding in deep dive:** Add a "TECHNICAL ANALYSIS" subsection or include the chart in the existing technical analysis section:
-  ```markdown
-  ### RSI (14-Day)
-  ![{TICKER} RSI Chart](../assets/images/{TICKER}_rsi.png)
-  
-  - **Current RSI:** {VALUE}
-  - **Signal:** {OVERSOLD / NEUTRAL / OVERBOUGHT / interpretation}
-  ```
+**Widget HTML** (replace `{EXCHANGE}` and `{TICKER}` with correct values):
+
+```html
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/{EXCHANGE}-{TICKER}/" rel="noopener nofollow" target="_blank"><span class="blue-text">{TICKER} stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "{EXCHANGE}:{TICKER}",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
+```
+
+**Exchange values for TradingView:**
+
+| Exchange | TradingView Code |
+|----------|-----------------|
+| NASDAQ / NasdaqCM | `NASDAQ` |
+| NYSE | `NYSE` |
+| NYSE Arca / NYSE American | `AMEX` |
+
+**Embedding in deep dive:** The widget goes directly under the `## 6. TECHNICAL ANALYSIS` header with no additional text needed — the widget provides live RSI, EMA, volume, and price data interactively.
+
+**Helper script:** Run `python helpers/generate_widget.py {TICKER} [EXCHANGE]` to generate the HTML. If exchange is omitted, it reads from `docs/api/{TICKER}.json`.
 
 ---
 
@@ -105,7 +139,7 @@ Then the full analysis following this structure:
 3. VALUATION (multiples, DCF/scenario analysis with bull/base/bear targets)
 4. GROWTH CATALYSTS
 5. RISKS
-6. TECHNICAL ANALYSIS (key levels, trend, momentum)
+6. TECHNICAL ANALYSIS (TradingView widget — see Artifact 5)
 7. RECOMMENDATION (rating, position sizing, entry strategy, stop loss, catalyst calendar)
 8. READABILITY PASS (jargon explained in plain English)
 9. SOURCES CONSULTED
@@ -237,8 +271,8 @@ When generating Markdown content, escape these characters to avoid rendering iss
 Before publishing, run through these checks to ensure completeness and consistency:
 
 ### Content Checks
-- [ ] All 5 artifacts are generated (Deep Dive, Index Row, Sector Additions, JSON API, RSI Chart)
-- [ ] RSI chart is saved to `docs/assets/images/{TICKER}_rsi.png`
+- [ ] All 5 artifacts are generated (Deep Dive, Index Row, Sector Additions, JSON API, TradingView Widget)
+- [ ] TradingView widget uses correct exchange code (NASDAQ/NYSE/AMEX)
 - [ ] Price targets (Bull/Base/Bear) are consistent across all artifacts
 - [ ] Rating and sector classification match in all files
 - [ ] Company name and ticker are spelled correctly everywhere
@@ -249,7 +283,7 @@ Before publishing, run through these checks to ensure completeness and consisten
 - [ ] Markdown tables have correct column alignment and delimiters
 - [ ] All CSS classes (`badge-*`, `rating-*`) are spelled correctly
 - [ ] Links use relative paths correctly (`../index.md`, `{TICKER}.md`, etc.)
-- [ ] Image references use relative paths (`../assets/images/{TICKER}_rsi.png`)
+- [ ] TradingView widget symbol matches ticker's exchange
 - [ ] JSON is valid (no trailing commas, proper quoting)
 - [ ] **All dollar signs are escaped (`\$`)** — unescaped `$` triggers LaTeX math mode in MkDocs/Markdown and breaks rendering
 
@@ -266,13 +300,12 @@ Before publishing, run through these checks to ensure completeness and consisten
 
 After generating all 5 artifacts, remind the user:
 
-1. ✅ Save Artifact 1 → `docs/deep-dives/{TICKER}.md`
+1. ✅ Save Artifact 1 → `docs/deep-dives/{TICKER}.md` (includes TradingView widget)
 2. ✅ Save Artifact 4 → `docs/api/{TICKER}.json`
-3. ✅ Save Artifact 5 → `docs/assets/images/{TICKER}_rsi.png`
-4. ✅ Paste Artifact 2 table row → into `docs/index.md` Summary Table
-5. ✅ Paste Artifact 3A table row → into `docs/deep-dives/{sector}.md` Summary Table
-6. ✅ Paste Artifact 3B gist → into `docs/deep-dives/{sector}.md` Gists section
-7. ✅ Add entry to `docs/api/tickers.json`
-8. ✅ Run Quality Validation checks above
-9. ✅ `git add . && git commit -m "Add {TICKER} deep dive" && git push`
-10. ✅ Site auto-deploys via GitHub Actions
+3. ✅ Paste Artifact 2 table row → into `docs/index.md` Summary Table
+4. ✅ Paste Artifact 3A table row → into `docs/deep-dives/{sector}.md` Summary Table
+5. ✅ Paste Artifact 3B gist → into `docs/deep-dives/{sector}.md` Gists section
+6. ✅ Add entry to `docs/api/tickers.json`
+7. ✅ Run Quality Validation checks above
+8. ✅ `git add . && git commit -m "Add {TICKER} deep dive" && git push`
+9. ✅ Site auto-deploys via GitHub Actions

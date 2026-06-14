@@ -264,55 +264,41 @@ At current levels, the market is pricing in:
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-P/" rel="noopener nofollow" target="_blank"><span class="blue-text">P stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:P",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-![P RSI Chart](../assets/images/P_rsi.png)
-
-- **Current RSI:** ~70.9 (overbought territory)
-- **Signal:** CAUTIOUS — RSI above 70 suggests short-term overbought conditions following the sharp rally from ~\$70 to \$83+
-- **Context:** The stock broke out above \$80 resistance following Q4 earnings and the ticker change to single-letter "P", attracting momentum-driven buying
-
-### Price Action & Key Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **52-Week High** | \$100.59 | Major resistance; tested in late 2025 |
-| **Current Price** | \$83.33 | Trading near post-rebrand highs |
-| **Near-term Support** | \$78.00 | Recent breakout level / prior resistance |
-| **Strong Support** | \$72.00 | 50-day moving average vicinity |
-| **Major Support** | \$62.00 | 200-day moving average; bull market floor |
-
-### Moving Averages
-
-| Indicator | Value | Signal |
-|-----------|-------|--------|
-| **50-Day MA** | ~\$72.50 | Well above = strong short-term momentum |
-| **200-Day MA** | ~\$65.20 | Well above = bull market intact |
-| **Golden Cross** | Confirmed | Bullish long-term signal |
-
-### Volume & Momentum
-
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| **Average Volume (20D)** | ~3.1M shares | Elevated on breakout days |
-| **Volume on 5/11** | 11.2M shares | 3.6x average; institutional accumulation |
-| **RSI (14-day)** | 70.9 | Overbought; watch for pullback |
-| **Beta** | 1.44 | 44% more volatile than market |
-| **Weekly Volatility** | ~6.5% | Moderate for tech/growth stock |
-
-### Technical Structure
-
-**Current Pattern:** Breakout and retest following ticker change and earnings
-
-**Key Observations:**
-- Stock broke out above \$80 on 5/11 with massive volume (11.2M shares)
-- Pullback to \$83 on 5/12 suggests some profit-taking after the spike to \$93.92
-- The \$93.92 intraday high on 5/11 may serve as near-term resistance
-- A healthy pullback to \$75-78 would reset RSI and provide better entry
-
-**Technical Outlook:** Bullish intermediate-term trend but overbought near-term. A pullback to the \$75-78 zone would improve risk/reward for new entries.
-
----
 
 ## 7. RECOMMENDATION
 

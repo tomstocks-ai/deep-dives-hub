@@ -127,25 +127,41 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current price:** \$362.97
-- **52-week range:** \$159.98 – \$441.43
-- **SMA 50:** \$380.75 (price -4.7% below)
-- **SMA 200:** \$269.68 (price +34.6% above)
-- **RSI(14):** 45.33 — Neutral, not overbought or oversold
-- **Trend:** Strong long-term uptrend from 2024 lows (~\$109). Recent pullback from \$441 high in May 2026.
-- **Support:** \$340–350 (recent consolidation zone), \$320 (SMA 50 gap fill)
-- **Resistance:** \$380 (SMA 50), \$400 (psychological), \$441 (52-week high)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-MTZ/" rel="noopener nofollow" target="_blank"><span class="blue-text">MTZ stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:MTZ",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-
-![MTZ RSI Chart](../assets/images/MTZ_rsi.png)
-
-- **Current RSI:** 45.33
-- **Signal:** Neutral — no overbought/oversold signal
-
-**What this means:** The stock has pulled back ~18% from its 52-week high of \$441.43 in May 2026. The RSI at 45 is neutral, suggesting the pullback is a consolidation rather than a panic sell-off. The price is still well above the 200-day moving average, confirming the long-term uptrend is intact. The 50-day SMA at \$380.75 is the first resistance to watch on a recovery.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

@@ -286,40 +286,41 @@ At \$21.57, the market is pricing in:
 
 ## 6. TECHNICAL ANALYSIS
 
-### Price Action & Key Levels
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-U/" rel="noopener nofollow" target="_blank"><span class="blue-text">U stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:U",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Current Price** | \$21.57 | Trading near 50-day SMA |
-| **52-Week High** | \$52.15 | Major resistance, 142% above current |
-| **52-Week Low** | \$16.78 | Support level tested Sept 2024 |
-| **SMA 50** | \$21.63 | Price hovering at short-term average |
-| **SMA 200** | \$34.63 | Well below long-term average (bearish) |
-| **RSI (14)** | 62.3 | Neutral, not overbought/oversold |
-
-### Volume Analysis
-- **50-Day Average Volume:** 21.6M shares
-- **Current Volume:** Varies with news flow
-- **Institutional Activity:** Heavy institutional ownership (80%) means large block trades can move price
-
-### Technical Structure
-
-**Trend:** Long-term downtrend from 2021 IPO highs (\$200+), but recent stabilization
-
-**Support Levels:**
-1. \$20.00 - Psychological level
-2. \$18.50 - Recent consolidation low
-3. \$16.78 - 52-week low (critical)
-
-**Resistance Levels:**
-1. \$24.00 - Recent highs
-2. \$28.00 - Gap fill area
-3. \$35.00 - 200-day SMA
-4. \$52.00 - 52-week high
-
-*What this means:* Technically, Unity is in a long-term downtrend but showing signs of bottoming. The stock is trading sideways between \$16-24. A break above \$24 could signal further upside to \$28-35, while a break below \$16.78 would be very bearish.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

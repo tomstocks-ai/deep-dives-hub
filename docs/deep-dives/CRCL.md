@@ -161,35 +161,41 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ## 6. TECHNICAL ANALYSIS
 
-![CRCL RSI Chart](../assets/CRCL_RSI_20260421.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-CRCL/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRCL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:CRCL",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI Analysis
-- **Latest RSI (14-period):** 66.95 — approaching overbought territory (>70)
-- **Trend:** RSI has surged from deeply oversold (~18.8 on April 9) to near-overbought in 11 sessions, reflecting a violent V-shaped recovery from the \$85 lows.
-- **Last 5 readings:** 53.53 → 51.42 → 58.37 → 61.82 → 66.95
-- **Interpretation:** The rapid RSI ascent signals strong buying momentum, but also suggests the stock may be due for consolidation or a pullback before challenging higher resistance.
-
-### Price Structure
-- **All-Time High:** \$298.99 (June 23, 2025 — days after IPO)
-- **All-Time Low:** \$49.90 (February 5, 2026)
-- **52-Week Range:** \$49.90 – \$298.99
-- **IPO Price:** \$31.00 (June 5, 2025)
-- **YTD Performance:** +35.51%
-- **1-Year Performance:** +55.74%
-
-### Key Levels
-- **Support 1:** \$100.00 (psychological round number, recent consolidation zone)
-- **Support 2:** \$85.00–\$90.00 (April 2026 lows, critical floor)
-- **Support 3:** \$70.00 (February–March consolidation area)
-- **Resistance 1:** \$120.00 (analyst consensus target area, psychological)
-- **Resistance 2:** \$150.00 (prior support turned resistance from January 2026)
-- **Resistance 3:** \$200.00+ (requires significant fundamental re-rating)
-
-### Volume & Moving Averages
-- **Recent Volume:** ~11.3M (April 20) vs. 10-day average of ~12M — volume declining during the bounce, which can signal weakening momentum.
-- **Moving Averages:** The stock recently reclaimed the 20-day moving average after trading below it for most of March. The 50-day MA sits near \$110–\$115 and is the next technical hurdle.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

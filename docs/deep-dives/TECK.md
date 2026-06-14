@@ -320,52 +320,41 @@ The merger creates exceptional value through:
 
 ## 6. TECHNICAL ANALYSIS
 
-### 6.1 Price Action Overview
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-TECK/" rel="noopener nofollow" target="_blank"><span class="blue-text">TECK stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:TECK",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-| Metric | Value | Interpretation |
-|--------|-------|----------------|
-| **Current Price** | \$48.54 | Near 52-week middle |
-| **52-Week Range** | \$28.32 - \$62.41 | +72% from lows, -22% from highs |
-| **YTD Return** | +1.37% | Slight outperformance vs. TSX |
-| **1-Year Return** | +24.23% | Strong momentum |
-| **5-Year Return** | +172.77% | Exceptional long-term performance |
-
-### 6.2 Key Technical Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **All-Time High** | ~\$62.41 | Major resistance (April 2025) |
-| **Strong Resistance** | \$55.00 | Psychological level |
-| **Recent Resistance** | \$52.00 | Near-term target |
-| **Current Price** | \$48.54 | Neutral zone |
-| **Support** | \$45.00 | Consolidation area |
-| **Strong Support** | \$40.00 | Major institutional support |
-| **Critical Support** | \$34.00 | 2024 lows, must hold |
-
-### 6.3 Moving Averages
-
-| MA | Level | Status |
-|----|-------|--------|
-| **50-Day MA** | ~\$50 | Price below; short-term neutral |
-| **200-Day MA** | ~\$42 | Price above; long-term bullish |
-| **Golden Cross** | N/A | Bullish MA alignment |
-
-### 6.4 Volume and Momentum
-
-| Indicator | Reading | Signal |
-|-----------|---------|--------|
-| **Volume** | 3.5M (vs. 4.6M avg) | Below average; consolidation |
-| **RSI (14)** | ~45 | Neutral, not overbought/oversold |
-| **MACD** | Mixed | Awaiting directional breakout |
-| **Beta** | 1.53 | Higher volatility than market |
-
-### 6.5 Chart Pattern Assessment
-
-Recent trading has shown consolidation following the September 2025 merger announcement. The stock has found support around \$45-48 range following the QB2 guidance reduction in October 2025.
-
-**Pattern:** Ascending triangle formation with resistance at \$52; breakout above \$55 would signal resumption of uptrend.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

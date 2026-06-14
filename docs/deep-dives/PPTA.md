@@ -179,34 +179,41 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 
 ## 6. TECHNICAL ANALYSIS
 
-### 6.1 Price Action
-- **Current Price:** \$26.30
-- **52-Week Range:** \$11.22 – \$37.37
-- **YTD Performance:** ~+40% (estimated)
-- **Beta:** 0.72 (lower volatility than typical mining stocks)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ / TSX-PPTA/" rel="noopener nofollow" target="_blank"><span class="blue-text">PPTA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ / TSX:PPTA",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### 6.2 Key Levels
-| Level | Price | Significance |
-|-------|-------|------------|
-| Resistance 1 | \$30.00 | Psychological round number |
-| Resistance 2 | \$37.37 | 52-week high |
-| Support 1 | \$24.00 | Recent consolidation area |
-| Support 2 | \$20.00 | Major psychological support |
-| Support 3 | \$15.00 | Pre-construction breakout level |
-
-### RSI (14-Day)
-![PPTA RSI Chart](../assets/images/PPTA_rsi.png)
-
-- **Current RSI:** 35.40
-- **Signal:** NEAR OVERSOLD — RSI approaching the 30 oversold threshold, suggesting potential buying opportunity if fundamentals remain intact
-- The recent pullback from \$37 highs to \$26 has cooled momentum, creating a more attractive entry for patient investors
-
-### 6.3 Trend Analysis
-- **Primary Trend:** Bullish (higher highs and higher lows since 2024)
-- **Recent Correction:** -30% from 52-week high — normal consolidation after rapid rally
-- **Volume:** Elevated on down days, suggesting some profit-taking but not panic selling
-
----
 
 ## 7. RECOMMENDATION
 

@@ -142,32 +142,41 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 
 ## 6. Technical Analysis: Overbought on Hope
 
-### Price Action Context
-- **April 16 close:** \$20.82
-- **1-day gain:** +21-24% (varies by source)
-- **30-day return:** +13.6% (per Yahoo Finance data)
-- **1-year return:** +54.9%
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NN/" rel="noopener nofollow" target="_blank"><span class="blue-text">NN stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:NN",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### Support/Resistance Levels
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Resistance 1** | \$22.00 | Recent high from March rally |
-| **Resistance 2** | \$25.00 | Psychological round number |
-| **Current** | \$20.82 | Post-rally consolidation zone |
-| **Support 1** | \$18.00 | Your average cost basis zone |
-| **Support 2** | \$15.00 | Pre-rally consolidation |
-| **Support 3** | \$12.00 | Major gap down if NPRM delayed |
-
-### RSI Status
-*Note: NN not available in OpenBB/FMP database (small cap). Based on price action:*
-- **Estimated RSI:** Likely 70-75 (overbought territory)
-- **Alert:** Stock spiked +24% in one day on news — classic momentum spike
-- **Risk:** Overbought rallies into binary catalysts often reverse hard
-
-### Volume Profile
-Thursday's volume spike indicates institutional interest and/or retail FOMO. High volume on +24% move suggests conviction, but also sets up for high-volume selling if catalyst disappoints.
-
----
 
 ## 7. Sentiment & Flows
 

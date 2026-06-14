@@ -95,21 +95,41 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current price:** $707.74.
-- **52-week range:** $353.69 – $788.75.
-- **Trend:** Strong uptrend since mid-2025; stock has more than doubled from 52-week lows.
-- **Key support:** $650 (recent consolidation zone) and $600 (psychological / 50-day MA vicinity).
-- **Key resistance:** $788.75 (52-week high). A break above opens path to $850+.
-- **Volume:** Average daily volume ~1.0M shares; institutional accumulation evident.
-- **RSI(14):** 51.59 — neutral territory, neither overbought nor oversold. Room to run in either direction.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PWR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PWR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:PWR",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-![PWR RSI Chart](../assets/images/PWR_rsi.png)
-
-- **Current RSI:** 51.59
-- **Signal:** NEUTRAL — momentum is balanced; no extreme reading.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

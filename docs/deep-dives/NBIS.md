@@ -202,61 +202,41 @@ As a European-headquartered AI infrastructure provider, Nebius benefits from EU 
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI Data
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NBIS/" rel="noopener nofollow" target="_blank"><span class="blue-text">NBIS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:NBIS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-The RSI analysis was performed using a 14-period calculation on daily closing prices from 2023 to present.
-
-| Date | RSI Value |
-|------|-----------|
-| Apr 16, 2026 | 81.83 |
-| Apr 17, 2026 | 79.24 |
-| Apr 20, 2026 | 87.26 |
-| Apr 21, 2026 | 82.63 |
-| **Apr 22, 2026** | **84.86** |
-
-**Latest RSI: 84.86** — deep in overbought territory. The last time NBIS RSI was below 35 (oversold) was in late 2024, before the Microsoft deal announcement. The current reading suggests a technical pullback or consolidation is likely in the near term, even if fundamentals remain strong.
-
-![NBIS RSI Chart](../assets/NBIS_RSI_20260422.png)
-
-### Support and Resistance Levels
-
-- **Immediate resistance:** \$168.71 (52-week high, tested March 2026)
-- **Key support:** \$129–\$135 (pre-Meta-deal breakout level, March 2026)
-- **Major support:** \$90–\$100 (post-Microsoft-deal consolidation zone)
-- **Critical support:** \$50–\$60 (2025 base before hyperscaler deals)
-
-### Volume and Moving Averages
-
-NBIS has exhibited elevated volume on catalyst days (Microsoft deal: +60% after-hours; Meta deal: +15% intraday; NVIDIA investment: +16%). Average weekly volatility is 14.9%, higher than 75% of U.S. stocks. [Simply Wall St data](https://simplywall.st/stocks/us/software/nasdaq-nbis/nebius-group)
-
-### Trend Structure
-
-The long-term trend is unambiguously bullish, with the stock up 616% over the past year. However, the steep angle of ascent since September 2025 is historically unsustainable. A healthy correction to the 50-day moving average (currently near \$120–\$130) would not invalidate the bull case and could provide a better risk-adjusted entry.
-
-### Market Sentiment & Flows
-
-**Analyst Ratings:**
-Nebius is covered by [31 analysts, with 17 submitting earnings or revenue estimates](https://simplywall.st/stocks/us/software/nasdaq-nbis/nebius-group). The consensus is Buy, though the dispersion of price targets is wide.
-
-- **Goldman Sachs:** Raised PT to \$205 after the Meta deal (previously \$160), maintaining robust 2026 revenue estimates of \$3.0–\$3.4 billion. [Reddit discussion](https://www.reddit.com/r/stocks/comments/1smiez3/goldman_sachs_raised_its_nebius_nbis_price_target/)
-- **Citi:** Initiated Buy/High Risk with emphasis on AI data center TAM and capital-efficient scaling. [CNBC](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html)
-- **Consensus Range:** \$120 (Goldman Sachs, pre-raise) to \$291 (high estimate on TradingView). [TipRanks average: \$167.70](https://www.tipranks.com/stocks/nbis/forecast), [Benzinga consensus: \$161.18](https://www.benzinga.com/quote/NBIS/analyst-ratings), [Public.com consensus: \$164.40](https://public.com/stocks/nbis/forecast-price-target)
-
-**Short Interest:**
-Short interest data is limited given Nebius's recent relisting and small float. The stock's 14.9% weekly volatility and rapid price appreciation suggest speculative positioning on both long and short sides.
-
-**Institutional Ownership:**
-NVIDIA (\$2B investment), Accel, and Orbis are the most prominent institutional holders. The December 2024 capital raise was oversubscribed, indicating strong institutional demand. As Nebius meets index eligibility criteria, passive fund flows (ETFs, index funds) could provide additional demand tailwinds.
-
-**Insider Activity:**
-Arkady Volozh remains the largest individual shareholder and is actively engaged as CEO. No significant insider selling has been reported post-relisting, which is a positive signal of management confidence.
-
-**Social Sentiment:**
-- **X/Twitter:** The financial community on X has been overwhelmingly bullish since the Meta deal, with many accounts highlighting the "next CoreWeave" narrative. However, some caution about the 75x P/S multiple and the need for Nebius to prove execution before justifying the \$40B valuation.
-- **Reddit:** [r/stocks threads](https://www.reddit.com/r/stocks/comments/1smiez3/goldman_sachs_raised_its_nebius_nbis_price_target/) show strong retail interest, with frequent comparisons to early-stage NVIDIA and CoreWeave.
-- **StockTwits:** Sentiment is predominantly bullish, though the extremely overbought RSI has triggered some near-term caution signals.
-
----
 
 ## 7. INVESTMENT THESIS
 

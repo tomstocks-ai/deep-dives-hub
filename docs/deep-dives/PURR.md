@@ -128,30 +128,41 @@ At \$72.96/HYPE (current approximate price):
 
 ## 6. TECHNICAL ANALYSIS
 
-### Key Levels
-- **Current Price:** \$10.97
-- **52-Week High:** \$11.62 (June 2, 2026)
-- **52-Week Low:** \$3.01 (December 2025)
-- **Distance to 52W High:** 5.9%
-- **SMA 20:** \$7.80 (price +41% above)
-- **SMA 50:** \$6.55 (price +68% above)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-PURR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PURR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:PURR",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### Momentum
-- **1-Month Performance:** +75.0%
-- **3-Month Performance:** +168.9%
-- **YTD Performance:** +218.9%
-- **Volume:** 27.6M shares (extremely elevated)
-
-### RSI (14-Day)
-![PURR RSI Chart](../assets/images/PURR_rsi.png)
-
-- **Current RSI:** 78.29
-- **Signal:** OVERBOUGHT
-- **Interpretation:** RSI above 70 indicates severely overbought conditions. The stock has gone parabolic — up 75% in a month and 219% YTD. This is momentum-driven, not fundamentals-driven. A pullback to the \$8–\$9 range (20-day SMA zone) would be healthy and provide a better entry.
-
-**What this means:** The chart is screaming "too far, too fast." Chardan's \$9.75 target was already exceeded. This is FOMO and index-inclusion front-running. Don't chase at \$11.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

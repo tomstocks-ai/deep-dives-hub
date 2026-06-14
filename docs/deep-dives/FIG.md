@@ -220,27 +220,41 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 ## 6. TECHNICAL ANALYSIS
 
-**Current RSI (14):** 47.55 — neutral territory, recovering from oversold conditions (RSI ~32 on April 24, 2026)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FIG/" rel="noopener nofollow" target="_blank"><span class="blue-text">FIG stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:FIG",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-**Price Action:**
-- **All-time high:** ~\$142.92 (post-IPO spike)
-- **Current price:** \$17.70
-- **Drawdown from highs:** -87.6%
-- **vs IPO price (\$33):** -46.4% below IPO
-- **52-week low:** \$16.60 (set April 2026)
-- **Trend:** Violent downtrend since IPO spike; recent stabilization near \$16-18 range
-
-**Support/Resistance Levels:**
-- **Support:** \$16.60 (52-week low) — psychological level; a break below opens downside to \$12-14
-- **Resistance:** \$21-22 (recent local highs), then \$28-30 (post-earnings spike zone from February 2026)
-
-**Volume Patterns:** Elevated volume on down days suggests distribution; recent stabilization on lower volume may indicate selling exhaustion.
-
-**Short Interest Dynamics:** 26.5% of float shorted with 3.57 days to cover. This is extremely high and creates asymmetric technical upside on positive news.
-
-![FIG RSI Chart](../../memory/FIG_RSI_2026-05-01.png)
-
----
 
 ## 7. RECOMMENDATION
 

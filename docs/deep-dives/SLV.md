@@ -70,17 +70,41 @@ Silver is not a cash-flowing asset — valuation is based on supply/demand balan
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (14-Day)
-![SLV RSI Chart](../assets/images/SLV_rsi.png)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-SLV/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLV stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "AMEX:SLV",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-- **Current RSI:** 35.19
-- **Signal:** NEAR OVERSOLD
-- **Interpretation:** SLV pulled back from highs near \$80. RSI below 40 suggests selling exhaustion. Previous bounces from 30–35 RSI zones have been strong. Volume declining on the pullback — non-climactic.
-
-### Key Levels
-- **Support:** \$55 (200-day MA), \$50 (psychological)
-- **Resistance:** \$68 (50-day MA), \$75 (prior high)
-- **Trend:** Pullback within broader uptrend. Price above 200-week MA.
 
 ## 7. SENTIMENT & FLOWS
 

@@ -113,21 +113,41 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$6.40
-- **52-Week High:** \$14.49 | **52-Week Low:** \$3.92
-- **Support Levels:** ~\$5.10 (accumulated volume support), ~\$3.92 (52-week low)
-- **Resistance Levels:** ~\$7.10 (recent day high), ~\$9.62 (previous close range), ~\$14.49 (52-week high)
-- **Trend:** Down from \$14.49 highs; stock has corrected ~56% from peak
-- **Volume:** Elevated at 6.4M shares (well above average) — suggests accumulation or distribution near support
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ASPI/" rel="noopener nofollow" target="_blank"><span class="blue-text">ASPI stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NASDAQ:ASPI",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### RSI (14-Day)
-![ASPI RSI Chart](../assets/images/ASPI_rsi.png)
-
-- **Current RSI:** 49.50
-- **Signal:** NEUTRAL — neither overbought nor oversold; room to move in either direction
-- RSI has reset from overbought levels above 70 seen earlier in 2025; now mid-range suggests consolidation
-
----
 
 ## 7. SENTIMENT & FLOWS
 

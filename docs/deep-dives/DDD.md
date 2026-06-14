@@ -108,25 +108,41 @@ hide:
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$3.88
-- **52-Week Range:** \$1.32 – \$4.12
-- **SMA 20:** \$3.06 | **SMA 50:** \$2.48 | **SMA 200:** \$2.38
-- **Trend:** Strong uptrend. Price is above all major moving averages.
-- **Volume:** Elevated on the recent rally (6.8M shares vs. typical ~2–3M), indicating institutional or momentum participation.
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-DDD/" rel="noopener nofollow" target="_blank"><span class="blue-text">DDD stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:DDD",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-### Key Levels
-- **Resistance:** \$4.12 (52-week high / psychological \$4). A breakout opens room toward \$5.00+.
-- **Support:** \$3.50 (recent consolidation), \$3.15 (prior breakout level), \$2.77 (gap fill from May 20).
-
-### RSI (14-Day)
-![DDD RSI Chart](../assets/images/DDD_rsi.png)
-
-- **Current RSI:** 75.25
-- **Signal:** OVERBOUGHT
-
-**What this means:** The stock has rallied ~45% in two weeks (from \$2.67 on May 19). RSI above 70 confirms overbought conditions. This is not an immediate entry point for new positions. Wait for a pullback toward the \$3.15–\$3.50 zone or for RSI to cool below 60.
-
----
 
 ## 7. SENTIMENT & FLOWS
 

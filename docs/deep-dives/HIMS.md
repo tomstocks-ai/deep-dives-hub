@@ -255,56 +255,41 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 
 ## 6. TECHNICAL ANALYSIS
 
-### RSI (Relative Strength Index) Analysis
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-HIMS/" rel="noopener nofollow" target="_blank"><span class="blue-text">HIMS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:HIMS",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-> **Note:** OpenBB data fetch was unsuccessful for HIMS. Technical analysis based on available market data.
-
-**Current Technical Picture:**
-- **Price:** \$22.02 (as of April 16, 2026)
-- **YTD Return:** +32.18% (outperforming S&P 500's +2.13%)
-- **1-Year Return:** +25.25%
-- **3-Year Return:** +125.61%
-
-**Moving Averages:**
-- **MA-20:** \$20.93 (price above = short-term bullish)
-- **MA-50:** \$19.85 (price above = medium-term bullish)
-- **MA-200:** \$38.70 (price well below = long-term bearish)
-
-**What This Means:**
-- Stock is in a **short-term uptrend** (above 20-day and 50-day MAs)
-- **Long-term downtrend** remains intact (well below 200-day MA)
-- Recent bounce from \$13.74 lows shows bottoming potential
-
-### Support and Resistance Levels
-
-| Level | Price | Significance |
-|-------|-------|--------------|
-| **Resistance 3** | \$38.70 | 200-day MA - major long-term resistance |
-| **Resistance 2** | \$26.00 | Prior support turned resistance |
-| **Resistance 1** | \$22.05 | Recent day high |
-| **Current Price** | \$22.02 | Trading near immediate resistance |
-| **Support 1** | \$19.33 | Recent consolidation area |
-| **Support 2** | \$17.24 | Volume accumulation zone |
-| **Support 3** | \$14.60 | Major psychological support / 52-week low vicinity |
-
-### Price Action Summary
-
-**Trend Structure:**
-- **Short-term:** BULLISH - Breaking above \$22 could target \$26
-- **Medium-term:** NEUTRAL - Consolidating between \$17-26 range
-- **Long-term:** BEARISH - Still -69% below 52-week high of \$70.43
-
-**Volume Profile:**
-- Average Volume: 35.2M shares
-- Recent Volume: ~6M (lower volume suggests consolidation)
-- High volume on down moves indicates distribution
-
-**Chart Patterns:**
-- Potential **inverse head and shoulders** forming with neckline at \$26
-- **Double bottom** may have formed at \$13.74
-- Break above \$26 would confirm major trend reversal
-
----
 
 ## 7. SENTIMENT & FLOWS
 

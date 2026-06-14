@@ -99,21 +99,41 @@ The stock is not cheap on spot metrics, but it is reasonably valued for a high-q
 
 ## 6. TECHNICAL ANALYSIS
 
-- **Current Price:** \$163.66 (as of 2026-06-05)
-- **52-Week Range:** \$114.60 – \$255.24
-- **Key Support:** \$155 (recent consolidation low), \$140 (200-day moving average vicinity)
-- **Key Resistance:** \$180 (prior breakdown level), \$200 (psychological), \$255 (all-time high)
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-AEM/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEM stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:AEM",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
-The stock is in a corrective phase after peaking near \$255 in early 2026. The pullback to \$163 represents a ~36% decline from highs, driven by profit-taking in gold miners after the parabolic Q1 move. Volume has been elevated on down days, suggesting distribution, but the long-term uptrend (above rising 200-week MA) remains intact.
-
-### RSI (14-Day)
-
-![AEM RSI Chart](../assets/images/AEM_rsi.png)
-
-- **Current RSI:** 35.6
-- **Signal:** Approaching oversold territory. Not a screaming buy yet, but risk/reward is improving for patient accumulators. A print below 30 would be a more decisive technical entry.
-
----
 
 ## 7. RECOMMENDATION
 
