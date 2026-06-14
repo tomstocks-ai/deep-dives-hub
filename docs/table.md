@@ -42,9 +42,9 @@
 | **OSS** | One Stop Systems, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $15.71 | 2026-06-10 | [:material-file-document: Read](deep-dives/OSS.md) |
 | **ASPI** | ASP Isotopes Inc. | <span class="badge badge-materials">Materials</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $6.40 | 2026-06-10 | [:material-file-document: Read](deep-dives/ASPI.md) |
 | **QS** | QuantumScape Corporation | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $7.00 | 2026-06-11 | [:material-file-document: Read](deep-dives/QS.md) |
-| **ADPT** | Adaptive Biotechnologies | <span class="badge badge-health">Health</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$18.78 | 2026-06-11 | [:material-file-document: Read](deep-dives/ADPT.md) |
-| **PWR** | Quanta Services, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](deep-dives/PWR.md) |
-|| **MTZ** | MasTec, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-hold">HOLD</span> | \$362.97 | 2026-06-13 | [:material-file-document: Read](deep-dives/MTZ.md) |
-|| **DDOG** | Datadog, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](deep-dives/DDOG.md) |
-|
+| **ADPT** | Adaptive Biotechnologies | <span class="badge badge-health">Health</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $18.78 | 2026-06-11 | [:material-file-document: Read](deep-dives/ADPT.md) |
+| **PWR** | Quanta Services, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $707.74 | 2026-06-13 | [:material-file-document: Read](deep-dives/PWR.md) |
+| **MTZ** | MasTec, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-hold">HOLD</span> | $362.97 | 2026-06-13 | [:material-file-document: Read](deep-dives/MTZ.md) |
+| **DDOG** | Datadog, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $229.90 | 2026-06-14 | [:material-file-document: Read](deep-dives/DDOG.md) |
+
 |---
