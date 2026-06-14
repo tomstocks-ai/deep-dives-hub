@@ -1,0 +1,51 @@
+{
+  "ticker": "PANW",
+  "company": "Palo Alto Networks, Inc.",
+  "sector": "Technology",
+  "industry": "Cybersecurity / Network & Cloud Security",
+  "exchange": "NASDAQ",
+  "price": 279.62,
+  "market_cap": "$93.5B",
+  "rating": "BUY",
+  "last_updated": "2026-06-14",
+  "thesis": "World's largest pure-play cybersecurity company executing aggressive platform consolidation via transformative acquisitions (CyberArk ~$25B, Chronosphere $3.35B). Q3 FY2026 revenue surged 31% to $3.0B with Next-Gen Security ARR up 60% to $8.1B and adjusted FCF of $910M (38.5% margin). Dominant network security moat, AI-driven threat intelligence, and identity security expansion position PANW as the primary beneficiary of enterprise vendor consolidation. At ~10x EV/Revenue, valuation is more reasonable than P/E (~173–230x) suggests. Medium-High conviction with 6-month target $290–$310.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$3.00B (Q3)",
+    "revenue_growth": "+31% YoY",
+    "gross_margin": "75.8% non-GAAP",
+    "net_income": "$(177)M GAAP",
+    "eps_diluted": "$(0.22) GAAP",
+    "cash": "$3.5B+",
+    "fcf": "$910M adjusted (Q3)"
+  },
+  "bull_case": {
+    "target": "$340–$360",
+    "drivers": [
+      "CyberArk integration accelerates identity security market share capture",
+      "Platform consolidation wave drives 20%+ NGS ARR growth sustainably",
+      "AI security (XSIAM, Precision AI) becomes industry standard"
+    ]
+  },
+  "bear_case": {
+    "target": "$240–$260",
+    "risks": [
+      "M&A integration costs exceed expectations and dilute margins",
+      "CrowdStrike or Microsoft gain significant platform share",
+      "Macro slowdown delays enterprise security spending"
+    ]
+  },
+  "base_case": {
+    "target": "$290–$310",
+    "assumptions": "Revenue grows 25-30% through FY2027, FCF margin expands to 37-40%, market assigns 12-14x EV/Revenue on sustained platform leadership"
+  },
+  "catalysts": [
+    {"date": "2026-08-18", "event": "Q4 FY2026 Earnings — guidance for FY2027"},
+    {"date": "2026-09-15", "event": "CyberArk integration milestone update"}
+  ],
+  "key_risks": [
+    "High P/E (173-230x) leaves little room for execution missteps",
+    "Large M&A integration risk from CyberArk and Chronosphere",
+    "Intensifying competition from CRWD, Microsoft, Zscaler"
+  ]
+}
