@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-U/" rel="noopener nofollow" target="_blank"><span class="blue-text">U stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NYSE:U",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+  }
+  </script>
+</div>
+
+
 # Unity Software Inc. (U) - Comprehensive Deep Dive Analysis
 
 **Date:** April 10, 2026  
@@ -282,47 +318,7 @@ At \$21.57, the market is pricing in:
    - Beta of 2.0 means 2x market volatility
    - Long-duration cash flows hurt by discount rate increases
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-U/" rel="noopener nofollow" target="_blank"><span class="blue-text">U stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "allow_symbol_change": true,
-   "calendar": false,
-   "details": false,
-   "hide_side_toolbar": true,
-   "hide_top_toolbar": false,
-   "hide_legend": false,
-   "hide_volume": false,
-   "hotlist": false,
-   "interval": "D",
-   "locale": "en",
-   "save_image": true,
-   "style": "1",
-   "symbol": "NYSE:U",
-   "theme": "dark",
-   "timezone": "Etc/UTC",
-   "backgroundColor": "#0F0F0F",
-   "gridColor": "rgba(242, 242, 242, 0.06)",
-   "watchlist": [],
-   "withdateranges": false,
-   "compareSymbols": [],
-   "studies": [
-      "STD;RSI",
-      "STD;EMA"
-   ],
-   "autosize": true,
-   "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Sentiment
 
@@ -363,7 +359,7 @@ At \$21.57, the market is pricing in:
 
 ---
 
-## 8. NEWS & RECENT DEVELOPMENTS
+## 7. NEWS & RECENT DEVELOPMENTS
 
 ### Major Recent Headlines
 
@@ -404,7 +400,7 @@ At \$21.57, the market is pricing in:
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### 🐻 BEAR CASE
 
@@ -467,7 +463,7 @@ At \$21.57, the market is pricing in:
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Overall Rating: **HOLD / SPECULATIVE BUY** 🟡
 
@@ -528,7 +524,7 @@ Unity is showing signs of a turnaround, but significant risks remain given the 2
 
 ---
 
-## 11. READABILITY PASS - KEY TERMS EXPLAINED
+## 10. READABILITY PASS - KEY TERMS EXPLAINED
 
 ### Financial Metrics Explained
 

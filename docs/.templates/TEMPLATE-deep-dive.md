@@ -13,6 +13,9 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<!-- TradingView Widget - Insert generated widget HTML here -->
+{TRADINGVIEW_WIDGET}
+
 # {TICKER} ({COMPANY_NAME}) - Comprehensive Deep Dive Analysis
 **Report Date:** {DATE}
 **Current Price:** ${PRICE}
@@ -114,13 +117,7 @@ hide:
 
 ---
 
-## 6. TECHNICAL ANALYSIS
-
-{TECHNICALS}
-
----
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 ### Summary Rating: **{RATING}**
 

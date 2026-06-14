@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-STAA/" rel="noopener nofollow" target="_blank"><span class="blue-text">STAA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NASDAQ:STAA",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+   }
+  </script>
+</div>
+
+
 # STAAR Surgical (STAA) Deep Dive Analysis
 ## April 9, 2026
 
@@ -153,47 +189,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 **What this means:** The China concentration is the #1 risk. Any adverse regulatory or economic developments in China could cut revenue in half.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-STAA/" rel="noopener nofollow" target="_blank"><span class="blue-text">STAA stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "allow_symbol_change": true,
-   "calendar": false,
-   "details": false,
-   "hide_side_toolbar": true,
-   "hide_top_toolbar": false,
-   "hide_legend": false,
-   "hide_volume": false,
-   "hotlist": false,
-   "interval": "D",
-   "locale": "en",
-   "save_image": true,
-   "style": "1",
-   "symbol": "NASDAQ:STAA",
-   "theme": "dark",
-   "timezone": "Etc/UTC",
-   "backgroundColor": "#0F0F0F",
-   "gridColor": "rgba(242, 242, 242, 0.06)",
-   "watchlist": [],
-   "withdateranges": false,
-   "compareSymbols": [],
-   "studies": [
-      "STD;RSI",
-      "STD;EMA"
-   ],
-   "autosize": true,
-   "height": 500
-   }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Sentiment
 - **Consensus Rating:** BUY (cautious)
@@ -214,7 +210,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Headlines
 - **April 2026:** "STAAR Surgical up 25% after Q1 revenue pre-announcement above consensus"
@@ -231,7 +227,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (\$35-40 target — +35-55% upside)
 **What needs to go right:**
@@ -272,7 +268,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Rating: **HOLD / SPECULATIVE BUY**
 
@@ -309,7 +305,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 ### Key Terms Explained
 

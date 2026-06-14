@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-CRML/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRML stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:CRML",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Critical Metals Corp (CRML) - Investment Deep Dive Analysis
 **Date:** April 21, 2026
 **Ticker:** CRML (NASDAQ)
@@ -304,49 +340,9 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 **Recent Insider Activity:** European Lithium sold shares in January/February 2026. However, the remaining 37.5% stake still shows alignment. Recent insider selling appears to have slowed.
 
----
+## 6. SENTIMENT & FLOWS
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-CRML/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRML stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:CRML",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
-
-### 7.1 Analyst Ratings Summary
+### 6.1 Analyst Ratings Summary
 
 | Rating | Count | Consensus |
 |--------|-------|-----------|
@@ -358,7 +354,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 **Average Price Target:** \$18.33 (+54% upside)
 **Newest Coverage:** Texas Capital initiated April 17, 2026 with Buy and \$20 target
 
-### 7.2 Institutional Ownership
+### 6.2 Institutional Ownership
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
@@ -371,7 +367,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Potential future buying catalyst as institutions enter on feasibility study
 - Texas Capital initiation may attract additional institutional interest
 
-### 7.3 Insider Activity
+### 6.3 Insider Activity
 
 | Insider | Date | Transaction | Shares | Price |
 |---------|------|-------------|--------|-------|
@@ -381,7 +377,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 **Assessment:** European Lithium (parent) has been selling shares to fund its own operations, but retains a significant 37.5% stake. Recent selling appears to have slowed with the stock at lower levels. Insider ownership of 48.57% still shows meaningful alignment.
 
-### 7.4 Social Media Sentiment
+### 6.4 Social Media Sentiment
 
 | Platform | Sentiment | Trend |
 |----------|-----------|-------|
@@ -389,7 +385,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | Twitter/X | Bullish | Polarized but momentum-oriented accounts positive |
 | StockTwits | Bullish | High message volume, breakout enthusiasm |
 
-### 7.5 News Sentiment Analysis
+### 6.5 News Sentiment Analysis
 
 **Recent Headlines (April 2026):**
 - "Critical Metals stock surges after taking full control of Greenland rare earth project" — **Positive**
@@ -401,9 +397,9 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
-### 8.1 Rare Earth Sector Overview
+### 7.1 Rare Earth Sector Overview
 
 **Key Industry Trends:**
 
@@ -415,7 +411,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | Project Vault (\$12B) | Positive — potential direct beneficiary |
 | Greenland Geopolitics | Mixed — attention but also uncertainty |
 
-### 8.2 Recent Press Releases Analysis
+### 7.2 Recent Press Releases Analysis
 
 **April 20, 2026: CEO Appointment at Tanbreez Subsidiary**
 - Thomas "TYT" Mogensen appointed CEO of Tanbreez Mining Greenland A/S
@@ -440,7 +436,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Immediate funding to advance Tanbreez
 - **Impact:** Near-term catalyst, accelerates timeline
 
-### 8.3 China Supply Chain Context
+### 7.3 China Supply Chain Context
 
 **Current State:**
 - China controls ~60% of global rare earth mining
@@ -453,7 +449,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - National security imperative creates patient capital
 - Heavy rare earths are the most strategically critical subset
 
-### 8.4 Competitive Landscape
+### 7.4 Competitive Landscape
 
 | Company | Project | Stage | Advantage vs CRML |
 |---------|---------|-------|-------------------|
@@ -471,9 +467,9 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
-### 9.1 Bull Case (+135% upside to \$28.00)
+### 8.1 Bull Case (+135% upside to \$28.00)
 
 **Probability:** 25%
 
@@ -494,7 +490,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Equity Value: \$8.5B (net of debt)
 - Per Share: \$28.00
 
-### 9.2 Base Case (+51% upside to \$18.00)
+### 8.2 Base Case (+51% upside to \$18.00)
 
 **Probability:** 50%
 
@@ -514,7 +510,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Enterprise Value: \$4.8B
 - Per Share: \$18.00 (accounting for dilution)
 
-### 9.3 Bear Case (-58% downside to \$5.00)
+### 8.3 Bear Case (-58% downside to \$5.00)
 
 **Probability:** 25%
 
@@ -533,7 +529,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Asset value only (no production premium)
 - Per Share: \$5.00
 
-### 9.4 Probability-Weighted Fair Value
+### 8.4 Probability-Weighted Fair Value
 
 | Scenario | Price Target | Probability | Weighted Value |
 |----------|--------------|-------------|----------------|
@@ -546,15 +542,15 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
-### 10.1 Overall Rating: SPECULATIVE BUY
+### 9.1 Overall Rating: SPECULATIVE BUY
 
 **Risk Profile:** HIGH RISK / HIGH REWARD
 **Time Horizon:** 3-5 years
 **Position Type:** Speculative/Growth
 
-### 10.2 Entry Strategy
+### 9.2 Entry Strategy
 
 | Entry Level | Price Range | Action |
 |-------------|-------------|--------|
@@ -565,7 +561,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 **Current Assessment:** At \$11.94, CRML has already moved +32% in one week on the Greenland news. The risk/reward is still favorable long-term but short-term entry at these levels carries pullback risk. Consider scaling in or waiting for a pullback to \$10-11.
 
-### 10.3 Position Sizing
+### 9.3 Position Sizing
 
 **Portfolio Allocation Guidelines:**
 - Maximum position size: 2-3% of portfolio (high risk)
@@ -578,7 +574,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Set **stop loss** at \$7.50 (major support break)
 - Target **partial profit** at \$18 (base case)
 
-### 10.4 Exit Strategy
+### 9.4 Exit Strategy
 
 | Exit Trigger | Price | Action |
 |--------------|-------|--------|
@@ -588,7 +584,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | Stop Loss | \$7.50 | Exit full position |
 | Thesis Break | Any | Exit if funding fails or Greenland license revoked |
 
-### 10.5 Key Monitoring Points
+### 9.5 Key Monitoring Points
 
 **Check Quarterly:**
 - Cash position and burn rate
@@ -607,16 +603,16 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 
 ---
 
-## 11. MP MATERIALS (MP) PEER COMPARISON
+## 10. MP MATERIALS (MP) PEER COMPARISON
 
-### 11.1 MP Materials Overview
+### 10.1 MP Materials Overview
 - **Market Cap:** ~\$9B (6x larger than CRML)
 - **Stage:** Producing (Mountain Pass operational since 2020)
 - **Revenue:** ~\$275M TTM
 - **Cash:** ~\$1.8B
 - **HREE Content:** ~10% (vs CRML's 27%)
 
-### 11.2 Key Differences
+### 10.2 Key Differences
 
 | Factor | CRML | MP | Advantage |
 |--------|------|-----|-----------|
@@ -629,16 +625,16 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | Valuation | \$1.46B | ~\$9B | CRML (discount) |
 | Short Interest | 31.76% | Low | CRML (squeeze potential) |
 
-### 11.3 Investment Implications
+### 10.3 Investment Implications
 - **MP:** Lower risk, lower return, suitable for conservative investors seeking rare earth exposure
 - **CRML:** Higher risk, higher return, suitable for speculative allocation; asymmetric upside from short squeeze and execution success
 - **Pair Trade:** Long CRML / Short MP could capture relative value if CRML executes on timeline
 
 ---
 
-## 12. CONCLUSION
+## 11. CONCLUSION
 
-### 12.1 Key Investment Highlights
+### 11.1 Key Investment Highlights
 
 **Strengths:**
 - ✅ World-class resource (4.7B tonnes) — largest undeveloped HREE deposit outside China
@@ -663,7 +659,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - ❌ Execution risk (only 4 employees, Arctic conditions)
 - ❌ 3+ years to first production
 
-### 12.2 Final Recommendation
+### 11.2 Final Recommendation
 
 **SPECULATIVE BUY** with the following caveats:
 
@@ -673,7 +669,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 4. **Be patient** — production is 2-3 years away; this is a hold, not a trade
 5. **Monitor funding** — watch for equity raises and JV milestones
 
-### 12.3 Price Target Summary
+### 11.3 Price Target Summary
 
 | Case | Target | Return |
 |------|--------|--------|

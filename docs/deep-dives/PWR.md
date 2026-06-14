@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PWR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PWR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:PWR",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # PWR — Quanta Services, Inc.
 
 ## 1. COMPANY OVERVIEW
@@ -91,47 +127,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 - **Political/regulatory:** Changes in federal infrastructure spending priorities (e.g., IRA repeal risk) would impact renewable and grid segments.
 - **Economic cyclicality:** Infrastructure spending is less cyclical than construction, but a deep recession would pressure utility budgets.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PWR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PWR stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:PWR",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst consensus:** 30 analysts rate PWR a "Buy" on average. Oppenheimer upgraded to Outperform (May 28, 2026) with an $800 price target — 13% upside from current levels.
 - **Mean price target:** ~$734 (per MarketBeat), implying ~4% upside. Dispersion is wide; bulls see $800+, bears see $600.
@@ -142,7 +138,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Oppenheimer upgrade (May 28, 2026):** Cited positioning in "critical sectors" — grid, data centers, and electrification. $800 PT reflects 35x 2026E adjusted EPS.
 - **Q1 2026 earnings beat (April 30, 2026):** Revenue and EPS both materially above consensus; backlog reaffirmed near $50B.
@@ -151,7 +147,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 - Grid modernization and data center infrastructure are secular growth trends with decade-long runways.
@@ -174,7 +170,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** BUY
 
@@ -199,7 +195,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 - **EBITDA:** Cash profits before interest, taxes, depreciation, and amortization. Think of it as "how much cash the core business generates before financing and accounting adjustments."
 - **Backlog:** Signed contracts where work has not yet been performed. A $50 billion backlog means Quanta has already won $50 billion in business — it just needs to execute.
@@ -209,7 +205,7 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 1. [Quanta Services Investor Relations — Q1 2026 Earnings Release](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)
 2. [Yahoo Finance — PWR Quote](https://finance.yahoo.com/quote/PWR/)

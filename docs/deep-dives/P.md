@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-P/" rel="noopener nofollow" target="_blank"><span class="blue-text">P stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NYSE:P",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+   }
+  </script>
+</div>
+
+
 # P (Everpure, Inc.) — Comprehensive Deep Dive Analysis
 **Report Date:** 2026-05-12
 **Current Price:** \$83.33
@@ -260,47 +296,7 @@ At current levels, the market is pricing in:
    - NAND flash supply concentrated among Samsung, SK Hynix, Kioxia, Micron
    - China tensions could disrupt component supply or market access
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-P/" rel="noopener nofollow" target="_blank"><span class="blue-text">P stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "allow_symbol_change": true,
-   "calendar": false,
-   "details": false,
-   "hide_side_toolbar": true,
-   "hide_top_toolbar": false,
-   "hide_legend": false,
-   "hide_volume": false,
-   "hotlist": false,
-   "interval": "D",
-   "locale": "en",
-   "save_image": true,
-   "style": "1",
-   "symbol": "NYSE:P",
-   "theme": "dark",
-   "timezone": "Etc/UTC",
-   "backgroundColor": "#0F0F0F",
-   "gridColor": "rgba(242, 242, 242, 0.06)",
-   "watchlist": [],
-   "withdateranges": false,
-   "compareSymbols": [],
-   "studies": [
-      "STD;RSI",
-      "STD;EMA"
-   ],
-   "autosize": true,
-   "height": 500
-   }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 ### Summary Rating: **HOLD / WAIT FOR PULLBACK** <span class="rating-hold">HOLD</span>
 
@@ -356,7 +352,7 @@ Everpure is a high-quality business executing well on a multi-year transition to
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 **All-Flash Storage:** Data storage systems that use flash memory (the same technology in USB drives and smartphones) instead of spinning mechanical hard disks. Flash is faster, more reliable, and uses less power — but historically cost more per gigabyte. Everpure's innovation is making all-flash cost-competitive with disk for enterprise workloads.
 
@@ -380,7 +376,7 @@ Everpure is a high-quality business executing well on a multi-year transition to
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 - [x] Yahoo Finance — P quote, market data, and key statistics
 - [x] Everpure, Inc. Investor Relations — FY2026 earnings release and presentation

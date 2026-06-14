@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-QS/" rel="noopener nofollow" target="_blank"><span class="blue-text">QS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:QS",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # QuantumScape Corporation (QS)
 
 **Sector:** Technology — Solid-State Batteries  
@@ -115,47 +151,7 @@ Traditional multiples (P/E, EV/EBITDA, P/S) are not applicable. Valuation is sce
 - **Commodity prices:** Lithium and other input costs affect the economics of solid-state vs. conventional Li-ion.
 - **Interest rates:** Higher rates reduce the present value of distant cash flows and make capital raises more expensive.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-QS/" rel="noopener nofollow" target="_blank"><span class="blue-text">QS stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:QS",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Ratings:** 7 Hold, 2 Sell, 0 Buy (as of June 2026). Neutral-to-bearish consensus reflects pre-revenue risk and timeline uncertainty.
 - **Price Targets:** Median ~\$8.15; range \$5–\$15. Current price near the low end of the range.
@@ -165,7 +161,7 @@ Traditional multiples (P/E, EV/EBITDA, P/S) are not applicable. Valuation is sce
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Eagle Line Milestone (Q1 2026):** Management highlighted the completion of Eagle Line installation as the most significant operational milestone of the quarter. Start-up operations are now underway.
 - **Analyst Skepticism:** Multiple analysts have noted that large-scale commercialization before 2030 remains unlikely despite aggressive timelines from some solid-state players.
@@ -174,7 +170,7 @@ Traditional multiples (P/E, EV/EBITDA, P/S) are not applicable. Valuation is sce
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (\$18–\$22)
 - Eagle Line successfully produces validation cells that meet OEM specs
@@ -199,7 +195,7 @@ Traditional multiples (P/E, EV/EBITDA, P/S) are not applicable. Valuation is sce
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** <span class="rating-spec-hold">HOLD / SPEC.</span>
 
@@ -227,7 +223,7 @@ QuantumScape is a binary, pre-revenue bet on solid-state battery commercializati
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 **What is a solid-state battery?**  
 Conventional EV batteries use a liquid electrolyte — the gooey substance that lets lithium ions flow between the anode and cathode. Solid-state batteries replace this liquid with a solid ceramic or glass material. Think of it like replacing a water balloon with a ceramic tile: it cannot leak, catch fire, or degrade in the same way.

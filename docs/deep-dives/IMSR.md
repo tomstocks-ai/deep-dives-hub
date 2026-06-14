@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-IMSR/" rel="noopener nofollow" target="_blank"><span class="blue-text">IMSR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NASDAQ:IMSR",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+   }
+  </script>
+</div>
+
+
 # IMSR (Terrestrial Energy Inc.) - Deep Dive Analysis
 **Report Date:** April 4, 2026  
 **Ticker:** IMSR (NASDAQ)  
@@ -294,47 +330,7 @@ The valuation is highly sensitive to:
 - Proliferation concerns (addressed through IAEA engagement)
 - Uranium mining impacts
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-IMSR/" rel="noopener nofollow" target="_blank"><span class="blue-text">IMSR stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "allow_symbol_change": true,
-   "calendar": false,
-   "details": false,
-   "hide_side_toolbar": true,
-   "hide_top_toolbar": false,
-   "hide_legend": false,
-   "hide_volume": false,
-   "hotlist": false,
-   "interval": "D",
-   "locale": "en",
-   "save_image": true,
-   "style": "1",
-   "symbol": "NASDAQ:IMSR",
-   "theme": "dark",
-   "timezone": "Etc/UTC",
-   "backgroundColor": "#0F0F0F",
-   "gridColor": "rgba(242, 242, 242, 0.06)",
-   "watchlist": [],
-   "withdateranges": false,
-   "compareSymbols": [],
-   "studies": [
-      "STD;RSI",
-      "STD;EMA"
-   ],
-   "autosize": true,
-   "height": 500
-   }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Sentiment
 
@@ -383,7 +379,7 @@ The valuation is highly sensitive to:
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Press Releases (2025-2026)
 
@@ -414,7 +410,7 @@ The valuation is highly sensitive to:
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (40% probability)
 
@@ -476,7 +472,7 @@ The valuation is highly sensitive to:
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Rating: **SPECULATIVE BUY**
 
@@ -550,7 +546,7 @@ The valuation is highly sensitive to:
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 ### Key Terms Explained
 

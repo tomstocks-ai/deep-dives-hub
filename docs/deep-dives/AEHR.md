@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AEHR/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEHR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+    {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:AEHR",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # AEHR (Aehr Test Systems) - Comprehensive Investment Deep Dive
 **Report Date:** April 6, 2026  
 **Ticker:** NASDAQ: AEHR  
@@ -208,47 +244,7 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 - **Guidance History:** Company withdrew guidance in 2024 before reinstating in January 2026
 - **Short Interest:** 15.58% short float indicates significant bearish sentiment
 
----
-
-## 6. Technical Analysis
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AEHR/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEHR stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-    {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:AEHR",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
+## 6. Sentiment & Flows
 
 ### Analyst Ratings
 | Firm | Rating | Price Target | Date |
@@ -313,7 +309,7 @@ Based on recent news flow:
 
 ---
 
-## 8. Substack & News Scan
+## 7. Substack & News Scan
 
 ### Recent Developments (March-April 2026)
 
@@ -354,7 +350,7 @@ Based on recent news flow:
 
 ---
 
-## 9. Investment Thesis
+## 8. Investment Thesis
 
 ### Bull Case (\$65-75 Target)
 **Probability:** 30%
@@ -400,7 +396,7 @@ Based on recent news flow:
 
 ---
 
-## 10. Recommendation
+## 9. Recommendation
 
 ### Overall Rating: **SPECULATIVE BUY / HOLD**
 
@@ -451,7 +447,7 @@ AEHR represents a **high-risk, high-reward turnaround play** in the semiconducto
 
 ---
 
-## 11. Readability & Clarity Pass
+## 10. Readability & Clarity Pass
 
 ### Key Acronyms Explained
 | Acronym | Meaning | Context |

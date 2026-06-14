@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FIG/" rel="noopener nofollow" target="_blank"><span class="blue-text">FIG stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:FIG",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Figma, Inc. (FIG) - Comprehensive Deep Dive Analysis
 
 **Date:** May 1, 2026  
@@ -216,47 +252,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 
 7. **Customer Concentration in Tech (LOW-MEDIUM):** Tech sector layoffs and budget cuts could impact Figma's core customer base. The 136% NRR suggests strong health, but a tech downturn would slow expansion revenue.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FIG/" rel="noopener nofollow" target="_blank"><span class="blue-text">FIG stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:FIG",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 ### Summary Rating: **SPECULATIVE BUY**
 

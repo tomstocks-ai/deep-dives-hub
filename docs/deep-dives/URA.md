@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-URA/" rel="noopener nofollow" target="_blank"><span class="blue-text">URA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "AMEX:URA",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # URA — Global X Uranium ETF
 
 ## 1. OVERVIEW
@@ -78,45 +114,7 @@ URA is valued relative to uranium spot prices and miner earnings.
 - **Miner dilution** — Junior miners raise capital via equity at low prices, diluting shareholders.
 - **Long development timelines** — Even with high prices, new mines take 10+ years.
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-URA/" rel="noopener nofollow" target="_blank"><span class="blue-text">URA stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "AMEX:URA",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **URA AUM:** ~\$2.5B. Saw outflows during the recent correction but stabilizing.
 - **Sprott Physical Uranium Trust:** Holdings at record highs. Physical removal from market is a persistent tailwind.
@@ -124,7 +122,7 @@ URA is valued relative to uranium spot prices and miner earnings.
 - **Short interest:** Low on URA itself, but some junior miners heavily shorted.
 - **Institutional:** Increasing allocation to uranium as "energy transition" theme. Pension funds and endowments adding physical exposure via Sprott.
 
-## 8. INVESTMENT THESIS
+## 7. INVESTMENT THESIS
 
 ### Bull Case
 Nuclear is the only scalable zero-carbon baseload power. Reactor demand is growing while mine supply is constrained. The deficit is structural and widening. Uranium must reach \$100–150/lb to incentivize new production. URA could double from current levels over 2–3 years.
@@ -135,7 +133,7 @@ Steady demand growth meets slowly responding supply. Uranium trades \$90–110. 
 ### Bear Case
 Nuclear sentiment sours; recession delays reactor builds; secondary supply fills the gap. Uranium drops to \$60–75. URA falls to \$30–38. Risk is asymmetric — upside is larger than downside given the structural deficit.
 
-## 9. RECOMMENDATION
+## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
 - **Position sizing:** 3–5% of portfolio as energy/commodities allocation
@@ -151,7 +149,7 @@ Nuclear sentiment sours; recession delays reactor builds; secondary supply fills
   - Japan reactor restart approvals
   - Sprott Physical Uranium Trust NAV updates
 
-## 10. READABILITY PASS
+## 9. READABILITY PASS
 
 - **ETF (Exchange-Traded Fund):** A fund that trades like a stock. URA holds uranium mining company shares, not uranium metal itself.
 - **U₃O₈ (Uranium oxide):** The form of uranium that is traded and used as reactor fuel. Prices are quoted per pound of U₃O₈.
@@ -160,7 +158,7 @@ Nuclear sentiment sours; recession delays reactor builds; secondary supply fills
 - **Secondary supply:** Uranium from sources other than mines — stockpiles, recycled weapons material, enrichment byproducts. This can temporarily fill supply gaps.
 - **SMR:** Small Modular Reactor — a newer, smaller type of nuclear reactor that can be factory-built and deployed more quickly than traditional large plants.
 
-## 11. SOURCES CONSULTED
+## 10. SOURCES CONSULTED
 
 1. [Global X URA Fact Sheet](https://www.globalxetfs.com/funds/ura/)
 2. [Sprott Uranium Outlook 2026](https://sprottetfs.com/insights/uranium-outlook-2026/)

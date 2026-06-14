@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-EOSE/" rel="noopener nofollow" target="_blank"><span class="blue-text">EOSE stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:EOSE",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # EOSE Deep Dive Analysis: Eos Energy Enterprises, Inc.
 **Report Date:** April 5, 2026  
 **Ticker:** EOSE (NASDAQ)  
@@ -245,47 +281,7 @@ hide:
 | **Policy Change** | 🟡 MEDIUM | IRA repeal or modification would hurt competitiveness |
 | **Grid Interconnection Delays** | 🟡 MEDIUM | Utilities face interconnection backlogs delaying deployments |
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-EOSE/" rel="noopener nofollow" target="_blank"><span class="blue-text">EOSE stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:EOSE",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Ratings
 
@@ -327,7 +323,7 @@ hide:
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Press Releases (Feb-Apr 2026)
 
@@ -352,7 +348,7 @@ hide:
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (\$18+ Target / +270% Upside)
 
@@ -389,7 +385,7 @@ hide:
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Rating: SPECULATIVE BUY
 
@@ -431,7 +427,7 @@ hide:
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 ### Key Terms Explained
 

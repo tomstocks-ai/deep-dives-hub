@@ -54,13 +54,45 @@ Assign one rating with its CSS class:
 
 ## Your Output
 
-When given a ticker, produce EXACTLY these 5 artifacts, clearly separated:
+When given a ticker, produce EXACTLY these 4 artifacts, clearly separated:
 
 ---
 
-### ARTIFACT 5: TradingView Widget (embedded in deep dive)
+### ARTIFACT 1: Full Deep Dive (`docs/deep-dives/{TICKER}.md`)
 
-Instead of a static RSI chart, embed a live TradingView Advanced Chart widget in the TECHNICAL ANALYSIS section. The widget includes RSI and EMA studies.
+Front matter MUST be:
+
+```yaml
+---
+title: "{TICKER} — {Company Name}"
+hide:
+  - navigation
+---
+```
+
+First line after front matter MUST be:
+
+```markdown
+[← Back to Summary](../index.md)
+```
+
+Immediately after the back link, embed the **TradingView Widget** (see below for HTML).
+
+Then the full analysis following this structure:
+1. COMPANY OVERVIEW (business model, revenue segments, competitive moat, management)
+2. FINANCIAL ANALYSIS (income statement, balance sheet, cash flow)
+3. VALUATION (multiples, DCF/scenario analysis with bull/base/bear targets)
+4. GROWTH CATALYSTS
+5. RISKS
+6. RECOMMENDATION (rating, position sizing, entry strategy, stop loss, catalyst calendar)
+7. READABILITY PASS (jargon explained in plain English)
+8. SOURCES CONSULTED
+
+---
+
+### TradingView Widget
+
+Embed a live TradingView Advanced Chart widget at the **top of the deep dive** (right after the back link). The widget includes RSI and EMA studies.
 
 **Widget HTML** (replace `{EXCHANGE}` and `{TICKER}` with correct values):
 
@@ -109,40 +141,7 @@ Instead of a static RSI chart, embed a live TradingView Advanced Chart widget in
 | NYSE | `NYSE` |
 | NYSE Arca / NYSE American | `AMEX` |
 
-**Embedding in deep dive:** The widget goes directly under the `## 6. TECHNICAL ANALYSIS` header with no additional text needed — the widget provides live RSI, EMA, volume, and price data interactively.
-
 **Helper script:** Run `python helpers/generate_widget.py {TICKER} [EXCHANGE]` to generate the HTML. If exchange is omitted, it reads from `docs/api/{TICKER}.json`.
-
----
-
-### ARTIFACT 1: Full Deep Dive (`docs/deep-dives/{TICKER}.md`)
-
-Front matter MUST be:
-
-```yaml
----
-title: "{TICKER} — {Company Name}"
-hide:
-  - navigation
----
-```
-
-First line after front matter MUST be:
-
-```markdown
-[← Back to Summary](../index.md)
-```
-
-Then the full analysis following this structure:
-1. COMPANY OVERVIEW (business model, revenue segments, competitive moat, management)
-2. FINANCIAL ANALYSIS (income statement, balance sheet, cash flow)
-3. VALUATION (multiples, DCF/scenario analysis with bull/base/bear targets)
-4. GROWTH CATALYSTS
-5. RISKS
-6. TECHNICAL ANALYSIS (TradingView widget — see Artifact 5)
-7. RECOMMENDATION (rating, position sizing, entry strategy, stop loss, catalyst calendar)
-8. READABILITY PASS (jargon explained in plain English)
-9. SOURCES CONSULTED
 
 ---
 
@@ -271,7 +270,7 @@ When generating Markdown content, escape these characters to avoid rendering iss
 Before publishing, run through these checks to ensure completeness and consistency:
 
 ### Content Checks
-- [ ] All 5 artifacts are generated (Deep Dive, Index Row, Sector Additions, JSON API, TradingView Widget)
+- [ ] All 4 artifacts are generated (Deep Dive with widget, Index Row, Sector Additions, JSON API)
 - [ ] TradingView widget uses correct exchange code (NASDAQ/NYSE/AMEX)
 - [ ] Price targets (Bull/Base/Bear) are consistent across all artifacts
 - [ ] Rating and sector classification match in all files
@@ -288,7 +287,7 @@ Before publishing, run through these checks to ensure completeness and consisten
 - [ ] **All dollar signs are escaped (`\$`)** — unescaped `$` triggers LaTeX math mode in MkDocs/Markdown and breaks rendering
 
 ### Completeness Checks
-- [ ] Deep dive covers all 9 required sections (Overview, Financials, Valuation, Catalysts, Risks, Technicals, Recommendation, Readability, Sources)
+- [ ] Deep dive covers all 8 required sections (Overview, Financials, Valuation, Catalysts, Risks, Recommendation, Readability, Sources) plus widget at top
 - [ ] Sector page has both table row AND gist section
 - [ ] `docs/api/tickers.json` includes the new entry
 - [ ] Date format is consistent (`YYYY-MM-DD` everywhere)

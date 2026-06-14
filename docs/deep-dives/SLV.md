@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-SLV/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLV stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "AMEX:SLV",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # SLV — iShares Silver Trust
 
 ## 1. OVERVIEW
@@ -68,52 +104,14 @@ Silver is not a cash-flowing asset — valuation is based on supply/demand balan
 - **ETF outflows** — SLV holdings have declined before during risk-off periods as investors sell "what they can."
 - **Regulatory** — Potential changes to commodity ETF structures or tax treatment.
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-SLV/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLV stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "AMEX:SLV",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **ETF holdings:** SLV AUM ~\$12B. Holdings declined 8% from peak but stabilized in recent weeks.
 - **COT report:** Commercial traders (producers) have reduced net short positions — historically bullish.
 - **Retail interest:** r/WallStreetSilver remains active; coin premiums elevated vs. spot.
 - **Analyst consensus:** Bullish bias. EBC Financial Group sees \$45–\$60 average in 2026. GoldSilver.com notes bearish forecasts still see \$35–\$40 as a floor.
 
-## 8. INVESTMENT THESIS
+## 7. INVESTMENT THESIS
 
 ### Bull Case
 Silver is the most undervalued precious metal. Structural supply deficit + electrification demand (solar, EVs, AI) creates a demand floor. Investment demand spikes during uncertainty. Gold/silver ratio compression adds a kicker. Target \$75–85.
@@ -124,7 +122,7 @@ Steady grind higher. Industrial demand grows 3–4% annually. Investment demand 
 ### Bear Case
 Global manufacturing recession. Solar silver usage falls faster than capacity rises. Dollar strength persists. Silver retests \$30–32. SLV drops 15–20%.
 
-## 9. RECOMMENDATION
+## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
 - **Position sizing:** 3–5% of portfolio as precious metals allocation
@@ -138,7 +136,7 @@ Global manufacturing recession. Solar silver usage falls faster than capacity ri
   - Quarterly solar installation data (China, U.S.)
   - LBMA/COMEX inventory reports
 
-## 10. READABILITY PASS
+## 9. READABILITY PASS
 
 - **ETF (Exchange-Traded Fund):** A basket of assets (here, physical silver bars) that trades on a stock exchange like a single stock.
 - **Spot price:** The current market price for immediate delivery of a commodity.
@@ -147,7 +145,7 @@ Global manufacturing recession. Solar silver usage falls faster than capacity ri
 - **COT report:** Commitments of Traders — a weekly report showing what different types of traders (producers, speculators) are doing in futures markets.
 - **Real interest rates:** The interest rate after subtracting inflation. When real rates are low or negative, holding silver (which pays no interest) becomes more attractive.
 
-## 11. SOURCES CONSULTED
+## 10. SOURCES CONSULTED
 
 1. [iShares SLV Fact Sheet](https://www.ishares.com/us/products/239855/ishares-silver-trust)
 2. [Silver Institute — World Silver Survey 2026](https://www.silverinstitute.org)

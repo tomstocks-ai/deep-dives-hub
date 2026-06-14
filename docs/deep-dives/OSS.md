@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-OSS/" rel="noopener nofollow" target="_blank"><span class="blue-text">OSS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:OSS",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # OSS — One Stop Systems, Inc.
 
 **Sector:** Technology | **Industry:** AI Edge Compute / Rugged Transportable Systems  
@@ -124,47 +160,7 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 - **Defense Budget Cuts:** A shift in U.S. defense priorities or budget sequestration would hurt.
 - **Technology Obsolescence:** Rapid GPU generational turnover (NVIDIA Blackwell, etc.) requires continuous R&D investment.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-OSS/" rel="noopener nofollow" target="_blank"><span class="blue-text">OSS stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:OSS",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 **Rating:** SPECULATIVE BUY
 
@@ -191,7 +187,7 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 **What "Gross Margin" Means:** Of every dollar OSS sells, it keeps about 52 cents after paying for the physical components (GPUs, chassis, memory). The rest covers R&D, sales, and overhead. A 52% gross margin is strong for hardware — it means OSS adds real engineering value, not just assembly.
 
@@ -203,7 +199,7 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 1. [One Stop Systems Q1 2026 Earnings Release](https://www.stocktitan.net/news/OSS/one-stop-systems-reports-q1-2026-bqtpnhb0w005.html)
 2. [One Stop Systems Q4 2025 Earnings Review — Cestrian Capital](https://www.cestriancapitalresearch.com/the-future-of-war-part-deux-one-stop-systems-oss-q4-fy12-25-earnings-review/)

@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-LEU/" rel="noopener nofollow" target="_blank"><span class="blue-text">LEU stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:LEU",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # LEU — Centrus Energy Corp.
 
 ## 1. COMPANY OVERVIEW
@@ -115,47 +151,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 - **Geopolitical:** The push for domestic enrichment is partly driven by desire to reduce reliance on Russian supply. A geopolitical thaw could reduce urgency.
 - **ESG/Nuclear Sentiment:** Public opposition to nuclear power, though fading, remains a tail risk.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-LEU/" rel="noopener nofollow" target="_blank"><span class="blue-text">LEU stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:LEU",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Ratings:** 11 Buy, 3 Hold, 0 Sell (consensus: Buy)
 - **Price Target Dispersion:** Wide — \$137 to \$390. The \$300 median implies ~85% upside.
@@ -166,7 +162,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Q1 2026 Earnings (May 5, 2026):** Revenue \$76.7M, net income \$10.0M. Raised FY2026 guidance to \$450–\$500M. Market reacted negatively to "miss" vs. whisper numbers.
 - **DOE Funding:** Ongoing \$900M award execution. Additional billions under consideration for domestic nuclear fuel supply chain.
@@ -176,7 +172,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 - HALEU demand is structurally growing for SMRs and advanced reactors.
@@ -203,7 +199,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** SPEC. BUY
 
@@ -229,7 +225,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ---
 
-## 11. READABILITY PASS
+## 10. READABILITY PASS
 
 **What Centrus Actually Does:** They run centrifuges that spin uranium gas to increase its purity. Utilities buy this enriched uranium to fuel nuclear power plants. The "SWU" they sell is basically the work of spinning — the higher the purity, the more work (and revenue).
 
@@ -243,7 +239,7 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 1. [Yahoo Finance - LEU](https://finance.yahoo.com/quote/LEU/)
 2. [Centrus Energy Q1 2026 Earnings Release](https://www.prnewswire.com/news-releases/centrus-reports-first-quarter-2026-results-302763250.html)

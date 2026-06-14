@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-AEM/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEM stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+    {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:AEM",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # AEM — Agnico Eagle Mines Limited
 
 ## 1. COMPANY OVERVIEW
@@ -95,47 +131,7 @@ The stock is not cheap on spot metrics, but it is reasonably valued for a high-q
 - **Geopolitical de-escalation:** Reduced global tension could dampen safe-haven demand for gold.
 - **ESY / permitting delays:** While AEM operates in stable jurisdictions, any unexpected permitting slowdown (e.g., in Quebec or Ontario) could delay expansions.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-AEM/" rel="noopener nofollow" target="_blank"><span class="blue-text">AEM stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-    {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:AEM",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 **Rating:** <span class="rating-buy">BUY</span>
 
@@ -160,7 +156,7 @@ AEM is the highest-quality large-cap gold miner. The balance sheet is pristine, 
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 - **AISC (All-In Sustaining Costs):** The full cost to produce one ounce of gold, including mining, processing, royalties, sustaining capital, and corporate overhead. AEM's AISC of ~$1,483/oz in Q1 means it earns ~$3,378/oz in margin at $4,861 gold.
 - **FCF (Free Cash Flow):** Cash left after all operating expenses and capital spending. AEM generated ~$730M in Q1 alone — money that can be returned to shareholders or used for growth.
@@ -168,7 +164,7 @@ AEM is the highest-quality large-cap gold miner. The balance sheet is pristine, 
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 1. [Agnico Eagle Mines Q1 2026 Earnings Release](https://www.agnicoeagle.com/English/news-and-media/news-releases/news-details/2026/AGNICO-EAGLE-REPORTS-FIRST-QUARTER-2026-RESULTS-INCLUDING-RECORD-QUARTERLY-OPERATING-MARGINS-AND-ADJUSTED-NET-INCOME/default.aspx)
 2. [Quiver Quantitative — AEM Q1 2026 Summary](https://www.quiverquant.com/news/Agnico+Eagle+Mines+Limited+(AEM)+Releases+Q1+2026+Earnings:+Revenue,+Profit+and+Cash+Surge)

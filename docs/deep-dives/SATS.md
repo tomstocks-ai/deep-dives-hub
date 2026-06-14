@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATS/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:SATS",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # EchoStar Corporation (SATS) - Investment-Grade Deep Dive Analysis
 
 **Report Date:** April 4, 2026  
@@ -280,49 +316,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 - **Economic Downturn:** Pay-TV and wireless are economically sensitive
 - **Competitive Intensity:** Wireless and pay-TV are mature, competitive markets
 
----
+## 6. Sentiment & Flows
 
-## 6. Technical Analysis
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATS/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATS stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:SATS",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
-
-### 7.1 Analyst Sentiment
+### 6.1 Analyst Sentiment
 
 | Rating | Count | % |
 |--------|-------|---|
@@ -334,7 +330,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 **Consensus:** BUY (Average Price Target: \$129.40)
 
-### 7.2 Recent Analyst Actions
+### 6.2 Recent Analyst Actions
 
 | Date | Analyst | Firm | Action | Target |
 |------|---------|------|--------|--------|
@@ -346,19 +342,19 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 **Trend:** Analysts significantly upgraded price targets following the AT&T/SpaceX deal announcements (Q4 2025 - Q1 2026).
 
-### 7.3 Institutional Ownership
+### 6.3 Institutional Ownership
 
 - **Major Holders:** Charles Ergen (significant insider ownership), institutional investors
 - **Recent Activity:** Likely accumulation by value/event-driven funds post-transformation
 - **Float:** Limited due to concentrated insider ownership
 
-### 7.4 Short Interest
+### 6.4 Short Interest
 
 - Previously elevated during distress period
 - Likely declined significantly post-deal announcements
 - Short covering may have contributed to rapid price appreciation
 
-### 7.5 Social/Media Sentiment
+### 6.5 Social/Media Sentiment
 
 - **Reddit/Retail:** Mixed—bullish on SpaceX angle, bearish on legacy business
 - **Twitter/X:** Positive on transformation narrative
@@ -366,9 +362,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ---
 
-## 8. Substack & News Scan
+## 7. Substack & News Scan
 
-### 8.1 Recent Developments (March-April 2026)
+### 7.1 Recent Developments (March-April 2026)
 
 | Date | Development | Impact |
 |------|-------------|--------|
@@ -377,7 +373,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Mar 19, 2026 | Major debt restructuring announced | Positive - formalized deleveraging plan |
 | Late Mar 2026 | Stock crossed above avg. analyst target (\$120.50) | Neutral - now trading above consensus |
 
-### 8.2 Key News Themes
+### 7.2 Key News Themes
 
 **Positive:**
 - "EchoStar Details \$42 Billion Strategic Shift via SpaceX and AT&T Asset Divestitures" (SatNews, Mar 2026)
@@ -389,7 +385,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 - Subscriber losses across all segments
 - "2025 in Review: EchoStar Navigates a Series of Storms" (Light Reading, Jan 2026)
 
-### 8.3 Competitive Landscape News
+### 7.3 Competitive Landscape News
 
 **Starlink Dominance:**
 - Starlink ended Q2 2025 with 72% market share of satellite internet households (S&P Global)
@@ -400,7 +396,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 - Ranked 3rd globally with only 1.0% of speed tests (Ookla, Q3 2025)
 - Subscriber base declining (-44K in Q4 2025)
 
-### 8.4 Sector Trends
+### 7.4 Sector Trends
 
 - **Satellite Internet Market:** \$10.4B (2024) → \$22.6B (2030) at 13.9% CAGR
 - **5G Deployment:** Mature in urban areas; focus shifting to rural coverage
@@ -408,9 +404,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ---
 
-## 9. Investment Thesis
+## 8. Investment Thesis
 
-### 9.1 Bull Case (40% Probability) - Target: \$180-220
+### 8.1 Bull Case (40% Probability) - Target: \$180-220
 
 **Thesis:** The "SpaceX Arbitrage" Play
 
@@ -422,7 +418,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 **Price Target:** \$180-220 (40-70% upside)
 
-### 9.2 Base Case (45% Probability) - Target: \$125-145
+### 8.2 Base Case (45% Probability) - Target: \$125-145
 
 **Thesis:** The "Fair Value" Transformation
 
@@ -434,7 +430,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 **Price Target:** \$125-145 (-3% to +13% from current)
 
-### 9.3 Bear Case (15% Probability) - Target: \$60-80
+### 8.3 Bear Case (15% Probability) - Target: \$60-80
 
 **Thesis:** The "Broken Transformation"
 
@@ -446,7 +442,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 **Price Target:** \$60-80 (-38% to -53% downside)
 
-### 9.4 Expected Value Calculation
+### 8.4 Expected Value Calculation
 
 | Scenario | Probability | Target | Weighted Value |
 |----------|-------------|--------|----------------|
@@ -459,9 +455,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ---
 
-## 10. Recommendation
+## 9. Recommendation
 
-### 10.1 Investment Rating: **ACCUMULATE / SPECULATIVE BUY**
+### 9.1 Investment Rating: **ACCUMULATE / SPECULATIVE BUY**
 
 | Factor | Assessment |
 |--------|------------|
@@ -471,7 +467,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Quality | Medium (improving with deleveraging) |
 | Timing | Post-major-announcement; wait for pullback |
 
-### 10.2 Position Sizing Guidelines
+### 9.2 Position Sizing Guidelines
 
 | Portfolio Type | Suggested Allocation | Rationale |
 |----------------|---------------------|-----------|
@@ -480,7 +476,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Aggressive/Growth | 3-5% | Core speculative holding |
 | Event-Driven | 5-10% | High conviction on deal completion |
 
-### 10.3 Entry Strategy
+### 9.3 Entry Strategy
 
 **Immediate Action:** Wait for pullback to \$115-120 range
 
@@ -492,7 +488,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | \$100-110 | Full Position | Rare opportunity if reached |
 | <\$100 | Back Up the Truck | Significant margin of safety |
 
-### 10.4 Exit Strategy
+### 9.4 Exit Strategy
 
 **Stop Loss:** \$95 (hard stop - below major support)
 
@@ -501,7 +497,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 - 1/3 position at \$185 (+44%)
 - Hold 1/3 for SpaceX IPO upside (\$200+)
 
-### 10.5 Catalyst Calendar
+### 9.5 Catalyst Calendar
 
 | Date | Catalyst | Bullish/Bearish |
 |------|----------|-----------------|
@@ -512,7 +508,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Ongoing | Debt paydown announcements | Bullish |
 | Ongoing | Boost Mobile subscriber reports | Watch closely |
 
-### 10.6 Key Metrics to Monitor
+### 9.6 Key Metrics to Monitor
 
 1. **FCC Transaction Approval Status** (Critical)
 2. **SpaceX Valuation/IPO News** (Major catalyst)
@@ -523,9 +519,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ---
 
-## 11. Readability Pass: Jargon Explained
+## 10. Readability Pass: Jargon Explained
 
-### 11.1 Financial Terms
+### 10.1 Financial Terms
 
 | Term | Plain English Explanation |
 |------|--------------------------|
@@ -535,7 +531,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | **Non-Cash Impairment** | When a company admits assets (like spectrum licenses) are worth less than they thought. It's an accounting loss, not actual cash leaving the company. |
 | **CapEx** | "Capital Expenditure"—money spent on big items like cell towers, satellites, or equipment. |
 
-### 11.2 Industry Terms
+### 10.2 Industry Terms
 
 | Term | Plain English Explanation |
 |------|--------------------------|
@@ -546,7 +542,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | **Direct-to-Device (D2D)** | Technology that lets satellites send signals directly to regular cell phones (no special equipment needed). SpaceX's Starlink is pioneering this. |
 | **Cord-Cutting** | People canceling traditional cable/satellite TV in favor of streaming services like Netflix. |
 
-### 11.3 Transaction Terms
+### 10.3 Transaction Terms
 
 | Term | Plain English Explanation |
 |------|--------------------------|
@@ -557,9 +553,9 @@ Post-transactions, EchoStar retains significant spectrum assets:
 
 ---
 
-## 12. Appendix: Key Data Tables
+## 11. Appendix: Key Data Tables
 
-### 12.1 Quarterly Subscriber Trends
+### 11.1 Quarterly Subscriber Trends
 
 | Segment | Q4 2024 | Q4 2025 | Change |
 |---------|---------|---------|--------|
@@ -569,7 +565,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Boost Wireless | 7.52M | 7.51M | -9K |
 | HughesNet | 783K | 739K | -44K |
 
-### 12.2 Debt Profile (Pre-Restructuring)
+### 11.2 Debt Profile (Pre-Restructuring)
 
 | Debt Type | Amount | Maturity | Rate |
 |-----------|--------|----------|------|
@@ -578,7 +574,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 | Other Debt | ~\$21B | Various | 7-12% |
 | **Total** | **~\$26B** | | |
 
-### 12.3 Comparable Company Multiples
+### 11.3 Comparable Company Multiples
 
 | Company | EV/Revenue | EV/EBITDA | Market Cap |
 |---------|------------|-----------|------------|

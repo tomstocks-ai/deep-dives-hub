@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ADPT/" rel="noopener nofollow" target="_blank"><span class="blue-text">ADPT stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+    {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:ADPT",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # ADPT — Adaptive Biotechnologies Corporation
 
 ## 1. COMPANY OVERVIEW
@@ -91,47 +127,7 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 
 ---
 
-## 6. TECHNICAL ANALYSIS
-
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ADPT/" rel="noopener nofollow" target="_blank"><span class="blue-text">ADPT stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-    {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:ADPT",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
----
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst ratings:** Mixed-to-positive. Consensus target US\\$20 implies ~6% upside from current levels — not a screaming buy on valuation alone.
 - **Short interest:** Moderate. Not a major factor currently.
@@ -141,7 +137,7 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **J.P. Morgan Healthcare Conference (Jan 2026):** Management highlighted clonoSEQ growth and reiterated the 2026 profitability target.
 - **Q1 2026 earnings:** Beat expectations with 35% revenue growth and 53% MRD growth. Test volume up 41%.
@@ -150,7 +146,7 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 - MRD becomes standard-of-care across all major lymphoid malignancies, driving 50%+ test-volume growth.
@@ -172,7 +168,7 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** HOLD / SPECULATIVE
 
@@ -189,7 +185,7 @@ ADPT is a compelling long-term story with a dominant MRD franchise and a massive
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 - **MRD (Minimal Residual Disease):** A test that looks for tiny amounts of cancer remaining after treatment. Think of it like a security camera that can spot a single intruder in a stadium — it catches relapse before symptoms appear.
 - **Cash burn:** How fast the company is spending its cash pile. At the current rate, ADPT has about 4–5 quarters of money left before needing to raise more.

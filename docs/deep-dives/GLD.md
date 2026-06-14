@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-GLD/" rel="noopener nofollow" target="_blank"><span class="blue-text">GLD stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "AMEX:GLD",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # GLD — SPDR Gold Shares
 
 ## 1. OVERVIEW
@@ -64,52 +100,14 @@ Gold has no cash flows — valuation is based on real rates, central bank demand
 - **ETF outflows** — GLD can see sharp AUM declines during forced liquidations.
 - **Profit-taking** — Gold is up ~80% from 2022 lows. Extended positions are vulnerable to corrections.
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-GLD/" rel="noopener nofollow" target="_blank"><span class="blue-text">GLD stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "AMEX:GLD",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **GLD AUM:** ~\$70B. Saw outflows in recent weeks as equities rallied — typical risk-on behavior.
 - **COT report:** Managed money (speculators) reduced net longs to 6-month lows — contrarian bullish.
 - **Central banks:** Q1 2026 data shows continued buying; China added gold for 18 consecutive months through early 2026.
 - **Analyst consensus:** Overwhelmingly bullish. J.P. Morgan targets \$5,055 by Q4 2026. Reuters reports J.P. Morgan sees \$6,300 by year-end under bullish conditions.
 
-## 8. INVESTMENT THESIS
+## 7. INVESTMENT THESIS
 
 ### Bull Case
 Gold is in a structural bull market driven by central bank demand, fiscal debasement, and geopolitical fragmentation. Fed rate cuts remove the last headwind. Target \$5,000+.
@@ -120,7 +118,7 @@ Steady appreciation. 2–3 rate cuts, continued central bank buying, moderate ge
 ### Bear Case
 Fed holds or hikes; dollar surges; risk-on persists. Gold corrects to \$3,200–3,500. GLD drops 10–15%. Even bearish scenarios see limited downside given central bank floor.
 
-## 9. RECOMMENDATION
+## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
 - **Position sizing:** 5–10% of portfolio as core allocation
@@ -134,7 +132,7 @@ Fed holds or hikes; dollar surges; risk-on persists. Gold corrects to \$3,200–
   - Quarterly Treasury refunding announcements
   - BRICS summits (watch for reserve currency announcements)
 
-## 10. READABILITY PASS
+## 9. READABILITY PASS
 
 - **ETF (Exchange-Traded Fund):** A fund that trades on stock exchanges and tracks an underlying asset — here, physical gold bars.
 - **Real interest rate:** The return you get on a bond after subtracting inflation. If inflation is 3% and your bond pays 4%, the real rate is 1%. Gold becomes more attractive when this number is low or negative.
@@ -143,7 +141,7 @@ Fed holds or hikes; dollar surges; risk-on persists. Gold corrects to \$3,200–
 - **Dedollarization:** Countries reducing their dependence on the U.S. dollar for trade and reserves. Gold is the primary alternative.
 - **Fiscal debasement:** When a government prints money or runs large deficits, the value of each dollar tends to fall. Gold historically preserves purchasing power in such environments.
 
-## 11. SOURCES CONSULTED
+## 10. SOURCES CONSULTED
 
 1. [SPDR Gold Shares Fact Sheet](https://www.spdrgoldshares.com)
 2. [World Gold Council — Gold Demand Trends Q1 2026](https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2026)

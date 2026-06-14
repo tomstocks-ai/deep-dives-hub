@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-CRCL/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRCL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:CRCL",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Circle Internet Group, Inc. (NYSE: CRCL)
 
 **Sector:** Fintech | **Industry:** Stablecoin / Digital Payments | **Price:** \$106.36 | **Market Cap:** ~\$26.3B | **Last Updated:** 2026-04-21
@@ -157,47 +193,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 - **Systemic shocks:** A major stablecoin depeg (even at a competitor) could trigger redemption surges and loss of confidence across the sector.
 - **Cybersecurity:** As a custodian of \$75B+ in reserves, Circle is a high-value target. A breach or operational failure could be existential.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-CRCL/" rel="noopener nofollow" target="_blank"><span class="blue-text">CRCL stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:CRCL",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Ratings
 - **Consensus:** Buy (17–20 analysts)
@@ -223,7 +219,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Developments (April 2026)
 - **SEC DeFi Safe Harbor Statement (April 14, 2026):** The SEC signaled openness to a regulatory safe harbor for decentralized finance protocols. This drove buying in CRCL ahead of earnings, as it reduces regulatory overhang for onchain dollar products.
@@ -243,7 +239,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case — Target: \$160–200
 **Drivers:**
@@ -276,7 +272,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** <span class="rating-spec-buy">SPEC. BUY</span>
 
@@ -312,7 +308,7 @@ Circle Internet Group offers a unique, hard-to-replicate exposure to the regulat
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 - **Stablecoin:** A cryptocurrency designed to maintain a stable value, typically pegged 1:1 to a fiat currency like the U.S. dollar. USDC is backed by cash and short-dated U.S. Treasuries.
 - **Reserve Income:** The interest Circle earns by investing the cash backing USDC in safe, short-term government securities. When people hold USDC, Circle invests the underlying dollars and keeps the interest.
@@ -327,7 +323,7 @@ Circle Internet Group offers a unique, hard-to-replicate exposure to the regulat
 
 ---
 
-## 12. SOURCES & REFERENCES
+## 11. SOURCES & REFERENCES
 
 1. **Circle Q4 & FY2025 Earnings Release** — Circle pressroom, Feb 25, 2026. https://www.circle.com/pressroom/circle-reports-fourth-quarter-and-full-fiscal-year-2025-financial-results
 2. **Circle IR — Quarterly Results** — investor.circle.com. https://investor.circle.com/financials/quarterly-results/default.aspx

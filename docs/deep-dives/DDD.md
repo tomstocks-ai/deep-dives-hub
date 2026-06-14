@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-DDD/" rel="noopener nofollow" target="_blank"><span class="blue-text">DDD stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:DDD",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # DDD — 3D Systems Corporation
 
 **Price:** \$3.88 | **Sector:** Technology | **Industry:** 3D Printing / Additive Manufacturing | **Exchange:** NYSE | **Market Cap:** ~\$355M
@@ -104,47 +140,7 @@ hide:
 - **Industrial Capex Cycles:** AM is discretionary spending. A recession crushes demand.
 - **Tariffs / Supply Chain:** Components sourced globally; tariff exposure is real.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-DDD/" rel="noopener nofollow" target="_blank"><span class="blue-text">DDD stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:DDD",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Coverage:** Thin. DDD is a small-cap with limited Wall Street attention, which creates both inefficiency and volatility.
 - **Short Interest:** Historically elevated in the 3D printing space. The recent rally may have squeezed some shorts, contributing to the velocity of the move.
@@ -153,7 +149,7 @@ hide:
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Q1 2026 Earnings (May 12, 2026):** Revenue \$95.5M (+11% YoY), gross margin 35.9%, adjusted EBITDA +\$2.1M. Healthcare grew ~21%. Management reaffirmed full-year breakeven-or-better adjusted EBITDA guidance.
 - **Restructuring Narrative:** Multiple financial outlets (StockTitan, Investing.com, TipRanks) highlighted the "turnaround to profitability" story, which likely fueled the recent price spike.
@@ -161,7 +157,7 @@ hide:
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case — \$6.50–\$8.00
 Healthcare growth sustains 20%+, industrial stabilizes, and the cost base is permanently lowered. Adjusted EBITDA margins expand to 10%+. The market re-rates DDD from <1x sales to 2–2.5x sales. A strategic acquirer emerges at a premium.
@@ -174,7 +170,7 @@ Q2/Q3 2026 results show that Q1 was a head-fake. Revenue resumes declining, cost
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 - **Rating:** <span class="rating-spec-buy">SPEC. BUY</span>
 - **Position Sizing:** 1–2% of portfolio max. This is a turnaround, not a compounder.
@@ -195,7 +191,7 @@ Q2/Q3 2026 results show that Q1 was a head-fake. Revenue resumes declining, cost
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 - **Adjusted EBITDA:** Earnings before interest, taxes, depreciation, and amortization, plus one-time adjustments. Think of it as "how much cash the core business generates before financing and accounting tricks."
 - **Gross Margin:** For every dollar of sales, this is what the company keeps after direct costs. At 35.9%, DDD keeps about \$0.36 of every revenue dollar.
@@ -204,7 +200,7 @@ Q2/Q3 2026 results show that Q1 was a head-fake. Revenue resumes declining, cost
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 - Yahoo Finance (price, chart, volume data)
 - 3D Systems Q1 2026 Earnings Release (May 12, 2026)

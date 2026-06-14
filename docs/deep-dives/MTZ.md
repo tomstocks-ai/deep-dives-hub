@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-MTZ/" rel="noopener nofollow" target="_blank"><span class="blue-text">MTZ stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:MTZ",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # MTZ — MasTec, Inc.
 
 ## 1. COMPANY OVERVIEW
@@ -123,47 +159,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 - **Regulatory/political risk:** Changes in federal infrastructure spending priorities (e.g., BEAD program delays) could impact backlog growth.
 - **Economic cyclicality:** Infrastructure spending is less cyclical than residential construction, but not immune to recession.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-MTZ/" rel="noopener nofollow" target="_blank"><span class="blue-text">MTZ stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:MTZ",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst ratings:** Majority Buy/Overweight. Recent price targets range from \$400–\$500.
 - **Short interest:** Low (~2–3% of float) — not a squeeze candidate.
@@ -173,7 +169,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Q1 2026 earnings (April 30, 2026):** Revenue \$3.83B (+34% YoY), adjusted EBITDA \$284M (+73% YoY), adjusted EPS \$1.39 (+174% YoY). All beat consensus. Full-year guidance raised to \$17.5B revenue and \$1.5B adjusted EBITDA.
 - **Backlog record:** \$20.3B at quarter-end, up 28% YoY. Clean Energy segment backlog up 65%.
@@ -182,7 +178,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (\$480–\$520)
 - Infrastructure spending accelerates under federal programs (BEAD, IRA, grid hardening)
@@ -206,7 +202,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 - **Rating:** HOLD
 - **Position sizing:** 2–3% max in a diversified portfolio
@@ -225,7 +221,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 **EBITDA** = Earnings Before Interest, Taxes, Depreciation, and Amortization. Think of it as "cash profits before financing and accounting costs." MasTec's EBITDA margin of 8% means it keeps \$0.08 of cash profit for every \$1 of revenue after paying direct project costs.
 
@@ -239,7 +235,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 1. [Yahoo Finance - MTZ](https://finance.yahoo.com/quote/MTZ/)
 2. [MasTec Investor Relations - Q1 2026 Earnings Release](https://investors.mastec.com/news-releases/news-release-details/mastec-reports-first-quarter-2026-results-and-increases-full)

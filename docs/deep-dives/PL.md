@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PL/" rel="noopener nofollow" target="_blank"><span class="blue-text">PL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:PL",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Planet Labs PBC (PL) - Investment-Grade Deep Dive Analysis
 **Report Date:** April 3, 2026  
 **Current Price:** \$35.88 (April 2, 2026 close)  
@@ -311,49 +347,9 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Piotroski F-Score:** 2 (weak financial health score, typical for growth companies investing for scale)
 
----
+## 6. Sentiment & Flows
 
-## 6. Technical Analysis
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-PL/" rel="noopener nofollow" target="_blank"><span class="blue-text">PL stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:PL",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
-
-### 7.1 Analyst Sentiment
+### 6.1 Analyst Sentiment
 
 | Rating | Count | Percentage |
 |--------|-------|------------|
@@ -364,7 +360,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Consensus:** Buy (leaning bullish)
 
-### 7.2 Short Interest
+### 6.2 Short Interest
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
@@ -375,7 +371,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Interpretation:** High short interest (12.3% of float) indicates significant bearish bets. Recent price surge may be partially driven by short covering. Creates potential for volatility in both directions.
 
-### 7.3 Institutional Ownership
+### 6.3 Institutional Ownership
 
 | Metric | Value |
 |--------|-------|
@@ -387,7 +383,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - ARK Invest (Cathie Wood) - historically significant position in space/disruptive innovation
 - Various growth-focused mutual funds and ETFs
 
-### 7.4 Social Sentiment
+### 6.4 Social Sentiment
 
 **General Sentiment:** Very Bullish
 
@@ -404,9 +400,9 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ---
 
-## 8. Substack & News Scan
+## 7. Substack & News Scan
 
-### 8.1 Recent Developments (March 2026)
+### 7.1 Recent Developments (March 2026)
 
 **1. Q4 FY2026 Earnings (March 19, 2026)**
 - Revenue of \$86.8M (+41% YoY) beat consensus by \$8.7M
@@ -424,7 +420,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - Started recruiting for new satellite manufacturing facility in Berlin
 - Represents European expansion milestone
 
-### 8.2 Sector News
+### 7.2 Sector News
 
 **SpaceX IPO Speculation**
 - "The largest IPO in world history" speculation driving sector interest
@@ -434,7 +430,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - Continued bipartisan support for space and defense budgets
 - \$151B SHIELD IDIQ contract vehicle includes Planet as prime contractor
 
-### 8.3 Press Releases
+### 7.3 Press Releases
 
 **Notable Announcements:**
 1. Partnership with Nvidia for AI-powered image processing
@@ -442,7 +438,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 3. Swedish government multi-year contract (\$100M+)
 4. Missile Defense Agency prime contractor selection
 
-### 8.4 News Sentiment Analysis
+### 7.4 News Sentiment Analysis
 
 **Positive Coverage:**
 - "Planet Labs Crushes Earnings" (Seeking Alpha)
@@ -455,9 +451,9 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ---
 
-## 9. Investment Thesis
+## 8. Investment Thesis
 
-### 9.1 Bull Case (\$45-50 Price Target)
+### 8.1 Bull Case (\$45-50 Price Target)
 
 **Thesis:** Planet becomes the dominant data-intelligence platform for Earth observation
 
@@ -476,7 +472,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Probability:** 25%
 
-### 9.2 Base Case (\$28-32 Price Target)
+### 8.2 Base Case (\$28-32 Price Target)
 
 **Thesis:** Solid execution drives steady growth toward profitability
 
@@ -494,7 +490,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Probability:** 50%
 
-### 9.3 Bear Case (\$15-20 Price Target)
+### 8.3 Bear Case (\$15-20 Price Target)
 
 **Thesis:** Valuation compression and execution challenges materialize
 
@@ -513,7 +509,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Probability:** 25%
 
-### 9.4 Probability-Weighted Price Target
+### 8.4 Probability-Weighted Price Target
 
 | Scenario | Price Target | Probability | Weighted Value |
 |----------|--------------|-------------|----------------|
@@ -524,9 +520,9 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ---
 
-## 10. Recommendation
+## 9. Recommendation
 
-### 10.1 Rating: **HOLD / REDUCE**
+### 9.1 Rating: **HOLD / REDUCE**
 
 **Current Position:** Neutral to cautious at current prices
 
@@ -536,7 +532,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - However, valuation (40x sales) prices in perfection
 - Recent 900%+ run-up creates significant downside risk
 
-### 10.2 Position Sizing
+### 9.2 Position Sizing
 
 | Investor Type | Recommended Position | Rationale |
 |---------------|---------------------|-----------|
@@ -544,7 +540,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **Moderate** | 1-2% | Small position; add on weakness |
 | **Aggressive/Growth** | 2-4% | Core holding; trim on rallies |
 
-### 10.3 Entry Strategy
+### 9.3 Entry Strategy
 
 **Preferred Entry Points:**
 
@@ -556,7 +552,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 **Current Price (\$35.88):** Avoid new positions; consider trimming if overweight
 
-### 10.4 Stop Loss Levels
+### 9.4 Stop Loss Levels
 
 | Time Horizon | Stop Level | Risk |
 |--------------|------------|------|
@@ -564,7 +560,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **Medium-term** | \$22.00 (-39%) | Major trend breakdown |
 | **Long-term** | \$15.00 (-58%) | 200-day MA breach |
 
-### 10.5 Catalyst Calendar
+### 9.5 Catalyst Calendar
 
 | Date | Event | Potential Impact |
 |------|-------|------------------|
@@ -576,7 +572,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ---
 
-## 11. Readability Pass: Understanding the Jargon
+## 10. Readability Pass: Understanding the Jargon
 
 ### Key Terms Explained
 
@@ -622,7 +618,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 
 ---
 
-## 12. Summary Scorecard
+## 11. Summary Scorecard
 
 | Category | Score | Rating |
 |----------|-------|--------|
