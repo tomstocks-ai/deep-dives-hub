@@ -42,3 +42,11 @@ See the [API Reference](api-docs.md) for details.
 5. Add the table row to `docs/table.md`
 6. Update `docs/api/tickers.json`
 7. Open a PR — the site redeploys automatically on merge to `master`
+
+---
+
+## Summary Table
+
+| Ticker | Company | Sector | Rating | Price | Last Updated | Full DD |
+|--------|---------|--------|--------|-------|--------------|---------|
+| **PANW** | Palo Alto Networks, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](deep-dives/PANW.md) |

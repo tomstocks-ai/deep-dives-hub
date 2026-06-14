@@ -26,9 +26,10 @@ title: Technology
 | **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | \$3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | **PURR** | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$10.97 | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | **OSS** | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$15.71 | 2026-06-10 | [:material-file-document: Read](OSS.md) |
-|| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
-|| **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
-|
+| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
+| **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
+| **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+
 |---
 
 ## Gists
@@ -200,6 +201,16 @@ Cloud-native observability and security platform with best-in-class fundamentals
 **Bull:** \$300–\$320 · **Base:** \$220–\$240 · **Bear:** \$150–\$170
 
 [:material-arrow-right: Full Deep Dive](DDOG.md)
+
+---
+
+### PANW — Palo Alto Networks · <span class="rating-buy">BUY</span> · \$279.62
+
+World's largest pure-play cybersecurity company executing aggressive platform consolidation via transformative acquisitions (CyberArk ~\$25B, Chronosphere \$3.35B). Q3 FY2026 revenue surged 31% to \$3.0B with Next-Gen Security ARR up 60% to \$8.1B and adjusted FCF of \$910M (38.5% margin). Full-year guidance raised to \$11.42–\$11.43B. Dominant network security moat, AI-driven threat intelligence (XSIAM, Precision AI), and identity security expansion position PANW as the primary beneficiary of enterprise vendor consolidation. At ~10x EV/Revenue, valuation is more reasonable than P/E (~173–230x) suggests. Medium-High conviction with 6-month target \$290–\$310.
+
+**Bull:** \$340–\$360 · **Base:** \$290–\$310 · **Bear:** \$240–\$260
+
+[:material-arrow-right: Full Deep Dive](PANW.md)
 
 ---
 

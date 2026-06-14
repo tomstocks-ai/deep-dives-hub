@@ -540,6 +540,18 @@
       "last_updated": "2026-06-14",
       "deep_dive_url": "/deep-dives/DDOG/",
       "api_url": "/api/DDOG.json"
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "sector": "Technology",
+      "industry": "Cybersecurity / Network & Cloud Security",
+      "rating": "BUY",
+      "price": 279.62,
+      "market_cap": "$93.5B",
+      "last_updated": "2026-06-14",
+      "deep_dive_url": "/deep-dives/PANW/",
+      "api_url": "/api/PANW.json"
     }
   ]
 }
