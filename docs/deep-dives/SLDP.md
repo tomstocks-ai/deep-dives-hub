@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SLDP/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLDP stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+   "allow_symbol_change": true,
+   "calendar": false,
+   "details": false,
+   "hide_side_toolbar": true,
+   "hide_top_toolbar": false,
+   "hide_legend": false,
+   "hide_volume": false,
+   "hotlist": false,
+   "interval": "D",
+   "locale": "en",
+   "save_image": true,
+   "style": "1",
+   "symbol": "NASDAQ:SLDP",
+   "theme": "dark",
+   "timezone": "Etc/UTC",
+   "backgroundColor": "#0F0F0F",
+   "gridColor": "rgba(242, 242, 242, 0.06)",
+   "watchlist": [],
+   "withdateranges": false,
+   "compareSymbols": [],
+   "studies": [
+      "STD;RSI",
+      "STD;EMA"
+   ],
+   "autosize": true,
+   "height": 500
+   }
+  </script>
+</div>
+
+
 # SLDP Deep Dive Analysis: Solid Power Inc.
 **Date:** April 14, 2026  
 **Ticker:** SLDP (NASDAQ)  
@@ -268,47 +304,7 @@ Since traditional metrics don't work, analysts typically use:
 | **Regulatory Changes** | Battery safety regulations could help (safer tech) or hurt (compliance costs) |
 | **Economic Recession** | Capital-intensive R&D vulnerable to funding market freezes |
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SLDP/" rel="noopener nofollow" target="_blank"><span class="blue-text">SLDP stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-   "allow_symbol_change": true,
-   "calendar": false,
-   "details": false,
-   "hide_side_toolbar": true,
-   "hide_top_toolbar": false,
-   "hide_legend": false,
-   "hide_volume": false,
-   "hotlist": false,
-   "interval": "D",
-   "locale": "en",
-   "save_image": true,
-   "style": "1",
-   "symbol": "NASDAQ:SLDP",
-   "theme": "dark",
-   "timezone": "Etc/UTC",
-   "backgroundColor": "#0F0F0F",
-   "gridColor": "rgba(242, 242, 242, 0.06)",
-   "watchlist": [],
-   "withdateranges": false,
-   "compareSymbols": [],
-   "studies": [
-      "STD;RSI",
-      "STD;EMA"
-   ],
-   "autosize": true,
-   "height": 500
-   }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Sentiment
 
@@ -356,7 +352,7 @@ Short interest appears manageable—not heavily shorted like some speculative EV
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Key Developments
 
@@ -392,7 +388,7 @@ Short interest appears manageable—not heavily shorted like some speculative EV
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case: Why This Could Work
 
@@ -470,7 +466,7 @@ Solid Power successfully commercializes its technology but faces significant com
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Official Rating: **HOLD / SPECULATIVE**
 
@@ -531,7 +527,7 @@ Solid Power successfully commercializes its technology but faces significant com
 
 ---
 
-## 11. READABILITY & CLARITY SUMMARY
+## 10. READABILITY & CLARITY SUMMARY
 
 ### What We Learned
 

@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FNV/" rel="noopener nofollow" target="_blank"><span class="blue-text">FNV stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:FNV",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Franco-Nevada Corporation (FNV)
 
 | Attribute | Value |
@@ -125,47 +161,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 - **Interest rates:** Higher rates reduce the present value of future royalty cash flows; also makes dividend stocks less attractive
 - **ESG headwinds:** Mining sector faces increasing scrutiny; new project approvals are harder to obtain (actually a tailwind for royalty companies, as miners need more capital)
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FNV/" rel="noopener nofollow" target="_blank"><span class="blue-text">FNV stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:FNV",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Consensus:** Buy (7 analysts); average price target ~\$255–\$257
 - **Short Interest:** Low — royalty companies are not typical short targets
@@ -175,7 +171,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - Q1 2026 earnings (May 2026) beat consensus on revenue (\$650.7M vs ~\$633M est) and EPS (\$2.38 vs ~\$2.09 est)
 - Dividend raised 16% to \$0.44/quarter — 19th consecutive annual increase
@@ -185,7 +181,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 - Gold sustains \$3,200+/oz on central bank buying and geopolitical risk
@@ -210,7 +206,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 - **Rating:** **BUY**
 - **Position Sizing:** 3–5% of materials/gold allocation
@@ -228,7 +224,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 **What is a royalty company?** Think of Franco-Nevada as a landlord, not a tenant. Traditional miners (like Newmont or Barrick) are tenants — they dig holes, hire workers, buy equipment, and deal with environmental permits. Franco-Nevada is the landlord who owns a slice of the property and collects rent forever, without ever swinging a pickaxe.
 

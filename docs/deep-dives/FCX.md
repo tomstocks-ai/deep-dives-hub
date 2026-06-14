@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FCX/" rel="noopener nofollow" target="_blank"><span class="blue-text">FCX stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:FCX",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # FCX (Freeport-McMoRan Inc.) - Investment-Grade Deep Dive Analysis
 **Report Date:** April 3, 2026  
 **Ticker:** NYSE: FCX  
@@ -242,47 +278,7 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 - Community relations in Papua (Grasberg)
 - Scope 3 emissions from customers
 
----
-
-## 6. Technical Analysis
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-FCX/" rel="noopener nofollow" target="_blank"><span class="blue-text">FCX stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:FCX",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
+## 6. Sentiment & Flows
 
 ### Analyst Ratings (Consensus)
 
@@ -325,7 +321,7 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 
 ---
 
-## 8. Substack & News Scan
+## 7. Substack & News Scan
 
 ### Recent Developments (Last 90 Days)
 
@@ -366,7 +362,7 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 
 ---
 
-## 9. Investment Thesis
+## 8. Investment Thesis
 
 ### Bull Case (Target: \$81 / +32% Upside)
 **Assumptions:**
@@ -417,7 +413,7 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 
 ---
 
-## 10. Investment Recommendation
+## 9. Investment Recommendation
 
 ### Rating: **BUY** 
 **Conviction Level:** High (Long-Term Core Holding)
@@ -471,7 +467,7 @@ Freeport-McMoRan operates as a vertically integrated copper mining company with 
 
 ---
 
-## 11. Readability Pass - Jargon Explained
+## 10. Readability Pass - Jargon Explained
 
 ### Mining & Commodities Terms
 

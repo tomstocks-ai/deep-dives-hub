@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NBIS/" rel="noopener nofollow" target="_blank"><span class="blue-text">NBIS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:NBIS",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Nebius Group N.V. (NBIS) — Investment-Grade Deep Dive Analysis
 
 **Date:** April 22, 2026  
@@ -198,47 +234,7 @@ As a European-headquartered AI infrastructure provider, Nebius benefits from EU 
 - **Geopolitical exposure:** Nebius traces its roots to Yandex and Russia. While the divestment of Russian assets was completed in July 2024, any geopolitical flare-up could create headline risk.
 - **NVIDIA dependency:** Nebius's growth is tied to NVIDIA's product roadmap and pricing. Any disruption in NVIDIA's supply chain or a strategic pivot away from NVIDIA chips would impact Nebius.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NBIS/" rel="noopener nofollow" target="_blank"><span class="blue-text">NBIS stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:NBIS",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. INVESTMENT THESIS
+## 6. INVESTMENT THESIS
 
 ### Bull Case (Target: \$280)
 
@@ -254,7 +250,7 @@ Deployment delays push revenue recognition into 2027–2028. GPU supply constrai
 
 ---
 
-## 8. RECOMMENDATION
+## 7. RECOMMENDATION
 
 **Rating:** <span class="rating-spec-buy">SPEC. BUY</span>  
 **Position Sizing:** 2–4% of growth-oriented portfolio (high beta, high volatility)  
@@ -278,7 +274,7 @@ Deployment delays push revenue recognition into 2027–2028. GPU supply constrai
 
 ---
 
-## 9. READABILITY & CLARITY PASS
+## 8. READABILITY & CLARITY PASS
 
 **What is "ARR"?** Annualized Run-Rate Revenue — the revenue from the last month multiplied by 12. It's a forward-looking indicator of what revenue would be if current monthly trends continued for a full year.
 
@@ -294,7 +290,7 @@ Deployment delays push revenue recognition into 2027–2028. GPU supply constrai
 
 ---
 
-## 10. SOURCES CONSULTED
+## 9. SOURCES CONSULTED
 
 | Source | Type | Date Accessed | URL |
 |--------|------|---------------|-----|

@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-UUUU/" rel="noopener nofollow" target="_blank"><span class="blue-text">UUUU stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "AMEX:UUUU",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Energy Fuels Inc. (UUUU) - Investment Grade Deep Dive Analysis
 
 **Report Date:** April 3, 2025  
@@ -363,47 +399,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Political (Madagascar) | Low | High | **Medium** |
 | Competition | Low | Low | **Low** |
 
----
-
-## 6. Technical Analysis
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-UUUU/" rel="noopener nofollow" target="_blank"><span class="blue-text">UUUU stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "AMEX:UUUU",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
+## 6. Sentiment & Flows
 
 ### Analyst Sentiment
 
@@ -467,7 +463,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ---
 
-## 8. Substack & News Scan
+## 7. Substack & News Scan
 
 ### Recent Developments
 
@@ -525,7 +521,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ---
 
-## 9. Investment Thesis
+## 8. Investment Thesis
 
 ### Bull Case (\$35-50 Target)
 
@@ -579,7 +575,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ---
 
-## 10. Recommendation
+## 9. Recommendation
 
 ### Overall Rating: **BUY / ACCUMULATE**
 
@@ -646,7 +642,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 ---
 
-## 11. Readability Pass: Jargon Explained
+## 10. Readability Pass: Jargon Explained
 
 ### Nuclear & Uranium Terms
 

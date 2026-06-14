@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATL/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATL stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+     "allow_symbol_change": true,
+     "calendar": false,
+     "details": false,
+     "hide_side_toolbar": true,
+     "hide_top_toolbar": false,
+     "hide_legend": false,
+     "hide_volume": false,
+     "hotlist": false,
+     "interval": "D",
+     "locale": "en",
+     "save_image": true,
+     "style": "1",
+     "symbol": "NASDAQ:SATL",
+     "theme": "dark",
+     "timezone": "Etc/UTC",
+     "backgroundColor": "#0F0F0F",
+     "gridColor": "rgba(242, 242, 242, 0.06)",
+     "watchlist": [],
+     "withdateranges": false,
+     "compareSymbols": [],
+     "studies": [
+       "STD;RSI",
+       "STD;EMA"
+     ],
+     "autosize": true,
+     "height": 500
+   }
+  </script>
+</div>
+
+
 # SATL (Satellogic) Deep Dive Analysis
 ## Investment-Grade Equity Research Report
 
@@ -299,47 +335,7 @@ Your ownership percentage could shrink by 20-25% as these securities convert. Ho
 | **Space Debris/Regulation** | Increasing regulations on satellite deployment | Proactive collision avoidance |
 | **Tariffs/Trade War** | Components sourced globally | Supply chain diversification |
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATL/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATL stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-     "allow_symbol_change": true,
-     "calendar": false,
-     "details": false,
-     "hide_side_toolbar": true,
-     "hide_top_toolbar": false,
-     "hide_legend": false,
-     "hide_volume": false,
-     "hotlist": false,
-     "interval": "D",
-     "locale": "en",
-     "save_image": true,
-     "style": "1",
-     "symbol": "NASDAQ:SATL",
-     "theme": "dark",
-     "timezone": "Etc/UTC",
-     "backgroundColor": "#0F0F0F",
-     "gridColor": "rgba(242, 242, 242, 0.06)",
-     "watchlist": [],
-     "withdateranges": false,
-     "compareSymbols": [],
-     "studies": [
-       "STD;RSI",
-       "STD;EMA"
-     ],
-     "autosize": true,
-     "height": 500
-   }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 ### Analyst Ratings
 
@@ -386,7 +382,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 ### Recent Company Announcements
 
@@ -415,7 +411,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 
@@ -472,7 +468,7 @@ Satellogic successfully launches Merlin in late 2026, signs 2-3 additional sover
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 ### Rating: **SPECULATIVE BUY**
 
@@ -531,7 +527,7 @@ This is a high-risk, high-reward position suitable only for investors who can to
 
 ---
 
-## 11. READABILITY & CLARITY PASS — KEY TERMS EXPLAINED
+## 10. READABILITY & CLARITY PASS — KEY TERMS EXPLAINED
 
 ### Financial Terms Simplified
 

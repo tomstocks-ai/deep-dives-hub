@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NN/" rel="noopener nofollow" target="_blank"><span class="blue-text">NN stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:NN",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # NextNav Inc (NN) — Deep Dive Analysis
 **Date:** April 17, 2026  
 **Current Price:** \$20.82 (as of April 16 close)  
@@ -138,47 +174,7 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 - **110 shares + 100 CFDs** = leveraged exposure
 - **Your cost basis** ~\$18.65 means you're up ~12% — lock some in
 
----
-
-## 6. Technical Analysis: Overbought on Hope
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-NN/" rel="noopener nofollow" target="_blank"><span class="blue-text">NN stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:NN",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. Sentiment & Flows
+## 6. Sentiment & Flows
 
 ### Insider Activity
 - **CEO Mariam Sorond** sold ~\$1.2M in early March 2026
@@ -199,7 +195,7 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 
 ---
 
-## 8. Investment Thesis: Three Scenarios
+## 7. Investment Thesis: Three Scenarios
 
 ### Scenario A: NPRM Drops (40% probability)
 **Timeline:** This week or next  
@@ -229,7 +225,7 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 
 ---
 
-## 9. Recommendation: Trim the Concentration
+## 8. Recommendation: Trim the Concentration
 
 ### Rating: SPECULATIVE HOLD
 This isn't a company you invest in — it's a catalyst you trade. The technology is real, the need is genuine, but the path to monetization depends entirely on regulatory approval.
@@ -267,7 +263,7 @@ This isn't a company you invest in — it's a catalyst you trade. The technology
 
 ---
 
-## 10. The Bottom Line
+## 9. The Bottom Line
 
 NextNav is a **justifiable speculation** at 5-10% of portfolio. At **20.5%**, it's reckless concentration on a binary outcome you don't control.
 

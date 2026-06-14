@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-COPX/" rel="noopener nofollow" target="_blank"><span class="blue-text">COPX stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "AMEX:COPX",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # COPX — Global X Copper Miners ETF
 
 ## 1. OVERVIEW
@@ -71,52 +107,14 @@ COPX is valued relative to copper prices and miner earnings multiples.
 - **Tariff/trade war** — U.S. tariffs on copper imports could distort markets.
 - **Recession** — Global manufacturing PMI below 50 for extended period would pressure prices.
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AMEX-COPX/" rel="noopener nofollow" target="_blank"><span class="blue-text">COPX stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "AMEX:COPX",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **COPX AUM:** ~\$1.5B. Inflows have been steady as investors position for the copper deficit.
 - **Analyst consensus:** Bullish on copper long-term. Goldman Sachs, Citi, and BofA all have overweight ratings on copper miners.
 - **Hedge funds:** Net long copper futures at multi-year highs — but not extreme.
 - **China stimulus:** Any PBOC rate cuts or fiscal stimulus packages boost copper demand expectations.
 
-## 8. INVESTMENT THESIS
+## 7. INVESTMENT THESIS
 
 ### Bull Case
 Copper is the most critical metal for electrification. Supply cannot keep up with demand from EVs, renewables, AI data centers, and grid modernization. The deficit is structural, not cyclical. Miners with existing production are cash machines. COPX could double in 2–3 years.
@@ -127,7 +125,7 @@ Steady demand growth meets constrained supply. Copper trades \$4.50–5.00/lb. C
 ### Bear Case
 China hard landing. Global recession. Copper falls to \$3.50. COPX drops to \$60–70. Risk is manageable given the structural demand floor.
 
-## 9. RECOMMENDATION
+## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
 - **Position sizing:** 3–5% of portfolio as commodities/materials allocation
@@ -142,7 +140,7 @@ China hard landing. Global recession. Copper falls to \$3.50. COPX drops to \$60
   - China stimulus announcements
   - U.S. infrastructure spending updates
 
-## 10. READABILITY PASS
+## 9. READABILITY PASS
 
 - **ETF (Exchange-Traded Fund):** A fund that trades like a stock and holds a basket of assets. COPX holds copper mining stocks, not copper itself.
 - **Operating leverage:** When a company's costs are mostly fixed, small changes in revenue create big changes in profit. Miners have this — if copper rises 10%, profits might rise 30%.
@@ -151,7 +149,7 @@ China hard landing. Global recession. Copper falls to \$3.50. COPX drops to \$60
 - **ICE vehicles:** Internal Combustion Engine — traditional gasoline/diesel cars. EVs need much more copper.
 - **Structural deficit:** When supply cannot meet demand even at full production capacity. This is different from a temporary shortage.
 
-## 11. SOURCES CONSULTED
+## 10. SOURCES CONSULTED
 
 1. [Global X COPX Fact Sheet](https://www.globalxetfs.com/funds/copx/)
 2. [S&P Global — Copper in the Age of AI](https://www.spglobal.com/en/research-insights/special-reports/copper-in-the-age-of-ai)

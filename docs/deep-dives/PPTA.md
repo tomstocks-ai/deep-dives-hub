@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ / TSX-PPTA/" rel="noopener nofollow" target="_blank"><span class="blue-text">PPTA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ / TSX:PPTA",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # Perpetua Resources Corp. (PPTA) - Investment Deep Dive Analysis
 **Date:** April 29, 2026
 **Ticker:** PPTA (NASDAQ / TSX)
@@ -175,47 +211,7 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 - Multiple equity raises likely before first production (2029)
 - Current shareholders could face 15-30% dilution
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ / TSX-PPTA/" rel="noopener nofollow" target="_blank"><span class="blue-text">PPTA stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ / TSX:PPTA",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 ### Rating: SPECULATIVE BUY
 
@@ -239,7 +235,7 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 **Antimony:** A silvery-gray metal used in flame retardants, batteries, and military applications. China dominates global supply, making U.S. sources strategically valuable.
 
@@ -255,7 +251,7 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 1. [Yahoo Finance - PPTA](https://finance.yahoo.com/quote/PPTA/)
 2. [Perpetua Resources Investor Relations](https://www.investors.perpetuaresources.com/)

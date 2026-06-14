@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-SPCE/" rel="noopener nofollow" target="_blank"><span class="blue-text">SPCE stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:SPCE",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # SPCE — Virgin Galactic Holdings
 
 **Sector:** Space | **Exchange:** NYSE | **Price:** \$4.53 | **Last Updated:** 2026-05-29
@@ -107,47 +143,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 - **Reputational:** A high-profile accident in the commercial space tourism industry (even at a competitor) could dampen demand across the sector.
 - **Economic Sensitivity:** Luxury discretionary spending contracts sharply in recessions.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-SPCE/" rel="noopener nofollow" target="_blank"><span class="blue-text">SPCE stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:SPCE",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Ratings:** Consensus "Hold" (ABR ~3.08 on Zacks). Average price target \$3.06–\$3.66, well below current price.
 - **Short Interest:** Historically elevated for SPCE. Borrow costs fluctuate with sentiment. Check fintel.io for live rates.
@@ -157,7 +153,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Recent Developments (May 2026):** Stock has rallied sharply (+30%+) on anticipation of the April 2026 ground test announcement and Q3 flight test timeline.
 - **Press Releases:** Virgin Galactic confirmed first Delta-class ship is on track for ground tests in April 2026 and commercial service in Q4 2026.
@@ -166,7 +162,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case (\$12–\$16)
 - Delta-class launches on schedule in Q4 2026 with no technical issues.
@@ -191,7 +187,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 - **Rating:** <span class="rating-spec">SPECULATIVE</span>
 - **Position Sizing:** Maximum 1–2% of portfolio. This is a binary, high-risk call option on a single program.
@@ -209,7 +205,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 - **Free Cash Flow:** This is the cash left after the company pays for its operations and capital investments. A negative number means Virgin Galactic is spending more than it brings in — it relies on investors and lenders to fund the gap.
 - **EBITDA:** Earnings before interest, taxes, depreciation, and amortization. Think of it as "cash profits from operations." Virgin Galactic targets \$100M in adjusted EBITDA at full fleet scale.
@@ -219,7 +215,7 @@ Given the binary nature of the Delta-class program, a traditional DCF is less us
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 - Virgin Galactic Q3 2025 Earnings Release (November 13, 2025)
 - Virgin Galactic Q4 and Full Year 2025 Earnings Release (March 30, 2026)

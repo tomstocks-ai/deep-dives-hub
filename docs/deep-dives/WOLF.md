@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-WOLF/" rel="noopener nofollow" target="_blank"><span class="blue-text">WOLF stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:WOLF",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # WOLF — Wolfspeed, Inc.
 
 **Price:** \$53.72 | **Market Cap:** ~\$2.6B | **Sector:** Technology / Semiconductors | **Rating:** <span class="rating-hold">HOLD</span>
@@ -156,47 +192,7 @@ At \$53.72, the market is pricing in a near-flawless execution of the bull case 
 
 6. **Debt Overhang:** Even after restructuring, ~\$2B in debt on a ~\$600M equity base is precarious. Covenant compliance remains a risk if operations don't improve.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-WOLF/" rel="noopener nofollow" target="_blank"><span class="blue-text">WOLF stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:WOLF",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 **Rating:** <span class="rating-hold">HOLD</span>
 
@@ -222,7 +218,7 @@ At \$53.72, the market is pricing in a near-flawless execution of the bull case 
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 **Silicon Carbide (SiC):** A compound semiconductor material that handles higher voltages, temperatures, and frequencies than traditional silicon. Essential for efficient power conversion in EVs, renewable energy, and data centers.
 
@@ -238,7 +234,7 @@ At \$53.72, the market is pricing in a near-flawless execution of the bull case 
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 1. [Yahoo Finance - WOLF](https://finance.yahoo.com/quote/WOLF/)
 2. [Wolfspeed Investor Relations - Q3 FY26 Earnings Release](https://investor.wolfspeed.com/)

@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-PURR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PURR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:PURR",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # PURR — Hyperliquid Strategies Inc.
 
 **Sector:** Technology — Digital Asset Treasury  
@@ -124,47 +160,7 @@ At \$72.96/HYPE (current approximate price):
 
 **What this means:** This is a leveraged bet on HYPE with extra points of failure. If you believe in Hyperliquid but want equity exposure, PURR is the vehicle. But if HYPE drops 50%, PURR likely drops 60–70%.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-PURR/" rel="noopener nofollow" target="_blank"><span class="blue-text">PURR stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:PURR",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Ratings:** Chardan Buy (\$9.75 target — already breached)
 - **Short Interest:** Unknown but likely low given the float dynamics
@@ -174,7 +170,7 @@ At \$72.96/HYPE (current approximate price):
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **June 2, 2026:** Crypto Times — "Why the Buyback Model Could Push HYPE to \$100"
 - **June 1, 2026:** PURR stock pops as Chardan hikes price target to \$9.75 (already exceeded)
@@ -185,7 +181,7 @@ At \$72.96/HYPE (current approximate price):
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 HYPE continues its ascent toward \$100+ as Hyperliquid cements itself as the dominant perpetual DEX. PURR's NAV grows to \$2B+, the Russell 3000 inclusion drives passive flows, and the "crypto treasury" narrative attracts a premium valuation like MicroStrategy's. Target: **\$16–\$20** (+46% to +82%).
@@ -198,7 +194,7 @@ HYPE corrects to \$35–\$45 post-token-unlock or due to a broader crypto downtu
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 - **Rating:** SPEC. BUY
 - **Position Sizing:** 2–4% of portfolio max — treat as a leveraged crypto proxy, not a stock
@@ -216,7 +212,7 @@ HYPE corrects to \$35–\$45 post-token-unlock or due to a broader crypto downtu
 
 ---
 
-## 11. READABILITY & CLARITY PASS
+## 10. READABILITY & CLARITY PASS
 
 **What is PURR, really?** Think of it as a publicly traded piggy bank that only holds one thing: HYPE tokens. When HYPE goes up, the piggy bank is worth more. When HYPE goes down, it's worth less. The company also earns a small "interest" by staking those tokens.
 
@@ -230,7 +226,7 @@ HYPE corrects to \$35–\$45 post-token-unlock or due to a broader crypto downtu
 
 ---
 
-## 12. SOURCES CONSULTED
+## 11. SOURCES CONSULTED
 
 1. [Yahoo Finance — PURR](https://finance.yahoo.com/quote/PURR/)
 2. [CoinGecko — Hyperliquid Strategies Treasuries](https://www.coingecko.com/en/treasuries/companies/hyperliquid-strategies-inc)

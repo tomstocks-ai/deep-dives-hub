@@ -7,6 +7,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-TECK/" rel="noopener nofollow" target="_blank"><span class="blue-text">TECK stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:TECK",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # TECK RESOURCES LIMITED (TECK)
 ## Investment-Grade Deep Dive Analysis
 
@@ -316,49 +352,9 @@ The merger creates exceptional value through:
 | Geopolitical | MEDIUM | Chile policy developments |
 | ESG/Environmental | LOW | Quarterly sustainability reports |
 
----
+## 6. SENTIMENT & FLOWS
 
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-TECK/" rel="noopener nofollow" target="_blank"><span class="blue-text">TECK stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:TECK",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
-
-### 7.1 Analyst Sentiment
+### 6.1 Analyst Sentiment
 
 | Firm | Rating | Target | Action |
 |------|--------|--------|--------|
@@ -373,7 +369,7 @@ The merger creates exceptional value through:
 - Hold: 30%
 - Underperform: 10%
 
-### 7.2 Institutional Ownership
+### 6.2 Institutional Ownership
 
 | Holder | Stake | Recent Activity |
 |--------|-------|-----------------|
@@ -382,7 +378,7 @@ The merger creates exceptional value through:
 | Royal Bank of Canada | ~4% | Canadian pension backing |
 | Fidelity | ~3% | Active position |
 
-### 7.3 Short Interest
+### 6.3 Short Interest
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
@@ -390,7 +386,7 @@ The merger creates exceptional value through:
 | **Days to Cover** | ~2.0 | Normal liquidity |
 | **Short Trend** | Flat | No significant increase |
 
-### 7.4 Social Sentiment
+### 6.4 Social Sentiment
 
 | Platform | Sentiment | Key Themes |
 |----------|-----------|------------|
@@ -401,9 +397,9 @@ The merger creates exceptional value through:
 
 ---
 
-## 8. NEWS SCAN & RECENT DEVELOPMENTS
+## 7. NEWS SCAN & RECENT DEVELOPMENTS
 
-### 8.1 Recent News (Last 6 Months)
+### 7.1 Recent News (Last 6 Months)
 
 | Date | Event | Impact |
 |------|-------|--------|
@@ -413,7 +409,7 @@ The merger creates exceptional value through:
 | **Sep 2025** | Anglo merger announced | +Transformational deal |
 | **Jul 2025** | Q2 earnings; \$328M copper GP | +Solid operational results |
 
-### 8.2 Sector Developments
+### 7.2 Sector Developments
 
 | Theme | Impact on TECK |
 |-------|----------------|
@@ -423,7 +419,7 @@ The merger creates exceptional value through:
 | **Chile royalty increases** | -Margin pressure (manageable) |
 | **Mining M&A activity** | +Sector re-rating potential |
 
-### 8.3 Press Releases Watch
+### 7.3 Press Releases Watch
 
 Key upcoming catalysts:
 - Q4 2025 earnings (April 23, 2026)
@@ -433,9 +429,9 @@ Key upcoming catalysts:
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
-### 9.1 Bull Case (40% Probability) - Target: \$68
+### 8.1 Bull Case (40% Probability) - Target: \$68
 
 **Assumptions:**
 - Copper price averages \$5.00/lb (2026-2028)
@@ -450,7 +446,7 @@ Key upcoming catalysts:
 - Copper supercycle narrative gains traction
 - Multiple expansion to 12x EV/EBITDA
 
-### 9.2 Base Case (45% Probability) - Target: \$55
+### 8.2 Base Case (45% Probability) - Target: \$55
 
 **Assumptions:**
 - Copper price averages \$4.25/lb
@@ -464,7 +460,7 @@ Key upcoming catalysts:
 - Dividend yield: 0.75%
 - Total return potential: 15-18% annually
 
-### 9.3 Bear Case (15% Probability) - Target: \$38
+### 8.3 Bear Case (15% Probability) - Target: \$38
 
 **Assumptions:**
 - Copper price falls to \$3.50/lb (global recession)
@@ -478,7 +474,7 @@ Key upcoming catalysts:
 - Zinc business provides diversification
 - Low-cost asset base
 
-### 9.4 Scenario Summary
+### 8.4 Scenario Summary
 
 | Scenario | Price Target | Probability | Weighted Return |
 |----------|--------------|-------------|-----------------|
@@ -489,16 +485,16 @@ Key upcoming catalysts:
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
-### 10.1 Investment Rating: OVERWEIGHT / BUY
+### 9.1 Investment Rating: OVERWEIGHT / BUY
 
 **Position Sizing:**
 - **Conservative Portfolio:** 2-3% allocation
 - **Moderate Portfolio:** 3-5% allocation
 - **Aggressive/Growth Portfolio:** 5-7% allocation
 
-### 10.2 Entry Strategy
+### 9.2 Entry Strategy
 
 | Condition | Action | Entry Price |
 |-----------|--------|-------------|
@@ -509,7 +505,7 @@ Key upcoming catalysts:
 
 **Strategy:** Dollar-cost average over 3-6 months given merger timeline uncertainty.
 
-### 10.3 Stop Loss and Risk Management
+### 9.3 Stop Loss and Risk Management
 
 | Type | Level | Rationale |
 |------|-------|-----------|
@@ -517,7 +513,7 @@ Key upcoming catalysts:
 | **Trailing Stop** | 20% below recent high | Protect gains |
 | **Time Stop** | Reassess if merger not closed by Q4 2026 | Event risk |
 
-### 10.4 Catalyst Calendar
+### 9.4 Catalyst Calendar
 
 | Date | Event | Potential Impact |
 |------|-------|------------------|
@@ -527,7 +523,7 @@ Key upcoming catalysts:
 | **Jul 2026** | Q2 2026 Results | First combined guidance |
 | **2027** | QB2 steady-state operations | Production inflection |
 
-### 10.5 Portfolio Fit
+### 9.5 Portfolio Fit
 
 **TECK is suitable for:**
 - ✅ Commodity/cyclical exposure
@@ -542,16 +538,16 @@ Key upcoming catalysts:
 
 ---
 
-## 11. READABILITY PASS: UNDERSTANDING TECK IN PLAIN LANGUAGE
+## 10. READABILITY PASS: UNDERSTANDING TECK IN PLAIN LANGUAGE
 
-### 11.1 What Does Teck Actually Do?
+### 10.1 What Does Teck Actually Do?
 
 **Simple Explanation:** Teck is a mining company that digs copper and zinc out of the ground. Think of them as a specialized construction materials supplier for the modern world.
 
 - **Copper** = The "electricity metal" used in wiring, EVs, and data centers
 - **Zinc** = Used to make steel rust-proof and in batteries
 
-### 11.2 Key Terms Explained
+### 10.2 Key Terms Explained
 
 | Jargon | Plain English |
 |--------|---------------|
@@ -564,7 +560,7 @@ Key upcoming catalysts:
 | **EV/EBITDA** | A way to value companies; lower = potentially cheaper |
 | **Attributable Production** | Teck's share of production from mines they don't fully own |
 
-### 11.3 The Big Picture Story
+### 10.3 The Big Picture Story
 
 **What happened:** Teck used to be a coal company. They sold the coal business and are now purely a "green metals" company that benefits from the electrification of everything (EVs, solar, AI).
 
@@ -572,7 +568,7 @@ Key upcoming catalysts:
 
 **The catch:** QB2 has had technical problems with waste disposal. Until fixed, production is lower than expected. But the long-term story remains intact.
 
-### 11.4 Investment Analogy
+### 10.4 Investment Analogy
 
 Investing in TECK is like:
 - Buying a premium plot of land (the mines)
@@ -585,9 +581,9 @@ Investing in TECK is like:
 
 ---
 
-## 12. APPENDIX
+## 11. APPENDIX
 
-### 12.1 Key Operating Assets
+### 11.1 Key Operating Assets
 
 | Asset | Location | Product | Ownership | Status |
 |-------|----------|---------|-----------|--------|
@@ -598,7 +594,7 @@ Investing in TECK is like:
 | Red Dog | Alaska, USA | Zinc | 100% | Operating |
 | Trail Operations | BC, Canada | Refined metals | 100% | Operating |
 
-### 12.2 Share Structure
+### 11.2 Share Structure
 
 | Class | Shares Outstanding | Voting Rights |
 |-------|-------------------|---------------|
@@ -606,14 +602,14 @@ Investing in TECK is like:
 | Class B | 481.3M | One vote per share |
 | **Total** | ~489M | - |
 
-### 12.3 Merger Exchange Ratio
+### 11.3 Merger Exchange Ratio
 
 - **1 TECK Share** = **1.3301 Anglo American Shares**
 - Anglo American Shareholders: 62.4% of combined company
 - Teck Shareholders: 37.6% of combined company
 - Special Dividend: \$4.5B to Anglo shareholders pre-close
 
-### 12.4 Data Sources
+### 11.4 Data Sources
 
 - Company filings and press releases (Teck Resources, Anglo American)
 - Yahoo Finance market data

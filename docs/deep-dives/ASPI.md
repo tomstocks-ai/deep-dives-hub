@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ASPI/" rel="noopener nofollow" target="_blank"><span class="blue-text">ASPI stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:ASPI",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # ASPI — ASP Isotopes Inc.
 
 **Price:** \$6.40 | **Market Cap:** ~\$664M | **Exchange:** NasdaqCM | **Sector:** Materials | **Rating:** SPEC. BUY
@@ -109,47 +145,7 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 - **Geopolitical risk:** South Africa operations (Renergen) exposed to local regulatory and infrastructure risks
 - **Competition:** Established isotope producers and national labs (e.g., ORNL) have scale advantages
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ASPI/" rel="noopener nofollow" target="_blank"><span class="blue-text">ASPI stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NASDAQ:ASPI",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. SENTIMENT & FLOWS
+## 6. SENTIMENT & FLOWS
 
 - **Analyst Ratings:** 9 analysts covering; average price target \$13.26 (ChartMill) — implies ~107% upside from current price
 - **Short Interest:** Elevated at ~25.47M shares short (23.32% of float per Benzinga) — creates squeeze potential on positive catalysts
@@ -159,7 +155,7 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 
 ---
 
-## 8. SUBSTACK & NEWS SCAN
+## 7. SUBSTACK & NEWS SCAN
 
 - **Recent Earnings (May 20, 2026):** Q1 2026 revenue \$4.2M (+280% YoY); net loss narrowed to \$6.9M
 - **Renergen Integration:** Phase 1 well drilling completed four months ahead of schedule (Jan 2026 update)
@@ -169,7 +165,7 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 
 ---
 
-## 9. INVESTMENT THESIS
+## 8. INVESTMENT THESIS
 
 ### Bull Case
 - Multiple high-value revenue streams (isotopes, helium, LNG, HALEU) create optionality
@@ -193,7 +189,7 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 
 ---
 
-## 10. RECOMMENDATION
+## 9. RECOMMENDATION
 
 **Rating:** SPEC. BUY
 

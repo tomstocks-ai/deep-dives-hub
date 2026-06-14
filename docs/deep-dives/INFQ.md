@@ -6,6 +6,42 @@ hide:
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-INFQ/" rel="noopener nofollow" target="_blank"><span class="blue-text">INFQ stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:INFQ",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
+
 # INFQ (Infleqtion, Inc.) — Comprehensive Deep Dive Analysis
 **Report Date:** 2026-04-29
 **Current Price:** \$12.02
@@ -178,47 +214,7 @@ The company operates a full-stack platform that spans hardware (quantum computer
 - **Supply chain:** Specialized components (lasers, vacuum systems, photonic chips) may face supply constraints.
 - **International operations:** UK, Australia, and Japan operations create currency and geopolitical exposure.
 
----
-
-## 6. TECHNICAL ANALYSIS
-
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-INFQ/" rel="noopener nofollow" target="_blank"><span class="blue-text">INFQ stock chart</span></a><span class="trademark"> by TradingView</span></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-    "allow_symbol_change": true,
-    "calendar": false,
-    "details": false,
-    "hide_side_toolbar": true,
-    "hide_top_toolbar": false,
-    "hide_legend": false,
-    "hide_volume": false,
-    "hotlist": false,
-    "interval": "D",
-    "locale": "en",
-    "save_image": true,
-    "style": "1",
-    "symbol": "NYSE:INFQ",
-    "theme": "dark",
-    "timezone": "Etc/UTC",
-    "backgroundColor": "#0F0F0F",
-    "gridColor": "rgba(242, 242, 242, 0.06)",
-    "watchlist": [],
-    "withdateranges": false,
-    "compareSymbols": [],
-    "studies": [
-      "STD;RSI",
-      "STD;EMA"
-    ],
-    "autosize": true,
-    "height": 500
-  }
-  </script>
-</div>
-
-
-## 7. RECOMMENDATION
+## 6. RECOMMENDATION
 
 ### Summary Rating: **SPEC. BUY**
 
@@ -262,7 +258,7 @@ However, the valuation is entirely predicated on future quantum computing commer
 
 ---
 
-## 8. READABILITY PASS
+## 7. READABILITY PASS
 
 **Quantum Computing:** A new type of computing that uses the principles of quantum mechanics (superposition and entanglement) to process information. Unlike classical computers that use bits (0 or 1), quantum computers use "qubits" that can be 0, 1, or both simultaneously. This allows quantum computers to solve certain complex problems exponentially faster than classical computers.
 
@@ -278,7 +274,7 @@ However, the valuation is entirely predicated on future quantum computing commer
 
 ---
 
-## 9. SOURCES CONSULTED
+## 8. SOURCES CONSULTED
 
 - [x] Yahoo Finance — INFQ quote and market data
 - [x] Seeking Alpha — INFQ overview and company description
