@@ -612,6 +612,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/FLNC/",
       "api_url": "/api/FLNC.json"
+    },
+    {
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors AB",
+      "sector": "Technology",
+      "industry": "Semiconductors / RF & Photonics",
+      "rating": "SPECULATIVE BUY",
+      "price": 86.35,
+      "market_cap": "$520M",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/SIVE/",
+      "api_url": "/api/SIVE.json"
     }
   ]
 }
