@@ -1,0 +1,57 @@
+{
+  "ticker": "BE",
+  "company": "Bloom Energy Corporation",
+  "sector": "Energy",
+  "industry": "Fuel Cells / Clean Power Generation",
+  "exchange": "NYSE",
+  "price": 274.50,
+  "market_cap": "$41.1B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-15",
+  "thesis": "Bloom Energy is a hypergrowth solid-oxide fuel cell manufacturer with a $20B backlog and clear demand tailwinds from AI data center electrification. Q1 2026 revenue surged 130% YoY to $751M with raised FY2026 guidance of $3.4–3.8B. Non-GAAP operating income expanded 10x to $130M and adjusted EBITDA grew 6x to $143M. The 2.8 GW Oracle deal and $5B Brookfield partnership validate commercial demand at scale. High valuation (~11x forward sales) and execution risk warrant a speculative buy rating with disciplined position sizing.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$3.6B (midpoint guidance)",
+    "revenue_growth": "+80%",
+    "gross_margin": "34%",
+    "net_income": "Transitioning to GAAP profitability",
+    "eps_diluted": "$0.44 (Q1 2026 non-GAAP)",
+    "cash": "$2.52B",
+    "fcf": "Positive and improving"
+  },
+  "bull_case": {
+    "target": "$350–$400",
+    "drivers": [
+      "Data center electrification boom drives backlog expansion beyond $20B",
+      "Gross margin expansion to 36%+ as manufacturing scales",
+      "Hydrogen transition opens zero-carbon TAM and justifies premium multiples",
+      "International expansion into Europe and Asia"
+    ]
+  },
+  "bear_case": {
+    "target": "$180–$220",
+    "risks": [
+      "Guidance miss or margin compression from supply chain bottlenecks",
+      "Customer concentration — loss of Oracle or Brookfield delays",
+      "Multiple compression if growth decelerates from 80% to 40%",
+      "Competition from PEM fuel cells or battery storage achieving cost parity"
+    ]
+  },
+  "base_case": {
+    "target": "$280–$320",
+    "assumptions": "FY2026 guidance met at midpoint ($3.6B revenue, 34% gross margin), backlog converts steadily, no major customer losses, and margin expansion continues into 2027."
+  },
+  "catalysts": [
+    {"date": "2026-07-15", "event": "Q2 2026 Earnings — test of guidance trajectory and margin sustainability"},
+    {"date": "2026-08-15", "event": "Potential Oracle/Brookfield contract expansion announcements"},
+    {"date": "2026-10-15", "event": "Q3 2026 Earnings — backlog conversion and FY2027 guidance preview"},
+    {"date": "2026-11-15", "event": "FY2027 Guidance — will reveal if 80% growth is sustainable"}
+  ],
+  "key_risks": [
+    "Customer concentration on mega-deals (Oracle 2.8 GW, Brookfield $5B)",
+    "Execution risk scaling manufacturing to $3.8B revenue run-rate",
+    "Valuation risk at ~11x forward sales — any deceleration triggers severe compression",
+    "Technology competition from PEM fuel cells and battery storage",
+    "Natural gas price volatility affecting customer economics"
+  ]
+}

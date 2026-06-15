@@ -116,6 +116,16 @@ Global leader in grid-scale battery energy storage systems (BESS) with record \$
 
 ---
 
+### BE — Bloom Energy Corporation · <span class="rating-spec-buy">SPEC. BUY</span> · \$274.50
+
+Solid-oxide fuel cell manufacturer powering the AI data center electrification boom. Q1 2026 revenue surged 130% YoY to \$751M with raised FY2026 guidance of \$3.4–3.8B. Non-GAAP operating income expanded 10x to \$130M and adjusted EBITDA grew 6x to \$143M. \$20B backlog (\$6B product + \$14B service) provides 5+ years of visibility. Key partnerships with Oracle (2.8 GW) and Brookfield (\$5B) validate scale. High valuation at ~11x forward sales and execution risk warrant speculative buy rating.
+
+**Bull:** \$350–400 · **Base:** \$280–320 · **Bear:** \$180–220
+
+[:material-arrow-right: Full Deep Dive](BE.md)
+
+---
+
 ## Sources Consulted
 
 1. [Yahoo Finance - ENERGY](https://finance.yahoo.com/quote/ENERGY)
