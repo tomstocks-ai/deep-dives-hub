@@ -29,8 +29,9 @@ title: Technology
 | **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
 | **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+| **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 
-|---
+||---
 
 ## Gists
 
@@ -211,6 +212,16 @@ World's largest pure-play cybersecurity company executing aggressive platform co
 **Bull:** \$340–\$360 · **Base:** \$290–\$310 · **Bear:** \$240–\$260
 
 [:material-arrow-right: Full Deep Dive](PANW.md)
+
+---
+
+### HLIT — Harmonic Inc. · <span class="rating-buy">BUY</span> · \$15.20
+
+Broadband infrastructure pure-play divesting its video business to focus on high-growth fiber access solutions. Q1 2026 broadband revenue surged 43% YoY with \$582M backlog providing 1.2x FY2026 revenue visibility. FY2026 guidance raised to \$475–\$495M revenue and \$0.57–\$0.67 EPS. cOS software platform enables cable operators and telcos to upgrade from GPON to XGS-PON, 25G, 50G and beyond without hardware swaps. \$200M buyback and pending MediaKind sale bolster balance sheet. Trading at ~24.5x forward P/E — reasonable for 20%+ revenue growth with sticky software platform.
+
+**Bull:** \$20–\$22 · **Base:** \$16–\$18 · **Bear:** \$10–\$12
+
+[:material-arrow-right: Full Deep Dive](HLIT.md)
 
 ---
 

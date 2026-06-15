@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -552,6 +552,18 @@
       "last_updated": "2026-06-14",
       "deep_dive_url": "/deep-dives/PANW/",
       "api_url": "/api/PANW.json"
+    },
+    {
+      "ticker": "HLIT",
+      "company": "Harmonic Inc.",
+      "sector": "Technology",
+      "industry": "Broadband Infrastructure / Telecom Equipment",
+      "rating": "BUY",
+      "price": 15.20,
+      "market_cap": "$1.68B",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/HLIT/",
+      "api_url": "/api/HLIT.json"
     }
   ]
 }
