@@ -30,7 +30,7 @@ title: Technology
 | **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
-|| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
+| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 
 ||||---
 
@@ -243,6 +243,16 @@ Fiber connectivity pure-play benefiting from the \$42.5B BEAD broadband infrastr
 **Bull:** \$50–55 · **Base:** \$40–45 · **Bear:** \$25–30
 
 [:material-arrow-right: Full Deep Dive](CLFD.md)
+
+---
+
+### AAOI — Applied Optoelectronics, Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span> · \$191.55
+
+Vertically integrated optical transceiver manufacturer riding the AI data center boom with five consecutive quarters of record revenue. Q1 2026 revenue surged 51% to \$151.1M, with 2026 guidance exceeding \$1.1B and a path to non-GAAP operating profitability. Strong positioning in 800G and emerging 1.6T products for hyperscale customers. However, the stock has risen ~1,000% from 52-week lows and trades far above analyst consensus targets (\$57.50–\$151.30), creating extreme valuation risk. \$449M cash post-equity raise provides ample runway, but customer concentration and second-tier competitive position remain concerns.
+
+**Bull:** \$150–180 · **Base:** \$90–110 · **Bear:** \$50–65
+
+[:material-arrow-right: Full Deep Dive](AAOI.md)
 
 ---
 

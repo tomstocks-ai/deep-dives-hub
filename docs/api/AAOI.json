@@ -1,0 +1,58 @@
+{
+  "ticker": "AAOI",
+  "company": "Applied Optoelectronics, Inc.",
+  "sector": "Technology",
+  "industry": "Optical Communications / Data Center Transceivers",
+  "exchange": "NASDAQ",
+  "price": 191.55,
+  "market_cap": "$8.5B",
+  "rating": "HOLD / SPECULATIVE",
+  "last_updated": "2026-06-15",
+  "thesis": "Applied Optoelectronics is a vertically integrated optical transceiver manufacturer riding the AI data center boom. Five consecutive quarters of record revenue, a $1.1B+ 2026 revenue guidance, and strong positioning in 800G/1.6T products create a compelling growth story. However, the stock has risen ~1,000% from lows and trades far above analyst consensus targets, creating significant valuation risk. The company is near an inflection point to profitability with $449M cash post-equity raise, but customer concentration and second-tier competitive position remain key risks.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$1.1B+",
+    "revenue_growth": "+51% (Q1 YoY)",
+    "gross_margin": "29-30% (non-GAAP, Q2 guide)",
+    "net_income": "-$14.3M (Q1 GAAP)",
+    "eps_diluted": "-$0.07 (Q1 non-GAAP)",
+    "cash": "$449.4M",
+    "fcf": "N/A (near breakeven)"
+  },
+  "bull_case": {
+    "target": "$150–180",
+    "drivers": [
+      "800G revenue reaches $217M/month by mid-2027 as projected",
+      "1.6T transceivers gain early market share with hyperscalers",
+      "Additional customer wins beyond current hyperscaler relationships",
+      "Operating leverage drives non-GAAP margins above 30%"
+    ]
+  },
+  "bear_case": {
+    "target": "$50–65",
+    "risks": [
+      "Hyperscaler AI capex cycle peaks and demand slows",
+      "Coherent/Lumentum/Fabrinet win market share in 800G/1.6T",
+      "Execution delays or yield issues on new products",
+      "Stock multiple compresses to match analyst consensus"
+    ]
+  },
+  "base_case": {
+    "target": "$90–110",
+    "assumptions": "800G ramps successfully through 2026-2027, 1.6T begins contributing in 2028, revenue reaches $1.4-1.6B by 2027 with non-GAAP operating margins of 12-15%. Stock trades at 15-20x forward earnings, consistent with optical peer multiples."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 Earnings: Revenue guidance $180-198M; 800G mix update"},
+    {"date": "2026-11-01", "event": "Q3 2026 Earnings: Progress toward $1.1B annual run-rate"},
+    {"date": "2027-01-01", "event": "1.6T transceiver sampling and customer qualification announcements"},
+    {"date": "2027-06-01", "event": "Mid-2027 revenue target check: $217M/month 800G, $164M/month 1.6T"}
+  ],
+  "key_risks": [
+    "Customer concentration among 2-3 hyperscalers",
+    "Second-tier competitive position vs. Coherent, Lumentum, Fabrinet",
+    "Extreme valuation disconnect: stock trades far above analyst consensus",
+    "Debt maturities within one year despite cash raise",
+    "China manufacturing exposure and geopolitical risk",
+    "AI capex cycle could slow in 2026-2027"
+  ]
+}
