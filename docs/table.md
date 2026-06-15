@@ -46,5 +46,7 @@
 | **PWR** | Quanta Services, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-buy">BUY</span> | $707.74 | 2026-06-13 | [:material-file-document: Read](deep-dives/PWR.md) |
 | **MTZ** | MasTec, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-hold">HOLD</span> | $362.97 | 2026-06-13 | [:material-file-document: Read](deep-dives/MTZ.md) |
 | **DDOG** | Datadog, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $229.90 | 2026-06-14 | [:material-file-document: Read](deep-dives/DDOG.md) |
+| **PANW** | Palo Alto Networks, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">BUY</span> | $279.62 | 2026-06-14 | [:material-file-document: Read](deep-dives/PANW.md) |
+| **HLIT** | Harmonic Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">BUY</span> | $15.20 | 2026-06-15 | [:material-file-document: Read](deep-dives/HLIT.md) |
 
-|---
+||---

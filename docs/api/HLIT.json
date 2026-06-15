@@ -1,0 +1,56 @@
+{
+  "ticker": "HLIT",
+  "company": "Harmonic Inc.",
+  "sector": "Technology",
+  "industry": "Broadband Infrastructure / Telecom Equipment",
+  "exchange": "NASDAQ",
+  "price": 15.20,
+  "market_cap": "$1.68B",
+  "rating": "BUY",
+  "last_updated": "2026-06-15",
+  "thesis": "Harmonic is a broadband infrastructure pure-play after divesting its video business. Q1 2026 broadband revenue surged 43% YoY with $582M backlog providing exceptional visibility. FY2026 guidance raised to $475-495M revenue and $0.57-0.67 EPS. The $200M buyback and pending video sale to MediaKind sharpen focus on the higher-growth broadband segment. Trading at ~24.5x forward P/E with a sticky software platform and fiber upgrade tailwinds.",
+  "financials": {
+    "fiscal_year": "FY2026e",
+    "revenue": "$475-495M",
+    "revenue_growth": "+20-25%",
+    "gross_margin": "50-51.5%",
+    "net_income": "~$62-73M",
+    "eps_diluted": "$0.57-0.67",
+    "cash": "$109M",
+    "fcf": "Positive"
+  },
+  "bull_case": {
+    "target": "$20–$22",
+    "drivers": [
+      "Broadband revenue sustains 30%+ growth with backlog conversion",
+      "Video sale closes at premium valuation, bolstering balance sheet",
+      "Margins expand to 55%+ as memory costs normalize and software mix rises",
+      "Multiple re-rating to 30x P/E on pure-play broadband status"
+    ]
+  },
+  "bear_case": {
+    "target": "$10–$12",
+    "risks": [
+      "Broadband growth decelerates to 10% as cable operator capex slows",
+      "Memory costs and new product ramps persistently compress margins",
+      "Competitive pressure from Calix, Adtran, and Nokia intensifies",
+      "Video sale delays or falls through, creating strategic uncertainty"
+    ]
+  },
+  "base_case": {
+    "target": "$16–$18",
+    "assumptions": "Broadband grows 20-25% YoY; video sale closes as planned in H2 2026; gross margins stabilize at 51-52%; company trades at 25x forward P/E. Base case implies 5-18% upside from current price with backlog-supported visibility."
+  },
+  "catalysts": [
+    {"date": "2026-08-03", "event": "Q2 2026 earnings — broadband momentum and video sale update"},
+    {"date": "2026-H2", "event": "Video business sale to MediaKind expected close"},
+    {"date": "2026-11", "event": "Q3 2026 earnings — potential guidance raise if backlog converts"}
+  ],
+  "key_risks": [
+    "Customer concentration among major cable operators",
+    "Competition from Calix, Adtran, and Nokia in broadband access",
+    "Cyclical cable operator capex exposure",
+    "Margin pressure from memory costs and new product ramps",
+    "Video sale execution risk"
+  ]
+}
