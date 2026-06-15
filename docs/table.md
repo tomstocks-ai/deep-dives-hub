@@ -52,7 +52,5 @@
 | **CLFD** | Clearfield, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $39.96 | 2026-06-15 | [:material-file-document: Read](deep-dives/CLFD.md) |
 | **AAOI** | Applied Optoelectronics | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $191.55 | 2026-06-15 | [:material-file-document: Read](deep-dives/AAOI.md) |
 | **FLNC** | Fluence Energy, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $24.18 | 2026-06-15 | [:material-file-document: Read](deep-dives/FLNC.md) |
-|| **SIVE** | Sivers Semiconductors AB | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $8.21 | 2026-06-15 | [:material-file-document: Read](deep-dives/SIVE.md) |
-|| **BE** | Bloom Energy Corporation | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $274.50 | 2026-06-15 | [:material-file-document: Read](deep-dives/BE.md) |
-||
-|||||||---
+| **SIVE** | Sivers Semiconductors AB | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $8.21 | 2026-06-15 | [:material-file-document: Read](deep-dives/SIVE.md) |
+| **BE** | Bloom Energy Corporation | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $274.50 | 2026-06-15 | [:material-file-document: Read](deep-dives/BE.md) |
