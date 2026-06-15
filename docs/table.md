@@ -48,8 +48,9 @@
 | **DDOG** | Datadog, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-hold">HOLD</span> | $229.90 | 2026-06-14 | [:material-file-document: Read](deep-dives/DDOG.md) |
 | **PANW** | Palo Alto Networks, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">BUY</span> | $279.62 | 2026-06-14 | [:material-file-document: Read](deep-dives/PANW.md) |
 | **HLIT** | Harmonic Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-buy">BUY</span> | $15.20 | 2026-06-15 | [:material-file-document: Read](deep-dives/HLIT.md) |
-|| **CRDO** | Credo Technology Group | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $256.65 | 2026-06-15 | [:material-file-document: Read](deep-dives/CRDO.md) |
-||| **CLFD** | Clearfield, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $39.96 | 2026-06-15 | [:material-file-document: Read](deep-dives/CLFD.md) |
+| **CRDO** | Credo Technology Group | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $256.65 | 2026-06-15 | [:material-file-document: Read](deep-dives/CRDO.md) |
+| **CLFD** | Clearfield, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $39.96 | 2026-06-15 | [:material-file-document: Read](deep-dives/CLFD.md) |
 | **AAOI** | Applied Optoelectronics | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | $191.55 | 2026-06-15 | [:material-file-document: Read](deep-dives/AAOI.md) |
+| **FLNC** | Fluence Energy, Inc. | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $24.18 | 2026-06-15 | [:material-file-document: Read](deep-dives/FLNC.md) |
 |
 |||||---

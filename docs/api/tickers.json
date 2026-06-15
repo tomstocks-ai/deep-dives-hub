@@ -600,6 +600,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/AAOI/",
       "api_url": "/api/AAOI.json"
+    },
+    {
+      "ticker": "FLNC",
+      "company": "Fluence Energy, Inc.",
+      "sector": "Energy",
+      "industry": "Battery Energy Storage Systems (BESS)",
+      "rating": "SPEC. BUY",
+      "price": 24.18,
+      "market_cap": "$4.4B",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/FLNC/",
+      "api_url": "/api/FLNC.json"
     }
   ]
 }
