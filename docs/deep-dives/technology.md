@@ -30,8 +30,9 @@ title: Technology
 | **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
+| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 
-||---
+|||---
 
 ## Gists
 
@@ -222,6 +223,16 @@ Broadband infrastructure pure-play divesting its video business to focus on high
 **Bull:** \$20–\$22 · **Base:** \$16–\$18 · **Bear:** \$10–\$12
 
 [:material-arrow-right: Full Deep Dive](HLIT.md)
+
+---
+
+### CRDO — Credo Technology Group · <span class="rating-spec-buy">SPEC. BUY</span> · \$256.65
+
+Pure-play AI data center connectivity company delivering 157% YoY revenue growth through ZeroFlap Active Electrical Cables and optical DSPs. Q3 FY2026 revenue hit \$437M with 68.6% non-GAAP gross margin and \$1.07 EPS (beat by ~14%). \$1.3B cash, minimal debt. Extreme customer concentration (Amazon ~61%) and 107x P/E create asymmetric risk/reward. Wait for pullback to \$200–220.
+
+**Bull:** \$350–420 · **Base:** \$220–280 · **Bear:** \$100–140
+
+[:material-arrow-right: Full Deep Dive](CRDO.md)
 
 ---
 

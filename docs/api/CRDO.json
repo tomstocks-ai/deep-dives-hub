@@ -1,0 +1,55 @@
+{
+  "ticker": "CRDO",
+  "company": "Credo Technology Group Holding Ltd",
+  "sector": "Technology",
+  "industry": "Semiconductor Connectivity / High-Speed Interconnects",
+  "exchange": "NASDAQ",
+  "price": 256.65,
+  "market_cap": "$43.5B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-15",
+  "thesis": "Credo is a pure-play enabler of AI data center connectivity, delivering 157% YoY revenue growth via ZeroFlap AECs and optical DSPs. Extreme customer concentration (61% Amazon) and 107x P/E create asymmetric risk/reward. Speculative Buy on pullback.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$437M (Q3)",
+    "revenue_growth": "+157% YoY",
+    "gross_margin": "68.6% (non-GAAP)",
+    "net_income": "$157.1M (Q3 GAAP)",
+    "eps_diluted": "$1.07 (non-GAAP)",
+    "cash": "$1.3B",
+    "fcf": "Strong positive (Q3)"
+  },
+  "bull_case": {
+    "target": "$350–420",
+    "drivers": [
+      "1.6T optical DSP ramp at top-4 hyperscalers",
+      "AI backend network expansion drives repeat AEC purchases",
+      "Customer diversification reduces Amazon concentration below 50%",
+      "Gen6 PCIe Over AEC expands TAM into server-to-storage links"
+    ]
+  },
+  "bear_case": {
+    "target": "$100–140",
+    "risks": [
+      "Hyperscaler AI capex cut triggers 40–50% multiple compression",
+      "Amazon in-sources cable chip design or switches suppliers",
+      "Marvell/Broadcom bundle connectivity with switching silicon",
+      "Optical cost decline erodes copper AEC advantage"
+    ]
+  },
+  "base_case": {
+    "target": "$220–280",
+    "assumptions": "Moderate growth deceleration to 50–70% YoY; AECs maintain hyperscaler share; optical DSPs contribute 15–20% of revenue by FY2027; gross margins stable at 65–70%."
+  },
+  "catalysts": [
+    {"date": "2026-09", "event": "Q4 FY2026 earnings — FY2027 guidance critical"},
+    {"date": "2026-08", "event": "Potential 1.6T product/design win announcements"},
+    {"date": "2026-10", "event": "FY2026 10-K filing — customer concentration update"}
+  ],
+  "key_risks": [
+    "Customer concentration: Amazon ~61% of revenue",
+    "Valuation: ~107x P/E prices in perfection",
+    "Competition from larger, better-capitalized rivals (MRVL, AVGO)",
+    "AI capex cycle sensitivity"
+  ]
+}
