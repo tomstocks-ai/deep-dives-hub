@@ -588,6 +588,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/CLFD/",
       "api_url": "/api/CLFD.json"
+    },
+    {
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics, Inc.",
+      "sector": "Technology",
+      "industry": "Optical Communications / Data Center Transceivers",
+      "rating": "HOLD / SPECULATIVE",
+      "price": 191.55,
+      "market_cap": "$8.5B",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/AAOI/",
+      "api_url": "/api/AAOI.json"
     }
   ]
 }
