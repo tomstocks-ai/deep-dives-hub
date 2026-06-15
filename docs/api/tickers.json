@@ -564,6 +564,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/HLIT/",
       "api_url": "/api/HLIT.json"
+    },
+    {
+      "ticker": "CRDO",
+      "company": "Credo Technology Group Holding Ltd",
+      "sector": "Technology",
+      "industry": "Semiconductor Connectivity / High-Speed Interconnects",
+      "rating": "SPECULATIVE BUY",
+      "price": 256.65,
+      "market_cap": "$43.5B",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/CRDO/",
+      "api_url": "/api/CRDO.json"
     }
   ]
 }
