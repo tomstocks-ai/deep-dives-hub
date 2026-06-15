@@ -1,0 +1,57 @@
+{
+  "ticker": "SIVE",
+  "company": "Sivers Semiconductors AB",
+  "sector": "Technology",
+  "industry": "Semiconductors / RF & Photonics",
+  "exchange": "OMXSTO",
+  "price": 86.35,
+  "market_cap": "$520M",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-15",
+  "thesis": "Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO satellite terminals and 5G infrastructure. Revenue growing 12%+ YoY with expanding gross margins and narrowing losses. Pre-profitability with ~2.5–3 years cash runway. Potential U.S. dual listing is a near-term catalyst. Asymmetric exposure to the satellite connectivity boom at a reasonable valuation for a growth semiconductor story.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "SEK 304.1M (~$29M)",
+    "revenue_growth": "+12% YoY (33% at constant FX)",
+    "gross_margin": "~35–40%",
+    "net_income": "SEK -150M (~-$14M)",
+    "eps_diluted": "SEK -0.42",
+    "cash": "SEK ~400M (~$38M)",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "SEK 140–180",
+    "drivers": [
+      "LEO satellite terminal demand accelerates with major constellation deployments",
+      "5G mmWave design wins in Asia and North America",
+      "U.S. dual listing expands investor base and re-rates stock toward U.S. multiples",
+      "Photonics division recovers on data center optical interconnect demand for AI clusters"
+    ]
+  },
+  "bear_case": {
+    "target": "SEK 25–40",
+    "risks": [
+      "Major customer concentration — loss of key satellite terminal program",
+      "Revenue stalls due to order delays or competitive displacement",
+      "5G mmWave market fails to materialize as expected",
+      "U.S. dual listing delayed or cancelled, removing key catalyst"
+    ]
+  },
+  "base_case": {
+    "target": "SEK 80–110",
+    "assumptions": "Steady satellite terminal growth; moderate 5G traction; revenue reaches SEK 450M by 2027; company achieves EBITDA breakeven by 2028"
+  },
+  "catalysts": [
+    {"date": "2026-08", "event": "Q2 2026 earnings — satellite order rebound after Q1 softness"},
+    {"date": "2026-Q3", "event": "Potential U.S. dual listing update / timeline"},
+    {"date": "2026-11", "event": "Q3 2026 earnings — FY2027 guidance"},
+    {"date": "2027", "event": "LEO constellation deployment milestones (Amazon Kuiper, Telesat)"}
+  ],
+  "key_risks": [
+    "Customer concentration in satellite terminal market",
+    "Pre-profitability with ongoing cash burn",
+    "FX exposure (USD revenue, SEK costs)",
+    "5G mmWave market timing uncertainty",
+    "Competition from larger RF semiconductor companies"
+  ]
+}

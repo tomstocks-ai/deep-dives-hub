@@ -31,6 +31,7 @@ title: Technology
 | **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
+| **SIVE** | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | \$8.21 | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
 
 ||||---
 
@@ -233,6 +234,16 @@ Pure-play AI data center connectivity company delivering 157% YoY revenue growth
 **Bull:** \$350–420 · **Base:** \$220–280 · **Bear:** \$100–140
 
 [:material-arrow-right: Full Deep Dive](CRDO.md)
+
+---
+
+### SIVE — Sivers Semiconductors AB · <span class="rating-spec-buy">SPEC. BUY</span> · \$8.21
+
+Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO satellite terminals and 5G infrastructure. FY2025 revenue of SEK 304.1M (+12% YoY, +33% constant FX) with record Q4 of SEK 80.7M. Pre-profitability with narrowing losses and ~2.5–3 years cash runway. Potential U.S. dual listing is a near-term catalyst. Asymmetric exposure to the satellite connectivity boom at ~18x FY2025 sales.
+
+**Bull:** SEK 140–180 · **Base:** SEK 80–110 · **Bear:** SEK 25–40
+
+[:material-arrow-right: Full Deep Dive](SIVE.md)
 
 ---
 
