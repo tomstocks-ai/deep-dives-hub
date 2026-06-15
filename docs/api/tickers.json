@@ -475,7 +475,7 @@
       "sector": "Materials",
       "industry": "Enriched Isotopes / Critical Materials",
       "rating": "SPEC. BUY",
-      "price": 6.40,
+      "price": 6.4,
       "market_cap": "$664M",
       "last_updated": "2026-06-10",
       "deep_dive_url": "/deep-dives/ASPI/",
@@ -487,7 +487,7 @@
       "sector": "Technology",
       "industry": "Solid-State Batteries",
       "rating": "HOLD / SPECULATIVE",
-      "price": 7.00,
+      "price": 7.0,
       "market_cap": "$3.6B",
       "last_updated": "2026-06-11",
       "deep_dive_url": "/deep-dives/QS/",
@@ -535,7 +535,7 @@
       "sector": "Technology",
       "industry": "Cloud Observability / SaaS",
       "rating": "HOLD",
-      "price": 229.90,
+      "price": 229.9,
       "market_cap": "$83B",
       "last_updated": "2026-06-14",
       "deep_dive_url": "/deep-dives/DDOG/",
@@ -559,7 +559,7 @@
       "sector": "Technology",
       "industry": "Broadband Infrastructure / Telecom Equipment",
       "rating": "BUY",
-      "price": 15.20,
+      "price": 15.2,
       "market_cap": "$1.68B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/HLIT/",
@@ -576,6 +576,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/CRDO/",
       "api_url": "/api/CRDO.json"
+    },
+    {
+      "ticker": "CLFD",
+      "company": "Clearfield, Inc.",
+      "sector": "Technology",
+      "industry": "Fiber Connectivity / Broadband Infrastructure",
+      "rating": "SPECULATIVE BUY",
+      "price": 39.96,
+      "market_cap": "$650M",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/CLFD/",
+      "api_url": "/api/CLFD.json"
     }
   ]
 }

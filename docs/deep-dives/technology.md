@@ -30,9 +30,9 @@ title: Technology
 | **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
-| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
+|| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 
-|||---
+||||---
 
 ## Gists
 
@@ -233,6 +233,16 @@ Pure-play AI data center connectivity company delivering 157% YoY revenue growth
 **Bull:** \$350–420 · **Base:** \$220–280 · **Bear:** \$100–140
 
 [:material-arrow-right: Full Deep Dive](CRDO.md)
+
+---
+
+### CLFD — Clearfield, Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · \$39.96
+
+Fiber connectivity pure-play benefiting from the \$42.5B BEAD broadband infrastructure program. FY2025 revenue of \$150.13M (+19.6% YoY) with Q1 FY2026 up 16% and guidance reiterated at \$160–170M. Strong balance sheet with \$157M cash, minimal debt, and active buybacks (\$23.1M remaining). New NOVA platform targets high-density data center fiber — unproven but high-potential TAM expansion. 4-analyst Strong Buy consensus with \$44–50 targets. However, 64–83x forward P/E and thin margins make this a speculative bet on BEAD timing and NOVA adoption.
+
+**Bull:** \$50–55 · **Base:** \$40–45 · **Bear:** \$25–30
+
+[:material-arrow-right: Full Deep Dive](CLFD.md)
 
 ---
 
