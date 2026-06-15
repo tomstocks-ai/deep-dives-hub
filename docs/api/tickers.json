@@ -624,6 +624,18 @@
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/SIVE/",
       "api_url": "/api/SIVE.json"
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy Corporation",
+      "sector": "Energy",
+      "industry": "Fuel Cells / Clean Power Generation",
+      "rating": "SPECULATIVE BUY",
+      "price": 274.50,
+      "market_cap": "$41.1B",
+      "last_updated": "2026-06-15",
+      "deep_dive_url": "/deep-dives/BE/",
+      "api_url": "/api/BE.json"
     }
   ]
 }
