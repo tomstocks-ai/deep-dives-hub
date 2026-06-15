@@ -20,6 +20,7 @@ title: Energy
 | **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
 | **PWR** | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 | **MTZ** | MasTec, Inc. | <span class="rating-hold">HOLD</span> | \$362.97 | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
+| **FLNC** | Fluence Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$24.18 | 2026-06-15 | [:material-file-document: Read](FLNC.md) |
 
 ---
 
@@ -102,6 +103,16 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 **Bull:** \$480–520 · **Base:** \$380–420 · **Bear:** \$220–260
 
 [:material-arrow-right: Full Deep Dive](MTZ.md)
+
+---
+
+### FLNC — Fluence Energy, Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · \$24.18
+
+Global leader in grid-scale battery energy storage systems (BESS) with record \$5.5B backlog and 154% YoY revenue growth. Q1 FY2026 revenue \$475.2M with improving margins (4.9% GAAP gross, 5.6% adjusted). Primary beneficiary of data center electrification, IRA tax credits, and grid modernization mandates. \$1.1B total liquidity provides runway as company scales toward profitability. Key risks: project execution, cash burn, and competition from Tesla Megapack.
+
+**Bull:** \$45–55 · **Base:** \$28–35 · **Bear:** \$14–18
+
+[:material-arrow-right: Full Deep Dive](FLNC.md)
 
 ---
 

@@ -1,0 +1,56 @@
+{
+  "ticker": "FLNC",
+  "company": "Fluence Energy, Inc.",
+  "sector": "Energy",
+  "industry": "Battery Energy Storage Systems (BESS)",
+  "exchange": "NASDAQ",
+  "price": 24.18,
+  "market_cap": "$4.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-15",
+  "thesis": "Global leader in grid-scale battery energy storage with record $5.5B backlog and 154% YoY revenue growth. Positioned as primary beneficiary of data center electrification, grid modernization, and IRA tax credits. Thin margins (4.9% gross) and cash burn create execution risk, but asymmetric upside if software mix expands and margins reach 10-15% target.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$475.2M (Q1)",
+    "revenue_growth": "+154.4%",
+    "gross_margin": "4.9% (GAAP) / 5.6% (adjusted)",
+    "net_income": "-$62.6M (Q1)",
+    "eps_diluted": "N/A",
+    "cash": "$477M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$45–55",
+    "drivers": [
+      "Data center electrification drives 2-3x demand acceleration",
+      "Software attach rate exceeds 40%, expanding blended margins to 15%+",
+      "International expansion captures Europe and Asia grid storage boom",
+      "Strategic M&A or partnership with hyperscaler validates platform"
+    ]
+  },
+  "bear_case": {
+    "target": "$14–18",
+    "risks": [
+      "Project delays and cost overruns compress margins below 8%",
+      "Competition from Tesla Megapack and BYD erodes market share",
+      "IRA tax credit repeal or delay slows U.S. demand",
+      "Cash burn accelerates, requiring dilutive equity raise"
+    ]
+  },
+  "base_case": {
+    "target": "$28–35",
+    "assumptions": "$5.5B backlog converts over 2-3 years, software mix reaches 30%, gross margins expand to 12%, EBITDA margins reach 10% by FY2028. Market prices in $3B revenue run rate with improving profitability."
+  },
+  "catalysts": [
+    {"date": "2026-05-01", "event": "Q2 FY2026 earnings — backlog and margin guidance update"},
+    {"date": "2026-08-01", "event": "FY2026 guidance update — full-year revenue and margin targets"},
+    {"date": "2026-06-15", "event": "Ongoing project announcements — data center partnerships, international wins"}
+  ],
+  "key_risks": [
+    "Customer concentration in large utility projects creates revenue lumpiness",
+    "Cash burn rate of ~$50M/quarter implies 5-6 quarters of runway",
+    "Interest rate sensitivity increases project financing costs",
+    "Grid interconnection delays (3-5 year queue) defer revenue recognition",
+    "Commodity price volatility (lithium, cobalt, nickel) affects input costs"
+  ]
+}
