@@ -648,6 +648,18 @@
       "last_updated": "2026-06-16",
       "deep_dive_url": "/deep-dives/HUT/",
       "api_url": "/api/HUT.json"
+    },
+    {
+      "ticker": "CORZ",
+      "company": "Core Scientific, Inc.",
+      "sector": "Technology",
+      "industry": "Digital Infrastructure / Bitcoin Mining & AI Data Centers",
+      "rating": "SPEC. BUY",
+      "price": 28.18,
+      "market_cap": "$8.9B",
+      "last_updated": "2026-06-16",
+      "deep_dive_url": "/deep-dives/CORZ/",
+      "api_url": "/api/CORZ.json"
     }
   ]
 }

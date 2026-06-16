@@ -55,3 +55,4 @@
 | **SIVE** | Sivers Semiconductors AB | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $8.21 | 2026-06-15 | [:material-file-document: Read](deep-dives/SIVE.md) |
 | **BE** | Bloom Energy Corporation | <span class="badge badge-energy">Energy</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $274.50 | 2026-06-15 | [:material-file-document: Read](deep-dives/BE.md) |
 | **HUT** | Hut 8 Corp. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $120.18 | 2026-06-16 | [:material-file-document: Read](deep-dives/HUT.md) |
+| **CORZ** | Core Scientific, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | $28.18 | 2026-06-16 | [:material-file-document: Read](deep-dives/CORZ.md) |
