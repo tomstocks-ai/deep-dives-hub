@@ -48,12 +48,14 @@ hide:
 Harmonic Inc. is a communications infrastructure company that delivers broadband and video solutions to cable operators, telecom providers, and media companies worldwide. The company operates through two segments: **Broadband** and **Video**.
 
 **Business Model:**
+
 - **Broadband segment (~75% of revenue):** Software, hardware, and cloud services for broadband access networks. Flagship products include the **cOS** software-based broadband access solution, **Pearl R-OLTs**, **Jetty remote switches**, and **Pier OLT shelves** — providing a seamless upgrade path from GPON to XGS-PON, 25GS, 50G, 100G and beyond.
 - **Video segment (~25% of revenue):** Video processing, delivery, and streaming solutions including the **VOS360 SaaS platform** for live and on-demand video delivery.
 
 **Strategic Pivot:** In Q1 2026, Harmonic announced the **pending sale of its Video business to MediaKind**. This divestiture will sharpen focus on the higher-growth Broadband segment and deliver a healthy capital infusion to bolster the balance sheet.
 
 **Competitive Moat:**
+
 - Virtualized, software-defined broadband platform (cOS) vs. legacy hardware-centric competitors
 - Deep operator relationships with major cable and telecom providers globally
 - End-to-end fiber solutions from access to edge, reducing operator complexity
@@ -157,12 +159,14 @@ Harmonic Inc. is a communications infrastructure company that delivers broadband
 **Stop loss:** \$11.50 (below 52-week low cluster and key technical support)
 
 **Key levels:**
+
 - **Entry:** \$15.20 (current) or \$13.50–\$14.00 on pullback
 - **Base target:** \$16–\$18
 - **Bull target:** \$20–\$22
 - **Stop:** \$11.50
 
 **Catalyst calendar:**
+
 - **Q2 2026 earnings:** August 2026 — expect broadband revenue momentum and video sale update
 - **Video sale close:** Expected H2 2026 — key de-risking event
 - **Guidance updates:** Q3/Q4 2026 — potential for further raises if backlog converts

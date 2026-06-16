@@ -143,6 +143,7 @@ EchoStar Corporation operates as a diversified satellite and telecommunications 
 | **Total Adjusted OIBDA** | **\$1.63B** | **\$1.49B** | **-8.6%** |
 
 **Key Insights:**
+
 - Pay-TV remains the cash cow, generating \$2.69B in Adjusted OIBDA (180% of total)
 - Wireless losses widened due to network buildout costs (now reversing with AT&T deal)
 - Consolidated Adjusted OIBDA margin: ~10%
@@ -201,6 +202,7 @@ The \$42.6 billion in spectrum monetization deals resolves the immediate liquidi
 ### 3.3 DCF Scenarios
 
 **Base Case:**
+
 - Revenue CAGR: -2% (2025-2030)
 - EBITDA Margin: 12% (stabilized)
 - WACC: 12%
@@ -208,12 +210,14 @@ The \$42.6 billion in spectrum monetization deals resolves the immediate liquidi
 - **Implied Value: \$125-135/share**
 
 **Bull Case:**
+
 - SpaceX IPO at \$200B+ valuation (2x current)
 - Successful Boost Mobile turnaround on AT&T network
 - Spectrum monetization exceeds expectations
 - **Implied Value: \$180-220/share**
 
 **Bear Case:**
+
 - AT&T/SpaceX deals fail regulatory approval
 - Pay-TV acceleration faster than expected
 - Continued wireless subscriber losses
@@ -260,6 +264,7 @@ The most significant catalyst is EchoStar's ~2% equity stake in SpaceX, valued a
 ### 4.3 Boost Mobile "Hybrid MNO" Model
 
 The transition to AT&T's network infrastructure provides:
+
 - Elimination of \$1B+ annual network CapEx
 - Access to nationwide coverage immediately
 - Focus on core competencies: customer acquisition, branding, distribution
@@ -268,6 +273,7 @@ The transition to AT&T's network infrastructure provides:
 ### 4.4 Remaining Spectrum Portfolio
 
 Post-transactions, EchoStar retains significant spectrum assets:
+
 - AWS-3 licenses (partial)
 - H-Block licenses (partial)
 - Additional mid-band holdings
@@ -376,11 +382,13 @@ Post-transactions, EchoStar retains significant spectrum assets:
 ### 7.2 Key News Themes
 
 **Positive:**
+
 - "EchoStar Details \$42 Billion Strategic Shift via SpaceX and AT&T Asset Divestitures" (SatNews, Mar 2026)
 - "Boost Mobile Rated No. 1 in 5G Reliability and Coverage" (EchoStar PR, May 2025)
 - "EchoStar Liquidity Injections Shift 2026 Debt Outlook" (SatNews, Dec 2025)
 
 **Negative/Cautionary:**
+
 - Infrastructure creditor protests (American Tower, Crown Castle)
 - Subscriber losses across all segments
 - "2025 in Review: EchoStar Navigates a Series of Storms" (Light Reading, Jan 2026)
@@ -388,11 +396,13 @@ Post-transactions, EchoStar retains significant spectrum assets:
 ### 7.3 Competitive Landscape News
 
 **Starlink Dominance:**
+
 - Starlink ended Q2 2025 with 72% market share of satellite internet households (S&P Global)
 - Over 9 million global subscribers as of December 2025
 - Starlink Direct-to-Cell service launching (competitive threat to Boost)
 
 **HughesNet Challenges:**
+
 - Ranked 3rd globally with only 1.0% of speed tests (Ookla, Q3 2025)
 - Subscriber base declining (-44K in Q4 2025)
 
@@ -493,6 +503,7 @@ Post-transactions, EchoStar retains significant spectrum assets:
 **Stop Loss:** \$95 (hard stop - below major support)
 
 **Take Profit Levels:**
+
 - 1/3 position at \$155 (+20%)
 - 1/3 position at \$185 (+44%)
 - Hold 1/3 for SpaceX IPO upside (\$200+)

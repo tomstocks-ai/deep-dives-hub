@@ -58,17 +58,20 @@ hide:
 Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoin playbook, but focused exclusively on the Hyperliquid ecosystem. The company provides investors with traditional equity exposure to HYPE — the native token of the Hyperliquid Layer-1 blockchain — through accumulation, staking, and yield optimization strategies.
 
 **Business Model:**
+
 - **Treasury Accumulation:** PURR holds approximately 17.6–20 million HYPE tokens (valued at ~\$1.14–1.5B depending on HYPE price), making it the largest public corporate HYPE holder with ~1.8% of total supply.
 - **Staking Revenue:** HYPE holdings are staked to generate yield, contributing to operating revenue.
 - **Yield Optimization:** Treasury management strategies maximize returns within the Hyperliquid DeFi ecosystem.
 
 **Key Metrics:**
+
 - HYPE Holdings: ~17.6M–20M tokens (~\$1.14B–\$1.5B at \$65–\$75/HYPE)
 - Cash: ~\$103M (as of April 2026)
 - Liabilities: Minimal / none reported
 - Russell 3000 Inclusion: Effective June 26, 2026 (announced May 22)
 
 **Management & Ownership:**
+
 - Modeled after MicroStrategy's treasury-first approach
 - Institutional ownership growing: State Street added ~\$16M in Q1 2026, BlackRock ~\$10.5M, Goldman Sachs disclosed a \$3.3M stake
 - No significant insider selling reported
@@ -79,6 +82,7 @@ Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset tr
 
 ### Income Statement
 - **Q3 FY2026 (ended Mar 31, 2026):** Net profit of **\$152.5 million**
+
 - **Unrealized Gains:** \$198.4M on HYPE holdings during Q3
 - **Revenue Model:** Primarily staking yield + unrealized/ realized gains on digital assets
 - **Profitability:** Highly profitable when HYPE appreciates; losses possible in downturns
@@ -102,6 +106,7 @@ Hyperliquid Strategies Inc. (NASDAQ: PURR) is a publicly traded digital asset tr
 
 ### NAV-Based Valuation
 At \$72.96/HYPE (current approximate price):
+
 - HYPE holdings (17.6M): ~\$1.28B
 - Cash: ~\$103M
 - **Implied NAV:** ~\$1.38B
@@ -116,6 +121,7 @@ At \$72.96/HYPE (current approximate price):
 | **Bear** | \$35–\$45 | \$700M–\$900M | **\$5–\$7** | −54% to −36% |
 
 **Key Assumptions:**
+
 - NAV premium/discount range: −20% to +20%
 - Shares outstanding: ~137M (estimated from market cap / price)
 - HYPE staking yield: ~3–5% annually

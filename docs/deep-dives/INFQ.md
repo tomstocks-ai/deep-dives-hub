@@ -72,6 +72,7 @@ The company operates a full-stack platform that spans hardware (quantum computer
 ### Industry Position and Competitive Moat
 
 **Competitive Advantages:**
+
 - **Neutral-atom technology differentiation:** Only publicly traded pure-play using neutral atoms (vs. trapped ions at IonQ, superconducting at IBM/Google). Neutral atoms offer room-temperature operation potential and lower environmental noise.
 - **235+ patents** issued and pending, creating significant IP barriers.
 - **First-mover in commercial quantum sensing:** Revenue-generating products (clocks, RF sensors, navigation) already deployed with defense customers, providing cash flow while computing scales.
@@ -83,6 +84,7 @@ The company operates a full-stack platform that spans hardware (quantum computer
 ### Management Team Track Record
 
 **Key Executives:**
+
 - **Matthew Kinsella:** CEO & Founding Investor (since mid-2024). Venture capital background from Maverick Capital. Led founding investment and joined board in 2018. Took CEO role to drive next growth phase and SPAC transaction.
 - **Dana Anderson:** Chief Science Officer & Founder. Physics and electrical engineering professor at University of Colorado Boulder, fellow at JILA Institute (Nobel Prize-winning research environment). Developed first ultracold atom chip.
 - **Pranav Gokhale:** Chief Technology Officer & Co-founder. Drives technical roadmap including 100+ logical qubit target by 2028.
@@ -109,6 +111,7 @@ The company operates a full-stack platform that spans hardware (quantum computer
 | **SG&A** | \$27.3M | \$25.3M | -7.3% |
 
 **Key Observations:**
+
 - Revenue growth of 12.8% with improving mix (more services revenue at higher margins)
 - Gross margin expanded 500 bps from 31.4% to 36.4%, indicating operating leverage
 - Net loss narrowed significantly from \$53.8M to \$31.8M — a \$22M improvement
@@ -195,21 +198,25 @@ The company operates a full-stack platform that spans hardware (quantum computer
 ## 5. RISKS
 
 **Technology Risks:**
+
 - **Quantum computing may not commercialize on expected timeline:** The field has a history of over-promising timelines. Neutral-atom approach, while promising, is unproven at commercial scale.
 - **Competitive technology leapfrogging:** Trapped ion (IonQ), superconducting (IBM/Google), or photonic approaches may achieve commercial viability first.
 - **Technical milestones may be missed:** 100 logical qubits by 2028 is ambitious. Missed milestones would damage credibility and valuation.
 
 **Financial Risks:**
+
 - **Pre-profitability with significant cash burn:** Even post-IPO, the company will burn cash for 3-5 years. Any need for additional capital would be dilutive.
 - **Revenue concentration in government contracts:** Defense spending is subject to budget cycles and political shifts. Commercial revenue diversification is still early.
 - **Small revenue base:** \$32.5M revenue is tiny relative to \$2.76B market cap. Any revenue miss is magnified in valuation impact.
 
 **Market Risks:**
+
 - **Quantum sector sentiment shifts:** The quantum computing sector is highly sentiment-driven. A "quantum winter" (reduced funding/interest) would compress all valuations.
 - **Limited trading history:** As a recent IPO, the stock lacks institutional following and may be volatile.
 - **SPAC overhang:** SPAC mergers often face redemption-related selling pressure and warrant overhang.
 
 **Operational Risks:**
+
 - **Talent competition:** Quantum physicists and engineers are scarce. Competition from big tech (Google, IBM, Microsoft) for talent is intense.
 - **Supply chain:** Specialized components (lasers, vacuum systems, photonic chips) may face supply constraints.
 - **International operations:** UK, Australia, and Japan operations create currency and geopolitical exposure.

@@ -1,7 +1,7 @@
 ---
 title: Commodities
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,12 +9,12 @@ title: Commodities
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **SLV** | iShares Silver Trust | <span class="rating-buy">BUY</span> | \$61.57 | 2026-06-07 | [:material-file-document: Read](SLV.md) |
-| **GLD** | SPDR Gold Shares | <span class="rating-buy">BUY</span> | \$396.24 | 2026-06-07 | [:material-file-document: Read](GLD.md) |
-| **COPX** | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | \$80.64 | 2026-06-07 | [:material-file-document: Read](COPX.md) |
-| **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](SLV.md) |
+| <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](GLD.md) |
+| <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](COPX.md) |
+| <tv-ticker-tag symbol="AMEX:URA" hide-background></tv-ticker-tag> | Global X Uranium ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](URA.md) |
 
 ---
 

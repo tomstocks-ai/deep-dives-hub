@@ -63,6 +63,7 @@ hide:
 Satellogic is a **vertically integrated Earth observation (EO) company** — meaning they design, manufacture, launch, and operate their own satellites rather than outsourcing any major component. Think of them as the "Tesla of satellite imagery" — they control the entire stack from factory to final product delivery.
 
 **Revenue Breakdown (FY2025):**
+
 | Segment | Revenue | % of Total | Description |
 |---------|---------|------------|-------------|
 | Data & Analytics | \$16.0M | 90% | Satellite imagery sales, CaaS (Constellation-as-a-Service) |
@@ -74,6 +75,7 @@ Satellogic is a **vertically integrated Earth observation (EO) company** — mea
 ### Industry Position and Competitive Moat
 
 **The Earth Observation Market Landscape:**
+
 - **Market Size:** ~\$4.3B in 2025, growing to \$6.6B by 2034 (CAGR ~5.9%)
 - **Key Competitors:** Planet Labs (largest), Maxar Technologies, BlackSky, Airbus
 
@@ -99,6 +101,7 @@ Imagine a pizza company that grows its own wheat, mills its own flour, makes its
 - Vision: Democratize access to satellite imagery through scale economics
 
 **CFO Rick Dunn**
+
 - Joined from Liberty Strategic Capital (major Satellogic investor via SPAC)
 - Focus: Financial discipline, cost reduction, path to profitability
 - Key achievement: Reduced cash burn by 25% in 2025
@@ -111,12 +114,14 @@ Class A shares (public) = 1 vote per share. Class B shares (insiders) = multiple
 ### Key Facilities and Geographies
 
 **Primary Operations:**
+
 - **Headquarters:** Davidson, North Carolina (US domestication completed 2025)
 - **Manufacturing:** Vertically integrated production line (location undisclosed for competitive reasons)
 - **Ground Stations:** Global network for satellite communication
 - **R&D:** AI/ML development centers
 
 **Key Markets:**
+
 - Defense & Intelligence (US, undisclosed strategic customer)
 - Sovereign programs (Portugal, Malaysia, Albania, Australia, India via Suhora)
 - Commercial (agriculture, energy, environmental monitoring)
@@ -137,6 +142,7 @@ Class A shares (public) = 1 vote per share. Class B shares (insiders) = multiple
 | Adj. EBITDA Loss | (\$17.4M) | (\$33.7M) | +48% improvement | Core operations improving |
 
 **Revenue Growth Trajectory (3-Year):**
+
 - 2023: ~\$10M (estimated)
 - 2024: \$12.9M (+29% YoY)
 - 2025: \$17.7M (+38% YoY)
@@ -161,6 +167,7 @@ Net loss of only \$4.8M on \$17.7M revenue is a massive improvement from \$116M 
 | Stockholders' Equity | \$60.5M | (\$53.0M) | N/A | No longer negative! |
 
 **Cash Runway Analysis:**
+
 - Cash burn from operations: \$26.9M in 2025 (down from \$35.9M in 2024)
 - Current cash: \$94.4M + \$35M subsequent offering (Jan 2026) = ~\$130M
 - At 2025 burn rate: ~5 years of runway
@@ -221,6 +228,7 @@ A 25x price-to-sales ratio means investors pay \$25 for every \$1 of revenue. Th
 **Question:** What revenue growth is priced in at current levels?
 
 **Assumptions:**
+
 - Fair EV/Sales for mature Earth observation: 5-7x
 - Current EV: ~\$500M
 - Implied "fair" revenue at maturity: \$71-100M
@@ -317,6 +325,7 @@ The \$30M defense contract and \$18M Portugal contract likely represent ~60% of 
 | **Debt Covenants** | LOW | Secured notes have conversion features, not restrictive covenants |
 
 **Dilution Math:**
+
 - Current shares: ~143M
 - Convertible notes: ~20M shares if converted
 - Warrants outstanding: ~10-15M shares
@@ -347,6 +356,7 @@ Your ownership percentage could shrink by 20-25% as these securities convert. Ho
 With only 3 analysts covering the stock, this rating should be taken with a grain of salt. Small-cap stocks often have limited analyst coverage, making the consensus less meaningful than for large-caps like Apple or Microsoft.
 
 **Price Target Analysis:**
+
 - Consensus PT: \$5.50
 - Current Price: ~\$3.00
 - Implied Upside: 83%
@@ -427,6 +437,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 **Realistic Upside Price Target:** \$8-10 (150-250% upside)
 
 **What Needs to Go Right:**
+
 - Merlin launches on schedule (October 2026)
 - No major customer churn
 - Continued 35%+ revenue growth
@@ -446,6 +457,7 @@ With only 3 analysts covering the stock, this rating should be taken with a grai
 **Realistic Downside Price Target:** \$1.00-1.50 (50-65% downside)
 
 **What Could Go Wrong:**
+
 - Launch failures or satellite malfunctions
 - Defense customer non-renewal
 - Cash burn accelerates beyond current trajectory
@@ -459,6 +471,7 @@ Satellogic successfully launches Merlin in late 2026, signs 2-3 additional sover
 **12-Month Price Target:** \$5.00 (+65% from current levels)
 
 **Risk/Reward Assessment:**
+
 | Scenario | Probability | Target | Weighted Return |
 |----------|-------------|--------|-----------------|
 | Bear | 30% | \$1.25 | -58% |
@@ -473,6 +486,7 @@ Satellogic successfully launches Merlin in late 2026, signs 2-3 additional sover
 ### Rating: **SPECULATIVE BUY**
 
 **Position Sizing Guidance:**
+
 - **Conservative Portfolio:** 0.5-1% allocation (speculative bucket)
 - **Growth Portfolio:** 1-2% allocation
 - **Aggressive Portfolio:** 2-3% allocation
@@ -483,17 +497,20 @@ This is a high-risk, high-reward position suitable only for investors who can to
 ### Entry Strategy
 
 **Option A: Immediate Entry**
+
 - **Rationale:** Current levels (\$3.00) offer attractive risk/reward
 - **Risk:** Could decline to \$2.00 on broader market weakness
 - **Suitable for:** Investors with long-term horizon, can dollar-cost average
 
 **Option B: Scale In**
+
 - **Rationale:** Build position gradually to average entry price
 - **Execution:** 1/3 position at \$3.00, 1/3 at \$2.50, 1/3 at \$2.00
 - **Risk:** Stock may never reach lower targets
 - **Suitable for:** Most investors — recommended approach
 
 **Option C: Wait for Pullback**
+
 - **Rationale:** Market volatility may offer better entry
 - **Target Entry:** \$2.00-2.50
 - **Risk:** Positive catalyst (contract, Merlin update) could gap stock higher
@@ -557,22 +574,26 @@ This is a high-risk, high-reward position suitable only for investors who can to
 ### What The Numbers Actually Mean
 
 **"\$17.7M Revenue"**
+
 - This is tiny. For context, Planet Labs does \$220M. 
 - **What it means:** Early-stage company with massive growth potential OR struggling to find market fit.
 - **Verdict:** Growth rate (+38%) suggests potential, not struggle.
 
 **"72% Gross Margin"**
+
 - For every \$100 in sales, direct costs are only \$28.
 - **What it means:** Satellogic's "factory" (satellite operations) is highly efficient.
 - **Comparison:** Software companies: 70-85%. Manufacturing: 20-40%.
 - **Verdict:** Exceptional for a hardware business — suggests strong competitive position.
 
 **"\$65.1M Remaining Performance Obligations"**
+
 - Money already contracted but not yet recognized as revenue.
 - **What it means:** Nearly 4 years of 2025-level revenue already booked.
 - **Verdict:** Strong revenue visibility — customers are committed.
 
 **"\$4.8M Net Loss"**
+
 - Lost less than \$5M in 2025 vs. \$116M in 2024.
 - **What it means:** Massive improvement, but still losing money.
 - **Caveat:** This was helped by accounting gains, not just operations.
@@ -581,16 +602,19 @@ This is a high-risk, high-reward position suitable only for investors who can to
 ### Risk Framework
 
 **"High Risk"**
+
 - You could lose 50-100% of investment
 - Comparable to venture capital or angel investing
 - Only invest what you can afford to lose completely
 
 **"Customer Concentration"**
+
 - Few customers = big problem if one leaves
 - Imagine a restaurant where 2 regulars account for 60% of sales
 - If one moves away, revenue crashes
 
 **"Execution Risk"**
+
 - The plan sounds great, but can they actually do it?
 - Merlin constellation must launch on time, work perfectly, find buyers
 - Many space companies fail here (see: Virgin Orbit)

@@ -64,6 +64,7 @@ hide:
 | **Services & Maintenance** | Long-term service contracts, commissioning, project management | ~5% |
 
 **Key Products:**
+
 - **Eos Z3 Battery Module:** Next-generation zinc-bromine battery for 4-16+ hour discharge applications
 - **Eos Indensity™:** New stackable architecture delivering up to **1 GWh per acre** (4x density of competing technologies)
 - **DawnOS:** Proprietary AI-enabled battery management and analytics platform
@@ -114,6 +115,7 @@ hide:
 | **Adjusted EBITDA** | (\$156.6M) | (\$219.1M) | -40% | Core operational burn |
 
 **Q4 2025 Quarterly Highlights:**
+
 - Revenue: **\$58.0M** (record quarter; 90% QoQ growth, ~8x YoY)
 - Gross Loss: (\$54.4M) — 230 basis point margin improvement YoY
 - Adjusted EBITDA Loss: (\$71.5M) — 492 basis point margin improvement YoY
@@ -131,6 +133,7 @@ hide:
 | **PP&E (Net)** | \$45.7M | \$114.4M | Factory expansion investment |
 
 **Cash Runway Assessment:**
+
 - Current Cash: **\$624.6M** (including restricted cash)
 - Q4 2025 Cash Burn: ~\$70M/quarter
 - Estimated Runway: **8-10 quarters** at current burn rate
@@ -175,6 +178,7 @@ hide:
 ### DCF Scenarios
 
 **Key Assumptions:**
+
 - Terminal Growth: 3%
 - WACC: 12% (high beta, pre-profitability)
 - Shares Outstanding: ~307M
@@ -186,12 +190,14 @@ hide:
 | **Bear Case** | \$250M | \$500M | \$3.50 | **-28%** |
 
 **Bull Case Assumptions:**
+
 - 2026 guidance (\$300-400M) achieved at high end
 - Gross margins turn positive by Q4 2026
 - DOE loan funds full 8 GWh capacity expansion
 - Market assigns 3x EV/Revenue multiple on 2029E
 
 **Bear Case Assumptions:**
+
 - Manufacturing delays continue
 - Gross margins remain negative through 2027
 - Competitive pressure from lithium-ion price declines
@@ -212,15 +218,18 @@ hide:
 ### Revenue Drivers
 
 **1. Record Backlog Provides Visibility**
+
 - **\$701.5M backlog** (2.8 GWh) as of Dec 31, 2025
 - Q4 2025 bookings: **\$240M+** across 8 customers, 9 projects, ~1.1 GWh
 - Backlog increased 9% sequentially
 
 **2. Pipeline Expansion**
+
 - Commercial opportunity pipeline: **\$23.6 billion** (+64% YoY)
 - Diversified demand across C&I, distributed generation, and utility-scale
 
 **3. Manufacturing Capacity Scaling**
+
 - Current: **2 GWh** annual capacity (achieved Q4 2025)
 - Target: **8 GWh** by 2026-2027 (with DOE loan funding)
 - All four lines combined = enough for **300,000 homes** instantaneous power
@@ -294,6 +303,7 @@ hide:
 | **Low Price Target** | \$6.00 (TipRanks) |
 
 **Recent Rating Changes:**
+
 - **March 5, 2026:** B. Riley Securities maintains Neutral, lowers PT from \$12 to \$8
 
 **What This Means:** Wall Street remains cautiously optimistic, but price target dispersion (\$6-\$22) reflects uncertainty about execution.
@@ -317,6 +327,7 @@ hide:
 **Top Institutional Holders:** Vanguard, BlackRock likely have positions (typical for index inclusion), but specific data limited.
 
 **Social Sentiment:**
+
 - **Twitter/X:** Active retail following; viewed as "American energy" play
 - **Reddit/StockTwits:** Speculative interest; IRA/policy catalyst discussion
 - **Options Flow:** Elevated call buying on DOE loan news; put/call ratio neutral
@@ -341,6 +352,7 @@ hide:
 ### Sector Commentary
 
 **Energy Storage Sector Trends:**
+
 - Lithium-ion prices continue to decline, pressuring alternatives
 - Supply chain concerns driving interest in U.S.-made batteries
 - Interconnection delays becoming major industry bottleneck
@@ -360,6 +372,7 @@ hide:
 5. IRA manufacturing credits provide meaningful cash contribution
 
 **Catalyst Timeline:**
+
 - Q2 2026: Margin inflection quarter
 - 2H 2026: Additional production lines come online
 - 2027: Path to profitability becomes visible
@@ -367,6 +380,7 @@ hide:
 ### Base Case (\$9.50 Target / +95% Upside)
 
 **Most Likely Scenario:**
+
 - Revenue reaches \$350M in 2026 (middle of guidance)
 - Gross margins improve but stay negative through mid-2027
 - Successful DOE loan draw but slower ramp than planned
@@ -390,16 +404,19 @@ hide:
 ### Rating: SPECULATIVE BUY
 
 **Position Sizing Guidance:**
+
 - **Conservative Portfolio:** 1-2% allocation (high-risk/high-reward)
 - **Growth Portfolio:** 2-3% allocation (appropriate for risk tolerance)
 - **Speculative Bucket:** Up to 5% (maximum for binary outcome bets)
 
 **Entry Strategy:**
+
 - **Immediate Entry:** Current levels (\$4.50-\$5.00) offer reasonable risk/reward
 - **Scale-In Approach:** Start 1/2 position now; add on pullback to \$4.00
 - **Aggressive Entry:** Wait for break above \$6.00 with volume confirmation
 
 **Stop Loss / Risk Management:**
+
 - **Hard Stop:** \$3.50 (breakdown below strong support)
 - **Mental Stop:** \$3.00 (April 2024 lows; thesis broken)
 - **Trailing Stop:** 20% below 50-day moving average once above \$7

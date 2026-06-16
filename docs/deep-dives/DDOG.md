@@ -50,16 +50,19 @@ Datadog is a cloud-native observability and security platform that monitors infr
 **Business Model:** SaaS subscription platform with usage-based pricing. Customers pay for the volume of hosts, containers, logs, and custom metrics ingested.
 
 **Revenue Segments (Q1 2026):**
+
 - **Observability Platform:** ~85% of revenue — infrastructure monitoring, APM, log management, database monitoring, network monitoring
 - **Cloud Security:** ~10% — Cloud Security Posture Management (CSPM), Cloud Workload Security (CWS), Application Security Monitoring (ASM)
 - **AI/ML Products:** ~5% — Bits AI (generative AI assistant), LLM observability, AI model monitoring
 
 **Competitive Moat:**
+
 - **Platform consolidation:** Datadog offers 20+ products in one unified platform, reducing tool sprawl. This drives high net revenue retention (NRR) — customers who adopt 2+ products rarely churn.
 - **Network effects:** The more data a customer sends to Datadog, the more valuable the platform becomes (correlation across metrics, logs, traces, and security signals).
 - **Developer mindshare:** Strong open-source integrations (500+ out-of-the-box integrations) and a developer-friendly API make Datadog the default choice for cloud-native engineering teams.
 
 **Management:**
+
 - Olivier Pomel (CEO) and Alexis Lê-Quôc (CTO) co-founded the company and still lead it. Both have deep technical backgrounds and have steered Datadog through multiple product expansion cycles.
 - Insider ownership is meaningful but not dominant — the founders retain significant equity while the company has professionalized its executive team.
 
@@ -79,6 +82,7 @@ Datadog is a cloud-native observability and security platform that monitors infr
 | Non-GAAP EPS | \$0.52 | +30% |
 
 **Revenue Growth Trends:**
+
 - FY2024: \$2.76B (+27% YoY)
 - FY2025: \$3.52B (+28% YoY)
 - FY2026E: \$4.25B–\$4.35B (+21–24% YoY, guidance raised after Q1)
@@ -121,6 +125,7 @@ Datadog is a cloud-native observability and security platform that monitors infr
 ### DCF/Scenario Analysis
 
 **Key Assumptions:**
+
 - Discount rate: 10%
 - Terminal growth: 3%
 - Revenue growth decelerates from 25% → 15% over 5 years
@@ -224,11 +229,13 @@ Datadog is a cloud-native observability and security platform that monitors infr
 **Stop Loss:** \$190 (below the April 2026 swing low) — a break below this level would signal a failed recovery.
 
 **Key Levels:**
+
 - **Entry (ideal):** \$200–\$210
 - **Target (12-month):** \$260–\$280
 - **Stop:** \$190
 
 **Catalyst Calendar:**
+
 - **Q2 2026 Earnings:** August 2026 — guidance update and AI product traction
 - **Datadog DASH Conference:** September 2026 — product announcements and customer metrics
 - **FY2027 Guidance:** November 2026 — first look at next year's growth trajectory

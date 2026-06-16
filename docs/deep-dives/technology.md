@@ -1,7 +1,7 @@
 ---
 title: Technology
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,33 +9,33 @@ title: Technology
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **SLDP** | Solid Power | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$3.39 | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
-| **AEHR** | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | \$90.18 | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
-| **SNOW** | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | \$150.46 | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
-| **U** | Unity Software | <span class="rating-hold">HOLD</span> | \$26.53 | 2026-04-10 | [:material-file-document: Read](U.md) |
-| **TSSI** | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$14.64 | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
-| **VELO** | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | \$11.69 | 2026-04-02 | [:material-file-document: Read](VELO.md) |
-| **SATS** | EchoStar | <span class="rating-buy">ACCUMULATE</span> | \$135.11 | 2026-04-04 | [:material-file-document: Read](SATS.md) |
-| **INFQ** | Infleqtion | <span class="rating-spec-buy">SPEC. BUY</span> | \$12.02 | 2026-04-29 | [:material-file-document: Read](INFQ.md) |
-| **NBIS** | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$158.34 | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
-| **FIG** | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | \$17.70 | 2026-05-01 | [:material-file-document: Read](FIG.md) |
-| **P** | Everpure, Inc. | <span class="rating-hold">HOLD</span> | \$83.33 | 2026-05-12 | [:material-file-document: Read](P.md) |
-| **WOLF** | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | \$53.72 | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
-| **DDD** | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | \$3.88 | 2026-06-02 | [:material-file-document: Read](DDD.md) |
-| **PURR** | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$10.97 | 2026-06-03 | [:material-file-document: Read](PURR.md) |
-| **OSS** | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$15.71 | 2026-06-10 | [:material-file-document: Read](OSS.md) |
-| **QS** | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$7.00 | 2026-06-11 | [:material-file-document: Read](QS.md) |
-| **DDOG** | Datadog, Inc. | <span class="rating-hold">HOLD</span> | \$229.90 | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
-| **PANW** | Palo Alto Networks | <span class="rating-buy">BUY</span> | \$279.62 | 2026-06-14 | [:material-file-document: Read](PANW.md) |
-| **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
-| **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
-| **SIVE** | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | \$8.21 | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
-| **CLFD** | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$39.96 | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
-| **AAOI** | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$191.55 | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
-| **HUT** | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$120.18 | 2026-06-16 | [:material-file-document: Read](HUT.md) |
-| **CORZ** | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$28.18 | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
+| <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
+| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
+| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
+| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
+| <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
+| <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar | <span class="rating-buy">ACCUMULATE</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
+| <tv-ticker-tag symbol="NYSE:INFQ" hide-background></tv-ticker-tag> | Infleqtion | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-29 | [:material-file-document: Read](INFQ.md) |
+| <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
+| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
+| <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
+| <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
+| <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
+| <tv-ticker-tag symbol="NASDAQ:OSS" hide-background></tv-ticker-tag> | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](OSS.md) |
+| <tv-ticker-tag symbol="NASDAQ:QS" hide-background></tv-ticker-tag> | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](QS.md) |
+| <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
+| <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+| <tv-ticker-tag symbol="NASDAQ:HLIT" hide-background></tv-ticker-tag> | Harmonic Inc. | <span class="rating-buy">BUY</span> | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRDO" hide-background></tv-ticker-tag> | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
+| <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
+| <tv-ticker-tag symbol="NASDAQ:CLFD" hide-background></tv-ticker-tag> | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
+| <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
+| <tv-ticker-tag symbol="NASDAQ:HUT" hide-background></tv-ticker-tag> | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](HUT.md) |
+| <tv-ticker-tag symbol="NASDAQ:CORZ" hide-background></tv-ticker-tag> | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
 
 ## Gists
 

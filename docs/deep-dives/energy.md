@@ -1,7 +1,7 @@
 ---
 title: Energy
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,18 +9,18 @@ title: Energy
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **EOSE** | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | \$7.16 | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
-| **OKLO** | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$68.15 | 2026-04-15 | [:material-file-document: Read](OKLO.md) |
-| **IMSR** | Terrestrial Energy | <span class="rating-spec-buy">SPEC. BUY</span> | \$7.61 | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
-| **TE** | T1 Energy | <span class="rating-hold">HOLD</span> | \$4.97 | 2026-03-16 | [:material-file-document: Read](TE.md) |
-| **UUUU** | Energy Fuels | <span class="rating-buy">BUY</span> | \$21.51 | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
-| **LEU** | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$161.78 | 2026-06-07 | [:material-file-document: Read](LEU.md) |
-| **URA** | Global X Uranium ETF | <span class="rating-buy">BUY</span> | \$45.31 | 2026-06-07 | [:material-file-document: Read](URA.md) |
-| **PWR** | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | \$707.74 | 2026-06-13 | [:material-file-document: Read](PWR.md) |
-| **MTZ** | MasTec, Inc. | <span class="rating-hold">HOLD</span> | \$362.97 | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
-| **FLNC** | Fluence Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$24.18 | 2026-06-15 | [:material-file-document: Read](FLNC.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
+| <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-15 | [:material-file-document: Read](OKLO.md) |
+| <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
+| <tv-ticker-tag symbol="NYSE:TE" hide-background></tv-ticker-tag> | T1 Energy | <span class="rating-hold">HOLD</span> | 2026-03-16 | [:material-file-document: Read](TE.md) |
+| <tv-ticker-tag symbol="AMEX:UUUU" hide-background></tv-ticker-tag> | Energy Fuels | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
+| <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
+| <tv-ticker-tag symbol="AMEX:URA" hide-background></tv-ticker-tag> | Global X Uranium ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](URA.md) |
+| <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
+| <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
+| <tv-ticker-tag symbol="NASDAQ:FLNC" hide-background></tv-ticker-tag> | Fluence Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](FLNC.md) |
 
 ---
 

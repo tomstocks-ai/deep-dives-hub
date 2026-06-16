@@ -67,6 +67,7 @@ Think of it like comparing a mainframe computer to a modern server rack - same f
 
 ### Business Model: "Build, Own, Operate"
 Oklo doesn't just sell reactors - it builds them, owns them, and sells the electricity through long-term power purchase agreements (PPAs). This means:
+
 - **Customers** (data centers, industrial facilities) don't need nuclear expertise
 - **Oklo** gets predictable, recurring revenue for 20+ years
 - **Financing** is secured against the PPA, not customer balance sheets
@@ -107,6 +108,7 @@ Oklo has **\$1.23 billion in cash** (as of latest data) and only **\$1.45 millio
 
 ### What "Pre-Revenue" Really Means Here
 Unlike a software startup that might need continuous fundraising, Oklo's \$1.2B cash position gives it the resources to reach commercialization without further dilution. The company has already:
+
 - Broken ground on its first reactor (September 2025)
 - Secured major customer commitments (Meta, Diamondback Energy, Equinix)
 - Entered DOE's fast-track pilot program
@@ -127,6 +129,7 @@ Unlike a software startup that might need continuous fundraising, Oklo's \$1.2B 
 Oklo trades like a **call option on the future of nuclear energy**. The \$10B valuation isn't based on current earnings (there are none) but on:
 
 **Bull Case Value Drivers:**
+
 - **LOI Pipeline:** 1,350 MW of non-binding letters of intent (up 93% since mid-2024)
 - **Meta Deal:** 1.2 GW campus potential - if fully deployed, could generate \$400M+ annual revenue
 - **Market Position:** Only publicly-traded pure-play on non-water-cooled advanced reactors
@@ -139,6 +142,7 @@ Traditional DCF doesn't work well here because:
 3. The model scales exponentially once certified (each subsequent reactor is faster to license)
 
 **Alternative Valuation Approach:**
+
 - If OKLO captures just 5% of projected SMR market by 2035 (~\$10B market), that's \$500M revenue
 - At 30% margins (typical for nuclear), \$150M EBITDA
 - 15x EBITDA multiple = \$2.25B value for mature business
@@ -215,6 +219,7 @@ Traditional DCF doesn't work well here because:
 ### Critical Business Risks
 
 **1. Regulatory Risk (HIGH)**
+
 - NRC denied Oklo's first license application in 2022 (for smaller 1.5 MW design)
 - New 75 MW design is significantly different - new regulatory review required
 - Any NRC delays push back first revenue by quarters or years
@@ -222,11 +227,13 @@ Traditional DCF doesn't work well here because:
 **What This Means:** The NRC has never licensed a non-water-cooled commercial reactor. Oklo is paving the trail, which takes time.
 
 **2. Technology Execution Risk (MEDIUM)**
+
 - First-of-a-kind technology always has unexpected challenges
 - EBR-II operated decades ago; scaling to commercial deployment is different
 - Heat pipe technology, while proven, hasn't been deployed at this scale
 
 **3. Fuel Supply Risk (MEDIUM)**
+
 - HALEU fuel is scarce (Russia was dominant supplier, now banned)
 - Centrus facility is the only near-term US source
 - Any fuel supply delays impact deployment timeline
@@ -234,11 +241,13 @@ Traditional DCF doesn't work well here because:
 ### Financial Risks
 
 **4. Pre-Revenue Duration Risk (MEDIUM)**
+
 - 2-3 years until first revenue is a long time for impatient investors
 - Stock could trade sideways or down on "nothing" happening
 - Requires long-term capital commitment
 
 **5. Dilution Risk (LOW)**
+
 - Current cash position is strong (\$1.23B)
 - But if costs exceed projections, future raises possible
 - SPAC warrants could create selling pressure
@@ -246,12 +255,14 @@ Traditional DCF doesn't work well here because:
 ### Competitive/Market Risks
 
 **6. Competition Risk (MEDIUM)**
+
 - NuScale (SMR) already NRC-certified
 - TerraPower (Bill Gates-backed) has major funding
 - Emerging competitors: Aalo, Kairos, X-energy
 - Big tech may vertically integrate (Google, Microsoft)
 
 **7. Market Demand Risk (LOW)**
+
 - AI/data center power demand is exploding
 - Grid reliability concerns favor nuclear
 - Carbon reduction mandates create tailwinds
@@ -259,11 +270,13 @@ Traditional DCF doesn't work well here because:
 ### Macro Risks
 
 **8. Political/Policy Risk (MEDIUM)**
+
 - Nuclear has bipartisan support currently, but politics shift
 - ADVANCE Act provisions could be watered down
 - State-level permitting remains variable
 
 **9. Public Perception Risk (LOW)**
+
 - Nuclear acceptance is improving
 - Advanced reactors have strong safety story
 - But Fukushima-level events could reset sentiment
@@ -278,6 +291,7 @@ Traditional DCF doesn't work well here because:
 | Consensus | - | \$90.41 avg | - |
 
 **Key Analyst Notes:**
+
 - Recent UBS downgrade reflects valuation concerns, not fundamental issues
 - Wide dispersion in price targets (\$14 to \$168) reflects uncertainty
 - As first commercial deployment approaches, estimates will converge
@@ -314,24 +328,28 @@ Traditional DCF doesn't work well here because:
 ### Recent Key Developments
 
 **Meta Partnership (January 2026)**
+
 - **Headline:** Meta and Oklo announce agreement for 1.2 GW nuclear campus in Ohio
 - **Significance:** Validates Oklo's technology and business model
 - **Terms:** Meta prepays for power, funds early development
 - **Timeline:** Phase 1 online by 2030, full 1.2 GW by 2034
 
 **DOE Pilot Program (September 2025)**
+
 - Oklo selected for DOE's fast-track reactor program
 - **Three projects** approved (most of any company)
 - Groundbreaking at INL completed
 - Potential for July 2026 operation under accelerated timeline
 
 **NRC Pre-Application Activities**
+
 - Multiple white papers and topical reports submitted
 - Q1 2026 Licensing Project Plan update
 - Staffing plan and principal design criteria under review
 - First Combined License Application expected in 2025
 
 **Atomic Alchemy Acquisition**
+
 - 2024 acquisition for radioisotope production
 - VIPR (Versatile Isotope Production Reactor) in development
 - Targets medical isotope market (cancer treatment)
@@ -361,11 +379,13 @@ Traditional DCF doesn't work well here because:
 4. LOI-to-PPA conversion rate exceeds 50%
 
 **Upside Scenario:**
+
 - By 2030: 5-10 reactors operational, \$500M+ revenue run rate
 - Stock could reach \$150-200+ on execution
 - Becomes the "go-to" advanced nuclear provider for tech companies
 
 **Why It Could Happen:**
+
 - Management has decade-long NRC relationship
 - DOE pilot program provides regulatory fast-track
 - Data center demand creates urgency and pricing power
@@ -380,11 +400,13 @@ Traditional DCF doesn't work well here because:
 4. HALEU fuel supply constraints limit deployment speed
 
 **Downside Scenario:**
+
 - Multiple year delays erode investor confidence
 - Stock could retest \$30-40 range
 - Potential dilution if cash burn exceeds projections
 
 **Probability Assessment:**
+
 - Regulatory delays are likely (nuclear always takes longer)
 - But company has runway to absorb 1-2 year delays
 - Technology risk is mitigated by EBR-II heritage
@@ -392,12 +414,14 @@ Traditional DCF doesn't work well here because:
 ### Base Case: The Steady Build-Out
 
 **Most Likely Scenario:**
+
 - Aurora-INL online by 2028 (6-12 month delay from target)
 - Meta Phase 1 by 2031
 - 3-5 reactors operational by 2030
 - Revenue of \$200-300M by 2030
 
 **Price Target: \$90-100**
+
 - 54% upside from current levels
 - Reflects partial success with room for further upside as scale builds
 
@@ -456,6 +480,7 @@ Oklo is a high-conviction, high-risk investment in the nuclear renaissance. This
 
 ### Final Thoughts
 Oklo represents a rare opportunity to invest in a transformational energy technology with:
+
 - ✅ Proven technology heritage (EBR-II)
 - ✅ Strong balance sheet (\$1.23B cash)
 - ✅ Validated customer demand (Meta, Equinix, Diamondback)
@@ -465,6 +490,7 @@ Oklo represents a rare opportunity to invest in a transformational energy techno
 The risks are real - regulatory delays, technology execution, competition - but the potential rewards justify the speculation for appropriate position sizing.
 
 **If you believe in:**
+
 - AI/data center power demand growth
 - Nuclear as a climate solution
 - American energy independence

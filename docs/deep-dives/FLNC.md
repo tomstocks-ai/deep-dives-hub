@@ -46,17 +46,20 @@ hide:
 Fluence Energy, Inc. (NASDAQ: FLNC) is a global market leader in battery energy storage systems (BESS) and cloud-based software for renewables and storage assets. Founded in 2018 as a joint venture between AES Corporation and Siemens, Fluence designs, builds, and operates grid-scale energy storage solutions across 30 markets worldwide.
 
 **Business Model & Revenue Segments:**
+
 - **Hardware / Product:** Grid-scale battery storage systems (Modular, Cube, and Gridstack product lines) — ~75% of revenue
 - **Software & Services:** Fluence OS (cloud-based asset management platform), AI-powered bidding, and ongoing O&M services — ~25% of revenue, higher-margin recurring revenue
 - **Project Development:** Turnkey EPC (engineering, procurement, construction) for utility-scale storage projects
 
 **Competitive Moat:**
+
 - Top 3 global BESS provider by installed and contracted capacity (S&P Global Commodity Insights 2025)
 - Deep integration with AES (28.5% economic interest, 66.6% voting power) and Siemens (28.5% economic interest) provides project pipeline access and manufacturing relationships
 - Proprietary software stack (Fluence OS) creates switching costs and recurring revenue
 - 30+ market global footprint with local regulatory expertise
 
 **Management:**
+
 - CEO Julian Nebreda (former AES executive) — deep utility sector experience
 - Backed by AES and Siemens strategic ownership with long-term commitment
 
@@ -73,6 +76,7 @@ Fluence Energy, Inc. (NASDAQ: FLNC) is a global market leader in battery energy 
 | Adjusted EBITDA | \$(52.1)M | Negative but narrowing as revenue scales |
 
 **Revenue Trajectory:**
+
 - FY2025: ~\$1.1B (estimated full year)
 - FY2026 guidance: ~\$2.0–2.2B (implied from backlog conversion)
 - Gross margin expansion target: 10–15% by FY2027 as software mix increases and manufacturing scale improves
@@ -107,6 +111,7 @@ Fluence Energy, Inc. (NASDAQ: FLNC) is a global market leader in battery energy 
 | EV/EBITDA | N/A | Negative EBITDA |
 
 **Valuation Context:**
+
 - BESS peers (Tesla Energy, BYD, Sungrow) trade at 2–4x forward sales
 - Software-enabled hardware companies with recurring revenue typically command premium multiples
 - Current valuation prices in ~\$2B revenue run rate but not margin expansion
@@ -120,11 +125,13 @@ Fluence Energy, Inc. (NASDAQ: FLNC) is a global market leader in battery energy 
 | **Bull** | \$4.5B | 15% | 15% | \$45–55 |
 
 **Key Assumptions:**
+
 - Bear: Project delays, margin compression, slower backlog conversion
 - Base: \$5.5B backlog converts over 2–3 years, software mix reaches 30%, margins hit 12% gross / 10% EBITDA
 - Bull: Accelerated grid storage demand (data center electrification + renewables mandate), software attach rate >40%, international expansion
 
 **Implied Growth Rate at Current Price:**
+
 - Market is pricing in ~\$2.5B revenue by FY2027 with 10% gross margins — achievable but not conservative
 
 ---
@@ -175,17 +182,20 @@ Fluence Energy, Inc. (NASDAQ: FLNC) is a global market leader in battery energy 
 **Position Sizing:** 2–3% of portfolio maximum. High-beta, high-growth position with binary outcomes.
 
 **Entry Strategy:**
+
 - **Immediate entry:** At \$24.18, stock is ~28% below 52-week high of \$33.51. RSI at 55.6 is neutral — not overbought.
 - **Scale-in approach:** Initial 50% position at current levels, add 25% on pullback to \$20–22, final 25% on breakout above \$28.
 
 **Stop Loss:** \$17.00 (below 52-week low of \$18.78 and key psychological support)
 
 **Key Levels:**
+
 - **Support:** \$20.00 (recent consolidation zone), \$18.78 (52-week low)
 - **Resistance:** \$28.00 (recent highs), \$33.51 (52-week high)
 - **Targets:** Base \$28–35 | Bull \$45–55 | Bear \$14–18
 
 **Catalyst Calendar:**
+
 - **Q2 FY2026 Earnings:** May 2026 — backlog update, margin guidance
 - **FY2026 Guidance Update:** August 2026 — full-year revenue and margin targets
 - **Project Announcements:** Ongoing — data center partnerships, international wins

@@ -23,6 +23,7 @@ assistant: VELO deep dive is running — comprehensive 10-section analysis on Ve
 user: A background task "VELO-DeepDive" just completed successfully.
 
 Findings:
+
 ---
 
 ## ✅ Task Completed: VELO (Velo3D) Deep Dive Analysis
@@ -46,6 +47,7 @@ Findings:
 ### Investment Thesis Summary
 
 **Bullish Factors:**
+
 - Strong defense partnerships (U.S. Army CRADA, U.S. Navy contracts)
 - Unique technology with true design freedom vs. legacy AM
 - AS9100D certification for aerospace quality
@@ -54,6 +56,7 @@ Findings:
 - High short interest (28.6% of float) creates squeeze potential
 
 **Key Risks:**
+
 - Precarious financials: \$39M cash, -\$71M net loss TTM
 - Need to achieve profitability by H2 2026 or risk dilutive financing
 - Customer concentration and lumpy system sales
@@ -86,6 +89,7 @@ assistant: VELO deep dive is ready — **SPECULATIVE BUY** at \$11.27.
 **Thesis:** Velo3D is a metal 3D printing company with unique "support-free" technology for aerospace/defense. Strong defense tailwinds (Army, Navy contracts) and 30-52% guided revenue growth for 2026, but precarious financials (\$39M cash, -\$71M net loss) mean they need to hit profitability by H2 2026 or face dilution.
 
 **Key numbers:**
+
 - Price target: \$14 base / \$28 bull (+24% to +148% upside)
 - High short interest (28.6%) = squeeze potential
 - Position size: 1-3% max (aggressive only)
@@ -101,6 +105,7 @@ assistant: The most recent helper script is `convert_to_pdf.py` which was update
 assistant: Is this the one you meant (`convert_to_pdf.py`)? 
 
 Or are you referring to a different script? I can also check:
+
 - `generate_portfolio_table.py`
 - Any script in a `scripts/` folder
 - A specific file you shared in a previous conversation
@@ -115,6 +120,7 @@ Queued #1
 assistant: I see the Python files in the workspace (`convert_to_pdf.py` and `generate_portfolio_table.py`), but I'm not sure which specific "helper" you gave me. 
 
 Could you clarify? Are you referring to:
+
 - A specific script you shared in a previous conversation?
 - Something in the `earnings_fetcher/` directory?
 - A bash alias or function?
@@ -124,6 +130,7 @@ If you can give me the filename or describe what it does, I can pull it up right
 assistant: I see the Python files in the workspace (`convert_to_pdf.py` and `generate_portfolio_table.py`), but I'm not sure which specific "helper" you gave me. 
 
 Could you clarify? Are you referring to:
+
 - A specific script you shared in a previous conversation?
 - Something in the `earnings_fetcher/` directory?
 - A bash alias or function?
@@ -144,6 +151,7 @@ Queued #2
 assistant: I see the Python files in the workspace (`convert_to_pdf.py` and `generate_portfolio_table.py`), but I'm not sure which specific "helper" you gave me. 
 
 Could you clarify? Are you referring to:
+
 - A specific script you shared in a previous conversation?
 - Something in the `earnings_fetcher/` directory?
 - A bash alias or function?

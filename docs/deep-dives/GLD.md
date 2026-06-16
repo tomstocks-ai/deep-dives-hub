@@ -121,6 +121,7 @@ Fed holds or hikes; dollar surges; risk-on persists. Gold corrects to \$3,200–
 ## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
+
 - **Position sizing:** 5–10% of portfolio as core allocation
 - **Entry strategy:** Scale in now (RSI near oversold). Add on dips to \$380.
 - **Stop loss:** Close below \$360 (prior breakout level)

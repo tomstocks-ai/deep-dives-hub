@@ -128,6 +128,7 @@ China hard landing. Global recession. Copper falls to \$3.50. COPX drops to \$60
 ## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
+
 - **Position sizing:** 3–5% of portfolio as commodities/materials allocation
 - **Entry strategy:** Scale in at current levels. Add on dips to \$72 (200-day MA).
 - **Stop loss:** Close below \$65 (prior breakout level)

@@ -60,6 +60,7 @@ The company operates mining facilities across Alberta and Texas, leveraging low-
 | AI Pipeline | 8,375 MW |
 
 **Management & Governance:**
+
 - CEO: Asher Genoot (appointed 2024, previously COO)
 - Board Chair: E. Stanley O'Neal (appointed May 2026, former Merrill Lynch CEO)
 - The O'Neal appointment signals institutional credibility and capital markets expertise as Hut 8 scales into project finance.
@@ -110,6 +111,7 @@ Hut 8 trades at a significant premium to pure-play bitcoin miners, reflecting it
 | **Bear** | \$45 – \$65 | Construction delays; tenant default or renegotiation; BTC < \$70K; mining becomes unprofitable; liquidity crunch |
 
 **Valuation Multiples:**
+
 - EV/Sales: ~36x (trailing) — expensive vs. miners, cheap vs. AI infrastructure REITs
 - P/B: Elevated due to BTC treasury mark-to-market volatility
 - The "right" comp is a blend: 50% bitcoin miner, 50% data center REIT. Neither comp fits perfectly.
@@ -133,16 +135,19 @@ Hut 8 trades at a significant premium to pure-play bitcoin miners, reflecting it
 ## 5. Risk Factors
 
 **Business Risks:**
+
 - **Execution Risk:** Hut 8 has never built and operated AI data centers at this scale. Delays, cost overruns, or operational failures at Beacon Point would crater the thesis.
 - **Tenant Concentration:** The \$9.8B lease is with a single (undisclosed) investment-grade tenant. Any default or renegotiation would be catastrophic.
 - **Bitcoin Dependency:** Despite the AI pivot, ~40–50% of near-term cash flow still comes from mining. A BTC crash below \$60K would strain liquidity.
 
 **Financial Risks:**
+
 - **Leverage:** \$7B+ in project debt for AI campuses. If revenue ramp is delayed, debt service becomes unsustainable.
 - **BTC Volatility:** Quarterly earnings will swing wildly based on mark-to-market accounting for the 10,278 BTC treasury. This creates headline risk regardless of operations.
 - **Dilution:** If construction costs exceed budgets or revenue ramps slower than expected, equity raises are likely.
 
 **Macro/Sector Risks:**
+
 - **AI Demand Cyclicality:** The current AI infrastructure boom may cool. If GPU demand normalizes or shifts to edge inference, hyperscale data center demand could soften.
 - **Power Market Risk:** Hut 8's economics depend on long-term power contracts. If Texas power prices spike (e.g., 2021-style freeze), margins compress.
 - **Regulatory:** Crypto mining faces ESG scrutiny. AI data centers face local permitting and grid interconnection delays.
@@ -158,6 +163,7 @@ Hut 8 is a high-conviction, high-risk transition story. The AI data center pivot
 **Position Sizing:** 2–3% of a speculative/growth portfolio. Not a core holding.
 
 **Entry Strategy:**
+
 - **Primary entry:** Current levels (\$115–125) if you believe the AI thesis.
 - **Better entry:** \$90–100 on a BTC pullback or general tech correction.
 - **Aggressive entry:** \$70–80 if the market treats it as "just a miner" during a crypto winter.

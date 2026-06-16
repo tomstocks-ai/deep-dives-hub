@@ -1,7 +1,7 @@
 ---
 title: Finance
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,9 +9,9 @@ title: Finance
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **CRCL** | Circle Internet Group | <span class="rating-buy">BUY</span> | \$106.36 | 2026-04-21 | [:material-file-document: Read](CRCL.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-buy">BUY</span> | 2026-04-21 | [:material-file-document: Read](CRCL.md) |
 
 ---
 

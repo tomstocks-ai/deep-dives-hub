@@ -120,6 +120,7 @@ STAAR Surgical is the **global leader in phakic Implantable Collamer® Lenses (I
 
 ### DCF/Intrinsic Value Considerations
 Given the company's transition from growth to profitability challenges, traditional DCF is difficult. Key variables:
+
 - **China recovery:** Will 60% revenue segment rebound?
 - **US expansion:** Can FDA approvals drive new growth?
 - **Margin recovery:** Can gross margins return to 70%+ levels?
@@ -231,6 +232,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ### Bull Case (\$35-40 target — +35-55% upside)
 **What needs to go right:**
+
 - China market fully recovers, driving 20%+ revenue growth
 - US market continues 40%+ growth trajectory
 - Company returns to profitability by FY2026
@@ -241,6 +243,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ### Base Case (\$24-28 target — 0-10% upside)
 **Most likely scenario:**
+
 - China stabilizes but doesn't accelerate
 - Revenue grows 10-15% annually
 - Breakeven profitability by late FY2026
@@ -251,6 +254,7 @@ Given the company's transition from growth to profitability challenges, traditio
 
 ### Bear Case (\$14-16 target — -40-45% downside)
 **What could go wrong:**
+
 - China economic weakness worsens
 - Competitive pressure from LASIK/SMILE intensifies
 - Company fails to return to profitability
@@ -333,12 +337,14 @@ STAAR Surgical is a **high-risk, high-reward medical device turnaround play**. T
 
 ### Who Should Invest
 ✅ **Consider buying if:**
+
 - You believe China's economy and consumer spending will recover
 - You understand the risks of single-product, single-country concentration
 - You can tolerate 40%+ downside risk
 - You have a 2-3 year investment horizon
 
 ❌ **Avoid if:**
+
 - You need stable, dividend-paying investments
 - You can't tolerate significant volatility
 - You're bearish on China
@@ -351,11 +357,13 @@ STAAR Surgical is a **high-risk, high-reward medical device turnaround play**. T
 STAAR Surgical (STAA) is a **speculative turnaround story** trading at ~\$26, up 25% on a Q1 2026 revenue beat. The company sells EVO ICL implantable lenses for vision correction, with 60% of revenue from China.
 
 **The Good:**
+
 - Q1 2026 revenue beat (\$90M+ vs. \$67.6M consensus) suggests turnaround
 - 4M+ lenses sold globally; market leader in phakic IOLs
 - FDA expanded age indication in Feb 2026
 
 **The Bad:**
+
 - Lost \$1.62/share in FY2025; profitability uncertain
 - 60% revenue concentration in China creates significant risk
 - Trading at 114x forward earnings — expensive

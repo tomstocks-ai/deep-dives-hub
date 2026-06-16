@@ -54,18 +54,21 @@ Palo Alto Networks is the world's largest pure-play cybersecurity company by rev
 **Business Model:** Subscription and support revenue (~85% of total) driven by firewall appliances, cloud-delivered security services (Prisma), endpoint protection (Cortex XDR), and identity security (CyberArk). The company is transitioning from hardware-centric to cloud-native, platform-based recurring revenue.
 
 **Revenue Segments (Q3 FY2026):**
+
 - **Network Security (Strata):** ~45% of revenue — Next-Gen Firewalls (NGFW), SD-WAN, and hardware appliances
 - **Cloud Security (Prisma):** ~30% — Cloud Access Security Broker (CASB), Cloud Workload Protection, container security
 - **Endpoint & AI Security (Cortex):** ~15% — XDR, managed threat detection, AI-driven automation
 - **Identity Security (CyberArk):** ~10% — Privileged access management, identity threat detection (post-acquisition contribution)
 
 **Competitive Moat:**
+
 - **Platform breadth:** Palo Alto is the only vendor offering NGFW, SASE, XDR, cloud security, and identity in one integrated platform. This reduces vendor sprawl for CISOs.
 - **AI/ML differentiation:** Cortex XSIAM (AI-driven SOC automation) and Precision AI are proprietary differentiators that lower customer operational costs.
 - **Network effects:** Shared threat intelligence across 70,000+ customers improves detection for all users.
 - **Switching costs:** Deep integration into enterprise network architecture (firewalls, zero-trust architecture) makes replacement costly and risky.
 
 **Management:**
+
 - **Nikesh Arora (CEO):** Former Google and SoftBank executive. Known for aggressive M&A (CyberArk, Chronosphere, Talon, Dig) and rapid platform integration. Arora has restructured Palo Alto into a platform-centric company with a focus on profitability alongside growth.
 - **Capital allocation:** Heavy M&A ($28B+ in 2025–2026) is dilutive near-term but aimed at consolidating the cybersecurity stack.
 
@@ -107,12 +110,14 @@ Palo Alto Networks is the world's largest pure-play cybersecurity company by rev
 | GAAP Net Loss | ($177M) | N/A (acquisition costs) |
 
 **Revenue Growth Trends:**
+
 - FY2024: ~$7.5B (+18% YoY)
 - FY2025: ~$9.2B (+23% YoY)
 - FY2026E: $11.42B–$11.43B (+24% YoY, guidance raised)
 - FY2027E: ~$13.5B–$14.0B (+18–20% YoY, Street estimates)
 
 **Key Metrics:**
+
 - **NGS ARR:** $8.1B (+60% YoY), including $1.6B from CyberArk and Chronosphere
 - **Remaining Performance Obligation (RPO):** ~$20.9B–$21.0B (+32–33% YoY)
 - **Billings:** Strong growth, reflecting healthy demand and contract renewals
@@ -156,6 +161,7 @@ Palo Alto Networks is the world's largest pure-play cybersecurity company by rev
 ### DCF/Scenario Analysis
 
 **Key Assumptions:**
+
 - Discount rate: 10%
 - Terminal growth: 3%
 - Revenue growth decelerates from 24% → 12% over 5 years
@@ -257,11 +263,13 @@ Palo Alto Networks is the world's largest pure-play cybersecurity company by rev
 **Stop Loss:** $240 (below the May 2026 breakout level) — a break below this level would signal a failed platform and potential integration concerns.
 
 **Key Levels:**
+
 - **Entry (ideal):** $260–$270
 - **Target (6-month):** $290–$310 (Base), $340–$360 (Bull)
 - **Stop:** $240
 
 **Catalyst Calendar:**
+
 - **Q4 FY2026 Earnings:** August 2026 — FY2027 guidance and CyberArk integration update
 - **CyberArk Product Integration:** September–October 2026 — roadmap clarity
 - **FY2027 Guidance:** November 2026 — first look at next year's growth trajectory

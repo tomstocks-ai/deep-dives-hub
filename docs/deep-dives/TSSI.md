@@ -24,12 +24,14 @@ Findings:
 ### What I Accomplished:
 
 **Identified the Company:**
+
 - **TSS, Inc. (TSSI)** — Formerly Fortress International Group
 - Based in Georgetown, Texas
 - IT services company specializing in data center infrastructure and AI server integration
 - Recent IPO: November 2024
 
 **Key Findings:**
+
 - **Explosive Growth:** Revenue 5x in 2 years (\$54M → \$246M)
 - **Turned Profitable:** \$15.1M net income in 2025 (vs. break-even in 2023)
 - **AI Infrastructure Play:** Major multi-year contract for AI rack integration driving growth
@@ -38,6 +40,7 @@ Findings:
 - **Analyst Target:** \$20.00 (50% upside)
 
 **Recommendation:** SPECULATIVE BUY with tight risk management due to:
+
 - High customer concentration risk
 - Margin compression from business mix shift
 - Extreme volatility (beta 2-4x market)
@@ -49,6 +52,7 @@ Findings:
 | **PDF Report** | `memory/TSSI_DeepDive_Analysis_2026-04-02.pdf` | 31.1 KB |
 
 ### Report Includes:
+
 - ✅ All 10 analysis sections from the prompt
 - ✅ Step 11: Readability & Clarity Pass with plain-English explanations
 - ✅ Financial metrics with "what this means" context
@@ -86,17 +90,20 @@ user: [Discord Guild #general channel id:1467872303147651247 +3h 2026-04-03 00:3
 assistant: Based on the deep dives, here's the risk ranking (safest → riskiest):
 
 **1. ASTS (Safest)**
+
 - ✅ Real revenue: \$70.9M (up 1,505%)
 - ✅ \$2.34B cash — 22+ month runway
 - ✅ Working technology + major carrier partnerships (Verizon, AT&T, Vodafone)
 - ⚠️ Risk: Extreme valuation (447x P/S), SpaceX competition
 
 **2. SATL (Middle)**
+
 - ✅ Solid margins: 72% gross, 38% revenue growth
 - ✅ \$130M cash runway
 - ⚠️ Risk: Customer concentration (top 2 = 50%+ revenue), binary Merlin launch catalyst (Oct 2026)
 
 **3. VELO (Riskiest)**
+
 - ⚠️ Going concern warning — may not survive without funding
 - ⚠️ Negative gross margins, burning cash
 - ⚠️ Major pivot from equipment sales to manufacturing (unproven)
@@ -108,23 +115,27 @@ user: [Discord Guild #general channel id:1467872303147651247 +4h 2026-04-03 05:3
 assistant: Based on all four deep dives, here's the risk ranking (safest → riskiest):
 
 **1. TSSI (Safest)**
+
 - ✅ **Profitable:** \$15.1M net income (2025)
 - ✅ Explosive growth: 5x revenue in 2 years (\$54M → \$246M)
 - ✅ \$85.5M cash — minimal funding risk
 - ⚠️ Risk: High customer concentration, IPO volatility (Nov 2024)
 
 **2. ASTS**
+
 - ✅ Real revenue: \$70.9M (up 1,505%)
 - ✅ \$2.34B cash — 22+ month runway
 - ✅ Working tech + carrier partnerships (Verizon, AT&T, Vodafone)
 - ⚠️ Risk: Extreme valuation (447x P/S), SpaceX competition
 
 **3. SATL**
+
 - ✅ Solid fundamentals: 72% gross margins, 38% revenue growth
 - ✅ \$130M cash runway
 - ⚠️ Risk: Customer concentration (top 2 = 50%+ revenue), binary Merlin launch catalyst (Oct 2026)
 
 **4. VELO (Riskiest)**
+
 - ⚠️ **Going concern warning** — may not survive without additional funding
 - ⚠️ Negative gross margins, burning cash
 - ⚠️ Unproven pivot from equipment sales to manufacturing

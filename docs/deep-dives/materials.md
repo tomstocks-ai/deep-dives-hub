@@ -1,7 +1,7 @@
 ---
 title: Materials
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,14 +9,14 @@ title: Materials
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **FCX** | Freeport-McMoRan | <span class="rating-buy">BUY</span> | \$70.18 | 2026-04-03 | [:material-file-document: Read](FCX.md) |
-| **TECK** | Teck Resources | <span class="rating-buy">BUY</span> | \$59.13 | 2026-04-03 | [:material-file-document: Read](TECK.md) |
-| **PPTA** | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | \$26.30 | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
-| **AEM** | Agnico Eagle Mines | <span class="rating-buy">BUY</span> | \$163.66 | 2026-06-07 | [:material-file-document: Read](AEM.md) |
-| **FNV** | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | \$218.74 | 2026-06-08 | [:material-file-document: Read](FNV.md) |
-| **ASPI** | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$6.40 | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](FCX.md) |
+| <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](TECK.md) |
+| <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
+| <tv-ticker-tag symbol="NYSE:AEM" hide-background></tv-ticker-tag> | Agnico Eagle Mines | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](AEM.md) |
+| <tv-ticker-tag symbol="NYSE:FNV" hide-background></tv-ticker-tag> | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | 2026-06-08 | [:material-file-document: Read](FNV.md) |
+| <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 
 ---
 

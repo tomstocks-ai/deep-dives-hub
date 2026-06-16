@@ -53,17 +53,20 @@ hide:
 3D Systems Corporation is one of the original pioneers of additive manufacturing (AM), founded in 1986 by Chuck Hull, the inventor of stereolithography (SLA). Headquartered in Rock Hill, South Carolina, the company designs, manufactures, and sells 3D printers, print materials, and software for both industrial and healthcare applications.
 
 **Business Model & Revenue Segments:**
+
 - **Healthcare Solutions:** Dental, medical devices, surgical planning, and bioprinting. This segment has been the growth engine, with Q1 2026 revenue up ~21% year-over-year.
 - **Industrial Solutions:** Aerospace & defense, automotive, and general manufacturing. This segment has faced headwinds but is showing signs of stabilization.
 - **Materials & Software:** Recurring revenue from proprietary materials and workflow software. Higher-margin attach business.
 
 **Competitive Moat:**
+
 - Deep IP portfolio spanning 35+ years in AM.
 - Regulatory certifications in healthcare (FDA-cleared devices) create switching costs.
 - Integrated hardware-materials-software ecosystem.
 - However, moat is **narrowing**: competition from Stratasys, Desktop Metal, Markforged, and Chinese vendors is intense. The company has lost market share over the past decade.
 
 **Management:**
+
 - CEO Jeffrey Graves has led a multi-year restructuring focused on cost reduction, portfolio rationalization, and pivoting toward higher-margin healthcare applications.
 - Key recent moves: \$55M cost savings program, sale of Geomagic software unit (\$125.7M gain), and streamlining R&D toward core AM platforms.
 

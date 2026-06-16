@@ -51,6 +51,7 @@ Agnico Eagle Mines is the world's third-largest gold producer by market capitali
 **Business Model:** Pure-play gold mining with a focus on politically stable jurisdictions. Revenue is almost entirely from gold sales (~95%), with minor silver and zinc by-product credits. The company differentiates through low political risk, long reserve life (15+ years at most core assets), and a track record of operational excellence.
 
 **Competitive Moat:**
+
 - **Jurisdiction quality:** ~70% of production from Canada/Australia — Tier-1 mining jurisdictions with stable permitting and rule of law.
 - **Reserve base:** Proven and probable reserves of ~48 million ounces provide multi-decade visibility.
 - **Margin capture:** In Q1 2026, AEM captured ~95% of the year-over-year gold price increase in margin — a hallmark of disciplined cost control.
@@ -96,6 +97,7 @@ AEM trades at a premium to net asset value (NAV) relative to peers, justified by
 | **Bear** | $3,500–$4,000/oz | \$130–\$150 | –20% to –10% |
 
 **Key multiples:**
+
 - P/NAV (5% discount, spot gold): ~1.15–1.25x
 - EV/EBITDA (2026E): ~6–7x
 - FCF yield (2026E): ~7–9%
@@ -118,15 +120,18 @@ The stock is not cheap on spot metrics, but it is reasonably valued for a high-q
 ## 5. RISKS
 
 **Business / Operational:**
+
 - **Cost inflation:** AISC guidance of $1,400–$1,550/oz for 2026 is up ~12% YoY. Further inflation in energy, labor, or consumables could compress margins if gold prices stall.
 - **Production misses:** Q1 2026 was 24% of guidance midpoint — on track, but any operational disruption at Detour or Canadian Malartic would be material.
 - **Fosterville underperformance:** The Australian asset has been a drag; failure to turn it around would weigh on group metrics.
 
 **Financial:**
+
 - **Gold price volatility:** AEM is a pure-play gold lever. A sustained drop below $4,000/oz would compress FCF, reduce NAV, and likely trigger multiple contraction.
 - **FX risk:** ~30% of production is outside North America (Finland, Australia, Mexico). USD strength vs. EUR, AUD, or MXN raises local costs.
 
 **Macro / Sector:**
+
 - **Real interest rates:** Rising real yields (e.g., Fed hawkishness) historically pressure gold prices.
 - **Geopolitical de-escalation:** Reduced global tension could dampen safe-haven demand for gold.
 - **ESY / permitting delays:** While AEM operates in stable jurisdictions, any unexpected permitting slowdown (e.g., in Quebec or Ontario) could delay expansions.
@@ -140,6 +145,7 @@ AEM is the highest-quality large-cap gold miner. The balance sheet is pristine, 
 **Position Sizing:** Core holding (5–8% of a diversified portfolio for gold exposure). AEM should be the anchor position in any precious metals allocation.
 
 **Entry Strategy:**
+
 - **Immediate:** Small starter at current levels (\$163)
 - **Scale-in:** Add on further weakness to \$155 and \$140
 - **Aggressive entry:** Full position if RSI drops below 30 and gold holds \$4,500+
@@ -147,6 +153,7 @@ AEM is the highest-quality large-cap gold miner. The balance sheet is pristine, 
 **Stop Loss:** \$125 (hard stop, ~24% below current price). This level would likely coincide with gold breaking below \$4,000/oz and would signal a structural shift in the gold bull market.
 
 **Catalyst Calendar:**
+
 | Date | Event |
 |------|-------|
 | 2026-07-29 | Q2 2026 Earnings (production/cost update) |

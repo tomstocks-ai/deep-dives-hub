@@ -61,6 +61,7 @@ The stock has surged **+72% YTD** and **+380% over the past year**, fueled by ge
 
 **Analyst Rating:** SPECULATIVE BUY (High Risk/High Reward)
 **Price Targets:**
+
 - **Bull Case:** \$28.00 (+135%)
 - **Base Case:** \$18.00 (+51%)
 - **Bear Case:** \$5.00 (-58%)
@@ -73,15 +74,19 @@ The stock has surged **+72% YTD** and **+380% over the past year**, fueled by ge
 Critical Metals Corp is a mining exploration and development company focused on critical minerals, with two primary assets:
 
 **Primary Asset: Tanbreez Project (Greenland)**
+
 - One of the world's largest known rare earth deposits
 - **4.7 billion-tonne multi-element resource** (PEA released March 2025, feasibility study underway)
 - **27% Heavy Rare Earth Elements (HREE)** — significantly higher than the ~10% industry standard
 - Located in Southern Greenland with year-round, ice-free fjord access
 - Exploitation license granted by Greenland Government in **2020**
+
 - **Current ownership: 92.5% CRML, 7.5% European Lithium**
+
 - A new international airport 12 km from the site improves logistics
 
 **Secondary Asset: Wolfsberg Lithium Project (Austria)**
+
 - Lithium exploration project
 - Austrian Government extended mining license (January 2026)
 - Strategic for European lithium supply chain
@@ -105,12 +110,14 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 1.3 Management & Governance
 
 **Key Management:**
+
 - **CEO:** Antony Sage
 - **Parent Company:** European Lithium Limited (37.5% ownership of CRML)
 - **Employees:** 4 (very lean, project-based model)
 - **Advisory Board:** Includes Rear Admiral Peter Stamatopoulos, Chang Oh Turkmani (strategic defense connections)
 
 **Recent Strategic Appointments:**
+
 - **April 20, 2026:** Thomas "TYT" Mogensen appointed CEO of Tanbreez Mining Greenland A/S subsidiary — a key operational hire
 - **January 2026:** Key project delivery team appointed to fast-track Tanbreez development
 - **March 2026:** Acquisition of 60° North Greenland ApS (leading Greenland engineering/mining operator)
@@ -152,6 +159,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | P/B Ratio | 10.07x | High for pre-revenue |
 
 **Funding Status:** The company has minimal cash relative to development needs, but several non-dilutive funding avenues are in progress:
+
 - **\$120M EXIM Bank letter of intent** for project financing
 - **\$30M strategic acceleration program** (approved March 2026)
 - **\$1.5B Saudi Arabia JV** for processing facility (non-dilutive)
@@ -170,6 +178,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 2.4 Capital Requirements
 
 **Estimated Capex Requirements:**
+
 - **Tanbreez Mine Development:** \$800M - \$1B (management guidance)
 - **Processing Facilities:** Covered by JV partners (Saudi Arabia \$1.5B, Romania undisclosed)
 - **Pilot Plant:** Under construction in Greenland (commenced January 2026, operations begin May 2026)
@@ -189,6 +198,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | USA Rare Earth | Private | N/A | Development | N/A | U.S.-based, govt-backed |
 
 **Resource-Based Valuation:**
+
 - Tanbreez: 4.7 billion tonnes at ~\$0.31/tonne = \$1.46B market cap
 - Comparable REE projects in development stage trade \$0.15-\$0.50/tonne depending on grade and jurisdiction
 - PEA valued project at ~\$3B NPV, suggesting significant upside if execution succeeds
@@ -204,6 +214,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 | TradingView Range | Strong Buy | \$15.00-\$20.00 | +26% to +68% |
 
 **Current Valuation Gap:** CRML trades at a discount to most analyst targets, reflecting:
+
 - Pre-revenue status
 - Execution risk
 - Funding uncertainty
@@ -212,6 +223,7 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 3.3 DCF Scenarios
 
 **Key Assumptions:**
+
 - Production start: 2029 (base case)
 - Annual production: 85,000 tonnes REO concentrate (initial), scalable to 425,000
 - Average REE price: \$30/kg (blended basket)
@@ -256,32 +268,38 @@ Critical Metals Corp is a mining exploration and development company focused on 
 ### 4.3 Strategic Partnerships
 
 **Saudi Arabia JV (January 2026)**
+
 - **Value:** Up to \$1.5 billion processing facility
 - **Structure:** Partnership with Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company
 - **Benefit:** Processing capacity + strategic Middle East positioning
 
 **Romania JV (December 2025)**
+
 - **Structure:** European/NATO processing hub
 - **Benefit:** European supply chain, NATO defense supply chain
 - **Strategic Value:** Creates "mine-to-magnet" European supply chain
 
 **Ucore Offtake (January 2026)**
+
 - 10-year offtake arrangement tied to Ucore's Louisiana processing facility
 - Validates U.S. downstream processing pathway
 
 **60° North Greenland Acquisition (March 2026)**
+
 - Acquisition of leading Greenland engineering/mining operator
 - Provides local expertise and execution capability
 
 ### 4.4 Project Vault & U.S. Policy Tailwinds
 
 The Trump administration's **\$12 billion Project Vault** (announced February 2026) for critical mineral stockpiles represents a significant structural tailwind:
+
 - Potential direct U.S. government offtake
 - Accelerated permitting for strategic projects
 - Tanbreez positioned as largest Western HREE source
 - Note: Price floor guarantees were walked back in January 2026, causing a temporary sell-off
 
 **Additional U.S. Support:**
+
 - Up to \$120M EXIM Bank letter of intent for project financing
 - Trump administration previously discussed taking a direct stake in Critical Metals
 - Heavy rare earths declared strategic material by U.S. Department of Defense
@@ -363,6 +381,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | ETF Holdings | IWM, IWN, VTWO, SETM | Russell 2000 exposure |
 
 **Institutional Activity:** Low institutional ownership suggests either:
+
 - Early-stage opportunity (institutions waiting for de-risking)
 - Potential future buying catalyst as institutions enter on feasibility study
 - Texas Capital initiation may attract additional institutional interest
@@ -388,9 +407,13 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 ### 6.5 News Sentiment Analysis
 
 **Recent Headlines (April 2026):**
+
 - "Critical Metals stock surges after taking full control of Greenland rare earth project" — **Positive**
+
 - "Texas Capital initiates coverage with \$20 target" — **Positive**
+
 - "This Rare Earth Stock Jumps More Than 40%" (Barrons) — **Positive**
+
 - "Investors in This Stock Are Still Bullish on Greenland" (WSJ) — **Positive**
 
 **Overall News Sentiment:** STRONGLY POSITIVE with sector tailwinds from U.S.-China decoupling, Project Vault, and now full operational control.
@@ -414,36 +437,43 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 ### 7.2 Recent Press Releases Analysis
 
 **April 20, 2026: CEO Appointment at Tanbreez Subsidiary**
+
 - Thomas "TYT" Mogensen appointed CEO of Tanbreez Mining Greenland A/S
 - Signals operational readiness and professionalization
 - **Impact:** Reduces execution risk
 
 **April 17, 2026: Greenland Approves 92.5% Ownership**
+
 - Government approved transfer of remaining 50.5% interest
 - Gives CRML full operational control
 - **Impact:** GAME-CHANGING — removes ownership uncertainty
 
 **March 31, 2026: Outstanding Metallurgical Results**
+
 - 2.96% TREO refined concentrate confirmed
 - 40% improvement over historical benchmark
 - **Impact:** Validates processing economics
 
 **March 23, 2026: 60° North Greenland Acquisition**
+
 - Leading local engineering/mining operator acquired
 - **Impact:** Reduces execution risk, builds local capacity
 
 **March 10, 2026: \$30M Strategic Program**
+
 - Immediate funding to advance Tanbreez
 - **Impact:** Near-term catalyst, accelerates timeline
 
 ### 7.3 China Supply Chain Context
 
 **Current State:**
+
 - China controls ~60% of global rare earth mining
 - China controls ~90% of rare earth processing
 - Western nations critically dependent on Chinese supply
 
 **Strategic Implications:**
+
 - U.S./EU actively funding Western rare earth projects
 - Tanbreez positioned as largest Western HREE deposit
 - National security imperative creates patient capital
@@ -459,6 +489,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 | **Vital Metals** | Canada | Development | Closer to market |
 
 **CRML Competitive Position:**
+
 - ✅ Largest resource base (4.7B tonnes)
 - ✅ Highest HREE content (27%)
 - ✅ Strongest strategic partnerships (Saudi, Romania, Ucore)
@@ -474,6 +505,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 **Probability:** 25%
 
 **Assumptions:**
+
 - Saudi JV closes on schedule with full \$1.5B commitment
 - EXIM Bank converts LOI to full financing
 - Project Vault provides direct U.S. offtake
@@ -484,6 +516,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Short squeeze adds 20-30% to fair value
 
 **Price Target Derivation:**
+
 - 2029 EBITDA estimate: \$600M
 - EV/EBITDA multiple: 15x (growth + strategic premium)
 - Enterprise Value: \$9.0B
@@ -495,6 +528,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 **Probability:** 50%
 
 **Assumptions:**
+
 - Saudi JV closes with partial/delayed funding
 - EXIM Bank provides partial financing
 - Project Vault provides indirect support (faster permitting)
@@ -505,6 +539,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Feasibility study confirms \$2.5B+ NPV
 
 **Price Target Derivation:**
+
 - 2030 EBITDA estimate: \$400M
 - EV/EBITDA multiple: 12x
 - Enterprise Value: \$4.8B
@@ -515,6 +550,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 **Probability:** 25%
 
 **Assumptions:**
+
 - Saudi JV collapses or is significantly delayed
 - EXIM Bank financing falls through
 - Greenland political situation deteriorates
@@ -525,6 +561,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Significant share count dilution (50%+)
 
 **Price Target Derivation:**
+
 - Continued cash burn for 3+ years
 - Asset value only (no production premium)
 - Per Share: \$5.00
@@ -564,11 +601,13 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 ### 9.3 Position Sizing
 
 **Portfolio Allocation Guidelines:**
+
 - Maximum position size: 2-3% of portfolio (high risk)
 - Speculative allocation: 5% of "speculative" bucket
 - Never more than you can afford to lose completely
 
 **For Existing Position Holders:**
+
 - If underwater from higher cost basis: **HOLD** — don't realize losses at what may be a cyclical turning point
 - Consider **averaging down** if price pulls back to \$9-10
 - Set **stop loss** at \$7.50 (major support break)
@@ -587,6 +626,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 ### 9.5 Key Monitoring Points
 
 **Check Quarterly:**
+
 - Cash position and burn rate
 - JV milestone progress (Saudi, Romania, EXIM Bank)
 - Pilot plant and bulk sample results
@@ -595,6 +635,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - Short interest changes
 
 **Watch For:**
+
 - Equity raise announcements (dilution risk)
 - Greenland political developments
 - China REE policy changes
@@ -637,6 +678,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 ### 11.1 Key Investment Highlights
 
 **Strengths:**
+
 - ✅ World-class resource (4.7B tonnes) — largest undeveloped HREE deposit outside China
 - ✅ Exceptional HREE content (27%) — critical for defense and advanced tech
 - ✅ Full operational control (92.5% ownership) — April 2026 Greenland approval
@@ -650,6 +692,7 @@ The Trump administration's **\$12 billion Project Vault** (announced February 20
 - ✅ \$120M EXIM Bank letter of intent
 
 **Weaknesses:**
+
 - ❌ Pre-revenue with high cash burn
 - ❌ Limited cash runway
 - ❌ Significant dilution risk (though reduced by JVs)
