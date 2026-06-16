@@ -34,10 +34,8 @@ title: Technology
 | **SIVE** | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | \$8.21 | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
 | **CLFD** | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$39.96 | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | **AAOI** | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$191.55 | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
-|| **HUT** | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$120.18 | 2026-06-16 | [:material-file-document: Read](HUT.md) |
-|| **CORZ** | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$28.18 | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
-
-||||||---
+| **HUT** | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$120.18 | 2026-06-16 | [:material-file-document: Read](HUT.md) |
+| **CORZ** | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$28.18 | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
 
 ## Gists
 
