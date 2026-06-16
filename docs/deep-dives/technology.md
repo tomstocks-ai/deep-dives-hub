@@ -32,8 +32,11 @@ title: Technology
 | **HLIT** | Harmonic Inc. | <span class="rating-buy">BUY</span> | \$15.20 | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | **CRDO** | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | \$256.65 | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 | **SIVE** | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | \$8.21 | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
+| **CLFD** | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$39.96 | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
+| **AAOI** | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$191.55 | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
+| **HUT** | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$120.18 | 2026-06-16 | [:material-file-document: Read](HUT.md) |
 
-||||---
+|||||---
 
 ## Gists
 
@@ -264,6 +267,16 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 **Bull:** \$150–180 · **Base:** \$90–110 · **Bear:** \$50–65
 
 [:material-arrow-right: Full Deep Dive](AAOI.md)
+
+---
+
+### HUT — Hut 8 Corp. · <span class="rating-spec-buy">SPEC. BUY</span> · \$120.18
+
+North American bitcoin miner pivoting to AI data center infrastructure. Secured \$16.8B in contracted AI revenue via 15-year triple-net leases at River Bend and Beacon Point (Texas), backed by \$7.5B+ in investment-grade project finance. Q1 2026 revenue of \$71M (+225% YoY) was dominated by the Compute segment, though a \$295.7M unrealized BTC loss drove a \$253M net loss. Holds ~10,278 BTC (~\$1.1B) on treasury. The AI pivot is real, but revenue is 12–18 months away. High leverage and BTC volatility create binary risk/reward.
+
+**Bull:** \$180–220 · **Base:** \$110–145 · **Bear:** \$45–65
+
+[:material-arrow-right: Full Deep Dive](HUT.md)
 
 ---
 

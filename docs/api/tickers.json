@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -631,11 +631,23 @@
       "sector": "Energy",
       "industry": "Fuel Cells / Clean Power Generation",
       "rating": "SPECULATIVE BUY",
-      "price": 274.50,
+      "price": 274.5,
       "market_cap": "$41.1B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/BE/",
       "api_url": "/api/BE.json"
+    },
+    {
+      "ticker": "HUT",
+      "company": "Hut 8 Corp.",
+      "sector": "Technology",
+      "industry": "Digital Infrastructure / Bitcoin Mining & AI Data Centers",
+      "rating": "SPEC. BUY",
+      "price": 120.18,
+      "market_cap": "$7.33B",
+      "last_updated": "2026-06-16",
+      "deep_dive_url": "/deep-dives/HUT/",
+      "api_url": "/api/HUT.json"
     }
   ]
 }
