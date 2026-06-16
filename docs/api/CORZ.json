@@ -1,0 +1,56 @@
+{
+  "ticker": "CORZ",
+  "company": "Core Scientific, Inc.",
+  "sector": "Technology",
+  "industry": "Digital Infrastructure / Bitcoin Mining & AI Data Centers",
+  "exchange": "NASDAQ",
+  "price": 28.18,
+  "market_cap": "$8.9B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-16",
+  "thesis": "Core Scientific is pivoting from low-margin bitcoin mining to higher-margin AI/HPC colocation. HDC revenue grew 168% YoY in FY2025 to $65.4M, while total revenue declined 38% to $319M as mining shrank. The company operates ~745 MW of power capacity and ~19 EH/s of hash rate. The failed CoreWeave merger leaves it independent but with a credible growth narrative. Balance sheet is fragile (negative book value, ~$1.06B debt, ~$1.32B warrant liabilities), and operating profitability remains elusive. The stock trades at ~28x sales, pricing in a successful HDC pivot. High risk/reward.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$319.0M",
+    "revenue_growth": "-38%",
+    "gross_margin": "~10%",
+    "net_income": "($288.6M)*",
+    "eps_diluted": "N/A",
+    "cash": "~$530M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$38–$42",
+    "drivers": [
+      "HDC revenue scales to $300M+ by 2027 with high margins",
+      "New AI hyperscaler customer wins beyond CoreWeave",
+      "Bitcoin price rally improves mining cash flow and reduces pivot urgency",
+      "Block 3nm ASIC deployment adds 15 EH/s of efficient mining capacity"
+    ]
+  },
+  "bear_case": {
+    "target": "$12–$16",
+    "risks": [
+      "HDC growth stalls; mining revenue collapses faster than expected",
+      "Cash burn forces dilutive equity raise at depressed prices",
+      "CoreWeave reduces HDC commitments or delays expansion",
+      "Material weakness in internal controls leads to further restatements"
+    ]
+  },
+  "base_case": {
+    "target": "$22–$26",
+    "assumptions": "HDC grows to $150–200M by 2027; mining revenue flat at ~$250M; operating losses narrow but persist until 2028; company avoids dilutive raise by using CoreWeave-funded capex and existing liquidity."
+  },
+  "catalysts": [
+    {"date": "2026-08", "event": "Q2 2026 earnings — HDC revenue growth and guidance update"},
+    {"date": "2026-TBD", "event": "Potential new HDC customer announcements"},
+    {"date": "2026-TBD", "event": "Block 3nm ASIC deployment timeline update"}
+  ],
+  "key_risks": [
+    "Customer concentration: CoreWeave dominates HDC revenue",
+    "Balance sheet fragility: negative book value, heavy debt, warrant overhang",
+    "Execution risk on HDC pivot: capex-intensive, competitive, unproven at scale",
+    "Bitcoin price and network difficulty volatility affecting mining economics",
+    "Material weakness in internal controls over financial reporting"
+  ]
+}

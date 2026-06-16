@@ -35,8 +35,7 @@ title: Technology
 | **CLFD** | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$39.96 | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | **AAOI** | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$191.55 | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
 | **HUT** | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | \$120.18 | 2026-06-16 | [:material-file-document: Read](HUT.md) |
-
-|||||---
+| **CORZ** | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | \$28.18 | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
 
 ## Gists
 
@@ -277,6 +276,16 @@ North American bitcoin miner pivoting to AI data center infrastructure. Secured 
 **Bull:** \$180–220 · **Base:** \$110–145 · **Bear:** \$45–65
 
 [:material-arrow-right: Full Deep Dive](HUT.md)
+
+---
+
+### CORZ — Core Scientific, Inc. · <span class="rating-spec-buy">SPEC. BUY</span> · \$28.18
+
+One of North America's largest bitcoin miners executing a strategic pivot to high-density AI/HPC colocation. HDC revenue surged 168% YoY to \$65.4M in FY2025, while total revenue declined 38% to \$319M as mining shrank. Operates ~745 MW of power capacity and ~19 EH/s of hash rate. The failed CoreWeave merger (October 2025) leaves the company independent but with a credible growth narrative. Balance sheet is fragile: negative book value, ~\$1.06B debt, ~\$1.32B warrant liabilities, and a disclosed material weakness in internal controls. The stock trades at ~28x sales, pricing in a successful HDC pivot. High risk/reward — wait for pullback to \$22–24.
+
+**Bull:** \$38–42 · **Base:** \$22–26 · **Bear:** \$12–16
+
+[:material-arrow-right: Full Deep Dive](CORZ.md)
 
 ---
 
