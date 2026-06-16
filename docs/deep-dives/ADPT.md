@@ -60,6 +60,7 @@ Adaptive Biotechnologies (NASDAQ: ADPT) is a commercial-stage biotech company th
 ## 2. FINANCIAL ANALYSIS
 
 ### Income Statement
+
 - **FY2025 revenue:** ~US\\$224M (MRD contributed US\\$212.3M, growing 46% YoY). Total test volume for clonoSEQ reached 105,587.
 - **Q1 2026 revenue:** US\$~59M (+35% YoY), with MRD up 53% and test volume up 41% to 32,595 tests. MRD now accounts for 95% of total revenue.
 - **Gross margin:** ~65% on MRD — healthy for a diagnostics business.
@@ -80,6 +81,7 @@ Adaptive Biotechnologies (NASDAQ: ADPT) is a commercial-stage biotech company th
 ## 3. VALUATION
 
 ### Multiples & Metrics
+
 - **Current price:** US\\$18.78 (as of 2026-06-11)
 - **Market cap:** ~US\\$2.8B (mid-cap)
 - **P/S ratio:** ~12.5x trailing revenue — high, but not unusual for a high-growth diagnostics company approaching profitability.
@@ -111,16 +113,19 @@ Because ADPT is pre-profitability, valuation is driven by revenue growth, margin
 ## 5. RISK FACTORS
 
 ### Business Risks
+
 - **Customer/payor concentration:** MRD revenue depends on oncology clinics and payor reimbursement policies. A CMS coverage decision against clonoSEQ would be catastrophic.
 - **Competition:** Other MRD players (Invitae, Guardant Health, Natera) are developing competing assays. Natera’s Signatera is a direct competitor in the ctDNA MRD space.
 - **Immune Medicine failure:** If the IM segment cannot find a viable commercial path, it becomes a perpetual cash drain.
 
 ### Financial Risks
+
 - **Liquidity:** ~US\\$281M cash is not infinite. At the current burn rate, the company has 4–5 quarters of runway. A capital raise is likely if profitability is delayed.
 - **Dilution:** Past raises have been dilutive. Future raises could be at unfavorable prices if the stock weakens.
 - **Debt covenants:** Increasing debt levels create covenant compliance risk if revenue misses.
 
 ### Macro/Sector Risks
+
 - **Regulatory:** FDA or CMS policy shifts on MRD testing reimbursement.
 - **Biotech sentiment:** The sector is rate-sensitive. A hawkish Fed or risk-off environment hurts high-growth, pre-profitability biotechs.
 - **Insider selling:** US\\$16M in insider sales over 3 months is a concern. It may be routine diversification, but it warrants monitoring.

@@ -75,12 +75,14 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 **Market Position:** Unity is one of two dominant players in the game engine market alongside Epic Games' Unreal Engine.
 
 **Competitive Advantages:**
+
 - **Market Leadership:** Estimated 70%+ of mobile games built on Unity
 - **Ecosystem Lock-in:** Extensive asset store, developer community, and documentation
 - **Cross-Platform:** Strong mobile presence (Unreal dominates AAA/PC)
 - **Metaverse/3D Content:** Positioned for AR/VR growth
 
 **Competitive Threats:**
+
 - Unreal Engine 5's stunning graphics capabilities
 - Godot (open-source) gaining indie developer mindshare
 - Proprietary engines from large studios (Riot, EA, etc.)
@@ -91,6 +93,7 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 **Previous:** John Riccitiello departed in October 2023 amid pricing controversy
 
 **Key Executive Changes:**
+
 - New leadership brought in to stabilize after runtime fee backlash
 - Focus on "refounding" the company and rebuilding developer trust
 - Strategic portfolio reorganization completed
@@ -119,6 +122,7 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 | **EPS (Diluted)** | -\$0.21 | -\$0.30 | -\$0.26 | -\$0.19 | -\$0.30 |
 
 **Key Income Statement Observations:**
+
 - **Revenue trending upward:** Q4 2024 revenue of \$503M up 10% YoY (excluding divested businesses)
 - **Persistent losses:** Still unprofitable with ~\$400M+ annual net losses
 - **Gross margins stable:** ~74% gross margin is healthy for SaaS/platform business
@@ -141,11 +145,13 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 **Balance Sheet Health Assessment:**
 
 ✅ **Strengths:**
+
 - **Strong cash position:** \$2.06B provides ~5+ years of runway at current burn rate
 - **Improving net debt:** Net debt reduced from \$691M to \$180M over the past year
 - **Adequate liquidity:** Current ratio of 1.84x means they can cover short-term obligations
 
 ⚠️ **Concerns:**
+
 - **High goodwill:** \$3.17B goodwill (46% of assets) from acquisitions creates impairment risk
 - **Negative tangible book value:** -\$579M means if liquidated, shareholders get nothing after paying debts
 - **Total debt:** \$2.24B debt load is manageable but adds interest burden (~\$24M/year)
@@ -162,6 +168,7 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 | **Stock-Based Compensation** | \$92.9M | \$92.0M | \$101.6M | \$98.8M |
 
 **Cash Flow Insights:**
+
 - **Positive free cash flow:** Unity generated positive FCF in recent quarters
 - **Low capex:** Minimal capital requirements (asset-light business model)
 - **Heavy SBC:** \$371M in stock-based compensation annually dilutes shareholders
@@ -187,11 +194,13 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 ### Valuation Context
 
 **Historical Trading Range:**
+
 - **52-Week High:** \$52.15 (April 2025)
 - **52-Week Low:** \$16.78 (September 2024)
 - **Current Price:** \$21.57 (down 59% from highs)
 
 **Analyst Price Targets:**
+
 - **Consensus Target:** \$32.04
 - **Implied Upside:** +49%
 - **Rating:** BUY (4 Strong Buy, 14 Buy, 9 Hold)
@@ -199,6 +208,7 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 ### DCF Scenarios
 
 **Key Assumptions:**
+
 - Current revenue: \$1.85B
 - Discount rate (WACC): 12%
 - Terminal growth: 3%
@@ -211,6 +221,7 @@ Unity Software Inc. operates a **leading platform** for creating and operating r
 
 **Implied Growth at Current Price:**
 At \$21.57, the market is pricing in:
+
 - ~8-10% revenue growth
 - ~15% long-term operating margins
 - Probability of continued execution challenges
@@ -333,6 +344,7 @@ At \$21.57, the market is pricing in:
 **Consensus:** BUY with \$32.04 price target (+49% upside)
 
 **Recent Analyst Actions:**
+
 - Morgan Stanley raised PT from \$30 to \$32 (maintained Overweight)
 - Multiple firms maintaining coverage after Q4 results
 - Sentiment improving post-strategic portfolio cleanup
@@ -387,12 +399,14 @@ At \$21.57, the market is pricing in:
 ### Runtime Fee Controversy - Status Update
 
 **What Happened (Sept 2023):**
+
 - Unity announced new "Runtime Fee" charging per game install
 - Massive developer backlash - threats to leave platform
 - CEO John Riccitiello departed
 - Pricing model subsequently revised
 
 **Current Status:**
+
 - Runtime Fee largely abandoned for most developers
 - Subscription pricing remains competitive
 - Developer relations slowly recovering
@@ -405,12 +419,14 @@ At \$21.57, the market is pricing in:
 ### 🐻 BEAR CASE
 
 **Key Risks Playing Out:**
+
 - Unreal Engine continues gaining market share, especially in high-end gaming
 - Developer trust never fully recovers from pricing controversy
 - Mobile gaming market stagnates, hurting Grow Solutions
 - Goodwill impairment forces asset write-downs
 
 **Financial Outcome:**
+
 - Revenue growth stalls at 0-5%
 - Operating margins remain negative
 - Cash burn resumes
@@ -425,6 +441,7 @@ At \$21.57, the market is pricing in:
 ### 🐂 BULL CASE
 
 **Key Upside Drivers:**
+
 - Developer sentiment recovery accelerates
 - AI tools (Muse, Sentis) drive new customer acquisition
 - Spatial computing (Vision Pro) creates new content cycle
@@ -432,6 +449,7 @@ At \$21.57, the market is pricing in:
 - Advertising market recovery boosts Grow Solutions
 
 **Financial Outcome:**
+
 - Revenue grows 15-20% CAGR
 - Operating margins reach 20%+
 - FCF generation sustains \$200M+/year
@@ -446,6 +464,7 @@ At \$21.57, the market is pricing in:
 ### ⚖️ BASE CASE (Most Likely)
 
 **Expected Trajectory:**
+
 - Gradual developer relations recovery
 - Steady 8-12% revenue growth from core business
 - Operating leverage drives margin improvement
@@ -453,6 +472,7 @@ At \$21.57, the market is pricing in:
 - Stock re-rates as "quality growth" at 25-30x forward earnings
 
 **Financial Outcome:**
+
 - Revenue: \$1.85B → \$2.8B (5 years, 11% CAGR)
 - Operating Margin: 0% → 15%
 - FCF: Breakeven → \$250M annually
@@ -499,6 +519,7 @@ Unity is showing signs of a turnaround, but significant risks remain given the 2
 - Risk of \$12-14 if broken
 
 **Take Profit Levels:**
+
 - **Trim 25%:** \$28.00 (+30%, base case target)
 - **Trim 25%:** \$35.00 (+62%, 200-day SMA)
 - **Trim remaining:** \$45.00 (+109%, bull case)

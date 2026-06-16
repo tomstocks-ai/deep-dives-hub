@@ -60,6 +60,7 @@ QuantumScape is a pre-revenue solid-state battery developer founded in 2010 and 
 **Business Model:** Asset-light licensing and separator supply. QuantumScape does not intend to build gigafactories. Instead, it plans to license its proprietary ceramic separator technology and cell designs to OEM partners, while supplying the critical separator material itself. This avoids the multi-billion-dollar capital intensity of full cell manufacturing.
 
 **Technology:** The core innovation is a lithium-metal anode paired with a proprietary solid ceramic separator. This architecture promises:
+
 - **Energy density:** 400–500 Wh/kg (vs. ~250–300 for conventional Li-ion)
 - **Faster charging:** 10–80% in under 15 minutes
 - **Improved safety:** Non-flammable solid electrolyte eliminates thermal runaway risk
@@ -204,18 +205,21 @@ QuantumScape is a binary, pre-revenue bet on solid-state battery commercializati
 **Position Sizing:** Maximum 1–2% of portfolio. Treat as a venture-capital-style public market bet.
 
 **Entry Strategy:**
+
 - **Immediate entry:** Not recommended at \$7.00. Wait for a pullback to \$5.50–\$6.00 or a confirmed breakout above \$8.50 on volume.
 - **Scale in:** If entering, scale in over 2–3 tranches to reduce timing risk.
 
 **Stop Loss:** \$4.00 (below 52-week low). A break below \$4.16 would signal a potential breakdown and likely forced capital raise.
 
 **Key Levels to Watch:**
+
 - **Entry (ideal):** \$5.50–\$6.00
 - **Target (base):** \$8.00–\$9.00
 - **Target (bull):** \$18.00–\$22.00
 - **Stop:** \$4.00
 
 **Catalyst Calendar:**
+
 - **Q2 2026 Earnings (Aug 2026):** Eagle Line operational updates
 - **2026 Technology Roadmap Reveal:** Next-gen cell and separator announcements
 - **OEM Partnership Updates:** Any additional OEM beyond Volkswagen

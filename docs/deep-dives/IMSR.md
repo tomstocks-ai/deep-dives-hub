@@ -96,12 +96,14 @@ The company expects **four principal revenue streams** once commercial operation
 ### Management Team
 
 **Simon Irish – CEO & Director**
+
 - 20+ years of finance and investment management experience
 - Former investment banking in New York and London
 - Cambridge University education in quantitative sciences
 - Leading the company since 2014
 
 **Key Strengths:**
+
 - Team of ~80 employees, 29 with advanced degrees in engineering/science
 - 170+ years of cumulative nuclear and energy industry experience
 - Former NRC and CNSC regulatory experience on staff
@@ -129,6 +131,7 @@ The company expects **four principal revenue streams** once commercial operation
 ### Post-SPAC Financial Structure
 
 The October 28, 2025 merger with HCM II Acquisition Corp. provided significant funding:
+
 - **\$292 million** in gross proceeds from the business combination
 - Additional **\$25.8M** preferred stock private placement (July 2025)
 - Additional **\$36.7M** in bridge financing raised since December 2024
@@ -198,6 +201,7 @@ Given the pre-revenue nature, traditional DCF is speculative. Below are scenario
 | **Bull Case** | \$1.2B (fleet deployment) | \$6B+ | **\$56.60** |
 
 **Key Assumptions:**
+
 - Base case: 4 plants by 2035 generating \$125M each in construction/component revenue
 - Bull case: 10+ plants in various stages, recurring fuel/core replacement revenues flowing
 - Bear case: Significant regulatory delays, funding challenges, competitor capture
@@ -320,12 +324,14 @@ The valuation is highly sensitive to:
 ### ESG Considerations
 
 **Positive ESG Factors:**
+
 - Zero-carbon baseload power
 - Supports industrial decarbonization
 - Replaces coal plants (repowering opportunity)
 - Minimal land use vs. renewables
 
 **ESG Risks:**
+
 - Nuclear waste (mitigated by on-site storage design)
 - Proliferation concerns (addressed through IAEA engagement)
 - Uranium mining impacts
@@ -360,17 +366,20 @@ The valuation is highly sensitive to:
 | Insiders | 10-15% (est.) | Management alignment |
 
 **ETF Holdings:**
+
 - Included in various clean energy/nuclear ETFs
 - Limited weight given small market cap
 
 ### Social Sentiment
 
 **X/Twitter Financial Community:**
+
 - Positive sentiment among nuclear energy bulls
 - "Nuclear Renaissance" narrative support
 - Some skepticism about timeline to commercialization
 
 **Reddit/StockTwits:**
+
 - Retail interest in clean energy plays
 - Comparisons to other SMR companies
 - Discussion of SPAC merger structure
@@ -402,6 +411,7 @@ The valuation is highly sensitive to:
 ### Sector Publications
 
 **Nuclear Energy Publications:**
+
 - World Nuclear News: Regular coverage of SMR developments
 - Nuclear Intelligence Weekly: Industry analysis
 - NEI Magazine: Technical and commercial coverage
@@ -417,6 +427,7 @@ The valuation is highly sensitive to:
 **Thesis:** IMSR successfully navigates regulatory pathway, deploys first plant by 2034, and establishes fleet operations by late 2030s.
 
 **What needs to go right:**
+
 - TETRA pilot reactor achieves criticality on schedule (July 2026)
 - NRC continues timely review of design elements
 - First Construction Permit application submitted by 2028
@@ -424,6 +435,7 @@ The valuation is highly sensitive to:
 - Recurring core replacement and fuel revenues begin flowing
 
 **Financial Outcome:**
+
 - 2035 Revenue: \$500M+
 - 2035 EBITDA: \$100M+
 - Valuation: \$2.5B+ (4x current)
@@ -434,12 +446,14 @@ The valuation is highly sensitive to:
 **Thesis:** IMSR achieves commercialization but faces delays and competitive pressure. First plant operational by 2035-2036.
 
 **Scenario:**
+
 - 12-18 month delays in regulatory timeline
 - 2-3 plants operational by 2036
 - Moderate competition from NuScale, Kairos
 - One additional capital raise required
 
 **Financial Outcome:**
+
 - 2036 Revenue: \$300M
 - Valuation: \$1.5B (2.3x current)
 - **Stock Price Target: \$14.16** (127% upside)
@@ -449,6 +463,7 @@ The valuation is highly sensitive to:
 **Thesis:** Significant regulatory delays, technology challenges, or competitive displacement prevent commercialization.
 
 **What could go wrong:**
+
 - NRC raises unforeseen safety concerns
 - TETRA pilot reactor encounters technical issues
 - Competitors capture market share
@@ -456,6 +471,7 @@ The valuation is highly sensitive to:
 - First plant delayed to 2040+ or cancelled
 
 **Financial Outcome:**
+
 - Continued cash burn without revenue
 - Multiple dilutive capital raises
 - Potential insolvency or fire-sale valuation
@@ -477,6 +493,7 @@ The valuation is highly sensitive to:
 ### Rating: **SPECULATIVE BUY**
 
 **For investors with:**
+
 - High risk tolerance
 - Long-term investment horizon (5-10 years)
 - Understanding of development-stage technology companies
@@ -495,6 +512,7 @@ The valuation is highly sensitive to:
 ### Entry Strategy
 
 **Current Situation:**
+
 - Stock 80% below SPAC highs
 - Trading near all-time lows
 - Positive fundamental developments not reflected in price
@@ -521,6 +539,7 @@ The valuation is highly sensitive to:
 | **Thesis Break** | N/A | Exit if major regulatory rejection or technology failure |
 
 **Position Management:**
+
 - Size position so 100% loss doesn't impair portfolio
 - Review position quarterly
 - Take partial profits on 2-3x moves
@@ -555,6 +574,7 @@ The valuation is highly sensitive to:
 **Generation IV (Gen IV):** The next generation of nuclear reactors designed to be safer, more efficient, and more versatile than current (Gen III) reactors. IMSR is one of several Gen IV technologies being developed.
 
 **SALEU vs. HALEU (Nuclear Fuel):**
+
 - **SALEU (Standard-Assay Low Enriched Uranium):** Uranium enriched to <5%—the standard fuel for today's nuclear plants. Widely available.
 - **HALEU (High-Assay Low Enriched Uranium):** Uranium enriched to 15-20%—required by many advanced reactors. Currently scarce and expensive.
 

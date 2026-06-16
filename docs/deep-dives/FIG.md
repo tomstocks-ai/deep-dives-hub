@@ -60,6 +60,7 @@ hide:
 Figma is the dominant collaborative design platform that went public in July 2025 at \$33/share, briefly spiked above \$100, and has since cratered **88% from its 52-week high of \$142.92** to \$17.70 today. The stock is caught in a perfect storm: post-IPO lockup expirations, broad SaaS multiple compression, and investor anxiety about AI disruption — yet the underlying business is growing revenue at 40%+ with positive free cash flow and 136% net revenue retention.
 
 **Key Investment Metrics at a Glance:**
+
 - **RSI:** 47.55 (neutral, recovering from oversold ~32 on April 24)
 - **Analyst Consensus:** Hold / Moderate Buy (8 analysts)
 - **Average Price Target:** \$40.25 (representing ~127% upside)
@@ -79,6 +80,7 @@ Figma is the dominant collaborative design platform that went public in July 202
 Figma, Inc. develops and sells a **collaborative, browser-based platform** for designing, prototyping, building digital experiences, and subscriptions for access to its platform. The company has evolved from a simple design tool into an AI-powered platform that spans the entire product development lifecycle.
 
 **Revenue Streams:**
+
 - **Platform Subscriptions (~95% of revenue):** Tiered SaaS subscriptions for Figma Design, FigJam, Figma Slides, and newer products
 - **Professional Services (~5%):** Training, implementation, and consulting
 
@@ -104,6 +106,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 **Market Position:** Figma dominates the UI/UX design space with an estimated **80-90% market share** among professional designers, having systematically displaced Adobe XD, Sketch, and InVision over the past decade.
 
 **Competitive Advantages:**
+
 - **Browser-native architecture:** Zero installation, works on any OS — was revolutionary when launched and still differentiates from Adobe's desktop-heavy suite
 - **Real-time collaboration:** Google Docs-style multiplayer editing became the industry standard Figma set
 - **Developer handoff:** Dev Mode bridges design-to-code gap, reducing friction in product teams
@@ -111,6 +114,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 - **AI integration:** Partnership with Anthropic (Claude) positions Figma as the design layer for AI-generated code workflows
 
 **Competitive Threats:**
+
 - **Adobe Creative Cloud:** Still dominates high-end creative work; Adobe tried to acquire Figma for \$20B in 2022 (deal blocked by EU regulators in 2023)
 - **Canva:** Dominates consumer and SMB segments; increasingly encroaching on professional design
 - **AI-native startups:** Tools like v0 (Vercel), Anthropic's Claude Design, and others could disrupt from below
@@ -125,6 +129,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 **CTO:** Not publicly disclosed in detail
 
 **Key Executive Insights:**
+
 - Dylan Field has navigated Figma from startup to category leader to public company
 - Successfully fought off Adobe's \$20B acquisition attempt, maintaining independence
 - Aggressive product expansion strategy (Slides, Sites, Make, Weave) suggests ambitious TAM expansion
@@ -162,6 +167,7 @@ Figma, Inc. develops and sells a **collaborative, browser-based platform** for d
 | **FCF Margin** | -8.50% | 23.32% | +3,182 bps |
 
 **Key Observations:**
+
 - **Revenue growth remains stellar:** 40%+ YoY growth with \$1B+ scale is rare in SaaS
 - **Gross margin compression:** Declined from 91.2% (2023) to 82.4% (2025) — still excellent but trending down; likely due to AI compute costs and infrastructure scaling
 - **Operating losses widening:** -\$1.29B operating loss driven by aggressive R&D (\$1.03B) and SG&A (\$1.13B) investment

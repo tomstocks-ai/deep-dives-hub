@@ -49,10 +49,12 @@ hide:
 Centrus Energy Corp. (NYSE: LEU) is the only U.S.-owned uranium enrichment company. It supplies nuclear fuel components for commercial and government reactors worldwide.
 
 **Business Segments:**
+
 - **LEU Segment (~58% of revenue):** Sells separative work units (SWU), natural uranium hexafluoride, and enriched uranium products to nuclear utilities.
 - **Technical Solutions (~42% of revenue):** Provides engineering, manufacturing, and technical services to government and private-sector customers, including the U.S. Department of Energy (DOE).
 
 **Competitive Moat:**
+
 - Only U.S.-licensed HALEU (high-assay low-enriched uranium) production facility — a critical national security asset.
 - \$3.9B contracted backlog provides multi-year revenue visibility.
 - \$900M DOE investment to expand domestic enrichment capacity.
@@ -212,12 +214,14 @@ The stock trades at a discount to analyst targets but has high volatility (beta 
 **Stop Loss:** \$115 (below 52-week low support, -29% risk)
 
 **Key Levels:**
+
 - Entry: \$160 (current) or \$130–\$140 on pullback
 - Target (Base): \$220
 - Target (Bull): \$300
 - Stop: \$115
 
 **Catalyst Calendar:**
+
 - **Q2 2026 Earnings:** August 2026 (expected)
 - **DOE Funding Milestones:** Ongoing through 2026
 - **HALEU Production Updates:** Quarterly

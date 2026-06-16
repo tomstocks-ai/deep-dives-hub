@@ -43,6 +43,7 @@ hide:
 ### Industry Position and Competitive Moat
 
 **Competitive Advantages:**
+
 - {ADV1}
 - {ADV2}
 
@@ -51,6 +52,7 @@ hide:
 ### Management Team Track Record
 
 **Key Executives:**
+
 - **{CEO_NAME}:** {CEO_ROLE} (since {YEAR})
 - **{CFO_NAME}:** CFO
 

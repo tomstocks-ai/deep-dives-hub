@@ -78,6 +78,7 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 **First-Mover Advantage (Sort of):** ASTS is the first company to achieve commercial voice calls, video calls, and 5G data speeds via direct-to-cell satellite. While SpaceX's Starlink has more satellites in orbit (~650 with direct-to-cell capability), ASTS achieved higher bandwidth first.
 
 **The Moat (Competitive Protection):**
+
 - **Spectrum partnerships:** Exclusive access to cellular carriers' licensed spectrum (Verizon's 850 MHz, AT&T's bands)
 - **Patent portfolio:** Proprietary phased-array antenna technology enabling large satellite dishes that fold compactly for launch
 - **Carrier relationships:** 50+ telecom partners globally create switching costs—carriers won't easily abandon integrated partnerships
@@ -94,6 +95,7 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 | **Dr. Huiwen Yao** | CTO | PhD in Electrical Engineering; satellite communications expert |
 
 **Insider Ownership (Critical Signal):**
+
 - **Abel Avellan personally owns ~78.2 million shares** (~20.5% of the company)
 - Total insider ownership: ~40.6%
 - Institutional ownership: ~39.4%
@@ -146,6 +148,7 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 | **Shares Outstanding** | ~382 million | Increased significantly after recent capital raises |
 
 **Cash Runway Analysis (Critical):**
+
 - Current cash burn: ~\$1.24 billion annually (free cash flow)
 - Cash on hand: \$2.34 billion
 - **Theoretical runway: ~22-24 months**
@@ -165,11 +168,13 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 ### Financial Health Summary
 
 **Strengths:**
+
 - ✅ Recently raised \$3.9B—no immediate liquidity crisis
 - ✅ Achieved positive gross margins (50%)
 - ✅ Strong revenue growth trajectory
 
 **Weaknesses:**
+
 - ⚠️ Burning \$1.2B+ annually
 - ⚠️ Needs 15x revenue growth for profitability
 - ⚠️ High debt load with convertible features (dilution risk)
@@ -199,6 +204,7 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 ### Valuation Scenarios (5-Year DCF)
 
 Assumptions for 2031:
+
 - Discount rate: 12% (high risk)
 - Terminal growth: 3%
 - Shares outstanding: 450M (accounting for dilution)
@@ -286,6 +292,7 @@ Assumptions for 2031:
 | **Spectrum Interference** | Low | High | Regulatory disputes over frequency usage could limit service quality or coverage. |
 
 **SpaceX Competition Deep Dive:**
+
 - Starlink has ~9,500 satellites total; ~650 with direct-to-cell capability
 - SpaceX owns its own rockets → launch costs 70-80% lower than ASTS
 - Starlink + T-Mobile partnership already providing SMS service
@@ -303,6 +310,7 @@ Assumptions for 2031:
 
 **What the Funding Risk Means:**
 Even with \$3.9B raised in February 2026, ASTS will likely need another capital raise in late 2027 or 2028. This could mean:
+
 - Selling more shares (dilution)
 - Issuing more debt (higher interest costs)
 - Partnership investments (giving away equity to carriers)
@@ -321,16 +329,19 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 ### Risk Summary Matrix
 
 **Critical Risks (Could Destroy Investment):**
+
 - SpaceX successfully launches competing service with better pricing
 - Major launch failure destroying multiple satellites
 - Key carrier partner (AT&T or Verizon) terminates agreement
 
 **Significant Risks (Could Impair Investment):**
+
 - Revenue growth stalls below expectations
 - Capital markets freeze, forcing dilutive financing
 - Technical limitations emerge at scale
 
 **Manageable Risks:**
+
 - Macroeconomic downturn
 - Regulatory delays
 - Competition from Lynk Global or other startups
@@ -439,6 +450,7 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 ### Bull Case: The Satellite Revolution
 
 **What needs to go right:**
+
 1. ASTS successfully launches 45-60 satellites by end of 2026, achieving continuous U.S. coverage
 2. AT&T and Verizon launch commercial service in H2 2026; subscriber adoption exceeds 5% of rural customers
 3. International partnerships (Vodafone, Rakuten, stc) begin generating material revenue by 2027
@@ -454,6 +466,7 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 ### Bear Case: The SpaceX Steamroller
 
 **What could go wrong:**
+
 1. SpaceX's Starlink service with T-Mobile proves "good enough" for most users, capturing 70%+ market share
 2. AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions
 3. Satellite launches face delays or technical issues; constellation incomplete by 2027
@@ -468,6 +481,7 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 ### Base Case: The Long Road to Profitability
 
 **Most likely scenario:**
+
 1. ASTS successfully deploys 45-60 satellites and achieves continuous coverage by late 2026
 2. Commercial service launches with mixed adoption—grows steadily but not explosively
 3. SpaceX competition is real but ASTS maintains 30-40% market share through carrier partnerships
@@ -499,6 +513,7 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 **Rationale:**
 AST SpaceMobile represents a compelling speculative opportunity for investors with:
+
 - High risk tolerance (can stomach 50%+ drawdowns)
 - Long-term horizon (3-5 years minimum)
 - Belief in satellite-to-cell technology disruption
@@ -520,6 +535,7 @@ The technology works, partnerships are real, and revenue is growing. However, va
 ### Entry Strategy: **SCALE IN ON WEAKNESS**
 
 **Recommended Approach:**
+
 1. **Initial Position (25% of target):** Enter at current levels (\$80-85) if you have conviction
 2. **Add on Dips (50% of target):** Scale in at \$70-75 if market provides opportunity
 3. **Aggressive Add (25% of target):** Full position at \$60-65 if major correction occurs
@@ -606,6 +622,7 @@ AST SpaceMobile is a fascinating company at a critical inflection point. The tec
 But the risks are equally real. SpaceX is a formidable competitor with deeper pockets and lower costs. The valuation assumes flawless execution for years to come. And the company will need billions more in capital before achieving profitability.
 
 **For investors who:**
+
 - Believe satellite-to-cell is a transformative technology
 - Can tolerate 50%+ volatility and potential drawdowns
 - Have a 3-5 year investment horizon
@@ -637,6 +654,7 @@ But the risks are equally real. SpaceX is a formidable competitor with deeper po
 | Employees | 1,126 |
 
 ### Important Links
+
 - Investor Relations: https://investors.ast-science.com
 - Corporate Website: https://ast-science.com
 - SEC Filings: Search "ASTS" at sec.gov

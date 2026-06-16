@@ -72,6 +72,7 @@ Everpure's core value proposition is replacing legacy mechanical disk storage wi
 ### Industry Position and Competitive Moat
 
 **Competitive Advantages:**
+
 - **Technology leadership:** Proprietary DirectFlash modules and Purity OS software stack deliver consistent sub-millisecond latency at scale
 - **Evergreen//One model:** Subscription approach eliminates forklift upgrades, driving 90%+ gross retention rates
 - **Energy efficiency:** All-flash solutions consume up to 10x less power and rack space than legacy disk arrays — a growing enterprise priority
@@ -83,6 +84,7 @@ Everpure's core value proposition is replacing legacy mechanical disk storage wi
 ### Management Team Track Record
 
 **Key Executives:**
+
 - **Charles Giancarlo:** CEO (since 2017). Formerly CTO at Cisco and managing director at Silver Lake. Led Pure Storage through IPO, profitability inflection, and the Everpure rebrand.
 - **Kevan Krysler:** CFO (since 2020). Previously at Autodesk; instrumental in driving operating leverage and FCF inflection.
 - **Ajay Singh:** Chief Product Officer. Drives product roadmap for FlashArray, FlashBlade, and Portworx container storage.
@@ -107,6 +109,7 @@ Everpure's core value proposition is replacing legacy mechanical disk storage wi
 | **Adjusted Operating Margin** | 12.3% | 17.8% | +550 bps |
 
 **Key Observations:**
+
 - Revenue growth of 15.6% with expanding gross margins demonstrates operating leverage
 - FY2026 marks the first year of GAAP profitability — a significant inflection
 - Gross margin of 70.4% is best-in-class for hardware-centric storage vendors
@@ -138,11 +141,13 @@ Everpure's core value proposition is replacing legacy mechanical disk storage wi
 **Balance Sheet Health Assessment:**
 
 ✅ **Strengths:**
+
 - Substantial cash position (\$2.39B) provides strategic flexibility
 - Minimal net debt despite convertible note overhang
 - Positive and growing book value
 
 ⚠️ **Concerns:**
+
 - Stock-based compensation (SBC) of \$481.7M in FY2026 is ~13% of revenue — significant dilution
 - Convertible notes create potential future dilution if converted
 
@@ -156,6 +161,7 @@ Everpure's core value proposition is replacing legacy mechanical disk storage wi
 | **Stock-Based Compensation** | \$445.2M | \$481.7M | High but typical for Silicon Valley tech companies |
 
 **Cash Flow Insights:**
+
 - Operating cash flow of \$880M exceeds net income by 4.7x, demonstrating high-quality earnings
 - FCF margin approaching 19% is best-in-class for enterprise hardware
 - SBC is the primary concern — \$481.7M represents meaningful shareholder dilution
@@ -181,6 +187,7 @@ Everpure trades at a premium to legacy storage peers (Dell, NetApp, HPE) but at 
 ### Scenario-Based Valuation (DCF)
 
 **Key Assumptions:**
+
 - Current revenue: \$3.66B
 - Discount rate (WACC): 11.5%
 - Terminal growth: 3.5%
@@ -194,6 +201,7 @@ Everpure trades at a premium to legacy storage peers (Dell, NetApp, HPE) but at 
 
 **Implied Growth at Current Price (\$83.33):**
 At current levels, the market is pricing in:
+
 - ~16-17% revenue growth
 - ~19% long-term operating margins
 - Successful execution of Evergreen//One transition
@@ -336,6 +344,7 @@ Everpure is a high-quality business executing well on a multi-year transition to
 - Would signal trend reversal or fundamental deterioration
 
 **Take Profit Levels:**
+
 - **Trim 25%:** \$95.00 (+14%, near 52-week high)
 - **Trim 25%:** \$105.00 (+26%, bull case target)
 - **Trim remaining:** \$115.00 (+38%, full bull case)

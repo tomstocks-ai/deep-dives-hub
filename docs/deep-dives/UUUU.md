@@ -90,6 +90,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 - Strategic location with existing permits and infrastructure
 
 **Uranium Mining Portfolio:**
+
 | Project | Location | Status | Potential Production |
 |---------|----------|--------|---------------------|
 | Pinyon Plain | Arizona | Active mining | 208K lbs U3O8 (2024) |
@@ -100,6 +101,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Sheep Mountain | Wyoming | Development | Up to 5M lbs/year potential |
 
 **HMS & REE Acquisitions (2024):**
+
 - **Base Resources Acquisition** (October 2024): Added Toliara HMS project in Madagascar
 - **Donald Project JV** (Australia): Joint venture with Astron Corporation (up to 49% interest)
 - **Bahia Project** (Brazil): Wholly owned, drilling ongoing
@@ -118,6 +120,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 
 - **#1 U.S. uranium producer** (by volume) in recent years
 - Only U.S. company with **commercial rare earth separation capability**
+
 - Vertically integrated from mining through processing
 - Positioned to benefit from U.S. government push for **domestic critical mineral supply chains**
 
@@ -139,6 +142,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Loss Per Share | (\$0.28) | \$0.63 gain | - |
 
 **Key Observations:**
+
 - Revenue doubled primarily due to Base Resources acquisition (HMS segment)
 - Gross margin compressed due to lower-margin HMS business mix and integration costs
 - Net loss includes \$10.34M in one-time transaction/integration costs
@@ -155,9 +159,11 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Uranium Gross Margin | 56% |
 
 **Inventory Position (Dec 31, 2024):**
+
 - Finished U3O8: 393,000 lbs
 | Uranium in ore/work-in-progress: 725,000 lbs
 - **Total uranium inventory: 1,118,000 lbs**
+
 - Market value of inventory: ~\$45.6M (at Feb 2025 prices)
 
 ### Balance Sheet (December 31, 2024)
@@ -177,6 +183,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | **Total Debt** | **\$0** | \$0 | — |
 
 **Balance Sheet Strengths:**
+
 - **Zero debt** - exceptionally clean capital structure
 - \$170.9M working capital provides substantial liquidity
 - \$60M additional capital raised in early 2025 via ATM facility
@@ -227,6 +234,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Asset-Based Valuation
 
 **Uranium Inventory Valuation:**
+
 | Inventory Component | Quantity | Spot Price | Value |
 |--------------------|----------|------------|-------|
 | Finished U3O8 | 393,000 lbs | \$65.25/lb | \$25.6M |
@@ -236,6 +244,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 **Vanadium Inventory:** 905,000 lbs V2O5 @ \$5.35/lb = ~\$4.8M
 
 **Strategic Asset Value:**
+
 | Asset | Estimated Value | Rationale |
 |-------|-----------------|-----------|
 | White Mesa Mill | \$200M - \$400M | Only licensed conventional mill in U.S. - irreplaceable |
@@ -247,6 +256,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### DCF Scenario Analysis
 
 **Key Assumptions:**
+
 - Uranium long-term price: \$80/lb
 - Production ramp to 2M lbs/year by 2026, 5M lbs by 2028
 - REE commercial production: 6,000 tpa NdPr by 2027
@@ -282,6 +292,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | High Estimate | \$34.00 | — |
 
 **Current Price vs. Targets:**
+
 - Average target implies **23-50% upside** from current \$17.75
 - Consensus strongly bullish (80% Strong Buy, 20% Hold)
 
@@ -335,6 +346,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Regulatory Tailwinds
 
 **U.S. Policy Support:**
+
 - **Nuclear Renaissance:** Bipartisan support for nuclear energy
 - **Critical Minerals List:** Uranium and REE designated critical
 - **Inflation Reduction Act:** Tax credits for clean energy supply chains
@@ -342,6 +354,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 - **Strategic Petroleum Reserve model** proposed for uranium
 
 **Global Context:**
+
 - COP28 pledge to triple nuclear capacity by 2050
 - 60+ reactors under construction globally
 - SMR (Small Modular Reactor) development accelerating
@@ -414,6 +427,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 **Consensus:** Strong Buy
 
 **Recent Analyst Actions:**
+
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
 | Feb 27, 2026 | HC Wainwright | Maintains Buy | Raised to \$27.25 |
@@ -428,6 +442,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Retail/Other | 40-50% |
 
 **Institutional Activity:**
+
 - Net positive flows in 2024-2025
 - ETF inclusion (uranium/nuclear ETFs)
 - ESG funds increasingly interested in nuclear
@@ -450,6 +465,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Seeking Alpha | Mixed to positive |
 
 **Social Sentiment Drivers:**
+
 - Nuclear energy enthusiasm ("nuclear renaissance")
 - Critical minerals supply chain concerns
 - "Made in USA" manufacturing sentiment
@@ -468,33 +484,39 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Recent Developments
 
 **April 2025:**
+
 - Uranium spot price declined to ~\$64/lb (18-month low)
 - Market uncertainty around Trump administration policies
 - UUUU stock pulled back ~36% from highs
 
 **March 2025:**
+
 - Uranium spot touched ~\$63.50 (March low)
 - Long-term uranium price stable at ~\$80/lb
 - Microsoft reportedly canceled 200MW data center leases (nuclear demand question)
 
 **February 2025:**
+
 - Energy Fuels reported Q4 2024 results
 - Ore transport from Pinyon Plain resumed (Navajo Nation agreement)
 - HC Wainwright raised price target to \$27.25
 
 **January 2025:**
+
 - Navajo Nation transport agreement signed
 - \$60M raised through ATM facility
 
 ### Sector News
 
 **Bullish Factors:**
+
 - COP28 commitment to triple nuclear capacity by 2050
 - 60+ reactors under construction globally
 - SMR (Small Modular Reactor) regulatory progress
 - Data center power demand expectations (despite some questions)
 
 **Bearish Factors:**
+
 - Trump administration policy uncertainty
 - Potential Russia sanctions relief (increased supply)
 - More efficient AI models reducing power demand estimates
@@ -526,6 +548,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Bull Case (\$35-50 Target)
 
 **Assumptions:**
+
 - Uranium spot price recovers to \$100+/lb
 - Toliara FID approved and project developed on schedule
 - REE commercial offtake agreements signed
@@ -539,6 +562,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Base Case (\$22-28 Target)
 
 **Assumptions:**
+
 - Uranium prices stabilize at \$80/lb long-term
 - Toliara and Donald projects advance per plan
 - REE business reaches commercial scale
@@ -552,6 +576,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 ### Bear Case (\$8-12 Target)
 
 **Assumptions:**
+
 - Uranium prices decline to \$60/lb or below
 - Toliara faces political/development delays
 - REE commercialization slower than expected
@@ -609,6 +634,7 @@ Energy Fuels Inc. is a leading **U.S.-based critical minerals company** that has
 | Above \$22.00 | Reduce new position size; consider trailing stop |
 
 **Recommended Approach:**
+
 - Scale in over 2-4 tranches
 - Use volatility to average down
 - Maintain dry powder for major pullbacks

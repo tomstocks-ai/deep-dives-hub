@@ -255,6 +255,7 @@ When generating Markdown content, escape these characters to avoid rendering iss
 | `<` or `>` in text | `\<` / `\>` | Parsed as HTML tags |
 
 **Dollar sign rule:** Every price, market cap, revenue figure, or any numeric value prefixed with `$` MUST be written as `\$XX.XX` in all Markdown artifacts (deep dive, sector pages, index table, gists). This includes:
+
 - Price targets: `\$14.00` (not `$14.00`)
 - Market caps: `\$277M` (not `$277M`)
 - Revenue ranges: `\$60–70M` (not `$60–70M`)

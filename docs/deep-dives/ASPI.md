@@ -53,6 +53,7 @@ hide:
 ASP Isotopes Inc. is an advanced materials company developing technology and processes to produce and commercialize enriched isotopes for nuclear medicine, green energy, quantum computing, and semiconductor markets. The company is based in Dallas, Texas, and was incorporated in 2021.
 
 **Business Model & Revenue Segments:**
+
 - **Nuclear Medicine:** Enriched isotopes for radiopharmacy and therapeutics (Zinc-68, Nickel-64, Xenon-129/136, Ytterbium-176, Carbon-14)
 - **Green Energy:** Lithium-7 for nuclear reactors, Uranium-235 (HALEU) for advanced reactors, Chlorine-37
 - **Quantum Computing:** Silicon-28 and Germanium-70/72/74 for quantum processors
@@ -60,12 +61,14 @@ ASP Isotopes Inc. is an advanced materials company developing technology and pro
 - **Helium & LNG:** Acquired Renergen Limited (Jan 2026) — South Africa's leading onshore natural gas explorer and integrated producer of liquid helium and LNG
 
 **Competitive Moat:**
+
 - Proprietary quantum enrichment technology (QLE) for isotope separation
 - Vertically integrated from enrichment to end-market products
 - Renergen acquisition provides critical helium/LNG assets with Phase 1 targeted for completion in 2026
 - Planned spin-off of Quantum Leap Energy (QLE) subsidiary focused on HALEU and lithium isotopes
 
 **Management:**
+
 - CEO Paul Mann has outlined a 2026 commercial ramp including Silicon-28 shipments and QLE spin-off plans
 - Management targets combined group EBITDA of \$300M+ by 2030 driven by isotopes, helium, and LNG sales
 
@@ -75,6 +78,7 @@ ASP Isotopes Inc. is an advanced materials company developing technology and pro
 
 ### Income Statement
 - **Q1 2026 Revenue:** \$4.18M (vs. \$1.10M YoY) — **+280% YoY growth**
+
 - **Q1 2026 Net Loss:** \$6.88M (narrowed from prior periods)
 - **Q1 2026 Operating Loss:** \$24.9M
 - Revenue driven by LNG and radiopharmacy dose sales plus nuclear medicine products
@@ -202,12 +206,14 @@ Valuation is highly speculative given pre-profitability status and multiple bina
 **Stop Loss:** \$4.50 (below 52-week low support and key technical level)
 
 **Key Levels:**
+
 - Entry: \$6.00–\$6.50
 - Target (Base): \$8.00–\$10.00
 - Target (Bull): \$12.00–\$14.00
 - Stop: \$4.50
 
 **Catalyst Calendar:**
+
 | Date | Event |
 |------|-------|
 | H1 2026 | QLE spin-off completion |

@@ -175,10 +175,12 @@ Credo is a pure-play on AI infrastructure connectivity with extraordinary growth
 **Stop Loss:** \$165 (below 50-day EMA support, ~35% downside from current). Tight stop reflects high beta and concentration risk.
 
 **Key Levels:**
+
 - Support: \$220 (psychological), \$190 (200-day EMA)
 - Resistance: \$270 (52-week high), \$300 (bull case breakout)
 
 **Catalyst Calendar:**
+
 - **Q4 FY2026 Earnings:** ~September 2026 — guidance for FY2027 will be critical
 - **1.6T Product Announcements:** Any hyperscaler design win announcements
 - **Customer Concentration Updates:** 10-K filing showing customer revenue breakdown

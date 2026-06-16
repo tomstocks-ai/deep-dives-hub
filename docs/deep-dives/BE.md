@@ -48,6 +48,7 @@ Bloom Energy Corporation (NYSE: BE) designs, manufactures, and sells solid-oxide
 **Business Model:** Bloom operates a hardware-plus-service model. Customers purchase or lease Energy Servers, and Bloom signs long-term service agreements (typically 10–20 years) for maintenance, fuel procurement, and performance guarantees. This creates a recurring revenue stream alongside upfront product sales.
 
 **Revenue Segments:**
+
 - **Product Revenue:** Sale and installation of Energy Servers (~87% of Q1 2026 revenue)
 - **Service Revenue:** Long-term service agreements, maintenance, and fuel logistics (~13% of Q1 2026 revenue)
 
@@ -62,6 +63,7 @@ Bloom Energy Corporation (NYSE: BE) designs, manufactures, and sells solid-oxide
 ## 2. Financial Analysis
 
 **Income Statement (Q1 2026):**
+
 - Revenue: \$751.1M (+130% YoY)
 - Product Revenue: \$653.3M (+208% YoY)
 - Service Revenue: \$97.8M
@@ -71,23 +73,27 @@ Bloom Energy Corporation (NYSE: BE) designs, manufactures, and sells solid-oxide
 - Non-GAAP EPS: \$0.44 (vs. \$0.13 estimate)
 
 **Balance Sheet (Q1 2026):**
+
 - Total Cash: \$2.52 billion
 - Total Backlog: ~\$20 billion (\$6B product orders + \$14B service contracts)
 - Debt: Not specified in Q1 release; historical debt load manageable given cash position
 - Cash runway: Extensive — \$2.5B+ cash provides multi-year funding
 
 **Cash Flow:**
+
 - Company is generating positive operating cash flow at scale
 - Adjusted EBITDA of \$143M in Q1 alone implies annualized run-rate exceeding \$500M
 - Free cash flow inflection expected as revenue scales and margins expand
 
 **Guidance (FY2026, raised):**
+
 - Revenue: \$3.4B–\$3.8B (was \$3.1B–\$3.3B)
 - Non-GAAP Operating Income: \$600M–\$750M
 - Gross Margin: ~34%
 - Revenue growth: ~80% YoY at midpoint
 
 **Key Financial Metrics:**
+
 - Market Cap: ~\$41.1B (at \$274.50/share)
 - Shares Outstanding: ~149.6M
 - 52-Week Range: \$20.93 – \$322.83
@@ -109,6 +115,7 @@ Bloom Energy trades at a premium reflecting its hypergrowth trajectory and massi
 | **Bear** | \$3.2B | 30% | 7x | \$180–\$220 |
 
 **Analyst Consensus:**
+
 - 20+ analysts covering; Buy consensus
 - Price targets range from \$55 to \$335
 - Mean/median targets cluster around \$200–\$280
@@ -119,12 +126,14 @@ Bloom Energy trades at a premium reflecting its hypergrowth trajectory and massi
 - TickerNerd: \$283 median (\$55–\$335 range)
 
 **Valuation Methodology:**
+
 - **P/S Ratio:** ~11.4x on FY2026 revenue midpoint — high but justified by 80% growth
 - **P/E (Forward):** Difficult to compute precisely; company is transitioning to GAAP profitability
 - **EV/EBITDA:** ~28–30x on FY2026E adjusted EBITDA — premium but not unprecedented for hypergrowth hardware
 - **Backlog Value:** \$20B backlog at ~4x current market cap suggests significant embedded value if execution continues
 
 **Price Targets:**
+
 - **Bull:** \$350–\$400 (guidance beat, margin expansion, new mega-deals)
 - **Base:** \$280–\$320 (guidance met, steady execution, backlog converts)
 - **Bear:** \$180–\$220 (guidance miss, margin compression, execution delays)
@@ -150,17 +159,20 @@ Bloom Energy trades at a premium reflecting its hypergrowth trajectory and massi
 ## 5. Risk Factors
 
 **Business Risks:**
+
 - **Customer Concentration:** Large deals (Oracle, Brookfield) represent significant revenue concentration. Loss or delay of a major contract would materially impact guidance.
 - **Execution Risk:** Scaling manufacturing to meet \$3.8B revenue guidance requires flawless supply chain and production ramp. Any bottleneck hits revenue and margins.
 - **Technology Risk:** SOFC is a proven technology, but PEM fuel cells and battery storage are competing solutions. If batteries or PEM achieve cost parity for baseload applications, Bloom's advantage erodes.
 - **Fuel Price Exposure:** Natural gas price volatility affects customer economics and service contract profitability.
 
 **Financial Risks:**
+
 - **Valuation Risk:** Trading at ~11x forward sales with a ~\$41B market cap. Any growth deceleration or margin miss will trigger severe multiple compression.
 - **Cash Burn:** While \$2.5B cash is substantial, rapid scaling may require additional capex. Monitor cash flow trends closely.
 - **Debt:** Historical debt levels have been manageable, but any new borrowing for capacity expansion adds leverage.
 
 **Macro Risks:**
+
 - **Interest Rates:** High-growth, cash-burning (historically) stocks are sensitive to rate environments. Rising rates compress growth multiples.
 - **Regulatory:** Changes to clean energy subsidies or data center permitting could slow demand.
 - **Competition:** General Electric, Siemens, and emerging fuel cell startups are all targeting the data center power market.
@@ -176,6 +188,7 @@ Bloom Energy is a hypergrowth story with a \$20B backlog and clear demand tailwi
 **Position Sizing:** 2–3% of portfolio max. This is a high-conviction but high-volatility name. The \$41B market cap prices in significant execution perfection.
 
 **Entry Strategy:**
+
 - **Immediate:** At \$274.50, RSI is neutral (52.3) — not overbought. 50-day MA at \$251.78 provides near-term support.
 - **Better Entry:** Wait for pullback to \$240–\$260 range (closer to 50-day MA) for lower risk/reward.
 - **Aggressive:** DCA on weakness below \$250 if thesis remains intact.
@@ -183,6 +196,7 @@ Bloom Energy is a hypergrowth story with a \$20B backlog and clear demand tailwi
 **Stop Loss:** \$200 (below 200-day MA and key psychological support). A break below \$200 suggests fundamental deterioration or severe multiple compression.
 
 **Catalyst Calendar:**
+
 - **Q2 2026 Earnings (July/August 2026):** Key test of guidance trajectory and margin sustainability
 - **Oracle/ Brookfield Contract Updates:** Any expansion or new mega-deals would re-rate the stock
 - **FY2027 Guidance (Q4 2026):** Will reveal if 80% growth is sustainable or decelerating

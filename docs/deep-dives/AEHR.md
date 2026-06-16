@@ -59,6 +59,7 @@ hide:
 Aehr Test Systems is a **worldwide supplier of semiconductor test and burn-in solutions** headquartered in Fremont, California. The company provides equipment that tests semiconductors at the wafer level, singulated die level, and packaged part form.
 
 **Core Products:**
+
 - **FOX-XP & FOX-NP Systems:** Full wafer contact and singulated die/module test and burn-in systems for testing silicon carbide (SiC) power semiconductors, 2D/3D sensors, memory semiconductors, processors, microcontrollers, and photonics devices
 - **FOX-CP System:** Low-cost single-wafer compact test solution for logic, memory, and photonic devices
 - **FOX WaferPak Contactor:** Full wafer contactor capable of testing wafers up to 300mm
@@ -67,6 +68,7 @@ Aehr Test Systems is a **worldwide supplier of semiconductor test and burn-in so
 
 ### Revenue Segments
 Aehr generates revenue through:
+
 1. **System Sales:** FOX family of test and burn-in systems
 2. **Consumables:** WaferPak Contactors and DiePak Carriers (recurring revenue component)
 3. **Services:** Installation, training, and support
@@ -125,11 +127,13 @@ Founded in 1977 by Rhea J. Posedel. IPO on August 15, 1997. The company has evol
 
 ### Financial Health Summary
 ✅ **Strengths:**
+
 - Strong balance sheet with minimal debt
 - Healthy liquidity ratios
 - Improving cash position quarter-over-quarter
 
 ⚠️ **Concerns:**
+
 - Currently unprofitable (investment phase)
 - Revenue decline year-over-year (transitional period)
 - Negative free cash flow
@@ -150,6 +154,7 @@ Founded in 1977 by Rhea J. Posedel. IPO on August 15, 1997. The company has evol
 
 ### Valuation Commentary
 AEHR trades at **premium valuation multiples** reflecting:
+
 1. High growth expectations from AI/data center opportunities
 2. Turnaround potential from FY2026 lows
 3. Market leadership in wafer-level burn-in technology
@@ -158,6 +163,7 @@ AEHR trades at **premium valuation multiples** reflecting:
 ### DCF Scenarios (Illustrative)
 
 **Assumptions:**
+
 - Current revenue: \$53M (TTM)
 - FY2027 target revenue: \$100M+ (based on \$60-80M H2 bookings guidance)
 - Terminal growth: 3-5%
@@ -171,6 +177,7 @@ AEHR trades at **premium valuation multiples** reflecting:
 
 ### Sensitivity Analysis
 Key valuation drivers:
+
 - **AI adoption speed:** Faster deployment of AEHR's solutions for AI processors significantly impacts upside
 - **Customer concentration:** Major hyperscaler wins de-risk the story
 - **Margin expansion:** Operating leverage as revenue scales is critical for profitability
@@ -183,22 +190,22 @@ Key valuation drivers:
 Aehr is expanding beyond its traditional SiC automotive market into:
 
 1. **AI Processors & Data Centers:**
-   - \$14M order from lead AI processor customer (Feb 2026)
-   - Sonoma PPBI systems for AI accelerators and GPUs
-   - Benchmark evaluations with multiple AI companies
-   - Partnership with ISE Labs for HPC/AI applications
+    - \$14M order from lead AI processor customer (Feb 2026)
+    - Sonoma PPBI systems for AI accelerators and GPUs
+    - Benchmark evaluations with multiple AI companies
+    - Partnership with ISE Labs for HPC/AI applications
 
 2. **Silicon Photonics:**
-   - Major new customer win for hyperscale data center optical interconnects (March 2026)
-   - Production ramp expected early FY2027
-   - Tied to AI processor suppliers' optical I/O roadmaps
+    - Major new customer win for hyperscale data center optical interconnects (March 2026)
+    - Production ramp expected early FY2027
+    - Tied to AI processor suppliers' optical I/O roadmaps
 
 3. **Flash Memory:**
-   - Completed WLBI benchmark with global flash memory leader
-   - Proposed solution for High Bandwidth Flash (HBF) – emerging industry standard
+    - Completed WLBI benchmark with global flash memory leader
+    - Proposed solution for High Bandwidth Flash (HBF) – emerging industry standard
 
 4. **Gallium Nitride (GaN) Power Semiconductors:**
-   - Expanding addressable market in power electronics
+    - Expanding addressable market in power electronics
 
 ### Pipeline & Partnerships
 - **Strategic Partnership with ISE Labs:** Wafer-level test and burn-in services for HPC/AI
@@ -256,6 +263,7 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 | **Consensus** | Hold/Neutral | \$36.33 avg | - |
 
 **Rating Distribution:**
+
 - Strong Buy: 0
 - Buy: 2
 - Hold: 2
@@ -272,6 +280,7 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 **Interpretation:** High short interest creates potential for short squeeze rallies on positive news. Bears are betting against the turnaround story.
 
 ### Institutional Ownership
+
 | Holder Type | Ownership |
 |-------------|-----------|
 | **Institutions** | 65.8% |
@@ -280,6 +289,7 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 | **General Public** | 23.0% |
 
 **Top Institutional Holders:**
+
 1. FMR LLC (Fidelity): 8.19% (~\$111M)
 2. Vanguard Group: 7.63% (~\$104M)
 3. BlackRock: 6.95% (~\$94M)
@@ -287,12 +297,14 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 5. Baillie Gifford: 4.21% (~\$57M)
 
 **Institutional Activity:**
+
 - Wellington Management: +130% increase in position
 - William Blair: New \$27M stake (Q3 2025)
 - Two Sigma: +238% increase
 
 ### Insider Activity
 **Recent Insider Sales (last 3 months):**
+
 | Insider | Role | Date | Shares | Price | Value |
 |---------|------|------|--------|-------|-------|
 | Rhea Posedel | Director | Feb 2026 | 13,998 | \$30.02 | \$420,151 |
@@ -303,6 +315,7 @@ Aehr is expanding beyond its traditional SiC automotive market into:
 
 ### Social Media Sentiment
 Based on recent news flow:
+
 - **Twitter/X:** Generally positive on AI/data center pivot
 - **Reddit:** Mixed - bulls cite AI opportunity, bears cite valuation and profitability
 - **StockTwits:** High interest, trending ticker
@@ -314,24 +327,30 @@ Based on recent news flow:
 ### Recent Developments (March-April 2026)
 
 **March 31, 2026:**
+
 - **Major Silicon Photonics Win:** New customer for hyperscale data center optical interconnect market using FOX-XP system
 - Stock surged 17% on the news
 
 **March 30, 2026:**
+
 - Q3 FY2026 earnings announcement scheduled for April 7, 2026 (AMC)
 
 **March 3, 2026:**
+
 - Follow-on order for fully automated wafer-level burn-in systems for AI Optical I/O
 
 **February 26, 2026:**
+
 - **\$14 Million Order:** From lead AI processor customer for multiple FOX-XP systems
 - Stock gained ~25% on announcement
 
 **February 11, 2026:**
+
 - Initial production win for Sonoma systems with hyperscale customer for next-gen AI ASIC processors
 - Stock climbed 33%
 
 **January 8, 2026:**
+
 - Q2 FY2026 earnings: Revenue \$9.9M (miss), but reinstated guidance
 - H2 FY2026 guidance: \$25-30M revenue, \$60-80M bookings
 - Sonoma orders exceeding \$5.5M in Q3 (already exceeding Q2 total)
@@ -356,12 +375,14 @@ Based on recent news flow:
 **Probability:** 30%
 
 **Key Assumptions:**
+
 - AI processor testing becomes major revenue driver (\$50M+ annually)
 - Silicon photonics orders materialize in FY2027 as forecasted
 - Return to profitability in FY2027 with expanding margins
 - Short squeeze amplifies upside from current elevated short interest
 
 **Catalysts:**
+
 - Q3 earnings beat and raised guidance (April 7)
 - Additional major AI customer announcements
 - FY2027 guidance indicating \$100M+ revenue
@@ -370,12 +391,14 @@ Based on recent news flow:
 **Probability:** 50%
 
 **Key Assumptions:**
+
 - Turnaround takes longer than expected but progress continues
 - AI revenue grows but doesn't fully offset EV/SiC softness until late FY2027
 - Company achieves break-even profitability by end of FY2027
 - Multiple compression as company matures
 
 **Path:**
+
 - Current valuation already prices in significant improvement
 - Stock trades sideways to slightly higher as execution proves out story
 - Range-bound between \$35-55 through 2026
@@ -384,12 +407,14 @@ Based on recent news flow:
 **Probability:** 20%
 
 **Key Assumptions:**
+
 - AI opportunity proves smaller or more competitive than expected
 - Customer delays push out production ramps
 - Semiconductor capex cycle downturn impacts demand
 - Company burns cash and needs to raise capital
 
 **Risks:**
+
 - High valuation vulnerable to any execution miss
 - Heavy insider selling continues
 - Short sellers proved right on profitability challenges

@@ -88,6 +88,7 @@ hide:
 - **Significance:** Will be larger than ALL current U.S. silicon cell capacity combined
 
 **Revenue Model:**
+
 - Module sales to utility-scale solar developers
 - Section 45X advanced manufacturing tax credits (\$93M accrued)
 - Potential cell sales to other module manufacturers
@@ -101,6 +102,7 @@ hide:
 | Q3 2025 | \$210.5M | -\$14.6M | -\$0.87 |
 
 **Trend Analysis:**
+
 - Revenue highly variable due to contract timing
 - Q3 saw significant impairment (\$53.2M non-cash) related to offtake customer dispute
 - Operating leverage improving but still burning cash
@@ -109,17 +111,20 @@ hide:
 ### Balance Sheet Health Assessment ⚠️
 
 **Cash Position (Sept 30, 2025):**
+
 - Unrestricted Cash: \$34.1M
 - Restricted Cash: \$52.6M
 - **Total:** \$86.7M
 
 **Debt:**
+
 - Total Debt: ~\$702M
 - Long-term Debt: \$152.9M
 - Related Party Debt: \$348.3M
 - Current Portion: \$120.1M
 
 **Key Ratios:**
+
 | Metric | Value | Assessment |
 |--------|-------|------------|
 | Debt/Equity | 2.69 (269%) | ⚠️ HIGH RISK |
@@ -130,6 +135,7 @@ hide:
 **Balance Sheet Verdict:** This is the **biggest risk** for T1 Energy. The 351% debt/equity ratio mentioned in the brief is concerning. While the company raised \$122M in October 2025 through equity and convertible preferred offerings, liquidity remains tight. The \$400-425M G2_Austin capex requirement will require additional financing.
 
 **Mitigating Factors:**
+
 - \$93.1M in accrued 45X credits expected to monetize
 - Potential European asset sales (discontinued operations)
 - Customer offtake deposits expected for G2
@@ -137,6 +143,7 @@ hide:
 ### Competitive Positioning
 
 **T1 vs. First Solar (FSLR):**
+
 | Factor | T1 Energy | First Solar |
 |--------|-----------|-------------|
 | Technology | Silicon (TOPCon) | Thin-film (CdTe) |
@@ -147,16 +154,19 @@ hide:
 | Risk Level | High | Moderate |
 
 **T1 vs. Enphase (ENPH):**
+
 - Enphase focuses on microinverters/residential
 - T1 focuses on modules/utility-scale
 - Different market segments, limited direct competition
 
 **Competitive Advantage:**
+
 - **Only fully-integrated U.S. silicon solar supply chain** (polysilicon → wafers → cells → modules)
 - **Domestic content premium:** Developers pay more for U.S.-made to qualify for IRA bonuses
 - **Policy alignment:** Trump administration's energy dominance agenda favors domestic manufacturing
 
 **Competitive Risks:**
+
 - First Solar's established scale and profitability
 - Chinese manufacturers with lower costs
 - Policy changes affecting IRA incentives
@@ -190,11 +200,13 @@ hide:
 ### Policy Updates
 
 **One Big Beautiful Bill Act (OBBBA) - July 4, 2025**
+
 - Added FEOC restrictions to Section 45X, 45Y, and 48E credits
 - T1's U.S. supply chain positions it favorably
 - Treasury guidance (Feb 2026) confirmed eligibility
 
 **Section 232 Investigation**
+
 - Commerce Department investigating foreign-sourced polysilicon
 - T1's U.S. polysilicon contract with Hemlock would benefit from tariffs
 - Potential positive catalyst
@@ -202,11 +214,13 @@ hide:
 ### Project Updates
 
 **G1_Dallas:**
+
 - Operating at 5GW capacity
 - Transitioning to Nextpower U.S.-made steel frames in 2026
 - Q4 2025 expected to be strongest production quarter
 
 **G2_Austin:**
+
 - Construction underway
 - 60% engineering completion achieved
 - Phase 1: 2.1GW by Q4 2026
@@ -226,22 +240,26 @@ hide:
 ### Reddit Sentiment Analysis
 
 **r/T1Energy (Official Subreddit):**
+
 - Small but active community
 - Recent post: "I believe in T1 Energy in 2026" - holding conviction
 - Entry points discussed: \$7.00-\$7.50 range
 
 **r/wallstreetbets:**
+
 - Mixed sentiment
 - One YOLO post from Nov 2025 (\$50K position)
 - Some meme-stock treatment but underlying DD discussion
 
 **r/energy:**
+
 - More serious discussion
 - Post: "T1 Energy projects \$650-700M annual run-rate EBITDA for 2027"
 - Strong support for domestic manufacturing thesis
 - Cautious optimism about policy environment
 
 **r/stocks:**
+
 - Discussion of T1 as "2026 winner" candidate
 - AI/data center power demand narrative
 - Trump-friendly energy policy angle
@@ -249,12 +267,14 @@ hide:
 ### Twitter/X Sentiment
 
 **Bullish Themes:**
+
 - #DomesticContent premium
 - G2_Austin construction milestone
 - Section 45X credit monetization
 - Treasury FEOC guidance validation
 
 **Bearish Concerns:**
+
 - Cash burn rate
 - High debt levels
 - Execution risk on G2
@@ -263,11 +283,13 @@ hide:
 ### Substack Analysis
 
 **Energy/Policy Writers:**
+
 - Canary Media feature (Nov 2025): "T1 Energy is betting big on all-American solar"
 - Generally positive on integrated U.S. supply chain
 - Caution on policy "whiplash" under new administration
 
 **Investment Substacks:**
+
 - TipRanks: "Viewing TE's 19% Pullback as Technical, Not Fundamental" (Feb 27, 2026)
 - Creates attractive entry ahead of catalysts
 
@@ -316,32 +338,38 @@ hide:
 ### Scenario A: Beat & Raise 🟢
 
 **Triggers:**
+
 - Q4 EBITDA at/above high end of guidance (\$50M+)
 - Strong 2026 guidance
 - Progress on G2 financing
 - 45X credit monetization announced
 
 **Expected Price Action:**
+
 - Immediate: +15-25% to \$8.75-\$9.50
 - Follow-through: Potential test of \$10+
 
 **Strategy Recommendation:**
+
 - **Thomas's Move:** Take 50% profits at \$10+, hold remainder for G2 ramp
 - Consider trailing stop on remaining position
 
 ### Scenario B: Miss or Soft Guidance 🔴
 
 **Triggers:**
+
 - Q4 EBITDA below \$25M
 - 2026 guidance cautious
 - Cash concerns raised
 - G2 delays announced
 
 **Expected Price Action:**
+
 - Immediate: -15-25% to \$5.75-\$6.50
 - Potential overshoot to \$5.00 on panic
 
 **Strategy Recommendation:**
+
 - **Thomas's Move:** If thesis intact, hold and consider averaging down
 - If balance sheet concerns emerge, exit and reassess
 - Stop-loss at \$6.50 (19% from current)
@@ -349,15 +377,18 @@ hide:
 ### Scenario C: In-Line (Hold Pattern) 🟡
 
 **Triggers:**
+
 - EBITDA within guidance
 - No major surprises
 - 2026 guidance maintained but not raised
 
 **Expected Price Action:**
+
 - Range-bound: \$7.00-\$8.50
 - Awaiting G2 progress visibility
 
 **Strategy Recommendation:**
+
 - **Thomas's Move:** Hold current position
 - Consider covered calls to generate income
 - Reassess at G2 milestones
@@ -377,11 +408,13 @@ hide:
 
 #### Option 1: Conservative - Trim & Protect ⭐
 **Action:**
+
 - Sell 30 shares (50%) before earnings
 - Hold 30 shares for upside
 - Set stop-loss on remaining at \$6.50
 
 **Rationale:**
+
 - Reduces single-stock risk
 - Captures some upside if thesis plays out
 - Limits downside on remaining position
@@ -391,11 +424,13 @@ hide:
 
 #### Option 2: Aggressive - Hold Full Position 🚀
 **Action:**
+
 - Hold all 60 shares through earnings
 - Add on any dip below \$7.00
 - Target \$12+ for partial exit
 
 **Rationale:**
+
 - Full conviction in integrated U.S. supply chain thesis
 - G2_Austin 2026 catalyst worth waiting for
 - Position size small enough to tolerate volatility
@@ -405,6 +440,7 @@ hide:
 
 #### Option 3: Risk-Managed - Stops & Targets 🎯
 **Action:**
+
 - Hold full position
 - Set stop-loss at \$6.80 (-10% from current)
 - Take 30 shares off at \$9.00 (+18%)
@@ -412,6 +448,7 @@ hide:
 - Trailing stop on remainder if \$12 broken
 
 **Rationale:**
+
 - Defined risk/reward parameters
 - Captures profits at key resistance levels
 - Maintains upside optionality
@@ -421,11 +458,13 @@ hide:
 
 #### Option 4: Options Overlay (If Available) 🛡️
 **Action:**
+
 - Hold shares
 - Buy protective puts (strike \$7.00, April expiration)
 - Cost: ~\$0.50-0.75 per share
 
 **Rationale:**
+
 - Downside protection for earnings
 - Allows sleeping well through volatility
 
@@ -488,16 +527,19 @@ Given the **conflicting information about actual cost basis**, first verify:
 
 **If position is small (<2% of portfolio):**
 → **Option 3: Risk-Managed**
+
 - Hold full position
 - Stop-loss at \$6.80
 - Layer out at \$9 and \$12
 
 **If position is concentrated (>5% of portfolio):**
 → **Option 1: Conservative**
+
 - Trim 50% before earnings
 - Hold remainder with stop
 
 **Key Levels to Watch:**
+
 - **\$6.80:** Stop-loss consideration
 - **\$8.05:** Recent high, resistance break
 - **\$9.00:** First profit-taking level
