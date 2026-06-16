@@ -18,7 +18,6 @@ hide:
 
 # {TICKER} ({COMPANY_NAME}) - Comprehensive Deep Dive Analysis
 **Report Date:** {DATE}
-**Current Price:** ${PRICE}
 **Market Cap:** ${MARKET_CAP}
 **Exchange:** {EXCHANGE}
 **52-Week Range:** ${52W_LOW} - ${52W_HIGH}
@@ -43,6 +42,7 @@ hide:
 ### Industry Position and Competitive Moat
 
 **Competitive Advantages:**
+
 - {ADV1}
 - {ADV2}
 
@@ -51,6 +51,7 @@ hide:
 ### Management Team Track Record
 
 **Key Executives:**
+
 - **{CEO_NAME}:** {CEO_ROLE} (since {YEAR})
 - **{CFO_NAME}:** CFO
 

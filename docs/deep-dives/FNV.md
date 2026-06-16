@@ -65,11 +65,13 @@ Franco-Nevada is the largest gold-focused royalty and streaming company in the w
 **Business Model:** Asset-light, no operational risk. Franco-Nevada collects payments from 400+ producing and development assets across 114 properties globally. The company has no debt, minimal overhead, and pays a growing dividend.
 
 **Revenue Segments (by metal):**
+
 - Gold: ~75% of revenue
 - Silver: ~12%
 - Other (copper, oil & gas, platinum group metals): ~13%
 
 **Key Assets:**
+
 - Cobre Panamá (Panama) — copper/gold stream from First Quantum Minerals; currently in arbitration after mine closure
 - Antapaccay (Peru) — gold/silver stream from Glencore
 - Antamina (Peru) — copper stream
@@ -79,6 +81,7 @@ Franco-Nevada is the largest gold-focused royalty and streaming company in the w
 **Management:** CEO Paul Brink has led the company since 2020. The team has a disciplined track record of deploying capital into high-quality assets without leverage.
 
 **Competitive Moat:**
+
 - Diversified portfolio — no single asset exceeds 13% of revenue
 - 88% of revenue from the Americas (low geopolitical risk)
 - No debt; balance sheet is a fortress
@@ -209,6 +212,7 @@ These multiples trade at a premium to gold miners because the royalty model carr
 ## 9. RECOMMENDATION
 
 - **Rating:** **BUY**
+
 - **Position Sizing:** 3–5% of materials/gold allocation
 - **Entry Strategy:** Scale in at current levels (\$218); add on dips below \$210 and aggressively below \$200
 - **Stop Loss:** \$185 (below 200-day moving average and bear-case support)

@@ -51,6 +51,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 **Business model:** MasTec is a project-based contractor. It bids on large-scale infrastructure jobs, executes them over multi-year timelines, and recognizes revenue as work progresses. The model is capital-intensive and labor-dependent, with profitability driven by project selection, execution discipline, and backlog quality.
 
 **Revenue segments (FY2025):**
+
 - **Communications:** ~35% — wireless, wireline, and install-to-the-home (broadband/fiber)
 - **Clean Energy and Infrastructure:** ~25% — renewables, EV charging, environmental
 - **Power Delivery:** ~20% — substations, distribution, grid hardening
@@ -114,6 +115,7 @@ MasTec, Inc. is one of the largest infrastructure construction companies in Nort
 ### DCF / Scenario Analysis
 
 **Key assumptions:**
+
 - FY2026 revenue: \$17.5B (guidance midpoint)
 - FY2026 adjusted EBITDA: \$1.5B (guidance, ~8.6% margin)
 - FY2027 revenue: \$20B (assumed 14% growth)

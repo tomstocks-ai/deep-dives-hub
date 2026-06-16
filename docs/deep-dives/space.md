@@ -1,7 +1,7 @@
 ---
 title: Space
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,13 +9,13 @@ title: Space
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **ASTS** | AST SpaceMobile | <span class="rating-spec-buy">SPEC. BUY</span> | \$81.02 | 2026-04-02 | [:material-file-document: Read](ASTS.md) |
-| **PL** | Planet Labs | <span class="rating-hold">HOLD</span> | \$37.49 | 2026-04-03 | [:material-file-document: Read](PL.md) |
-| **SATL** | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | \$6.70 | 2026-04-02 | [:material-file-document: Read](SATL.md) |
-| **NN** | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | \$23.19 | 2026-04-17 | [:material-file-document: Read](NN.md) |
-| **SPCE** | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | \$4.53 | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](ASTS.md) |
+| <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
+| <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](SATL.md) |
+| <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | 2026-04-17 | [:material-file-document: Read](NN.md) |
+| <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
 
 ---
 

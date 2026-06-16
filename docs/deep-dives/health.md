@@ -1,7 +1,7 @@
 ---
 title: Health
 ---
-
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
@@ -9,11 +9,11 @@ title: Health
 
 ## Summary Table
 
-| Ticker | Company | Rating | Price | Last Updated | Full DD |
-|--------|---------|--------|-------|--------------|---------|
-| **HIMS** | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | \$31.03 | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
-| **STAA** | STAAR Surgical | <span class="rating-hold">HOLD</span> | \$25.53 | 2026-04-09 | [:material-file-document: Read](STAA.md) |
-| **ADPT** | Adaptive Biotechnologies | <span class="rating-spec-hold">HOLD / SPEC.</span> | \$18.78 | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:HIMS" hide-background></tv-ticker-tag> | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
+| <tv-ticker-tag symbol="NASDAQ:STAA" hide-background></tv-ticker-tag> | STAAR Surgical | <span class="rating-hold">HOLD</span> | 2026-04-09 | [:material-file-document: Read](STAA.md) |
+| <tv-ticker-tag symbol="NASDAQ:ADPT" hide-background></tv-ticker-tag> | Adaptive Biotechnologies | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
 
 ---
 

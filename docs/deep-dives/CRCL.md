@@ -96,6 +96,7 @@ Circle operates three core platform layers:
 | Adjusted OpEx | ~\$575M | ~\$435M | +32% |
 
 **Q4 2025 specifically:**
+
 - Revenue: \$770.2M (+77% YoY)
 - Net Income: \$133.4M (+\$129M YoY)
 - Adjusted EBITDA: \$167M (+412% YoY)
@@ -243,6 +244,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ### Bull Case — Target: \$160–200
 **Drivers:**
+
 - USDC supply grows to \$150B+ by 2028, capturing 25–30% of a \$500B+ stablecoin market.
 - Fed funds rate stabilizes at 3.5–4.5%, keeping reserve income elevated.
 - GENIUS Act implementation creates a regulated duopoly with Tether, favoring Circle’s compliance-first model.
@@ -252,6 +254,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ### Base Case — Target: \$120–150
 **Assumptions:**
+
 - USDC supply grows to \$100B+ by 2027.
 - Interest rates stabilize at 2.5–3.5%.
 - GENIUS Act is implemented without major restrictions.
@@ -262,6 +265,7 @@ Circle trades at a significant premium to traditional fintech or payment compani
 
 ### Bear Case — Target: \$60–85
 **Risks:**
+
 - Fed funds rate falls below 2%, crushing reserve income.
 - Bank-issued stablecoins capture 30%+ market share under favorable GENIUS Act rules.
 - Coinbase renegotiates revenue share upward or launches a competing stablecoin.

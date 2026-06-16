@@ -89,6 +89,7 @@ The company has experienced significant leadership turnover in recent years. The
 | EPS (Diluted) | ~-\$4.38 |
 
 **Key Observations:**
+
 - Revenue continues to decline year-over-year, reflecting weakness in automotive demand and pricing pressure in SiC devices
 - Gross margins remain deeply negative due to underutilization charges, inventory write-downs (~€46M), and aggressive pricing to secure long-term design wins
 - The Q3 FY26 loss of \$119.9M represents a 58% improvement from prior-year quarters, driven by cost-cutting and operational restructuring
@@ -107,6 +108,7 @@ The company has experienced significant leadership turnover in recent years. The
 | Quick Ratio | 5.48 |
 
 **Key Observations:**
+
 - Liquidity position improved dramatically following Q3 FY26 capital raises (~\$476M via convertible 1.5-lien notes and equity)
 - Debt reduced by \$97M (25%) in Q3, with ~\$62M in annual interest expense savings expected
 - Current ratio of 7.03 is artificially inflated by cash reserves; underlying operational working capital remains strained
@@ -121,6 +123,7 @@ The company has experienced significant leadership turnover in recent years. The
 | Capital Expenditure (TTM) | Significantly reduced from peak |
 
 **Key Observations:**
+
 - Cash burn has improved from ~\$100M+/quarter peaks but remains negative
 - The company has pulled back on capex to preserve liquidity, slowing Mohawk Valley ramp
 - Operating cash flow improvement is driven by working capital management and cost cuts, not operational profitability
@@ -141,12 +144,14 @@ Wolfspeed is currently unprofitable with negative gross margins, making traditio
 Given the uncertainty, a scenario-based approach is more appropriate than a precise DCF:
 
 **Bull Case (\$65–75):**
+
 - AI/data center power revenue grows to 30%+ of mix by FY28
 - Mohawk Valley reaches 50%+ utilization, driving positive gross margins by FY27
 - Automotive SiC adoption accelerates with Chinese EV makers and Tier-1 partnerships
 - Debt continues to be paid down; path to profitability by FY28
 
 **Base Case (\$35–45):**
+
 - Revenue stabilizes at \$600–700M annually with modest growth
 - Gross margins turn slightly positive by late FY27
 - Continued cash burn requires additional capital raises (dilution)
@@ -154,6 +159,7 @@ Given the uncertainty, a scenario-based approach is more appropriate than a prec
 - Valuation converges toward analyst consensus (~\$40 target)
 
 **Bear Case (\$12–18):**
+
 - Revenue continues declining as SiC commoditizes and competitors gain share
 - Gross margins remain negative; cash burn resumes at \$100M+/quarter
 - Additional dilutive capital raises or debt restructuring required
@@ -199,6 +205,7 @@ At \$53.72, the market is pricing in a near-flawless execution of the bull case 
 **Position Sizing:** 0–2% of portfolio (speculative position only)
 
 **Entry Strategy:**
+
 - **Do NOT chase at \$53+.** If you believe in the turnaround thesis, wait for a pullback to the \$30–35 range or lower
 - Alternatively, scale in on weakness: 25% position at \$35, 25% at \$28, 50% at \$22
 - The current price embeds flawless execution; the market rarely rewards that bet

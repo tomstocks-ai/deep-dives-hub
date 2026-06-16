@@ -65,6 +65,7 @@ hide:
 Think of Solid Power as a "pick and shovel" play on the EV battery revolution—except instead of selling picks, they're selling the special "recipe" for better batteries.
 
 **The Technology in Plain English:**
+
 - Traditional EV batteries contain liquid electrolytes (think of it like battery acid) that help ions move between the battery's positive and negative sides
 - These liquid electrolytes are flammable and limit how much energy you can pack into the battery
 - Solid Power replaces the liquid with a solid material (sulfide-based solid electrolyte)
@@ -78,6 +79,7 @@ Think of Solid Power as a "pick and shovel" play on the EV battery revolution—
 | **Technology Licensing** | License their battery cell designs and manufacturing processes | OEMs and battery makers |
 
 **Key Insight:** Unlike competitor QuantumScape (which plans to build its own massive factories), Solid Power is positioning itself as a technology supplier rather than a battery manufacturer. This "asset-light" approach means:
+
 - **Lower capital requirements** (no need to build multi-billion dollar gigafactories)
 - **Faster path to market** (partner with existing manufacturers)
 - **Higher margins** (licensing revenue typically carries 70-90% gross margins once established)
@@ -104,6 +106,7 @@ Think of Solid Power as a "pick and shovel" play on the EV battery revolution—
 ### Strategic Partnerships
 
 Solid Power has secured partnerships with major automotive players:
+
 - **BMW** and **Ford** are key strategic investors
 - Joint development agreements with multiple OEMs
 - These partnerships provide both funding and a potential path to commercialization
@@ -147,6 +150,7 @@ Solid Power's revenue comes from:
 **Burn Rate:** Approximately \$57-60M annually (based on operating cash flow)
 
 **Calculation:**
+
 - Cash on hand: \$250.78M
 - Recent capital raise: +\$121.4M (net proceeds from March 2025 offering)
 - **Total liquidity:** ~\$370M+
@@ -161,6 +165,7 @@ In March 2025, Solid Power completed a \$130M equity offering (net \$121.4M afte
 **What Dilution Means:** When a company issues new shares, existing shareholders own a smaller percentage of the company. Think of it like a pizza—if you cut more slices, each slice gets smaller.
 
 **Impact:**
+
 - Shares outstanding increased from ~180M to ~201M
 - Your ownership percentage decreased proportionally
 - The trade-off: More cash extends runway and reduces bankruptcy risk
@@ -184,6 +189,7 @@ Traditional valuation metrics (P/E ratio, PEG ratio) don't work for companies wi
 | **EV/Revenue** | 22.53 | Enterprise value to sales ratio—accounts for cash/debt. |
 
 **What These Mean:**
+
 - **P/S of 30x** sounds expensive—and it is. But for a company with potential to disrupt a \$100B+ market, high multiples are common before commercialization.
 - For context, **QuantumScape (QS)** trades at 100x+ revenue multiple—SLDP is "cheaper" than its main pure-play competitor.
 
@@ -197,6 +203,7 @@ Traditional valuation metrics (P/E ratio, PEG ratio) don't work for companies wi
 | **Price Target Range** | \$7.00 (both analysts agree) |
 
 **Recent Analyst Action:**
+
 - **March 16, 2026:** HC Wainwright initiated coverage with **Buy** rating and \$7.00 target
 
 ### Valuation Approach for Pre-Revenue Companies
@@ -292,6 +299,7 @@ Since traditional metrics don't work, analysts typically use:
 | **CATL** | Private | World's largest battery maker | N/A |
 
 **Competitive Position:**
+
 - **Advantage:** Asset-light model, experienced management, automotive partnerships
 - **Disadvantage:** Smaller resource base than Toyota/Samsung, less hype than QuantumScape
 
@@ -320,11 +328,13 @@ Since traditional metrics don't work, analysts typically use:
 ### Insider Activity
 
 Based on available data:
+
 - CEO John Van Scoter owns 0.26% directly
 - Insider ownership is relatively low for a development-stage company
 - No recent significant insider buying or selling detected
 
 **What Low Insider Ownership Means:**
+
 - Management has less "skin in the game" than ideal
 - May indicate more reliance on institutional investors
 - Watch for insider buying as a bullish signal
@@ -357,17 +367,20 @@ Short interest appears manageable—not heavily shorted like some speculative EV
 ### Recent Key Developments
 
 **March 2025: \$130M Equity Offering**
+
 - Gross proceeds of \$130M (net ~\$121.4M)
 - Extends cash runway significantly
 - Dilutive but necessary for survival
 - Stock sold off ~15-20% on announcement (typical for dilutive offerings)
 
 **Q4 2025 Earnings (February 2026):**
+
 - Revenue: \$3.63M (quarterly)
 - Net Loss: -\$27.05M (quarterly)
 - Cash position: \$336.5M (year-end) before March offering
 
 **Analyst Coverage Initiation (March 2026):**
+
 - HC Wainwright initiated with Buy rating, \$7.00 target
 - Provides validation of commercialization potential
 
@@ -444,6 +457,7 @@ Solid-state batteries may never achieve commercial viability, or competitors may
 Solid Power successfully commercializes its technology but faces significant competition and takes longer than hoped.
 
 **Base Case Assumptions:**
+
 - Electrolyte sales begin 2027-2028
 - 2-3 major licensing deals secured
 - Moderate market share (5-10% of solid-state market)
@@ -471,6 +485,7 @@ Solid Power successfully commercializes its technology but faces significant com
 ### Official Rating: **HOLD / SPECULATIVE**
 
 **For Your Current Position:**
+
 - You are already invested (84 shares at \$3.06 cost basis)
 - Current loss: -18.78%
 - **Do not add at this time** given the speculative nature
@@ -479,13 +494,16 @@ Solid Power successfully commercializes its technology but faces significant com
 ### Position Sizing Guidance
 
 **If Starting Fresh:**
+
 - Maximum position size: **2-3% of portfolio**
+
 - This is a binary outcome stock (home run or strikeout)
 - Size such that total loss wouldn't meaningfully impact your financial goals
 
 ### Entry Strategy
 
 **For New Positions:**
+
 - **Immediate Entry:** Not recommended—wait for better entry
 - **Scale In Approach:** If entering, use 3 tranches:
   - Tranche 1: At current levels (\$3.00-3.20)
@@ -500,6 +518,7 @@ Solid Power successfully commercializes its technology but faces significant com
 | **Hard Stop: \$1.25** | Full exit | 60% decline suggests fundamental issues |
 
 **Mental Stop:** If company announces:
+
 - Major technical setbacks
 - Loss of BMW or Ford partnership
 - CEO departure
@@ -535,11 +554,13 @@ Solid Power successfully commercializes its technology but faces significant com
 Solid Power is a bet on a better battery. They're not making batteries yet—they're selling the "special sauce" (solid electrolyte) and licensing their designs to companies that will make the batteries.
 
 **The Good News:**
+
 - They have real technology partnerships with BMW and Ford
 - They have enough cash to survive 5+ years
 - Their "asset-light" model means they don't need billions to build factories
 
 **The Bad News:**
+
 - They're losing \$93M per year with only \$18M in revenue
 - They may issue more shares (diluting your ownership) before profitability
 - Many battery startups have failed at the "scale-up" phase
@@ -549,6 +570,7 @@ Solid Power is a bet on a better battery. They're not making batteries yet—the
 Your 84 shares at \$3.06 represent a small speculative bet on solid-state battery technology. With a cost basis of €218, this is sized appropriately as a "lottery ticket" investment. Don't add more, but don't panic sell either—unless the company announces major setbacks or runs low on cash.
 
 **Key Acronyms Defined:**
+
 - **RSI** = Relative Strength Index (momentum indicator, 0-100 scale)
 - **EV** = Electric Vehicle
 - **TAM** = Total Addressable Market (total potential market size)

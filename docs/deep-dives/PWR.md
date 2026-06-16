@@ -183,11 +183,13 @@ Quanta Services (NYSE: PWR) is the largest specialized contracting services comp
 **Stop loss:** $580 (18% below current price) — below the 200-day moving average and key psychological support.
 
 **Key levels to watch:**
+
 - Entry: $707 (current) or $650–$675 on pullback
 - Target: $800 (Oppenheimer PT) / $850 bull case
 - Stop: $580
 
 **Catalyst calendar:**
+
 - Q2 2026 earnings: Late July / early August 2026
 - Infrastructure bill funding updates: Ongoing
 - Data center contract announcements: Quarterly

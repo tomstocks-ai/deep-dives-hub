@@ -48,12 +48,14 @@ hide:
 Applied Optoelectronics, Inc. (AAOI) is a vertically integrated manufacturer of advanced optical devices, modules, and equipment for fiber-optic communications networks. The company designs, develops, and manufactures a broad range of optical products, including laser diodes, optical subassemblies, and transceivers, primarily serving three end markets: data centers, cable television (CATV), and telecommunications.
 
 **Business Model & Revenue Segments:**
+
 - **Data Center (Primary Growth Engine):** Optical transceivers and modules for hyperscale data centers. This segment has become the dominant revenue driver, with AAOI supplying 100G, 400G, 800G, and emerging 1.6T products to major cloud providers. Q1 2026 data center revenue surged on 51% overall revenue growth.
 - **Cable Television (CATV):** Traditional broadband infrastructure products for cable operators. This is a mature, lower-growth segment that provides steady cash flow but is not the strategic focus.
 - **Telecom:** Fiber-to-the-home (FTTH) and other telecom optical components. A smaller segment with moderate growth prospects.
 
 **Industry Position & Competitive Moat:**
 AAOI is a second-tier optical transceiver vendor competing against industry giants like Coherent (formerly II-VI), Lumentum, and Fabrinet. Its competitive moat rests on:
+
 - **Vertical Integration:** In-house laser diode manufacturing (a capability few peers possess at scale), which provides cost advantages and supply chain control.
 - **Hyperscaler Relationships:** Direct supplier relationships with major cloud providers for 400G/800G transceivers, a notoriously difficult qualification process that creates switching costs.
 - **Technology Transition:** Early positioning in 800G and 1.6T transceivers, the next-generation standards for AI cluster interconnects.
@@ -62,6 +64,7 @@ AAOI is a second-tier optical transceiver vendor competing against industry gian
 Dr. Chih-Hsiang (Thompson) Lin founded the company in 1997 and remains a key technical leader. Stefan Murry serves as CFO and has been instrumental in capital markets strategy, including the recent \$382.4M equity raise that bolstered the balance sheet. The management team has deep technical expertise in III-V semiconductor lasers and optical packaging.
 
 **Key Facilities:**
+
 - Primary manufacturing in Sugar Land, Texas (USA) and Ningbo, China.
 - The China facility provides cost-competitive manufacturing, while the Texas facility serves U.S. defense and hyperscaler customers requiring domestic supply chains.
 
@@ -115,6 +118,7 @@ Dr. Chih-Hsiang (Thompson) Lin founded the company in 1997 and remains a key tec
 ### DCF / Scenario Analysis
 
 **Key Assumptions:**
+
 - Discount rate: 12% (high beta, small-cap tech)
 - Terminal growth: 3%
 - Tax rate: 21% (upon profitability)
@@ -139,6 +143,7 @@ At \$191.55, the market is pricing in flawless execution of the bull case plus a
 5. **Vertical Integration Advantage:** In-house laser manufacturing provides cost and supply chain advantages as the industry scales.
 
 **Catalyst Calendar:**
+
 - Q2 2026 Earnings (August 2026): Revenue guidance \$180–198M; watch for 800G revenue contribution and gross margin trajectory.
 - Q3 2026 Earnings (November 2026): Key test of \$1.1B annual revenue run-rate.
 - 2027 Product Roadmap Updates: 1.6T sampling and customer qualifications.
@@ -172,22 +177,27 @@ At \$191.55, the market is pricing in flawless execution of the bull case plus a
 The underlying business is executing well — five consecutive record revenue quarters, a clear path to profitability, and strong positioning in 800G/1.6T transceivers. However, the stock price has run far ahead of fundamentals. At \$191.55, AAOI is pricing in flawless execution of the most optimistic scenario.
 
 **Position Sizing:**
+
 - If entering fresh: **0.5–1% portfolio allocation** maximum. This is a speculative position given the valuation disconnect.
 - If already holding: Consider trimming 25–50% of position into strength.
 
 **Entry Strategy:**
+
 - **Do not chase at current levels.** Wait for a pullback to \$120–140 (a 25–35% correction) for a more favorable entry.
 - Alternatively, scale in with 1/3 position at \$150, 1/3 at \$130, and 1/3 at \$110 if the stock corrects.
 
 **Stop Loss / Risk Management:**
+
 - **Hard stop at \$95** (50% below current price, near the 200-day moving average). If the stock breaks below this level, the thesis is broken.
 - **Trailing stop:** 25% trailing stop for existing positions.
 
 **Key Levels to Watch:**
+
 - **Support:** \$150 (psychological), \$120 (prior resistance, now support), \$95 (200-day MA)
 - **Resistance:** \$223 (52-week high)
 
 **Catalyst Calendar:**
+
 | Date | Event | What to Watch |
 |------|-------|---------------|
 | August 2026 | Q2 2026 Earnings | Revenue vs. \$180–198M guidance; 800G mix |

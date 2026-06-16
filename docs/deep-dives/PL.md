@@ -57,6 +57,7 @@ hide:
 Planet Labs PBC is a leading provider of daily satellite imagery and geospatial data, operating the largest commercial Earth observation constellation with approximately 200 satellites. The company has experienced a remarkable transformation, with its stock rising over 900% in the past year following strong operational execution, significant backlog growth, and a shift toward profitability. However, the stock now trades at a premium valuation that prices in substantial future growth.
 
 **Key Investment Highlights:**
+
 - Revenue of \$307.7M in FY2026, up 26% YoY
 - Backlog of \$900M, up 79% YoY
 - First year of positive free cash flow (\$57.7M)
@@ -90,7 +91,9 @@ Planet has built and deployed **450+ satellites** with **200+ currently operatio
 - **Tanager:** Hyperspectral imaging satellites (full spectrum visible + shortwave infrared)
 
 **Key Metrics:**
+
 - Images over **350 million sq km daily**
+
 - Captures the entire Earth's landmass every day
 - Archive contains **2,000+ images** of every location on Earth
 
@@ -124,6 +127,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **Kevin Kirn** | Chief Product & Technology Officer | Platform and product development |
 
 **Board of Directors:**
+
 - Includes General John W. "Jay" Raymond (former Space Force Chief)
 - Carl Bass (former Autodesk CEO)
 - Vijaya Gadde (former Twitter legal head)
@@ -145,6 +149,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **EPS** | -\$1.72 | -\$0.61 | -\$0.50 | -\$0.42 | -\$0.80 |
 
 **Key Observations:**
+
 - Revenue growth reaccelerated to 25.9% in FY2026 (from 10.7% in FY2025)
 - Gross margins expanded from 37% to 56% over 5 years
 - Operating losses narrowing; path to profitability emerging
@@ -192,6 +197,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 ### 2.5 Backlog & Revenue Visibility
 
 **Remaining Performance Obligations (RPO):**
+
 - **Total Backlog:** \$900M (up 79% YoY)
 - **Recognition Timeline:**
   - 37% within next 12 months
@@ -199,6 +205,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
   - Remainder thereafter
 
 **Key Contracts:**
+
 - Swedish government: \$100M+ multi-year deal
 - Missile Defense Agency: Prime contractor on \$151B SHIELD IDIQ
 - Multiple defense and intelligence contracts
@@ -232,6 +239,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 ### 3.3 DCF Scenario Analysis
 
 **Base Case Assumptions:**
+
 - Revenue CAGR: 35% (FY26-FY30)
 - Terminal growth: 4%
 - Discount rate (WACC): 13.8%
@@ -265,17 +273,20 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 ### 4.1 Revenue Drivers
 
 **1. Government & Defense Expansion**
+
 - National security priorities driving demand for satellite imagery
 - \$151B SHIELD IDIQ contract participation
 - Growing intelligence community adoption
 
 **2. Commercial Adoption**
+
 - Agriculture: Crop monitoring, yield optimization
 - Energy: Infrastructure monitoring, ESG compliance
 - Insurance: Catastrophe assessment, risk modeling
 - Forestry: Deforestation monitoring, carbon credits
 
 **3. Platform Expansion**
+
 - Transition from imagery provider to data-intelligence platform
 - AI-powered analytics increasing customer value
 - API-first approach enabling developer ecosystem
@@ -289,6 +300,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **Geospatial Analytics** | \$5.0B | \$15.0B+ | 20%+ |
 
 **Addressable Market Expansion:**
+
 - Climate monitoring and carbon accounting
 - Supply chain transparency
 - Autonomous vehicle mapping
@@ -380,6 +392,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 | **Float** | 286.43M shares |
 
 **Key Holders:**
+
 - ARK Invest (Cathie Wood) - historically significant position in space/disruptive innovation
 - Various growth-focused mutual funds and ETFs
 
@@ -388,12 +401,14 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 **General Sentiment:** Very Bullish
 
 **Positive Factors:**
+
 - Strong earnings momentum
 - Growing backlog visibility
 - Space sector excitement
 - Partnership announcements (Nvidia, Google)
 
 **Concerns Raised:**
+
 - Valuation sustainability
 - Profitability timeline
 - Competition from Maxar/BlackSky
@@ -405,6 +420,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 ### 7.1 Recent Developments (March 2026)
 
 **1. Q4 FY2026 Earnings (March 19, 2026)**
+
 - Revenue of \$86.8M (+41% YoY) beat consensus by \$8.7M
 - Adjusted EBITDA of \$15.5M (+74% YoY)
 - Full-year free cash flow of \$57.7M
@@ -412,21 +428,25 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - FY2027 guidance: \$415-440M revenue (implying 38.9% YoY growth)
 
 **2. Warrant Redemption (March 27, 2026)**
+
 - Company announced redemption of all outstanding public warrants
 - Will simplify capital structure
 - Slight dilution impact
 
 **3. Berlin Manufacturing Facility**
+
 - Started recruiting for new satellite manufacturing facility in Berlin
 - Represents European expansion milestone
 
 ### 7.2 Sector News
 
 **SpaceX IPO Speculation**
+
 - "The largest IPO in world history" speculation driving sector interest
 - RKLB, ASTS, PL and other space stocks benefiting from category enthusiasm
 
 **Defense Spending**
+
 - Continued bipartisan support for space and defense budgets
 - \$151B SHIELD IDIQ contract vehicle includes Planet as prime contractor
 
@@ -441,11 +461,13 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 ### 7.4 News Sentiment Analysis
 
 **Positive Coverage:**
+
 - "Planet Labs Crushes Earnings" (Seeking Alpha)
 - "500% Rally, Growth Case Still Intact" (Seeking Alpha)
 - "Planet Labs: To The Moon And Back(log)" (Benzinga)
 
 **Cautious Coverage:**
+
 - "Crushes Earnings, But Risk Is Rising" (Seeking Alpha)
 - "Valuation extremely stretched at 27x forward sales" (analysts)
 
@@ -458,6 +480,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 **Thesis:** Planet becomes the dominant data-intelligence platform for Earth observation
 
 **Assumptions:**
+
 - Revenue grows at 50% CAGR through 2030
 - Gross margins expand to 65%+
 - Operating leverage drives 30%+ operating margins
@@ -465,6 +488,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - Platform adoption drives recurring revenue to 85%+
 
 **Catalysts:**
+
 - Major new government contract announcements
 - Commercial sector breakthroughs (carbon credits, supply chain)
 - AI analytics product launches
@@ -477,6 +501,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 **Thesis:** Solid execution drives steady growth toward profitability
 
 **Assumptions:**
+
 - Revenue grows at 35% CAGR through 2030
 - Gross margins stabilize at 58-60%
 - Operating margins reach 20% by 2030
@@ -484,6 +509,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - Free cash flow generation continues
 
 **Catalysts:**
+
 - Consistent execution on backlog conversion
 - Modest multiple compression as company matures
 - Path to GAAP profitability by 2028
@@ -495,6 +521,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 **Thesis:** Valuation compression and execution challenges materialize
 
 **Assumptions:**
+
 - Revenue growth slows to 20% CAGR
 - Gross margins compressed by competition
 - Government contract delays or cancellations
@@ -502,6 +529,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 - Space sector sentiment shifts negative
 
 **Risks:**
+
 - Defense budget cuts
 - Maxar or BlackSky gain significant market share
 - Economic downturn reduces commercial demand
@@ -527,6 +555,7 @@ Planet Labs is the **market leader** in high-cadence Earth observation:
 **Current Position:** Neutral to cautious at current prices
 
 **Rationale:**
+
 - Exceptional business fundamentals and growth trajectory
 - Strong competitive position in an attractive market
 - However, valuation (40x sales) prices in perfection

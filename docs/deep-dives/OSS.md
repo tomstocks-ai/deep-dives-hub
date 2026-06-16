@@ -55,15 +55,18 @@ hide:
 One Stop Systems (OSS) designs and manufactures rugged, high-performance compute and storage systems for AI, sensor fusion, and autonomous applications at the edge. The company is pivoting from a diversified OEM model toward a pure-play "AI Transportable" focus — ruggedized GPU-accelerated systems deployed in defense, autonomous vehicles, and industrial settings where cloud latency is unacceptable.
 
 **Business Model:**
+
 - **AI Transportable Solutions (~85% of revenue):** Rugged compute enclosures with NVIDIA GPUs, PCIe expansion, and NVMe storage for edge AI inference and training.
 - **Legacy/Media Business (~15%):** Low-margin OEM media and storage products being wound down.
 
 **Competitive Moat:**
+
 - Deep expertise in ruggedization (MIL-STD-810, DO-160) and thermal management for GPU-dense systems.
 - Long-standing defense relationships (U.S. Army, Navy, primes) with multi-year development programs.
 - Proprietary PCIe expansion and cooling IP enabling higher GPU density in constrained form factors.
 
 **Management:**
+
 - CEO Mike Knowles and CFO Jim Ison have guided the pivot from breakeven media OEM to AI-focused growth. Insider ownership is meaningful (~15%), aligning management with shareholders.
 
 ---
@@ -81,6 +84,7 @@ One Stop Systems (OSS) designs and manufactures rugged, high-performance compute
 | EPS (diluted) | (\$0.02) | +\$0.08 | (\$0.15) |
 
 **Key Trends:**
+
 - Revenue inflection is real: Q4 2025 (+70% YoY) and Q1 2026 (+55% YoY) show accelerating demand.
 - Gross margin expansion from ~35% in 2023 to 51–58% in 2025–2026 reflects favorable mix shift toward higher-margin AI Transportable products.
 - Q4 2025 was the first profitable quarter (\$2.0M net income) from continuing ops.
@@ -119,6 +123,7 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 ### DCF / Scenario Analysis
 
 **Assumptions:**
+
 - Discount rate: 12%
 - Terminal growth: 3%
 - Shares outstanding: ~22M
@@ -169,18 +174,21 @@ At ~\$350M market cap and ~\$30M run-rate revenue, OSS trades at a premium to hi
 **Position Sizing:** 2–3% of portfolio max. This is a small-cap spec with binary outcomes.
 
 **Entry Strategy:**
+
 - **Immediate:** Current levels (~\$15.50–\$16.00) are reasonable for a starter position.
 - **Optimal:** Wait for a pullback to \$13.50–\$14.50 (50-day MA) for a full position.
 
 **Stop Loss:** \$11.50 (below 200-day MA and prior support). Risk of ~25% from current levels.
 
 **Key Levels:**
+
 - Entry: \$15.50–\$16.00 (starter) / \$13.50–\$14.50 (full)
 - Target (Base): \$16–\$19
 - Target (Bull): \$24–\$28
 - Stop: \$11.50
 
 **Catalyst Calendar:**
+
 - **Q2 2026 Earnings (Aug 2026):** Key test of margin sustainability and guidance reaffirmation.
 - **Defense Contract Awards:** Any new prime contractor wins would be material.
 - **H2 2026 Production Ramps:** Evidence of development-to-production conversion.

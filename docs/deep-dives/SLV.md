@@ -125,6 +125,7 @@ Global manufacturing recession. Solar silver usage falls faster than capacity ri
 ## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
+
 - **Position sizing:** 3–5% of portfolio as precious metals allocation
 - **Entry strategy:** Scale in at current levels (RSI near oversold). Add on dips to \$55–58.
 - **Stop loss:** Close below \$50 (200-day MA break)

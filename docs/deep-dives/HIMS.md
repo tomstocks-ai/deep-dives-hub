@@ -69,20 +69,25 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 | **Weight Loss** | ~25% | GLP-1 drugs (compounded semaglutide), oral medications |
 
 **Key 2025 Milestones:**
+
 - **Hims revenue grew >30% YoY**, while **Hers revenue grew >100% YoY**
+
 - Four verticals now generate >\$100M annual revenue each: Weight Loss, Men's Dermatology, Sexual Health, Women's Dermatology
 - Weight loss business projected at **\$725M for 2025**
+
 - Subscribers grew to **2.5+ million** (up 13% YoY)
 
 ### Industry Position and Competitive Moat
 
 **Competitive Advantages:**
+
 - **Platform Scalability:** Purpose-built infrastructure to seamlessly add new products and services
 - **Recurring Revenue Model:** Subscription-based offerings create predictable cash flows
 - **Data-Driven Personalization:** AI-powered recommendations based on patient health data
 - **Vertical Integration:** Controls entire patient journey from consultation to delivery
 
 **Key Competitors:**
+
 - **Ro (Roman):** Direct competitor in men's health and telehealth
 - **Novo Nordisk:** Pharmaceutical giant with FDA-approved GLP-1 drugs (Wegovy, Ozempic)
 - **Eli Lilly:** Competitor in weight loss with Zepbound
@@ -96,11 +101,13 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 ### Management Team Track Record
 
 **Key Executives:**
+
 - **Andrew Dudum:** Co-Founder & CEO (since 2017)
 - **Melissa Baird:** CFO
 - **Dr. Patrick Carroll:** Chief Medical Officer
 
 **Management Assessment:**
+
 - Successfully scaled revenue from startup to \$2.35B annually
 - Achieved profitability with \$128.37M net income in 2025
 - Navigated complex regulatory environment, though recent GLP-1 issues show execution challenges
@@ -121,12 +128,14 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 | **EPS (Diluted)** | ~\$0.50 | \$0.51 | +2% |
 
 **Q4 2025 Quarterly Results:**
+
 - Revenue: **\$617.8M** (+28% YoY) - slightly below analyst expectations
 - Gross Margin: **72%** (down from 77% in Q4 2024 due to international expansion and product mix)
 - Adjusted EBITDA: **\$66.3M** (10.7% margin) - beat estimates by 9.7%
 - EPS: **\$0.08** (60% surprise above \$0.03 forecast)
 
 **Key Observations:**
+
 - Revenue growth remains exceptionally strong at 59% YoY
 - Margin compression from international expansion and lower-margin weight loss products
 - Path to sustained profitability is clear with positive operating leverage
@@ -176,6 +185,7 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 | **P/B** | 9.00 | 3-6 | High asset turnover |
 
 **What This Means:**
+
 - **P/E of 43.18:** Investors pay \$43.18 for every \$1 of earnings. This is high but reflects 59% revenue growth.
 - **P/S of 2.35:** For every \$1 in sales, the market values HIMS at \$2.35. This is reasonable for a high-growth SaaS-like healthcare business.
 - **EV/EBITDA of 33.80:** High, but if EBITDA grows 50%+ annually, this compresses quickly.
@@ -183,6 +193,7 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 ### DCF/Intrinsic Value Estimates
 
 **Bull Case (\$40+ target):**
+
 - Revenue grows to \$3.5B+ by 2027
 - Margins expand to 20%+ EBITDA margins
 - International expansion succeeds
@@ -190,6 +201,7 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 - Multiple expansion to 50x+ P/E
 
 **Base Case (\$28-32 target):**
+
 - Revenue meets guidance of \$2.7-2.9B in 2026
 - EBITDA margins stabilize at 13-15%
 - Steady subscriber growth continues
@@ -197,6 +209,7 @@ Hims & Hers Health operates a **consumer-first telehealth platform** connecting 
 - Multiple stays at 35-40x P/E
 
 **Bear Case (\$12-15 target):**
+
 - GLP-1 revenue collapses due to regulatory crackdown
 - Subscriber growth stalls
 - Competition intensifies
@@ -213,6 +226,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Revenue Drivers and TAM Expansion
 
 **Total Addressable Market (TAM):**
+
 - **U.S. Telehealth:** \$185B+ by 2030 (growing 25% annually)
 - **Weight Loss Drugs:** \$100B+ global market
 - **Mental Health:** \$500B+ global market
@@ -226,6 +240,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 4. **AI-Powered Personalization:** Enhanced treatment recommendations
 
 **2026 Guidance:**
+
 - Revenue: **\$2.7B - \$2.9B** (15-23% growth)
 - Adjusted EBITDA: **\$300M - \$375M** (11-13% margin)
 - Continued subscriber growth with focus on higher-margin categories
@@ -233,6 +248,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Strategic Partnerships
 
 **Recent Developments:**
+
 - **ZAVA and Livewell Acquisitions:** Boost international sales
 - **Retail Distribution:** Products available in physical stores
 - **Lab Testing Services:** Expanding diagnostic capabilities
@@ -241,6 +257,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### M&A Activity
 
 **Eucalyptus Deal (\$1.15B):**
+
 - Expands geographic footprint to UK, Germany, other EU markets
 - Adds established telehealth infrastructure
 - Diversifies revenue away from U.S.-centric GLP-1 exposure
@@ -259,6 +276,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 | **Execution Risk** | 🟡 MEDIUM | International expansion and branded pivot require flawless execution |
 
 **Critical Regulatory Update (February 2026):**
+
 - **FDA Warning:** Commissioner Martin Makary threatened "swift action" against compounded GLP-1 drugs
 - **DOJ Referral:** HHS referred Hims to Department of Justice for potential violations
 - **Novo Nordisk Lawsuit:** Patent infringement claims with allegations of "dangerous impurities"
@@ -299,12 +317,14 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 | **Wall Street Average** | Hold | \$29.50 | April 2026 |
 
 **Analyst Distribution:**
+
 - Strong Buy: 20%
 - Buy: 30%
 - Hold: 40%
 - Underperform/Sell: 10%
 
 **Target Price Interpretation:**
+
 - Median target of \$28-30 implies **27-36% upside** from current \$22
 - Recent downgrades reflect GLP-1 regulatory concerns
 - Price target dispersion is wide (\$16-\$35), indicating uncertainty
@@ -319,6 +339,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 | **Change** | Increasing | Shorts added after February regulatory news |
 
 **What This Means:**
+
 - **36.46% short interest** indicates massive institutional skepticism
 - If positive catalyst emerges (GLP-1 resolution, strong earnings), short squeeze possible
 - However, shorts have been "right" so far as stock declined from \$70 to \$22
@@ -332,6 +353,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Insider Activity
 
 **Recent Insider Transactions:**
+
 - Limited recent insider buying/selling data available
 - Management has not been significant sellers despite stock decline
 - Insider ownership provides alignment with shareholders
@@ -339,11 +361,13 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Social Media & Retail Sentiment
 
 **StockTwits/Reddit Sentiment:**
+
 - Mixed to bearish on GLP-1 concerns
 - Bullish long-term on telehealth TAM
 - High retail interest due to volatility and short squeeze potential
 
 **Options Flow:**
+
 - Elevated put/call ratio indicates bearish positioning
 - High implied volatility (IV) due to earnings and regulatory uncertainty
 
@@ -368,21 +392,25 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Key Articles & Analysis
 
 **Seeking Alpha - "Hims & Hers: Great Vision, Now On Sale" (Feb 2026):**
+
 - Cautious BUY rating despite volatility
 - Q4 results solid but subscriber growth and Q1 guidance disappointed
 - Author upgraded position on valuation following 70% drawdown
 
 **Alpha Spread Analysis (Feb 2026):**
+
 - "Strong FY25 results with 59% revenue growth to \$2.35B"
 - "Faces near-term margin pressure but core business resilient"
 - "2026 guidance signals continued investment in international expansion"
 
 **Kroker Equity Research Substack:**
+
 - High gross margins (~80% historically) show core business is inherently lucrative
 - 2025 guidance achieved; 2026 guidance implies continued strong growth
 - Platform scalability is the key differentiator
 
 **Regulatory/Policy News:**
+
 - FDA Commissioner continues signaling intent to restrict compounded GLP-1 APIs
 - Scientific American article (March 2026) explains FDA rationale: "compounded drugs cannot be verified for quality, safety, and efficacy"
 - The Hill coverage: "These are not companies behaving like compounding pharmacies... behaving like pharmaceutical companies"
@@ -408,6 +436,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 6. **Short Squeeze Potential:** 36% short interest could fuel rapid upside on positive catalyst
 
 **What Needs to Go Right:**
+
 - GLP-1 regulatory issues resolve without major business disruption
 - Branded medications transition succeeds
 - Subscriber growth reaccelerates to 20%+ annually
@@ -427,6 +456,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 6. **Multiple Contraction:** Growth stock derating if revenue slows to <20%
 
 **What Could Go Wrong:**
+
 - FDA completely bans compounded GLP-1 medications
 - DOJ investigation results in material fines or consent decree
 - Novo Nordisk wins patent lawsuit, blocks Hims from alternative GLP-1 formulations
@@ -438,6 +468,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Base Case (Price Target: \$28-30)
 
 **Most Likely Scenario:**
+
 - GLP-1 headwinds persist but core business remains healthy
 - Revenue grows 20-25% annually through 2027
 - EBITDA margins stabilize at 13-15%
@@ -467,11 +498,13 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Position Sizing Guidance
 
 **For a \$100K portfolio:**
+
 - **Aggressive Growth Investor:** 3-5% position (\$3,000-\$5,000)
 - **Moderate Risk Investor:** 1-2% position (\$1,000-\$2,000)
 - **Conservative Investor:** 0-0.5% position (watchlist only)
 
 **Rationale:**
+
 - High volatility (Beta 2.32) requires smaller position size
 - Regulatory uncertainty adds binary risk
 - Strong growth potential justifies allocation for risk-tolerant investors
@@ -484,6 +517,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 3. **Add on Breakout (25%):** If stock breaks above \$26 resistance
 
 **Rationale:**
+
 - Stock is recovering from deeply oversold conditions
 - Short-term momentum is positive
 - Long-term trend remains challenged
@@ -492,6 +526,7 @@ At \$22, the market is pricing in ~35-40% annual revenue growth through 2027, wi
 ### Stop Loss / Risk Management
 
 **Suggested Stop Loss: \$16.50 (25% below current price)**
+
 - Below major psychological support at \$17.24
 - Prevents catastrophic loss if regulatory issues escalate
 - Still allows for normal market volatility

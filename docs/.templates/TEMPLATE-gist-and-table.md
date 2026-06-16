@@ -4,6 +4,8 @@
 #   1. A table row     → into docs/index.md AND docs/deep-dives/{sector}.md
 #   2. A gist section  → into docs/deep-dives/{sector}.md only
 #
+# NOTE: The TradingView ticker widget shows live prices, so we no longer need a Price column.
+#
 # ─────────────────────────────────────────────
 
 ## ① TABLE ROW — for docs/index.md
@@ -11,7 +13,7 @@
 # Paste this row into the Summary Table in index.md.
 # Note: the link path from index.md is deep-dives/{TICKER}.md
 
-| **{TICKER}** | {COMPANY_NAME} | <span class="badge badge-{BADGE_CLASS}">{SECTOR_LABEL}</span> | <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span> | ${PRICE} | {DATE} | [:material-file-document: Read](deep-dives/{TICKER}.md) |
+| <tv-ticker-tag symbol="{EXCHANGE}:{TICKER}" hide-background></tv-ticker-tag> | {COMPANY_NAME} | <span class="badge badge-{BADGE_CLASS}">{SECTOR_LABEL}</span> | <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span> | {DATE} | [:material-file-document: Read](deep-dives/{TICKER}.md) |
 
 
 ## ② TABLE ROW — for docs/deep-dives/{sector}.md
@@ -19,14 +21,14 @@
 # Paste this row into the Summary Table in the sector page.
 # Note: the link path from sector page is just {TICKER}.md (same directory)
 
-| **{TICKER}** | {COMPANY_NAME} | <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span> | ${PRICE} | {DATE} | [:material-file-document: Read]({TICKER}.md) |
+| <tv-ticker-tag symbol="{EXCHANGE}:{TICKER}" hide-background></tv-ticker-tag> | {COMPANY_NAME} | <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span> | {DATE} | [:material-file-document: Read]({TICKER}.md) |
 
 
 ## ③ GIST SECTION — for docs/deep-dives/{sector}.md
 #
 # Paste this below the last "---" separator in the Gists section.
 
-### {TICKER} — {COMPANY_NAME} · <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span> · ${PRICE}
+### {TICKER} — {COMPANY_NAME} · <span class="rating-{RATING_CLASS}">{RATING_TEXT}</span>
 
 {GIST_PARAGRAPH}
 
@@ -36,6 +38,13 @@
 
 
 # ─────────────────────────────────────────────
+# REFERENCE: TradingView Exchange Codes
+#
+#   NASDAQ    → NASDAQ-listed stocks (NasdaqGS, NasdaqCM, NasdaqGM)
+#   NYSE      → NYSE-listed stocks
+#   AMEX      → NYSE Arca / NYSE American (ETFs like GLD, SLV, URA, COPX)
+#   OMXSTO    → Stockholm Stock Exchange (e.g., SIVE)
+#
 # REFERENCE: Available badge classes
 #
 #   badge-tech       → Technology

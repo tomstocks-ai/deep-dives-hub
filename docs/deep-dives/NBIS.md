@@ -57,6 +57,7 @@ hide:
 Nebius Group N.V. is one of the most consequential AI infrastructure stories of 2025–2026. What began as a restructuring of Yandex's non-Russian assets has transformed into a \$40 billion AI cloud powerhouse, with the company signing two of the largest compute-procurement contracts in history: a [\$19.4 billion deal with Microsoft](https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html) (September 2025) and a [\$27 billion deal with Meta](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html) (March 2026). Revenue grew 351% in FY2025 to \$529.8 million, and the company achieved positive adjusted EBITDA in Q4 2025 with an ARR (annualized run-rate revenue) of \$1.2 billion at year-end. [Goldman Sachs expects \$3.0 billion to \$3.4 billion in revenue for 2026](https://www.reddit.com/r/stocks/comments/1smiez3/goldman_sachs_raised_its_nebius_nbis_price_target/), supported by the Meta and Microsoft contracts. However, shares have risen more than 600% over the past year, the stock trades at 75x trailing sales, and RSI sits at 85 — deep in overbought territory. The investment case is therefore a high-conviction structural bet on AI infrastructure demand, tempered by extreme valuation and technical risk.
 
 **Key Investment Metrics at a Glance:**
+
 - **RSI:** 84.86 (extremely overbought — technical pullback risk)
 - **Analyst Consensus:** Buy (Citi initiated Buy/High Risk; Goldman PT \$205)
 - **Average Price Target:** ~\$161–\$170 (range \$120–\$291)
@@ -74,6 +75,7 @@ Nebius Group N.V. is one of the most consequential AI infrastructure stories of 
 Nebius Group is building **full-stack AI infrastructure** — from large-scale GPU clusters to cloud platforms and developer tools — to service the global AI industry. The company operates across Europe, North America, and Israel, and is headquartered in Amsterdam. [Nebius.com](https://nebius.com)
 
 **Revenue Segments:**
+
 - **Nebius (Core AI Infrastructure):** GPU clusters, AI cloud platform, inference services (AI Studio), and managed compute. This is the growth engine and now contributes the majority of group revenue.
 - **Toloka:** AI data-labeling and training-data platform. Revenue grew 140% YoY in 2024 as Toloka pivoted to providing high-quality training data for generative AI models.
 - **TripleTen:** Edtech reskilling platform. Enrolled 14,000+ new students in 2024 (+149% YoY), adding bootcamps in cybersecurity and UX/UI.
@@ -85,6 +87,7 @@ The core Nebius business rents GPU compute capacity to AI developers, model trai
 ### Competitive Moat Analysis
 
 **Strengths:**
+
 - **Hyperscaler relationships:** Securing multi-billion-dollar, multi-year contracts with Meta and Microsoft validates Nebius as a tier-1 AI infrastructure provider. These are not pilot programs — they are foundational supply agreements.
 - **NVIDIA partnership:** Nebius is deploying some of the first large-scale [NVIDIA Vera Rubin](https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/) clusters (for Meta) and [22,000 Blackwell GPUs](https://nebius.com/newsroom/nebius-group-n-v-announces-fourth-quarter-and-full-year-2024-financial-results) in 2025. NVIDIA itself [invested \$2 billion in Nebius](https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html) in March 2026, cementing strategic alignment.
 - **Geographic diversification:** Operating data centers in Finland, France, Kansas City, and New Jersey provides regulatory and operational flexibility.
@@ -94,6 +97,7 @@ The core Nebius business rents GPU compute capacity to AI developers, model trai
 Nebius competes in the "AI neocloud" space alongside CoreWeave, Lambda Labs, Crusoe, and to some extent the hyperscalers themselves (AWS, Azure, GCP). The Microsoft and Meta deals position Nebius as a **preferred secondary supplier** — hyperscalers turn to Nebius when their own capacity is insufficient, which creates a durable demand pipeline. [Citi initiated coverage with a Buy/High Risk rating](https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html), citing a "differentiated view on AI data center TAM growth, margin improvement, and NBIS's capital-efficient scaling."
 
 **Key Facilities:**
+
 - **Kansas City, USA:** 5MW initial phase (expandable to 40MW), first U.S. NVIDIA GPU cluster, live Q1 2025.
 - **Paris, France:** GPU cluster with NVIDIA H200 Tensor Core GPUs, operational Q4 2024.
 - **Finland:** Existing capacity, expanding with Blackwell deployment in 2025.
@@ -181,6 +185,7 @@ The stock is highly sensitive to:
 The total addressable market for AI infrastructure is enormous. [Hyperscalers including Meta, Amazon, Alphabet, and Microsoft are expected to spend over \$600 billion on data centers and AI infrastructure in the coming years](https://markets.businessinsider.com/news/stocks/nebius-stock-price-ai-compute-deal-meta-data-centers-nbis-2026-3). Nebius is positioning itself as a **major recipient** of this capex.
 
 Key growth levers:
+
 - **Contracted backlog:** Up to \$46.4 billion in combined contract value from Microsoft (\$19.4B) and Meta (\$27B) over 5 years.
 - **Capacity expansion:** 22,000 Blackwell GPUs deploying in 2025; Vera Rubin clusters for Meta starting early 2027.
 - **New customer acquisition:** The AI Cloud platform and AI Studio inference service are attracting AI-native startups and developers, diversifying beyond the two mega-customers.
@@ -207,6 +212,7 @@ As a European-headquartered AI infrastructure provider, Nebius benefits from EU 
 **Sector Trends:** The "AI neocloud" sector is experiencing a capital-deployment boom. [Nscale raised \$2 billion at a \$14.6 billion valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html) in March 2026, with NVIDIA as an investor. CoreWeave went public in 2025 and has signed deals with OpenAI. The sector narrative is that hyperscalers cannot build capacity fast enough internally, creating a durable outsourcing opportunity for Nebius, CoreWeave, and others.
 
 **Breaking News Watchlist:**
+
 - **Q1 2026 earnings (expected May 2026):** First earnings call since the Meta deal. Will provide updated ARR, deployment timelines, and margin guidance.
 - **GPU delivery milestones:** Blackwell deployment updates expected throughout 2025–2026.
 - **Additional customer announcements:** Any new hyperscaler or large AI lab contract would be a significant catalyst.
@@ -257,6 +263,7 @@ Deployment delays push revenue recognition into 2027–2028. GPU supply constrai
 **Entry Strategy:** Wait for RSI to cool below 65 before initiating a full position. The stock is extremely overbought at 85 RSI. Consider scaling in on any pullback to \$130–\$140 (pre-Meta breakout retest) or \$120 (50-day moving average vicinity).  
 **Stop Loss:** \$100 (psychological support / post-Microsoft consolidation floor)  
 **Key Levels:**
+
 - **Add:** \$130–\$140
 - **Full position:** \$115–\$125
 - **Stop:** \$100

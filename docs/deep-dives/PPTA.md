@@ -60,6 +60,7 @@ The company broke ground in October 2025 after nine years of permitting, receive
 
 **Analyst Rating:** SPECULATIVE BUY (High Risk/High Reward)
 **Price Targets:**
+
 - **Bull Case:** \$50.00 (+90%)
 - **Base Case:** \$35.00 (+33%)
 - **Bear Case:** \$15.00 (-43%)
@@ -72,8 +73,10 @@ The company broke ground in October 2025 after nine years of permitting, receive
 Perpetua Resources is a mineral exploration and development company with a single transformative asset:
 
 **Stibnite Gold Project (Idaho, USA)**
+
 - **100% owned** open-pit gold and antimony project in Valley County, Idaho
 - Proven and probable reserves: **6+ million ounces of gold** and **148 million pounds of antimony**
+
 - Expected production: ~450,000 ounces of gold annually at full capacity
 - One of the few known U.S. sources of antimony — a listed critical mineral
 - Project footprint redesigned to shrink by 13% and improve stream/wetland conditions
@@ -116,6 +119,7 @@ Perpetua is pre-revenue and in the development/construction phase:
 | Book Value | Limited (development stage) |
 
 **Key Financial Events:**
+
 - **June/July 2025:** Equity offering raised \$49M in gross proceeds (fully exercised underwriter option)
 - **October 2025:** Posted \$139M in construction phase financial assurance (reclamation bond)
 - **Q1 2026:** Market value of non-affiliate equity: \$868M (per 10-K filing)
@@ -134,6 +138,7 @@ Perpetua is pre-revenue and in the development/construction phase:
 
 ### 3.1 Comparative Analysis
 As a pre-revenue development-stage miner, traditional multiples are not applicable. Valuation is based on:
+
 - Net Asset Value (NAV) of reserves
 - Comparable development-stage mining transactions
 - Strategic premium for critical minerals exposure
@@ -218,6 +223,7 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 **Position Sizing:** 2-3% of portfolio maximum (high-risk development stage)
 
 **Entry Strategy:**
+
 - **Aggressive entry:** Current levels (\$26-27) — RSI near oversold, strong fundamentals
 - **Conservative entry:** Wait for EXIM financing confirmation (Spring 2026) — may miss upside but reduces financing risk
 - **Dollar-cost averaging:** Scale in over 2-3 tranches given volatility
@@ -226,6 +232,7 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 - Rationale: If price breaks \$18, market is pricing in significant financing/execution concerns
 
 **Catalyst Calendar:**
+
 | Date | Event | Impact |
 |------|-------|--------|
 | Spring 2026 | EXIM Board Decision | CRITICAL |

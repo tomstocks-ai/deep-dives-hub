@@ -150,7 +150,7 @@ Embed a live TradingView Advanced Chart widget at the **top of the deep dive** (
 One row to append to the Summary Table in `docs/index.md`:
 
 ```markdown
-| **{TICKER}** | {Company} | <span class="badge badge-{BADGE}">{Sector}</span> | <span class="rating-{RATING_CLASS}">{RATING}</span> | ${PRICE} | {YYYY-MM-DD} | [:material-file-document: Read](deep-dives/{TICKER}.md) |
+| <tv-ticker-tag symbol="{EXCHANGE}:{TICKER}" hide-background></tv-ticker-tag> | {Company} | <span class="badge badge-{BADGE}">{Sector}</span> | <span class="rating-{RATING_CLASS}">{RATING}</span> | {YYYY-MM-DD} | [:material-file-document: Read](deep-dives/{TICKER}.md) |
 ```
 
 ---
@@ -162,7 +162,7 @@ Two snippets to add to the correct sector page:
 **A) Table row** — append to the Summary Table:
 
 ```markdown
-| **{TICKER}** | {Company} | <span class="rating-{RATING_CLASS}">{RATING}</span> | ${PRICE} | {YYYY-MM-DD} | [:material-file-document: Read]({TICKER}.md) |
+| <tv-ticker-tag symbol="{EXCHANGE}:{TICKER}" hide-background></tv-ticker-tag> | {Company} | <span class="rating-{RATING_CLASS}">{RATING}</span> | {YYYY-MM-DD} | [:material-file-document: Read]({TICKER}.md) |
 ```
 
 NOTE: Link is just `{TICKER}.md` (NOT `deep-dives/{TICKER}.md`) because the sector page is already inside `deep-dives/`.
@@ -170,7 +170,7 @@ NOTE: Link is just `{TICKER}.md` (NOT `deep-dives/{TICKER}.md`) because the sect
 **B) Gist section** — append after the last `---` in the Gists area:
 
 ```markdown
-### {TICKER} — {Company} · <span class="rating-{RATING_CLASS}">{RATING}</span> · ${PRICE}
+### {TICKER} — {Company} · <span class="rating-{RATING_CLASS}">{RATING}</span>
 
 {2-4 sentence summary: what the company does, key financial metrics, main thesis, primary risk, and price targets.}
 
@@ -255,6 +255,7 @@ When generating Markdown content, escape these characters to avoid rendering iss
 | `<` or `>` in text | `\<` / `\>` | Parsed as HTML tags |
 
 **Dollar sign rule:** Every price, market cap, revenue figure, or any numeric value prefixed with `$` MUST be written as `\$XX.XX` in all Markdown artifacts (deep dive, sector pages, index table, gists). This includes:
+
 - Price targets: `\$14.00` (not `$14.00`)
 - Market caps: `\$277M` (not `$277M`)
 - Revenue ranges: `\$60–70M` (not `$60–70M`)

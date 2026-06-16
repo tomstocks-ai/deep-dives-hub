@@ -46,6 +46,7 @@ hide:
 Core Scientific, Inc. (NASDAQ: CORZ) is a digital infrastructure company that operates large-scale data centers for bitcoin mining and high-density colocation (HDC) services for AI and high-performance computing (HPC) workloads. The company is executing a strategic pivot from low-margin self-mining to higher-margin infrastructure hosting.
 
 **Business Model and Revenue Segments:**
+
 - **Digital Asset Mining:** Self-mining bitcoin using owned ASIC miners. Revenue tied to BTC price, network difficulty, and hash rate. This segment is declining as the company reallocates capacity to colocation.
 - **High-Density Colocation (HDC):** Hosting third-party AI/HPC infrastructure in Core Scientific's data centers. This is the growth engine — higher margins, long-term contracts, and less exposure to BTC volatility.
 - **Equipment Sales:** Occasional sales of mining equipment.
@@ -53,17 +54,20 @@ Core Scientific, Inc. (NASDAQ: CORZ) is a digital infrastructure company that op
 Revenue mix is shifting rapidly. HDC revenue grew 168% YoY in FY2025 to \$65.4M, while total revenue declined 38% to \$319M as mining revenue shrank.
 
 **Industry Position and Competitive Moat:**
+
 - One of the largest publicly traded bitcoin miners in North America by energized hash rate (~19 EH/s).
 - ~745 MW of total power capacity across facilities in Texas, North Carolina, Oklahoma, and Kentucky.
 - Existing relationships with hyperscalers (CoreWeave is a major HDC customer) provide a pathway to AI infrastructure hosting.
 - Moat is operational scale and power access, not technology. The pivot to HDC is replicable by other miners with similar power portfolios.
 
 **Management and Ownership:**
+
 - CEO Adam Sullivan has led the strategic pivot since 2022.
 - The company emerged from Chapter 11 bankruptcy in January 2024, giving management a fresh balance sheet — but also a history of financial distress.
 - Insider ownership is moderate; institutional ownership is high post-restructuring.
 
 **Key Facilities and Jurisdictions:**
+
 - Primary operations in Texas (Denton, Midland), North Carolina (Lenoir), Oklahoma, and Kentucky.
 - Power contracts are a mix of fixed and variable-rate agreements; Texas exposure means ERCOT pricing volatility.
 
@@ -97,6 +101,7 @@ Revenue mix is shifting rapidly. HDC revenue grew 168% YoY in FY2025 to \$65.4M,
 | Stockholders' Equity | Negative | Balance sheet is technically insolvent on a book basis |
 
 **Balance Sheet Notes:**
+
 - The company restated 2024–2025 financials due to a \$127.3M PP&E asset error and disclosed a material weakness in internal controls over financial reporting. This is a red flag for governance and audit quality.
 - Negative equity is driven by warrant liabilities and accumulated losses. The company is solvent on a going-concern basis due to cash and cash flow from operations, but the balance sheet is fragile.
 - Heavy capex commitments for HDC buildout. Q3 2025 capex was \$244.5M, of which \$196.4M was funded by CoreWeave under existing agreements.
@@ -130,6 +135,7 @@ Core Scientific is not profitable on an operating basis, so traditional P/E and 
 Given the binary nature of the HDC pivot and the lack of operating profitability, a traditional DCF is unreliable. Instead, we use a sum-of-the-parts approach with scenario-based price targets.
 
 **Assumptions:**
+
 - Mining business: valued at 1–2x revenue (declining, low-margin).
 - HDC business: valued at 8–15x revenue (growth, higher-margin, comparable to data center REITs and AI infrastructure peers).
 - FY2026 revenue guidance: Not explicitly provided, but HDC revenue could reach \$150–200M if growth continues; mining revenue likely flat-to-down at ~\$250M.
@@ -192,6 +198,7 @@ The HDC pivot is a credible growth story, but the valuation is stretched and the
 **Stop Loss:** \$18.00 (below the 200-day moving average and key support from the Q1 2025 rally). A break below \$18 would signal a failed breakout and potential return to the \$10–12 range.
 
 **Key Levels to Watch:**
+
 - **Support:** \$24.00 (recent consolidation), \$20.00 (psychological), \$18.00 (stop loss)
 - **Resistance:** \$30.46 (52-week high), \$32.00 (analyst consensus target)
 - **Catalyst Calendar:**

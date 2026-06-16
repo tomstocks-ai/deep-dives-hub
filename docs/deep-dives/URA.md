@@ -136,6 +136,7 @@ Nuclear sentiment sours; recession delays reactor builds; secondary supply fills
 ## 8. RECOMMENDATION
 
 - **Rating:** **BUY**
+
 - **Position sizing:** 3–5% of portfolio as energy/commodities allocation
 - **Entry strategy:** Scale in at current levels (RSI near oversold). Add on dips to \$40.
 - **Stop loss:** Close below \$38 (2024 breakout level)

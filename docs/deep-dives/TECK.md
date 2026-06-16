@@ -63,6 +63,7 @@ Teck Resources Limited represents one of the most compelling transformation stor
 The pending "merger of equals" with Anglo American (expected completion: mid-2026) will create **Anglo Teck**—a top-five global copper producer with >70% copper exposure, annual synergies of \$800 million, and transformative adjacency benefits from combining Quebrada Blanca with Anglo's Collahuasi operation.
 
 **Investment Thesis:** Teck offers investors a unique combination of:
+
 - Pure-play exposure to copper, the "metal of electrification"
 - Bulletproof balance sheet with net cash position (~\$5B)
 - Transformational merger creating a global mining champion
@@ -92,11 +93,13 @@ Teck's history is deeply intertwined with Canada's industrial development:
 Teck has executed a remarkable pivot from a diversified, carbon-intensive resource company to a focused "green metals" producer:
 
 **Legacy Model (Pre-2024):**
+
 - Four pillars: Copper, Zinc, Steelmaking Coal, Energy (oil sands)
 - Revenue: 44% coal, 34% zinc, 21% copper (2016)
 - ESG concerns, carbon exposure
 
 **Current Model (Post-Coal Sale):**
+
 | Segment | Key Assets | 2025 Contribution |
 |---------|-----------|-------------------|
 | **Copper** | QB2 (60%), HVC (100%), Antamina (22.5%), Carmen de Andacollo (90%) | ~70% of EBITDA |
@@ -199,6 +202,7 @@ Teck's balance sheet is among the strongest in the sector:
 ### 3.3 DCF Scenario Analysis
 
 **Assumptions:**
+
 - Copper long-term price: \$4.00-4.50/lb
 - QB2 reaches 280kt+ by 2028
 - Anglo merger synergies: \$800M annual from Year 4
@@ -234,6 +238,7 @@ Teck's balance sheet is among the strongest in the sector:
 ### 4.1 Quebrada Blanca 2 (QB2) - Flagship Asset
 
 **Project Overview:**
+
 - Location: Tarapacá Region, Chile
 - Ownership: 60% Teck / 40% Sumitomo
 - Investment: ~\$7.5B total capital
@@ -288,6 +293,7 @@ The merger creates exceptional value through:
 | **Grid Infrastructure** | Global electrification | 2025-2040 |
 
 **Supply-Demand Outlook:**
+
 - Structural deficit projected: 5M tonnes by 2030
 - New project development lag: 10-15 years
 - Copper price forecast: \$4.00-5.00/lb long-term
@@ -364,6 +370,7 @@ The merger creates exceptional value through:
 | Consensus | Hold | \$46 | - |
 
 **Consensus Distribution:**
+
 - Strong Buy: 35%
 - Buy: 25%
 - Hold: 30%
@@ -422,6 +429,7 @@ The merger creates exceptional value through:
 ### 7.3 Press Releases Watch
 
 Key upcoming catalysts:
+
 - Q4 2025 earnings (April 23, 2026)
 - QB2 operational updates (quarterly)
 - Anglo merger regulatory approvals
@@ -434,6 +442,7 @@ Key upcoming catalysts:
 ### 8.1 Bull Case (40% Probability) - Target: \$68
 
 **Assumptions:**
+
 - Copper price averages \$5.00/lb (2026-2028)
 - QB2 achieves 280kt+ by 2027
 - Anglo merger closes on schedule (mid-2026)
@@ -441,6 +450,7 @@ Key upcoming catalysts:
 - Global copper deficit accelerates
 
 **Upside Drivers:**
+
 - QB2 optimization adds 5-10% throughput
 - Collahuasi/QB2 integration unlocks \$1.4B EBITDA
 - Copper supercycle narrative gains traction
@@ -449,6 +459,7 @@ Key upcoming catalysts:
 ### 8.2 Base Case (45% Probability) - Target: \$55
 
 **Assumptions:**
+
 - Copper price averages \$4.25/lb
 - QB2 reaches 240kt by 2027
 - Anglo merger closes with normal execution
@@ -456,6 +467,7 @@ Key upcoming catalysts:
 - Moderate copper market tightness
 
 **Expected Returns:**
+
 - 13% upside to current price
 - Dividend yield: 0.75%
 - Total return potential: 15-18% annually
@@ -463,6 +475,7 @@ Key upcoming catalysts:
 ### 8.3 Bear Case (15% Probability) - Target: \$38
 
 **Assumptions:**
+
 - Copper price falls to \$3.50/lb (global recession)
 - QB2 continues to underperform
 - Anglo merger faces delays or fails
@@ -470,6 +483,7 @@ Key upcoming catalysts:
 - Operational issues persist
 
 **Downside Protection:**
+
 - Net cash position limits financial risk
 - Zinc business provides diversification
 - Low-cost asset base
@@ -490,6 +504,7 @@ Key upcoming catalysts:
 ### 9.1 Investment Rating: OVERWEIGHT / BUY
 
 **Position Sizing:**
+
 - **Conservative Portfolio:** 2-3% allocation
 - **Moderate Portfolio:** 3-5% allocation
 - **Aggressive/Growth Portfolio:** 5-7% allocation
@@ -526,12 +541,14 @@ Key upcoming catalysts:
 ### 9.5 Portfolio Fit
 
 **TECK is suitable for:**
+
 - ✅ Commodity/cyclical exposure
 - ✅ ESG-focused investors (post-coal transformation)
 - ✅ Copper thematic positioning
 - ✅ Growth at reasonable price (GARP) strategies
 
 **TECK is NOT suitable for:**
+
 - ❌ Income-focused investors (low dividend yield)
 - ❌ Risk-averse investors (commodity volatility)
 - ❌ Short-term traders (merger timeline)
@@ -571,6 +588,7 @@ Key upcoming catalysts:
 ### 10.4 Investment Analogy
 
 Investing in TECK is like:
+
 - Buying a premium plot of land (the mines)
 - In a neighborhood that's becoming highly desirable (copper demand)
 - While the previous owner finished building the house (QB2)
@@ -605,6 +623,7 @@ Investing in TECK is like:
 ### 11.3 Merger Exchange Ratio
 
 - **1 TECK Share** = **1.3301 Anglo American Shares**
+
 - Anglo American Shareholders: 62.4% of combined company
 - Teck Shareholders: 37.6% of combined company
 - Special Dividend: \$4.5B to Anglo shareholders pre-close

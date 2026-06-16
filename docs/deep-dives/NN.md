@@ -113,6 +113,7 @@ This company is entirely dependent on regulatory approval to generate meaningful
 
 ### How to Value This
 You can't value NextNav on fundamentals. It's a **call option on regulatory approval** with these parameters:
+
 - **Strike price:** Current market cap prices in ~50% probability of approval
 - **Expiry:** 12-18 months (cash runway)
 - **Premium:** Whatever you pay above the "denial" scenario (~\$5-8/share)

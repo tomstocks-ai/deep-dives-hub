@@ -53,16 +53,19 @@ hide:
 Virgin Galactic Holdings (NYSE: SPCE) is a vertically integrated aerospace company developing commercial human spaceflight for private individuals and researchers. Founded by Sir Richard Branson and headquartered in Orange County, California, the company operates the only FAA-licensed spaceline with a proven air-launch system.
 
 **Business Model:**
+
 - **Commercial Spaceflight:** Suborbital flights to the edge of space (~80 km altitude) for private astronauts, selling seats at ~\$450,000 each.
 - **Research Missions:** Microgravity research payloads for government and private customers.
 - **Future Fleet Services:** Planned high-frequency operations with next-generation Delta-class space vehicles.
 
 **Fleet & Operations:**
+
 - Current fleet: VSS Unity (retiring) and carrier aircraft VMS Eve.
 - **Delta-class program:** Two new SpaceShips under development. First vehicle progressing to ground test phase in April 2026; flight test phase begins Q3 2026. Commercial operations with first new SpaceShip targeted for Q4 2026. Second vehicle expected between late Q4 2026 and early Q1 2027.
 - The company paused commercial flights in 2024–2025 to focus resources on Delta-class development.
 
 **Management:**
+
 - CEO Michael Colglazier (former Disney Parks executive) leads operations.
 - Founder Richard Branson remains a significant shareholder and brand ambassador.
 - The company has undergone significant restructuring, including a December 2025 capital realignment that reduced contractual debt obligations by \$142 million.
