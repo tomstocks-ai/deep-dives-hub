@@ -1,6 +1,6 @@
 /* Deep Dives Hub — custom styles */
 
-/* Sector badges */
+/* Theme badges */
 .badge {
   display: inline-block;
   padding: 0.15em 0.55em;
@@ -11,13 +11,33 @@
   letter-spacing: 0.04em;
 }
 
+/* Legacy (keep for backward compat) */
 .badge-tech       { background: #e3f2fd; color: #1565c0; }
-.badge-space      { background: #e8eaf6; color: #283593; }
 .badge-energy     { background: #fff3e0; color: #e65100; }
 .badge-materials  { background: #efebe9; color: #4e342e; }
+.badge-consumer   { background: #fce4ec; color: #c62828; }
+
+/* New thematic badges */
+.badge-semi       { background: #e3f2fd; color: #1565c0; }
+.badge-memory     { background: #e1f5fe; color: #0277bd; }
+.badge-networking { background: #e0f7fa; color: #00695c; }
+.badge-photonics  { background: #f3e5f5; color: #6a1b9a; }
+.badge-semi-equip { background: #e8eaf6; color: #283593; }
+.badge-dc-infra   { background: #eceff1; color: #37474f; }
+.badge-dc-hpc     { background: #e3f2fd; color: #0d47a1; }
+.badge-cloud      { background: #e8f5e9; color: #1b5e20; }
+.badge-cyber      { background: #fce4ec; color: #b71c1c; }
+.badge-defense    { background: #efebe9; color: #3e2723; }
+.badge-robotics   { background: #fff3e0; color: #e65100; }
+.badge-space      { background: #e8eaf6; color: #283593; }
+.badge-quantum    { background: #f3e5f5; color: #4a148c; }
+.badge-nuclear    { background: #fff9c4; color: #f57f17; }
+.badge-grid       { background: #fff3e0; color: #e65100; }
+.badge-minerals   { background: #efebe9; color: #4e342e; }
 .badge-health     { background: #e8f5e9; color: #2e7d32; }
 .badge-fintech    { background: #ede7f6; color: #4527a0; }
-.badge-consumer   { background: #fce4ec; color: #c62828; }
+.badge-evtol      { background: #e0f2f1; color: #004d40; }
+.badge-natgas     { background: #fbe9e7; color: #bf360c; }
 
 /* Rating chips */
 .rating-buy           { color: #2e7d32; font-weight: 700; }
