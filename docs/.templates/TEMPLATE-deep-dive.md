@@ -1,7 +1,7 @@
 # Deep Dive Page Template
 #
 # File location: docs/deep-dives/{TICKER}.md
-# This page is NOT in the nav — only reachable via links from index.md and sector pages.
+# This page is NOT in the nav — only reachable via links from table.md and thematic pages.
 #
 # ─────────────────────────────────────────────
 

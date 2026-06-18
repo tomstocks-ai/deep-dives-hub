@@ -1,0 +1,36 @@
+---
+title: Fintech & Digital Payments
+---
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
+
+[← Back to Summary](../index.md)
+
+## Fintech & Digital Payments
+
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-buy">BUY</span> | 2026-04-21 | [:material-file-document: Read](CRCL.md) |
+| <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
+
+---
+### Stablecoins / Crypto Finance
+
+**CRCL — Circle Internet Group · <span class="rating-buy">BUY</span>**
+
+Circle is the issuer of USDC, the second-largest stablecoin with ~\$75B in circulation and ~25% market share. Revenue of \$2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. The GENIUS Act (stablecoin regulation) is the key catalyst — passage would solidify Circle's regulatory moat. The biggest structural concern is Coinbase's revenue-sharing agreement, which captures ~56% of total reserve revenue.
+
+**Bull:** \$180–\$220 · **Base:** \$100–\$130 · **Bear:** \$45–\$65
+
+[:material-arrow-right: Full Deep Dive](CRCL.md)
+
+---
+
+**PURR — Hyperliquid Strategies Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoin playbook, but focused on Hyperliquid's HYPE token. Holds ~17.6M HYPE (~\$1.14B) plus \$103M cash with minimal liabilities. Q3 FY2026 profit of \$152.5M driven by \$198.4M unrealized HYPE gains. Russell 3000 inclusion effective June 26 creates mandatory passive buying. Extremely overbought (RSI 78) after 219% YTD run — wait for pullback.
+
+**Bull:** \$16–\$20 · **Base:** \$11–\$14 · **Bear:** \$5–\$7
+
+[:material-arrow-right: Full Deep Dive](PURR.md)
+
+---

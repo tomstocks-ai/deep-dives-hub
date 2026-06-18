@@ -1,29 +1,30 @@
 ---
-title: Space
+title: Space Economy
 ---
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
-# Space
+## Space
 
 ## Summary Table
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](ASTS.md) |
-| <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
+| <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar | <span class="rating-buy">ACCUMULATE</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](SATL.md) |
+| <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
 | <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | 2026-04-17 | [:material-file-document: Read](NN.md) |
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
 
 ---
 
-## Gists
+### Satellite Connectivity
 
-### ASTS — AST SpaceMobile · <span class="rating-spec-buy">SPEC. BUY</span> · \$81.02
+**ASTS — AST SpaceMobile · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Pioneering space-based cellular broadband network — first to achieve commercial voice, video calls, and 5G data speeds via direct-to-cell satellite. Real revenue \$70.9M in 2025 (up 1,505%). \$2.34B cash provides 22-month runway. Partnerships with AT&T, Verizon, Vodafone cover ~3 billion potential subscribers. Extreme valuation at 447x P/S reflects massive growth expectations. CEO Abel Avellan owns 40.6% — strong alignment. Key risk: SpaceX Starlink competition.
+Pioneering space-based cellular broadband network — first to achieve commercial voice, video calls, and 5G data speeds via direct-to-cell satellite. Real revenue \$70.9M in 2025 (up 1,505%). \$2.34B cash provides 22-month runway. Partnerships with AT&T, Verizon, Vodafone cover ~3 billion potential subscribers. Extreme valuation at 447x P/S reflects massive growth expectations.
 
 **Bull:** \$180–220 · **Base:** \$70–95 · **Bear:** \$25–35
 
@@ -31,19 +32,19 @@ Pioneering space-based cellular broadband network — first to achieve commercia
 
 ---
 
-### PL — Planet Labs · <span class="rating-hold">HOLD</span> · \$37.49
+**SATS — EchoStar · <span class="rating-buy">ACCUMULATE</span>**
 
-Leading Earth observation company with ~200 satellites providing daily global imagery. Largest commercial constellation by unit count. Revenue \$307.7M FY2026 (+26% YoY), backlog \$900M (+79%). Achieved positive free cash flow (\$57.7M) for first time. Gross margins 56% and expanding. However, stock trades at 40x sales after 900% run-up — extreme valuation prices in perfection. Analyst targets (\$27.96–\$34.40) below current price.
+Dramatic transformation from distressed wireless carrier to spectrum monetization entity via \$42.6B strategic asset sales to AT&T and SpaceX. ~2% SpaceX equity stake worth ~\$11B provides unique asymmetric upside. Post-transaction: debt reduction from ~\$26B to ~\$5–8B. Pay-TV generates \$2.69B Adjusted OIBDA as cash cow. YTD +497%.
 
-**Bull:** \$45–50 · **Base:** \$30–35 · **Bear:** \$15–20
+**Bull:** \$180–220 · **Base:** \$125–145 · **Bear:** \$60–80
 
-[:material-arrow-right: Full Deep Dive](PL.md)
+[:material-arrow-right: Full Deep Dive](SATS.md)
 
 ---
 
-### SATL — Satellogic · <span class="rating-spec-buy">SPEC. BUY</span> · \$6.70
+**SATL — Satellogic · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Vertically integrated Earth observation company building own satellites. 72% gross margins with 38% revenue growth (\$17.7M). 27% HREE content at Tanbreez project is critical differentiator. \$130M cash runway. Merlin constellation launch (Oct 2026) is binary catalyst — AI-first, 1-meter daily remapping capability. High customer concentration (top 2 = 50%+ revenue). High short interest (23.8%) creates squeeze potential.
+Vertically integrated Earth observation company building own satellites. 72% gross margins with 38% revenue growth (\$17.7M). \$130M cash runway. Merlin constellation launch (Oct 2026) is binary catalyst — AI-first, 1-meter daily remapping capability. High customer concentration (top 2 = 50%+ revenue). High short interest (23.8%) creates squeeze potential.
 
 **Bull:** \$8–10 · **Base:** \$5 · **Bear:** \$1.25
 
@@ -51,9 +52,23 @@ Vertically integrated Earth observation company building own satellites. 72% gro
 
 ---
 
-### NN — NextNav · <span class="rating-hold">SPEC. HOLD</span> · \$23.19
+### Geospatial Intelligence
 
-Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM (Notice of Proposed Rulemaking) is binary catalyst that could drop any day. 20.5% portfolio concentration is dangerously high for this risk profile.
+**PL — Planet Labs · <span class="rating-hold">HOLD</span>**
+
+Leading Earth observation company with ~200 satellites providing daily global imagery. Largest commercial constellation by unit count. Revenue \$307.7M FY2026 (+26% YoY), backlog \$900M (+79%). Achieved positive free cash flow (\$57.7M) for first time. Gross margins 56% and expanding. However, stock trades at 40x sales after 900% run-up — extreme valuation prices in perfection.
+
+**Bull:** \$45–50 · **Base:** \$30–35 · **Bear:** \$15–20
+
+[:material-arrow-right: Full Deep Dive](PL.md)
+
+---
+
+### Communications
+
+**NN — NextNav · <span class="rating-spec-hold">SPEC. HOLD</span>**
+
+Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM is binary catalyst.
 
 **Bull:** \$28–32 · **Base:** \$22–24 · **Bear:** \$8–12
 
@@ -61,20 +76,14 @@ Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 
 
 ---
 
-### SPCE — Virgin Galactic Holdings · <span class="rating-spec">SPECULATIVE</span> · \$4.53
+### Launch
 
-Commercial spaceflight company developing suborbital tourism via air-launched SpaceShip vehicles. Currently pre-revenue after pausing flights to focus on next-generation Delta-class fleet. First Delta-class ship enters ground tests April 2026, flight tests Q3 2026, and commercial service targeted for Q4 2026. FY2025 revenue was only \$1.54M against a \$279M net loss and \$438M negative free cash flow. Cash of \$338M provides ~3–4 quarters of runway. Stock has doubled from lows; RSI is overbought at 78.83. Pure speculative call option on Delta-class execution.
+**SPCE — Virgin Galactic Holdings · <span class="rating-spec">SPECULATIVE</span>**
+
+Commercial spaceflight company developing suborbital tourism via air-launched SpaceShip vehicles. Currently pre-revenue after pausing flights to focus on next-generation Delta-class fleet. First Delta-class ship enters ground tests April 2026, flight tests Q3 2026, and commercial service targeted for Q4 2026. Cash of \$338M provides ~3–4 quarters of runway. Pure speculative call option on Delta-class execution.
 
 **Bull:** \$12–\$16 · **Base:** \$3–\$5 · **Bear:** \$1–\$2
 
 [:material-arrow-right: Full Deep Dive](SPCE.md)
 
 ---
-
-## Sources Consulted
-
-1. [Yahoo Finance - SPACE](https://finance.yahoo.com/quote/SPACE)
-2. [SEC EDGAR - SPACE Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPACE)
-3. [MarketBeat - SPACE Analysis](https://www.marketbeat.com/stocks/NASDAQ/SPACE)
-4. [TipRanks - SPACE Stock](https://www.tipranks.com/stocks/space)
-5. [Finviz - SPACE](https://finviz.com/quote.ashx?t=SPACE)

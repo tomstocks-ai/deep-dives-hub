@@ -6,7 +6,7 @@ title: Deep Dives Hub
 
 Welcome to the **Deep Dives Hub** - a collaborative, open-source repository of stock deep-dive research.
 
-Each ticker gets a concise summary on its sector page and a full deep-dive page. 
+Each ticker gets a concise summary on its thematic page and a full deep-dive page. 
 
 All data is also available as JSON for AI agents.
 
@@ -38,7 +38,7 @@ See the [API Reference](api-docs.md) for details.
 1. Fork the repo
 2. Add a Markdown deep dive at `docs/deep-dives/<TICKER>.md`
 3. Add the corresponding JSON at `docs/api/<TICKER>.json`
-4. Add the gist & table row to the sector page (`docs/deep-dives/<sector>.md`)
+4. Add the gist & table row to the thematic page (`docs/deep-dives/<theme>.md`)
 5. Add the table row to `docs/table.md`
 6. Update `docs/api/tickers.json`
 7. Open a PR — the site redeploys automatically on merge to `master`
