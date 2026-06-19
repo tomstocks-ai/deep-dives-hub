@@ -1,0 +1,55 @@
+{
+  "ticker": "MRVL",
+  "company": "Marvell Technology, Inc.",
+  "sector": "Technology",
+  "industry": "Data Infrastructure Semiconductors / Custom AI Silicon",
+  "exchange": "NASDAQ",
+  "price": 310.58,
+  "market_cap": "$270B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "Marvell is a mission-critical supplier to hyperscaler AI buildouts, with 76% of revenue from data center products including custom AI silicon (ASICs) and networking solutions. 27% revenue growth and 35% non-GAAP operating margins reflect strong execution, but the stock has run ~5x from 52-week lows and trades at ~97x P/E, creating significant valuation risk. Speculative Buy on pullback.",
+  "financials": {
+    "fiscal_year": "FY2027",
+    "revenue": "$2.42B (Q1)",
+    "revenue_growth": "+27% YoY",
+    "gross_margin": "58.9% (non-GAAP)",
+    "net_income": "$696M (Q1 non-GAAP est.)",
+    "eps_diluted": "$0.80 (non-GAAP)",
+    "cash": "~$1.0B",
+    "fcf": "Positive and expanding"
+  },
+  "bull_case": {
+    "target": "$380–420",
+    "drivers": [
+      "Custom AI silicon wins at 4+ hyperscalers on 3nm/2nm nodes",
+      "800G/1.6T AI networking upgrade cycle drives switch silicon share gains",
+      "DPU/SmartNIC adoption expands TAM beyond raw AI compute",
+      "Data center mix rises above 80%, pushing gross margins toward 60%+"
+    ]
+  },
+  "bear_case": {
+    "target": "$180–220",
+    "risks": [
+      "Hyperscaler AI capex cut triggers 30–40% multiple compression",
+      "Customer in-sourcing (Google TPU, Amazon Trainium) erodes custom silicon TAM",
+      "Broadcom bundles custom silicon with switching, squeezing Marvell share",
+      "NVIDIA GPU dominance limits ASIC adoption for training workloads"
+    ]
+  },
+  "base_case": {
+    "target": "$280–320",
+    "assumptions": "Steady hyperscaler AI spend; custom silicon ramps at 2–3 customers; data center mix ~80%; gross margins stable at 58–62%; operating margins 35–38%."
+  },
+  "catalysts": [
+    {"date": "2026-08-27", "event": "Q2 FY2027 earnings — EPS est $0.87; FY2027 guidance critical"},
+    {"date": "2026-09", "event": "Potential custom silicon design win announcements"},
+    {"date": "2026-10", "event": "Analyst day / investor event — margin and TAM updates"}
+  ],
+  "key_risks": [
+    "Valuation: ~97x P/E and ~28x sales price in years of flawless execution",
+    "Customer concentration: AWS, Google, Microsoft represent large data center revenue share",
+    "Competition from Broadcom (AVGO) with deeper resources and larger installed base",
+    "AI capex cycle sensitivity"
+  ]
+}
