@@ -1,0 +1,56 @@
+{
+  "ticker": "MARA",
+  "company": "MARA Holdings, Inc.",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "industry": "Bitcoin Mining / Digital Asset Infrastructure",
+  "sector": "Fintech",
+  "exchange": "NASDAQ",
+  "price": 14.22,
+  "market_cap": "$4.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "MARA is the largest publicly traded Bitcoin miner with 1.7 GW of captive power, ~52,850 BTC treasury (~$3.9B), and an emerging AI infrastructure pivot via Starwood partnership. At $14.22, the stock trades near NAV floor with asymmetric upside to BTC rallies and HPC monetization.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$850M–$950M",
+    "revenue_growth": "N/A (commodity-driven)",
+    "gross_margin": "Variable (BTC price dependent)",
+    "net_income": "$22.3M (Q3 2025)",
+    "eps_diluted": "N/A",
+    "cash": "Limited (BTC serves as liquid reserve)",
+    "fcf": "Negative during expansion"
+  },
+  "bull_case": {
+    "target": "$33–$43",
+    "drivers": [
+      "Bitcoin price rallies to $120K–$150K",
+      "AI infrastructure pivot monetizes via Starwood partnership",
+      "75 EH/s hashrate target achieved with margin expansion"
+    ]
+  },
+  "bear_case": {
+    "target": "$10–$15",
+    "risks": [
+      "Bitcoin bear market below $65K erodes NAV and mining margins",
+      "Global hashrate growth compresses block rewards faster than fleet expansion",
+      "AI pivot delayed or fails to secure contracts"
+    ]
+  },
+  "base_case": {
+    "target": "$20–$26",
+    "assumptions": "Bitcoin stable $80K–$95K; operational execution on hashrate; modest AI infrastructure contribution by 2027"
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q2 2026 Earnings — hashrate progress and AI infra update"},
+    {"date": "2026-12-01", "event": "End-2025 hashrate target verification (75 EH/s)"},
+    {"date": "2028-01-01", "event": "Bitcoin Halving — block reward cut to 1.5625 BTC"}
+  ],
+  "key_risks": [
+    "Single-asset concentration: 90%+ value tied to Bitcoin price",
+    "Mining margin compression from global hashrate growth",
+    "Convertible debt dilution ($950M 2032 notes)",
+    "Regulatory risk (SEC, environmental, energy policy)",
+    "Fleet obsolescence requiring continuous capex"
+  ]
+}

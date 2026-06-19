@@ -686,6 +686,19 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MU/",
       "api_url": "/api/MU.json"
+    },
+    {
+      "ticker": "MARA",
+      "company": "MARA Holdings, Inc.",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "industry": "Bitcoin Mining / Digital Asset Infrastructure",
+      "rating": "SPEC. BUY",
+      "price": 14.22,
+      "market_cap": "$4.5B",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/MARA/",
+      "api_url": "/api/MARA.json"
     }
   ]
 }
