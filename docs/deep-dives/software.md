@@ -13,6 +13,22 @@ title: Cloud & Enterprise Software
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
 | <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+ | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
+
+---
+
+### Enterprise Software
+
+**CVLT — Commvault Systems, Inc. · <span class="rating-hold">HOLD</span>**
+
+Enterprise data protection and cyber resilience platform that has successfully transformed from legacy on-premise backup to a subscription-first SaaS model. FY2026 revenue hit $1,184M (+19% YoY) with total ARR of $1,122M (+21% YoY). SaaS revenue surged 52% to $333M and subscription ARR grew 27% to $989M. FY free cash flow was $237M, with Q4 delivering a record $132M. FY2027 guidance calls for $1.30–$1.31B revenue and 20.5% non-GAAP EBIT margin. However, the stock has rallied 81% from its 52-week low and RSI at 76.5 signals overbought conditions. Strong fundamentals but stretched valuation warrant a HOLD.
+
+**Bull:** $165–$175 · **Base:** $130–$140 · **Bear:** $95–$105
+
+[:material-arrow-right: Full Deep Dive](CVLT.md)
+
+---
+
 
 ---
 

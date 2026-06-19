@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -699,6 +699,21 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MARA/",
       "api_url": "/api/MARA.json"
+    },
+    {
+      "ticker": "CVLT",
+      "company": "Commvault Systems, Inc.",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Enterprise Software",
+      "industry": "Enterprise Data Protection / Cyber Resilience",
+      "rating": "HOLD",
+      "price": 130.03,
+      "market_cap": "$6.3B",
+      "last_updated": "2026-06-20",
+      "deep_dive_url": "/deep-dives/CVLT/",
+      "api_url": "/api/CVLT.json"
     }
-  ]
+  ],
+  "last_updated": "2026-06-20"
 }
