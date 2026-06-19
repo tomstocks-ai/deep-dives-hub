@@ -673,6 +673,19 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/000660/",
       "api_url": "/api/000660.json"
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology, Inc.",
+      "theme": "AI Buildout",
+      "sub_theme": "Memory & Storage",
+      "industry": "Semiconductor Memory (DRAM, NAND, HBM)",
+      "rating": "HOLD",
+      "price": 1133.99,
+      "market_cap": "$1.25T",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/MU/",
+      "api_url": "/api/MU.json"
     }
   ]
 }
