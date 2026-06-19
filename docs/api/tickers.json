@@ -727,6 +727,20 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/RKLB/",
       "api_url": "/api/RKLB.json"
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology, Inc.",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking / Custom Silicon",
+      "industry": "Data Infrastructure Semiconductors / Custom AI Silicon",
+      "rating": "SPEC. BUY",
+      "price": 310.58,
+      "market_cap": "$270B",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/MRVL/",
+      "api_url": "/api/MRVL.json"
     }
   ],
   "last_updated": "2026-06-20"

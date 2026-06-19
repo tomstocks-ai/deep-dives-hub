@@ -67,7 +67,18 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 | <tv-ticker-tag symbol="NASDAQ:HLIT" hide-background></tv-ticker-tag> | Harmonic Inc. | <span class="rating-buy">BUY</span> | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CLFD" hide-background></tv-ticker-tag> | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
+| <tv-ticker-tag symbol="NASDAQ:MRVL" hide-background></tv-ticker-tag> | Marvell Technology, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](MRVL.md) |
 
+
+**MRVL — Marvell Technology, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Leading data infrastructure semiconductor company with 76% of revenue from data center products, including custom AI silicon (ASICs) for hyperscalers and high-speed networking solutions. Q1 FY2027 revenue of $2.42B (+27% YoY) with 58.9% non-GAAP gross margin and 35% operating margin. Deep co-design relationships with AWS, Google, and Microsoft create high switching costs. KeyBanc recently raised its target on AI networking strength. However, the stock has run ~5x from 52-week lows and trades at ~97x P/E, creating significant valuation risk.
+
+**Bull:** $380–420 · **Base:** $280–320 · **Bear:** $180–220
+
+[:material-arrow-right: Full Deep Dive](MRVL.md)
+
+---
 
 **CRDO — Credo Technology Group · <span class="rating-spec-buy">SPEC. BUY</span>**
 
