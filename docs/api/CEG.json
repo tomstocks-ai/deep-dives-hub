@@ -1,0 +1,58 @@
+{
+  "ticker": "CEG",
+  "company": "Constellation Energy Corporation",
+  "theme": "Nuclear",
+  "sub_theme": "Reactor Developers",
+  "sector": "Energy",
+  "industry": "Nuclear Power / Utilities",
+  "exchange": "NASDAQ",
+  "price": 288.0,
+  "market_cap": "$88.7B",
+  "rating": "BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "Constellation Energy is the largest carbon-free energy producer in the U.S., operating the nation's leading nuclear fleet. The company is a primary beneficiary of AI data center power demand, with multi-gigawatt PPAs signed with hyperscalers. The transformational $16.4B Calpine acquisition expands the fleet to ~55 GW and is expected to be 20% accretive to 2026 non-GAAP EPS. Stock trades ~30% below 52-week highs, offering attractive entry point.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$25.53B",
+    "revenue_growth": "+8.3%",
+    "gross_margin": "~23%",
+    "net_income": "$2.32B",
+    "eps_diluted": "$7.40",
+    "cash": "~$3.5B",
+    "fcf": "$1.12B"
+  },
+  "bull_case": {
+    "target": "$420–480",
+    "drivers": [
+      "Calpine integration exceeds synergy targets",
+      "Data center PPA volumes accelerate to 5+ GW",
+      "Nuclear capacity factors sustain >95%",
+      "Power prices rise 15–20% on AI-driven demand"
+    ]
+  },
+  "bear_case": {
+    "target": "$220–260",
+    "risks": [
+      "Calpine integration faces cost overruns",
+      "Power price weakness from oversupply",
+      "Regulatory delays on nuclear license extensions",
+      "Rising interest rates increase refinancing costs"
+    ]
+  },
+  "base_case": {
+    "target": "$330–380",
+    "assumptions": "Calpine integration proceeds on plan; 2–3 GW of new data center PPAs signed; nuclear fleet performs at historical norms; power prices stable; EPS reaches $14–16 by 2027"
+  },
+  "catalysts": [
+    {"date": "2026-08", "event": "Q2 2026 Earnings — Calpine integration update, data center PPA announcements"},
+    {"date": "2026-11", "event": "2026 Annual Guidance Update — Full-year outlook including Calpine contribution"},
+    {"date": "2026-2027", "event": "NRC License Extension Rulings — Key plant license renewals"}
+  ],
+  "key_risks": [
+    "Regulatory and political risk — NRC oversight, safety incidents, license revocation",
+    "Power price volatility — sensitivity to natural gas prices, weather, grid demand",
+    "Calpine integration risk — $16.4B acquisition; largest in company history",
+    "Nuclear waste and decommissioning liabilities — long-term off-balance-sheet obligations",
+    "Competition from renewables + storage — falling costs of solar, wind, battery storage"
+  ]
+}
