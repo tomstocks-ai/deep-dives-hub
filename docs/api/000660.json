@@ -1,0 +1,59 @@
+{
+  "ticker": "000660",
+  "company": "SK hynix Inc.",
+  "theme": "AI Buildout",
+  "sub_theme": "Memory & Storage",
+  "sector": "Technology",
+  "industry": "Semiconductor Memory (DRAM, NAND, HBM)",
+  "exchange": "KRX",
+  "price": 2764000,
+  "market_cap": "KRW 1,902T (~$1.38T)",
+  "rating": "BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "SK hynix is the dominant global supplier of HBM (high-bandwidth memory) for AI accelerators, holding ~50-55% HBM market share and an estimated 65-70% of NVIDIA's HBM4 orders. Q1 2026 revenue hit a record KRW 52.6T (+198% YoY) with 72% operating margins. The multiyear NVIDIA supply pact and Yongin/M15X fab expansion provide structural visibility through 2027. Memory cyclicality remains the primary risk.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "KRW 97.15T (~$70.4B)",
+    "revenue_growth": "+46.8%",
+    "gross_margin": "~55%",
+    "net_income": "KRW 42.95T (~$31.1B)",
+    "eps_diluted": "N/A",
+    "cash": "Robust (deleveraged)",
+    "fcf": "Massive (capex-heavy)"
+  },
+  "bull_case": {
+    "target": "KRW 3,500,000–3,800,000",
+    "drivers": [
+      "HBM4 demand sustains through 2027 with NVIDIA Rubin/Blackwell cycle",
+      "Samsung HBM4 delays extend SK hynix pricing power",
+      "DRAM industry supply discipline holds, raising margin floor",
+      "Yongin Cluster and M15X ramp on schedule"
+    ]
+  },
+  "bear_case": {
+    "target": "KRW 1,800,000–2,200,000",
+    "risks": [
+      "DRAM oversupply returns in 2027 as capex catches up",
+      "Samsung closes HBM4 technology gap and wins back NVIDIA share",
+      "AI capex cycle peaks and hyperscalers cut orders",
+      "Memory prices collapse 30-40% in a downturn"
+    ]
+  },
+  "base_case": {
+    "target": "KRW 2,800,000–3,200,000",
+    "assumptions": "HBM growth moderates but remains strong through 2027. Standard DRAM pricing normalizes gradually. Operating margins compress from 70%+ to 40-50% range. P/E ~10-12x on normalized earnings."
+  },
+  "catalysts": [
+    {"date": "2026-07", "event": "Q2 2026 earnings — HBM revenue mix and margin sustainability"},
+    {"date": "2026-08", "event": "HBM4 mass production volume ramp confirmation"},
+    {"date": "2026-10", "event": "NVIDIA Rubin/Blackwell launch validates HBM4 demand trajectory"},
+    {"date": "2027-01", "event": "FY2026 full-year results and FY2027 capex guidance"}
+  ],
+  "key_risks": [
+    "Memory cyclicality — current 70%+ operating margins are unsustainable historically",
+    "Samsung HBM4 competition intensifying",
+    "AI capex cut risk from hyperscaler demand slowdown",
+    "China export controls and geopolitical risk",
+    "KRW/USD currency risk for foreign investors"
+  ]
+}
