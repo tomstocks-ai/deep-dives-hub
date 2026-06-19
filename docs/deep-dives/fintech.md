@@ -34,3 +34,13 @@ Publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoi
 [:material-arrow-right: Full Deep Dive](PURR.md)
 
 ---
+
+**MARA — MARA Holdings, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+One of the largest publicly traded Bitcoin miners with 1.7 GW captive power capacity (1.1 GW operational) and ~52,850 BTC treasury (~\$3.9B). Targeting 75 EH/s hashrate by end-2025 (64% YoY growth). Strategic AI infrastructure pivot via Starwood Capital partnership to convert mining sites into HPC data centers. At \$14.22, trades near NAV floor with asymmetric upside to BTC rallies and AI monetization.
+
+**Bull:** \$33–\$43 · **Base:** \$20–\$26 · **Bear:** \$10–\$15
+
+[:material-arrow-right: Full Deep Dive](MARA.md)
+
+---
