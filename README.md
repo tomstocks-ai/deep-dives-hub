@@ -23,26 +23,18 @@ Collaborative stock deep-dive research built with [Zensical](https://zensical.or
 │   │   ├── tickers.json           # Master index
 │   │   └── {TICKER}.json          # Per-ticker data
 │   └── deep-dives/                # All deep dives + thematic pages
-│       ├── semiconductors.md              # Semiconductors
-│       ├── memory-storage.md              # Memory & Storage
-│       ├── networking-connectivity.md     # Networking & Connectivity
-│       ├── photonics.md                   # Photonics & Optical Interconnects
-│       ├── semiconductor-equipment.md     # Semiconductor Equipment
-│       ├── data-center-infrastructure.md  # Data Center Infrastructure
-│       ├── data-centers-hpc.md            # Data Centers & HPC
-│       ├── cloud-enterprise-software.md   # Cloud & Enterprise Software
-│       ├── cybersecurity.md               # Cybersecurity
+│       ├── AI_buildout.md                 # Consolidated: Semiconductors, Semi Equipment,
+│       │                                    #   Photonics, Networking, Memory & Storage,
+│       │                                    #   Grid & Power, Data Center Infrastructure
+│       ├── energy.md                      # Consolidated: Nuclear, Solar, Natural Gas & AI Power Demand
+│       ├── software.md                    # Consolidated: Cloud & Enterprise Software, Cybersecurity
+│       ├── space.md                       # Space Economy
 │       ├── defense.md                     # Defense
-│       ├── robotics-automation.md         # Robotics & Automation
-│       ├── space-economy.md               # Space Economy
-│       ├── quantum-computing.md           # Quantum Computing
-│       ├── nuclear-energy.md              # Nuclear Energy
-│       ├── grid-power.md                  # Grid & Power
-│       ├── critical-minerals.md           # Critical Minerals & Strategic Materials
+│       ├── critical-minerals.md             # Critical Minerals & Strategic Materials
 │       ├── biotech-health.md              # Biotechnology & Health Technology
 │       ├── fintech.md                     # Fintech & Digital Payments
+│       ├── quantum-computing.md             # Quantum Computing
 │       ├── evtol.md                       # eVTOL & Advanced Air Mobility
-│       ├── natural-gas.md                 # Natural Gas & AI Power Demand
 │       └── {TICKER}.md                    # Full deep dive (hidden from nav)
 └── zensical.toml                  # Site configuration
 ```
@@ -50,7 +42,7 @@ Collaborative stock deep-dive research built with [Zensical](https://zensical.or
 ## How It Works
 
 - **Homepage** → overview and links
-- **All tab** → master summary table across all themes
+- **All tab** → master summary table across all themes (`docs/table.md`)
 - **Theme tabs** → theme-specific table + gist paragraphs (with sub-theme sections)
 - **Full DDs** → dedicated pages, linked from theme gists (not in nav)
 - **JSON API** → `/api/` endpoints for agents
@@ -59,7 +51,7 @@ Collaborative stock deep-dive research built with [Zensical](https://zensical.or
 
 1. Add `docs/deep-dives/{TICKER}.md` (full DD — use `.templates/TEMPLATE-deep-dive.md`)
 2. Add `docs/api/{TICKER}.json` (use `.templates/TEMPLATE-api.json`)
-3. Add gist + table row to thematic page (use `.templates/TEMPLATE-gist-and-table.md`)
+3. Add gist + table row to the correct **consolidated** thematic page (see `.templates/BOT-PROMPT.md` for sector mapping)
 4. Add table row to `docs/table.md`
 5. Update `docs/api/tickers.json`
 6. Push to `master`
