@@ -114,12 +114,23 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure Storage | <span class="rating-buy">SPEC BUY</span> | 2026-04-21 | [:material-file-document: Read](P.md) |
+| <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 
 ---
 
 **P — Everpure, Inc · <span class="rating-spec-buy">SPEC. BUY</span>****
 
 Everpure, Inc. (formerly Pure Storage, Inc., ticker PSTG) is a leading provider of all-flash data storage solutions for enterprises, cloud providers, and government organizations. The company rebranded from Pure Storage to Everpure in February 2026 and changed its NYSE ticker symbol to the single letter "P" on April 17, 2026 — a move reflecting its ambition to become the definitive platform for modern data infrastructure.
+
+---
+
+**000660 — SK hynix Inc. · <span class="rating-buy">BUY</span>**
+
+South Korean semiconductor memory manufacturer and one of the "Big Three" global memory producers. Dominant supplier of HBM (high-bandwidth memory) for AI accelerators with an estimated 50–55% HBM market share and roughly two-thirds of NVIDIA's HBM4 orders. Q1 2026 revenue hit a record KRW 52.6 trillion (+198% YoY) with extraordinary 72% operating margins. FY2025 revenue was KRW 97.15T with 48.6% operating margin. The multiyear NVIDIA supply pact and Yongin/M15X fab expansion provide structural visibility through 2027. Memory cyclicality and Samsung competition are the primary risks.
+
+**Bull:** KRW 3,500,000–3,800,000 · **Base:** KRW 2,800,000–3,200,000 · **Bear:** KRW 1,800,000–2,200,000
+
+[:material-arrow-right: Full Deep Dive](000660.md)
 
 ---
 
