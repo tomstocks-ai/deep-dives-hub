@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20",
+  "last_updated": "2026-06-19",
   "tickers": [
     {
       "ticker": "HIMS",
@@ -741,7 +741,18 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MRVL/",
       "api_url": "/api/MRVL.json"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors / Infrastructure Software",
+      "rating": "BUY",
+      "price": 411.35,
+      "market_cap": ".9T",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/AVGO/",
+      "api_url": "/api/AVGO.json"
     }
-  ],
-  "last_updated": "2026-06-20"
+  ]
 }

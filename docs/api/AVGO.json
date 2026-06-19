@@ -1,0 +1,56 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors / Infrastructure Software",
+  "exchange": "NASDAQ",
+  "price": 411.35,
+  "market_cap": "$1.9T",
+  "rating": "BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "Broadcom is the dominant merchant supplier of custom AI ASICs and networking silicon to hyperscalers, with a rapidly growing optical interconnect business and a stabilizing VMware software segment. Record Q2 FY2026 results and guidance for >$100B AI semiconductor revenue by FY2027 support a durable growth trajectory. The post-earnings pullback improves risk/reward, but near-term expectations remain elevated.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "~$15.1B (Q2 semiconductor solutions)",
+    "revenue_growth": "Accelerating (AI-driven)",
+    "gross_margin": "~62% (non-GAAP, semiconductor)",
+    "net_income": "$23.13B (headline metric)",
+    "eps_diluted": "Not specified in research data",
+    "cash": "Strong; record free cash flow",
+    "fcf": "Record and expanding sequentially"
+  },
+  "bull_case": {
+    "target": "$580–620",
+    "drivers": [
+      "AI ASIC revenue exceeds $100B by FY2027 with 4+ hyperscaler customers",
+      "VMware SaaS transition lifts software margins toward 80%+",
+      "800G/1.6T optical interconnect upgrades expand TAM faster than consensus",
+      "Networking share gains in AI back-end networks drive switch silicon growth"
+    ]
+  },
+  "bear_case": {
+    "target": "$340–380",
+    "risks": [
+      "Hyperscaler AI capex cuts or in-sourcing (Google TPU vertical integration) erode custom silicon TAM",
+      "VMware integration churn accelerates, delaying margin recovery",
+      "Competition from Marvell (MRVL) and NVIDIA bundles squeezes market share",
+      "Macro semiconductor down-cycle compresses multiples to 20–22x"
+    ]
+  },
+  "base_case": {
+    "target": "$480–520",
+    "assumptions": "Steady AI ASIC growth at 25–30% CAGR; VMware stabilizes with modest churn; networking/optical grows in line with data center capex; stock trades at 28–32x forward earnings."
+  },
+  "catalysts": [
+    {"date": "2026-09", "event": "Q3 FY2026 earnings — AI revenue guidance update critical"},
+    {"date": "2026-10", "event": "VMware annual conference — subscription transition metrics"},
+    {"date": "2026-12", "event": "FY2026 year-end results and FY2027 guidance"}
+  ],
+  "key_risks": [
+    "Expectations mismatch: stock dropped >12% post-Q2 despite record results; market may punish any guidance shortfall",
+    "Hyperscaler concentration: Google, Meta, Microsoft drive majority of AI semiconductor revenue",
+    "VMware integration risk: customer churn and sales disruption from product rationalization",
+    "Competition from Marvell in custom AI silicon and from NVIDIA in training workloads",
+    "Macro cyclicality: AI capex is not immune to broader semiconductor demand cycles"
+  ]
+}
