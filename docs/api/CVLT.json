@@ -1,0 +1,58 @@
+{
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Enterprise Data Protection / Cyber Resilience",
+  "exchange": "NASDAQ",
+  "price": 130.03,
+  "market_cap": "$6.3B",
+  "rating": "HOLD",
+  "last_updated": "2026-06-20",
+  "thesis": "Commvault has successfully transformed from a legacy on-premise backup vendor into a subscription-first, cloud-native SaaS provider. FY2026 revenue of $1,184M (+19% YoY) and total ARR of $1,122M (+21% YoY) demonstrate strong execution. However, the stock has rallied 81% from its 52-week low and now trades with an RSI of 76.5, indicating overbought conditions. FY2027 guidance for $1.30–$1.31B revenue and 20.5% non-GAAP EBIT margin is encouraging, but the recent run-up leaves little margin of safety. We assign a HOLD rating: the business is executing well, but risk/reward at current levels is no longer asymmetric.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended Mar 2026)",
+    "revenue": "$1,184M",
+    "revenue_growth": "+19% YoY",
+    "gross_margin": "N/A (not disclosed)",
+    "net_income": "N/A (not disclosed)",
+    "eps_diluted": "$1.28 (Q4 non-GAAP)",
+    "cash": "N/A (not disclosed)",
+    "fcf": "$237M (FY); $132M (Q4 record)"
+  },
+  "bull_case": {
+    "target": "$165–$175",
+    "drivers": [
+      "Margin expansion to 22–24% EBIT as SaaS scale effects kick in",
+      "SaaS growth sustains 40%+ and becomes majority of revenue",
+      "AI security tailwinds drive premium pricing and multiple expansion to 6.5–7x EV/Revenue",
+      "Cyber resilience demand accelerates on rising ransomware incidents"
+    ]
+  },
+  "bear_case": {
+    "target": "$95–$105",
+    "risks": [
+      "Multiple compression to 3.5–4x EV/Revenue on margin miss or growth deceleration",
+      "Competitive pressure from well-funded rivals Rubrik, Veeam, and Cohesity",
+      "Macro IT spending slowdown lengthens sales cycles and compresses ARR growth",
+      "Valuation risk: 81% rally from 52W low and RSI 76.5 leave little room for disappointment"
+    ]
+  },
+  "base_case": {
+    "target": "$130–$140",
+    "assumptions": "FY2027 guidance is met: revenue $1.30–$1.31B, EBIT margin ~20.5%. Stock trades at ~5x EV/Revenue, tracking fundamentals with limited alpha. SaaS mix continues to improve but no dramatic acceleration."
+  },
+  "catalysts": [
+    {"date": "2026-08-01", "event": "Q1 FY2027 Earnings — first read on FY2027 guidance execution and margin trajectory"},
+    {"date": "2026-11-01", "event": "Q2 FY2027 Earnings — SaaS revenue growth and ARR momentum update"},
+    {"date": "2027-02-01", "event": "Q3 FY2027 Earnings — midpoint check on full-year margin expansion target"}
+  ],
+  "key_risks": [
+    "Execution risk on FY2027 EBIT margin expansion to 20.5%",
+    "Competitive pressure from Rubrik, Veeam, and Cohesity in enterprise data protection",
+    "Macro IT spending slowdown impacting enterprise software sales cycles",
+    "Valuation risk after 81% rally from 52-week low with RSI at 76.5",
+    "Transition risk if mix shifts back toward lower-margin perpetual licenses"
+  ]
+}
