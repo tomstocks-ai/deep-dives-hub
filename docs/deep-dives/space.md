@@ -17,6 +17,7 @@ title: Space Economy
 | <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
 | <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | 2026-04-17 | [:material-file-document: Read](NN.md) |
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
+| <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](RKLB.md) |
 
 ---
 
@@ -85,5 +86,17 @@ Commercial spaceflight company developing suborbital tourism via air-launched Sp
 **Bull:** \$12–\$16 · **Base:** \$3–\$5 · **Bear:** \$1–\$2
 
 [:material-arrow-right: Full Deep Dive](SPCE.md)
+
+---
+
+### Launch Vehicles
+
+**RKLB — Rocket Lab USA, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Vertically integrated space company with the only reusable small-lift orbital vehicle (Electron) in commercial service and the medium-lift Neutron in development. Q1 2026 revenue \$200.3M (+63.5% YoY), backlog \$2.2B+ (up 108% YoY). \$2B+ total liquidity funds Neutron development without near-term dilution. Space Systems revenue of \$136.7M and Launch revenue of \$63.7M with 31 new Electron/HASTE contracts and 5 Neutron agreements signed. Key catalysts: Neutron first flight, SDA/DoD contracts, and potential Nasdaq-100 inclusion.
+
+**Bull:** \$140–160 · **Base:** \$95–115 · **Bear:** \$60–75
+
+[:material-arrow-right: Full Deep Dive](RKLB.md)
 
 ---
