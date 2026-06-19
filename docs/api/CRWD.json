@@ -1,0 +1,57 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike Holdings, Inc.",
+  "sector": "Technology",
+  "industry": "Cybersecurity / Endpoint & Cloud Security",
+  "exchange": "NASDAQ",
+  "price": 684.86,
+  "market_cap": "$167B",
+  "rating": "BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "Leading cloud-native cybersecurity platform combining durable 25% revenue growth with expanding profitability and a widening competitive moat. The Falcon platform's AI-driven threat detection, 28+ module portfolio, and enterprise vendor consolidation tailwind position CrowdStrike as the primary beneficiary of security spend consolidation. Q1 FY2027 EPS beat (+25% vs est), FY27 ARR guidance raised to $6.532B–$6.556B (24–25% growth), and 30%+ FCF margins support a premium valuation. 4-for-1 stock split effective July 2, 2026. Medium-High conviction with 6-month base target $700–$750.",
+  "financials": {
+    "fiscal_year": "FY2027 (Q1)",
+    "revenue": "$1.15B (Q1)",
+    "revenue_growth": "+25% YoY",
+    "gross_margin": "79% non-GAAP",
+    "net_income": "$220M GAAP",
+    "eps_diluted": "$1.10 non-GAAP / $0.89 GAAP",
+    "cash": "$3.8B+",
+    "fcf": "$350M+ (Q1, ~30% margin)"
+  },
+  "bull_case": {
+    "target": "$825–$850",
+    "drivers": [
+      "AI security TAM expansion via Charlotte AI and AI-native threat detection",
+      "Platform consolidation accelerates: module attach rates rise to 8–10 per customer",
+      "AWS partnership deepening drives cloud security ARR growth above 40% annually",
+      "Identity protection breakout becomes $1B+ ARR product competing with Okta"
+    ]
+  },
+  "bear_case": {
+    "target": "$500–$550",
+    "risks": [
+      "Microsoft Defender bundling compresses mid-market pricing and slows new logo growth",
+      "Macro IT spending slowdown delays enterprise security upgrades",
+      "Multiple compression to 15x EV/ARR as growth decelerates from 25% to 15%",
+      "Platform complexity from 28+ modules degrades customer experience or increases churn"
+    ]
+  },
+  "base_case": {
+    "target": "$700–$750",
+    "assumptions": "Revenue grows 24–25% through FY2027, FCF margin sustains 30%+, market assigns 25x EV/ARR on best-in-class SaaS metrics and platform leadership"
+  },
+  "catalysts": [
+    {"date": "2026-07-02", "event": "4-for-1 stock split effective"},
+    {"date": "2026-08", "event": "Q2 FY2027 Earnings — confirms FY27 ARR guidance trajectory"},
+    {"date": "2026-09", "event": "Fal.Con annual user conference — new product announcements"},
+    {"date": "2026-11", "event": "Q3 FY2027 Earnings — first FY2028 guidance"},
+    {"date": "2027", "event": "Charlotte AI general availability and monetization metrics"}
+  ],
+  "key_risks": [
+    "Premium valuation (25x EV/ARR) leaves limited room for execution missteps",
+    "Microsoft Defender bundling threat in price-sensitive mid-market segments",
+    "Natural growth deceleration at $4.5B+ scale could compress multiples",
+    "Product complexity risk from rapid expansion into cloud, identity, and observability"
+  ]
+}

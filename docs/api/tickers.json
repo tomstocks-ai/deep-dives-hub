@@ -753,6 +753,18 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/AVGO/",
       "api_url": "/api/AVGO.json"
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings, Inc.",
+      "sector": "Technology",
+      "industry": "Cybersecurity / Endpoint & Cloud Security",
+      "rating": "BUY",
+      "price": 684.86,
+      "market_cap": "67B",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/CRWD/",
+      "api_url": "/api/CRWD.json"
     }
   ]
 }

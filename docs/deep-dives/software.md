@@ -85,6 +85,7 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
 
 ---
 
@@ -95,5 +96,15 @@ World's largest pure-play cybersecurity company executing aggressive platform co
 **Bull:** \$340–\$360 · **Base:** \$290–\$310 · **Bear:** \$240–\$260
 
 [:material-arrow-right: Full Deep Dive](PANW.md)
+
+---
+
+**CRWD — CrowdStrike Holdings · <span class="rating-buy">BUY</span>**
+
+Leading cloud-native cybersecurity platform combining durable 25% revenue growth with expanding profitability and a widening competitive moat. The Falcon platform's AI-driven threat detection, 28+ module portfolio, and enterprise vendor consolidation tailwind position CrowdStrike as the primary beneficiary of security spend consolidation. Q1 FY2027 EPS beat (+25% vs est), FY27 ARR guidance raised to $6.532B–$6.556B (24–25% growth), and 30%+ FCF margins support a premium valuation. 4-for-1 stock split effective July 2, 2026. RSI at 57.8 indicates neutral momentum with room to run.
+
+**Bull:** $825–$850 · **Base:** $700–$750 · **Bear:** $500–$550
+
+[:material-arrow-right: Full Deep Dive](CRWD.md)
 
 ---
