@@ -1,0 +1,64 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology, Inc.",
+  "theme": "AI Buildout",
+  "sub_theme": "Memory & Storage",
+  "industry": "Semiconductor Memory (DRAM, NAND, HBM)",
+  "exchange": "NASDAQ",
+  "price": 1133.99,
+  "market_cap": "$1.25T",
+  "rating": "HOLD",
+  "last_updated": "2026-06-19",
+  "thesis": "Micron is the only U.S.-based memory manufacturer and a key supplier of HBM3E for AI accelerators. Q2 FY2026 revenue hit a record $23.86B (+84% YoY) with gross margins expanding to ~81%. The AI memory supercycle is real, but the stock has risen ~750% from 52-week lows and trades at ~49x TTM P/E, leaving little room for error in a notoriously cyclical industry.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$25.1B",
+    "revenue_growth": "+58%",
+    "gross_margin": "36.5%",
+    "net_income": "$3.3B",
+    "eps_diluted": "$2.94",
+    "cash": "$16.7B",
+    "fcf": "$6.9B (Q2 FY2026)"
+  },
+  "bull_case": {
+    "target": "$1,400\u20131,600",
+    "drivers": [
+      "HBM demand exceeds supply, ASPs rise further",
+      "Data center memory spend sustains 50%+ growth",
+      "HBM4 qualification wins lock in multi-year supply agreements"
+    ]
+  },
+  "bear_case": {
+    "target": "$600\u2013800",
+    "risks": [
+      "Memory cycle turns, ASPs collapse",
+      "Inventory builds as AI capex slows",
+      "Samsung and SK hynix intensify HBM competition"
+    ]
+  },
+  "base_case": {
+    "target": "$1,100\u20131,300",
+    "assumptions": "AI memory demand remains strong but moderates in H2 2027. FY2026 revenue of $85\u201390B with EPS of $35\u201340. Cyclical normalization begins but is cushioned by HBM mix shift."
+  },
+  "catalysts": [
+    {
+      "date": "2026-06-24",
+      "event": "Q3 FY2026 earnings and guidance"
+    },
+    {
+      "date": "2026-08-27",
+      "event": "Q4 FY2026 earnings and FY2027 guidance"
+    },
+    {
+      "date": "2026-09-15",
+      "event": "NVIDIA GTC / next-gen AI accelerator announcements"
+    }
+  ],
+  "key_risks": [
+    "Memory cyclicality and ASP volatility",
+    "Intense competition from Samsung and SK hynix",
+    "Hyperscaler AI capex concentration risk",
+    "High valuation leaves little margin for error"
+  ],
+  "sector": "Technology"
+}

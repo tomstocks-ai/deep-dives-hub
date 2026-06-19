@@ -115,6 +115,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure Storage | <span class="rating-buy">SPEC BUY</span> | 2026-04-21 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
+| <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
 
 ---
 
@@ -131,6 +132,16 @@ South Korean semiconductor memory manufacturer and one of the "Big Three" global
 **Bull:** KRW 3,500,000–3,800,000 · **Base:** KRW 2,800,000–3,200,000 · **Bear:** KRW 1,800,000–2,200,000
 
 [:material-arrow-right: Full Deep Dive](000660.md)
+
+---
+
+**MU — Micron Technology, Inc. · <span class="rating-hold">HOLD</span>**
+
+One of the "Big Three" global memory manufacturers and the only U.S.-based memory producer with leading-edge capabilities. Q2 FY2026 revenue hit a record $23.86B (+84% YoY) with cloud memory revenue surging >160% and gross margins expanding to ~81%. HBM3E products are qualified by NVIDIA and other hyperscalers for AI accelerators. The CHIPS Act supports $15B+ in domestic fab investments. However, the stock has risen ~750% from 52-week lows and trades at ~49x TTM P/E, leaving little room for error in a notoriously cyclical industry.
+
+**Bull:** $1,400–1,600 · **Base:** $1,100–1,300 · **Bear:** $600–800
+
+[:material-arrow-right: Full Deep Dive](MU.md)
 
 ---
 
