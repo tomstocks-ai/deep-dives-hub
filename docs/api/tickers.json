@@ -2,6 +2,18 @@
   "last_updated": "2026-06-19",
   "tickers": [
     {
+      "ticker": "CEG",
+      "company": "Constellation Energy Corporation",
+      "sector": "Energy",
+      "industry": "Nuclear Power / Utilities",
+      "rating": "BUY",
+      "price": 288.0,
+      "market_cap": "$88.7B",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/CEG/",
+      "api_url": "/api/CEG.json"
+    },
+    {
       "ticker": "HIMS",
       "company": "Hims & Hers Health, Inc.",
       "sector": "Consumer Health",
