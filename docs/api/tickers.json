@@ -713,6 +713,20 @@
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/CVLT/",
       "api_url": "/api/CVLT.json"
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA, Inc.",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Lunar / Deep Space",
+      "industry": "Launch Vehicles / Space Systems",
+      "rating": "SPEC. BUY",
+      "price": 107.24,
+      "market_cap": "$5.2B",
+      "last_updated": "2026-06-19",
+      "deep_dive_url": "/deep-dives/RKLB/",
+      "api_url": "/api/RKLB.json"
     }
   ],
   "last_updated": "2026-06-20"

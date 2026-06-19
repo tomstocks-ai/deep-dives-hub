@@ -1,0 +1,77 @@
+{
+  "ticker": "RKLB",
+  "company": "Rocket Lab USA, Inc.",
+  "sector": "Space",
+  "theme": "Space Economy",
+  "sub_theme": "Lunar / Deep Space",
+  "industry": "Launch Vehicles / Space Systems",
+  "exchange": "NASDAQ",
+  "price": 107.24,
+  "market_cap": "$5.2B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-19",
+  "thesis": "Rocket Lab is the most credible publicly traded challenger to SpaceX in the commercial launch market. Its vertical integration, proven launch cadence, and expanding space systems business create a durable competitive position. The Neutron vehicle is the key inflection point — if successful, it opens the medium-lift constellation deployment market and dramatically expands the addressable market. With $2B+ in liquidity and a $2.2B+ backlog, the company has the capital and demand visibility to execute its growth plan.",
+  "financials": {
+    "fiscal_year": "Q1 2026",
+    "revenue": "$200.3M",
+    "revenue_growth": "+63.5% YoY",
+    "gross_margin": "38.2% GAAP / 43.0% non-GAAP",
+    "net_income": "-$45.0M (narrowed)",
+    "eps_diluted": "N/A",
+    "cash": "$1.48B",
+    "fcf": "Negative (investment phase)"
+  },
+  "bull_case": {
+    "target": "$140–160",
+    "drivers": [
+      "Neutron first flight successful and on schedule; commercial bookings accelerate",
+      "SDA/DoD awards multiple Tranches to Rocket Lab, adding $200M+ in high-margin revenue",
+      "Space Systems margins expand to 50%+ as satellite bus production scales",
+      "Nasdaq-100 inclusion drives passive inflows and multiple expansion",
+      "Company achieves positive EBITDA by late 2026 and FCF positive by 2027"
+    ]
+  },
+  "base_case": {
+    "target": "$95–115",
+    "assumptions": "Neutron first flight occurs in late 2026 with minor delays; commercial ramp begins H1 2027. Steady government contract wins sustain $250M+ annual launch revenue. Space Systems grows 40%+ YoY with modest margin expansion. Company reaches EBITDA breakeven by mid-2027. Stock trades at 8–10x forward sales, reflecting solid execution but no multiple expansion."
+  },
+  "bear_case": {
+    "target": "$60–75",
+    "risks": [
+      "Neutron first flight delayed into 2027 or experiences anomaly",
+      "Government contract awards disappoint; competition from SpaceX and emerging launch providers intensifies",
+      "Space Systems growth decelerates due to customer concentration or supply chain issues",
+      "Cash burn exceeds expectations, forcing dilutive capital raise",
+      "Macro risk-off environment compresses growth stock multiples"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "H2 2026",
+      "event": "Neutron first flight — binary event validating medium-lift strategy"
+    },
+    {
+      "date": "2026",
+      "event": "SDA/DoD contract awards — high-margin government revenue expansion"
+    },
+    {
+      "date": "2026",
+      "event": "Nasdaq-100 inclusion — passive inflows and institutional ownership increase"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Electron cadence increase — higher launch frequency improves unit economics"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Space Systems margin expansion — satellite bus production scaling"
+    }
+  ],
+  "key_risks": [
+    "Neutron development risk — medium-lift rocket development is technically complex and capital intensive",
+    "Government dependency — significant revenue from DoD/SDA; budget cuts or contract delays would hurt",
+    "Competition — SpaceX dominates launch; other startups (Relativity, ABL) emerging",
+    "Execution risk — scaling manufacturing for both launch and space systems is operationally complex",
+    "Macro / valuation risk — high-growth stock vulnerable to rate shocks and risk-off sentiment"
+  ]
+}
