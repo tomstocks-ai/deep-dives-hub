@@ -2,13 +2,42 @@
 title: "BMNR — Bitmine Immersion Technologies, Inc."
 ---
 
-<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
-
 [← Back to Summary](../index.md)
 
-# BMNR — Bitmine Immersion Technologies, Inc.
-
-<tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag>
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-BMNR/" rel="noopener nofollow" target="_blank"><span class="blue-text">BMNR stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "allow_symbol_change": true,
+  "calendar": false,
+  "details": false,
+  "hide_side_toolbar": true,
+  "hide_top_toolbar": false,
+  "hide_legend": false,
+  "hide_volume": false,
+  "hotlist": false,
+  "interval": "D",
+  "locale": "en",
+  "save_image": true,
+  "style": "1",
+  "symbol": "NYSE:BMNR",
+  "theme": "dark",
+  "timezone": "Etc/UTC",
+  "backgroundColor": "#0F0F0F",
+  "gridColor": "rgba(242, 242, 242, 0.06)",
+  "watchlist": [],
+  "withdateranges": false,
+  "compareSymbols": [],
+  "studies": [
+    "STD;RSI",
+    "STD;EMA"
+  ],
+  "autosize": true,
+  "height": 500
+}
+  </script>
+</div>
 
 ## 1. Executive Summary
 
