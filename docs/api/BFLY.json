@@ -1,0 +1,92 @@
+{
+  "ticker": "BFLY",
+  "company": "Butterfly Network, Inc.",
+  "sector": "Health Technology",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Medical Devices",
+  "industry": "Point-of-Care Ultrasound (POCUS)",
+  "exchange": "NYSE",
+  "price": 8.90,
+  "market_cap": "~$1.6B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-20",
+  "thesis": "Butterfly Network is a pioneer in point-of-care ultrasound (POCUS), using semiconductor-based ultrasound-on-chip technology to democratize medical imaging. The company's handheld, single-probe, whole-body devices are priced at a fraction of traditional cart-based systems, opening a massive underserved market. AI-enabled image interpretation and software monetization provide a path to high-margin recurring revenue. New product launches (iQ3), international expansion, and potential FDA clearances for AI features serve as near-term catalysts. However, the company remains deeply unprofitable with widening losses, limited cash runway, and faces heavy competition from GE HealthCare, Philips, Fujifilm Sonosite, and Clarius.",
+  "financials": {
+    "fiscal_year": "2024",
+    "revenue": "$82.1M",
+    "revenue_growth": "+16% YoY (TTM ~$88.5M)",
+    "gross_margin": "N/A",
+    "net_income": "-$34.0M (Q3 2025, widened 101% YoY)",
+    "eps_diluted": "-$0.14 (Q3 2025, deteriorated from -$0.08)",
+    "cash": "~$100M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$12–14",
+    "drivers": [
+      "iQ3 and next-gen probe launches drive 30%+ revenue growth and upgrade cycles",
+      "AI software monetization accelerates, creating high-margin recurring revenue stream",
+      "International expansion into Europe, Asia-Pacific, and emerging markets exceeds targets",
+      "POCUS TAM expands rapidly as decentralized care and primary care imaging adoption accelerate",
+      "Path to profitability becomes credible within 18–24 months"
+    ]
+  },
+  "base_case": {
+    "target": "$8–9",
+    "assumptions": [
+      "Steady 10–15% revenue growth sustained by new product launches and international expansion",
+      "AI software monetization begins to contribute but remains a small portion of total revenue",
+      "Profitability remains 2+ years away; cash burn moderates but does not eliminate need for capital",
+      "Competitive dynamics remain stable with BFLY maintaining niche differentiation",
+      "Stock trades near current levels as market waits for fundamental inflection"
+    ]
+  },
+  "bear_case": {
+    "target": "$4–5",
+    "risks": [
+      "Revenue growth stalls as competitive pressure from GE HealthCare, Philips, and Clarius intensifies",
+      "Net losses widen further; cash runway shortens to under 12 months",
+      "Dilutive capital raise or strategic sale at unfavorable terms becomes necessary",
+      "Regulatory delays for iQ3 or AI software features stall product roadmap",
+      "Multiple compresses to med-tech small-cap average as profitability path remains elusive"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "H1 2026",
+      "event": "iQ3 product launch — next-generation handheld ultrasound probe with improved image quality and new clinical presets"
+    },
+    {
+      "date": "2026",
+      "event": "AI software updates and potential FDA clearances for automated image interpretation and measurements"
+    },
+    {
+      "date": "2026",
+      "event": "International partnership or distribution announcements in Europe, Asia-Pacific, or emerging markets"
+    },
+    {
+      "date": "Early 2026",
+      "event": "Q4 2025 / FY2025 earnings release — revenue trajectory and guidance update"
+    },
+    {
+      "date": "2026",
+      "event": "Potential capital raise or strategic review if cash runway shortens"
+    }
+  ],
+  "key_risks": [
+    "Profitability path unclear — widening losses and accelerating cash burn with no credible breakeven timeline",
+    "Heavy competition from well-funded incumbents (GE HealthCare, Philips, Fujifilm Sonosite) and pure-plays (Clarius)",
+    "Regulatory dependence — new products and AI features require FDA and international clearances",
+    "Overbought technical condition (RSI 84.6) creates elevated near-term downside risk",
+    "Analyst price targets average $5.56–$5.67, well below current price, suggesting speculative premium",
+    "Limited cash runway (12–18 months) may necessitate dilutive capital raise"
+  ],
+  "analyst_targets": {
+    "freedom_broker": "$5.56",
+    "td_cowen": "$5.67",
+    "lake_street": "~$5.60",
+    "average": "$5.56–$5.67"
+  },
+  "deep_dive_url": "/deep-dives/BFLY/",
+  "api_url": "/api/BFLY.json"
+}

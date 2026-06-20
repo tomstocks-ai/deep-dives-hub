@@ -12,6 +12,7 @@ title: Biotechnology & Health Technology
 | <tv-ticker-tag symbol="NYSE:HIMS" hide-background></tv-ticker-tag> | Hims & Hers Health | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
 | <tv-ticker-tag symbol="NASDAQ:STAA" hide-background></tv-ticker-tag> | STAAR Surgical | <span class="rating-hold">HOLD</span> | 2026-04-09 | [:material-file-document: Read](STAA.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADPT" hide-background></tv-ticker-tag> | Adaptive Biotechnologies | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
+| <tv-ticker-tag symbol="NYSE:BFLY" hide-background></tv-ticker-tag> | Butterfly Network, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BFLY.md) |
 
 ---
 
@@ -48,5 +49,17 @@ Commercial-stage biotech leading the minimal residual disease (MRD) testing mark
 **Bull:** \$28–32 · **Base:** \$18–22 · **Bear:** \$10–13
 
 [:material-arrow-right: Full Deep Dive](ADPT.md)
+
+---
+
+### Medical Devices
+
+**BFLY — Butterfly Network, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Pioneer in point-of-care ultrasound (POCUS) with handheld, single-probe, whole-body ultrasound devices priced under \$3,000. Semiconductor-based ultrasound-on-chip technology democratizes medical imaging for primary care, emergency medicine, and rural clinics. AI-enabled image interpretation and automated measurements create a path to high-margin recurring revenue. Revenue grew 16% YoY to ~\$88.5M TTM, but net losses widened 101% in Q3 2025 to \$34.0M. RSI(14) of 84.6 signals overbought conditions after a rally from \$1.33 to \$8.90. Analyst targets average \$5.56–\$5.67, well below current price. Speculative opportunity for high-risk-tolerance investors with a 2–3 year horizon.
+
+**Bull:** \$12–14 · **Base:** \$8–9 · **Bear:** \$4–5
+
+[:material-arrow-right: Full Deep Dive](BFLY.md)
 
 ---
