@@ -1,0 +1,80 @@
+{
+  "ticker": "BMNR",
+  "company": "Bitmine Immersion Technologies, Inc.",
+  "sector": "Fintech",
+  "industry": "Stablecoin / Digital Payments",
+  "exchange": "NYSE",
+  "price": 15.95,
+  "market_cap": "$9.2B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-20",
+  "thesis": "BMNR is a leveraged proxy for Ethereum price appreciation. With ~5.62M ETH (~$9.2B), it is one of the largest public ETH treasuries. The stock trades at a discount to implied NAV, offering asymmetric upside if ETH rallies. Massive GAAP losses are non-cash mark-to-market adjustments. Preferred offering (BMNP) introduces dilution risk but funds additional ETH deployment. Chairman Tom Lee provides institutional credibility.",
+  "financials": {
+    "fiscal_year": "TTM",
+    "revenue": "$16.7M",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "-$8.69B",
+    "eps_diluted": "-$7.44",
+    "cash": "$879.6M",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$28–$35",
+    "drivers": [
+      "ETH rallies to $4,000–$5,000+ on ETF inflows and institutional adoption",
+      "Treasury value fully recognized; stock trades at or near NAV",
+      "Preferred offering proves accretive as ETH appreciates faster than 9.5% cost",
+      "Staking yield scales to meaningful revenue (~$168M/year at 3% yield)",
+      "Tom Lee brand attracts institutional capital and potential index inclusion"
+    ]
+  },
+  "base_case": {
+    "target": "$18–$22",
+    "assumptions": [
+      "ETH stabilizes in the $2,500–$3,500 range",
+      "Market gradually recognizes treasury value; NAV discount narrows to ~20%",
+      "Services revenue grows modestly as BTC ecosystem activity remains steady",
+      "Preferred stock is a modest drag but manageable",
+      "Accounting losses continue to confuse retail investors, creating value opportunity"
+    ]
+  },
+  "bear_case": {
+    "target": "$8–$12",
+    "risks": [
+      "ETH drawdown to $1,500–$2,000 triggers further unrealized losses",
+      "Preferred dividend (9.5%) becomes a burden if ETH underperforms",
+      "Accounting losses trigger selling by risk-averse investors and fund redemptions",
+      "Regulatory headwinds for ETH staking or treasury accounting",
+      "Dilution from future equity offerings erodes per-share NAV"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-06-10",
+      "event": "9.50% Series A Preferred (BMNP) closes, raising ~$273.8M for ETH deployment"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Q2 2026 10-Q filing reveals updated ETH holdings and unrealized gain/loss position"
+    },
+    {
+      "date": "2026-12-31",
+      "event": "Potential ETH staking yield deployment; first material non-operating income"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "Possible Russell 3000 inclusion if market cap and float criteria are met"
+    }
+  ],
+  "key_risks": [
+    "ETH price volatility — entire thesis tied to Ethereum performance",
+    "Preferred dilution — 9.5% Series A Preferred is expensive capital; future offerings possible",
+    "Accounting losses and sentiment risk — massive GAAP losses create negative headlines despite being non-cash",
+    "Regulatory risk — SEC accounting rules or ETH staking regulation could impair strategy",
+    "NAV discount persistence — market may continue to assign deep discount to treasury value",
+    "Operating business weakness — $16.7M revenue insufficient to cover overhead"
+  ],
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance"
+}

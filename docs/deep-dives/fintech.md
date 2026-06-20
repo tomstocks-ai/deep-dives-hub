@@ -11,6 +11,7 @@ title: Fintech & Digital Payments
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-buy">BUY</span> | 2026-04-21 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
+| <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -42,5 +43,15 @@ One of the largest publicly traded Bitcoin miners with 1.7 GW captive power capa
 **Bull:** \$33–\$43 · **Base:** \$20–\$26 · **Bear:** \$10–\$15
 
 [:material-arrow-right: Full Deep Dive](MARA.md)
+
+---
+
+**BMNR — Bitmine Immersion Technologies, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Publicly traded Ethereum treasury company modeled on the MicroStrategy playbook, but focused on ETH. Holds approximately 5.62 million ETH (~$9.2B), making it one of the largest public ETH treasuries globally. Also operates BTC ecosystem services (consulting, advisory, equipment leasing) and sells mining equipment while winding down proprietary self-mining. Chairman Tom Lee (Fundstrat cofounder) provides institutional credibility. Recent 9.50% Series A Preferred (BMNP) offering raised ~$273.8M to fund additional ETH deployment. Massive GAAP losses ($8.69B TTM) are non-cash mark-to-market adjustments on digital assets. At ~$15.95, the stock trades at a significant discount to implied NAV, offering asymmetric upside to ETH rallies.
+
+**Bull:** $28–$35 · **Base:** $18–$22 · **Bear:** $8–$12
+
+[:material-arrow-right: Full Deep Dive](BMNR.md)
 
 ---

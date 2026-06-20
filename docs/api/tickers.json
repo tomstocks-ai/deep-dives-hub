@@ -789,6 +789,18 @@
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/GEV/",
       "api_url": "/api/GEV.json"
+    },
+    {
+      "ticker": "BMNR",
+      "company": "Bitmine Immersion Technologies, Inc.",
+      "sector": "Fintech",
+      "industry": "Stablecoin / Digital Payments",
+      "rating": "SPECULATIVE BUY",
+      "price": 15.95,
+      "market_cap": ".2B",
+      "last_updated": "2026-06-20",
+      "deep_dive_url": "/deep-dives/BMNR/",
+      "api_url": "/api/BMNR.json"
     }
   ]
 }
