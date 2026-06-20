@@ -9,18 +9,18 @@ title: Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-buy">BUY</span> | 2026-04-21 | [:material-file-document: Read](CRCL.md) |
+|| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 
 ---
 ### Stablecoins / Crypto Finance
 
-**CRCL — Circle Internet Group · <span class="rating-buy">BUY</span>**
+**CRCL — Circle Internet Group · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Circle is the issuer of USDC, the second-largest stablecoin with ~\$75B in circulation and ~25% market share. Revenue of \$2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. The GENIUS Act (stablecoin regulation) is the key catalyst — passage would solidify Circle's regulatory moat. The biggest structural concern is Coinbase's revenue-sharing agreement, which captures ~56% of total reserve revenue.
+Circle is the issuer of USDC, the second-largest stablecoin with ~\$77B in circulation and ~25% market share. Revenue of \$2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. Q1 2026 results were solid: \$694M revenue (+47% YoY), \$125M net income, USDC supply \$77B (+72% YoY). The GENIUS Act (stablecoin regulation) is the key catalyst — passage would solidify Circle's regulatory moat. At \$80, the stock is ~24% below April levels, improving risk/reward. The biggest structural concern is Coinbase's revenue-sharing agreement, which captures ~56% of total reserve revenue.
 
-**Bull:** \$180–\$220 · **Base:** \$100–\$130 · **Bear:** \$45–\$65
+**Bull:** \$140–\$170 · **Base:** \$110–\$135 · **Bear:** \$55–\$75
 
 [:material-arrow-right: Full Deep Dive](CRCL.md)
 
