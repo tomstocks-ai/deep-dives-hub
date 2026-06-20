@@ -4,11 +4,11 @@
   "sector": "Fintech",
   "industry": "Stablecoin / Digital Payments",
   "exchange": "NYSE",
-  "price": 106.36,
-  "market_cap": "$26.3B",
+  "price": 80.23,
+  "market_cap": "$19.9B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-21",
-  "thesis": "Circle is the leading regulated stablecoin issuer (USDC, ~$75B circulation) with 64% revenue growth in FY2025. Revenue is interest-rate sensitive (~95% from reserve income), but the GENIUS Act creates a powerful regulatory moat. The Coinbase revenue-share agreement and extreme valuation premium (9.5x P/S) create binary risk/reward. SPEC. BUY for investors comfortable with crypto-sector volatility and Fed-policy sensitivity.",
+  "last_updated": "2026-06-20",
+  "thesis": "Circle is the leading regulated stablecoin issuer (USDC, ~$77B circulation) with 64% revenue growth in FY2025 and solid Q1 2026 results ($694M revenue, $125M net income). Revenue is interest-rate sensitive (~95% from reserve income), but the GENIUS Act creates a powerful regulatory moat. At $80, the stock is ~24% below April levels, improving risk/reward. The Coinbase revenue-share agreement and valuation premium (~5.7x P/S) create binary risk/reward. SPEC. BUY for investors comfortable with crypto-sector volatility and Fed-policy sensitivity.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$2.75B",
@@ -19,10 +19,21 @@
     "cash": "$1.53B",
     "fcf": "-$91M (Levered FCF TTM)",
     "adjusted_ebitda": "$582M",
-    "usdc_supply": "$75.3B"
+    "usdc_supply": "$77B"
+  },
+  "q1_2026": {
+    "revenue": "$694M",
+    "revenue_growth": "+47% YoY",
+    "net_income": "$125M",
+    "adjusted_ebitda": "$148M",
+    "basic_eps": "$0.52",
+    "usdc_supply": "$77B",
+    "usdc_growth": "+72% YoY",
+    "onchain_volume": "$12.1T",
+    "onchain_growth": "+230% YoY"
   },
   "bull_case": {
-    "target": "$160–200",
+    "target": "$140–170",
     "drivers": [
       "USDC supply reaches $150B+ by 2028",
       "Fed funds rate stabilizes at 3.5–4.5% keeping reserve income elevated",
@@ -32,7 +43,7 @@
     ]
   },
   "bear_case": {
-    "target": "$60–85",
+    "target": "$55–75",
     "risks": [
       "Interest rates fall below 2% crushing reserve income",
       "Bank-issued stablecoins capture 30%+ market share",
@@ -42,14 +53,14 @@
     ]
   },
   "base_case": {
-    "target": "$120–150",
+    "target": "$110–135",
     "assumptions": "USDC supply grows to $100B+ by 2027; interest rates stabilize 2.5–3.5%; GENIUS Act implemented without major restrictions; Coinbase share stays manageable; other revenue grows to 8–12%; stock trades at 8–10x forward revenue as growth normalizes."
   },
   "catalysts": [
-    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first normalized post-IPO quarter"},
+    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first normalized post-IPO quarter (reported solid results: $694M revenue, $125M net income, $77B USDC)"},
+    {"date": "2026-07-30", "event": "Q2 2026 Earnings & potential FY2026 guidance"},
     {"date": "2026-06-30", "event": "GENIUS Act draft rules expected (FinCEN/FDIC/SEC)"},
-    {"date": "2026-12-31", "event": "Arc mainnet launch (targeted 2026)"},
-    {"date": "2026-07-30", "event": "Q2 2026 Earnings & potential FY2026 guidance"}
+    {"date": "2026-12-31", "event": "Arc mainnet launch (targeted 2026)"}
   ],
   "key_risks": [
     "Interest rate sensitivity — 95%+ of revenue is reserve income tied to Fed policy",
@@ -57,6 +68,6 @@
     "Coinbase revenue-sharing agreement eroding margins (50% of non-Coinbase interest)",
     "Competition from Tether (USDT), bank-issued stablecoins, and Ethena",
     "Regulatory uncertainty despite GENIUS Act progress",
-    "Extreme valuation premium (9.5x P/S, 100x+ forward P/E) prices in significant growth"
+    "Valuation premium (~5.7x P/S, 60x+ forward P/E) prices in significant growth"
   ]
 }
