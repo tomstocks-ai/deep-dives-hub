@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "tickers": [
     {
       "ticker": "CEG",
@@ -777,6 +777,18 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/CRWD/",
       "api_url": "/api/CRWD.json"
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
+      "sector": "Energy",
+      "industry": "Power Generation & Grid Infrastructure",
+      "rating": "BUY",
+      "price": 1109.73,
+      "market_cap": "22B",
+      "last_updated": "2026-06-20",
+      "deep_dive_url": "/deep-dives/GEV/",
+      "api_url": "/api/GEV.json"
     }
   ]
 }

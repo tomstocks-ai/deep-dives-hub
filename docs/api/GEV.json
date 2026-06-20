@@ -1,0 +1,123 @@
+{
+  "ticker": "GEV",
+  "company": "GE Vernova Inc.",
+  "sector": "Energy",
+  "industry": "Power Generation & Grid Infrastructure",
+  "rating": "BUY",
+  "price": 1109.73,
+  "market_cap": "$122B",
+  "exchange": "NYSE",
+  "theme": "Grid & Power",
+  "sub_theme": "Grid-Scale Energy Storage / Grid & Power",
+  "last_updated": "2026-06-20",
+  "deep_dive_url": "/deep-dives/GEV/",
+  "api_url": "/api/GEV.json",
+  "thesis": "GE Vernova is the most comprehensive 'picks and shovels' play in the global power infrastructure buildout. The combination of a record $163B backlog, accelerating AI data center demand, and expanding margins creates a compelling risk/reward profile. Q1 2026 results validated the bull case, with revenue and earnings beats, explosive order growth, and raised guidance.",
+  "financials": {
+    "fiscal_year": "FY2025 / Q1 2026",
+    "revenue": "$38.07B (FY2025); $9.34B (Q1 2026)",
+    "revenue_growth": "+8.97% YoY (FY2025); +~9% YoY implied (Q1 2026)",
+    "gross_margin": "Expanding (adjusted EBITDA margin +390 bps in Q1 2026)",
+    "net_income": "Growing with operating leverage",
+    "eps_diluted": "$2.01 adjusted EPS (Q1 2026, beat $1.67 est by 20.4%)",
+    "cash": "Strong liquidity supported by $163B backlog",
+    "fcf": "Improving with margin expansion and backlog conversion"
+  },
+  "bull_case": {
+    "target": "$1400–1500",
+    "drivers": [
+      "AI power demand sustains 20%+ order growth across gas turbines and grid solutions",
+      "Adjusted EBITDA margins expand 500+ bps as services mix increases and scale effects compound",
+      "Offshore wind project awards accelerate, particularly in U.S. and European markets",
+      "Multiple re-rates to growth premium as backlog visibility extends to 5+ years",
+      "Grid modernization mandates in U.S. and Europe drive sustained electrification segment growth"
+    ]
+  },
+  "base_case": {
+    "target": "$1150–1250",
+    "assumptions": [
+      "Steady backlog conversion at current pace with 10–15% revenue growth",
+      "Margin expansion continues at ~200–300 bps annually",
+      "AI data center demand remains strong but moderates from peak growth rates",
+      "Wind segment delivers mixed results with offshore wins offsetting onshore pricing pressure",
+      "Services revenue grows in line with installed base expansion"
+    ]
+  },
+  "bear_case": {
+    "target": "$850–950",
+    "risks": [
+      "Order growth slows to single digits as AI data center capex cycle peaks",
+      "Wind segment drags on overall profitability due to project delays and cost overruns",
+      "Margin expansion stalls due to supply chain inflation or labor shortages",
+      "Multiple compresses to industrial average as growth decelerates",
+      "Geopolitical or regulatory headwinds delay international project execution"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 Earnings — expect continued order momentum and potential guidance raise"
+    },
+    {
+      "date": "2026-08",
+      "event": "Offshore wind project awards (U.S. lease rounds, European FIDs)"
+    },
+    {
+      "date": "2026-09",
+      "event": "AI data center power partnership announcements (hyperscaler campus expansions)"
+    },
+    {
+      "date": "2026-10",
+      "event": "Q3 2026 Earnings — backlog conversion trajectory and FY2026 guidance updates"
+    }
+  ],
+  "key_risks": [
+    "Execution risk on $163B backlog: supply chain constraints, labor shortages, or project delays could push out revenue recognition",
+    "Wind segment volatility: offshore wind has faced headwinds globally including permitting delays and rising costs",
+    "Valuation sensitivity: at ~$1,110, GEV trades at a premium multiple; any slowdown could compress valuation quickly",
+    "Geopolitical & regulatory risk: tariffs, export controls, or foreign energy policy changes could impact international backlog",
+    "Services renewal risk: early retirements of gas turbines due to policy or economics could reduce long-term services opportunity"
+  ],
+  "price_targets": {
+    "bull": "$1400–1500",
+    "base": "$1150–1250",
+    "bear": "$850–950"
+  },
+  "key_metrics": {
+    "fy2025_revenue": "$38.07B",
+    "fy2025_revenue_growth": "+8.97% YoY",
+    "q1_2026_revenue": "$9.34B",
+    "q1_2026_revenue_estimate": "$9.26B",
+    "q1_2026_adjusted_eps": "$2.01",
+    "q1_2026_adjusted_eps_estimate": "$1.67",
+    "q1_2026_adjusted_ebitda": "$896M",
+    "q1_2026_adjusted_ebitda_growth": "+87% YoY",
+    "q1_2026_orders": "$18.3B",
+    "q1_2026_orders_growth": "+71% YoY",
+    "book_to_bill": "~2.0",
+    "total_backlog": "$163B",
+    "equipment_backlog": "$76B (+67% YoY)",
+    "services_backlog": "$87B (+12% YoY)",
+    "rsi_14": 65.5,
+    "fifty_two_week_range": "$486.96 – $1149.53"
+  },
+  "analysts": {
+    "count": 38,
+    "average_rating": "Buy"
+  },
+  "business_segments": [
+    "Power (gas turbines, services)",
+    "Wind (onshore/offshore)",
+    "Electrification (grid solutions, power conversion, solar/storage)"
+  ],
+  "demand_drivers": [
+    "AI data center power infrastructure",
+    "Grid modernization",
+    "Energy transition"
+  ],
+  "management": {
+    "ceo": "Scott Strazik"
+  },
+  "incorporated": 2023,
+  "headquarters": "Cambridge, MA"
+}
