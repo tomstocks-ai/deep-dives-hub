@@ -100,6 +100,7 @@ Pure-play U.S. solar domestic manufacturer building fully integrated silicon sup
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CEG" hide-background></tv-ticker-tag> | Constellation Energy Corporation | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CEG.md) |
 | <tv-ticker-tag symbol="NYSE:BE" hide-background></tv-ticker-tag> | Bloom Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](BE.md) |
+| <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
 
 ---
 
@@ -120,6 +121,16 @@ Solid-oxide fuel cell manufacturer powering the AI data center electrification b
 **Bull:** \$350–400 · **Base:** \$280–320 · **Bear:** \$180–220
 
 [:material-arrow-right: Full Deep Dive](BE.md)
+
+---
+
+**GEV — GE Vernova Inc. · <span class="rating-buy">BUY</span>**
+
+Power equipment and grid infrastructure giant spun off from General Electric in 2023. Q1 2026 revenue \$9.34B beat estimates, with adjusted EBITDA surging 87% YoY to \$896M. Orders exploded 71% YoY to \$18.3B (book-to-bill ~2.0), driving total backlog to a record \$163B. The company raised FY2026 guidance after the quarter. Core segments span gas turbines, wind (onshore/offshore), and electrification (grid solutions, power conversion, solar/storage). Uniquely positioned as the "picks and shovels" play for AI data center power infrastructure, grid modernization, and the global energy transition.
+
+**Bull:** \$1400–1500 · **Base:** \$1150–1250 · **Bear:** \$850–950
+
+[:material-arrow-right: Full Deep Dive](GEV.md)
 
 *Watchlist: EQT, LNG, KMI, WMB.*
 
