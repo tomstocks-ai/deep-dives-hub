@@ -13,7 +13,8 @@ title: Cloud & Enterprise Software
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
 | <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
- | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
+| <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
+| <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
 
 ---
 
@@ -29,6 +30,15 @@ Enterprise data protection and cyber resilience platform that has successfully t
 
 ---
 
+### Cloud Storage / Data Infrastructure
+
+**BLZE — Backblaze, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Cloud storage and backup provider with two segments: B2 Cloud Storage (object storage for developers, businesses, and AI/ML workloads) and Computer Backup (consumer/SMB). B2 is the growth engine at 28% ARR growth and higher margins, while the legacy backup business is a declining drag. Q1 2026 revenue of \$38.7M (+12% YoY) beat guidance, gross margin expanded to 61% (from 56%), and EPS of \$0.04 crushed the -\$0.02 estimate. The company differentiates via transparent pricing, no egress fees, and a simple API — positioning as a cost-effective alternative to AWS S3. AI/ML storage demand is an emerging tailwind. At ~\$496M market cap and ~3x ARR, BLZE offers an attractive risk/reward for a SaaS growth story approaching profitability.
+
+**Bull:** \$12.00–\$14.00 · **Base:** \$9.00–\$11.00 · **Bear:** \$5.50–\$7.00
+
+[:material-arrow-right: Full Deep Dive](BLZE.md)
 
 ---
 

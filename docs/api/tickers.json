@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20",
+  "last_updated": "2026-06-21",
   "tickers": [
     {
       "ticker": "CEG",
@@ -815,6 +815,20 @@
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/BFLY/",
       "api_url": "/api/BFLY.json"
+    },
+    {
+      "ticker": "BLZE",
+      "company": "Backblaze, Inc.",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Cloud Storage / Data Infrastructure",
+      "industry": "Cloud Storage / Data Infrastructure",
+      "rating": "SPEC. BUY",
+      "price": 8.27,
+      "market_cap": "96M",
+      "last_updated": "2026-06-21",
+      "deep_dive_url": "/deep-dives/BLZE/",
+      "api_url": "/api/BLZE.json"
     }
   ]
 }
