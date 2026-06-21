@@ -857,6 +857,20 @@
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/NOK/",
       "api_url": "/api/NOK.json"
+    },
+    {
+      "ticker": "BB",
+      "company": "BlackBerry Limited",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "industry": "Cybersecurity / IoT Embedded Software",
+      "rating": "SPEC. BUY",
+      "price": 8.38,
+      "market_cap": "$5.0B",
+      "last_updated": "2026-06-21",
+      "deep_dive_url": "/deep-dives/BB/",
+      "api_url": "/api/BB.json"
     }
   ]
 }
