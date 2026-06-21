@@ -1,0 +1,59 @@
+{
+  "ticker": "CBRS",
+  "company": "Cerebras Systems Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors / AI Compute",
+  "exchange": "NASDAQ",
+  "price": 234.71,
+  "market_cap": "$52B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-21",
+  "thesis": "Cerebras designs and manufactures wafer-scale AI compute chips (WSE-3) with a unique moat in massive single-chip integration. The company is transitioning from heavy customer concentration (86% from UAE/G42 in 2025) to a diversified base anchored by a $20B+ OpenAI Master Relationship Agreement and an AWS binding term sheet. 2026 revenue guidance of >$800M (+50%+) and a $24.6B RPO backlog provide multi-year visibility, but contra-revenue accounting and warrant dilution from the OpenAI deal will pressure reported margins in H1 2026. Extreme valuation (~65x sales) and customer concentration risk warrant a Speculative Buy rating.",
+  "financials": {
+    "fiscal_year": "2026",
+    "revenue": "$510M (2025 actual)",
+    "revenue_growth": "+76% YoY (2025); +50%+ guided (2026)",
+    "gross_margin": "~45% (est. 2025); pressured in H1 2026 by contra-revenue",
+    "net_income": "Pre-profitability; EPS TTM $0.42, P/E ~559x",
+    "eps_diluted": "$0.42 (TTM); Q1 2026 est -$0.14",
+    "cash": "~$1.5B (post-IPO)",
+    "fcf": "Negative; expected to turn positive 2027–2028"
+  },
+  "bull_case": {
+    "target": "$320–350",
+    "drivers": [
+      "OpenAI deal ramps faster than expected; 750MW expands to 2GW",
+      "AWS integration drives new enterprise and hyperscaler customers",
+      "Contra-revenue and margin pressure prove temporary; gross margins expand in H2 2026",
+      "Additional hyperscaler or sovereign AI cloud wins beyond OpenAI/AWS",
+      "WSE-3 volume manufacturing yields improve, reducing unit costs"
+    ]
+  },
+  "bear_case": {
+    "target": "$160–180",
+    "risks": [
+      "Customer concentration bites — OpenAI delays or reduces orders",
+      "Contra-revenue drags reported revenue and margins more than expected",
+      "Warrant dilution significantly expands shares outstanding",
+      "Competition from NVIDIA GPUs and custom silicon (Broadcom/Marvell) erodes TAM",
+      "AI capex cycle softens; hyperscaler spending decelerates"
+    ]
+  },
+  "base_case": {
+    "target": "$250–280",
+    "assumptions": "2026 guidance met; backlog converts steadily; margins stabilize in H2 2026; OpenAI + AWS diversify revenue; no major competitive share loss."
+  },
+  "catalysts": [
+    {"date": "2026-06-23", "event": "Q1 2026 earnings — first post-IPO report; EPS est -$0.14, revenue est $56.65M"},
+    {"date": "2026-08", "event": "Q2 2026 earnings — OpenAI ramp visibility and margin trajectory"},
+    {"date": "2026", "event": "AWS integration milestones — product availability or customer adoption updates"},
+    {"date": "2026", "event": "Potential new customer announcements beyond OpenAI/AWS"}
+  ],
+  "key_risks": [
+    "Customer concentration: historically 86% from UAE/G42; now acute OpenAI dependency",
+    "Contra-revenue and warrant accounting diluting reported revenue and margins",
+    "Valuation: ~$52B market cap on ~$800M revenue = ~65x sales",
+    "Competition from NVIDIA GPUs and custom silicon (Broadcom, Marvell)",
+    "TSMC supply chain and geopolitical risk for wafer-scale fabrication"
+  ]
+}

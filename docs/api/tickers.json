@@ -829,6 +829,20 @@
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/BLZE/",
       "api_url": "/api/BLZE.json"
+    },
+    {
+      "ticker": "CBRS",
+      "company": "Cerebras Systems Inc.",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "industry": "Semiconductors / AI Compute",
+      "rating": "SPEC. BUY",
+      "price": 234.71,
+      "market_cap": "2B",
+      "last_updated": "2026-06-21",
+      "deep_dive_url": "/deep-dives/CBRS/",
+      "api_url": "/api/CBRS.json"
     }
   ]
 }

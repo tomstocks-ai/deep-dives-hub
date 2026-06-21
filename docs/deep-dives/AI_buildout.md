@@ -122,6 +122,24 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 ---
 
+## AI Compute
+
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
+
+---
+
+**CBRS — Cerebras Systems Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+AI infrastructure company designing and manufacturing wafer-scale AI compute chips (WSE-3). IPO'd May 2026 at \$185, first-day close \$311. 2025 revenue \$510M (+76% YoY) with 2026 guidance >\$800M (+50%+). \$24.6B remaining performance obligation backlog provides multi-year visibility. The company is transitioning from heavy customer concentration (~86% from UAE/G42) to a diversified base anchored by a \$20B+ OpenAI Master Relationship Agreement (750MW AI inference, expandable to 2GW) and an AWS binding term sheet. CFIUS cleared the OpenAI deal. Contra-revenue and warrant impacts from the OpenAI deal will pressure gross margins starting Q1 2026. Extreme valuation at ~\$52B market cap (~65x sales) and customer concentration risk warrant a Speculative Buy rating. Q1 2026 earnings expected June 23.
+
+**Bull:** \$320–350 · **Base:** \$250–280 · **Bear:** \$160–180
+
+[:material-arrow-right: Full Deep Dive](CBRS.md)
+
+---
+
 ## Memory & Storage
 
 | Ticker | Company | Rating | Last Updated | Full DD |
