@@ -1,0 +1,79 @@
+{
+  "ticker": "BLZE",
+  "company": "Backblaze, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cloud Storage / Data Infrastructure",
+  "industry": "Cloud Storage / Data Infrastructure",
+  "exchange": "NASDAQ",
+  "price": 8.27,
+  "market_cap": "$496M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-21",
+  "thesis": "Backblaze is a cloud storage and backup provider with a fast-growing, higher-margin B2 Cloud Storage segment (28% ARR growth) and a transparent, no-egress-fee pricing model. Q1 2026 showed margin expansion to 61%, EPS profitability, and positive operating cash flow. AI/ML storage demand is an emerging tailwind. Rated SPEC. BUY based on B2 growth and margin expansion, balanced against hyperscaler competition and legacy backup drag.",
+  "financials": {
+    "fiscal_year": "Q1 2026",
+    "revenue": "$38.7M",
+    "revenue_growth": "+12%",
+    "gross_margin": "61%",
+    "net_income": "-$6.1M",
+    "eps_diluted": "$0.04",
+    "cash": "$45.5M",
+    "fcf": "-$1.8M (Adjusted)"
+  },
+  "bull_case": {
+    "target": "$12.00 – $14.00",
+    "drivers": [
+      "B2 Cloud Storage accelerates to 35%+ growth as AI/ML workload adoption broadens",
+      "Gross margin expands to 65%+ on operational leverage and mix shift",
+      "Path to profitability by FY2027 with sustained positive FCF",
+      "Partnership announcements (CDN, edge compute) expand TAM and distribution",
+      "Analyst re-ratings drive multiple expansion toward 5-6x ARR"
+    ]
+  },
+  "base_case": {
+    "target": "$9.00 – $11.00",
+    "assumptions": [
+      "B2 sustains 15-20% growth; Computer Backup stabilizes",
+      "Gross margin holds 60-62% with gradual improvement",
+      "Breakeven achieved by end of FY2026",
+      "Stock re-rates modestly to ~4x ARR as profitability story gains credibility"
+    ]
+  },
+  "bear_case": {
+    "target": "$5.50 – $7.00",
+    "risks": [
+      "B2 growth stalls under hyperscaler price competition (AWS S3, Google Cloud, Azure)",
+      "Legacy Computer Backup decline accelerates, offsetting B2 gains",
+      "Cash burn resumes if margin expansion slows; dilution risk from capital raise",
+      "Small scale ($38M quarterly revenue) makes BLZE vulnerable to customer churn",
+      "SMB segment concentration creates volatility in bookings"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Early Aug 2026",
+      "event": "Q2 2026 earnings — critical for B2 growth sustainability confirmation"
+    },
+    {
+      "date": "2026",
+      "event": "AI/ML workload adoption metrics and customer wins"
+    },
+    {
+      "date": "2026",
+      "event": "Potential partnership announcements (CDN, edge compute)"
+    },
+    {
+      "date": "H2 2026",
+      "event": "Path to positive FCF / profitability milestone"
+    }
+  ],
+  "key_risks": [
+    "Hyperscaler price competition (AWS S3, Google Cloud, Azure)",
+    "Legacy Computer Backup decline offsetting B2 growth",
+    "Small scale — $38M quarterly revenue vs $10B+ competitors",
+    "Cash burn history; need sustained profitability",
+    "Dilution risk if capital raise needed",
+    "Customer concentration / churn in SMB segment"
+  ]
+}
