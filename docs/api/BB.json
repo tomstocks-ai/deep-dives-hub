@@ -1,0 +1,111 @@
+{
+  "ticker": "BB",
+  "company": "BlackBerry Limited",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cybersecurity",
+  "industry": "Cybersecurity / IoT Embedded Software",
+  "exchange": "NYSE",
+  "rating": "SPEC. BUY",
+  "price": 8.38,
+  "market_cap": "$5.0B",
+  "last_updated": "2026-06-21",
+  "deep_dive_url": "/deep-dives/BB/",
+  "api_url": "/api/BB.json",
+  "thesis": "BlackBerry is executing a successful pivot from legacy handset brand to a pure-play cybersecurity and IoT software vendor. Q1 FY2026 marked the first profitable quarter since 2022, driven by 70% gross margins in Secure Communications and growing QNX design wins in software-defined vehicles. FY2026 guidance was raised at the lower end ($508–$538M revenue, $72–$87M adjusted EBITDA). The $10M share buyback signals management confidence. However, execution risk remains on QNX growth trajectory and the lingering legacy handset overhang.",
+  "financials": {
+    "fiscal_year": "FY2026 (guidance)",
+    "revenue": "$508–$538M",
+    "revenue_growth": "Guided growth from dual-platform pivot",
+    "gross_margin": "70% (Secure Communications Q1)",
+    "net_income": "First profit since 2022 (Q1 FY2026)",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$14–$16",
+    "drivers": [
+      "QNX accelerates design wins in next-generation SDV and ADAS platforms, driving royalty growth above guidance.",
+      "Secure Communications successfully cross-sells Cylance AI into the UEM base, lifting ARPU and net revenue retention.",
+      "Government cybersecurity contracts provide stable, multi-year revenue streams.",
+      "Legacy patent portfolio is monetized or divested, unlocking shareholder value.",
+      "Sustained profitability and operating leverage attract institutional capital, re-rating the stock toward SaaS peers."
+    ]
+  },
+  "base_case": {
+    "target": "$10–$12",
+    "assumptions": "Both segments execute in line with guidance; QNX grows modestly with automotive cycle recovery. Secure Communications maintains 70% gross margins and low-teens EBITDA margins. The company delivers on its FY2026 EBITDA guidance, proving the turnaround is durable. Valuation expands to 3–4x EV/Revenue, consistent with small-cap cybersecurity peers."
+  },
+  "bear_case": {
+    "target": "$5–$7",
+    "risks": [
+      "QNX automotive adoption slows due to OEM budget cuts or competitive pressure from Linux-based alternatives.",
+      "Secure Communications faces pricing pressure from CrowdStrike, Microsoft, and Palo Alto Networks.",
+      "Legacy revenue declines faster than expected, creating a revenue gap.",
+      "Execution missteps delay profitability, forcing dilutive financing or asset sales."
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026",
+      "event": "QNX design wins in next-generation software-defined vehicles and ADAS platforms"
+    },
+    {
+      "date": "2026",
+      "event": "Secure Communications cross-sell of Cylance AI into existing UEM base"
+    },
+    {
+      "date": "2026",
+      "event": "Government and defense cybersecurity contract awards"
+    },
+    {
+      "date": "2026",
+      "event": "Continued progress toward sustained profitability and operating leverage"
+    },
+    {
+      "date": "2026",
+      "event": "Potential divestiture or monetization of non-core patent portfolio"
+    }
+  ],
+  "key_risks": [
+    "QNX automotive revenue growth may underperform if OEM adoption slows.",
+    "Legacy handset-related patent revenue continues to decline.",
+    "Intense competition in endpoint security from CrowdStrike, Microsoft, and Palo Alto Networks.",
+    "Execution risk on integrating Cylance AI across the full Secure Communications stack.",
+    "Small-cap liquidity and volatility."
+  ],
+  "price_targets": {
+    "bull": "$14–$16",
+    "base": "$10–$12",
+    "bear": "$5–$7"
+  },
+  "key_metrics": {
+    "52_week_range": "$3.12 – $10.93",
+    "rsi_14": 51.43,
+    "fy2026_revenue_guidance": "$508–$538M",
+    "qnx_revenue_guidance": "$250–$270M",
+    "secure_communications_revenue_guidance": "$234–$244M",
+    "adjusted_ebitda_guidance": "$72–$87M",
+    "q1_fy2026_secure_comms_revenue": "$59.5M",
+    "q1_fy2026_secure_comms_adj_ebitda": "$9.6M",
+    "q1_fy2026_secure_comms_gross_margin": "70%",
+    "share_buybacks_q1": "$10M"
+  },
+  "business_model": "Dual-platform software company: Secure Communications (Cylance) provides AI-driven endpoint security and unified endpoint management (UEM) for enterprise and government customers; QNX is a leading embedded real-time operating system for automotive, industrial, and medical IoT devices.",
+  "investment_thesis": "BlackBerry is executing a successful pivot from legacy handset brand to a pure-play cybersecurity and IoT software vendor. Q1 FY2026 marked the first profitable quarter since 2022, driven by 70% gross margins in Secure Communications and growing QNX design wins in software-defined vehicles. FY2026 guidance was raised at the lower end ($508–$538M revenue, $72–$87M adjusted EBITDA). The $10M share buyback signals management confidence. However, execution risk remains on QNX growth trajectory and the lingering legacy handset overhang.",
+  "catalysts_list": [
+    "QNX design wins in next-generation software-defined vehicles and ADAS platforms",
+    "Secure Communications cross-sell of Cylance AI into existing UEM base",
+    "Government and defense cybersecurity contract awards",
+    "Continued progress toward sustained profitability and operating leverage",
+    "Potential divestiture or monetization of non-core patent portfolio"
+  ],
+  "risks": [
+    "QNX automotive revenue growth may underperform if OEM adoption slows",
+    "Legacy handset-related patent revenue continues to decline",
+    "Intense competition in endpoint security from CrowdStrike, Microsoft, and Palo Alto Networks",
+    "Execution risk on integrating Cylance AI across the full Secure Communications stack",
+    "Small-cap liquidity and volatility"
+  ]
+}

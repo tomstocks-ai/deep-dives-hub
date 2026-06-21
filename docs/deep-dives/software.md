@@ -96,6 +96,7 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
+| <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
 
 ---
 
@@ -116,5 +117,15 @@ Leading cloud-native cybersecurity platform combining durable 25% revenue growth
 **Bull:** $825–$850 · **Base:** $700–$750 · **Bear:** $500–$550
 
 [:material-arrow-right: Full Deep Dive](CRWD.md)
+
+---
+
+**BB — BlackBerry Limited · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Cybersecurity and IoT/embedded software company pivoting from legacy handset brand to a dual-platform enterprise vendor. Secure Communications (Cylance) delivers 70% gross margins and returned to profitability in Q1 FY2026, while QNX dominates automotive embedded OS with growing design wins in software-defined vehicles. FY2026 revenue guidance of $508–$538M was raised at the lower end, with adjusted EBITDA guided to $72–$87M. QNX revenue is expected at $250–$270M and Secure Communications at $234–$244M. The company returned to profitability in Q1 FY2026 for the first time since 2022 and executed $10M in share buybacks. Execution risk remains on QNX growth trajectory and legacy handset overhang, but the cybersecurity pivot is gaining traction.
+
+**Bull:** $14–$16 · **Base:** $10–$12 · **Bear:** $5–$7
+
+[:material-arrow-right: Full Deep Dive](BB.md)
 
 ---
