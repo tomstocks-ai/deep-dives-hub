@@ -67,9 +67,8 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 | <tv-ticker-tag symbol="NASDAQ:HLIT" hide-background></tv-ticker-tag> | Harmonic Inc. | <span class="rating-buy">BUY</span> | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CLFD" hide-background></tv-ticker-tag> | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
-| <tv-ticker-tag symbol="NASDAQ:MRVL" hide-background></tv-ticker-tag> | Marvell Technology, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](MRVL.md) |
 | <tv-ticker-tag symbol="NASDAQ:AVGO" hide-background></tv-ticker-tag> | Broadcom Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](AVGO.md) |
-
+| <tv-ticker-tag symbol="NYSE:NOK" hide-background></tv-ticker-tag> | Nokia Corporation | <span class="rating-hold">HOLD</span> | 2026-06-21 | [:material-file-document: Read](NOK.md) |
 
 
 **AVGO — Broadcom Inc. · <span class="rating-buy">BUY</span>**
@@ -79,6 +78,16 @@ Dominant merchant supplier of custom AI ASICs and networking silicon to hypersca
 **Bull:** $580–620 · **Base:** $480–520 · **Bear:** $340–380
 
 [:material-arrow-right: Full Deep Dive](AVGO.md)
+
+---
+
+**NOK — Nokia Corporation · <span class="rating-hold">HOLD</span>**
+
+The #2 global telecom equipment vendor with a durable patent licensing business and improving optical/network infrastructure exposure via the 2025 Infinera acquisition. Q1 2026 comparable net sales rose 4% constant currency to €4.50B (~$5.27B) with 45.5% gross margin and 6.2% operating margin. Mobile Networks margin pressure and 5G capex maturation create near-term headwinds, but the dividend yield (~3.5%), €3.8B net cash, and AI-driven fiber demand provide a floor. HOLD pending a clearer mobile networks recovery or a pullback to more attractive entry levels.
+
+**Bull:** $18–$20 · **Base:** $14–$16 · **Bear:** $9–$11
+
+[:material-arrow-right: Full Deep Dive](NOK.md)
 
 ---
 
