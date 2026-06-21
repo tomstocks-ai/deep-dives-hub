@@ -801,6 +801,20 @@
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/BMNR/",
       "api_url": "/api/BMNR.json"
+    },
+    {
+      "ticker": "BFLY",
+      "company": "Butterfly Network, Inc.",
+      "sector": "Health Technology",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "industry": "Point-of-Care Ultrasound (POCUS)",
+      "rating": "SPEC. BUY",
+      "price": 8.9,
+      "market_cap": "~.6B",
+      "last_updated": "2026-06-20",
+      "deep_dive_url": "/deep-dives/BFLY/",
+      "api_url": "/api/BFLY.json"
     }
   ]
 }
