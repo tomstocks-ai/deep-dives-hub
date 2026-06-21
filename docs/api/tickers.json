@@ -843,6 +843,20 @@
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/CBRS/",
       "api_url": "/api/CBRS.json"
+    },
+    {
+      "ticker": "NOK",
+      "company": "Nokia Corporation",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "industry": "Telecommunications Equipment / Networking Infrastructure",
+      "rating": "HOLD",
+      "price": 13.49,
+      "market_cap": "5B",
+      "last_updated": "2026-06-21",
+      "deep_dive_url": "/deep-dives/NOK/",
+      "api_url": "/api/NOK.json"
     }
   ]
 }

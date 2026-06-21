@@ -1,0 +1,77 @@
+{
+  "ticker": "NOK",
+  "company": "Nokia Corporation",
+  "sector": "Technology",
+  "industry": "Telecommunications Equipment / Networking Infrastructure",
+  "exchange": "NYSE",
+  "price": 13.49,
+  "market_cap": "$75B",
+  "rating": "HOLD",
+  "last_updated": "2026-06-21",
+  "thesis": "Nokia is the #2 global telecom equipment vendor with a durable patent licensing business and improving optical/network infrastructure exposure via the Infinera acquisition. Mobile Networks margin pressure and 5G capex maturation create near-term headwinds, but the dividend yield (~3.5%), net cash position (€3.8B), and AI-driven fiber demand provide a floor. HOLD pending a clearer mobile networks recovery or a pullback to more attractive entry levels.",
+  "financials": {
+    "fiscal_year": "2025 / Q1 2026",
+    "revenue": "€19.2B (FY2025); €4.50B (~$5.27B) Q1 2026",
+    "revenue_growth": "+4% constant currency (Q1 2026 YoY)",
+    "gross_margin": "45.5% (comparable, Q1 2026)",
+    "net_income": "Reported EPS €0.02; Comparable EPS €0.05 (Q1 2026)",
+    "eps_diluted": "€0.34 (FY2025 comparable)",
+    "cash": "€3.8B net cash",
+    "fcf": "Positive; dividend and buyback supported by strong balance sheet"
+  },
+  "bull_case": {
+    "target": "$18–$20",
+    "drivers": [
+      "Mobile Networks margins recover to 8–10% as pricing stabilizes and cost actions take hold",
+      "AI-driven optical/fiber demand accelerates post-Infinera integration, expanding data center interconnect revenue",
+      "Major patent licensing renewals exceed expectations, boosting Nokia Technologies revenue and margins",
+      "Government broadband stimulus (BEAD, EU digital sovereignty) drives fixed access and fiber sales",
+      "Private wireless enterprise segment scales faster than expected, diversifying revenue away from cyclical RAN capex"
+    ]
+  },
+  "base_case": {
+    "target": "$14–$16",
+    "assumptions": [
+      "Modest mobile networks recovery with operating margins stabilizing near 5–7%",
+      "Network Infrastructure grows mid-single digits on optical and IP routing demand",
+      "Nokia Technologies licensing revenue flat-to-up on renewals at similar terms",
+      "FX and geopolitical headwinds remain manageable",
+      "Valuation multiple holds at ~18x forward P/E"
+    ]
+  },
+  "bear_case": {
+    "target": "$9–$11",
+    "risks": [
+      "Mobile Networks margin pressure persists due to aggressive competition from Ericsson and Samsung",
+      "Geopolitical disruptions (India tariffs, China restrictions) limit market access and increase costs",
+      "Patent licensing disputes or downward rate pressure reduce Nokia Technologies revenue",
+      "5G capex cycle slows before 5G-Advanced ramps, creating a revenue and earnings gap",
+      "Open RAN adoption accelerates, eroding incumbent RAN vendor pricing power"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 earnings — watch Mobile Networks margin trajectory and Infinera integration progress"
+    },
+    {
+      "date": "2026-H2",
+      "event": "Potential announcement of major patent licensing renewals"
+    },
+    {
+      "date": "2026-Q4",
+      "event": "Capital Markets Day / 2027 guidance — management may refine margin and growth targets"
+    },
+    {
+      "date": "2026-ongoing",
+      "event": "U.S. BEAD broadband awards and European digital sovereignty programs favor Nokia fiber access"
+    }
+  ],
+  "key_risks": [
+    "Mobile Networks margin compression from intense RAN competition",
+    "Geopolitical headwinds (India tariffs, China market access restrictions)",
+    "FX volatility (EUR/USD) impacting reported euro-denominated results",
+    "5G capex cycle maturation in developed markets before 5G-Advanced upgrade cycle begins",
+    "Open RAN and network virtualization trends eroding incumbent vendor margins over time"
+  ]
+}
