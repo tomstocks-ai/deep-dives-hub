@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-23",
   "tickers": [
     {
       "ticker": "CEG",
@@ -871,6 +871,20 @@
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/BB/",
       "api_url": "/api/BB.json"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "industry": "Semiconductors / AI Compute",
+      "rating": "BUY",
+      "price": 202.64,
+      "market_cap": "~.0T",
+      "last_updated": "2026-06-23",
+      "deep_dive_url": "/deep-dives/NVDA/",
+      "api_url": "/api/NVDA.json"
     }
   ]
 }

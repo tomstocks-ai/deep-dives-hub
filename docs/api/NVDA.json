@@ -1,0 +1,73 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA Corporation",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "sector": "Technology",
+  "industry": "Semiconductors / AI Compute",
+  "exchange": "NASDAQ",
+  "price": 202.64,
+  "market_cap": "~$5.0T",
+  "rating": "BUY",
+  "last_updated": "2026-06-23",
+  "thesis": "NVIDIA is the dominant designer of GPUs and AI accelerators, and the foundational enabler of the generative AI revolution. FY2025 revenue of $130.5B (+114% YoY) and Q1 FY2027 revenue of $81.6B (+85% YoY) demonstrate sustained hypergrowth. The CUDA software ecosystem creates deep developer lock-in, while the Blackwell architecture ramp and agentic AI positioning extend the moat. At ~$5T market cap and ~35x TTM P/E, valuation is elevated but justified by 75% gross margins, $60B+ annual free cash flow, and a structurally expanding AI TAM.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Jan 2025)",
+    "revenue": "$130.5B",
+    "revenue_growth": "+114%",
+    "gross_margin": "~75% (GAAP)",
+    "net_income": "$72.88B",
+    "eps_diluted": "$2.94",
+    "cash": "~$35B",
+    "fcf": "$60.85B (FY2025)"
+  },
+  "bull_case": {
+    "target": "$280–300",
+    "drivers": [
+      "Blackwell demand exceeds supply through 2027; agentic AI and sovereign AI drive new TAM",
+      "Gross margins expand to 78% on software mix and pricing power",
+      "Stock re-rates to 35x forward earnings on sustained 50%+ growth",
+      "Automotive and robotics become meaningful revenue contributors by 2028"
+    ]
+  },
+  "bear_case": {
+    "target": "$180–200",
+    "risks": [
+      "AI capex cycle peaks in 2026; hyperscaler demand decelerates sharply",
+      "Competition from AMD MI350X, custom ASICs (AVGO, MRVL), and Cerebras gains share",
+      "Margins compress to 65% on mix shift or pricing pressure",
+      "Geopolitical export controls expand beyond China to constrain TAM",
+      "Multiple contracts to 20x on cyclical normalization"
+    ]
+  },
+  "base_case": {
+    "target": "$240–260",
+    "assumptions": "Data center growth moderates to 50–60% YoY; gaming and automotive contribute modestly; margins stable at 75%; stock trades at 28–30x forward earnings. FY2027 revenue of $240–260B with EPS of $7.50–8.50."
+  },
+  "catalysts": [
+    {
+      "date": "2026-08",
+      "event": "Q2 FY2027 earnings — Blackwell ramp and guidance critical"
+    },
+    {
+      "date": "2026-09",
+      "event": "NVIDIA GTC 2026 — new product announcements and roadmap updates"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 FY2027 earnings — holiday gaming season + data center update"
+    },
+    {
+      "date": "2027-01",
+      "event": "CES 2027 — automotive and consumer AI announcements"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: hyperscalers (Microsoft, Meta, Google, Amazon, Oracle) drive majority of data center revenue",
+    "Competition from AMD, custom ASICs (Broadcom, Marvell), and Cerebras wafer-scale chips",
+    "Valuation risk at ~$5T market cap and ~35x TTM P/E; law of large numbers makes sustained hypergrowth harder",
+    "Geopolitical export controls on advanced AI chips could expand beyond China",
+    "TSMC supply chain dependency; any disruption to Taiwan production would halt NVIDIA manufacturing",
+    "AI capex cycle maturation; if AI ROI disappoints, hyperscaler spending could slow abruptly"
+  ]
+}

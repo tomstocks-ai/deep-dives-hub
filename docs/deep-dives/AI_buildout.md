@@ -136,6 +136,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
+| <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 
 ---
 
@@ -146,6 +147,16 @@ AI infrastructure company designing and manufacturing wafer-scale AI compute chi
 **Bull:** \$320–350 · **Base:** \$250–280 · **Bear:** \$160–180
 
 [:material-arrow-right: Full Deep Dive](CBRS.md)
+
+---
+
+**NVDA — NVIDIA Corporation · <span class="rating-buy">BUY</span>**
+
+The dominant designer of GPUs and AI accelerators, and the foundational enabler of the generative AI revolution. FY2025 revenue of \$130.5B (+114% YoY) and Q1 FY2027 revenue of \$81.6B (+85% YoY) demonstrate sustained hypergrowth. The CUDA software ecosystem creates deep developer lock-in, while the Blackwell architecture ramp and agentic AI positioning extend the moat. At ~\$5T market cap and ~35x TTM P/E, valuation is elevated but justified by 75% gross margins, \$60B+ annual free cash flow, and a structurally expanding AI TAM.
+
+**Bull:** \$280–300 · **Base:** \$240–260 · **Bear:** \$180–200
+
+[:material-arrow-right: Full Deep Dive](NVDA.md)
 
 ---
 
