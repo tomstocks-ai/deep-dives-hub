@@ -1,0 +1,59 @@
+{
+  "ticker": "NOW",
+  "company": "ServiceNow, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Enterprise Cloud Workflow Automation / SaaS",
+  "exchange": "NYSE",
+  "price": 93.55,
+  "market_cap": "$190B",
+  "rating": "BUY",
+  "last_updated": "2026-06-24",
+  "thesis": "Leading enterprise cloud workflow platform combining durable 20%+ revenue growth with best-in-class profitability and an underappreciated AI monetization story. The Now Platform's deep enterprise embedment, land-and-expand dynamics, and native AI integration (Now Assist) position ServiceNow as the primary workflow automation platform for the AI era. Q1 2026 subscription revenue grew 22% YoY, FY2026 guidance was raised to $15.735B–$15.775B, and Now Assist target was raised to $1.5B. 35%+ FCF margins and a $5B buyback authorization support a premium valuation with 18–28% base-case upside.",
+  "financials": {
+    "fiscal_year": "FY2026 (Q1)",
+    "revenue": "$3.77B (Q1)",
+    "revenue_growth": "+22% YoY",
+    "gross_margin": "81.5% non-GAAP",
+    "net_income": "~$450M GAAP",
+    "eps_diluted": "~$1.20 non-GAAP",
+    "cash": "$4.5B+",
+    "fcf": "$1.3B+ (Q1, ~44% margin)"
+  },
+  "bull_case": {
+    "target": "$140–$150",
+    "drivers": [
+      "AI monetization exceeds targets: Now Assist reaches $3B+ by FY2027 and drives multi-product attach rates above 6 per customer",
+      "Operating margins expand to 35%+ and FCF margins reach 40%, rewarded with 15x EV/Revenue multiple",
+      "Platform consolidation accelerates: enterprises reduce 5–7 vendors to 2–3, increasing NRR above 115%",
+      "Large deal momentum sustains 25%+ growth in $1M+ and $10M+ ACV contracts"
+    ]
+  },
+  "bear_case": {
+    "target": "$80–$90",
+    "risks": [
+      "Macro IT budget cuts delay transformation projects and slow expansion into HRSD, CSM, and Creator",
+      "Microsoft and Salesforce bundling compresses mid-market pricing and slows new logo growth",
+      "Growth decelerates to 15% as revenue scales beyond $15B, compressing EV/Revenue multiple to 8–9x",
+      "AI monetization disappoints if enterprise AI adoption is slower than expected"
+    ]
+  },
+  "base_case": {
+    "target": "$110–$120",
+    "assumptions": "Revenue grows 20–21% through FY2026, FCF margin sustains 35%+, market assigns 12x EV/Revenue on best-in-class SaaS metrics and platform leadership"
+  },
+  "catalysts": [
+    {"date": "2026-07", "event": "Q2 2026 Earnings — confirms FY2026 subscription revenue and margin guidance"},
+    {"date": "2026-09", "event": "Knowledge annual user conference — new product announcements and Now Assist updates"},
+    {"date": "2026-11", "event": "Q3 2026 Earnings — first look at FY2027 guidance and Now Assist run-rate"},
+    {"date": "2026-H2", "event": "AI agent general availability and monetization metrics"},
+    {"date": "2026-2027", "event": "Strategic partnership updates (NVIDIA, Microsoft) and joint go-to-market expansion"}
+  ],
+  "key_risks": [
+    "Premium valuation (~12x EV/Revenue) leaves limited room for execution missteps",
+    "Microsoft and Salesforce bundling threat in price-sensitive mid-market segments",
+    "Natural growth deceleration at $15B+ scale could compress multiples",
+    "AI monetization risk if enterprise AI deployment is slower than expected"
+  ]
+}
