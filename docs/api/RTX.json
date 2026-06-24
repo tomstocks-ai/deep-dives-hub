@@ -1,0 +1,83 @@
+{
+  "ticker": "RTX",
+  "company": "RTX Corporation",
+  "sector": "Defense",
+  "theme": "Defense",
+  "sub_theme": "Prime Contractors",
+  "industry": "Defense Prime Contractor / Aerospace & Propulsion",
+  "exchange": "NYSE",
+  "price": 186.39,
+  "market_cap": "$265B",
+  "rating": "BUY",
+  "last_updated": "2026-06-24",
+  "thesis": "RTX is a top-tier defense prime contractor with a balanced defense/commercial aerospace portfolio. Strong defense spending tailwinds, record backlog exceeding $200B, and commercial aerospace recovery drive a BUY rating with margin expansion potential.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$97.5B",
+    "revenue_growth": "+8% YoY",
+    "gross_margin": "24.5%",
+    "net_income": "$7.2B",
+    "eps_diluted": "$5.02",
+    "cash": "$6.8B",
+    "fcf": "$7.5B"
+  },
+  "bull_case": {
+    "target": "$220–$230",
+    "drivers": [
+      "Accelerated U.S. and allied defense budgets drive record bookings at Raytheon",
+      "Pratt & Whitney GTF aftermarket ramps faster than expected with margin recovery",
+      "Collins Aerospace benefits from Boeing production recovery and Airbus rate hikes",
+      "Successful M&A or portfolio optimization unlocks shareholder value",
+      "Multiple expansion to 20x+ forward EPS as investors re-rate defense primes"
+    ]
+  },
+  "base_case": {
+    "target": "$195–$205",
+    "assumptions": [
+      "Steady execution across all three segments with mid-single-digit organic growth",
+      "Defense budgets grow at inflation-plus, maintaining backlog above $200B",
+      "Commercial aerospace recovery continues at a measured pace",
+      "Share buybacks and dividend growth support 8-10% annual EPS growth",
+      "Stock trades at 18-19x forward earnings, consistent with historical multiples"
+    ]
+  },
+  "bear_case": {
+    "target": "$160–$170",
+    "risks": [
+      "U.S. defense budget cuts or program delays reduce Raytheon bookings",
+      "Commercial aerospace slowdown pressures Collins OEM and Pratt deliveries",
+      "Pratt & Whitney faces unexpected GTF technical issues or prolonged shop visit costs",
+      "Margin compression from fixed-price contract overruns or supply chain inflation",
+      "Multiple compression to 15x forward EPS on earnings stagnation"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 Earnings — guidance update and margin trajectory"
+    },
+    {
+      "date": "2026-08",
+      "event": "NDAA Appropriations Markup — defense budget direction"
+    },
+    {
+      "date": "2026-09",
+      "event": "NATO Defense Ministers Meeting — replenishment commitments"
+    },
+    {
+      "date": "2026-10",
+      "event": "Q3 2026 Earnings — commercial aerospace momentum check"
+    },
+    {
+      "date": "2026-12",
+      "event": "FY2027 Defense Budget Request — top-line program visibility"
+    }
+  ],
+  "key_risks": [
+    "Defense budget volatility from geopolitical shifts or deficit reduction",
+    "Commercial aerospace cyclicality and Boeing production delays",
+    "Fixed-price development contract cost overrun risk",
+    "Export control and trade policy restrictions on international sales",
+    "Ongoing operational restructuring execution risk"
+  ]
+}

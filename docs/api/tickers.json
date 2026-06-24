@@ -913,6 +913,20 @@
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/HOOD/",
       "api_url": "/api/HOOD.json"
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corporation",
+      "sector": "Defense",
+      "theme": "Defense",
+      "sub_theme": "Prime Contractors",
+      "industry": "Defense Prime Contractor / Aerospace & Propulsion",
+      "rating": "BUY",
+      "price": 186.39,
+      "market_cap": "65B",
+      "last_updated": "2026-06-24",
+      "deep_dive_url": "/deep-dives/RTX/",
+      "api_url": "/api/RTX.json"
     }
   ]
 }
