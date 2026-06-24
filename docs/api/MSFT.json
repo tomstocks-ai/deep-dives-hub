@@ -1,0 +1,54 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft Corporation",
+  "theme": "Cloud & Enterprise Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Cloud Computing / Enterprise Software",
+  "sector": "Technology",
+  "exchange": "NASDAQ",
+  "price": 365.46,
+  "market_cap": "$2.7T",
+  "rating": "BUY",
+  "last_updated": "2026-06-24",
+  "thesis": "Microsoft is the dominant enterprise cloud platform with Azure growing 40% YoY and an AI business already exceeding $10B annual run rate. At ~22x P/E with $281.7B revenue and $101.8B net income, the valuation has compressed meaningfully while fundamentals remain best-in-class. The $365 price offers a 35% discount to analyst consensus targets, creating a clear positive risk/reward for the world's most durable software franchise.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$281.7B",
+    "revenue_growth": "+15%",
+    "gross_margin": "~69%",
+    "net_income": "$101.8B",
+    "eps_diluted": "$13.64",
+    "cash": "~$80B",
+    "fcf": "~$74B"
+  },
+  "bull_case": {
+    "target": "$520–$560",
+    "drivers": [
+      "AI monetization accelerates beyond $10B ARR into $20B+ by FY2027",
+      "Azure sustains 35%+ growth as enterprise AI workloads scale",
+      "Operating margins expand 200-300bps via AI-driven pricing power and efficiency gains"
+    ]
+  },
+  "bear_case": {
+    "target": "$300–$330",
+    "risks": [
+      "AI capex overshoot leads to supply glut and margin compression",
+      "Azure growth decelerates to sub-20% as hyperscaler competition intensifies",
+      "Multiple compresses to 18x on fears of AI ROI disappointment"
+    ]
+  },
+  "base_case": {
+    "target": "$420–$460",
+    "assumptions": "Azure grows 25-30% through FY2027, Microsoft Cloud sustains 20%+ growth, operating margins stable at 44-45%, P/E re-rates to 26-28x on AI execution."
+  },
+  "catalysts": [
+    {"date": "2026-07-28", "event": "Q4 FY2026 earnings — Azure growth trajectory and AI revenue disclosure"},
+    {"date": "2026-09-15", "event": "Ignite 2026 — AI product roadmap and Copilot monetization updates"},
+    {"date": "2026-10-22", "event": "Q1 FY2027 earnings — first full quarter with new AI capacity online"}
+  ],
+  "key_risks": [
+    "Hyperscaler capex arms race may overshoot demand, pressuring ROI timelines",
+    "Regulatory scrutiny on AI dominance and cloud market power in EU and US",
+    "Open-source AI models commoditize LLM layer, eroding Azure AI pricing power"
+  ]
+}

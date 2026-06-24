@@ -142,3 +142,17 @@ Cybersecurity and IoT/embedded software company pivoting from legacy handset bra
 [:material-arrow-right: Full Deep Dive](BB.md)
 
 ---
+
+|| <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](MSFT.md) |
+
+---
+
+### Enterprise Software
+
+**MSFT — Microsoft Corporation · <span class="rating-buy">BUY</span>**
+
+Global technology leader with dominant positions in enterprise productivity (Microsoft 365), public cloud (Azure), and PC operating systems (Windows). FY2025 revenue reached ~81.7B (+15% YoY) with operating profit of ~28.5B (+17%) and net income of ~01.8B (+16%). FY26 Q3 diluted EPS of .27 beat estimates by ~5%, up 23% YoY. Azure grew 40% (39% CC) and Microsoft Cloud revenue hit 4.5B (+29%). The AI business annual run rate exceeded 0B, with Copilot adoption accelerating across the product stack. At ~22x P/E — down from 30x in Q2 — and a consensus price target of ~61 (50% upside), MSFT offers a compelling risk/reward for a dominant platform with durable recurring revenue and expanding margins.
+
+**Bull:** 20–60 · **Base:** 20–60 · **Bear:** 00–30
+
+[:material-arrow-right: Full Deep Dive](MSFT.md)

@@ -942,5 +942,18 @@
       "deep_dive_url": "/deep-dives/NOW/",
       "api_url": "/api/NOW.json"
     }
+  ,
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "sector": "Technology",
+      "industry": "Cloud & Enterprise Software",
+      "rating": "BUY",
+      "price": 365.46,
+      "market_cap": ".7T",
+      "last_updated": "2026-06-24",
+      "deep_dive_url": "/deep-dives/MSFT/",
+      "api_url": "/api/MSFT.json"
+    }
   ]
 }
