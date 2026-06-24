@@ -899,6 +899,20 @@
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/COIN/",
       "api_url": "/api/COIN.json"
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "industry": "Brokerage / Trading Platforms",
+      "rating": "SPEC. BUY",
+      "price": 103.25,
+      "market_cap": "2B",
+      "last_updated": "2026-06-24",
+      "deep_dive_url": "/deep-dives/HOOD/",
+      "api_url": "/api/HOOD.json"
     }
   ]
 }

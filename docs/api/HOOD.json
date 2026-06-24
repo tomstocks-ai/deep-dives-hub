@@ -1,0 +1,93 @@
+{
+  "ticker": "HOOD",
+  "company": "Robinhood Markets, Inc.",
+  "sector": "Fintech",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Brokerage / Trading",
+  "industry": "Brokerage / Trading Platforms",
+  "exchange": "NASDAQ",
+  "price": 103.25,
+  "market_cap": "$92B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-24",
+  "thesis": "Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem with growing crypto revenue, subscription services (Gold), and international expansion. The SPEC. BUY rating reflects strong brand loyalty among retail investors, crypto momentum, and recurring revenue growth, offset by stretched valuation and regulatory risks.",
+  "financials": {
+    "fiscal_year": "FY2025 (Est.)",
+    "revenue": "$3.6B",
+    "revenue_growth": "~24%",
+    "gross_margin": "~87%",
+    "net_income": "$0.8B",
+    "eps_diluted": "$0.90",
+    "cash": "$4.5B",
+    "fcf": "$0.9B"
+  },
+  "bull_case": {
+    "target": "$140–$155",
+    "drivers": [
+      "Crypto revenue surpasses $1B annually with staking and custody expansion",
+      "Robinhood Gold subscribers double, validating recurring revenue thesis",
+      "International markets (UK/EU) contribute material revenue by 2027",
+      "Resolution of SEC Wells notice removes regulatory overhang",
+      "HOOD re-rated as fintech-crypto hybrid rather than traditional broker"
+    ]
+  },
+  "base_case": {
+    "target": "$95–$110",
+    "assumptions": [
+      "20% revenue CAGR sustained through 2027",
+      "Modest margin expansion as subscription revenue mix increases",
+      "Crypto revenue grows but remains cyclical, not explosive",
+      "International expansion proceeds at measured pace",
+      "Valuation compresses slightly from current levels as growth normalizes"
+    ]
+  },
+  "bear_case": {
+    "target": "$60–$75",
+    "risks": [
+      "SEC enforcement action or PFOF ban materially impacts revenue",
+      "Crypto bear market compresses transaction revenue and sentiment",
+      "Competition from Schwab, Fidelity, and Coinbase erodes market share",
+      "Rate cuts compress net interest income faster than trading recovers",
+      "Valuation multiple compression on growth deceleration"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "H2 2026",
+      "event": "Crypto product expansion (new tokens, staking, custody)"
+    },
+    {
+      "date": "H2 2026",
+      "event": "EU market deepening with local licensing and marketing"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Potential resolution of SEC Wells notice"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Fed rate cuts potentially boosting trading activity"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Gold subscriber milestones (5M+, 10M+)"
+    }
+  ],
+  "key_risks": [
+    "Regulatory / SEC enforcement risk from Wells notice and PFOF scrutiny",
+    "Crypto volatility and cyclicality of transaction revenue",
+    "Competition from traditional brokers and crypto-native platforms",
+    "Stretched valuation with limited margin for error",
+    "Interest rate sensitivity of net interest income"
+  ],
+  "analyst_consensus": {
+    "rating": "BUY",
+    "median_target": "$97.50",
+    "target_range": "$52–$155"
+  },
+  "technicals": {
+    "rsi_14": 64.3,
+    "52_week_low": 63.52,
+    "52_week_high": 153.86
+  }
+}

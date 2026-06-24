@@ -8,8 +8,9 @@ title: Fintech & Digital Payments
 ## Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
+| <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
 |--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
+| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
@@ -66,5 +67,15 @@ Largest U.S. crypto exchange with ~55% retail market share and dominant institut
 **Bull:** $280–$340 · **Base:** $200–$250 · **Bear:** $100–$140
 
 [:material-arrow-right: Full Deep Dive](COIN.md)
+
+---
+
+**HOOD — Robinhood Markets, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem. Revenue segments include transaction-based (equities, options, crypto), net interest income, and subscription services (Robinhood Gold). The company recently raised a B convertible note offering (June 2026) to accelerate crypto infrastructure and international expansion into the UK and EU. Gold subscribers are growing rapidly, providing sticky recurring revenue. Crypto revenue has rebounded sharply alongside digital asset price cycles. Regulatory risks remain acute, including an SEC Wells notice and potential PFOF scrutiny. At 03.25, the stock trades at a premium (~25x P/S, ~115x forward P/E) but offers asymmetric upside if crypto and international growth exceed expectations.
+
+**Bull:** 40–55 · **Base:** 5–10 · **Bear:** 0–5
+
+[:material-arrow-right: Full Deep Dive](HOOD.md)
 
 ---
