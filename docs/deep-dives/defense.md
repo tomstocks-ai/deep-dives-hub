@@ -9,10 +9,8 @@ title: Defense
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NASDAQ:OSS" hide-background></tv-ticker-tag> | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](OSS.md) |
-|| <tv-ticker-tag symbol="NYSE:RTX" hide-background></tv-ticker-tag> | RTX Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](RTX.md) |
-|
-|---
+| <tv-ticker-tag symbol="NASDAQ:OSS" hide-background></tv-ticker-tag> | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](OSS.md) |
+| <tv-ticker-tag symbol="NYSE:RTX" hide-background></tv-ticker-tag> | RTX Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](RTX.md) |
 
 ### Prime Contractors
 
