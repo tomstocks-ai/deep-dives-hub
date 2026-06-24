@@ -1,0 +1,55 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase Global, Inc.",
+  "sector": "Fintech",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Brokerage / Trading",
+  "industry": "Cryptocurrency Exchange / Digital Asset Infrastructure",
+  "exchange": "NASDAQ",
+  "price": 158.18,
+  "market_cap": "$42B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-24",
+  "thesis": "Dominant U.S. crypto exchange with a deepening regulatory moat via GENIUS Act stablecoin legislation. Diversifying beyond transaction fees into stablecoin (USDC), custody, staking, and institutional services. ETF custody dominance creates sticky institutional relationships. Asymmetric upside to crypto bull markets; transaction revenue is highly levered to volume. High uncertainty / binary risks from crypto cyclicality and regulation warrant a SPEC. BUY rating.",
+  "financials": {
+    "fiscal_year": "FY2025E",
+    "revenue": "~$7.0B",
+    "revenue_growth": "+8%",
+    "gross_margin": "~72%",
+    "net_income": "~$0.6B",
+    "eps_diluted": "~$2.10",
+    "cash": "~$5.5B",
+    "fcf": "~$0.9B"
+  },
+  "bull_case": {
+    "target": "$280–$340",
+    "drivers": [
+      "Crypto bull market drives transaction revenue doubling and trading volume expansion",
+      "USDC supply exceeds $30B, boosting stablecoin interest income via GENIUS Act clarity",
+      "Institutional custody and ETF services expand with new digital asset ETF launches"
+    ]
+  },
+  "bear_case": {
+    "target": "$100–$140",
+    "risks": [
+      "Crypto winter collapses transaction revenue and trading volumes",
+      "Regulatory headwinds intensify, limiting product expansion and increasing compliance costs",
+      "Fee compression from competitors (Robinhood, offshore exchanges) accelerates margin erosion"
+    ]
+  },
+  "base_case": {
+    "target": "$200–$250",
+    "assumptions": "Stable trading volumes with subscription & services growth offsetting transaction fee compression; modest crypto market recovery; regulatory environment remains manageable but not transformative."
+  },
+  "catalysts": [
+    {"date": "2026-07-31", "event": "Q2 2026 Earnings — transaction volume and USDC trends"},
+    {"date": "2026-09-30", "event": "GENIUS Act stablecoin legislation vote (expected H2 2026)"}
+  ],
+  "key_risks": [
+    "Regulatory uncertainty and SEC enforcement actions",
+    "Fee compression from competitive and market maker dynamics",
+    "Crypto winter volume collapse impacting transaction revenue",
+    "Stablecoin revenue concentration sensitive to Federal Reserve interest rates",
+    "Security and operational risk from exchange custody"
+  ]
+}

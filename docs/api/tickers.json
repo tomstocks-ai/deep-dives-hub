@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-24",
   "tickers": [
     {
       "ticker": "CEG",
@@ -885,6 +885,20 @@
       "last_updated": "2026-06-23",
       "deep_dive_url": "/deep-dives/NVDA/",
       "api_url": "/api/NVDA.json"
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "industry": "Cryptocurrency Exchange / Digital Asset Infrastructure",
+      "rating": "SPEC. BUY",
+      "price": 158.18,
+      "market_cap": "$42B",
+      "last_updated": "2026-06-24",
+      "deep_dive_url": "/deep-dives/COIN/",
+      "api_url": "/api/COIN.json"
     }
   ]
 }
