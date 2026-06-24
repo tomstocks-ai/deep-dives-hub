@@ -105,11 +105,11 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 
 ## Cybersecurity
 
-|| Ticker | Company | Rating | Last Updated | Full DD |
-||--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
-|| <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
-|| <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
+| <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
 
 ---
 
@@ -143,7 +143,7 @@ Cybersecurity and IoT/embedded software company pivoting from legacy handset bra
 
 ---
 
-|| <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](MSFT.md) |
+| <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](MSFT.md) |
 
 ---
 
