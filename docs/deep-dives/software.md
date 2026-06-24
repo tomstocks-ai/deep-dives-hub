@@ -7,15 +7,15 @@ title: Cloud & Enterprise Software
 
 ## Cloud & Enterprise Software
 
-|| Ticker | Company | Rating | Last Updated | Full DD |
-||--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
-|| <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
-|| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
-|| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
-|| <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
-|| <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
-|| <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
+| <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
+| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
+| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+| <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
+| <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
+| <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
 
 ---
 
