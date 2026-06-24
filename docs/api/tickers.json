@@ -927,6 +927,20 @@
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/RTX/",
       "api_url": "/api/RTX.json"
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Enterprise Software",
+      "industry": "Enterprise Cloud Workflow Automation / SaaS",
+      "rating": "BUY",
+      "price": 93.55,
+      "market_cap": "$190B",
+      "last_updated": "2026-06-24",
+      "deep_dive_url": "/deep-dives/NOW/",
+      "api_url": "/api/NOW.json"
     }
   ]
 }
