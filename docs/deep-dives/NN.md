@@ -44,11 +44,10 @@ hide:
 
 
 # NextNav Inc (NN) — Deep Dive Analysis
-**Date:** April 17, 2026  
-**Current Price:** \$20.82 (as of April 16 close)  
-**Portfolio Position:** 110 shares + 100 CFD units (20.5% of portfolio — CRITICAL CONCENTRATION)  
+**Date:** June 26, 2026  
+**Current Price:** \$16.67 (as of June 25 close)  
 **Analyst:** MrWhimsy  
-**Rating:** SPECULATIVE HOLD with CATALYST-DRIVEN UPSIDE
+**Rating:** SPECULATIVE HOLD
 
 ---
 
@@ -56,9 +55,11 @@ hide:
 
 NextNav is a binary outcome bet disguised as a 5G infrastructure play. The company has spent nearly two decades developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. But here's the reality: **this is a pre-revenue company burning cash while waiting for regulatory approval to monetize its spectrum.**
 
-Your position at **20.5% of portfolio** is dangerously concentrated for a stock with this risk profile. The +24% rally yesterday (April 16) pushed NN to \$20.82 on renewed FCC optimism. The catalyst everyone is waiting for — the Notice of Proposed Rulemaking (NPRM) — could drop any day now. When it does, the stock will likely gap up or down 15-30% within hours.
+The stock has pulled back ~20% from April highs (\$20.82) to \$16.67, reflecting fading momentum around the FCC NPRM and a modest cash burn. Q1 2026 results showed revenue of \$995K (up from \$887K in Q3 2025) and a narrowed net loss of \$10.6M (EPS -\$0.078 vs. -\$0.45 in Q1 2025). Cash stands at \$143M, down from \$167.6M, extending runway but not eliminating financing risk.
 
-**Bottom Line:** This is a lottery ticket with better-than-random odds, but you're holding way too many tickets. Trim before the drawing.
+The catalyst everyone is waiting for — the Notice of Proposed Rulemaking (NPRM) — remains in interagency review at the White House OMB. No public release yet. When it does drop, the stock will likely gap up or down 15–30% within hours.
+
+**Bottom Line:** This is a lottery ticket with better-than-random odds, now trading at a modest discount to April levels. The thesis hasn't changed — still a binary regulatory bet — but cash has decreased and patience is required.
 
 ---
 
@@ -86,18 +87,19 @@ Their real asset isn't the technology — it's the **spectrum license**. If the 
 
 ## 2. Financial Analysis: Pre-Revenue Burn Machine
 
-### The Numbers (Q3 2025)
+### The Numbers (Q1 2026)
 | Metric | Value | Context |
 |--------|-------|---------|
-| Revenue | \$887K | Down 44.8% YoY — basically non-existent |
+| Revenue | \$995K | Up from \$887K in Q3 2025; still essentially pre-revenue |
 | Gross Margin | N/A | Pre-revenue, R&D stage |
-| Operating Margin | -19.92% | Burning cash aggressively |
-| R&D Expense | Up 45.4% | Investing heavily in network buildout |
-| Cash | \$167.6M | As of Q3 2025 |
+| Operating Margin | Negative | Burning cash aggressively |
+| Net Loss | \$10.6M | Narrowed from prior quarters |
+| EPS | -\$0.078 | Improved from -\$0.45 in Q1 2025 |
+| Cash | \$143M | Down from \$167.6M in Q3 2025 |
 | Debt | \$190M convertible notes | 5% due 2028, redeemed \$70M of higher-cost 2026 notes |
 
 ### Cash Runway
-With \$167.6M cash and current burn rate, NextNav has roughly **12-18 months** of runway. The March 2025 convertible note offering extended their lifeline, but they're not self-sustaining yet.
+With \$143M cash and current burn rate, NextNav has roughly **12–18 months** of runway. The March 2025 convertible note offering extended their lifeline, but they're not self-sustaining yet.
 
 ### What This Means
 This company is entirely dependent on regulatory approval to generate meaningful revenue. The Pinnacle service (911 altitude) is operational but tiny. The big prize — commercial deployment of TerraPoiNT — requires FCC blessing.
@@ -108,21 +110,21 @@ This company is entirely dependent on regulatory approval to generate meaningful
 
 ### Traditional Metrics Don't Apply
 - **No P/E** — no earnings
-- **No P/S meaningful** — \$887K quarterly revenue on ~\$1.5B market cap = absurd multiple
+- **No P/S meaningful** — \$995K quarterly revenue on ~\$1.2B market cap = absurd multiple
 - **EV/Revenue** — astronomical, irrelevant at this stage
 
 ### How to Value This
 You can't value NextNav on fundamentals. It's a **call option on regulatory approval** with these parameters:
 
-- **Strike price:** Current market cap prices in ~50% probability of approval
-- **Expiry:** 12-18 months (cash runway)
-- **Premium:** Whatever you pay above the "denial" scenario (~\$5-8/share)
+- **Strike price:** Current market cap prices in ~40–50% probability of approval
+- **Expiry:** 12–18 months (cash runway)
+- **Premium:** Whatever you pay above the "denial" scenario (~\$5–8/share)
 
 ### Peer Comparison (Speculative Infrastructure)
 | Company | Stage | Market Cap | Valuation Basis |
 |---------|-------|------------|-----------------|
-| NextNav | Pre-revenue, regulatory pending | ~\$1.5B | Option value on spectrum |
-| ASTS | Pre-revenue, tech validation | ~\$2-3B | Satellite-to-cell TAM |
+| NextNav | Pre-revenue, regulatory pending | ~\$1.2B | Option value on spectrum |
+| ASTS | Pre-revenue, tech validation | ~\$2–3B | Satellite-to-cell TAM |
 | Oklo | Pre-revenue, NRC pending | ~\$800M | SMR licensing option |
 
 NextNav trades at a premium to Oklo but discount to ASTS, which feels roughly fair given the regulatory uncertainty.
@@ -137,19 +139,19 @@ NextNav filed a petition in April 2024 to reconfigure the Lower 900 MHz band for
 ### Key Milestone: NPRM
 The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC says "we're considering this change and want public comment." CEO Mariam Sorond expressed confidence in the March earnings call that an NPRM is coming "near-term."
 
-**Critical Update (April 16, 2026):** According to IBTimes reporting, the FCC has "formally sent a draft NPRM focused on PNT technology to the White House OMB for interagency review." This is the final bureaucratic hurdle before public release.
+**Critical Update (June 2026):** The FCC draft NPRM focused on PNT technology has been sent to the White House OMB for interagency review. As of late June, **no public release has occurred**. The proceeding remains in bureaucratic limbo.
 
 ### Why This Matters
 - **NPRM release** = validation that FCC is serious about the proceeding
-- **Public comment period** = 30-90 days of industry feedback
-- **Report and Order** = final approval (6-12 months after NPRM)
+- **Public comment period** = 30–90 days of industry feedback
+- **Report and Order** = final approval (6–12 months after NPRM)
 
 ### Timeline Scenarios
 | Scenario | Probability | Stock Impact |
 |----------|-------------|--------------|
-| NPRM drops this week | 40% | +20-40% gap up |
-| NPRM delayed to May/June | 35% | -10-15% drift down |
-| NPRM denied/punted | 25% | -40-60% crash |
+| NPRM drops in Q3 2026 | 35% | +20–40% gap up |
+| NPRM delayed to late 2026 | 40% | -10–15% drift down |
+| NPRM denied/punted | 25% | -40–60% crash |
 
 ---
 
@@ -158,10 +160,10 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 ### Regulatory Risk (CRITICAL)
 - **FCC denial** — spectrum petition rejected, business model collapses
 - **Incumbent opposition** — existing 900 MHz users fight reconfiguration
-- **Interagency delay** — OMB or NTIA slow-walks the NPRM
+- **Interagency delay** — OMB or NTIA slow-walks the NPRM indefinitely
 
 ### Financial Risk (HIGH)
-- **Cash burn** — 12-18 months runway, may need more capital
+- **Cash burn** — 12–18 months runway, may need more capital
 - **Dilution** — convertible notes convert to equity, diluting shareholders
 - **No revenue** — if commercialization delayed, funding gap widens
 
@@ -170,10 +172,11 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 - **Trimble** — GNSS precision positioning leader
 - **Other 5G players** — carriers could develop competing solutions
 
-### Concentration Risk (CRITICAL FOR YOU)
-- **20.5% of portfolio** in one binary catalyst stock
-- **110 shares + 100 CFDs** = leveraged exposure
-- **Your cost basis** ~\$18.65 means you're up ~12% — lock some in
+### Market Risk (MEDIUM)
+- **Speculative sentiment shift** — high-beta names sold off in Q2 2026
+- **Low float / high volatility** — can swing 10–20% on no news
+
+---
 
 ## 6. Sentiment & Flows
 
@@ -182,13 +185,18 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 - **Interpretation:** Common for execs to manage holdings, but not bullish signal
 
 ### Analyst Sentiment
+- **2 analysts** covering the stock
+- **Consensus rating:** Strong Buy
+- **Average price target:** \$39.50
 - **Bull case:** Regulatory approval unlocks monopoly economics
 - **Bear case:** Pre-revenue, cash burn, regulatory uncertainty
-- **Price targets:** Varied, generally \$15-30 range depending on NPRM assumptions
+
+### Oppenheimer Upgrade
+Oppenheimer recently upgraded NN, valuing the spectrum at approximately **\$0.80/MHz-pop**. This implies significant upside if the FCC proceeding moves forward favorably.
 
 ### Retail Sentiment (Twitter/X/Reddit)
 - **Narrative:** "GPS backup = national security play"
-- **Hype level:** Elevated post-April 16 rally
+- **Hype level:** Moderate — cooled from April peaks
 - **Risk:** Retail FOMO often peaks before catalysts
 
 ### Options Flow
@@ -198,84 +206,71 @@ The **Notice of Proposed Rulemaking (NPRM)** is the formal step where the FCC sa
 
 ## 7. Investment Thesis: Three Scenarios
 
-### Scenario A: NPRM Drops (40% probability)
-**Timeline:** This week or next  
-**Stock Reaction:** +20-40% gap up  
+### Scenario A: NPRM Drops (35% probability)
+**Timeline:** Q3 2026  
+**Stock Reaction:** +20–40% gap up  
 **Follow-through:** Depends on NPRM language
 
 | Sub-Scenario | Probability | Price Target |
 |--------------|-------------|--------------|
-| Strong NPRM (clear pathway) | 25% | \$28-32 |
-| Weak NPRM (punted to study) | 15% | \$22-24 |
+| Strong NPRM (clear pathway) | 20% | \$28–32 |
+| Weak NPRM (punted to study) | 15% | \$22–24 |
 
-**Your Action:** If +30% gap up, trim aggressively. Sell 50 shares + 50 CFDs, reduce to <10% position.
+### Scenario B: NPRM Delayed (40% probability)
+**Timeline:** Late 2026 or beyond  
+**Stock Reaction:** -10–15% drift to \$14–15  
+**Follow-through:** Support near \$14–15
 
-### Scenario B: NPRM Delayed (35% probability)
-**Timeline:** Pushed to May/June  
-**Stock Reaction:** -10-15% drift to \$17-18  
-**Follow-through:** Support at your cost basis
-
-**Your Action:** Hold, maybe add small if drops to \$17 (your cost basis zone). Keep powder dry for real catalyst.
+**Action:** Hold if you have conviction. Add only if drops to \$14 or below. Keep powder dry for real catalyst.
 
 ### Scenario C: NPRM Denied/Punted (25% probability)
 **Timeline:** Anytime  
-**Stock Reaction:** -40-60% crash to \$8-12  
+**Stock Reaction:** -40–60% crash to \$8–12  
 **Follow-through:** Long road to recovery
 
-**Your Action:** Cut losses immediately. Binary bet failed. Redeploy to uranium/energy positions.
+**Action:** Cut losses immediately. Binary bet failed. Redeploy to other positions.
 
 ---
 
-## 8. Recommendation: Trim the Concentration
+## 8. Recommendation: SPECULATIVE HOLD
 
 ### Rating: SPECULATIVE HOLD
 This isn't a company you invest in — it's a catalyst you trade. The technology is real, the need is genuine, but the path to monetization depends entirely on regulatory approval.
 
 ### Position Sizing Guidance
-| Current | Target | Action |
-|---------|--------|--------|
-| 20.5% of portfolio | 8-12% max | **Trim before catalyst** |
-
-### Specific Actions
-
-**BEFORE NPRM DROPS:**
-1. **Sell 30 shares** (~\$625) — lock in some gains
-2. **Close 30 CFD units** (~\$625) — reduce leverage
-3. **Result:** Position drops to ~14% of portfolio
-
-**IF NPRM DROPS + STOCK GAPS UP:**
-1. **If +20% gap** → Sell another 25 shares + 25 CFDs
-2. **If +40% gap** → Sell 40 shares + 40 CFDs, keep <5% as "free roll"
-
-**IF NPRM DELAYED:**
-1. Hold current reduced position
-2. Add only if drops to \$17 (your cost basis)
-3. Set stop-loss at \$15 (cut losses if thesis breaks)
-
-**IF NPRM DENIED:**
-1. Sell entire position immediately
-2. Accept -40% loss on this position
-3. Redeploy to UUUU, EOSE, or hold cash
+For a speculative binary bet like this, **5–10% of portfolio maximum** is prudent. Anything above that is reckless concentration on an outcome you don't control.
 
 ### Risk Management
-- **Stop Loss:** \$15.00 (technical support break)
+- **Stop Loss:** \$14.00 (technical support break)
 - **Take Profit (Partial):** \$25.00 (resistance zone)
 - **Take Profit (Full):** \$30.00+ (if euphoria develops)
 
----
-
-## 9. The Bottom Line
-
-NextNav is a **justifiable speculation** at 5-10% of portfolio. At **20.5%**, it's reckless concentration on a binary outcome you don't control.
-
-The FCC NPRM could drop today, tomorrow, or never. If it hits, you'll wish you held more. If it misses, you'll wish you'd sold half yesterday. That's the nature of catalyst trading.
-
-**Smart play:** Trim to 12-15% before the catalyst, keep upside exposure, sleep better tonight.
+### Revenue Forecast
+Analyst consensus for FY2026 revenue is **\$3.79M** (down slightly from prior \$3.90M estimate), reflecting modest Pinnacle growth and no TerraPoiNT commercialization yet.
 
 ---
 
-*Report Generated: April 17, 2026*  
-*Price Reference: \$20.82 (April 16 close)*  
+## 9. Appendix — Quick Reference
+
+| Item | Value |
+|------|-------|
+| Ticker | NASDAQ:NN |
+| Price | \$16.67 |
+| 52-Week Range | ~\$8 – \$24 |
+| Market Cap | ~\$1.2B |
+| Cash | \$143M |
+| Debt | \$190M convertible notes |
+| Analysts | 2 (Strong Buy consensus) |
+| Avg Price Target | \$39.50 |
+| FY2026 Revenue Est. | \$3.79M |
+| Key Catalyst | FCC NPRM release |
+| Theme | Space / PNT |
+| Sub-Theme | Satellite Connectivity / Geospatial Intelligence |
+
+---
+
+*Report Generated: June 26, 2026*  
+*Price Reference: \$16.67 (June 25 close)*  
 *Next Catalyst: FCC NPRM (timing uncertain)*
 
 ---
