@@ -954,6 +954,20 @@
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/MSFT/",
       "api_url": "/api/MSFT.json"
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "industry": "Semiconductors / AI Compute",
+      "rating": "SPEC. BUY",
+      "price": 131.65,
+      "market_cap": "$665B",
+      "last_updated": "2026-06-25",
+      "deep_dive_url": "/deep-dives/INTC/",
+      "api_url": "/api/INTC.json"
     }
   ]
 }

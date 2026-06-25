@@ -1,0 +1,54 @@
+{
+  "ticker": "INTC",
+  "company": "Intel Corporation",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "sector": "Technology",
+  "industry": "Semiconductors / AI Compute",
+  "exchange": "NASDAQ",
+  "price": 131.65,
+  "market_cap": "$665B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-25",
+  "thesis": "Intel is executing a historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing competitiveness, capitalize on AI PC demand, and build a viable foundry business. Q1 2026 results beat expectations with revenue of $13.58B and non-GAAP EPS of $0.29, suggesting stabilization. However, the stock has surged ~600% from lows and now trades at a massive premium to analyst consensus targets (~$88), embedding a heroic turnaround scenario. SPEC. BUY reflects positive thesis but high uncertainty.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$52.9B",
+    "revenue_growth": "-2%",
+    "gross_margin": "34.8%",
+    "net_income": "-$3.2B",
+    "eps_diluted": "-$0.38",
+    "cash": "~$25B",
+    "fcf": "-$2.5B"
+  },
+  "bull_case": {
+    "target": "$160–180",
+    "drivers": [
+      "Foundry business achieves TSMC-like scale and margins with anchor customer wins",
+      "AI PC upgrade cycle drives CCG share gains and pricing power recovery",
+      "Gaudi AI accelerators capture meaningful data center AI market share"
+    ]
+  },
+  "bear_case": {
+    "target": "$60–80",
+    "risks": [
+      "18A manufacturing node underperforms vs. TSMC, collapsing foundry strategy",
+      "AMD and ARM-based chips continue taking share in PCs and servers",
+      "Debt burden forces asset sales or dilutive equity raise"
+    ]
+  },
+  "base_case": {
+    "target": "$110–130",
+    "assumptions": "Turnaround progresses but slower than hoped; foundry becomes modestly profitable by 2027–2028; CCG stabilizes; gross margins reach 42–45%; stock trades at 15–18x forward earnings"
+  },
+  "catalysts": [
+    {"date": "2026-07-15", "event": "Q2 2026 Earnings — gross margin trajectory and guidance critical"},
+    {"date": "2026-09-01", "event": "Intel Foundry Day / 18A manufacturing roadmap update"},
+    {"date": "2026-10-15", "event": "Q3 2026 Earnings — AI PC holiday build and data center update"}
+  ],
+  "key_risks": [
+    "Manufacturing competitiveness: 18A node must match or exceed TSMC to validate foundry strategy",
+    "Valuation risk: stock has surged ~600% from lows and trades well above analyst consensus targets",
+    "Debt burden: ~$46.6B debt load with negative free cash flow limits strategic flexibility"
+  ]
+}

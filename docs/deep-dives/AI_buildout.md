@@ -136,6 +136,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
+| <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 
 ---
@@ -159,6 +160,15 @@ The dominant designer of GPUs and AI accelerators, and the foundational enabler 
 [:material-arrow-right: Full Deep Dive](NVDA.md)
 
 ---
+
+**INTC — Intel Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing competitiveness, capitalize on AI PC demand, and build a viable foundry business. Q1 2026 revenue of \$13.58B beat estimates with non-GAAP EPS of \$0.29 vs. -\$0.01 expected. The stock has surged ~600% from 52-week lows to ~\$665B market cap, pricing in a heroic turnaround scenario. Analyst consensus target of ~\$88 reflects skepticism that near-term fundamentals justify the current price. Key risks: 18A manufacturing node execution, \$46.6B debt load, and intense competition from AMD and ARM-based chips.
+
+**Bull:** \$160–180 · **Base:** \$110–130 · **Bear:** \$60–80
+
+[:material-arrow-right: Full Deep Dive](INTC.md)
+
 
 ## Memory & Storage
 
