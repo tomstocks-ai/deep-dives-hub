@@ -252,6 +252,7 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+|| <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
 | <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
@@ -281,6 +282,16 @@ All-flash data storage leader formerly known as Pure Storage, now expanding beyo
 
 ---
 
+
+**DELL — Dell Technologies Inc. · <span class="rating-buy">BUY</span>**
+
+Leading global technology infrastructure company and top-three server vendor experiencing its fastest revenue growth since its 2018 IPO return, driven by explosive AI server demand. Q1 FY2026 AI server revenue surged +757% YoY to 6.1B recognized, with 4.4B in AI orders booked providing multi-year visibility. Operating income grew +10% YoY, with AI server operating income up +213.8% YoY. Dell raised annual revenue and profit forecasts, signaling management confidence in the structural AI infrastructure buildout. Strong direct sales model, deep NVIDIA partnerships, and enterprise relationships position Dell to capture both hyperscaler and enterprise AI demand. RSI of 92.11 signals extreme near-term overbought conditions, suggesting a pullback to 80–400 would improve entry quality.
+
+**Bull:** 00–520 · **Base:** 20–460 · **Bear:** 80–320
+
+[:material-arrow-right: Full Deep Dive](DELL.md)
+
+---
 ### Electrical Contractors
 
 **PWR — Quanta Services, Inc. · <span class="rating-buy">BUY</span>**

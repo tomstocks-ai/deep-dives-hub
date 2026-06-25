@@ -1,0 +1,64 @@
+{
+  "ticker": "DELL",
+  "company": "Dell Technologies Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Data Center Infrastructure",
+  "industry": "Computer Hardware / Data Center Infrastructure",
+  "exchange": "NYSE",
+  "price": 434.06,
+  "market_cap": "$300B",
+  "rating": "BUY",
+  "last_updated": "2026-06-25",
+  "thesis": "Dell Technologies is a high-conviction BUY based on its dominant position in the AI server infrastructure market, exceptional $24.4B AI order backlog, raised guidance, and fastest revenue growth since its 2018 IPO return. AI server revenue surged +757% YoY to $16.1B recognized, with operating income from AI servers growing +213.8% YoY. The company is a top-three global server vendor with deep NVIDIA partnerships and a direct sales model that captures enterprise AI demand as it follows hyperscaler adoption. While the stock is technically overbought (RSI 92.11) and has risen nearly 4x from lows, the fundamental backdrop of a multi-year AI infrastructure buildout supports continued outperformance. Clear positive risk/reward with bull-case target of $500–520.",
+  "financials": {
+    "fiscal_year": "FY2026 Q1 (May 2026)",
+    "revenue": "$23.4B (Q1)",
+    "revenue_growth": "+10% YoY (fastest since 2018 IPO return)",
+    "gross_margin": "~22.5%",
+    "net_income": "~$2.2B (Q1, implied)",
+    "eps_diluted": "$1.55 (+17% YoY)",
+    "cash": "~$8B",
+    "fcf": "~$6.5B (annual)"
+  },
+  "bull_case": {
+    "target": "$500–520",
+    "drivers": [
+      "AI server demand sustains 50%+ growth through FY2027; Dell captures 20%+ share of AI server TAM",
+      "ISG margins expand to 12%+ as AI server volume drives scale efficiencies and software attach",
+      "CSG stabilizes with enterprise PC refresh cycle and AI PC adoption",
+      "P/E re-rates to 25x on $20+ EPS as market recognizes Dell as an AI infrastructure compounder",
+      "Sovereign AI and onshoring trends drive non-hyperscaler demand for Dell's AI servers"
+    ]
+  },
+  "bear_case": {
+    "target": "$280–320",
+    "risks": [
+      "AI capex cycle peaks and demand collapses; hyperscalers shift to custom silicon (Google TPU, Amazon Trainium)",
+      "Server pricing erodes as competition from HPE, Lenovo, and Super Micro intensifies",
+      "ISG margins compress to 8% as AI servers (lower-margin, GPU-heavy) become dominant mix",
+      "PC market weakness drags CSG revenue and overall growth",
+      "P/E compresses to 14–16x on $18–20 EPS as market re-rates Dell back to hardware multiple"
+    ]
+  },
+  "base_case": {
+    "target": "$420–460",
+    "assumptions": "AI server growth moderates to 30–40% YoY; Dell maintains top-3 server position; ISG margins hold at 10%; CSG flat to slightly down; P/E compresses to 20–22x on $20–21 EPS; market assigns premium to AI infrastructure exposure but not full software multiple"
+  },
+  "catalysts": [
+    {"date": "2026-08", "event": "Q2 FY2026 Earnings — AI server revenue trajectory and updated guidance"},
+    {"date": "2026-09", "event": "Dell Technologies World / AI product announcements and server roadmap updates"},
+    {"date": "2026-11", "event": "Q3 FY2026 Earnings — holiday PC build and data center infrastructure update"},
+    {"date": "2026-H2", "event": "NVIDIA next-gen GPU (Rubin) availability and Dell server refresh cycle"},
+    {"date": "2026-2027", "event": "Enterprise AI adoption metrics and sovereign AI contract wins"}
+  ],
+  "key_risks": [
+    "AI capex cyclicality — the current AI server demand may be front-loaded, and a pause in hyperscaler spending would severely impact Dell's growth",
+    "Margin compression from AI servers, which carry lower gross margins due to high NVIDIA GPU content",
+    "Intense competition from HPE, Lenovo, and Super Micro in the AI server market",
+    "Customer concentration risk — a small number of hyperscalers represent a large portion of AI server demand",
+    "Valuation risk — the stock has risen nearly 4x from lows and RSI of 92.11 signals extreme overbought conditions",
+    "PC market weakness — CSG remains ~40% of revenue and is mature and cyclical",
+    "Debt load of ~$20B from the EMC acquisition limits financial flexibility in a downturn"
+  ]
+}
