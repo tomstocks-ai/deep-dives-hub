@@ -252,7 +252,7 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
+| <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
 | <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
