@@ -996,6 +996,20 @@
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/PAAS/",
       "api_url": "/api/PAAS.json"
+    },
+    {
+      "ticker": "AG",
+      "company": "First Majestic Silver Corp.",
+      "sector": "Materials",
+      "theme": "Critical Minerals",
+      "sub_theme": "Specialty Metals (Silver)",
+      "industry": "Silver Mining",
+      "rating": "SPEC. BUY",
+      "price": 16.06,
+      "market_cap": "$8.3B",
+      "last_updated": "2026-06-25",
+      "deep_dive_url": "/deep-dives/AG/",
+      "api_url": "/api/AG.json"
     }
   ]
 }

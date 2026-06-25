@@ -1,0 +1,76 @@
+{
+  "ticker": "AG",
+  "company": "First Majestic Silver Corp.",
+  "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Specialty Metals (Silver)",
+  "industry": "Silver Mining",
+  "exchange": "NYSE",
+  "price": 16.06,
+  "market_cap": "$8.3B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-25",
+  "thesis": "First Majestic Silver is the world's largest primary silver producer, offering the purest leverage to silver price appreciation among large-cap miners. Q1 2026 demonstrated a dramatic operational turnaround with revenue up 95% YoY, net income of $128.1M, and profit margins expanding to 27%. Silver is in a structural supply deficit driven by solar, EV, and AI demand, while AG trades at a discounted valuation ~50% off 52-week highs. The recent Del Toro sale streamlines the portfolio and strengthens the balance sheet.",
+  "financials": {
+    "fiscal_year": "Q1 2026",
+    "revenue": "$476.7M",
+    "revenue_growth": "+95% YoY",
+    "gross_margin": "~40% (est.)",
+    "net_income": "$128.1M",
+    "eps_diluted": "$0.26",
+    "cash": "Improving (post-Del Toro sale)",
+    "fcf": "Positive and growing"
+  },
+  "bull_case": {
+    "target": "$24–28",
+    "drivers": [
+      "Silver breaks out to $45–50/oz on supply deficit realization and investment demand surge",
+      "AG's operating leverage drives EPS to $0.80–1.00",
+      "Market re-rates AG to 25–30x P/E (historical avg for silver miners in bull markets)",
+      "Exploration success at San Dimas or Santa Elena extends mine life and reserves"
+    ]
+  },
+  "base_case": {
+    "target": "$18–22",
+    "assumptions": [
+      "Silver stabilizes at $35–40/oz",
+      "AG delivers 13–15M oz silver annually with AISC of $14–16/oz",
+      "EPS of $0.50–0.65 supports 25–35x P/E (sector average for growth miners)",
+      "Debt continues to decline; balance sheet strengthens"
+    ]
+  },
+  "bear_case": {
+    "target": "$10–14",
+    "risks": [
+      "Silver retreats to $25–28/oz on macro headwinds (strong dollar, recession)",
+      "Margins compress but remain positive due to low AISC and gold by-product credits",
+      "Stock trades at 15–20x depressed earnings",
+      "Mexican regulatory changes increase costs or restrict operations"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 Earnings Release — confirmation of production trajectory and margin sustainability"
+    },
+    {
+      "date": "2026-12",
+      "event": "2027 Production Guidance — potential guidance raise if silver prices remain elevated"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Silver price movements above $35/oz drive direct margin expansion"
+    },
+    {
+      "date": "2026",
+      "event": "Debt reduction initiatives improve balance sheet and credit profile"
+    }
+  ],
+  "key_risks": [
+    "Silver price volatility — a 20% price drop would compress margins significantly",
+    "Mexican regulatory risk — mining reforms, tax changes, or environmental restrictions",
+    "Operational risk — underground mining accidents, flooding, or grade variability",
+    "Foreign exchange risk — Mexican peso appreciation could compress margins",
+    "Exploration risk — reserves deplete without replacement; exploration may not yield economic discoveries"
+  ]
+}

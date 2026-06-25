@@ -136,7 +136,18 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 ---
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
+|| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
+|| <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/AG.md) |
+
+---
+
+**AG — First Majestic Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+World's largest primary silver producer with three high-grade mines in Mexico (San Dimas, Santa Elena, La Guitarra). Q1 2026 was transformational: revenue surged 95% YoY to \$476.7M, net income hit \$128.1M, and profit margins expanded to 27% from 0.9%. Silver production of 3.5M oz represented 26% of 2026 guidance. Recent sale of Del Toro Mine (up to \$60M) streamlines portfolio and strengthens balance sheet. Pure-play silver leverage with low AISC of \$14–16/oz and significant gold by-product credits. Silver is a critical mineral with structural supply deficit driven by solar, EV, and AI demand.
+
+**Bull:** \$24–28 · **Base:** \$18–22 · **Bear:** \$10–14
+
+[:material-arrow-right: Full Deep Dive](AG.md)
 
 ---
 
