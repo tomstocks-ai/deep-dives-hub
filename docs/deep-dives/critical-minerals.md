@@ -133,6 +133,13 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 
 ### Silver
 
+---
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
+
+---
+
 **SLV — iShares Silver Trust · <span class="rating-buy">BUY</span>**
 
 Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. Silver is in a 5+ year structural supply deficit with industrial demand (solar, EVs, AI chips) growing faster than mine supply. Gold/silver ratio near 80:1 is historically elevated — mean reversion to 55:1 implies 40–60% upside even if gold is flat.
@@ -140,5 +147,15 @@ Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. S
 **Bull:** \$75–85/oz · **Base:** \$50–60/oz · **Bear:** \$32–38/oz
 
 [:material-arrow-right: Full Deep Dive](SLV.md)
+
+---
+
+**PAAS — Pan American Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+World's largest primary silver producer with 22.8M attributable oz in FY2025 (exceeded guidance). Juanicipio JV (56% with Fresnillo) is a world-class high-grade deposit that transformed the cost curve, lowering silver-segment AISC to \$14.50–\$16/oz. Record Q4 2025: \$1.18B revenue (+7.3% above consensus) and \$1.11 adjusted EPS (+30.6%). Escobal (Guatemala) remains suspended but is a transformative option if permits resolve. Silver is a critical mineral with structural supply deficit driven by solar, EV, and AI demand.
+
+**Bull:** \$65–75 · **Base:** \$52–58 · **Bear:** \$32–38
+
+[:material-arrow-right: Full Deep Dive](PAAS.md)
 
 ---
