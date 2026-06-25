@@ -142,3 +142,17 @@ Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. S
 [:material-arrow-right: Full Deep Dive](SLV.md)
 
 ---
+
+---
+
+### Silver
+
+**PAAS — Pan American Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+World's largest primary silver producer with 22.8M attributable oz in FY2025 (exceeded guidance). Juanicipio JV (56% with Fresnillo) is a world-class high-grade deposit that transformed the cost curve, lowering silver-segment AISC to \$14.50–\$16/oz. Record Q4 2025: \$1.18B revenue (+7.3% above consensus) and \$1.11 adjusted EPS (+30.6%). Escobal (Guatemala) remains suspended but is a transformative option if permits resolve. Silver is a critical mineral with structural supply deficit driven by solar, EV, and AI demand.
+
+**Bull:** \$65–75 · **Base:** \$52–58 · **Bear:** \$32–38
+
+[:material-arrow-right: Full Deep Dive](PAAS.md)
+
+---

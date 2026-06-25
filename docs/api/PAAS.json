@@ -1,0 +1,84 @@
+{
+  "ticker": "PAAS",
+  "company": "Pan American Silver Corp.",
+  "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Specialty Metals (Silver)",
+  "industry": "Silver Mining",
+  "exchange": "NASDAQ",
+  "price": 44.39,
+  "market_cap": "$19.5B",
+  "rating": "SPECULATIVE BUY",
+  "last_updated": "2026-06-25",
+  "thesis": "Pan American Silver is the world's largest primary silver producer, offering unmatched leverage to silver price moves. The Juanicipio JV has transformed the cost curve, lowering AISC to $14.50–$16/oz and driving record Q4 2025 results. Silver faces a structural supply deficit driven by solar, EV, and AI demand, while investment demand provides a monetary hedge kicker. Escobal restart and further Juanicipio ramp are key upside catalysts. Geopolitical and operational risks warrant a SPECULATIVE BUY rating.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$4.1B",
+    "revenue_growth": "+17%",
+    "gross_margin": "N/A",
+    "net_income": "$420M",
+    "eps_diluted": "$1.11 (Q4 2025 adj.)",
+    "cash": "$450M",
+    "fcf": "$300M"
+  },
+  "bull_case": {
+    "target": "$65–75",
+    "drivers": [
+      "Silver rallies to $50+/oz on widening supply deficit and investment demand",
+      "Juanicipio reaches full design capacity, further lowering AISC",
+      "Escobal permit resolution adds $8–10/share in NAV",
+      "Critical minerals designation unlocks subsidies and strategic offtake flows",
+      "Gold remains elevated, supporting by-product revenue"
+    ]
+  },
+  "base_case": {
+    "target": "$52–58",
+    "assumptions": [
+      "Silver trades steady at $36–42/oz",
+      "Operational execution continues with modest volume growth",
+      "Margins compress slightly from current highs but remain healthy",
+      "Stock re-rates to peer-average EV/EBITDA",
+      "No Escobal restart in the 12–18 month horizon"
+    ]
+  },
+  "bear_case": {
+    "target": "$32–38",
+    "risks": [
+      "Global recession crushes industrial silver demand; spot falls to $25/oz",
+      "Cost inflation (labor, energy, consumables) erodes margins",
+      "Escobal remains suspended indefinitely, removing growth option",
+      "Political risk premium rises in Bolivia, Argentina, or Guatemala",
+      "Stronger USD and higher real rates suppress precious metals"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 production report — watch Juanicipio volumes and AISC trends"
+    },
+    {
+      "date": "2026-08",
+      "event": "Escobal legal/permit updates — any positive ruling is transformative"
+    },
+    {
+      "date": "2026-09",
+      "event": "Silver Institute mid-year supply/demand update"
+    },
+    {
+      "date": "2026-10",
+      "event": "Q3 2026 earnings — guidance for 2026 silver production and cost outlook"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Fed policy meetings — rate-cut trajectory affects precious metals sentiment"
+    }
+  ],
+  "key_risks": [
+    "Commodity price volatility — silver is more volatile than gold; 20% spot drop crushes margins",
+    "Geopolitical risk — Bolivia, Argentina, Guatemala face regulatory and social-license risks",
+    "Escobal uncertainty — suspended since 2017 with no clear restart timeline",
+    "Cost inflation — labor, energy, and consumable costs rising across the mining sector",
+    "Environmental incidents — tailings or water disputes can halt operations",
+    "FX risk — stronger local currencies vs. USD raise operating costs"
+  ]
+}
