@@ -136,8 +136,8 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 ---
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
-|| <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/AG.md) |
+| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
+| <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/AG.md) |
 
 ---
 
