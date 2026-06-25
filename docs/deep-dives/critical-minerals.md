@@ -133,6 +133,13 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 
 ### Silver
 
+---
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/PAAS.md) |
+
+---
+
 **SLV — iShares Silver Trust · <span class="rating-buy">BUY</span>**
 
 Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. Silver is in a 5+ year structural supply deficit with industrial demand (solar, EVs, AI chips) growing faster than mine supply. Gold/silver ratio near 80:1 is historically elevated — mean reversion to 55:1 implies 40–60% upside even if gold is flat.
@@ -142,10 +149,6 @@ Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. S
 [:material-arrow-right: Full Deep Dive](SLV.md)
 
 ---
-
----
-
-### Silver
 
 **PAAS — Pan American Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
