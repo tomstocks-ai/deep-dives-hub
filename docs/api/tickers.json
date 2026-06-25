@@ -968,6 +968,20 @@
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/INTC/",
       "api_url": "/api/INTC.json"
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "Data Center Infrastructure",
+      "industry": "Computer Hardware / Data Center Infrastructure",
+      "rating": "BUY",
+      "price": 434.06,
+      "market_cap": "00B",
+      "last_updated": "2026-06-25",
+      "deep_dive_url": "/deep-dives/DELL/",
+      "api_url": "/api/DELL.json"
     }
   ]
 }
