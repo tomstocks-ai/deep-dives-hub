@@ -16,6 +16,7 @@ title: Cloud & Enterprise Software
 | <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
 | <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
+| <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
 
 ---
 
@@ -28,6 +29,18 @@ Leading enterprise cloud workflow platform with ~50% ITSM market share and expan
 **Bull:** $140–$150 · **Base:** $110–$120 · **Bear:** $80–$90
 
 [:material-arrow-right: Full Deep Dive](NOW.md)
+
+---
+
+### Enterprise Software
+
+**MSFT — Microsoft Corporation · <span class="rating-buy">BUY</span>**
+
+Global technology leader and dominant enterprise cloud platform. FY26 Q3 revenue of \$82.9B (+18% YoY) with Azure growing 40% and AI business reaching \$37B run rate. Operating margins at 60% and \$100B+ annual operating cash flow provide unmatched financial strength. Exclusive OpenAI partnership and Copilot integration across Office 365, Azure, GitHub, and Dynamics 365 create a unified AI platform competitors cannot replicate. Primary risk is AI monetization pace and cloud demand deceleration.
+
+**Bull:** \$520–\$560 · **Base:** \$440–\$480 · **Bear:** \$320–\$360
+
+[:material-arrow-right: Full Deep Dive](MSFT.md)
 
 ---
 
