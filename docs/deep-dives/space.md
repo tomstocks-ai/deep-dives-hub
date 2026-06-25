@@ -15,7 +15,7 @@ title: Space Economy
 | <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar | <span class="rating-buy">ACCUMULATE</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](SATL.md) |
 | <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
-| <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav | <span class="rating-spec-hold">SPEC. HOLD</span> | 2026-04-17 | [:material-file-document: Read](NN.md) |
+| <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-26 | [:material-file-document: Read](NN.md) |
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
 | <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](RKLB.md) |
 
@@ -67,11 +67,11 @@ Leading Earth observation company with ~200 satellites providing daily global im
 
 ### Communications
 
-**NN — NextNav · <span class="rating-spec-hold">SPEC. HOLD</span>**
+**NN — NextNav · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
-Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM is binary catalyst.
+Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM remains in interagency review at White House OMB, no public release yet. Q1 2026 revenue $995K (up from $887K in Q3 2025), net loss narrowed to $10.6M, EPS -$0.078 (improved from -$0.45 in Q1 2025). Cash $143M (down from $167.6M). Oppenheimer upgrade values spectrum at ~$0.80/MHz-pop. 2 analysts, Strong Buy consensus, avg price target $39.50. Revenue forecast FY2026 $3.79M (down slightly from prior $3.90M). Stock down ~20% from April highs ($20.82) to $16.67.
 
-**Bull:** \$28–32 · **Base:** \$22–24 · **Bear:** \$8–12
+**Bull:** $28–32 · **Base:** $22–24 · **Bear:** $8–12
 
 [:material-arrow-right: Full Deep Dive](NN.md)
 

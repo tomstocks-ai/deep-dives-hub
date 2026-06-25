@@ -2,18 +2,25 @@
   "ticker": "NN",
   "company": "NextNav Inc.",
   "sector": "Space",
+  "theme": "Space",
+  "sub_theme": "Satellite Connectivity / Geospatial Intelligence",
   "industry": "Positioning, Navigation, and Timing (PNT)",
   "exchange": "NASDAQ",
-  "price": 20.82,
-  "market_cap": "$1.5B",
+  "price": 16.67,
+  "market_cap": "$1.2B",
   "rating": "SPECULATIVE HOLD",
-  "last_updated": "2026-04-17",
-  "thesis": "Developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. Pre-revenue company with 900 MHz spectrum license covering 90%+ of U.S. population. Binary outcome bet entirely dependent on FCC approval to monetize spectrum. Pinnacle service operational in 4,400 cities but tiny revenue. Critical catalyst: FCC Notice of Proposed Rulemaking (NPRM) could drop any day.",
+  "last_updated": "2026-06-26",
+  "thesis": "Developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. Pre-revenue company with 900 MHz spectrum license covering 90%+ of U.S. population. Binary outcome bet entirely dependent on FCC approval to monetize spectrum. Pinnacle service operational in 4,400 cities but tiny revenue. Q1 2026 revenue $995K (up from $887K in Q3 2025), net loss narrowed to $10.6M, EPS -$0.078 (improved from -$0.45 in Q1 2025). Cash $143M (down from $167.6M). Critical catalyst: FCC Notice of Proposed Rulemaking (NPRM) remains in interagency review, no public release yet. Oppenheimer upgrade values spectrum at ~$0.80/MHz-pop. 2 analysts, Strong Buy consensus, avg price target $39.50.",
   "financials": {
-    "fiscal_year": "FY2025",
-    "revenue": "$887K (Q3, down 44.8% YoY)",
-    "operating_margin": "-19.92%",
-    "cash": "$167.6M",
+    "fiscal_year": "FY2026",
+    "revenue": "$995K (Q1, up from $887K in Q3 2025)",
+    "revenue_growth": "N/A (pre-revenue)",
+    "gross_margin": "N/A (pre-revenue, R&D stage)",
+    "operating_margin": "Negative",
+    "net_income": "-$10.6M (Q1 2026, narrowed from prior quarters)",
+    "eps_diluted": "-0.078 (improved from -0.45 in Q1 2025)",
+    "fcf": "Negative (pre-revenue burn)",
+    "cash": "$143M",
     "debt": "$190M convertible notes (5% due 2028)",
     "runway": "12-18 months at current burn"
   },
@@ -42,16 +49,16 @@
     "assumptions": "NPRM released with moderate pathway; 30-90 day comment period; Final approval 6-12 months after NPRM; Commercial deployment 2027; Revenue begins flowing 2027-2028."
   },
   "catalysts": [
-    {"date": "Any day", "event": "FCC NPRM Release — Binary catalyst (+20-40% or -40-60%)"},
+    {"date": "Q3 2026?", "event": "FCC NPRM Release — Binary catalyst (+20-40% or -40-60%)"},
     {"date": "2026", "event": "Public Comment Period — Industry feedback on NPRM"},
     {"date": "2026-2027", "event": "Report and Order — Final FCC approval"},
     {"date": "Ongoing", "event": "Government Contract Awards — Validation and revenue"}
   ],
   "key_risks": [
     "Regulatory binary outcome — entirely dependent on FCC approval",
-    "Pre-revenue with minimal $887K quarterly revenue",
+    "Pre-revenue with minimal $995K quarterly revenue",
     "Cash burn with 12-18 month runway; may need more capital",
-    "High 20%+ portfolio concentration dangerous for this risk profile",
-    "Estimated RSI 70-75 (overbought) after +24% rally"
+    "High volatility and speculative sentiment risk",
+    "Oppenheimer upgrade and analyst targets may not materialize"
   ]
 }
