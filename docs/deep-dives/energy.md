@@ -100,6 +100,7 @@ Pure-play U.S. solar domestic manufacturer building fully integrated silicon sup
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CEG" hide-background></tv-ticker-tag> | Constellation Energy Corporation | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CEG.md) |
 | <tv-ticker-tag symbol="NYSE:BE" hide-background></tv-ticker-tag> | Bloom Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](BE.md) |
+| <tv-ticker-tag symbol="NASDAQ:FCEL" hide-background></tv-ticker-tag> | FuelCell Energy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](FCEL.md) |
 | <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
 
 ---
@@ -121,6 +122,16 @@ Solid-oxide fuel cell manufacturer powering the AI data center electrification b
 **Bull:** \$350–400 · **Base:** \$280–320 · **Bear:** \$180–220
 
 [:material-arrow-right: Full Deep Dive](BE.md)
+
+---
+
+**FCEL — FuelCell Energy, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+FuelCell Energy manufactures carbonate fuel cell power plants and sells electricity via long-term generation contracts. Q2 FY2026 revenue was \$35.6M with \$1.14B total backlog. The company is pivoting toward data center baseload power amid surging AI-driven demand. Persistent net losses and a declining backlog remain the primary risks.
+
+**Bull:** \$35–\$42 · **Base:** \$18–\$22 · **Bear:** \$8–\$12
+
+[:material-arrow-right: Full Deep Dive](FCEL.md)
 
 ---
 
