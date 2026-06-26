@@ -1034,6 +1034,19 @@
       "last_updated": "2026-06-26",
       "deep_dive_url": "/deep-dives/VYX/",
       "api_url": "/api/VYX.json"
+    },
+    {
+      "ticker": "FCEL",
+      "company": "FuelCell Energy, Inc.",
+      "theme": "Energy",
+      "sub_theme": "Fuel Cells",
+      "industry": "Fuel Cell Power Generation",
+      "rating": "SPEC. BUY",
+      "price": 23.45,
+      "market_cap": "$1.4B",
+      "last_updated": "2026-06-26",
+      "deep_dive_url": "/deep-dives/FCEL/",
+      "api_url": "/api/FCEL.json"
     }
   ]
 }
