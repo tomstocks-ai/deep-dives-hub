@@ -100,6 +100,7 @@ Pure-play U.S. solar domestic manufacturer building fully integrated silicon sup
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CEG" hide-background></tv-ticker-tag> | Constellation Energy Corporation | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CEG.md) |
 | <tv-ticker-tag symbol="NYSE:BE" hide-background></tv-ticker-tag> | Bloom Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](BE.md) |
+| <tv-ticker-tag symbol="NYSE:FCEL" hide-background></tv-ticker-tag> | Bloom Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](FCEL.md) |
 | <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
 
 ---
@@ -119,6 +120,10 @@ Largest carbon-free energy producer in the U.S., operating the nation's leading 
 Solid-oxide fuel cell manufacturer powering the AI data center electrification boom. Q1 2026 revenue surged 130% YoY to \$751M with raised FY2026 guidance of \$3.4–3.8B. Non-GAAP operating income expanded 10x to \$130M. \$20B backlog (\$6B product + \$14B service) provides 5+ years of visibility. Key partnerships with Oracle (2.8 GW) and Brookfield (\$5B) validate scale.
 
 **Bull:** \$350–400 · **Base:** \$280–320 · **Bear:** \$180–220
+
+[:material-arrow-right: Full Deep Dive](BE.md)
+
+---
 
 **FCEL — FuelCell Energy, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
