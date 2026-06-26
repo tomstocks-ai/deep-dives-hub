@@ -213,7 +213,7 @@ One of the "Big Three" global memory manufacturers and the only U.S.-based memor
 | <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
 | <tv-ticker-tag symbol="NASDAQ:QS" hide-background></tv-ticker-tag> | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](QS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
-|
+
 ---
 
 ### Solid-State Batteries
@@ -246,9 +246,8 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 
 [:material-arrow-right: Full Deep Dive](EOSE.md)
 
----
----
 
+---
 
 
 ## Data Center Infrastructure
