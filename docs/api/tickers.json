@@ -1024,6 +1024,18 @@
       "api_url": "/api/ADBE.json"
     },
     {
+      "ticker": "VYX",
+      "company": "NCR Voyix Corporation",
+      "sector": "Fintech",
+      "industry": "Payments / Digital Banking",
+      "rating": "SPECULATIVE BUY",
+      "price": 5.5,
+      "market_cap": "$700M",
+      "last_updated": "2026-06-26",
+      "deep_dive_url": "/deep-dives/VYX/",
+      "api_url": "/api/VYX.json"
+    },
+    {
       "ticker": "FCEL",
       "company": "FuelCell Energy, Inc.",
       "theme": "Energy",
