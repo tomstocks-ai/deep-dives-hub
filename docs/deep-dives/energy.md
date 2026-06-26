@@ -120,7 +120,13 @@ Solid-oxide fuel cell manufacturer powering the AI data center electrification b
 
 **Bull:** \$350–400 · **Base:** \$280–320 · **Bear:** \$180–220
 
-[:material-arrow-right: Full Deep Dive](BE.md)
+**FCEL — FuelCell Energy, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+FuelCell Energy manufactures carbonate fuel cell power plants and sells electricity via long-term generation contracts. Q2 FY2026 revenue was \$35.6M with \$1.14B total backlog. The company is pivoting toward data center baseload power amid surging AI-driven demand. Persistent net losses and a declining backlog remain the primary risks.
+
+**Bull:** \$35–\$42 · **Base:** \$18–\$22 · **Bear:** \$8–\$12
+
+[:material-arrow-right: Full Deep Dive](FCEL.md)
 
 ---
 
