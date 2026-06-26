@@ -1,0 +1,88 @@
+{
+  "ticker": "VYX",
+  "company": "NCR Voyix Corporation",
+  "sector": "Fintech",
+  "industry": "Payments / Digital Banking",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Payments / Digital Banking",
+  "rating": "SPECULATIVE BUY",
+  "price": 5.5,
+  "market_cap": "$700M",
+  "52_week_range": "$4.00 \u2013 $7.50",
+  "rsi_14": "45\u201350",
+  "analyst_consensus": "HOLD",
+  "last_updated": "2026-06-26",
+  "deep_dive_url": "/deep-dives/VYX/",
+  "api_url": "/api/VYX.json",
+  "thesis": "VYX is a deeply undervalued fintech asset transitioning from hardware to software and recurring payments revenue. Its massive installed base of banking and commerce technology creates high switching costs and sticky recurring revenue. Successful deleveraging and margin expansion could drive significant re-rating.",
+  "financials": {
+    "fiscal_year": "FY2025 (Est.)",
+    "revenue": "~$2.9B",
+    "revenue_growth": "~-3%",
+    "gross_margin": "~31%",
+    "net_income": "~$20M",
+    "eps_diluted": "~$0.15",
+    "cash": "~$150M",
+    "fcf": "~$150M"
+  },
+  "bull_case": {
+    "target": "$8\u2013$9",
+    "drivers": [
+      "Faster software revenue growth outpacing hardware decline",
+      "Successful cost restructuring yielding $100M+ in annualized savings",
+      "Debt refinancing that materially reduces interest expense",
+      "Potential M&A interest from strategic buyers at a premium"
+    ]
+  },
+  "base_case": {
+    "target": "$6\u2013$7",
+    "assumptions": [
+      "Modest revenue stabilization with software growth offsetting hardware decline",
+      "100bps gross margin expansion from mix shift",
+      "Steady debt paydown from improving free cash flow"
+    ]
+  },
+  "bear_case": {
+    "target": "$4\u2013$5",
+    "risks": [
+      "Hardware revenue collapses faster than software revenue grows",
+      "Debt covenant stress or unfavorable refinancing terms",
+      "Failed restructuring leading to further margin erosion"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "H2 2026",
+      "event": "Q2/Q3 earnings showing software revenue acceleration"
+    },
+    {
+      "date": "H2 2026",
+      "event": "Debt refinancing or paydown announcement"
+    },
+    {
+      "date": "2026\u20132027",
+      "event": "New SaaS product launches in digital banking"
+    },
+    {
+      "date": "2026\u20132027",
+      "event": "Strategic partnership or acquisition in payments"
+    },
+    {
+      "date": "2026\u20132027",
+      "event": "Restructuring completion and cost savings realization"
+    },
+    {
+      "date": "2027+",
+      "event": "Potential M&A from strategic or financial buyers"
+    }
+  ],
+  "key_risks": [
+    "High debt load (~$2.5B) creates interest burden and covenant risk",
+    "Restructuring execution risk \u2014 complex cost-out and business transition",
+    "Faster-than-expected hardware decline offsetting software growth",
+    "Competition from fintech disruptors and incumbent processors",
+    "Customer concentration and negotiating power of large bank/retail clients",
+    "Higher-for-longer rates increasing interest expense and reducing bank IT spending"
+  ],
+  "exchange": "NYSE"
+}

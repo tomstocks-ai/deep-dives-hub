@@ -79,3 +79,16 @@ Robinhood is evolving from a commission-free trading app into a diversified fint
 [:material-arrow-right: Full Deep Dive](HOOD.md)
 
 ---
+
+### Payments / Digital Banking
+
+**VYX — NCR Voyix Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+NCR Voyix is a fintech and digital payments company spun out from NCR Corporation in late 2023. It provides digital banking platforms, payment processing, and commerce solutions to thousands of financial institutions, retailers, and restaurants. The company is transitioning from hardware-centric revenue to higher-margin software and recurring payments revenue, with a large installed base of ATMs and self-service terminals providing a captive audience for upsell. At ~$5.50, the stock trades at a deep discount (~0.25x P/S) due to a leveraged balance sheet (~$2.5B debt) and execution uncertainty in the standalone turnaround. Successful deleveraging, cost restructuring, and software mix shift could drive significant re-rating.
+
+**Bull:** $8–$9 · **Base:** $6–$7 · **Bear:** $4–$5
+
+[:material-arrow-right: Full Deep Dive](VYX.md)
+
+---
+---
