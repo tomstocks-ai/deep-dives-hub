@@ -1,0 +1,88 @@
+{
+  "ticker": "ADBE",
+  "company": "Adobe Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cloud & Enterprise Software",
+  "industry": "Creative Software / Digital Experience / SaaS",
+  "exchange": "NASDAQ",
+  "price": 193.41,
+  "market_cap": "$86B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-26",
+  "thesis": "Adobe is down ~50% from highs and trading near 52-week lows, yet the business continues to grow double-digits with best-in-class margins and cash flow. The primary uncertainty is the timeline and magnitude of AI monetization via Firefly, but Adobe's 'brand-safe' AI positioning and entrenched creative ecosystem provide defensive moats. At ~$193, the risk/reward is skewed positively: even modest multiple expansion could drive significant returns, while the bear case is largely priced in.",
+  "financials": {
+    "fiscal_year": "FY2026 (Q2 reported June 2026)",
+    "revenue": "$6.62B (Q2); ~$20.5B–$20.6B (FY guidance)",
+    "revenue_growth": "+13% YoY (Q2)",
+    "gross_margin": "~88% (non-GAAP)",
+    "net_income": "~$4.12B GAAP EPS ($5.72 non-GAAP EPS in Q2)",
+    "eps_diluted": "$5.72 (non-GAAP Q2); $24.35–$24.45 (FY non-GAAP guidance)",
+    "cash": "~$7B+",
+    "fcf": "~$7B+ annually"
+  },
+  "bull_case": {
+    "target": "$320–$340",
+    "drivers": [
+      "Firefly generative AI monetization accelerates, driving higher-tier subscription upgrades and $1B+ incremental ARR by FY2027",
+      "Forward P/E re-rates from ~8x toward 11–15x as AI fears subside and growth proves durable",
+      "Digital Experience sustains 17–20% growth as enterprise marketing spend recovers",
+      "Non-GAAP operating margins expand toward 50% via subscription scale and AI-driven efficiency",
+      "$25B buyback program retires 15–20% of shares at depressed prices, amplifying EPS growth"
+    ]
+  },
+  "base_case": {
+    "target": "$260–$280",
+    "assumptions": [
+      "Steady 10–13% revenue growth with AI adoption in line with guidance",
+      "Firefly contributes modestly to ARPU but does not transform growth trajectory",
+      "Forward P/E expands modestly from ~8x to 10–11x as sentiment stabilizes",
+      "Digital Experience grows at mid-teens, offsetting any Creative Cloud deceleration",
+      "Buybacks and margin stability support EPS growth in the low-teens"
+    ]
+  },
+  "bear_case": {
+    "target": "$160–$180",
+    "risks": [
+      "Open-source AI tools (Midjourney, Stable Diffusion, Sora) erode Adobe's creative monopoly and increase churn",
+      "Enterprise spending slowdown decelerates Digital Experience growth to high single digits",
+      "Heavy AI R&D and GPU infrastructure investment compress operating margins",
+      "Market maintains P/E at 8–10x, capping upside and leaving the stock range-bound",
+      "AI copyright and IP regulations impose compliance costs and limit feature rollout"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "September 2026",
+      "event": "Adobe MAX — new Firefly features, AI product announcements, creative workflow updates"
+    },
+    {
+      "date": "September 2026",
+      "event": "Q3 FY2026 Earnings — Digital Experience momentum, Firefly adoption metrics, FY guidance"
+    },
+    {
+      "date": "December 2026",
+      "event": "Q4 FY2026 / Full-Year Results — revenue/EPS validation, FY2027 guidance, AI monetization disclosure"
+    },
+    {
+      "date": "2026 H2",
+      "event": "Firefly paid tier adoption data — subscriber upgrades, ARPU impact, enterprise licensing deals"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Share buyback execution — consistent capital returns provide downside support"
+    },
+    {
+      "date": "2026–2027",
+      "event": "AI model updates — Firefly video generation, 3D content, real-time collaboration features"
+    }
+  ],
+  "key_risks": [
+    "AI disruption of creative tools by open-source and competing generative models",
+    "Enterprise marketing technology spending slowdown affecting Digital Experience growth",
+    "Delayed monetization of Firefly generative AI features",
+    "Regulatory and copyright risks around AI training data and output licensing",
+    "Margin compression from elevated AI R&D and GPU infrastructure investment",
+    "Talent competition in AI/ML research and engineering"
+  ]
+}

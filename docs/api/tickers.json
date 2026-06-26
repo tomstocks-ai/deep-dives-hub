@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "tickers": [
     {
       "ticker": "CEG",
@@ -1010,6 +1010,18 @@
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/AG/",
       "api_url": "/api/AG.json"
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "sector": "Technology",
+      "industry": "Creative Software / Digital Experience / SaaS",
+      "rating": "SPEC. BUY",
+      "price": 193.41,
+      "market_cap": "$86B",
+      "last_updated": "2026-06-26",
+      "deep_dive_url": "/deep-dives/ADBE/",
+      "api_url": "/api/ADBE.json"
     }
   ]
 }

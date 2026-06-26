@@ -17,6 +17,19 @@ title: Cloud & Enterprise Software
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
 | <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
+| <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
+
+---
+
+### Enterprise Software
+
+**ADBE — Adobe Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Global creative software leader and dominant digital experience platform. Q2 FY2026 revenue hit a record $6.62B (+13% YoY) with Digital Experience accelerating to +17% and Digital Media growing +11%. Non-GAAP EPS of $5.72 and operating margins near 46% demonstrate durable profitability. The stock is down ~50% from highs and trading near 52-week lows, yet the subscription model generates ~$7B+ in annual free cash flow. Firefly generative AI integration across Creative Cloud and Document Cloud positions Adobe to monetize AI rather than be disrupted by it. The $25B buyback program is highly accretive at current prices. Primary risk is AI competition from open-source models and slower enterprise marketing spend.
+
+**Bull:** $320–$340 · **Base:** $260–$280 · **Bear:** $160–$180
+
+[:material-arrow-right: Full Deep Dive](ADBE.md)
 
 ---
 
@@ -36,9 +49,9 @@ Leading enterprise cloud workflow platform with ~50% ITSM market share and expan
 
 **MSFT — Microsoft Corporation · <span class="rating-buy">BUY</span>**
 
-Global technology leader and dominant enterprise cloud platform. FY26 Q3 revenue of \$82.9B (+18% YoY) with Azure growing 40% and AI business reaching \$37B run rate. Operating margins at 60% and \$100B+ annual operating cash flow provide unmatched financial strength. Exclusive OpenAI partnership and Copilot integration across Office 365, Azure, GitHub, and Dynamics 365 create a unified AI platform competitors cannot replicate. Primary risk is AI monetization pace and cloud demand deceleration.
+Global technology leader and dominant enterprise cloud platform. FY26 Q3 revenue of $82.9B (+18% YoY) with Azure growing 40% and AI business reaching $37B run rate. Operating margins at 60% and $100B+ annual operating cash flow provide unmatched financial strength. Exclusive OpenAI partnership and Copilot integration across Office 365, Azure, GitHub, and Dynamics 365 create a unified AI platform competitors cannot replicate. Primary risk is AI monetization pace and cloud demand deceleration.
 
-**Bull:** \$520–\$560 · **Base:** \$440–\$480 · **Bear:** \$320–\$360
+**Bull:** $520–$560 · **Base:** $440–$480 · **Bear:** $320–$360
 
 [:material-arrow-right: Full Deep Dive](MSFT.md)
 
