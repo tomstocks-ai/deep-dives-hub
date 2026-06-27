@@ -54,23 +54,28 @@
   "catalysts": [
     {
       "date": "2026-07",
-      "event": "Q2 2026 Earnings — guidance update and margin trajectory"
+      "event": "Q2 2026 Earnings — guidance update and margin trajectory",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026-08",
-      "event": "NDAA Appropriations Markup — defense budget direction"
+      "event": "NDAA Appropriations Markup — defense budget direction",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026-09",
-      "event": "NATO Defense Ministers Meeting — replenishment commitments"
+      "event": "NATO Defense Ministers Meeting — replenishment commitments",
+      "iso_date": "2026-09"
     },
     {
       "date": "2026-10",
-      "event": "Q3 2026 Earnings — commercial aerospace momentum check"
+      "event": "Q3 2026 Earnings — commercial aerospace momentum check",
+      "iso_date": "2026-10"
     },
     {
       "date": "2026-12",
-      "event": "FY2027 Defense Budget Request — top-line program visibility"
+      "event": "FY2027 Defense Budget Request — top-line program visibility",
+      "iso_date": "2026-12"
     }
   ],
   "key_risks": [
@@ -79,5 +84,6 @@
     "Fixed-price development contract cost overrun risk",
     "Export control and trade policy restrictions on international sales",
     "Ongoing operational restructuring execution risk"
-  ]
+  ],
+  "price_date": "2026-06-24"
 }

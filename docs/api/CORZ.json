@@ -42,9 +42,21 @@
     "assumptions": "HDC grows to $150–200M by 2027; mining revenue flat at ~$250M; operating losses narrow but persist until 2028; company avoids dilutive raise by using CoreWeave-funded capex and existing liquidity."
   },
   "catalysts": [
-    {"date": "2026-08", "event": "Q2 2026 earnings — HDC revenue growth and guidance update"},
-    {"date": "2026-TBD", "event": "Potential new HDC customer announcements"},
-    {"date": "2026-TBD", "event": "Block 3nm ASIC deployment timeline update"}
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 earnings — HDC revenue growth and guidance update",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-TBD",
+      "event": "Potential new HDC customer announcements",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-TBD",
+      "event": "Block 3nm ASIC deployment timeline update",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "Customer concentration: CoreWeave dominates HDC revenue",
@@ -52,5 +64,8 @@
     "Execution risk on HDC pivot: capex-intensive, competitive, unproven at scale",
     "Bitcoin price and network difficulty volatility affecting mining economics",
     "Material weakness in internal controls over financial reporting"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "AI / HPC Operators",
+  "price_date": "2026-06-16"
 }

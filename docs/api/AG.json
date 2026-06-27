@@ -51,19 +51,23 @@
   "catalysts": [
     {
       "date": "2026-07",
-      "event": "Q2 2026 Earnings Release — confirmation of production trajectory and margin sustainability"
+      "event": "Q2 2026 Earnings Release — confirmation of production trajectory and margin sustainability",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026-12",
-      "event": "2027 Production Guidance — potential guidance raise if silver prices remain elevated"
+      "event": "2027 Production Guidance — potential guidance raise if silver prices remain elevated",
+      "iso_date": "2026-12"
     },
     {
       "date": "Ongoing",
-      "event": "Silver price movements above $35/oz drive direct margin expansion"
+      "event": "Silver price movements above $35/oz drive direct margin expansion",
+      "iso_date": null
     },
     {
       "date": "2026",
-      "event": "Debt reduction initiatives improve balance sheet and credit profile"
+      "event": "Debt reduction initiatives improve balance sheet and credit profile",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -72,5 +76,6 @@
     "Operational risk — underground mining accidents, flooding, or grade variability",
     "Foreign exchange risk — Mexican peso appreciation could compress margins",
     "Exploration risk — reserves deplete without replacement; exploration may not yield economic discoveries"
-  ]
+  ],
+  "price_date": "2026-06-25"
 }

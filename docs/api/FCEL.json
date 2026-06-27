@@ -14,15 +14,15 @@
   "financials": {
     "fiscal_year": "FY2026E",
     "revenue": "$130M (estimate)",
-    "revenue_growth": "Variable \u2014 Q1 +61% YoY, Q2 -5% YoY",
-    "gross_margin": "Negative \u2014 $(5.9)M gross loss in Q1",
+    "revenue_growth": "Variable — Q1 +61% YoY, Q2 -5% YoY",
+    "gross_margin": "Negative — $(5.9)M gross loss in Q1",
     "net_income": "Persistent losses; widening vs expectations",
     "eps_diluted": "-$0.53 (Q2 FY2026 non-GAAP)",
     "cash": "$379.6M",
-    "fcf": "Negative \u2014 pre-FCF positive"
+    "fcf": "Negative — pre-FCF positive"
   },
   "bull_case": {
-    "target": "$35\u2013$42",
+    "target": "$35–$42",
     "drivers": [
       "Data center contracts accelerate, validating the pivot to AI baseload power",
       "SOFC commercialization opens higher-efficiency, lower-maintenance technology",
@@ -31,7 +31,7 @@
     ]
   },
   "bear_case": {
-    "target": "$8\u2013$12",
+    "target": "$8–$12",
     "risks": [
       "Cash burn continues and forces dilutive secondary offering",
       "Backlog erosion accelerates as customers delay or cancel contracts",
@@ -40,33 +40,38 @@
     ]
   },
   "base_case": {
-    "target": "$18\u2013$22",
+    "target": "$18–$22",
     "assumptions": "Backlog stabilizes near $1.1B, revenue grows modestly to $130M+, gross margin approaches breakeven by FY2027, and data center pipeline generates at least one meaningful contract. No major dilution event."
   },
   "catalysts": [
     {
       "date": "2026-09-01",
-      "event": "Q3 FY2026 Earnings \u2014 test of backlog stabilization and revenue trajectory"
+      "event": "Q3 FY2026 Earnings — test of backlog stabilization and revenue trajectory",
+      "iso_date": "2026-09-01"
     },
     {
       "date": "2026-09-15",
-      "event": "Potential data center power contract announcements"
+      "event": "Potential data center power contract announcements",
+      "iso_date": "2026-09-15"
     },
     {
       "date": "2026-12-01",
-      "event": "Q4 FY2026 Earnings and FY2027 guidance preview"
+      "event": "Q4 FY2026 Earnings and FY2027 guidance preview",
+      "iso_date": "2026-12-01"
     },
     {
       "date": "2027-01-15",
-      "event": "SOFC development milestone or partnership update"
+      "event": "SOFC development milestone or partnership update",
+      "iso_date": "2027-01-15"
     }
   ],
   "key_risks": [
     "Persistent net losses and unclear path to profitability",
     "Backlog decline (~10% from peak) eroding revenue visibility",
-    "Technology risk \u2014 MCFC vs SOFC vs competing fuel cell and battery technologies",
+    "Technology risk — MCFC vs SOFC vs competing fuel cell and battery technologies",
     "Customer concentration (Goonga Green Energy significant in Q1)",
     "Dilution risk from history of secondary offerings",
     "Execution risk on data center pivot against Bloom Energy and traditional power"
-  ]
+  ],
+  "price_date": "2026-06-26"
 }

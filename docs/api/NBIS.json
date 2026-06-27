@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 158.34,
   "market_cap": "$40.1B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-22",
   "thesis": "Nebius is a transformational AI infrastructure play with two of the largest compute contracts in history (Meta $27B, Microsoft $19.4B). Revenue grew 351% in FY2025 to $530M with improving margins and $2.45B cash. However, the stock trades at 75x P/S, RSI is 85 (extremely overbought), and customer concentration risk is high. A SPEC. BUY for investors who can stomach extreme volatility and believe AI capex demand remains durable.",
   "financials": {
@@ -42,10 +42,26 @@
     "assumptions": "Core contracts deliver on schedule with minor delays. 2026 revenue $2.5–$3.0B in line with Goldman estimates. AI Cloud platform attracts enough third-party customers to reduce concentration risk. Margins improve but remain below long-term targets due to ongoing capex intensity."
   },
   "catalysts": [
-    {"date": "2026-05", "event": "Q1 2026 Earnings — first report post-Meta deal, ARR update"},
-    {"date": "2026-H2", "event": "Blackwell GPU deployment milestones — capacity expansion progress"},
-    {"date": "2027-Q1", "event": "Vera Rubin delivery to Meta — first revenue from largest contract"},
-    {"date": "TBD", "event": "Potential new hyperscaler customer announcements"}
+    {
+      "date": "2026-05",
+      "event": "Q1 2026 Earnings — first report post-Meta deal, ARR update",
+      "iso_date": "2026-05"
+    },
+    {
+      "date": "2026-H2",
+      "event": "Blackwell GPU deployment milestones — capacity expansion progress",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2027-Q1",
+      "event": "Vera Rubin delivery to Meta — first revenue from largest contract",
+      "iso_date": "2027"
+    },
+    {
+      "date": "TBD",
+      "event": "Potential new hyperscaler customer announcements",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Extreme customer concentration (Meta + Microsoft = majority of forward revenue)",
@@ -53,5 +69,8 @@
     "Execution risk at scale — data center build-outs are technically complex and capital-intensive",
     "NVIDIA supply chain dependency",
     "Geopolitical headline risk from Yandex/Russian roots"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "AI / HPC Operators",
+  "price_date": "2026-04-22"
 }

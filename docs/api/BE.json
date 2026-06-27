@@ -4,9 +4,9 @@
   "sector": "Energy",
   "industry": "Fuel Cells / Clean Power Generation",
   "exchange": "NYSE",
-  "price": 274.50,
+  "price": 274.5,
   "market_cap": "$41.1B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
   "thesis": "Bloom Energy is a hypergrowth solid-oxide fuel cell manufacturer with a $20B backlog and clear demand tailwinds from AI data center electrification. Q1 2026 revenue surged 130% YoY to $751M with raised FY2026 guidance of $3.4–3.8B. Non-GAAP operating income expanded 10x to $130M and adjusted EBITDA grew 6x to $143M. The 2.8 GW Oracle deal and $5B Brookfield partnership validate commercial demand at scale. High valuation (~11x forward sales) and execution risk warrant a speculative buy rating with disciplined position sizing.",
   "financials": {
@@ -42,10 +42,26 @@
     "assumptions": "FY2026 guidance met at midpoint ($3.6B revenue, 34% gross margin), backlog converts steadily, no major customer losses, and margin expansion continues into 2027."
   },
   "catalysts": [
-    {"date": "2026-07-15", "event": "Q2 2026 Earnings — test of guidance trajectory and margin sustainability"},
-    {"date": "2026-08-15", "event": "Potential Oracle/Brookfield contract expansion announcements"},
-    {"date": "2026-10-15", "event": "Q3 2026 Earnings — backlog conversion and FY2027 guidance preview"},
-    {"date": "2026-11-15", "event": "FY2027 Guidance — will reveal if 80% growth is sustainable"}
+    {
+      "date": "2026-07-15",
+      "event": "Q2 2026 Earnings — test of guidance trajectory and margin sustainability",
+      "iso_date": "2026-07-15"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Potential Oracle/Brookfield contract expansion announcements",
+      "iso_date": "2026-08-15"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Q3 2026 Earnings — backlog conversion and FY2027 guidance preview",
+      "iso_date": "2026-10-15"
+    },
+    {
+      "date": "2026-11-15",
+      "event": "FY2027 Guidance — will reveal if 80% growth is sustainable",
+      "iso_date": "2026-11-15"
+    }
   ],
   "key_risks": [
     "Customer concentration on mega-deals (Oracle 2.8 GW, Brookfield $5B)",
@@ -53,5 +69,8 @@
     "Valuation risk at ~11x forward sales — any deceleration triggers severe compression",
     "Technology competition from PEM fuel cells and battery storage",
     "Natural gas price volatility affecting customer economics"
-  ]
+  ],
+  "theme": "Energy",
+  "sub_theme": "Natural Gas & AI Power Demand",
+  "price_date": "2026-06-15"
 }

@@ -44,9 +44,21 @@
     "assumptions": "Calpine integration proceeds on plan; 2–3 GW of new data center PPAs signed; nuclear fleet performs at historical norms; power prices stable; EPS reaches $14–16 by 2027"
   },
   "catalysts": [
-    {"date": "2026-08", "event": "Q2 2026 Earnings — Calpine integration update, data center PPA announcements"},
-    {"date": "2026-11", "event": "2026 Annual Guidance Update — Full-year outlook including Calpine contribution"},
-    {"date": "2026-2027", "event": "NRC License Extension Rulings — Key plant license renewals"}
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 Earnings — Calpine integration update, data center PPA announcements",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-11",
+      "event": "2026 Annual Guidance Update — Full-year outlook including Calpine contribution",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2026-2027",
+      "event": "NRC License Extension Rulings — Key plant license renewals",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "Regulatory and political risk — NRC oversight, safety incidents, license revocation",
@@ -54,5 +66,6 @@
     "Calpine integration risk — $16.4B acquisition; largest in company history",
     "Nuclear waste and decommissioning liabilities — long-term off-balance-sheet obligations",
     "Competition from renewables + storage — falling costs of solar, wind, battery storage"
-  ]
+  ],
+  "price_date": "2026-06-19"
 }

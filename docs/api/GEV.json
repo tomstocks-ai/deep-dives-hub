@@ -56,19 +56,23 @@
   "catalysts": [
     {
       "date": "2026-07",
-      "event": "Q2 2026 Earnings — expect continued order momentum and potential guidance raise"
+      "event": "Q2 2026 Earnings — expect continued order momentum and potential guidance raise",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026-08",
-      "event": "Offshore wind project awards (U.S. lease rounds, European FIDs)"
+      "event": "Offshore wind project awards (U.S. lease rounds, European FIDs)",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026-09",
-      "event": "AI data center power partnership announcements (hyperscaler campus expansions)"
+      "event": "AI data center power partnership announcements (hyperscaler campus expansions)",
+      "iso_date": "2026-09"
     },
     {
       "date": "2026-10",
-      "event": "Q3 2026 Earnings — backlog conversion trajectory and FY2026 guidance updates"
+      "event": "Q3 2026 Earnings — backlog conversion trajectory and FY2026 guidance updates",
+      "iso_date": "2026-10"
     }
   ],
   "key_risks": [
@@ -119,5 +123,6 @@
     "ceo": "Scott Strazik"
   },
   "incorporated": 2023,
-  "headquarters": "Cambridge, MA"
+  "headquarters": "Cambridge, MA",
+  "price_date": "2026-06-20"
 }

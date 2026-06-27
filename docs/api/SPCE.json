@@ -1,70 +1,77 @@
 {
-    "ticker": "SPCE",
-    "company": "Virgin Galactic Holdings, Inc.",
-    "sector": "Space",
-    "industry": "Aerospace / Commercial Spaceflight",
-    "exchange": "NYSE",
-    "price": 4.53,
-    "market_cap": "$2.10B",
-    "rating": "SPECULATIVE",
-    "last_updated": "2026-05-29",
-    "thesis": "Virgin Galactic is a pre-revenue commercial spaceflight company with a binary catalyst: the Delta-class vehicle program. First ship enters ground tests in April 2026, flight tests in Q3 2026, and commercial service is targeted for Q4 2026. If successful, the company guides $450M annual revenue and $100M adjusted EBITDA at fleet scale. However, FY2025 revenue was only $1.54M against a $279M net loss and $438M negative free cash flow. Cash of $338M provides roughly 3-4 quarters of runway at current burn rates. The stock has more than doubled from lows and RSI is overbought at 78+. This is a pure speculative call option on program execution.",
-    "financials": {
-        "fiscal_year": "FY2025",
-        "revenue": "$1.54M",
-        "revenue_growth": "-78% YoY",
-        "gross_margin": "Negative",
-        "net_income": "-$278.9M",
-        "eps_diluted": "-$3.92 (approx)",
-        "cash": "$338M",
-        "fcf": "-$438M"
-    },
-    "bull_case": {
-        "target": "$12–$16",
-        "drivers": [
-            "Delta-class launches on schedule in Q4 2026 with no technical issues",
-            "Second ship enters service in early 2027, enabling $450M annual revenue target",
-            "Gross margins expand rapidly as flight cadence increases",
-            "Virgin Galactic captures first-mover advantage in high-frequency suborbital tourism"
-        ]
-    },
-    "bear_case": {
-        "target": "$1–$2",
-        "risks": [
-            "Delta-class encounters significant technical delays or failure during flight test",
-            "Cash runs critically low by Q4 2026; distressed financing or strategic review",
-            "Additional shareholder dilution of 30%+",
-            "Suborbital tourism demand fails to materialize at $450K price point"
-        ]
-    },
-    "base_case": {
-        "target": "$3–$5",
-        "assumptions": "First Delta-class flight slips to early 2027; one ship operational through most of 2027. Revenue remains minimal ($50–100M) through 2027. Additional capital raise dilutes existing shareholders 15–20%. Stock trades sideways as investors wait for proof of commercial viability."
-    },
-    "catalysts": [
-        {
-            "date": "2026-04",
-            "event": "Delta-class ground test phase begins"
-        },
-        {
-            "date": "2026-Q3",
-            "event": "Flight test phase begins for first Delta-class SpaceShip"
-        },
-        {
-            "date": "2026-Q4",
-            "event": "Target for first commercial Delta-class flight"
-        },
-        {
-            "date": "2026-Late Q4 / 2027-Q1",
-            "event": "Second Delta-class ship expected to enter service"
-        }
-    ],
-    "key_risks": [
-        "Delta-class program delays or technical failures",
-        "Cash runway of only ~3-4 quarters at current burn rates",
-        "High likelihood of additional dilutive capital raises",
-        "Competition from Blue Origin (New Shepard) and SpaceX",
-        "Luxury discretionary spending vulnerability in recessions",
-        "Overbought technical conditions (RSI 78+) suggest pullback risk"
+  "ticker": "SPCE",
+  "company": "Virgin Galactic Holdings, Inc.",
+  "sector": "Space",
+  "industry": "Aerospace / Commercial Spaceflight",
+  "exchange": "NYSE",
+  "price": 4.53,
+  "market_cap": "$2.10B",
+  "rating": "SPECULATIVE",
+  "last_updated": "2026-05-29",
+  "thesis": "Virgin Galactic is a pre-revenue commercial spaceflight company with a binary catalyst: the Delta-class vehicle program. First ship enters ground tests in April 2026, flight tests in Q3 2026, and commercial service is targeted for Q4 2026. If successful, the company guides $450M annual revenue and $100M adjusted EBITDA at fleet scale. However, FY2025 revenue was only $1.54M against a $279M net loss and $438M negative free cash flow. Cash of $338M provides roughly 3-4 quarters of runway at current burn rates. The stock has more than doubled from lows and RSI is overbought at 78+. This is a pure speculative call option on program execution.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$1.54M",
+    "revenue_growth": "-78% YoY",
+    "gross_margin": "Negative",
+    "net_income": "-$278.9M",
+    "eps_diluted": "-$3.92 (approx)",
+    "cash": "$338M",
+    "fcf": "-$438M"
+  },
+  "bull_case": {
+    "target": "$12–$16",
+    "drivers": [
+      "Delta-class launches on schedule in Q4 2026 with no technical issues",
+      "Second ship enters service in early 2027, enabling $450M annual revenue target",
+      "Gross margins expand rapidly as flight cadence increases",
+      "Virgin Galactic captures first-mover advantage in high-frequency suborbital tourism"
     ]
+  },
+  "bear_case": {
+    "target": "$1–$2",
+    "risks": [
+      "Delta-class encounters significant technical delays or failure during flight test",
+      "Cash runs critically low by Q4 2026; distressed financing or strategic review",
+      "Additional shareholder dilution of 30%+",
+      "Suborbital tourism demand fails to materialize at $450K price point"
+    ]
+  },
+  "base_case": {
+    "target": "$3–$5",
+    "assumptions": "First Delta-class flight slips to early 2027; one ship operational through most of 2027. Revenue remains minimal ($50–100M) through 2027. Additional capital raise dilutes existing shareholders 15–20%. Stock trades sideways as investors wait for proof of commercial viability."
+  },
+  "catalysts": [
+    {
+      "date": "2026-04",
+      "event": "Delta-class ground test phase begins",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "2026-Q3",
+      "event": "Flight test phase begins for first Delta-class SpaceShip",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-Q4",
+      "event": "Target for first commercial Delta-class flight",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-Late Q4 / 2027-Q1",
+      "event": "Second Delta-class ship expected to enter service",
+      "iso_date": "2026"
+    }
+  ],
+  "key_risks": [
+    "Delta-class program delays or technical failures",
+    "Cash runway of only ~3-4 quarters at current burn rates",
+    "High likelihood of additional dilutive capital raises",
+    "Competition from Blue Origin (New Shepard) and SpaceX",
+    "Luxury discretionary spending vulnerability in recessions",
+    "Overbought technical conditions (RSI 78+) suggest pullback risk"
+  ],
+  "theme": "Space Economy",
+  "sub_theme": "Lunar / Deep Space",
+  "price_date": "2026-05-29"
 }

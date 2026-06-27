@@ -42,15 +42,34 @@
     "assumptions": "Steady industrial demand growth of 3–4% annually; 1–2 Fed rate cuts; moderate investment flows; gold/silver ratio normalizes to 65:1."
   },
   "catalysts": [
-    {"date": "2026-06-18", "event": "FOMC meeting — watch for rate-cut guidance"},
-    {"date": "2026-07-04", "event": "Monthly U.S. nonfarm payrolls"},
-    {"date": "2026-07-15", "event": "Q2 solar installation data (China, U.S.)"},
-    {"date": "2026-07-31", "event": "LBMA silver inventory report"}
+    {
+      "date": "2026-06-18",
+      "event": "FOMC meeting — watch for rate-cut guidance",
+      "iso_date": "2026-06-18"
+    },
+    {
+      "date": "2026-07-04",
+      "event": "Monthly U.S. nonfarm payrolls",
+      "iso_date": "2026-07-04"
+    },
+    {
+      "date": "2026-07-15",
+      "event": "Q2 solar installation data (China, U.S.)",
+      "iso_date": "2026-07-15"
+    },
+    {
+      "date": "2026-07-31",
+      "event": "LBMA silver inventory report",
+      "iso_date": "2026-07-31"
+    }
   ],
   "key_risks": [
     "Industrial demand collapse in recession",
     "Silver substitution in electronics and solar",
     "Strong U.S. dollar persisting",
     "Profit-taking after 144% rally from 2022 lows"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Specialty Metals (Silver)",
+  "price_date": "2026-06-07"
 }

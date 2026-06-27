@@ -6,9 +6,9 @@
   "exchange": "NYSE",
   "price": 3.88,
   "market_cap": "$355M",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-02",
-  "thesis": "3D Systems is a legacy additive manufacturing pioneer executing a multi-year turnaround under CEO Jeffrey Graves. After years of revenue decline, Q1 2026 showed 11% YoY growth and positive adjusted EBITDA ($2.1M vs. -$23.9M prior year), driven by healthcare momentum and $55M in cost savings. The stock has rallied 45% in two weeks on turnaround optimism and is now overbought (RSI 75). The bull case hinges on sustained healthcare growth, industrial stabilization, and operating leverage from a leaner cost base. The bear case is that Q1 was a head-fake and the 3D printing winter continues. At \u003c1x sales, the risk/reward is asymmetric — but only on a pullback.",
+  "thesis": "3D Systems is a legacy additive manufacturing pioneer executing a multi-year turnaround under CEO Jeffrey Graves. After years of revenue decline, Q1 2026 showed 11% YoY growth and positive adjusted EBITDA ($2.1M vs. -$23.9M prior year), driven by healthcare momentum and $55M in cost savings. The stock has rallied 45% in two weeks on turnaround optimism and is now overbought (RSI 75). The bull case hinges on sustained healthcare growth, industrial stabilization, and operating leverage from a leaner cost base. The bear case is that Q1 was a head-fake and the 3D printing winter continues. At <1x sales, the risk/reward is asymmetric — but only on a pullback.",
   "financials": {
     "fiscal_year": "FY2025 / Q1 2026",
     "revenue": "$386.9M (FY2025); $95.5M (Q1 2026)",
@@ -42,9 +42,21 @@
     "assumptions": "Revenue stabilizes around $400M annually with low-single-digit growth. Adjusted EBITDA remains slightly positive (2–5% margin) but does not inflect dramatically. Market values DDD at 1.0–1.2x sales, consistent with slow-growth industrial tech peers. No strategic buyer emerges."
   },
   "catalysts": [
-    {"date": "2026-06-15", "event": "$55M cost savings program completion — margin impact visibility"},
-    {"date": "2026-08-06", "event": "Q2 2026 Earnings — critical test of EBITDA sustainability and revenue trend"},
-    {"date": "2026-11-05", "event": "Q3 2026 Earnings — full-year guidance update and 2027 outlook"}
+    {
+      "date": "2026-06-15",
+      "event": "$55M cost savings program completion — margin impact visibility",
+      "iso_date": "2026-06-15"
+    },
+    {
+      "date": "2026-08-06",
+      "event": "Q2 2026 Earnings — critical test of EBITDA sustainability and revenue trend",
+      "iso_date": "2026-08-06"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Q3 2026 Earnings — full-year guidance update and 2027 outlook",
+      "iso_date": "2026-11-05"
+    }
   ],
   "key_risks": [
     "Turnaround execution risk — Q1 2026 may not be repeatable",
@@ -52,5 +64,8 @@
     "Intense competition from Stratasys, Desktop Metal, and Chinese AM vendors",
     "Macro/industrial capex weakness crushes discretionary AM spending",
     "Overbought technical condition (RSI 75) creates near-term pullback risk"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "price_date": "2026-06-02"
 }

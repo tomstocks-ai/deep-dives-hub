@@ -6,7 +6,7 @@
   "exchange": "NYSE",
   "price": 58.58,
   "market_cap": "$10.17B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-15",
   "thesis": "Building small, advanced nuclear power plants (Aurora Powerhouses) — compact 15-75 MW factory-built reactors. 'Build, Own, Operate' model with long-term PPAs. Liquid metal-cooled fast reactor technology based on proven EBR-II heritage. $1.23B cash provides 30+ years runway — eliminates near-term dilution risk. Meta partnership (1.2 GW Ohio campus) validates commercial demand. First commercial operation targeted late 2027/early 2028.",
   "financials": {
@@ -17,7 +17,11 @@
     "cash": "$1.23B",
     "total_debt": "$1.45M (essentially debt-free)",
     "cash_burn": "$35-40M/year",
-    "runway": "30+ years (unprecedented for pre-revenue)"
+    "runway": "30+ years (unprecedented for pre-revenue)",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$150–200",
@@ -44,10 +48,26 @@
     "assumptions": "Aurora-INL online by 2028 (6-12 month delay from target); Meta Phase 1 by 2031; 3-5 reactors operational by 2030; Revenue of $200-300M by 2030; Stock trades based on execution with partial success."
   },
   "catalysts": [
-    {"date": "2025", "event": "NRC Combined License Application Filing — Critical regulatory step"},
-    {"date": "2026-07", "event": "DOE Authorization for Aurora-INL — Potential accelerated operation"},
-    {"date": "2026-2027", "event": "LOI-to-PPA Conversions — Revenue visibility"},
-    {"date": "Late 2027/Early 2028", "event": "First Commercial Operation — Major derisking event"}
+    {
+      "date": "2025",
+      "event": "NRC Combined License Application Filing — Critical regulatory step",
+      "iso_date": "2025"
+    },
+    {
+      "date": "2026-07",
+      "event": "DOE Authorization for Aurora-INL — Potential accelerated operation",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026-2027",
+      "event": "LOI-to-PPA Conversions — Revenue visibility",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Late 2027/Early 2028",
+      "event": "First Commercial Operation — Major derisking event",
+      "iso_date": "2027-10"
+    }
   ],
   "key_risks": [
     "Regulatory risk — NRC denied first license application in 2022; new design requires fresh review",
@@ -55,5 +75,8 @@
     "HALEU fuel supply scarcity (Russia was dominant supplier, now banned)",
     "2-3 years until first revenue is a long time for impatient investors",
     "High short interest and post-SPAC warrant overhang"
-  ]
+  ],
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
+  "price_date": "2026-04-15"
 }

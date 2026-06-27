@@ -8,7 +8,7 @@
   "market_cap": "$5.02B",
   "pe_ttm": 43.18,
   "beta": 2.32,
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-16",
   "thesis": "Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, mental health, dermatology, and weight loss. Revenue grew 59% YoY to $2.35B in FY2025 with 72% gross margins. Pivoting from compounded GLP-1 drugs to branded medications. 36% short interest creates squeeze potential but also reflects real regulatory risk.",
   "financials": {
@@ -59,15 +59,34 @@
     "assumptions": "Revenue grows 20–25% annually through 2027; EBITDA margins stabilize 13–15%; international contributes 15–20% by 2028; regulatory issues resolved with manageable impact."
   },
   "catalysts": [
-    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first quarter post-GLP-1 pivot"},
-    {"date": "2026-06", "event": "FDA GLP-1 decision — regulatory clarity"},
-    {"date": "ongoing", "event": "DOJ investigation updates"},
-    {"date": "2026-08", "event": "Q2 2026 Earnings — international expansion progress"}
+    {
+      "date": "2026-05-11",
+      "event": "Q1 2026 Earnings — first quarter post-GLP-1 pivot",
+      "iso_date": "2026-05-11"
+    },
+    {
+      "date": "2026-06",
+      "event": "FDA GLP-1 decision — regulatory clarity",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "ongoing",
+      "event": "DOJ investigation updates",
+      "iso_date": null
+    },
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 Earnings — international expansion progress",
+      "iso_date": "2026-08"
+    }
   ],
   "key_risks": [
     "FDA crackdown on compounded GLP-1 medications",
     "DOJ investigation into marketing practices",
     "Novo Nordisk patent lawsuit blocking alternative GLP-1 formulations",
     "Margin compression from international expansion and branded drugs"
-  ]
+  ],
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Telehealth & Digital Health",
+  "price_date": "2026-04-16"
 }

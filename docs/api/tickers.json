@@ -1,4 +1,6 @@
 {
+  "$schema": "/api/schema.json",
+  "api_version": "1",
   "last_updated": "2026-06-26",
   "tickers": [
     {
@@ -11,91 +13,115 @@
       "market_cap": "$88.7B",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/CEG/",
-      "api_url": "/api/CEG.json"
+      "api_url": "/api/CEG.json",
+      "theme": "Nuclear",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "HIMS",
       "company": "Hims & Hers Health, Inc.",
       "sector": "Consumer Health",
       "industry": "Telehealth / DTC Healthcare",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 22.02,
       "market_cap": "$5.02B",
       "last_updated": "2026-04-16",
       "deep_dive_url": "/deep-dives/HIMS/",
-      "api_url": "/api/HIMS.json"
+      "api_url": "/api/HIMS.json",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Telehealth & Digital Health",
+      "price_date": "2026-04-16"
     },
     {
       "ticker": "SLDP",
       "company": "Solid Power Inc.",
       "sector": "Technology",
       "industry": "Solid-State Batteries",
-      "rating": "HOLD / SPECULATIVE",
+      "rating": "HOLD / SPEC.",
       "price": 3.15,
       "market_cap": "$662M",
       "last_updated": "2026-04-14",
       "deep_dive_url": "/deep-dives/SLDP/",
-      "api_url": "/api/SLDP.json"
+      "api_url": "/api/SLDP.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Solid-State Batteries",
+      "price_date": "2026-04-14"
     },
     {
       "ticker": "CRCL",
       "company": "Circle Internet Group, Inc.",
       "sector": "Fintech",
       "industry": "Stablecoin / Digital Payments",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 80.23,
       "market_cap": "$19.9B",
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/CRCL/",
-      "api_url": "/api/CRCL.json"
+      "api_url": "/api/CRCL.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-06-20"
     },
     {
       "ticker": "AEHR",
       "company": "Aehr Test Systems",
       "sector": "Technology",
       "industry": "Semiconductor Test Equipment",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 44.32,
       "market_cap": "$1.36B",
       "last_updated": "2026-04-06",
       "deep_dive_url": "/deep-dives/AEHR/",
-      "api_url": "/api/AEHR.json"
+      "api_url": "/api/AEHR.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-04-06"
     },
     {
       "ticker": "ASTS",
       "company": "AST SpaceMobile, Inc.",
       "sector": "Space",
       "industry": "Satellite-to-Cell Connectivity",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 82.87,
       "market_cap": "$31.7B",
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/ASTS/",
-      "api_url": "/api/ASTS.json"
+      "api_url": "/api/ASTS.json",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-04-02"
     },
     {
       "ticker": "CRML",
       "company": "Critical Metals Corp",
       "sector": "Materials",
       "industry": "Rare Earth Elements Mining",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 11.94,
       "market_cap": "$1.46B",
       "last_updated": "2026-04-21",
       "deep_dive_url": "/deep-dives/CRML/",
-      "api_url": "/api/CRML.json"
+      "api_url": "/api/CRML.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Rare Earths",
+      "price_date": "2026-04-21"
     },
     {
       "ticker": "EOSE",
       "company": "Eos Energy Enterprises, Inc.",
       "sector": "Energy",
       "industry": "Zinc-Bromine Battery Storage",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 4.86,
       "market_cap": "$1.69B",
       "last_updated": "2026-04-05",
       "deep_dive_url": "/deep-dives/EOSE/",
-      "api_url": "/api/EOSE.json"
+      "api_url": "/api/EOSE.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Grid-Scale Energy Storage",
+      "price_date": "2026-04-05"
     },
     {
       "ticker": "FCX",
@@ -107,91 +133,115 @@
       "market_cap": "$87.96B",
       "last_updated": "2026-04-03",
       "deep_dive_url": "/deep-dives/FCX/",
-      "api_url": "/api/FCX.json"
+      "api_url": "/api/FCX.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Copper",
+      "price_date": "2026-04-03"
     },
     {
       "ticker": "IMSR",
       "company": "Terrestrial Energy Inc.",
       "sector": "Energy",
       "industry": "Molten Salt Nuclear Reactor",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 6.24,
       "market_cap": "$661M",
       "last_updated": "2026-04-04",
       "deep_dive_url": "/deep-dives/IMSR/",
-      "api_url": "/api/IMSR.json"
+      "api_url": "/api/IMSR.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-04-04"
     },
     {
       "ticker": "NN",
       "company": "NextNav Inc.",
       "sector": "Space",
       "industry": "Positioning, Navigation, Timing (PNT)",
-      "rating": "HOLD / SPECULATIVE",
+      "rating": "HOLD / SPEC.",
       "price": 16.67,
       "market_cap": "$1.2B",
       "last_updated": "2026-06-26",
       "deep_dive_url": "/deep-dives/NN/",
-      "api_url": "/api/NN.json"
+      "api_url": "/api/NN.json",
+      "theme": "Space",
+      "sub_theme": "Satellite Connectivity / Geospatial Intelligence",
+      "price_date": "2026-06-26"
     },
     {
       "ticker": "OKLO",
       "company": "Oklo Inc.",
       "sector": "Energy",
       "industry": "Advanced Nuclear Technology",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 58.58,
       "market_cap": "$10.17B",
       "last_updated": "2026-04-15",
       "deep_dive_url": "/deep-dives/OKLO/",
-      "api_url": "/api/OKLO.json"
+      "api_url": "/api/OKLO.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-04-15"
     },
     {
       "ticker": "PL",
       "company": "Planet Labs PBC",
       "sector": "Space",
       "industry": "Earth Observation / Satellite Imagery",
-      "rating": "HOLD / REDUCE",
+      "rating": "HOLD",
       "price": 35.88,
       "market_cap": "$12.42B",
       "last_updated": "2026-04-03",
       "deep_dive_url": "/deep-dives/PL/",
-      "api_url": "/api/PL.json"
+      "api_url": "/api/PL.json",
+      "theme": "Space Economy",
+      "sub_theme": "Geospatial Intelligence",
+      "price_date": "2026-04-03"
     },
     {
       "ticker": "SATL",
       "company": "Satellogic Inc.",
       "sector": "Space",
       "industry": "Earth Observation Satellites",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 3.25,
       "market_cap": "$444M",
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/SATL/",
-      "api_url": "/api/SATL.json"
+      "api_url": "/api/SATL.json",
+      "theme": "Space Economy",
+      "sub_theme": "Geospatial Intelligence",
+      "price_date": "2026-04-02"
     },
     {
       "ticker": "SATS",
       "company": "EchoStar Corporation",
       "sector": "Technology",
       "industry": "Satellite Communications / Telecom",
-      "rating": "ACCUMULATE",
+      "rating": "BUY",
       "price": 128.68,
       "market_cap": "$37.2B",
       "last_updated": "2026-04-04",
       "deep_dive_url": "/deep-dives/SATS/",
-      "api_url": "/api/SATS.json"
+      "api_url": "/api/SATS.json",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-04-04"
     },
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
       "sector": "Technology",
       "industry": "Cloud Data Platform",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 119.71,
       "market_cap": "$41.6B",
       "last_updated": "2026-04-10",
       "deep_dive_url": "/deep-dives/SNOW/",
-      "api_url": "/api/SNOW.json"
+      "api_url": "/api/SNOW.json",
+      "theme": "Software",
+      "sub_theme": "Data & Analytics",
+      "price_date": "2026-04-10"
     },
     {
       "ticker": "STAA",
@@ -203,7 +253,10 @@
       "market_cap": "$1.03B",
       "last_updated": "2026-04-09",
       "deep_dive_url": "/deep-dives/STAA/",
-      "api_url": "/api/STAA.json"
+      "api_url": "/api/STAA.json",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-04-09"
     },
     {
       "ticker": "TE",
@@ -215,115 +268,145 @@
       "market_cap": "$1.3-2.0B",
       "last_updated": "2026-03-16",
       "deep_dive_url": "/deep-dives/TE/",
-      "api_url": "/api/TE.json"
+      "api_url": "/api/TE.json",
+      "theme": "Energy",
+      "sub_theme": "Solar",
+      "price_date": "2026-03-16"
     },
     {
       "ticker": "TECK",
       "company": "Teck Resources Limited",
       "sector": "Materials",
       "industry": "Diversified Mining (Copper/Zinc)",
-      "rating": "OVERWEIGHT / BUY",
+      "rating": "BUY",
       "price": 48.54,
       "market_cap": "$24.3B",
       "last_updated": "2026-04-03",
       "deep_dive_url": "/deep-dives/TECK/",
-      "api_url": "/api/TECK.json"
+      "api_url": "/api/TECK.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Copper",
+      "price_date": "2026-04-03"
     },
     {
       "ticker": "TSSI",
       "company": "TSS, Inc.",
       "sector": "Technology",
       "industry": "Data Center Infrastructure / AI Servers",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 13.32,
       "market_cap": "$387M",
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/TSSI/",
-      "api_url": "/api/TSSI.json"
+      "api_url": "/api/TSSI.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Servers & Systems",
+      "price_date": "2026-04-02"
     },
     {
       "ticker": "U",
       "company": "Unity Software Inc.",
       "sector": "Technology",
       "industry": "3D Content Creation Platform",
-      "rating": "HOLD / SPECULATIVE BUY",
+      "rating": "HOLD / SPEC.",
       "price": 21.57,
       "market_cap": "$9.41B",
       "last_updated": "2026-04-10",
       "deep_dive_url": "/deep-dives/U/",
-      "api_url": "/api/U.json"
+      "api_url": "/api/U.json",
+      "theme": "Software",
+      "sub_theme": "Game Engines & Marketing",
+      "price_date": "2026-04-10"
     },
     {
       "ticker": "UUUU",
       "company": "Energy Fuels Inc.",
       "sector": "Energy",
       "industry": "Uranium / Critical Minerals",
-      "rating": "BUY / ACCUMULATE",
+      "rating": "BUY",
       "price": 17.75,
       "market_cap": "$4.29B",
       "last_updated": "2026-04-03",
       "deep_dive_url": "/deep-dives/UUUU/",
-      "api_url": "/api/UUUU.json"
+      "api_url": "/api/UUUU.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Uranium & Nuclear Fuel",
+      "price_date": "2026-04-03"
     },
     {
       "ticker": "VELO",
       "company": "Velo3D, Inc.",
       "sector": "Technology",
       "industry": "Metal Additive Manufacturing",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 11.27,
       "market_cap": "$277M",
       "last_updated": "2026-04-02",
       "deep_dive_url": "/deep-dives/VELO/",
-      "api_url": "/api/VELO.json"
+      "api_url": "/api/VELO.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-04-02"
     },
     {
       "ticker": "INFQ",
       "company": "Infleqtion, Inc.",
       "sector": "Technology",
       "industry": "Quantum Computing / Quantum Sensing",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 12.02,
       "market_cap": "$2.76B",
       "last_updated": "2026-04-29",
       "deep_dive_url": "/deep-dives/INFQ/",
-      "api_url": "/api/INFQ.json"
+      "api_url": "/api/INFQ.json",
+      "theme": "Quantum Computing",
+      "sub_theme": "Pure Plays",
+      "price_date": "2026-04-29"
     },
     {
       "ticker": "NBIS",
       "company": "Nebius Group N.V.",
       "sector": "Technology",
       "industry": "AI Infrastructure / GPU Cloud",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 158.34,
       "market_cap": "$40.3B",
       "last_updated": "2026-04-22",
       "deep_dive_url": "/deep-dives/NBIS/",
-      "api_url": "/api/NBIS.json"
+      "api_url": "/api/NBIS.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI / HPC Operators",
+      "price_date": "2026-04-22"
     },
     {
       "ticker": "PPTA",
       "company": "Perpetua Resources Corp.",
       "sector": "Materials",
       "industry": "Precious Metals & Critical Minerals Mining",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 26.3,
       "market_cap": "$3.29B",
       "last_updated": "2026-04-29",
       "deep_dive_url": "/deep-dives/PPTA/",
-      "api_url": "/api/PPTA.json"
+      "api_url": "/api/PPTA.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Gold",
+      "price_date": "2026-04-29"
     },
     {
       "ticker": "FIG",
       "company": "Figma, Inc.",
       "sector": "Technology",
       "industry": "Collaborative Design Platform",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 17.7,
       "market_cap": "$9.33B",
       "last_updated": "2026-05-01",
       "deep_dive_url": "/deep-dives/FIG/",
-      "api_url": "/api/FIG.json"
+      "api_url": "/api/FIG.json",
+      "theme": "Software",
+      "sub_theme": "UX",
+      "price_date": "2026-05-01"
     },
     {
       "ticker": "P",
@@ -335,7 +418,10 @@
       "market_cap": "$27.68B",
       "last_updated": "2026-05-12",
       "deep_dive_url": "/deep-dives/P/",
-      "api_url": "/api/P.json"
+      "api_url": "/api/P.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Memory & Storage",
+      "price_date": "2026-05-12"
     },
     {
       "ticker": "WOLF",
@@ -347,7 +433,10 @@
       "market_cap": "$2.60B",
       "last_updated": "2026-05-13",
       "deep_dive_url": "/deep-dives/WOLF/",
-      "api_url": "/api/WOLF.json"
+      "api_url": "/api/WOLF.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Analog / Power",
+      "price_date": "2026-05-13"
     },
     {
       "ticker": "SPCE",
@@ -359,19 +448,25 @@
       "market_cap": "$2.10B",
       "last_updated": "2026-05-29",
       "deep_dive_url": "/deep-dives/SPCE/",
-      "api_url": "/api/SPCE.json"
+      "api_url": "/api/SPCE.json",
+      "theme": "Space Economy",
+      "sub_theme": "Lunar / Deep Space",
+      "price_date": "2026-05-29"
     },
     {
       "ticker": "DDD",
       "company": "3D Systems Corporation",
       "sector": "Technology",
       "industry": "3D Printing / Additive Manufacturing",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 3.88,
       "market_cap": "$355M",
       "last_updated": "2026-06-02",
       "deep_dive_url": "/deep-dives/DDD/",
-      "api_url": "/api/DDD.json"
+      "api_url": "/api/DDD.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-06-02"
     },
     {
       "ticker": "PURR",
@@ -383,7 +478,10 @@
       "market_cap": "$1.5B",
       "last_updated": "2026-06-03",
       "deep_dive_url": "/deep-dives/PURR/",
-      "api_url": "/api/PURR.json"
+      "api_url": "/api/PURR.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-06-03"
     },
     {
       "ticker": "LEU",
@@ -395,7 +493,10 @@
       "market_cap": "$3.18B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/LEU/",
-      "api_url": "/api/LEU.json"
+      "api_url": "/api/LEU.json",
+      "theme": "Energy",
+      "sub_theme": "Enrichment",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "SLV",
@@ -407,7 +508,10 @@
       "market_cap": "$12.1B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/SLV/",
-      "api_url": "/api/SLV.json"
+      "api_url": "/api/SLV.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Specialty Metals (Silver)",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "GLD",
@@ -419,7 +523,10 @@
       "market_cap": "$70.2B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/GLD/",
-      "api_url": "/api/GLD.json"
+      "api_url": "/api/GLD.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Gold",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "COPX",
@@ -431,7 +538,10 @@
       "market_cap": "$1.5B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/COPX/",
-      "api_url": "/api/COPX.json"
+      "api_url": "/api/COPX.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Copper",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "URA",
@@ -443,7 +553,10 @@
       "market_cap": "$2.5B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/URA/",
-      "api_url": "/api/URA.json"
+      "api_url": "/api/URA.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Uranium & Nuclear Fuel",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "AEM",
@@ -455,7 +568,10 @@
       "market_cap": "$98.2B",
       "last_updated": "2026-06-07",
       "deep_dive_url": "/deep-dives/AEM/",
-      "api_url": "/api/AEM.json"
+      "api_url": "/api/AEM.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Gold",
+      "price_date": "2026-06-07"
     },
     {
       "ticker": "FNV",
@@ -467,19 +583,25 @@
       "market_cap": "$45.7B",
       "last_updated": "2026-06-08",
       "deep_dive_url": "/deep-dives/FNV/",
-      "api_url": "/api/FNV.json"
+      "api_url": "/api/FNV.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Gold",
+      "price_date": "2026-06-08"
     },
     {
       "ticker": "OSS",
       "company": "One Stop Systems, Inc.",
       "sector": "Technology",
       "industry": "AI Edge Compute / Rugged Transportable Systems",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 15.71,
       "market_cap": "$350M",
       "last_updated": "2026-06-10",
       "deep_dive_url": "/deep-dives/OSS/",
-      "api_url": "/api/OSS.json"
+      "api_url": "/api/OSS.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Servers & Systems",
+      "price_date": "2026-06-10"
     },
     {
       "ticker": "ASPI",
@@ -491,31 +613,40 @@
       "market_cap": "$664M",
       "last_updated": "2026-06-10",
       "deep_dive_url": "/deep-dives/ASPI/",
-      "api_url": "/api/ASPI.json"
+      "api_url": "/api/ASPI.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Specialty Metals",
+      "price_date": "2026-06-10"
     },
     {
       "ticker": "QS",
       "company": "QuantumScape Corporation",
       "sector": "Technology",
       "industry": "Solid-State Batteries",
-      "rating": "HOLD / SPECULATIVE",
+      "rating": "HOLD / SPEC.",
       "price": 7.0,
       "market_cap": "$3.6B",
       "last_updated": "2026-06-11",
       "deep_dive_url": "/deep-dives/QS/",
-      "api_url": "/api/QS.json"
+      "api_url": "/api/QS.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Solid-State Batteries",
+      "price_date": "2026-06-11"
     },
     {
       "ticker": "ADPT",
       "company": "Adaptive Biotechnologies Corporation",
       "sector": "Health",
       "industry": "Biotechnology / Immune-Based Diagnostics",
-      "rating": "HOLD / SPECULATIVE",
+      "rating": "HOLD / SPEC.",
       "price": 18.78,
       "market_cap": "$2.8B",
       "last_updated": "2026-06-11",
       "deep_dive_url": "/deep-dives/ADPT/",
-      "api_url": "/api/ADPT.json"
+      "api_url": "/api/ADPT.json",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Precision Medicine & Diagnostics",
+      "price_date": "2026-06-11"
     },
     {
       "ticker": "PWR",
@@ -527,7 +658,10 @@
       "market_cap": "$94.3B",
       "last_updated": "2026-06-13",
       "deep_dive_url": "/deep-dives/PWR/",
-      "api_url": "/api/PWR.json"
+      "api_url": "/api/PWR.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Electrical Contractors",
+      "price_date": "2026-06-13"
     },
     {
       "ticker": "MTZ",
@@ -539,7 +673,10 @@
       "market_cap": "$28.3B",
       "last_updated": "2026-06-13",
       "deep_dive_url": "/deep-dives/MTZ/",
-      "api_url": "/api/MTZ.json"
+      "api_url": "/api/MTZ.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Electrical Contractors",
+      "price_date": "2026-06-13"
     },
     {
       "ticker": "DDOG",
@@ -551,7 +688,10 @@
       "market_cap": "$83B",
       "last_updated": "2026-06-14",
       "deep_dive_url": "/deep-dives/DDOG/",
-      "api_url": "/api/DDOG.json"
+      "api_url": "/api/DDOG.json",
+      "theme": "Software",
+      "sub_theme": "Data & Analytics",
+      "price_date": "2026-06-14"
     },
     {
       "ticker": "PANW",
@@ -563,7 +703,10 @@
       "market_cap": "$93.5B",
       "last_updated": "2026-06-14",
       "deep_dive_url": "/deep-dives/PANW/",
-      "api_url": "/api/PANW.json"
+      "api_url": "/api/PANW.json",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-06-14"
     },
     {
       "ticker": "HLIT",
@@ -575,43 +718,55 @@
       "market_cap": "$1.68B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/HLIT/",
-      "api_url": "/api/HLIT.json"
+      "api_url": "/api/HLIT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "CRDO",
       "company": "Credo Technology Group Holding Ltd",
       "sector": "Technology",
       "industry": "Semiconductor Connectivity / High-Speed Interconnects",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 256.65,
       "market_cap": "$43.5B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/CRDO/",
-      "api_url": "/api/CRDO.json"
+      "api_url": "/api/CRDO.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "CLFD",
       "company": "Clearfield, Inc.",
       "sector": "Technology",
       "industry": "Fiber Connectivity / Broadband Infrastructure",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 39.96,
       "market_cap": "$650M",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/CLFD/",
-      "api_url": "/api/CLFD.json"
+      "api_url": "/api/CLFD.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "AAOI",
       "company": "Applied Optoelectronics, Inc.",
       "sector": "Technology",
       "industry": "Optical Communications / Data Center Transceivers",
-      "rating": "HOLD / SPECULATIVE",
+      "rating": "HOLD / SPEC.",
       "price": 191.55,
       "market_cap": "$8.5B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/AAOI/",
-      "api_url": "/api/AAOI.json"
+      "api_url": "/api/AAOI.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Photonics & Optical Interconnects",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "FLNC",
@@ -623,31 +778,40 @@
       "market_cap": "$4.4B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/FLNC/",
-      "api_url": "/api/FLNC.json"
+      "api_url": "/api/FLNC.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Grid-Scale Energy Storage",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "SIVE",
       "company": "Sivers Semiconductors AB",
       "sector": "Technology",
       "industry": "Semiconductors / RF & Photonics",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 86.35,
       "market_cap": "$520M",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/SIVE/",
-      "api_url": "/api/SIVE.json"
+      "api_url": "/api/SIVE.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Photonics & Optical Interconnects",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "BE",
       "company": "Bloom Energy Corporation",
       "sector": "Energy",
       "industry": "Fuel Cells / Clean Power Generation",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 274.5,
       "market_cap": "$41.1B",
       "last_updated": "2026-06-15",
       "deep_dive_url": "/deep-dives/BE/",
-      "api_url": "/api/BE.json"
+      "api_url": "/api/BE.json",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-06-15"
     },
     {
       "ticker": "HUT",
@@ -659,7 +823,10 @@
       "market_cap": "$7.33B",
       "last_updated": "2026-06-16",
       "deep_dive_url": "/deep-dives/HUT/",
-      "api_url": "/api/HUT.json"
+      "api_url": "/api/HUT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI / HPC Operators",
+      "price_date": "2026-06-16"
     },
     {
       "ticker": "CORZ",
@@ -671,7 +838,10 @@
       "market_cap": "$8.9B",
       "last_updated": "2026-06-16",
       "deep_dive_url": "/deep-dives/CORZ/",
-      "api_url": "/api/CORZ.json"
+      "api_url": "/api/CORZ.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI / HPC Operators",
+      "price_date": "2026-06-16"
     },
     {
       "ticker": "000660",
@@ -684,7 +854,9 @@
       "market_cap": "KRW 1,902T (~$1.38T)",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/000660/",
-      "api_url": "/api/000660.json"
+      "api_url": "/api/000660.json",
+      "sector": "Technology",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "MU",
@@ -697,7 +869,9 @@
       "market_cap": "$1.25T",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MU/",
-      "api_url": "/api/MU.json"
+      "api_url": "/api/MU.json",
+      "sector": "Technology",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "MARA",
@@ -710,7 +884,9 @@
       "market_cap": "$4.5B",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MARA/",
-      "api_url": "/api/MARA.json"
+      "api_url": "/api/MARA.json",
+      "sector": "Fintech",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "CVLT",
@@ -724,7 +900,8 @@
       "market_cap": "$6.3B",
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/CVLT/",
-      "api_url": "/api/CVLT.json"
+      "api_url": "/api/CVLT.json",
+      "price_date": "2026-06-20"
     },
     {
       "ticker": "RKLB",
@@ -738,7 +915,8 @@
       "market_cap": "$5.2B",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/RKLB/",
-      "api_url": "/api/RKLB.json"
+      "api_url": "/api/RKLB.json",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "MRVL",
@@ -752,7 +930,8 @@
       "market_cap": "$270B",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MRVL/",
-      "api_url": "/api/MRVL.json"
+      "api_url": "/api/MRVL.json",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "AVGO",
@@ -761,10 +940,13 @@
       "industry": "Semiconductors / Infrastructure Software",
       "rating": "BUY",
       "price": 411.35,
-      "market_cap": ".9T",
+      "market_cap": "$1.9T",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/AVGO/",
-      "api_url": "/api/AVGO.json"
+      "api_url": "/api/AVGO.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "CRWD",
@@ -773,10 +955,13 @@
       "industry": "Cybersecurity / Endpoint & Cloud Security",
       "rating": "BUY",
       "price": 684.86,
-      "market_cap": "67B",
+      "market_cap": "$167B",
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/CRWD/",
-      "api_url": "/api/CRWD.json"
+      "api_url": "/api/CRWD.json",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-06-19"
     },
     {
       "ticker": "GEV",
@@ -785,22 +970,28 @@
       "industry": "Power Generation & Grid Infrastructure",
       "rating": "BUY",
       "price": 1109.73,
-      "market_cap": "22B",
+      "market_cap": "$122B",
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/GEV/",
-      "api_url": "/api/GEV.json"
+      "api_url": "/api/GEV.json",
+      "theme": "Grid & Power",
+      "sub_theme": "Grid-Scale Energy Storage / Grid & Power",
+      "price_date": "2026-06-20"
     },
     {
       "ticker": "BMNR",
       "company": "Bitmine Immersion Technologies, Inc.",
       "sector": "Fintech",
       "industry": "Stablecoin / Digital Payments",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 15.95,
-      "market_cap": ".2B",
+      "market_cap": "$9.2B",
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/BMNR/",
-      "api_url": "/api/BMNR.json"
+      "api_url": "/api/BMNR.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-06-20"
     },
     {
       "ticker": "BFLY",
@@ -811,10 +1002,11 @@
       "industry": "Point-of-Care Ultrasound (POCUS)",
       "rating": "SPEC. BUY",
       "price": 8.9,
-      "market_cap": "~.6B",
+      "market_cap": "~$1.6B",
       "last_updated": "2026-06-20",
       "deep_dive_url": "/deep-dives/BFLY/",
-      "api_url": "/api/BFLY.json"
+      "api_url": "/api/BFLY.json",
+      "price_date": "2026-06-20"
     },
     {
       "ticker": "BLZE",
@@ -825,10 +1017,11 @@
       "industry": "Cloud Storage / Data Infrastructure",
       "rating": "SPEC. BUY",
       "price": 8.27,
-      "market_cap": "96M",
+      "market_cap": "$496M",
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/BLZE/",
-      "api_url": "/api/BLZE.json"
+      "api_url": "/api/BLZE.json",
+      "price_date": "2026-06-21"
     },
     {
       "ticker": "CBRS",
@@ -839,10 +1032,11 @@
       "industry": "Semiconductors / AI Compute",
       "rating": "SPEC. BUY",
       "price": 234.71,
-      "market_cap": "2B",
+      "market_cap": "$52B",
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/CBRS/",
-      "api_url": "/api/CBRS.json"
+      "api_url": "/api/CBRS.json",
+      "price_date": "2026-06-21"
     },
     {
       "ticker": "NOK",
@@ -853,10 +1047,11 @@
       "industry": "Telecommunications Equipment / Networking Infrastructure",
       "rating": "HOLD",
       "price": 13.49,
-      "market_cap": "5B",
+      "market_cap": "$75B",
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/NOK/",
-      "api_url": "/api/NOK.json"
+      "api_url": "/api/NOK.json",
+      "price_date": "2026-06-21"
     },
     {
       "ticker": "BB",
@@ -870,7 +1065,8 @@
       "market_cap": "$5.0B",
       "last_updated": "2026-06-21",
       "deep_dive_url": "/deep-dives/BB/",
-      "api_url": "/api/BB.json"
+      "api_url": "/api/BB.json",
+      "price_date": "2026-06-21"
     },
     {
       "ticker": "NVDA",
@@ -881,10 +1077,11 @@
       "industry": "Semiconductors / AI Compute",
       "rating": "BUY",
       "price": 202.64,
-      "market_cap": "~.0T",
+      "market_cap": "~$5.0T",
       "last_updated": "2026-06-23",
       "deep_dive_url": "/deep-dives/NVDA/",
-      "api_url": "/api/NVDA.json"
+      "api_url": "/api/NVDA.json",
+      "price_date": "2026-06-23"
     },
     {
       "ticker": "COIN",
@@ -898,7 +1095,8 @@
       "market_cap": "$42B",
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/COIN/",
-      "api_url": "/api/COIN.json"
+      "api_url": "/api/COIN.json",
+      "price_date": "2026-06-24"
     },
     {
       "ticker": "HOOD",
@@ -909,10 +1107,11 @@
       "industry": "Brokerage / Trading Platforms",
       "rating": "SPEC. BUY",
       "price": 103.25,
-      "market_cap": "2B",
+      "market_cap": "$92B",
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/HOOD/",
-      "api_url": "/api/HOOD.json"
+      "api_url": "/api/HOOD.json",
+      "price_date": "2026-06-24"
     },
     {
       "ticker": "RTX",
@@ -923,10 +1122,11 @@
       "industry": "Defense Prime Contractor / Aerospace & Propulsion",
       "rating": "BUY",
       "price": 186.39,
-      "market_cap": "65B",
+      "market_cap": "$265B",
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/RTX/",
-      "api_url": "/api/RTX.json"
+      "api_url": "/api/RTX.json",
+      "price_date": "2026-06-24"
     },
     {
       "ticker": "NOW",
@@ -940,7 +1140,8 @@
       "market_cap": "$190B",
       "last_updated": "2026-06-24",
       "deep_dive_url": "/deep-dives/NOW/",
-      "api_url": "/api/NOW.json"
+      "api_url": "/api/NOW.json",
+      "price_date": "2026-06-24"
     },
     {
       "ticker": "MSFT",
@@ -953,7 +1154,9 @@
       "market_cap": "$2.7T",
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/MSFT/",
-      "api_url": "/api/MSFT.json"
+      "api_url": "/api/MSFT.json",
+      "sector": "Technology",
+      "price_date": "2026-06-25"
     },
     {
       "ticker": "INTC",
@@ -967,7 +1170,8 @@
       "market_cap": "$665B",
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/INTC/",
-      "api_url": "/api/INTC.json"
+      "api_url": "/api/INTC.json",
+      "price_date": "2026-06-25"
     },
     {
       "ticker": "DELL",
@@ -978,10 +1182,11 @@
       "industry": "Computer Hardware / Data Center Infrastructure",
       "rating": "BUY",
       "price": 434.06,
-      "market_cap": "00B",
+      "market_cap": "$300B",
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/DELL/",
-      "api_url": "/api/DELL.json"
+      "api_url": "/api/DELL.json",
+      "price_date": "2026-06-25"
     },
     {
       "ticker": "PAAS",
@@ -995,7 +1200,8 @@
       "market_cap": "$19.5B",
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/PAAS/",
-      "api_url": "/api/PAAS.json"
+      "api_url": "/api/PAAS.json",
+      "price_date": "2026-06-25"
     },
     {
       "ticker": "AG",
@@ -1009,7 +1215,8 @@
       "market_cap": "$8.3B",
       "last_updated": "2026-06-25",
       "deep_dive_url": "/deep-dives/AG/",
-      "api_url": "/api/AG.json"
+      "api_url": "/api/AG.json",
+      "price_date": "2026-06-25"
     },
     {
       "ticker": "ADBE",
@@ -1021,19 +1228,25 @@
       "market_cap": "$86B",
       "last_updated": "2026-06-26",
       "deep_dive_url": "/deep-dives/ADBE/",
-      "api_url": "/api/ADBE.json"
+      "api_url": "/api/ADBE.json",
+      "theme": "Software",
+      "sub_theme": "Cloud & Enterprise Software",
+      "price_date": "2026-06-26"
     },
     {
       "ticker": "VYX",
       "company": "NCR Voyix Corporation",
       "sector": "Fintech",
       "industry": "Payments / Digital Banking",
-      "rating": "SPECULATIVE BUY",
+      "rating": "SPEC. BUY",
       "price": 5.5,
       "market_cap": "$700M",
       "last_updated": "2026-06-26",
       "deep_dive_url": "/deep-dives/VYX/",
-      "api_url": "/api/VYX.json"
+      "api_url": "/api/VYX.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Payments / Digital Banking",
+      "price_date": "2026-06-26"
     },
     {
       "ticker": "FCEL",
@@ -1046,7 +1259,9 @@
       "market_cap": "$1.4B",
       "last_updated": "2026-06-26",
       "deep_dive_url": "/deep-dives/FCEL/",
-      "api_url": "/api/FCEL.json"
+      "api_url": "/api/FCEL.json",
+      "sector": "Energy",
+      "price_date": "2026-06-26"
     }
   ]
 }

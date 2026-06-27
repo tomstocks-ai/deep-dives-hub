@@ -54,27 +54,33 @@
   "catalysts": [
     {
       "date": "September 2026",
-      "event": "Adobe MAX — new Firefly features, AI product announcements, creative workflow updates"
+      "event": "Adobe MAX — new Firefly features, AI product announcements, creative workflow updates",
+      "iso_date": "2026-09"
     },
     {
       "date": "September 2026",
-      "event": "Q3 FY2026 Earnings — Digital Experience momentum, Firefly adoption metrics, FY guidance"
+      "event": "Q3 FY2026 Earnings — Digital Experience momentum, Firefly adoption metrics, FY guidance",
+      "iso_date": "2026-09"
     },
     {
       "date": "December 2026",
-      "event": "Q4 FY2026 / Full-Year Results — revenue/EPS validation, FY2027 guidance, AI monetization disclosure"
+      "event": "Q4 FY2026 / Full-Year Results — revenue/EPS validation, FY2027 guidance, AI monetization disclosure",
+      "iso_date": "2026-12"
     },
     {
       "date": "2026 H2",
-      "event": "Firefly paid tier adoption data — subscriber upgrades, ARPU impact, enterprise licensing deals"
+      "event": "Firefly paid tier adoption data — subscriber upgrades, ARPU impact, enterprise licensing deals",
+      "iso_date": "2026-07"
     },
     {
       "date": "Ongoing",
-      "event": "Share buyback execution — consistent capital returns provide downside support"
+      "event": "Share buyback execution — consistent capital returns provide downside support",
+      "iso_date": null
     },
     {
       "date": "2026–2027",
-      "event": "AI model updates — Firefly video generation, 3D content, real-time collaboration features"
+      "event": "AI model updates — Firefly video generation, 3D content, real-time collaboration features",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -84,5 +90,6 @@
     "Regulatory and copyright risks around AI training data and output licensing",
     "Margin compression from elevated AI R&D and GPU infrastructure investment",
     "Talent competition in AI/ML research and engineering"
-  ]
+  ],
+  "price_date": "2026-06-26"
 }

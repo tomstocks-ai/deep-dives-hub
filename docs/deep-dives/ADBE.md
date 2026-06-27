@@ -61,11 +61,11 @@ Adobe's competitive moat rests on several durable advantages:
 - **Subscription Recurrence:** The shift to SaaS (completed with the "Creative Cloud" transition in 2013) has transformed Adobe into a high-visibility recurring revenue business with net revenue retention consistently above 100%.
 - **PDF Ubiquity:** The PDF format is an open standard, but Adobe Acrobat and Document Cloud services remain the dominant commercial tools for creation, editing, signing, and management.
 - **Data & Workflow Integration:** Adobe Experience Cloud leverages first-party data and integrates with Creative Cloud, offering a unique creative-to-marketing workflow that competitors struggle to replicate.
-- **Capital Returns:** Adobe generates strong free cash flow and maintains an active capital return program, including a $25 billion share repurchase authorization.
+- **Capital Returns:** Adobe generates strong free cash flow and maintains an active capital return program, including a \$25 billion share repurchase authorization.
 
 **Management:**
 
-Shantanu Narayen (CEO) has led Adobe since 2007, orchestrating the successful transition from perpetual licenses to subscriptions and driving the expansion into digital experience and AI. Under his leadership, Adobe's market cap has grown from ~$20B to over $300B at its peak. Dan Durn (CFO) has maintained disciplined capital allocation and margin expansion. The leadership team is highly regarded for its execution consistency and strategic vision.
+Shantanu Narayen (CEO) has led Adobe since 2007, orchestrating the successful transition from perpetual licenses to subscriptions and driving the expansion into digital experience and AI. Under his leadership, Adobe's market cap has grown from ~$20B to over \$300B at its peak. Dan Durn (CFO) has maintained disciplined capital allocation and margin expansion. The leadership team is highly regarded for its execution consistency and strategic vision.
 
 **Key Facilities:**
 
@@ -81,23 +81,23 @@ Shantanu Narayen (CEO) has led Adobe since 2007, orchestrating the successful tr
 
 | Metric | Q2 FY2026 (reported June 2026) | YoY Change |
 |--------|-------------------------------|------------|
-| Total Revenue | $6.62B | +13% |
-| Digital Media Revenue | $4.89B | +11% |
-| Digital Experience Revenue | $1.34B | +17% |
-| Non-GAAP EPS | $5.72 | +12% |
-| GAAP EPS | $4.12 | +9% |
+| Total Revenue | \$6.62B | +13% |
+| Digital Media Revenue | \$4.89B | +11% |
+| Digital Experience Revenue | \$1.34B | +17% |
+| Non-GAAP EPS | \$5.72 | +12% |
+| GAAP EPS | \$4.12 | +9% |
 
-**Revenue Growth:** Adobe reported record Q2 FY2026 revenue of $6.62B, up 13% YoY. Digital Media revenue grew 11% to $4.89B, while Digital Experience accelerated 17% to $1.34B, reflecting improving enterprise marketing spend. Document Cloud revenue grew at a solid clip, driven by e-signature adoption and PDF automation.
+**Revenue Growth:** Adobe reported record Q2 FY2026 revenue of \$6.62B, up 13% YoY. Digital Media revenue grew 11% to \$4.89B, while Digital Experience accelerated 17% to \$1.34B, reflecting improving enterprise marketing spend. Document Cloud revenue grew at a solid clip, driven by e-signature adoption and PDF automation.
 
-**Profitability:** Non-GAAP operating margins remained robust at approximately 46%, reflecting Adobe's SaaS scalability. GAAP operating margins were compressed by stock-based compensation and AI R&D investments. Non-GAAP EPS of $5.72 grew 12% YoY, demonstrating continued earnings power despite macro headwinds.
+**Profitability:** Non-GAAP operating margins remained robust at approximately 46%, reflecting Adobe's SaaS scalability. GAAP operating margins were compressed by stock-based compensation and AI R&D investments. Non-GAAP EPS of \$5.72 grew 12% YoY, demonstrating continued earnings power despite macro headwinds.
 
-**Guidance:** Adobe raised FY2026 guidance to revenue of $20.5B–$20.6B and non-GAAP EPS of $24.35–$24.45, reflecting confidence in Digital Experience momentum and Firefly adoption.
+**Guidance:** Adobe raised FY2026 guidance to revenue of \$20.5B–\$20.6B and non-GAAP EPS of \$24.35–\$24.45, reflecting confidence in Digital Experience momentum and Firefly adoption.
 
 ### Balance Sheet
 
 - **Cash & Equivalents:** ~$7B+, providing ample liquidity for M&A, R&D, and capital returns.
 - **Debt:** ~$3.1B in long-term debt, minimal relative to cash flow generation.
-- **Capital Returns:** A $25 billion share repurchase program is in place, with consistent buyback execution providing EPS support and signaling management confidence.
+- **Capital Returns:** A \$25 billion share repurchase program is in place, with consistent buyback execution providing EPS support and signaling management confidence.
 - **Liquidity:** Strong balance sheet with low leverage and substantial cash reserves.
 
 ### Cash Flow
@@ -116,7 +116,7 @@ Shantanu Narayen (CEO) has led Adobe since 2007, orchestrating the successful tr
 | Metric | Value |
 |--------|-------|
 | Price | ~$193.41 |
-| 52-Week Range | ~$192 – $587 |
+| 52-Week Range | ~$192 – \$587 |
 | Market Cap | ~$86B |
 | Enterprise Value | ~$82B |
 | EV / Revenue (FY2026 est.) | ~4x |
@@ -129,11 +129,11 @@ Shantanu Narayen (CEO) has led Adobe since 2007, orchestrating the successful tr
 
 | Source | Rating | Target Price |
 |--------|--------|--------------|
-| TipRanks (39 analysts) | Hold | ~$278–$282 (avg) |
+| TipRanks (39 analysts) | Hold | ~$278–\$282 (avg) |
 | S&P Global | Hold | ~$280 |
-| Overall Consensus | Hold | ~$278–$282 |
+| Overall Consensus | Hold | ~$278–\$282 |
 
-**Analyst Sentiment:** 39 analysts cover Adobe with a consensus "Hold" rating. The average target price of $278–$282 implies ~44–46% upside from current levels. The wide dispersion of targets reflects uncertainty around AI monetization timing and the pace of Digital Experience growth. Recent price target revisions have been mixed, with some analysts cutting targets on AI competition fears while others see the valuation as overly punitive.
+**Analyst Sentiment:** 39 analysts cover Adobe with a consensus "Hold" rating. The average target price of \$278–\$282 implies ~44–46% upside from current levels. The wide dispersion of targets reflects uncertainty around AI monetization timing and the pace of Digital Experience growth. Recent price target revisions have been mixed, with some analysts cutting targets on AI competition fears while others see the valuation as overly punitive.
 
 ---
 
@@ -151,37 +151,37 @@ Key elements of the thesis:
 2. **Recurring Revenue Durability:** The subscription model generates ~$8B+ in annual operating cash flow with high renewal rates. Even in a slowdown, Adobe's revenue base is sticky and predictable.
 3. **AI as Catalyst, Not Threat:** Firefly integration across Creative Cloud and Document Cloud positions Adobe to monetize AI rather than be disrupted by it. The "brand-safe" training data approach appeals to enterprise customers concerned about copyright and IP risks with open-source models.
 4. **Digital Experience Acceleration:** Q2 FY2026 showed 17% growth in Digital Experience, suggesting enterprise marketing budgets are stabilizing. Adobe's customer data platform and commerce tools are well-positioned for the first-party data era.
-5. **Capital Returns:** The $25B buyback program provides EPS support and signals management confidence. At depressed prices, buybacks are highly accretive.
+5. **Capital Returns:** The \$25B buyback program provides EPS support and signals management confidence. At depressed prices, buybacks are highly accretive.
 
 **Price Targets:**
 
 | Scenario | Target | Implied Return |
 |----------|--------|----------------|
-| Bull | $320–$340 | +65–76% |
-| Base | $260–$280 | +34–45% |
-| Bear | $160–$180 | -17 to -7% |
+| Bull | \$320–\$340 | +65–76% |
+| Base | \$260–\$280 | +34–45% |
+| Bear | \$160–\$180 | -17 to -7% |
 
 ---
 
 ## 5. BULL CASE
 
-**Target: $320–$340 (+65–76%)**
+**Target: \$320–\$340 (+65–76%)**
 
 The bull case assumes AI monetization accelerates via Firefly, Digital Experience growth sustains 17%+, and the market re-rates Adobe toward historical software multiples as AI fears subside.
 
 **Key Drivers:**
 
-- **Firefly Monetization:** Generative AI features (Generative Fill, Text-to-Image, Vector Recoloring) drive higher-tier subscription upgrades and new customer acquisition. Firefly reaches 10M+ paid users, contributing $1B+ in incremental ARR by FY2027.
+- **Firefly Monetization:** Generative AI features (Generative Fill, Text-to-Image, Vector Recoloring) drive higher-tier subscription upgrades and new customer acquisition. Firefly reaches 10M+ paid users, contributing \$1B+ in incremental ARR by FY2027.
 - **Multiple Expansion:** As AI monetization proves out and competitive fears fade, Adobe's forward P/E re-rates from ~8x toward 15–18x (still below the 25x+ historical average). At 15x FY2027 non-GAAP EPS of ~$28, the stock would trade at ~$420, with the bull target reflecting a more conservative re-rating to 11–12x.
 - **Digital Experience Momentum:** Enterprise marketing spend recovery drives sustained 17–20% growth in Digital Experience, with Adobe Experience Platform gaining share against Salesforce and SAP.
 - **Margin Expansion:** Operating leverage from AI-driven efficiency and subscription scale pushes non-GAAP operating margins toward 50%.
-- **Aggressive Buybacks:** The $25B repurchase program retires 15–20% of shares outstanding at depressed prices, amplifying EPS growth.
+- **Aggressive Buybacks:** The \$25B repurchase program retires 15–20% of shares outstanding at depressed prices, amplifying EPS growth.
 
 ---
 
 ## 6. BEAR CASE
 
-**Target: $160–$180 (-17 to -7%)**
+**Target: \$160–\$180 (-17 to -7%)**
 
 The bear case assumes AI competition intensifies, enterprise spending slows further, and Adobe's growth decelerates to single digits, justifying a continued low multiple.
 
@@ -193,7 +193,7 @@ The bear case assumes AI competition intensifies, enterprise spending slows furt
 - **Valuation Compression:** If growth decelerates to 8–10% and margins plateau, the market could maintain Adobe's P/E at 8–10x, capping upside and leaving the stock range-bound near current levels.
 - **Regulatory Risk:** AI copyright and IP regulations could impose restrictions on Adobe's training data or output licensing, increasing compliance costs and limiting feature rollout.
 
-**Valuation in Bear Case:** At $160–$180, Adobe would trade at ~6–7x FY2027 EV/Revenue or ~7–8x FY2027 earnings. This is consistent with a mature, slow-growing software company and provides a reasonable downside floor given the balance sheet strength and cash flow generation.
+**Valuation in Bear Case:** At \$160–\$180, Adobe would trade at ~6–7x FY2027 EV/Revenue or ~7–8x FY2027 earnings. This is consistent with a mature, slow-growing software company and provides a reasonable downside floor given the balance sheet strength and cash flow generation.
 
 ---
 

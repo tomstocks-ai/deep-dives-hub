@@ -193,12 +193,12 @@ However, at \$1,134 (~49x TTM P/E, ~14x sales), the stock has already re-rated d
 | Exchange | NASDAQ |
 | Price (June 19, 2026) | ~$1,134 |
 | Market Cap | ~$1.25T |
-| 52-Week Range | $103.38 – $1,110.40 |
+| 52-Week Range | \$103.38 – \$1,110.40 |
 | P/E (TTM) | ~49x |
 | Forward P/E (FY2026) | ~28–32x |
 | Dividend Yield | ~0.05% |
 | Next Earnings | Q3 FY2026 (June 24, 2026) |
 | Rating | HOLD |
-| Bull Target | $1,400–1,600 |
-| Base Target | $1,100–1,300 |
-| Bear Target | $600–800 |
+| Bull Target | \$1,400–1,600 |
+| Base Target | \$1,100–1,300 |
+| Bear Target | \$600–800 |

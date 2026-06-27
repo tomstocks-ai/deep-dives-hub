@@ -42,13 +42,26 @@
     "assumptions": "Turnaround progresses but slower than hoped; foundry becomes modestly profitable by 2027–2028; CCG stabilizes; gross margins reach 42–45%; stock trades at 15–18x forward earnings"
   },
   "catalysts": [
-    {"date": "2026-07-15", "event": "Q2 2026 Earnings — gross margin trajectory and guidance critical"},
-    {"date": "2026-09-01", "event": "Intel Foundry Day / 18A manufacturing roadmap update"},
-    {"date": "2026-10-15", "event": "Q3 2026 Earnings — AI PC holiday build and data center update"}
+    {
+      "date": "2026-07-15",
+      "event": "Q2 2026 Earnings — gross margin trajectory and guidance critical",
+      "iso_date": "2026-07-15"
+    },
+    {
+      "date": "2026-09-01",
+      "event": "Intel Foundry Day / 18A manufacturing roadmap update",
+      "iso_date": "2026-09-01"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Q3 2026 Earnings — AI PC holiday build and data center update",
+      "iso_date": "2026-10-15"
+    }
   ],
   "key_risks": [
     "Manufacturing competitiveness: 18A node must match or exceed TSMC to validate foundry strategy",
     "Valuation risk: stock has surged ~600% from lows and trades well above analyst consensus targets",
     "Debt burden: ~$46.6B debt load with negative free cash flow limits strategic flexibility"
-  ]
+  ],
+  "price_date": "2026-06-25"
 }

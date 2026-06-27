@@ -6,9 +6,9 @@
   "sub_theme": "Medical Devices",
   "industry": "Point-of-Care Ultrasound (POCUS)",
   "exchange": "NYSE",
-  "price": 8.90,
+  "price": 8.9,
   "market_cap": "~$1.6B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-20",
   "thesis": "Butterfly Network is a pioneer in point-of-care ultrasound (POCUS), using semiconductor-based ultrasound-on-chip technology to democratize medical imaging. The company's handheld, single-probe, whole-body devices are priced at a fraction of traditional cart-based systems, opening a massive underserved market. AI-enabled image interpretation and software monetization provide a path to high-margin recurring revenue. New product launches (iQ3), international expansion, and potential FDA clearances for AI features serve as near-term catalysts. However, the company remains deeply unprofitable with widening losses, limited cash runway, and faces heavy competition from GE HealthCare, Philips, Fujifilm Sonosite, and Clarius.",
   "financials": {
@@ -54,23 +54,28 @@
   "catalysts": [
     {
       "date": "H1 2026",
-      "event": "iQ3 product launch — next-generation handheld ultrasound probe with improved image quality and new clinical presets"
+      "event": "iQ3 product launch — next-generation handheld ultrasound probe with improved image quality and new clinical presets",
+      "iso_date": "2026-01"
     },
     {
       "date": "2026",
-      "event": "AI software updates and potential FDA clearances for automated image interpretation and measurements"
+      "event": "AI software updates and potential FDA clearances for automated image interpretation and measurements",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "International partnership or distribution announcements in Europe, Asia-Pacific, or emerging markets"
+      "event": "International partnership or distribution announcements in Europe, Asia-Pacific, or emerging markets",
+      "iso_date": "2026"
     },
     {
       "date": "Early 2026",
-      "event": "Q4 2025 / FY2025 earnings release — revenue trajectory and guidance update"
+      "event": "Q4 2025 / FY2025 earnings release — revenue trajectory and guidance update",
+      "iso_date": "2026-01"
     },
     {
       "date": "2026",
-      "event": "Potential capital raise or strategic review if cash runway shortens"
+      "event": "Potential capital raise or strategic review if cash runway shortens",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -88,5 +93,6 @@
     "average": "$5.56–$5.67"
   },
   "deep_dive_url": "/deep-dives/BFLY/",
-  "api_url": "/api/BFLY.json"
+  "api_url": "/api/BFLY.json",
+  "price_date": "2026-06-20"
 }

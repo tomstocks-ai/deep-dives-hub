@@ -42,14 +42,29 @@
     "assumptions": "Gold averages $3,000/oz through 2026–2027; GEO production hits mid-point of guidance (~540K oz); Cobre Panamá remains unresolved but stockpile deliveries offset some loss; modest multiple compression offset by earnings growth."
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q2 2026 earnings release"},
-    {"date": "2026-10-01", "event": "Cobre Panamá arbitration hearing"},
-    {"date": "2027-01-01", "event": "Potential dividend increase (20th consecutive year)"}
+    {
+      "date": "2026-08-01",
+      "event": "Q2 2026 earnings release",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-10-01",
+      "event": "Cobre Panamá arbitration hearing",
+      "iso_date": "2026-10-01"
+    },
+    {
+      "date": "2027-01-01",
+      "event": "Potential dividend increase (20th consecutive year)",
+      "iso_date": "2027-01-01"
+    }
   ],
   "key_risks": [
     "Cobre Panamá arbitration outcome uncertainty",
     "Gold price volatility and macro sensitivity",
     "Geopolitical risk in Latin American operating jurisdictions",
     "Interest rate environment reducing dividend stock attractiveness"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "price_date": "2026-06-08"
 }

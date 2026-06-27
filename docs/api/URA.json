@@ -42,15 +42,34 @@
     "assumptions": "Steady reactor demand growth; supply slowly responds; uranium trades $90–110/lb; URA returns 20–30% annually."
   },
   "catalysts": [
-    {"date": "2026-06-15", "event": "Monthly uranium spot price update (UxC)"},
-    {"date": "2026-07-20", "event": "Kazatomprom Q2 production report"},
-    {"date": "2026-08-05", "event": "U.S. DOE uranium supply chain funding announcement"},
-    {"date": "2026-09-10", "event": "Japan Nuclear Regulation Authority restart decision"}
+    {
+      "date": "2026-06-15",
+      "event": "Monthly uranium spot price update (UxC)",
+      "iso_date": "2026-06-15"
+    },
+    {
+      "date": "2026-07-20",
+      "event": "Kazatomprom Q2 production report",
+      "iso_date": "2026-07-20"
+    },
+    {
+      "date": "2026-08-05",
+      "event": "U.S. DOE uranium supply chain funding announcement",
+      "iso_date": "2026-08-05"
+    },
+    {
+      "date": "2026-09-10",
+      "event": "Japan Nuclear Regulation Authority restart decision",
+      "iso_date": "2026-09-10"
+    }
   ],
   "key_risks": [
     "Nuclear accident or Fukushima-type event",
     "Recession delaying reactor builds",
     "Secondary supply filling deficit gap",
     "Junior miner equity dilution"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Uranium & Nuclear Fuel",
+  "price_date": "2026-06-07"
 }

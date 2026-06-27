@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 11.94,
   "market_cap": "$1.46B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-21",
   "thesis": "Pre-revenue rare earth mining company developing Tanbreez Project in Greenland — one of the world's largest known rare earth deposits with 4.7 billion-tonne resource and exceptional 27% Heavy Rare Earth Elements content. Strategic JVs with Saudi Arabia ($1.5B) and Romania provide processing capacity and validation. Greenland recently cleared transfer of additional 50.5% stake bringing CRML ownership to 92.5%. Highly speculative with only $7-10M cash and significant funding/execution risks, but positioned to benefit from U.S.-China decoupling and Project Vault tailwinds.",
   "financials": {
@@ -19,7 +19,10 @@
     "cash_per_share": "$0.66",
     "book_value_per_share": "$1.19",
     "total_debt": "Minimal (6.40% D/E)",
-    "runway": "6-12 months without JV milestones"
+    "runway": "6-12 months without JV milestones",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$28.00",
@@ -46,10 +49,26 @@
     "assumptions": "Saudi JV closes with partial/delayed funding; Project Vault provides indirect support; Production begins 2028; Rare earth prices normalize ($30/kg); One additional equity raise ($100M at $10/share); Successful pilot plant operation."
   },
   "catalysts": [
-    {"date": "Q1-Q2 2026", "event": "$30M Strategic Program Execution — Development acceleration"},
-    {"date": "Q2 2026", "event": "Saudi Arabia JV Finalization — $1.5B funding commitment"},
-    {"date": "Q2-Q3 2026", "event": "S-K 1300 Technical Report — Resource standardization"},
-    {"date": "2027-2028", "event": "First Production — Revenue generation begins"}
+    {
+      "date": "Q1-Q2 2026",
+      "event": "$30M Strategic Program Execution — Development acceleration",
+      "iso_date": "2026-01"
+    },
+    {
+      "date": "Q2 2026",
+      "event": "Saudi Arabia JV Finalization — $1.5B funding commitment",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "Q2-Q3 2026",
+      "event": "S-K 1300 Technical Report — Resource standardization",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "2027-2028",
+      "event": "First Production — Revenue generation begins",
+      "iso_date": "2027"
+    }
   ],
   "key_risks": [
     "Critical funding risk with only $7.3M cash vs $800M-$1B capex requirement",
@@ -57,5 +76,8 @@
     "Heavy insider selling by European Lithium (parent company)",
     "Rare earth price volatility dominated by Chinese supply",
     "High 23.78% short float indicates market skepticism"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Rare Earths",
+  "price_date": "2026-04-21"
 }

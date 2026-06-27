@@ -4,9 +4,9 @@
   "sector": "Technology",
   "industry": "Software — Collaborative Design Platform",
   "exchange": "NYSE",
-  "price": 17.70,
+  "price": 17.7,
   "market_cap": "$9.33B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-05-01",
   "thesis": "Figma is the dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. The stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with $1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5% of float) adds squeeze potential. Key risks: AI disruption, path to GAAP profitability, gross margin compression from 91% to 82%.",
   "financials": {
@@ -21,7 +21,8 @@
     "fcf_margin": "23.32%",
     "cash": "$1.66B",
     "debt": "$58.5M",
-    "enterprise_value": "$7.64B"
+    "enterprise_value": "$7.64B",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$55–65",
@@ -48,10 +49,30 @@
     "assumptions": "Revenue grows 30-35% in FY2026 to ~$1.35-1.4B; FCF margin stabilizes at 20-25%; SBC moderates to 30-35% of revenue; company reaches EBITDA breakeven by 2027; stock trades at 8-10x EV/Revenue as profitability path becomes visible"
   },
   "catalysts": [
-    {"date": "2026-05-14", "event": "Q1 2026 Earnings — guided $315-317M vs $291.9M consensus", "impact": "HIGH"},
-    {"date": "2026-08", "event": "Q2 2026 Earnings — mid-year guidance check", "impact": "MEDIUM"},
-    {"date": "2026-H2", "event": "Figma Make / Weave general availability launch", "impact": "MEDIUM"},
-    {"date": "2026-2027", "event": "IPO lockup expiration waves complete", "impact": "LOW-MEDIUM"}
+    {
+      "date": "2026-05-14",
+      "event": "Q1 2026 Earnings — guided $315-317M vs $291.9M consensus",
+      "impact": "HIGH",
+      "iso_date": "2026-05-14"
+    },
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 Earnings — mid-year guidance check",
+      "impact": "MEDIUM",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-H2",
+      "event": "Figma Make / Weave general availability launch",
+      "impact": "MEDIUM",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "IPO lockup expiration waves complete",
+      "impact": "LOW-MEDIUM",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "AI disruption risk — AI-native design tools could commoditize Figma's core value proposition",
@@ -68,14 +89,17 @@
     "high": 60.0,
     "low": 30.0,
     "mean": 40.25,
-    "median": 38.50
+    "median": 38.5
   },
   "technical": {
     "rsi_14": 47.55,
     "rsi_date": "2026-04-30",
-    "fifty_two_week_low": 16.60,
+    "fifty_two_week_low": 16.6,
     "fifty_two_week_high": 142.92,
     "short_percent_float": 0.265,
     "short_ratio": 3.57
-  }
+  },
+  "theme": "Software",
+  "sub_theme": "UX",
+  "price_date": "2026-05-01"
 }

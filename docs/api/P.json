@@ -43,10 +43,26 @@
     "assumptions": "Revenue grows at 15% CAGR through FY2030; Gross margins stabilize at 69-71%; Operating margins reach 18% by FY2030; Subscription mix grows to 35% of revenue; FCF generation sustains $700M+ annually."
   },
   "catalysts": [
-    {"date": "2026-06", "event": "Q1 FY2027 Earnings — First post-rebrand guidance validation"},
-    {"date": "H1 2026", "event": "1touch Acquisition Close — Expands data intelligence TAM"},
-    {"date": "2026-09", "event": "Everpure Investor Day — Long-term strategic roadmap"},
-    {"date": "2026-11", "event": "Q3 FY2027 Earnings — Full-year guidance update"}
+    {
+      "date": "2026-06",
+      "event": "Q1 FY2027 Earnings — First post-rebrand guidance validation",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "H1 2026",
+      "event": "1touch Acquisition Close — Expands data intelligence TAM",
+      "iso_date": "2026-01"
+    },
+    {
+      "date": "2026-09",
+      "event": "Everpure Investor Day — Long-term strategic roadmap",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 FY2027 Earnings — Full-year guidance update",
+      "iso_date": "2026-11"
+    }
   ],
   "key_risks": [
     "Stock has rallied ~20% in two weeks post-rebrand; RSI near overbought at 70.9",
@@ -54,5 +70,8 @@
     "$2.78B convertible notes create potential future dilution if converted",
     "Intense competition from Dell EMC, NetApp, and hyperscaler cloud storage",
     "Enterprise storage is cyclical; recession would materially impact demand"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Memory & Storage",
+  "price_date": "2026-05-12"
 }

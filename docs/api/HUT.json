@@ -42,10 +42,26 @@
     "assumptions": "Beacon Point delivers first revenue in early 2027; Bitcoin trades $90–110K; mining cash flow stabilizes; debt service coverage remains above 1.2x; no major tenant defaults."
   },
   "catalysts": [
-    {"date": "2026-09-30", "event": "Q3 2026 earnings — potential first AI revenue recognition"},
-    {"date": "2026-11-15", "event": "Beacon Point construction milestone update"},
-    {"date": "2027-03-31", "event": "Beacon Point Phase 1 operational — first AI hosting revenue"},
-    {"date": "2027-06-30", "event": "Additional pipeline conversion announcements expected"}
+    {
+      "date": "2026-09-30",
+      "event": "Q3 2026 earnings — potential first AI revenue recognition",
+      "iso_date": "2026-09-30"
+    },
+    {
+      "date": "2026-11-15",
+      "event": "Beacon Point construction milestone update",
+      "iso_date": "2026-11-15"
+    },
+    {
+      "date": "2027-03-31",
+      "event": "Beacon Point Phase 1 operational — first AI hosting revenue",
+      "iso_date": "2027-03-31"
+    },
+    {
+      "date": "2027-06-30",
+      "event": "Additional pipeline conversion announcements expected",
+      "iso_date": "2027-06-30"
+    }
   ],
   "key_risks": [
     "Execution risk on first-ever AI data center build at scale",
@@ -53,5 +69,8 @@
     "Bitcoin price volatility impacts quarterly earnings via mark-to-market accounting",
     "High leverage ($7B+ project debt) with delayed revenue ramp",
     "AI demand cyclicality — infrastructure boom may cool by 2027–2028"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "AI / HPC Operators",
+  "price_date": "2026-06-16"
 }

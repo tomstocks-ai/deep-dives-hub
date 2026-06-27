@@ -42,15 +42,34 @@
     "assumptions": "Gold averages $4,500–$5,000/oz in 2026–2027. Production meets 3.3–3.5M oz guidance. AISC stays within $1,400–$1,550/oz range. Dividend grows 8–12% annually."
   },
   "catalysts": [
-    {"date": "2026-07-29", "event": "Q2 2026 Earnings — production and cost update"},
-    {"date": "2026-10-29", "event": "Q3 2026 Earnings"},
-    {"date": "2026-12", "event": "2027 Production and Cost Guidance Update"},
-    {"date": "TBD", "event": "Gold price movement / Federal Reserve policy shifts"}
+    {
+      "date": "2026-07-29",
+      "event": "Q2 2026 Earnings — production and cost update",
+      "iso_date": "2026-07-29"
+    },
+    {
+      "date": "2026-10-29",
+      "event": "Q3 2026 Earnings",
+      "iso_date": "2026-10-29"
+    },
+    {
+      "date": "2026-12",
+      "event": "2027 Production and Cost Guidance Update",
+      "iso_date": "2026-12"
+    },
+    {
+      "date": "TBD",
+      "event": "Gold price movement / Federal Reserve policy shifts",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Gold price volatility — pure-play leverage cuts both ways",
     "Cost inflation in energy, labor, and consumables",
     "FX exposure (EUR, AUD, MXN) vs. USD",
     "Permitting or operational delays at core assets"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "price_date": "2026-06-07"
 }

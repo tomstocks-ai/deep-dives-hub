@@ -73,7 +73,7 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 
 Dominant merchant supplier of custom AI ASICs and networking silicon to hyperscalers, with a rapidly growing optical interconnect business and a stabilizing VMware software segment. Q2 FY2026 delivered record revenue, operating profit, and free cash flow. AI semiconductor revenue is accelerating, with guidance for ~$16B in Q3 and a target of >$100B by FY2027. The stock dropped >12% post-earnings despite strong results, indicating elevated near-term expectations. 48 analysts rate it Strong Buy with an average price target of ~$522.
 
-**Bull:** $580–620 · **Base:** $480–520 · **Bear:** $340–380
+**Bull:** \$580–620 · **Base:** \$480–520 · **Bear:** \$340–380
 
 [:material-arrow-right: Full Deep Dive](AVGO.md)
 
@@ -83,7 +83,7 @@ Dominant merchant supplier of custom AI ASICs and networking silicon to hypersca
 
 The #2 global telecom equipment vendor with a durable patent licensing business and improving optical/network infrastructure exposure via the 2025 Infinera acquisition. Q1 2026 comparable net sales rose 4% constant currency to €4.50B (~$5.27B) with 45.5% gross margin and 6.2% operating margin. Mobile Networks margin pressure and 5G capex maturation create near-term headwinds, but the dividend yield (~3.5%), €3.8B net cash, and AI-driven fiber demand provide a floor. HOLD pending a clearer mobile networks recovery or a pullback to more attractive entry levels.
 
-**Bull:** $18–$20 · **Base:** $14–$16 · **Bear:** $9–$11
+**Bull:** \$18–\$20 · **Base:** \$14–\$16 · **Bear:** \$9–\$11
 
 [:material-arrow-right: Full Deep Dive](NOK.md)
 
@@ -196,9 +196,9 @@ South Korean semiconductor memory manufacturer and one of the "Big Three" global
 
 **MU — Micron Technology, Inc. · <span class="rating-hold">HOLD</span>**
 
-One of the "Big Three" global memory manufacturers and the only U.S.-based memory producer with leading-edge capabilities. Q2 FY2026 revenue hit a record $23.86B (+84% YoY) with cloud memory revenue surging >160% and gross margins expanding to ~81%. HBM3E products are qualified by NVIDIA and other hyperscalers for AI accelerators. The CHIPS Act supports $15B+ in domestic fab investments. However, the stock has risen ~750% from 52-week lows and trades at ~49x TTM P/E, leaving little room for error in a notoriously cyclical industry.
+One of the "Big Three" global memory manufacturers and the only U.S.-based memory producer with leading-edge capabilities. Q2 FY2026 revenue hit a record \$23.86B (+84% YoY) with cloud memory revenue surging >160% and gross margins expanding to ~81%. HBM3E products are qualified by NVIDIA and other hyperscalers for AI accelerators. The CHIPS Act supports \$15B+ in domestic fab investments. However, the stock has risen ~750% from 52-week lows and trades at ~49x TTM P/E, leaving little room for error in a notoriously cyclical industry.
 
-**Bull:** $1,400–1,600 · **Base:** $1,100–1,300 · **Bear:** $600–800
+**Bull:** \$1,400–1,600 · **Base:** \$1,100–1,300 · **Bear:** \$600–800
 
 [:material-arrow-right: Full Deep Dive](MU.md)
 

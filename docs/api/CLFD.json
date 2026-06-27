@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 39.96,
   "market_cap": "$650M",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
   "thesis": "Clearfield is a pure-play fiber connectivity provider benefiting from the $42.5B BEAD broadband infrastructure program. Strong balance sheet with $157M cash, minimal debt, and a new NOVA platform targeting data centers. 4-analyst Strong Buy consensus with $44-50 price targets. However, 64-83x forward P/E and thin margins make this a speculative position on BEAD timing and NOVA adoption.",
   "financials": {
@@ -42,9 +42,21 @@
     "assumptions": "Revenue hits FY2026 guidance midpoint ($165M), margins stable at 8-10%, steady broadband growth with BEAD contributing as scheduled. P/E compresses to 50-60x as growth normalizes."
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q2 FY2026 Earnings — revenue and guidance update"},
-    {"date": "2026-06-15", "event": "NOVA platform customer wins / data center announcements"},
-    {"date": "2026-07-01", "event": "BEAD state funding awards continue"}
+    {
+      "date": "2026-08-01",
+      "event": "Q2 FY2026 Earnings — revenue and guidance update",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-06-15",
+      "event": "NOVA platform customer wins / data center announcements",
+      "iso_date": "2026-06-15"
+    },
+    {
+      "date": "2026-07-01",
+      "event": "BEAD state funding awards continue",
+      "iso_date": "2026-07-01"
+    }
   ],
   "key_risks": [
     "Customer concentration among large broadband providers",
@@ -52,5 +64,8 @@
     "High valuation (64-83x forward P/E) leaves little room for error",
     "Thin margins mean small revenue misses have outsized EPS impacts",
     "Competition from larger, better-capitalized players"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "price_date": "2026-06-15"
 }

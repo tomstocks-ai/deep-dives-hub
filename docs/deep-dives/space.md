@@ -64,9 +64,9 @@ Leading Earth observation company with ~200 satellites providing daily global im
 
 **NN — NextNav · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
-Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM remains in interagency review at White House OMB, no public release yet. Q1 2026 revenue $995K (up from $887K in Q3 2025), net loss narrowed to $10.6M, EPS -$0.078 (improved from -$0.45 in Q1 2025). Cash $143M (down from $167.6M). Oppenheimer upgrade values spectrum at ~$0.80/MHz-pop. 2 analysts, Strong Buy consensus, avg price target $39.50. Revenue forecast FY2026 $3.79M (down slightly from prior $3.90M). Stock down ~20% from April highs ($20.82) to $16.67.
+Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 patents on 5G PRS extraction. 900 MHz spectrum covers 90%+ of US population. Pre-revenue company burning cash — entirely dependent on FCC regulatory approval to monetize spectrum. NPRM remains in interagency review at White House OMB, no public release yet. Q1 2026 revenue \$995K (up from \$887K in Q3 2025), net loss narrowed to \$10.6M, EPS -$0.078 (improved from -$0.45 in Q1 2025). Cash \$143M (down from \$167.6M). Oppenheimer upgrade values spectrum at ~$0.80/MHz-pop. 2 analysts, Strong Buy consensus, avg price target \$39.50. Revenue forecast FY2026 \$3.79M (down slightly from prior \$3.90M). Stock down ~20% from April highs ($20.82) to \$16.67.
 
-**Bull:** $28–32 · **Base:** $22–24 · **Bear:** $8–12
+**Bull:** \$28–32 · **Base:** \$22–24 · **Bear:** \$8–12
 
 [:material-arrow-right: Full Deep Dive](NN.md)
 

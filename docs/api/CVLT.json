@@ -44,9 +44,21 @@
     "assumptions": "FY2027 guidance is met: revenue $1.30–$1.31B, EBIT margin ~20.5%. Stock trades at ~5x EV/Revenue, tracking fundamentals with limited alpha. SaaS mix continues to improve but no dramatic acceleration."
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q1 FY2027 Earnings — first read on FY2027 guidance execution and margin trajectory"},
-    {"date": "2026-11-01", "event": "Q2 FY2027 Earnings — SaaS revenue growth and ARR momentum update"},
-    {"date": "2027-02-01", "event": "Q3 FY2027 Earnings — midpoint check on full-year margin expansion target"}
+    {
+      "date": "2026-08-01",
+      "event": "Q1 FY2027 Earnings — first read on FY2027 guidance execution and margin trajectory",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-11-01",
+      "event": "Q2 FY2027 Earnings — SaaS revenue growth and ARR momentum update",
+      "iso_date": "2026-11-01"
+    },
+    {
+      "date": "2027-02-01",
+      "event": "Q3 FY2027 Earnings — midpoint check on full-year margin expansion target",
+      "iso_date": "2027-02-01"
+    }
   ],
   "key_risks": [
     "Execution risk on FY2027 EBIT margin expansion to 20.5%",
@@ -54,5 +66,6 @@
     "Macro IT spending slowdown impacting enterprise software sales cycles",
     "Valuation risk after 81% rally from 52-week low with RSI at 76.5",
     "Transition risk if mix shifts back toward lower-margin perpetual licenses"
-  ]
+  ],
+  "price_date": "2026-06-20"
 }

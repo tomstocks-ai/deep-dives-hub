@@ -4,9 +4,9 @@
   "sector": "Space",
   "industry": "Earth Observation / Satellite Services",
   "exchange": "NASDAQ",
-  "price": 3.00,
+  "price": 3.0,
   "market_cap": "$444M",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-02",
   "thesis": "Vertically integrated Earth observation company designing, manufacturing, launching, and operating its own satellites. 20+ satellites in orbit with AI-first constellation (Merlin) launching October 2026. FY2025 revenue $17.7M (+38% YoY) with exceptional 72% gross margins. $130M cash runway post-January 2026 raise. Unique sovereign partnership model selling satellites + technology transfer to nations (Portugal, Malaysia, Albania, Australia). Merlin constellation is make-or-break catalyst.",
   "financials": {
@@ -18,7 +18,10 @@
     "net_loss": "-$4.8M (improved from -$116.3M)",
     "adjusted_ebitda_loss": "-$17.4M",
     "cash": "~$130M (post-Jan 2026 raise)",
-    "runway": "~4-5 years"
+    "runway": "~4-5 years",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$8–10",
@@ -45,10 +48,26 @@
     "assumptions": "Merlin launches successfully late 2026; 2-3 additional sovereign deals signed; Revenue grows to $35-40M by 2027; EBITDA losses narrow to $5-10M; Operational break-even by 2028."
   },
   "catalysts": [
-    {"date": "Q2 2026", "event": "CEiiA Satellite Delivery — $18M Portugal contract validation"},
-    {"date": "2026-10", "event": "Merlin Launch — Make-or-break moment for AI-first constellation"},
-    {"date": "May 2026", "event": "Q1 2026 Earnings — Revenue trajectory update"},
-    {"date": "Ongoing", "event": "New Sovereign Partnerships — Malaysia, Albania expansions"}
+    {
+      "date": "Q2 2026",
+      "event": "CEiiA Satellite Delivery — $18M Portugal contract validation",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "2026-10",
+      "event": "Merlin Launch — Make-or-break moment for AI-first constellation",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "May 2026",
+      "event": "Q1 2026 Earnings — Revenue trajectory update",
+      "iso_date": "2026-05"
+    },
+    {
+      "date": "Ongoing",
+      "event": "New Sovereign Partnerships — Malaysia, Albania expansions",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Customer concentration — top 2 customers ~60% of backlog",
@@ -56,5 +75,8 @@
     "Small-cap with limited liquidity and ~25% dilution potential",
     "Competition from Planet Labs' 200+ satellite constellation",
     "Pre-revenue scale with high execution risk"
-  ]
+  ],
+  "theme": "Space Economy",
+  "sub_theme": "Geospatial Intelligence",
+  "price_date": "2026-04-02"
 }

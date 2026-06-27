@@ -53,19 +53,23 @@
   "catalysts": [
     {
       "date": "Early Aug 2026",
-      "event": "Q2 2026 earnings — critical for B2 growth sustainability confirmation"
+      "event": "Q2 2026 earnings — critical for B2 growth sustainability confirmation",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026",
-      "event": "AI/ML workload adoption metrics and customer wins"
+      "event": "AI/ML workload adoption metrics and customer wins",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "Potential partnership announcements (CDN, edge compute)"
+      "event": "Potential partnership announcements (CDN, edge compute)",
+      "iso_date": "2026"
     },
     {
       "date": "H2 2026",
-      "event": "Path to positive FCF / profitability milestone"
+      "event": "Path to positive FCF / profitability milestone",
+      "iso_date": "2026-07"
     }
   ],
   "key_risks": [
@@ -75,5 +79,6 @@
     "Cash burn history; need sustained profitability",
     "Dilution risk if capital raise needed",
     "Customer concentration / churn in SMB segment"
-  ]
+  ],
+  "price_date": "2026-06-21"
 }

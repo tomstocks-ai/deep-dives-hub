@@ -42,15 +42,34 @@
     "assumptions": "2–3 Fed rate cuts in 2026; steady central bank demand; moderate geopolitical tension; GLD returns 10–15% from current levels."
   },
   "catalysts": [
-    {"date": "2026-06-18", "event": "FOMC meeting — rate decision and dot plot"},
-    {"date": "2026-07-04", "event": "Monthly U.S. nonfarm payrolls"},
-    {"date": "2026-07-15", "event": "Q2 Treasury refunding announcement"},
-    {"date": "2026-10-22", "event": "BRICS summit — watch for reserve currency developments"}
+    {
+      "date": "2026-06-18",
+      "event": "FOMC meeting — rate decision and dot plot",
+      "iso_date": "2026-06-18"
+    },
+    {
+      "date": "2026-07-04",
+      "event": "Monthly U.S. nonfarm payrolls",
+      "iso_date": "2026-07-04"
+    },
+    {
+      "date": "2026-07-15",
+      "event": "Q2 Treasury refunding announcement",
+      "iso_date": "2026-07-15"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "BRICS summit — watch for reserve currency developments",
+      "iso_date": "2026-10-22"
+    }
   ],
   "key_risks": [
     "Strong dollar / DXY >110",
     "Fed hawkish pivot on inflation",
     "Bitcoin competition for store-of-value demand",
     "Profit-taking after 80% rally from 2022 lows"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "price_date": "2026-06-07"
 }

@@ -157,5 +157,5 @@ China hard landing. Global recession. Copper falls to \$3.50. COPX drops to \$60
 3. [Mining.com — AI Demand Pushing Copper Price](https://www.mining.com/ai-demand-seen-pushing-copper-price-longer-term/)
 4. [Mining.com — Copper's Tight Supply and Tariff Risks](https://www.mining.com/coppers-tight-supply-and-tariff-risks-set-for-a-volatile-2026/)
 5. [Mining.com — Goldman Sachs Raises Copper Forecast](https://www.mining.com/goldman-sachs-raises-q2-q3-copper-forecast/)
-6. [Carbon Credits — Copper Prices Surge Above $13,000](https://carboncredits.com/copper-prices-surge-above-13000-best-copper-stocks-to-watch-in-2026/)
+6. [Carbon Credits — Copper Prices Surge Above \$13,000](https://carboncredits.com/copper-prices-surge-above-13000-best-copper-stocks-to-watch-in-2026/)
 7. [Yahoo Finance — COPX](https://finance.yahoo.com/quote/COPX)

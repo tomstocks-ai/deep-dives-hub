@@ -104,9 +104,9 @@ Pure-play U.S. solar domestic manufacturer building fully integrated silicon sup
 
 **CEG — Constellation Energy Corporation · <span class="rating-buy">BUY</span>**
 
-Largest carbon-free energy producer in the U.S., operating the nation's leading nuclear fleet (21 reactors, ~22 GW). Primary beneficiary of AI data center power boom with multi-gigawatt PPAs signed with Microsoft, Google, and Amazon. The transformational $16.4B Calpine acquisition (closed early 2026) expands fleet to ~55 GW and is expected to be 20% accretive to 2026 non-GAAP EPS. FY2025 revenue $25.53B (+8.3% YoY), adj. EBITDA $5.7B (+14%). Stock trades ~30% below 52-week high of $412.70.
+Largest carbon-free energy producer in the U.S., operating the nation's leading nuclear fleet (21 reactors, ~22 GW). Primary beneficiary of AI data center power boom with multi-gigawatt PPAs signed with Microsoft, Google, and Amazon. The transformational \$16.4B Calpine acquisition (closed early 2026) expands fleet to ~55 GW and is expected to be 20% accretive to 2026 non-GAAP EPS. FY2025 revenue \$25.53B (+8.3% YoY), adj. EBITDA \$5.7B (+14%). Stock trades ~30% below 52-week high of \$412.70.
 
-**Bull:** $420–480 · **Base:** $330–380 · **Bear:** $220–260
+**Bull:** \$420–480 · **Base:** \$330–380 · **Bear:** \$220–260
 
 [:material-arrow-right: Full Deep Dive](CEG.md)
 

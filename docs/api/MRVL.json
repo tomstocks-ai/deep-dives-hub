@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 310.58,
   "market_cap": "$270B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-19",
   "thesis": "Marvell is a mission-critical supplier to hyperscaler AI buildouts, with 76% of revenue from data center products including custom AI silicon (ASICs) and networking solutions. 27% revenue growth and 35% non-GAAP operating margins reflect strong execution, but the stock has run ~5x from 52-week lows and trades at ~97x P/E, creating significant valuation risk. Speculative Buy on pullback.",
   "financials": {
@@ -42,14 +42,27 @@
     "assumptions": "Steady hyperscaler AI spend; custom silicon ramps at 2–3 customers; data center mix ~80%; gross margins stable at 58–62%; operating margins 35–38%."
   },
   "catalysts": [
-    {"date": "2026-08-27", "event": "Q2 FY2027 earnings — EPS est $0.87; FY2027 guidance critical"},
-    {"date": "2026-09", "event": "Potential custom silicon design win announcements"},
-    {"date": "2026-10", "event": "Analyst day / investor event — margin and TAM updates"}
+    {
+      "date": "2026-08-27",
+      "event": "Q2 FY2027 earnings — EPS est $0.87; FY2027 guidance critical",
+      "iso_date": "2026-08-27"
+    },
+    {
+      "date": "2026-09",
+      "event": "Potential custom silicon design win announcements",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-10",
+      "event": "Analyst day / investor event — margin and TAM updates",
+      "iso_date": "2026-10"
+    }
   ],
   "key_risks": [
     "Valuation: ~97x P/E and ~28x sales price in years of flawless execution",
     "Customer concentration: AWS, Google, Microsoft represent large data center revenue share",
     "Competition from Broadcom (AVGO) with deeper resources and larger installed base",
     "AI capex cycle sensitivity"
-  ]
+  ],
+  "price_date": "2026-06-19"
 }

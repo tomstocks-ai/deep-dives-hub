@@ -8,7 +8,7 @@
   "exchange": "NASDAQ",
   "price": 44.39,
   "market_cap": "$19.5B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-25",
   "thesis": "Pan American Silver is the world's largest primary silver producer, offering unmatched leverage to silver price moves. The Juanicipio JV has transformed the cost curve, lowering AISC to $14.50–$16/oz and driving record Q4 2025 results. Silver faces a structural supply deficit driven by solar, EV, and AI demand, while investment demand provides a monetary hedge kicker. Escobal restart and further Juanicipio ramp are key upside catalysts. Geopolitical and operational risks warrant a SPECULATIVE BUY rating.",
   "financials": {
@@ -54,23 +54,28 @@
   "catalysts": [
     {
       "date": "2026-07",
-      "event": "Q2 2026 production report — watch Juanicipio volumes and AISC trends"
+      "event": "Q2 2026 production report — watch Juanicipio volumes and AISC trends",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026-08",
-      "event": "Escobal legal/permit updates — any positive ruling is transformative"
+      "event": "Escobal legal/permit updates — any positive ruling is transformative",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026-09",
-      "event": "Silver Institute mid-year supply/demand update"
+      "event": "Silver Institute mid-year supply/demand update",
+      "iso_date": "2026-09"
     },
     {
       "date": "2026-10",
-      "event": "Q3 2026 earnings — guidance for 2026 silver production and cost outlook"
+      "event": "Q3 2026 earnings — guidance for 2026 silver production and cost outlook",
+      "iso_date": "2026-10"
     },
     {
       "date": "Ongoing",
-      "event": "Fed policy meetings — rate-cut trajectory affects precious metals sentiment"
+      "event": "Fed policy meetings — rate-cut trajectory affects precious metals sentiment",
+      "iso_date": null
     }
   ],
   "key_risks": [
@@ -80,5 +85,6 @@
     "Cost inflation — labor, energy, and consumable costs rising across the mining sector",
     "Environmental incidents — tailings or water disputes can halt operations",
     "FX risk — stronger local currencies vs. USD raise operating costs"
-  ]
+  ],
+  "price_date": "2026-06-25"
 }

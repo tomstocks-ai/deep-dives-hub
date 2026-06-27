@@ -8,7 +8,7 @@
   "exchange": "NASDAQ",
   "price": 16.67,
   "market_cap": "$1.2B",
-  "rating": "SPECULATIVE HOLD",
+  "rating": "HOLD / SPEC.",
   "last_updated": "2026-06-26",
   "thesis": "Developing terrestrial Positioning, Navigation, and Timing (PNT) technology as a GPS backup — a genuine national security imperative. Pre-revenue company with 900 MHz spectrum license covering 90%+ of U.S. population. Binary outcome bet entirely dependent on FCC approval to monetize spectrum. Pinnacle service operational in 4,400 cities but tiny revenue. Q1 2026 revenue $995K (up from $887K in Q3 2025), net loss narrowed to $10.6M, EPS -$0.078 (improved from -$0.45 in Q1 2025). Cash $143M (down from $167.6M). Critical catalyst: FCC Notice of Proposed Rulemaking (NPRM) remains in interagency review, no public release yet. Oppenheimer upgrade values spectrum at ~$0.80/MHz-pop. 2 analysts, Strong Buy consensus, avg price target $39.50.",
   "financials": {
@@ -49,10 +49,26 @@
     "assumptions": "NPRM released with moderate pathway; 30-90 day comment period; Final approval 6-12 months after NPRM; Commercial deployment 2027; Revenue begins flowing 2027-2028."
   },
   "catalysts": [
-    {"date": "Q3 2026?", "event": "FCC NPRM Release — Binary catalyst (+20-40% or -40-60%)"},
-    {"date": "2026", "event": "Public Comment Period — Industry feedback on NPRM"},
-    {"date": "2026-2027", "event": "Report and Order — Final FCC approval"},
-    {"date": "Ongoing", "event": "Government Contract Awards — Validation and revenue"}
+    {
+      "date": "Q3 2026?",
+      "event": "FCC NPRM Release — Binary catalyst (+20-40% or -40-60%)",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026",
+      "event": "Public Comment Period — Industry feedback on NPRM",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Report and Order — Final FCC approval",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Government Contract Awards — Validation and revenue",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Regulatory binary outcome — entirely dependent on FCC approval",
@@ -60,5 +76,6 @@
     "Cash burn with 12-18 month runway; may need more capital",
     "High volatility and speculative sentiment risk",
     "Oppenheimer upgrade and analyst targets may not materialize"
-  ]
+  ],
+  "price_date": "2026-06-26"
 }

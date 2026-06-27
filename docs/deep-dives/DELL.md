@@ -44,7 +44,7 @@ hide:
 **Report Date:** 2026-06-25
 **Market Cap:** ~$300B (approximate)
 **Exchange:** NYSE
-**52-Week Range:** $110.22 – $469.47
+**52-Week Range:** \$110.22 – \$469.47
 **P/E Ratio:** ~28x (TTM, elevated by AI server mix)
 **Beta:** ~1.3
 
@@ -79,7 +79,7 @@ Dell Technologies Inc. (NYSE: DELL) is a leading global technology infrastructur
 
 **Key Executives:**
 
-- **Michael Dell:** Chairman and CEO (founder, since 1984; returned as CEO in 2007). One of the most respected leaders in technology, known for operational excellence, capital allocation discipline, and strategic vision. Dell orchestrated the $67B EMC acquisition (2016) and the VMware spin-off (2021), demonstrating sophisticated corporate strategy.
+- **Michael Dell:** Chairman and CEO (founder, since 1984; returned as CEO in 2007). One of the most respected leaders in technology, known for operational excellence, capital allocation discipline, and strategic vision. Dell orchestrated the \$67B EMC acquisition (2016) and the VMware spin-off (2021), demonstrating sophisticated corporate strategy.
 - **Yvonne McGill:** CFO (since 2024). Formerly Dell's CAO and a 20+ year veteran of the company. Brings deep institutional knowledge and financial discipline.
 - **Jeff Clarke:** Vice Chairman and COO. Oversees product strategy and operations; instrumental in Dell's AI server roadmap and NVIDIA partnership.
 
@@ -93,21 +93,21 @@ Michael Dell's ownership of ~58% of voting shares through a special class ensure
 
 | Metric | FY2025 | Q1 FY2026 | Trend |
 |--------|--------|-----------|-------|
-| **Revenue** | ~$88.4B | $23.4B (quarterly) | Fastest growth since 2018 IPO return |
+| **Revenue** | ~$88.4B | \$23.4B (quarterly) | Fastest growth since 2018 IPO return |
 | **Revenue Growth** | -3% YoY | +10% YoY | Inflecting positively |
-| **ISG Revenue** | ~$43B | $12.3B (+23% YoY) | AI server demand driving acceleration |
-| **AI Server Revenue** | ~$2.9B | $16.1B recognized (LTM) | +757% YoY |
+| **ISG Revenue** | ~$43B | \$12.3B (+23% YoY) | AI server demand driving acceleration |
+| **AI Server Revenue** | ~$2.9B | \$16.1B recognized (LTM) | +757% YoY |
 | **Gross Margin** | ~22% | ~22.5% | Stable; AI servers lower margin but volume accretive |
-| **Operating Income** | $5.4B | $1.7B (+10% YoY) | AI server op income +213.8% YoY |
-| **Diluted EPS** | $5.87 | $1.55 (+17% YoY) | Beat expectations |
-| **AI Orders Booked** | N/A | $24.4B | Massive backlog providing multi-year visibility |
+| **Operating Income** | \$5.4B | \$1.7B (+10% YoY) | AI server op income +213.8% YoY |
+| **Diluted EPS** | \$5.87 | \$1.55 (+17% YoY) | Beat expectations |
+| **AI Orders Booked** | N/A | \$24.4B | Massive backlog providing multi-year visibility |
 
 **Key Observations:**
-- Q1 FY2026 revenue of $23.4B represented the fastest growth since Dell's return to public markets in 2018, driven overwhelmingly by AI server demand.
-- AI server revenue of $16.1B (recognized on a trailing basis) grew an extraordinary +757% YoY, reflecting the global AI infrastructure buildout.
-- Operating income grew +10% YoY to $1.7B, with AI server operating income surging +213.8% YoY — demonstrating that AI servers are not just revenue but increasingly profitable.
+- Q1 FY2026 revenue of \$23.4B represented the fastest growth since Dell's return to public markets in 2018, driven overwhelmingly by AI server demand.
+- AI server revenue of \$16.1B (recognized on a trailing basis) grew an extraordinary +757% YoY, reflecting the global AI infrastructure buildout.
+- Operating income grew +10% YoY to \$1.7B, with AI server operating income surging +213.8% YoY — demonstrating that AI servers are not just revenue but increasingly profitable.
 - Dell raised its annual revenue and profit forecasts following the Q1 beat, a strong signal of management confidence in the AI demand cycle.
-- The $24.4B in AI orders booked provides exceptional visibility into FY2026–FY2027 revenue.
+- The \$24.4B in AI orders booked provides exceptional visibility into FY2026–FY2027 revenue.
 
 ### Balance Sheet
 
@@ -117,7 +117,7 @@ Michael Dell's ownership of ~58% of voting shares through a special class ensure
 | **Total Debt** | ~$20B | Elevated from the EMC acquisition; manageable given cash flow |
 | **Net Debt** | ~$12B | Reasonable for a capital-intensive business |
 | **Enterprise Value** | ~$312B | Market cap + net debt |
-| **Shares Outstanding** | ~1.4B | ~$300B market cap at $434/share |
+| **Shares Outstanding** | ~1.4B | ~$300B market cap at \$434/share |
 
 Dell's balance sheet is sturdy but leveraged. The debt load is a legacy of the 2016 EMC acquisition, but the company generates sufficient cash flow to service debt while funding growth. The VMware spin-off in 2021 unlocked significant value and reduced complexity.
 
@@ -155,9 +155,9 @@ The RSI of 92.11 indicates the stock is extremely overbought in the near term, s
 
 | Scenario | Price Target | Key Assumptions |
 |----------|-------------|-----------------|
-| **Bull Case** | $500–520 | AI server demand sustains 50%+ growth through FY2027; Dell captures 20%+ share of AI server TAM; ISG margins expand to 12%+; CSG stabilizes; P/E re-rates to 25x on $20+ EPS |
-| **Base Case** | $420–460 | AI server growth moderates to 30–40% YoY; Dell maintains top-3 server position; ISG margins hold at 10%; CSG flat to slightly down; P/E compresses to 20–22x on $20–21 EPS |
-| **Bear Case** | $280–320 | AI capex cycle peaks and demand collapses; hyperscalers shift to custom silicon (Google TPU, Amazon Trainium); server pricing erodes; ISG margins compress to 8%; P/E falls to 14–16x on $18–20 EPS |
+| **Bull Case** | \$500–520 | AI server demand sustains 50%+ growth through FY2027; Dell captures 20%+ share of AI server TAM; ISG margins expand to 12%+; CSG stabilizes; P/E re-rates to 25x on \$20+ EPS |
+| **Base Case** | \$420–460 | AI server growth moderates to 30–40% YoY; Dell maintains top-3 server position; ISG margins hold at 10%; CSG flat to slightly down; P/E compresses to 20–22x on \$20–21 EPS |
+| **Bear Case** | \$280–320 | AI capex cycle peaks and demand collapses; hyperscalers shift to custom silicon (Google TPU, Amazon Trainium); server pricing erodes; ISG margins compress to 8%; P/E falls to 14–16x on \$18–20 EPS |
 
 **Sensitivity:** A 10% miss on AI server revenue guidance would likely trigger a 15–20% drawdown given the stock's momentum and embedded expectations. Conversely, a major AI order win (e.g., a top-5 hyperscaler exclusivity) could drive a 10–15% rally.
 
@@ -165,7 +165,7 @@ The RSI of 92.11 indicates the stock is extremely overbought in the near term, s
 
 ## 4. GROWTH CATALYSTS
 
-1. **AI Server Boom:** Dell is one of the largest beneficiaries of the global AI infrastructure buildout. The company's PowerEdge XE9680 and other NVIDIA GPU-powered servers are in high demand from hyperscalers, enterprises, and sovereign AI initiatives. The $24.4B AI order backlog provides multi-year revenue visibility.
+1. **AI Server Boom:** Dell is one of the largest beneficiaries of the global AI infrastructure buildout. The company's PowerEdge XE9680 and other NVIDIA GPU-powered servers are in high demand from hyperscalers, enterprises, and sovereign AI initiatives. The \$24.4B AI order backlog provides multi-year revenue visibility.
 
 2. **Raised Guidance:** Dell's management raised full-year revenue and profit forecasts following Q1 FY2026 results, a rare and bullish signal for a company of Dell's size. This suggests the AI demand cycle is not just a one-quarter phenomenon but a structural shift.
 
@@ -190,7 +190,7 @@ The RSI of 92.11 indicates the stock is extremely overbought in the near term, s
 
 ### Financial Risks
 
-- **Valuation Risk:** The stock has risen nearly 4x from its 52-week low and trades at a significant premium to historical hardware multiples. The RSI of 92.11 signals extreme overbought conditions. A correction to $350–380 would not be surprising.
+- **Valuation Risk:** The stock has risen nearly 4x from its 52-week low and trades at a significant premium to historical hardware multiples. The RSI of 92.11 signals extreme overbought conditions. A correction to \$350–380 would not be surprising.
 - **Debt Load:** Dell carries ~$20B in debt from the EMC acquisition. While serviceable, this limits financial flexibility and increases vulnerability in a downturn.
 - **PC Market Weakness:** CSG (PCs) remains ~40% of revenue. The PC market is mature and cyclical. If enterprise PC refreshes slow or consumer demand weakens, CSG could become a drag on overall growth.
 - **Guidance Dependency:** Dell raised guidance, which sets a high bar. Any future guidance cut would likely trigger severe multiple compression.
@@ -210,7 +210,7 @@ The RSI of 92.11 indicates the stock is extremely overbought in the near term, s
 
 Dell Technologies represents a high-conviction BUY based on its dominant position in the AI server infrastructure market, exceptional order backlog, raised guidance, and clear positive risk/reward at current levels. The company is experiencing its fastest revenue growth since returning to public markets in 2018, driven by a structural shift in data center spending toward AI-optimized infrastructure.
 
-While the stock is technically overbought (RSI 92.11) and has risen nearly 4x from lows, the fundamental backdrop supports continued outperformance. The $24.4B AI order backlog provides multi-year visibility, and operating income growth (+10% YoY, with AI server op income +213.8%) demonstrates that this is not just a revenue story but a profitability story.
+While the stock is technically overbought (RSI 92.11) and has risen nearly 4x from lows, the fundamental backdrop supports continued outperformance. The \$24.4B AI order backlog provides multi-year visibility, and operating income growth (+10% YoY, with AI server op income +213.8%) demonstrates that this is not just a revenue story but a profitability story.
 
 | Factor | Assessment | Weight |
 |--------|------------|--------|
@@ -233,14 +233,14 @@ While the stock is technically overbought (RSI 92.11) and has risen nearly 4x fr
 ### Entry Strategy
 
 - **Current levels ($434):** Acceptable for initiation given fundamentals, but scale in gradually rather than chasing.
-- **Better entry:** A pullback to $380–400 would improve risk/reward materially and reset technical conditions.
-- **Aggressive entry:** $350–370 on a broader market correction would be an exceptional buying opportunity.
+- **Better entry:** A pullback to \$380–400 would improve risk/reward materially and reset technical conditions.
+- **Aggressive entry:** \$350–370 on a broader market correction would be an exceptional buying opportunity.
 
-**Stop Loss:** $320 (below bear-case support, ~26% downside from current). Reflects the risk of an AI capex cycle peak or guidance disappointment.
+**Stop Loss:** \$320 (below bear-case support, ~26% downside from current). Reflects the risk of an AI capex cycle peak or guidance disappointment.
 
 **Key Levels:**
-- Support: $400 (psychological), $380 (base-case floor), $320 (stop loss)
-- Resistance: $450 (near-term), $470 (52-week high), $500 (bull-case target)
+- Support: \$400 (psychological), \$380 (base-case floor), \$320 (stop loss)
+- Resistance: \$450 (near-term), \$470 (52-week high), \$500 (bull-case target)
 
 ### Catalyst Calendar
 
@@ -258,14 +258,14 @@ While the stock is technically overbought (RSI 92.11) and has risen nearly 4x fr
 
 **What Dell actually does:** Dell makes the computers and data center equipment that power businesses and governments worldwide. Its two main businesses are: (1) selling servers, storage, and networking gear to data centers (the "Infrastructure Solutions Group"), and (2) selling PCs, laptops, and monitors to consumers and enterprises (the "Client Solutions Group"). In 2026, Dell's data center business is booming because every company and country is buying AI-capable servers to run artificial intelligence workloads.
 
-**Why the stock has surged:** Dell's stock has risen from ~$110 to ~$434 because the company is selling AI servers at an unprecedented rate. AI server revenue grew 757% year-over-year, and Dell has $24.4 billion in AI orders booked. The market is pricing in a multi-year AI infrastructure buildout where Dell is a top-three global vendor.
+**Why the stock has surged:** Dell's stock has risen from ~$110 to ~$434 because the company is selling AI servers at an unprecedented rate. AI server revenue grew 757% year-over-year, and Dell has \$24.4 billion in AI orders booked. The market is pricing in a multi-year AI infrastructure buildout where Dell is a top-three global vendor.
 
 **Key terms explained:**
 - **AI Server:** A specialized computer designed to run AI workloads (like training large language models). These servers contain powerful NVIDIA GPUs and are far more expensive than traditional servers.
 - **ISG (Infrastructure Solutions Group):** Dell's business unit that sells servers, storage, and networking to data centers. This is the growth engine in 2026.
 - **CSG (Client Solutions Group):** Dell's PC and laptop business. This is mature and cyclical but still generates significant cash flow.
 - **Hyperscaler:** A giant tech company (like Google, Amazon, Microsoft, Meta) that operates massive data centers and buys servers by the tens of thousands.
-- **Backlog / Bookings:** Orders that customers have placed but Dell has not yet recognized as revenue. Dell's $24.4B AI backlog means it has years of AI server revenue already contracted.
+- **Backlog / Bookings:** Orders that customers have placed but Dell has not yet recognized as revenue. Dell's \$24.4B AI backlog means it has years of AI server revenue already contracted.
 - **RSI (Relative Strength Index):** A technical indicator that measures how overbought or oversold a stock is. RSI above 70 means overbought; above 90 is extremely overbought. Dell's RSI of 92.11 suggests a near-term pullback is likely.
 
 ---
@@ -290,7 +290,7 @@ While the stock is technically overbought (RSI 92.11) and has risen nearly 4x fr
 
 - Dell Technologies Q1 FY2026 Earnings Release and Conference Call (May 2026)
 - Dell Investor Relations: FY2025 Annual Report and FY2026 Quarterly Reports
-- Goldman Sachs Equity Research: Dell Technologies — $500 price target (June 1, 2026)
+- Goldman Sachs Equity Research: Dell Technologies — \$500 price target (June 1, 2026)
 - FactSet / Bloomberg consensus estimates and analyst rating summary
 - TradingView technical data: 52-week range, RSI, price targets
 - IDC and Gartner server market share reports (2024–2026)
@@ -311,12 +311,12 @@ While the stock is technically overbought (RSI 92.11) and has risen nearly 4x fr
 | **Theme** | AI Buildout → Data Center Infrastructure |
 | **Sub-Theme** | Servers & Systems |
 | **Market Cap** | ~$300B (approximate) |
-| **52-Week Range** | $110.22 – $469.47 |
+| **52-Week Range** | \$110.22 – \$469.47 |
 | **Dividend Yield** | ~1.0% (modest; focus on buybacks) |
 | **Short Interest** | Low (~2–3%) |
 | **Institutional Ownership** | ~75% |
 | **Next Earnings** | Q2 FY2026 (August 2026) |
-| **Price Targets** | Bull $500–520 / Base $420–460 / Bear $280–320 |
+| **Price Targets** | Bull \$500–520 / Base \$420–460 / Bear \$280–320 |
 
 ---
 

@@ -66,11 +66,11 @@ Agnico Eagle Mines is the world's third-largest gold producer by market capitali
 | Metric | Q1 2026 | Q1 2025 | YoY Change |
 |--------|---------|---------|------------|
 | Revenue | ~$4.0B | ~$2.4B | +67% |
-| Net Income | $1.70B | ~$0.8B | +113% |
-| Adjusted EBITDA | $3.01B | ~$1.7B | +77% |
-| Realized Gold Price | $4,861/oz | $2,893/oz | +68% |
+| Net Income | \$1.70B | ~$0.8B | +113% |
+| Adjusted EBITDA | \$3.01B | ~$1.7B | +77% |
+| Realized Gold Price | \$4,861/oz | \$2,893/oz | +68% |
 
-Gold production in Q1 2026 was ~825,000 ounces (~24% of full-year guidance midpoint). Total cash costs rose to $1,093/oz (+22% YoY) and AISC to $1,483/oz (+26% YoY), driven by inflation in consumables, labor, and higher sustaining capital at Macassa and Kittilä. Despite cost inflation, operating margins expanded dramatically due to the surge in realized gold prices.
+Gold production in Q1 2026 was ~825,000 ounces (~24% of full-year guidance midpoint). Total cash costs rose to \$1,093/oz (+22% YoY) and AISC to \$1,483/oz (+26% YoY), driven by inflation in consumables, labor, and higher sustaining capital at Macassa and Kittilä. Despite cost inflation, operating margins expanded dramatically due to the surge in realized gold prices.
 
 ### Balance Sheet
 - **Cash:** ~$2.9B (year-end 2025)
@@ -79,8 +79,8 @@ Gold production in Q1 2026 was ~825,000 ounces (~24% of full-year guidance midpo
 
 ### Cash Flow
 - **Q1 2026 FCF:** ~$730M
-- **2025 Annual FCF:** Record $4.4B
-- **Capital Expenditures (2026 guidance):** $2.2–$2.4B (excluding $290–$330M capitalized exploration)
+- **2025 Annual FCF:** Record \$4.4B
+- **Capital Expenditures (2026 guidance):** \$2.2–\$2.4B (excluding \$290–\$330M capitalized exploration)
 
 The balance sheet is fortress-like. Even at the lower bound of gold prices, AEM has sufficient liquidity to fund its capex program and maintain dividends.
 
@@ -92,9 +92,9 @@ AEM trades at a premium to net asset value (NAV) relative to peers, justified by
 
 | Scenario | Gold Price Assumption | Target | Implied Return |
 |----------|----------------------|--------|----------------|
-| **Bull** | $5,500–$6,000/oz | \$225–\$245 | +38% to +50% |
-| **Base** | $4,500–$5,000/oz | \$185–\$205 | +13% to +25% |
-| **Bear** | $3,500–$4,000/oz | \$130–\$150 | –20% to –10% |
+| **Bull** | \$5,500–\$6,000/oz | \$225–\$245 | +38% to +50% |
+| **Base** | \$4,500–\$5,000/oz | \$185–\$205 | +13% to +25% |
+| **Bear** | \$3,500–\$4,000/oz | \$130–\$150 | –20% to –10% |
 
 **Key multiples:**
 
@@ -108,10 +108,10 @@ The stock is not cheap on spot metrics, but it is reasonably valued for a high-q
 
 ## 4. GROWTH CATALYSTS
 
-1. **Gold price leverage:** Every $100/oz move in gold adds ~$330M in annual pre-tax cash flow at guided production. AEM's margin capture is industry-leading.
+1. **Gold price leverage:** Every \$100/oz move in gold adds ~$330M in annual pre-tax cash flow at guided production. AEM's margin capture is industry-leading.
 2. **Detour Lake expansion:** Canada's largest gold mine by output; ongoing mill expansion and underground development could add 100k+ oz/year by 2027–2028.
 3. **Fosterville turnaround:** The Australian asset has underperformed recently; a successful turnaround would add low-cost ounces and improve group AISC.
-4. **Exploration success:** Capitalized exploration budget of $290–$330M in 2026 targets resource expansion at Canadian Malartic, Detour, and Kittilä.
+4. **Exploration success:** Capitalized exploration budget of \$290–\$330M in 2026 targets resource expansion at Canadian Malartic, Detour, and Kittilä.
 5. **M&A optionality:** Net cash position and strong equity currency position AEM as a consolidator if mid-tier assets become distressed in a gold pullback.
 6. **Dividend growth:** 12.5% increase in 2026 signals management confidence in sustained cash generation.
 
@@ -121,13 +121,13 @@ The stock is not cheap on spot metrics, but it is reasonably valued for a high-q
 
 **Business / Operational:**
 
-- **Cost inflation:** AISC guidance of $1,400–$1,550/oz for 2026 is up ~12% YoY. Further inflation in energy, labor, or consumables could compress margins if gold prices stall.
+- **Cost inflation:** AISC guidance of \$1,400–\$1,550/oz for 2026 is up ~12% YoY. Further inflation in energy, labor, or consumables could compress margins if gold prices stall.
 - **Production misses:** Q1 2026 was 24% of guidance midpoint — on track, but any operational disruption at Detour or Canadian Malartic would be material.
 - **Fosterville underperformance:** The Australian asset has been a drag; failure to turn it around would weigh on group metrics.
 
 **Financial:**
 
-- **Gold price volatility:** AEM is a pure-play gold lever. A sustained drop below $4,000/oz would compress FCF, reduce NAV, and likely trigger multiple contraction.
+- **Gold price volatility:** AEM is a pure-play gold lever. A sustained drop below \$4,000/oz would compress FCF, reduce NAV, and likely trigger multiple contraction.
 - **FX risk:** ~30% of production is outside North America (Finland, Australia, Mexico). USD strength vs. EUR, AUD, or MXN raises local costs.
 
 **Macro / Sector:**
@@ -165,7 +165,7 @@ AEM is the highest-quality large-cap gold miner. The balance sheet is pristine, 
 
 ## 7. READABILITY PASS
 
-- **AISC (All-In Sustaining Costs):** The full cost to produce one ounce of gold, including mining, processing, royalties, sustaining capital, and corporate overhead. AEM's AISC of ~$1,483/oz in Q1 means it earns ~$3,378/oz in margin at $4,861 gold.
+- **AISC (All-In Sustaining Costs):** The full cost to produce one ounce of gold, including mining, processing, royalties, sustaining capital, and corporate overhead. AEM's AISC of ~$1,483/oz in Q1 means it earns ~$3,378/oz in margin at \$4,861 gold.
 - **FCF (Free Cash Flow):** Cash left after all operating expenses and capital spending. AEM generated ~$730M in Q1 alone — money that can be returned to shareholders or used for growth.
 - **P/NAV:** Price-to-Net Asset Value. A ratio >1.0 means the market values the company above the discounted value of its reserves. AEM trades at a premium because investors trust its ability to convert reserves into cash reliably.
 

@@ -20,7 +20,9 @@
     "cash": "$640.1M",
     "debt": "$462.5M (convertible notes)",
     "fcf": "$57.7M (first year positive)",
-    "backlog": "$900M (+79% YoY)"
+    "backlog": "$900M (+79% YoY)",
+    "net_income": "N/A",
+    "eps_diluted": "N/A"
   },
   "bull_case": {
     "target": "$45–50",
@@ -47,10 +49,26 @@
     "assumptions": "Revenue grows at 35% CAGR through 2030; Gross margins stabilize at 58-60%; Operating margins reach 20% by 2030; Market share remains strong but faces competition; Free cash flow generation continues."
   },
   "catalysts": [
-    {"date": "2026-06-03", "event": "Q1 FY2027 Earnings — Guidance validation"},
-    {"date": "Q2 2026", "event": "New Contract Announcements — Government and commercial"},
-    {"date": "Ongoing", "event": "SpaceX IPO Developments — Sector effect"},
-    {"date": "Q3 2026", "event": "Pelican Satellite Launches — High-resolution constellation"}
+    {
+      "date": "2026-06-03",
+      "event": "Q1 FY2027 Earnings — Guidance validation",
+      "iso_date": "2026-06-03"
+    },
+    {
+      "date": "Q2 2026",
+      "event": "New Contract Announcements — Government and commercial",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "Ongoing",
+      "event": "SpaceX IPO Developments — Sector effect",
+      "iso_date": null
+    },
+    {
+      "date": "Q3 2026",
+      "event": "Pelican Satellite Launches — High-resolution constellation",
+      "iso_date": "2026-07"
+    }
   ],
   "key_risks": [
     "Extreme valuation at 40x P/S prices in perfection",
@@ -58,5 +76,8 @@
     "Short interest at 12.3% of float creates volatility",
     "Customer concentration in government contracts",
     "Competition from Maxar, BlackSky, and new entrants"
-  ]
+  ],
+  "theme": "Space Economy",
+  "sub_theme": "Geospatial Intelligence",
+  "price_date": "2026-04-03"
 }
