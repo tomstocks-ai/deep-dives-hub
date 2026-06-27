@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install zensical mkdocs-material mkdocstrings-python pytest
+      - run: pip install zensical mkdocs-material mkdocstrings-python fastmcp pytest
       - name: Validate deep dives
         run: pytest --tb=short
       - run: zensical build --clean
