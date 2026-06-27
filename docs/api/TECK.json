@@ -19,7 +19,10 @@
     "free_cash_flow": "$3.2B",
     "cash": "$5.01B (net cash)",
     "debt": "~$6.5B (manageable)",
-    "copper_production": "1.04B lbs (Q4 2024)"
+    "copper_production": "1.04B lbs (Q4 2024)",
+    "revenue_growth": "N/A",
+    "gross_margin": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$68",
@@ -46,10 +49,26 @@
     "assumptions": "Copper averages $4.25/lb; QB2 reaches 240kt by 2027; Anglo merger closes with normal execution; Synergies achieved as guided; Moderate copper market tightness."
   },
   "catalysts": [
-    {"date": "2026-04-23", "event": "Q4 2025 Earnings — Operational update"},
-    {"date": "Q2 2026", "event": "Anglo Merger Regulatory Approvals — Key milestone"},
-    {"date": "Mid-2026", "event": "Anglo Teck Merger Close — Transformational event"},
-    {"date": "Ongoing", "event": "QB2 Production Ramp — 280kt+ target by 2028"}
+    {
+      "date": "2026-04-23",
+      "event": "Q4 2025 Earnings — Operational update",
+      "iso_date": "2026-04-23"
+    },
+    {
+      "date": "Q2 2026",
+      "event": "Anglo Merger Regulatory Approvals — Key milestone",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "Mid-2026",
+      "event": "Anglo Teck Merger Close — Transformational event",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "Ongoing",
+      "event": "QB2 Production Ramp — 280kt+ target by 2028",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "QB2 TMF (Tailings Management Facility) sand drainage challenges delaying ramp-up",
@@ -57,5 +76,8 @@
     "Copper price volatility — high correlation to China demand",
     "Chile political risk — royalty increases, regulatory changes",
     "Merger integration complexity with Anglo American"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Copper",
+  "price_date": "2026-04-03"
 }

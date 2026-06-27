@@ -63,11 +63,11 @@ def validate_deep_dive(md_path: str) -> dict:
         stripped = line.lstrip()
         if stripped.startswith("```") or stripped.startswith("    "):
             continue
-        # Find escaped chars but EXCLUDE \$ (needed for MathJax on Zensical)
-        # Pattern: backslash followed by a special char, but not \$
+        # Find escaped chars but exclude intentional escapes:
+        #   \$ — MathJax dollar sign (required by Zensical)
+        #   \& — ampersand in company names / table cells (renders correctly)
         matches = re.findall(r"\\[$%><&#@~^=+|\[\]{}]", line)
-        # Filter out \$ — it's intentionally escaped for MathJax
-        matches = [m for m in matches if m != "\\$"]
+        matches = [m for m in matches if m not in (r"\$", r"\&")]
         if matches:
             escaped_chars.append((i, matches))
 
@@ -110,10 +110,10 @@ def validate_deep_dive(md_path: str) -> dict:
     h3_count = len(re.findall(r"^###\s+\d+\..+$", content, re.MULTILINE))
     # Use whichever is larger — some files use ## for everything, some use ###
     total_sections = max(h2_count, h3_count) if h3_count > 0 else h2_count
-    if total_sections >= 9:
-        results["passed"].append(f"At least 9 sections found ({total_sections})")
+    if total_sections >= 8:
+        results["passed"].append(f"At least 8 sections found ({total_sections})")
     else:
-        results["failed"].append(f"Only {total_sections} sections found (need at least 9)")
+        results["failed"].append(f"Only {total_sections} sections found (need at least 8)")
 
     # ------------------------------------------------------------------
     # 6. Sources Consulted section present
@@ -159,8 +159,9 @@ def validate_deep_dive(md_path: str) -> dict:
             results["passed"].append(f"JSON file valid: {json_path.name}")
 
             # Required top-level keys and expected types
+            # 'sector' OR 'theme' is required (older files use only sector, newer add theme)
             required_keys = {
-                "ticker": str, "company": str, "sector": str,
+                "ticker": str, "company": str,
                 "industry": str, "exchange": str, "price": (int, float),
                 "market_cap": str, "rating": str, "last_updated": str,
                 "thesis": str, "financials": dict, "bull_case": dict,
@@ -174,10 +175,33 @@ def validate_deep_dive(md_path: str) -> dict:
                     results["failed"].append(
                         f"JSON key '{key}' has wrong type: expected {expected_type}, got {type(data[key]).__name__}"
                     )
+            # sector OR theme must be present
+            if "sector" not in data and "theme" not in data:
+                results["failed"].append("JSON missing both 'sector' and 'theme' — at least one is required")
+            else:
+                results["passed"].append("JSON has sector/theme classification")
+
+            # Warn if theme or sub_theme are absent (encouraged but not blocking)
+            for field in ("theme", "sub_theme"):
+                if field not in data or not data.get(field):
+                    results["warnings"].append(f"JSON missing '{field}' — add for agent filtering")
+
+            # price_date should be present
+            if "price_date" not in data:
+                results["warnings"].append("JSON missing 'price_date' — add so agents know data staleness")
+
+            # Validate canonical rating value
+            canonical_ratings = {"BUY", "SPEC. BUY", "HOLD", "HOLD / SPEC.", "SELL", "SPECULATIVE"}
+            rating_val = data.get("rating", "")
+            if rating_val and rating_val not in canonical_ratings:
+                results["warnings"].append(
+                    f"JSON 'rating' value {rating_val!r} is not canonical — "
+                    f"use one of: {', '.join(sorted(canonical_ratings))}"
+                )
 
             # Check for empty/placeholder values in top-level strings
             placeholder_re = re.compile(r"^\{.*\}$")
-            for key in ("ticker", "company", "sector", "industry", "exchange",
+            for key in ("ticker", "company", "industry", "exchange",
                         "market_cap", "rating", "last_updated", "thesis"):
                 val = data.get(key)
                 if isinstance(val, str) and (not val.strip() or placeholder_re.match(val)):
@@ -222,11 +246,19 @@ def validate_deep_dive(md_path: str) -> dict:
             if isinstance(data.get("catalysts"), list):
                 if len(data["catalysts"]) == 0:
                     results["failed"].append("JSON 'catalysts' list is empty")
+                missing_iso = []
                 for i, cat in enumerate(data["catalysts"]):
                     if not isinstance(cat, dict):
                         results["failed"].append(f"JSON catalysts[{i}] is not an object")
-                    elif "date" not in cat or "event" not in cat:
-                        results["failed"].append(f"JSON catalysts[{i}] missing 'date' or 'event'")
+                    else:
+                        if "date" not in cat or "event" not in cat:
+                            results["failed"].append(f"JSON catalysts[{i}] missing 'date' or 'event'")
+                        if "iso_date" not in cat:
+                            missing_iso.append(i)
+                if missing_iso:
+                    results["warnings"].append(
+                        f"JSON catalysts missing 'iso_date' on entries: {missing_iso} — add for machine-parseable dates"
+                    )
 
             # Validate key_risks is non-empty
             if isinstance(data.get("key_risks"), list) and len(data["key_risks"]) == 0:

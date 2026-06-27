@@ -42,9 +42,21 @@
     "assumptions": "Revenue stabilizes at $600–700M annually with modest growth. Gross margins turn slightly positive by late FY27. EBITDA breakeven by FY29. Valuation converges toward analyst consensus (~$40 target). Additional capital raises cause moderate dilution."
   },
   "catalysts": [
-    {"date": "2026-05-27", "event": "Q4 FY26 Earnings (expected) — revenue guidance for FY27"},
-    {"date": "2026-06-15", "event": "Potential analyst/investor day with Mohawk Valley update"},
-    {"date": "2026-08-15", "event": "Q1 FY27 Earnings — first post-restructuring clean quarter"}
+    {
+      "date": "2026-05-27",
+      "event": "Q4 FY26 Earnings (expected) — revenue guidance for FY27",
+      "iso_date": "2026-05-27"
+    },
+    {
+      "date": "2026-06-15",
+      "event": "Potential analyst/investor day with Mohawk Valley update",
+      "iso_date": "2026-06-15"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Q1 FY27 Earnings — first post-restructuring clean quarter",
+      "iso_date": "2026-08-15"
+    }
   ],
   "key_risks": [
     "Continued cash burn and potential dilutive capital raises",
@@ -52,5 +64,8 @@
     "Automotive EV demand weakness in key markets",
     "Mohawk Valley 200mm ramp delays or yield challenges",
     "Short-squeeze reversal creating violent technical downside"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Analog / Power",
+  "price_date": "2026-05-13"
 }

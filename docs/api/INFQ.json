@@ -6,7 +6,7 @@
   "exchange": "NYSE",
   "price": 12.02,
   "market_cap": "$2.76B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-29",
   "thesis": "Infleqtion is the first publicly traded neutral-atom quantum technology company, offering a unique pure-play on quantum computing and sensing. With $32.5M revenue (up 13% YoY), a $40M 2026 guidance, and $540M+ in SPAC proceeds, the company has both near-term revenue validation from quantum sensing products and long-term optionality on quantum computing commercialization. The NVIDIA partnership, DARPA/DoD contracts, and 235+ patents create a differentiated position in the emerging quantum ecosystem.",
   "financials": {
@@ -42,10 +42,26 @@
     "assumptions": "$40-60M revenue by 2027 with sensing stabilizing at $30M+; computing revenue begins scaling; path to EBITDA breakeven by 2028-2029; analyst coverage expands to 3-5 firms"
   },
   "catalysts": [
-    {"date": "2026-05", "event": "Q1 2026 earnings — first public earnings report"},
-    {"date": "2026-08", "event": "Q2 2026 earnings — mid-year guidance check"},
-    {"date": "2026-2027", "event": "Logical qubit milestone announcements (10+, 25+, 50+)"},
-    {"date": "2028", "event": "100 logical qubit target achievement"}
+    {
+      "date": "2026-05",
+      "event": "Q1 2026 earnings — first public earnings report",
+      "iso_date": "2026-05"
+    },
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 earnings — mid-year guidance check",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Logical qubit milestone announcements (10+, 25+, 50+)",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2028",
+      "event": "100 logical qubit target achievement",
+      "iso_date": "2028"
+    }
   ],
   "key_risks": [
     "Pre-profitability with significant cash burn; 3-5 year path to breakeven",
@@ -53,5 +69,8 @@
     "Revenue concentration in government contracts subject to budget cycles",
     "Competitive technology risk from trapped ion, superconducting, or photonic approaches",
     "SPAC merger overhang and limited institutional coverage create volatility"
-  ]
+  ],
+  "theme": "Quantum Computing",
+  "sub_theme": "Pure Plays",
+  "price_date": "2026-04-29"
 }

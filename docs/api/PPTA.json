@@ -4,9 +4,9 @@
   "sector": "Materials",
   "industry": "Precious Metals & Critical Minerals Mining",
   "exchange": "NASDAQ / TSX",
-  "price": 26.30,
+  "price": 26.3,
   "market_cap": "$3.29B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-29",
   "thesis": "Development-stage mining company advancing the $1.3B Stibnite Gold Project in Idaho — one of the largest undeveloped gold deposits in the U.S. (6M+ oz gold, 148M lbs antimony). Broke ground in October 2025 after 9 years of permitting. America's answer to China's antimony export bans. $2B U.S. EXIM debt financing pending Board approval (Spring 2026). Full production targeted H2 2029. High-risk, high-reward with significant financing and execution risks but strong geopolitical tailwinds.",
   "financials": {
@@ -44,10 +44,26 @@
     "assumptions": "EXIM financing closes Q2 2026 with standard terms; gold price $3,000/oz; construction progresses with minor delays; first production H2 2029; equity dilution ~15%; antimony offtake agreements signed with defense contractors."
   },
   "catalysts": [
-    {"date": "2026-04", "event": "U.S. EXIM Board consideration of $2B debt financing"},
-    {"date": "2026-06", "event": "Expected full construction sanction decision"},
-    {"date": "2027-01", "event": "Major construction milestones (mill, tailings)"},
-    {"date": "2029-07", "event": "First gold production targeted"}
+    {
+      "date": "2026-04",
+      "event": "U.S. EXIM Board consideration of $2B debt financing",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "2026-06",
+      "event": "Expected full construction sanction decision",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "2027-01",
+      "event": "Major construction milestones (mill, tailings)",
+      "iso_date": "2027-01"
+    },
+    {
+      "date": "2029-07",
+      "event": "First gold production targeted",
+      "iso_date": "2029-07"
+    }
   ],
   "key_risks": [
     "Financing risk: $2B EXIM debt not guaranteed; alternatives may be dilutive or expensive",
@@ -55,5 +71,8 @@
     "Commodity price risk: Gold and antimony price volatility affects project economics",
     "Regulatory/environmental risk: Ongoing compliance and potential opposition in Idaho",
     "Dilution risk: Multiple equity raises likely before 2029 production start"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "price_date": "2026-04-29"
 }

@@ -42,10 +42,26 @@
     "assumptions": "Revenue grows 20–25% annually through 2027. Margins stabilize at 4.5–5%. Debt managed via operating cash flow. No equity raise needed."
   },
   "catalysts": [
-    {"date": "2026-07-30", "event": "Q2 2026 earnings release"},
-    {"date": "2026-08-15", "event": "Potential data center contract announcements"},
-    {"date": "2026-10-30", "event": "Q3 2026 earnings release"},
-    {"date": "2027-01-15", "event": "FY2027 guidance and backlog update"}
+    {
+      "date": "2026-07-30",
+      "event": "Q2 2026 earnings release",
+      "iso_date": "2026-07-30"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Potential data center contract announcements",
+      "iso_date": "2026-08-15"
+    },
+    {
+      "date": "2026-10-30",
+      "event": "Q3 2026 earnings release",
+      "iso_date": "2026-10-30"
+    },
+    {
+      "date": "2027-01-15",
+      "event": "FY2027 guidance and backlog update",
+      "iso_date": "2027-01-15"
+    }
   ],
   "key_risks": [
     "Thin operating margins (~4%) leave little buffer for cost inflation",
@@ -53,5 +69,8 @@
     "Customer concentration among top-20 utilities",
     "Fixed-price contract overruns are an industry hazard",
     "Valuation at 35x forward earnings leaves no room for error"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Electrical Contractors",
+  "price_date": "2026-06-13"
 }

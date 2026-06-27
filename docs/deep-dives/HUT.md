@@ -195,9 +195,9 @@ Hut 8 is a high-conviction, high-risk transition story. The AI data center pivot
 
 1. [Yahoo Finance — HUT](https://finance.yahoo.com/quote/HUT/)
 2. [Stock Titan — HUT Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/HUT/10-q-hut-8-corp-quarterly-earnings-report-dbcfba973171.html)
-3. [Sherwood News — Hut 8 Q1 Earnings and $9.8B Lease](https://sherwood.news/crypto/hut-8-q1-earnings/)
-4. [Reuters — Hut 8 $9.8B Texas AI Data Center Lease](https://www.reuters.com/technology/hut-8-signs-about-10-billion-ai-data-center-lease-texas-2026-05-06/)
-5. [Crypto Briefing — Hut 8 $4.25B Bond Pricing](https://cryptobriefing.com/hut-8-prices-4b-notes-texas-ai-data-center/)
+3. [Sherwood News — Hut 8 Q1 Earnings and \$9.8B Lease](https://sherwood.news/crypto/hut-8-q1-earnings/)
+4. [Reuters — Hut 8 \$9.8B Texas AI Data Center Lease](https://www.reuters.com/technology/hut-8-signs-about-10-billion-ai-data-center-lease-texas-2026-05-06/)
+5. [Crypto Briefing — Hut 8 \$4.25B Bond Pricing](https://cryptobriefing.com/hut-8-prices-4b-notes-texas-ai-data-center/)
 6. [Data Center Dynamics — Hut 8 352MW Texas Lease](https://www.datacenterdynamics.com/en/news/hut-8-signs-352mw-data-center-lease-in-texas-with-investment-grade-tenant/)
 7. [Seeking Alpha — Hut 8: Richly Valued And Still Highly Dependent On Bitcoin Mining](https://seekingalpha.com/article/4908727-hut-8-richly-valued-and-still-highly-dependent-on-bitcoin-mining)
 8. [Bitcoin Treasuries — Hut 8 BTC Holdings](https://bitcointreasuries.net/public-companies/hut-8-mining-corp)

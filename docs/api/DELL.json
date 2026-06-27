@@ -46,11 +46,31 @@
     "assumptions": "AI server growth moderates to 30–40% YoY; Dell maintains top-3 server position; ISG margins hold at 10%; CSG flat to slightly down; P/E compresses to 20–22x on $20–21 EPS; market assigns premium to AI infrastructure exposure but not full software multiple"
   },
   "catalysts": [
-    {"date": "2026-08", "event": "Q2 FY2026 Earnings — AI server revenue trajectory and updated guidance"},
-    {"date": "2026-09", "event": "Dell Technologies World / AI product announcements and server roadmap updates"},
-    {"date": "2026-11", "event": "Q3 FY2026 Earnings — holiday PC build and data center infrastructure update"},
-    {"date": "2026-H2", "event": "NVIDIA next-gen GPU (Rubin) availability and Dell server refresh cycle"},
-    {"date": "2026-2027", "event": "Enterprise AI adoption metrics and sovereign AI contract wins"}
+    {
+      "date": "2026-08",
+      "event": "Q2 FY2026 Earnings — AI server revenue trajectory and updated guidance",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-09",
+      "event": "Dell Technologies World / AI product announcements and server roadmap updates",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 FY2026 Earnings — holiday PC build and data center infrastructure update",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2026-H2",
+      "event": "NVIDIA next-gen GPU (Rubin) availability and Dell server refresh cycle",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Enterprise AI adoption metrics and sovereign AI contract wins",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "AI capex cyclicality — the current AI server demand may be front-loaded, and a pause in hyperscaler spending would severely impact Dell's growth",
@@ -60,5 +80,6 @@
     "Valuation risk — the stock has risen nearly 4x from lows and RSI of 92.11 signals extreme overbought conditions",
     "PC market weakness — CSG remains ~40% of revenue and is mature and cyclical",
     "Debt load of ~$20B from the EMC acquisition limits financial flexibility in a downturn"
-  ]
+  ],
+  "price_date": "2026-06-25"
 }

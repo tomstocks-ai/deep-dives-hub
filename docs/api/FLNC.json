@@ -42,9 +42,21 @@
     "assumptions": "$5.5B backlog converts over 2-3 years, software mix reaches 30%, gross margins expand to 12%, EBITDA margins reach 10% by FY2028. Market prices in $3B revenue run rate with improving profitability."
   },
   "catalysts": [
-    {"date": "2026-05-01", "event": "Q2 FY2026 earnings — backlog and margin guidance update"},
-    {"date": "2026-08-01", "event": "FY2026 guidance update — full-year revenue and margin targets"},
-    {"date": "2026-06-15", "event": "Ongoing project announcements — data center partnerships, international wins"}
+    {
+      "date": "2026-05-01",
+      "event": "Q2 FY2026 earnings — backlog and margin guidance update",
+      "iso_date": "2026-05-01"
+    },
+    {
+      "date": "2026-08-01",
+      "event": "FY2026 guidance update — full-year revenue and margin targets",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-06-15",
+      "event": "Ongoing project announcements — data center partnerships, international wins",
+      "iso_date": "2026-06-15"
+    }
   ],
   "key_risks": [
     "Customer concentration in large utility projects creates revenue lumpiness",
@@ -52,5 +64,8 @@
     "Interest rate sensitivity increases project financing costs",
     "Grid interconnection delays (3-5 year queue) defer revenue recognition",
     "Commodity price volatility (lithium, cobalt, nickel) affects input costs"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Grid-Scale Energy Storage",
+  "price_date": "2026-06-15"
 }

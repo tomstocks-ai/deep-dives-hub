@@ -40,9 +40,21 @@
     "assumptions": "HYPE stabilizes $70–$85, PURR trades near NAV with modest premium, staking yield provides steady revenue"
   },
   "catalysts": [
-    {"date": "2026-06-06", "event": "HYPE token unlock (9.92M tokens for core contributors)"},
-    {"date": "2026-06-26", "event": "Russell 3000 inclusion effective"},
-    {"date": "2026-07-15", "event": "Q4 FY2026 earnings (estimated)"}
+    {
+      "date": "2026-06-06",
+      "event": "HYPE token unlock (9.92M tokens for core contributors)",
+      "iso_date": "2026-06-06"
+    },
+    {
+      "date": "2026-06-26",
+      "event": "Russell 3000 inclusion effective",
+      "iso_date": "2026-06-26"
+    },
+    {
+      "date": "2026-07-15",
+      "event": "Q4 FY2026 earnings (estimated)",
+      "iso_date": "2026-07-15"
+    }
   ],
   "key_risks": [
     "Single-asset concentration (90%+ HYPE)",
@@ -50,5 +62,8 @@
     "HYPE token unlock selling pressure",
     "Regulatory risk in crypto sector",
     "NAV premium could flip to discount"
-  ]
+  ],
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "price_date": "2026-06-03"
 }

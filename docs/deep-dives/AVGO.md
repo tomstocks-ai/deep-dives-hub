@@ -15,7 +15,7 @@ title: "AVGO — Broadcom Inc."
 | **Ticker** | NASDAQ: AVGO |
 | **Rating** | <span class="rating-buy">BUY</span> |
 | **Current Price** | ~$411.35 |
-| **52W Range** | $244.17 – $495.00 |
+| **52W Range** | \$244.17 – \$495.00 |
 | **RSI(14)** | ~46.1 (neutral) |
 | **Analyst Consensus** | Strong Buy (48 analysts) |
 | **Avg. Price Target** | ~$522 (+28% upside) |
@@ -43,7 +43,7 @@ Broadcom delivered **record revenue, operating profit, and free cash flow** in Q
 | Q2 FY2026 Semiconductor Solutions Revenue | ~$15.1B |
 | Q3 FY2026 AI Semiconductor Revenue Guidance | ~$16B |
 | FY2027 AI Semiconductor Revenue Target | >$100B |
-| Earnings (headline) | $23.13B |
+| Earnings (headline) | \$23.13B |
 | Non-GAAP Gross Margin | ~62% (semiconductor) |
 | Free Cash Flow | Record; expanding sequentially |
 
@@ -60,12 +60,12 @@ Broadcom trades at a premium to historical semiconductor multiples, but the prem
 
 | Scenario | Target | Implied Upside / Downside |
 |----------|--------|---------------------------|
-| **Bull** | $580–620 | +41% to +51% |
-| **Base** | $480–520 | +17% to +26% |
-| **Bear** | $340–380 | –8% to –17% |
+| **Bull** | \$580–620 | +41% to +51% |
+| **Base** | \$480–520 | +17% to +26% |
+| **Bear** | \$340–380 | –8% to –17% |
 
 **Valuation drivers:**
-- **Bull:** AI ASIC revenue exceeds $100B by FY2027, VMware margins reach 80%+ SaaS-like levels, and networking/optical TAM expands faster than consensus. Multiple re-rates to 35–40x forward earnings.
+- **Bull:** AI ASIC revenue exceeds \$100B by FY2027, VMware margins reach 80%+ SaaS-like levels, and networking/optical TAM expands faster than consensus. Multiple re-rates to 35–40x forward earnings.
 - **Base:** AI revenue grows at a 25–30% CAGR, software stabilizes, and the stock trades at 28–32x forward earnings — roughly in line with large-cap AI infrastructure peers.
 - **Bear:** Hyperscaler AI capex cuts materialize, VMware churn accelerates, and gross margins compress on mix shift. Multiple contracts to 20–22x, in line with pre-AI semiconductor cycles.
 
@@ -77,7 +77,7 @@ Broadcom trades at a premium to historical semiconductor multiples, but the prem
 2. **Optical Interconnect Upgrades:** Data center bandwidth demands are pushing 800G and 1.6T optical transceiver adoption. Broadcom’s silicon photonics and DSP portfolio is best-in-class and tightly coupled with its switching silicon.
 3. **VMware Subscription Transition:** The shift from perpetual licenses to SaaS subscriptions is painful in the short term but should lift recurring revenue visibility and margins by FY2027.
 4. **Networking Share Gains:** Broadcom’s Tomahawk 5 / Jericho3 switching and routing silicon is winning sockets in AI back-end networks, displacing merchant and in-house alternatives.
-5. **Capital Return:** The $3B buyback and consistent dividend growth support total shareholder returns even if the multiple compresses.
+5. **Capital Return:** The \$3B buyback and consistent dividend growth support total shareholder returns even if the multiple compresses.
 
 ---
 
@@ -97,8 +97,8 @@ Broadcom trades at a premium to historical semiconductor multiples, but the prem
 
 Broadcom is a core holding for exposure to the AI buildout theme. The combination of custom AI silicon leadership, best-in-class networking/optical interconnects, and a stabilizing software business creates a durable earnings trajectory. The post-earnings pullback has improved the risk/reward setup, with the stock now trading closer to base-case fair value rather than bull-case exuberance.
 
-- **Entry:** Current levels (~$410) or on any weakness toward $380–400.
-- **Stop / Risk Management:** A sustained break below $340 (bear-case lower bound) would suggest a structural AI capex slowdown or material VMware deterioration.
+- **Entry:** Current levels (~$410) or on any weakness toward \$380–400.
+- **Stop / Risk Management:** A sustained break below \$340 (bear-case lower bound) would suggest a structural AI capex slowdown or material VMware deterioration.
 - **Time Horizon:** 12–18 months to realize base-case targets; 24–36 months for bull-case AI revenue >$100B to fully price in.
 
 ---
@@ -139,4 +139,4 @@ This deep dive is written for investors with a working knowledge of semiconducto
 | **Short Interest** | Low (~1%) |
 | **Institutional Ownership** | >75% |
 | **Next Earnings** | Q3 FY2026 (September 2026) |
-| **Price Targets** | Bull $580–620 / Base $480–520 / Bear $340–380 |
+| **Price Targets** | Bull \$580–620 / Base \$480–520 / Bear \$340–380 |

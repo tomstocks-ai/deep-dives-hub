@@ -57,10 +57,26 @@
     "assumptions": "USDC supply grows to $100B+ by 2027; interest rates stabilize 2.5–3.5%; GENIUS Act implemented without major restrictions; Coinbase share stays manageable; other revenue grows to 8–12%; stock trades at 8–10x forward revenue as growth normalizes."
   },
   "catalysts": [
-    {"date": "2026-05-11", "event": "Q1 2026 Earnings — first normalized post-IPO quarter (reported solid results: $694M revenue, $125M net income, $77B USDC)"},
-    {"date": "2026-07-30", "event": "Q2 2026 Earnings & potential FY2026 guidance"},
-    {"date": "2026-06-30", "event": "GENIUS Act draft rules expected (FinCEN/FDIC/SEC)"},
-    {"date": "2026-12-31", "event": "Arc mainnet launch (targeted 2026)"}
+    {
+      "date": "2026-05-11",
+      "event": "Q1 2026 Earnings — first normalized post-IPO quarter (reported solid results: $694M revenue, $125M net income, $77B USDC)",
+      "iso_date": "2026-05-11"
+    },
+    {
+      "date": "2026-07-30",
+      "event": "Q2 2026 Earnings & potential FY2026 guidance",
+      "iso_date": "2026-07-30"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "GENIUS Act draft rules expected (FinCEN/FDIC/SEC)",
+      "iso_date": "2026-06-30"
+    },
+    {
+      "date": "2026-12-31",
+      "event": "Arc mainnet launch (targeted 2026)",
+      "iso_date": "2026-12-31"
+    }
   ],
   "key_risks": [
     "Interest rate sensitivity — 95%+ of revenue is reserve income tied to Fed policy",
@@ -69,5 +85,8 @@
     "Competition from Tether (USDT), bank-issued stablecoins, and Ethena",
     "Regulatory uncertainty despite GENIUS Act progress",
     "Valuation premium (~5.7x P/S, 60x+ forward P/E) prices in significant growth"
-  ]
+  ],
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "price_date": "2026-06-20"
 }

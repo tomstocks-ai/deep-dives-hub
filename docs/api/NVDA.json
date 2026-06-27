@@ -47,19 +47,23 @@
   "catalysts": [
     {
       "date": "2026-08",
-      "event": "Q2 FY2027 earnings — Blackwell ramp and guidance critical"
+      "event": "Q2 FY2027 earnings — Blackwell ramp and guidance critical",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026-09",
-      "event": "NVIDIA GTC 2026 — new product announcements and roadmap updates"
+      "event": "NVIDIA GTC 2026 — new product announcements and roadmap updates",
+      "iso_date": "2026-09"
     },
     {
       "date": "2026-11",
-      "event": "Q3 FY2027 earnings — holiday gaming season + data center update"
+      "event": "Q3 FY2027 earnings — holiday gaming season + data center update",
+      "iso_date": "2026-11"
     },
     {
       "date": "2027-01",
-      "event": "CES 2027 — automotive and consumer AI announcements"
+      "event": "CES 2027 — automotive and consumer AI announcements",
+      "iso_date": "2027-01"
     }
   ],
   "key_risks": [
@@ -69,5 +73,6 @@
     "Geopolitical export controls on advanced AI chips could expand beyond China",
     "TSMC supply chain dependency; any disruption to Taiwan production would halt NVIDIA manufacturing",
     "AI capex cycle maturation; if AI ROI disappoints, hyperscaler spending could slow abruptly"
-  ]
+  ],
+  "price_date": "2026-06-23"
 }

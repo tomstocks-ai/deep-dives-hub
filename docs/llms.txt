@@ -1,0 +1,31 @@
+# Deep Dives Hub
+
+> Collaborative stock research site with 84 structured deep dives across 12 investment themes, served as a static JSON API.
+
+## About
+
+Deep Dives Hub is a Zensical-based documentation site providing in-depth analysis of growth and speculative equities. Each deep dive includes investment thesis, financials, bull/base/bear price targets, catalysts with ISO dates, and key risks — all available as structured JSON.
+
+Coverage themes: AI Buildout, Software, Energy, Critical Minerals, Space Economy, Fintech & Digital Payments, Biotechnology & Health Technology, Defense, Quantum Computing.
+
+## JSON API (no auth required, CORS enabled)
+
+- /api/tickers.json — master index of all 84 tracked tickers (sector, theme, sub_theme, rating, price, last_updated)
+- /api/{TICKER}.json — full deep dive data for a single ticker (thesis, financials, bull/base/bear cases, catalysts with iso_date, key_risks)
+- /api/schema.json — JSON Schema v1 for all API files
+
+## Agent Instructions
+
+Full bot prompt (sector routing, template format, quality checklist):
+https://github.com/tomstocks-ai/deep-dives-hub/blob/main/docs/.templates/BOT-PROMPT.md
+
+Developer context (repo layout, canonical ratings, date format):
+https://github.com/tomstocks-ai/deep-dives-hub/blob/main/CLAUDE.md
+
+## Usage Notes
+
+- Poll /api/tickers.json first to discover available tickers; check per-entry `last_updated` and `price_date` for data freshness.
+- Catalyst entries include both a human-readable `date` and a machine-parseable `iso_date` (ISO 8601, nullable for open-ended events).
+- Canonical rating values: BUY | SPEC. BUY | HOLD | HOLD / SPEC. | SELL | SPECULATIVE
+- Data updates on every push to main; cache aggressively — files are static.
+- JSON files are small (< 5 KB each), suitable for direct LLM ingestion.

@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 13.32,
   "market_cap": "$387M",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-02",
   "thesis": "IT services company specializing in data center infrastructure and AI server integration. Recent IPO (November 2024) with explosive growth: revenue 5x in 2 years ($54M → $246M). Turned profitable in 2025 with $15.1M net income. Major multi-year contract for AI rack integration driving growth. Strong balance sheet with $85.5M cash. High customer concentration risk with one major AI customer representing majority of revenue. Extreme volatility (beta 2-4x market).",
   "financials": {
@@ -18,7 +18,8 @@
     "cash": "$85.5M",
     "total_debt": "Minimal",
     "runway": "Strong balance sheet, minimal funding risk",
-    "gross_margin": "Improving with scale"
+    "gross_margin": "Improving with scale",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$20.00",
@@ -45,10 +46,26 @@
     "assumptions": "Revenue grows 30-40% in 2026; Major customer relationship stable; New customer wins moderate concentration risk; Margins stabilize at mid-teens; Multiple compression to 1-1.5x revenue."
   },
   "catalysts": [
-    {"date": "Q1 2026", "event": "First Post-IPO Earnings — Critical validation"},
-    {"date": "2026", "event": "New Customer Announcements — Diversification"},
-    {"date": "2026", "event": "Major Contract Renewal — Revenue visibility"},
-    {"date": "Ongoing", "event": "AI Infrastructure Spending Updates — Demand signal"}
+    {
+      "date": "Q1 2026",
+      "event": "First Post-IPO Earnings — Critical validation",
+      "iso_date": "2026-01"
+    },
+    {
+      "date": "2026",
+      "event": "New Customer Announcements — Diversification",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026",
+      "event": "Major Contract Renewal — Revenue visibility",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Ongoing",
+      "event": "AI Infrastructure Spending Updates — Demand signal",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "High customer concentration — one major AI customer majority of revenue",
@@ -56,5 +73,8 @@
     "Extreme volatility (beta 2-4x market)",
     "Margin compression risk from business mix shift",
     "Competition from established integrators (Flex, Jabil, Celestica)"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Servers & Systems",
+  "price_date": "2026-04-02"
 }

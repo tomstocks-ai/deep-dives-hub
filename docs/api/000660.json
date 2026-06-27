@@ -44,10 +44,26 @@
     "assumptions": "HBM growth moderates but remains strong through 2027. Standard DRAM pricing normalizes gradually. Operating margins compress from 70%+ to 40-50% range. P/E ~10-12x on normalized earnings."
   },
   "catalysts": [
-    {"date": "2026-07", "event": "Q2 2026 earnings — HBM revenue mix and margin sustainability"},
-    {"date": "2026-08", "event": "HBM4 mass production volume ramp confirmation"},
-    {"date": "2026-10", "event": "NVIDIA Rubin/Blackwell launch validates HBM4 demand trajectory"},
-    {"date": "2027-01", "event": "FY2026 full-year results and FY2027 capex guidance"}
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 earnings — HBM revenue mix and margin sustainability",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026-08",
+      "event": "HBM4 mass production volume ramp confirmation",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-10",
+      "event": "NVIDIA Rubin/Blackwell launch validates HBM4 demand trajectory",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "2027-01",
+      "event": "FY2026 full-year results and FY2027 capex guidance",
+      "iso_date": "2027-01"
+    }
   ],
   "key_risks": [
     "Memory cyclicality — current 70%+ operating margins are unsustainable historically",
@@ -55,5 +71,6 @@
     "AI capex cut risk from hyperscaler demand slowdown",
     "China export controls and geopolitical risk",
     "KRW/USD currency risk for foreign investors"
-  ]
+  ],
+  "price_date": "2026-06-19"
 }

@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 234.71,
   "market_cap": "$52B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-21",
   "thesis": "Cerebras designs and manufactures wafer-scale AI compute chips (WSE-3) with a unique moat in massive single-chip integration. The company is transitioning from heavy customer concentration (86% from UAE/G42 in 2025) to a diversified base anchored by a $20B+ OpenAI Master Relationship Agreement and an AWS binding term sheet. 2026 revenue guidance of >$800M (+50%+) and a $24.6B RPO backlog provide multi-year visibility, but contra-revenue accounting and warrant dilution from the OpenAI deal will pressure reported margins in H1 2026. Extreme valuation (~65x sales) and customer concentration risk warrant a Speculative Buy rating.",
   "financials": {
@@ -44,10 +44,26 @@
     "assumptions": "2026 guidance met; backlog converts steadily; margins stabilize in H2 2026; OpenAI + AWS diversify revenue; no major competitive share loss."
   },
   "catalysts": [
-    {"date": "2026-06-23", "event": "Q1 2026 earnings — first post-IPO report; EPS est -$0.14, revenue est $56.65M"},
-    {"date": "2026-08", "event": "Q2 2026 earnings — OpenAI ramp visibility and margin trajectory"},
-    {"date": "2026", "event": "AWS integration milestones — product availability or customer adoption updates"},
-    {"date": "2026", "event": "Potential new customer announcements beyond OpenAI/AWS"}
+    {
+      "date": "2026-06-23",
+      "event": "Q1 2026 earnings — first post-IPO report; EPS est -$0.14, revenue est $56.65M",
+      "iso_date": "2026-06-23"
+    },
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 earnings — OpenAI ramp visibility and margin trajectory",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026",
+      "event": "AWS integration milestones — product availability or customer adoption updates",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026",
+      "event": "Potential new customer announcements beyond OpenAI/AWS",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "Customer concentration: historically 86% from UAE/G42; now acute OpenAI dependency",
@@ -55,5 +71,6 @@
     "Valuation: ~$52B market cap on ~$800M revenue = ~65x sales",
     "Competition from NVIDIA GPUs and custom silicon (Broadcom, Marvell)",
     "TSMC supply chain and geopolitical risk for wafer-scale fabrication"
-  ]
+  ],
+  "price_date": "2026-06-21"
 }

@@ -42,8 +42,16 @@
     "assumptions": "Stable trading volumes with subscription & services growth offsetting transaction fee compression; modest crypto market recovery; regulatory environment remains manageable but not transformative."
   },
   "catalysts": [
-    {"date": "2026-07-31", "event": "Q2 2026 Earnings — transaction volume and USDC trends"},
-    {"date": "2026-09-30", "event": "GENIUS Act stablecoin legislation vote (expected H2 2026)"}
+    {
+      "date": "2026-07-31",
+      "event": "Q2 2026 Earnings — transaction volume and USDC trends",
+      "iso_date": "2026-07-31"
+    },
+    {
+      "date": "2026-09-30",
+      "event": "GENIUS Act stablecoin legislation vote (expected H2 2026)",
+      "iso_date": "2026-09-30"
+    }
   ],
   "key_risks": [
     "Regulatory uncertainty and SEC enforcement actions",
@@ -51,5 +59,6 @@
     "Crypto winter volume collapse impacting transaction revenue",
     "Stablecoin revenue concentration sensitive to Federal Reserve interest rates",
     "Security and operational risk from exchange custody"
-  ]
+  ],
+  "price_date": "2026-06-24"
 }

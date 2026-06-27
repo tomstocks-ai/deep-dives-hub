@@ -6,7 +6,7 @@
   "exchange": "NYSE",
   "price": 15.95,
   "market_cap": "$9.2B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-20",
   "thesis": "BMNR is a leveraged proxy for Ethereum price appreciation. With ~5.62M ETH (~$9.2B), it is one of the largest public ETH treasuries. The stock trades at a discount to implied NAV, offering asymmetric upside if ETH rallies. Massive GAAP losses are non-cash mark-to-market adjustments. Preferred offering (BMNP) introduces dilution risk but funds additional ETH deployment. Chairman Tom Lee provides institutional credibility.",
   "financials": {
@@ -52,19 +52,23 @@
   "catalysts": [
     {
       "date": "2026-06-10",
-      "event": "9.50% Series A Preferred (BMNP) closes, raising ~$273.8M for ETH deployment"
+      "event": "9.50% Series A Preferred (BMNP) closes, raising ~$273.8M for ETH deployment",
+      "iso_date": "2026-06-10"
     },
     {
       "date": "2026-08-15",
-      "event": "Q2 2026 10-Q filing reveals updated ETH holdings and unrealized gain/loss position"
+      "event": "Q2 2026 10-Q filing reveals updated ETH holdings and unrealized gain/loss position",
+      "iso_date": "2026-08-15"
     },
     {
       "date": "2026-12-31",
-      "event": "Potential ETH staking yield deployment; first material non-operating income"
+      "event": "Potential ETH staking yield deployment; first material non-operating income",
+      "iso_date": "2026-12-31"
     },
     {
       "date": "2026-06-30",
-      "event": "Possible Russell 3000 inclusion if market cap and float criteria are met"
+      "event": "Possible Russell 3000 inclusion if market cap and float criteria are met",
+      "iso_date": "2026-06-30"
     }
   ],
   "key_risks": [
@@ -76,5 +80,6 @@
     "Operating business weakness — $16.7M revenue insufficient to cover overhead"
   ],
   "theme": "Fintech & Digital Payments",
-  "sub_theme": "Stablecoins / Crypto Finance"
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "price_date": "2026-06-20"
 }

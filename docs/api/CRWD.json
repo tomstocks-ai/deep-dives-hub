@@ -42,16 +42,39 @@
     "assumptions": "Revenue grows 24–25% through FY2027, FCF margin sustains 30%+, market assigns 25x EV/ARR on best-in-class SaaS metrics and platform leadership"
   },
   "catalysts": [
-    {"date": "2026-07-02", "event": "4-for-1 stock split effective"},
-    {"date": "2026-08", "event": "Q2 FY2027 Earnings — confirms FY27 ARR guidance trajectory"},
-    {"date": "2026-09", "event": "Fal.Con annual user conference — new product announcements"},
-    {"date": "2026-11", "event": "Q3 FY2027 Earnings — first FY2028 guidance"},
-    {"date": "2027", "event": "Charlotte AI general availability and monetization metrics"}
+    {
+      "date": "2026-07-02",
+      "event": "4-for-1 stock split effective",
+      "iso_date": "2026-07-02"
+    },
+    {
+      "date": "2026-08",
+      "event": "Q2 FY2027 Earnings — confirms FY27 ARR guidance trajectory",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-09",
+      "event": "Fal.Con annual user conference — new product announcements",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 FY2027 Earnings — first FY2028 guidance",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2027",
+      "event": "Charlotte AI general availability and monetization metrics",
+      "iso_date": "2027"
+    }
   ],
   "key_risks": [
     "Premium valuation (25x EV/ARR) leaves limited room for execution missteps",
     "Microsoft Defender bundling threat in price-sensitive mid-market segments",
     "Natural growth deceleration at $4.5B+ scale could compress multiples",
     "Product complexity risk from rapid expansion into cloud, identity, and observability"
-  ]
+  ],
+  "theme": "Software",
+  "sub_theme": "Cybersecurity",
+  "price_date": "2026-06-19"
 }

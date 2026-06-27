@@ -17,7 +17,10 @@
     "net_loss": "-$1.62/share",
     "cash": "Declining due to losses",
     "market_cap": "$1.03B",
-    "fy2024_revenue": "$314M"
+    "fy2024_revenue": "$314M",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$35–40",
@@ -44,10 +47,26 @@
     "assumptions": "China stabilizes but doesn't accelerate; Revenue grows 10-15% annually; Breakeven profitability by late FY2026; Stock trades sideways as turnaround plays out; Multiple compression offsets earnings growth."
   },
   "catalysts": [
-    {"date": "April 2026", "event": "Q1 2026 Earnings Call — Guidance update critical"},
-    {"date": "May 2026", "event": "Analyst Day / Conference — Strategic update"},
-    {"date": "July 2026", "event": "Q2 2026 Earnings — Trend confirmation"},
-    {"date": "Ongoing", "event": "China Economic Data — Impacts 60% of revenue"}
+    {
+      "date": "April 2026",
+      "event": "Q1 2026 Earnings Call — Guidance update critical",
+      "iso_date": "2026-04"
+    },
+    {
+      "date": "May 2026",
+      "event": "Analyst Day / Conference — Strategic update",
+      "iso_date": "2026-05"
+    },
+    {
+      "date": "July 2026",
+      "event": "Q2 2026 Earnings — Trend confirmation",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "Ongoing",
+      "event": "China Economic Data — Impacts 60% of revenue",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "60% revenue concentration in China — regulatory/economic vulnerability",
@@ -55,5 +74,8 @@
     "Trading at 114x forward earnings — expensive",
     "Competition from LASIK and SMILE procedures",
     "Single product risk — ~95% of revenue from ICL products"
-  ]
+  ],
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Medical Devices",
+  "price_date": "2026-04-09"
 }

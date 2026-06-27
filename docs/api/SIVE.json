@@ -6,7 +6,7 @@
   "exchange": "OMXSTO",
   "price": 86.35,
   "market_cap": "$520M",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
   "thesis": "Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO satellite terminals and 5G infrastructure. Revenue growing 12%+ YoY with expanding gross margins and narrowing losses. Pre-profitability with ~2.5–3 years cash runway. Potential U.S. dual listing is a near-term catalyst. Asymmetric exposure to the satellite connectivity boom at a reasonable valuation for a growth semiconductor story.",
   "financials": {
@@ -42,10 +42,26 @@
     "assumptions": "Steady satellite terminal growth; moderate 5G traction; revenue reaches SEK 450M by 2027; company achieves EBITDA breakeven by 2028"
   },
   "catalysts": [
-    {"date": "2026-08", "event": "Q2 2026 earnings — satellite order rebound after Q1 softness"},
-    {"date": "2026-Q3", "event": "Potential U.S. dual listing update / timeline"},
-    {"date": "2026-11", "event": "Q3 2026 earnings — FY2027 guidance"},
-    {"date": "2027", "event": "LEO constellation deployment milestones (Amazon Kuiper, Telesat)"}
+    {
+      "date": "2026-08",
+      "event": "Q2 2026 earnings — satellite order rebound after Q1 softness",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-Q3",
+      "event": "Potential U.S. dual listing update / timeline",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 2026 earnings — FY2027 guidance",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2027",
+      "event": "LEO constellation deployment milestones (Amazon Kuiper, Telesat)",
+      "iso_date": "2027"
+    }
   ],
   "key_risks": [
     "Customer concentration in satellite terminal market",
@@ -53,5 +69,8 @@
     "FX exposure (USD revenue, SEK costs)",
     "5G mmWave market timing uncertainty",
     "Competition from larger RF semiconductor companies"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Photonics & Optical Interconnects",
+  "price_date": "2026-06-15"
 }

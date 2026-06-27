@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Cloud Observability / SaaS",
   "exchange": "NASDAQ",
-  "price": 229.90,
+  "price": 229.9,
   "market_cap": "$83B",
   "rating": "HOLD",
   "last_updated": "2026-06-14",
@@ -42,14 +42,29 @@
     "assumptions": "Steady 20–25% growth with 22–25% operating margins. Platform consolidation continues but no acceleration. Multiple compresses modestly to 15–18x as company matures. Stock tracks fundamentals with limited alpha."
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q2 2026 Earnings — guidance update and AI traction metrics"},
-    {"date": "2026-09-01", "event": "Datadog DASH Conference — product announcements"},
-    {"date": "2026-11-01", "event": "FY2027 Guidance — first look at next-year growth trajectory"}
+    {
+      "date": "2026-08-01",
+      "event": "Q2 2026 Earnings — guidance update and AI traction metrics",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-09-01",
+      "event": "Datadog DASH Conference — product announcements",
+      "iso_date": "2026-09-01"
+    },
+    {
+      "date": "2026-11-01",
+      "event": "FY2027 Guidance — first look at next-year growth trajectory",
+      "iso_date": "2026-11-01"
+    }
   ],
   "key_risks": [
     "Valuation risk: 20x+ EV/Revenue priced for perfection",
     "Growth deceleration: cloud optimization or macro weakness",
     "Competition: Dynatrace, Grafana, bundled cloud monitoring",
     "SBC dilution: GAAP margins significantly lower than non-GAAP"
-  ]
+  ],
+  "theme": "Software",
+  "sub_theme": "Data & Analytics",
+  "price_date": "2026-06-14"
 }

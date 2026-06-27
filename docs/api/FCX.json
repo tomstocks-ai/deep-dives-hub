@@ -20,7 +20,10 @@
     "operating_cash_flow": "$6.8B",
     "free_cash_flow": "$3.2B",
     "unit_net_cash_costs": "$2.07/lb (highly competitive)",
-    "debt_to_equity": "Low (investment grade BBB-)"
+    "debt_to_equity": "Low (investment grade BBB-)",
+    "gross_margin": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$81.00",
@@ -46,10 +49,26 @@
     "assumptions": "Copper averages $4.50/lb (current levels); Grasberg ramps as planned through 2027; Indonesia negotiations result in status quo; Steady copper demand growth (3-4% CAGR)."
   },
   "catalysts": [
-    {"date": "2026-04-16", "event": "Q1 2026 Earnings — Quarterly production update"},
-    {"date": "2026-07", "event": "Grasberg Ramp Update — Production milestone"},
-    {"date": "Q3 2026", "event": "Indonesia Terms Negotiation — Critical regulatory milestone"},
-    {"date": "Ongoing", "event": "Copper Price Movements — LME inventory levels"}
+    {
+      "date": "2026-04-16",
+      "event": "Q1 2026 Earnings — Quarterly production update",
+      "iso_date": "2026-04-16"
+    },
+    {
+      "date": "2026-07",
+      "event": "Grasberg Ramp Update — Production milestone",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "Q3 2026",
+      "event": "Indonesia Terms Negotiation — Critical regulatory milestone",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Copper Price Movements — LME inventory levels",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Indonesia political/regulatory risk — government majority stakeholder through Inalum",
@@ -57,5 +76,8 @@
     "Grasberg operational execution — underground ramp-up complexity",
     "China demand slowdown — 40% of global copper demand",
     "ESG/tailings management risks in mining operations"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Copper",
+  "price_date": "2026-04-03"
 }

@@ -42,10 +42,26 @@
     "assumptions": "Revenue grows 15% annually through 2028 on backlog execution. EBITDA margins stabilize at 8.5–9.0%. Debt is managed via operating cash flow. No equity raise needed."
   },
   "catalysts": [
-    {"date": "2026-07-30", "event": "Q2 2026 earnings release — watch margin trajectory and backlog update"},
-    {"date": "2026-08-15", "event": "Potential data center or clean energy contract announcements"},
-    {"date": "2026-10-30", "event": "Q3 2026 earnings release"},
-    {"date": "2027-01-15", "event": "FY2027 guidance and backlog update"}
+    {
+      "date": "2026-07-30",
+      "event": "Q2 2026 earnings release — watch margin trajectory and backlog update",
+      "iso_date": "2026-07-30"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Potential data center or clean energy contract announcements",
+      "iso_date": "2026-08-15"
+    },
+    {
+      "date": "2026-10-30",
+      "event": "Q3 2026 earnings release",
+      "iso_date": "2026-10-30"
+    },
+    {
+      "date": "2027-01-15",
+      "event": "FY2027 guidance and backlog update",
+      "iso_date": "2027-01-15"
+    }
   ],
   "key_risks": [
     "Project execution risk on large fixed-price contracts",
@@ -53,5 +69,8 @@
     "Labor availability and wage inflation are persistent cost pressures",
     "Tariffs on steel and equipment directly impact material costs",
     "Valuation at 62x trailing P/E leaves no room for error"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Electrical Contractors",
+  "price_date": "2026-06-13"
 }

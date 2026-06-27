@@ -42,15 +42,34 @@
     "assumptions": "Steady electrification demand; modest supply growth; copper trades $4.50–5.00/lb; COPX returns 15–20% annually."
   },
   "catalysts": [
-    {"date": "2026-06-30", "event": "Monthly China PMI data"},
-    {"date": "2026-07-15", "event": "Quarterly copper inventory reports (LME, COMEX, SHFE)"},
-    {"date": "2026-07-22", "event": "FCX Q2 earnings — watch for copper guidance"},
-    {"date": "2026-08-15", "event": "China potential stimulus announcement"}
+    {
+      "date": "2026-06-30",
+      "event": "Monthly China PMI data",
+      "iso_date": "2026-06-30"
+    },
+    {
+      "date": "2026-07-15",
+      "event": "Quarterly copper inventory reports (LME, COMEX, SHFE)",
+      "iso_date": "2026-07-15"
+    },
+    {
+      "date": "2026-07-22",
+      "event": "FCX Q2 earnings — watch for copper guidance",
+      "iso_date": "2026-07-22"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "China potential stimulus announcement",
+      "iso_date": "2026-08-15"
+    }
   ],
   "key_risks": [
     "China hard landing / property crash",
     "Substitution by aluminum in wiring",
     "Recession crushing industrial demand",
     "Political risk in Peru/DRC mining regions"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Copper",
+  "price_date": "2026-06-07"
 }

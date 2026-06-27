@@ -4,9 +4,9 @@
   "sector": "Technology",
   "industry": "Solid-State Batteries",
   "exchange": "NASDAQ",
-  "price": 7.00,
+  "price": 7.0,
   "market_cap": "$3.6B",
-  "rating": "HOLD / SPECULATIVE",
+  "rating": "HOLD / SPEC.",
   "last_updated": "2026-06-11",
   "thesis": "Pre-revenue solid-state battery developer with a proprietary ceramic separator technology and anchor partnership with Volkswagen. Eagle Line pilot production is now operational, but commercial revenue is unlikely before 2027–2028. Binary outcome: successful licensing model or cash-burn-to-zero. Elevated short interest (17%) creates squeeze potential on positive OEM news.",
   "financials": {
@@ -42,9 +42,21 @@
     "assumptions": "Technology works but timeline extends to 2029–2030; single major OEM partner; modest licensing revenue by 2030; one or more dilutive capital raises before profitability."
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q2 2026 earnings — Eagle Line operational update"},
-    {"date": "2026-09-01", "event": "2026 technology roadmap reveal (next-gen cell formats)"},
-    {"date": "2026-12-01", "event": "Potential first sample cell deliveries to OEMs for validation"}
+    {
+      "date": "2026-08-01",
+      "event": "Q2 2026 earnings — Eagle Line operational update",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-09-01",
+      "event": "2026 technology roadmap reveal (next-gen cell formats)",
+      "iso_date": "2026-09-01"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Potential first sample cell deliveries to OEMs for validation",
+      "iso_date": "2026-12-01"
+    }
   ],
   "key_risks": [
     "Pre-revenue with ~2.5–3 years of cash runway",
@@ -52,5 +64,8 @@
     "Intensifying competition from Toyota, Samsung SDI, Solid Power",
     "High dilution risk from future capital raises",
     "EV demand slowdown reduces OEM urgency for next-gen batteries"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Solid-State Batteries",
+  "price_date": "2026-06-11"
 }

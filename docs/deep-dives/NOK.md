@@ -109,7 +109,7 @@ Q1 2026 showed modest top-line growth with margin improvement in Network Infrast
 | P/E (FY2026e) | ~18–20x |
 | EV/EBITDA | ~8–9x |
 | P/S (FY2026e) | ~1.1x |
-| 52-week range | $4.00 – $17.45 |
+| 52-week range | \$4.00 – \$17.45 |
 | Dividend yield | ~3.5% |
 
 ---
@@ -126,9 +126,9 @@ Q1 2026 showed modest top-line growth with margin improvement in Network Infrast
 
 | Scenario | Assumptions | Target |
 |----------|-------------|--------|
-| **Bull** | Mobile Networks margins recover to 8–10%; optical/AI fiber demand accelerates post-Infinera; licensing renewals exceed expectations; multiple re-rating to 22x P/E | **$18–$20** |
-| **Base** | Modest mobile networks recovery; stable infrastructure growth; licensing flat-to-up; 18x P/E | **$14–$16** |
-| **Bear** | Mobile Networks margin pressure persists; geopolitical headwinds (India tariffs, China restrictions); licensing disputes; 12x P/E | **$9–$11** |
+| **Bull** | Mobile Networks margins recover to 8–10%; optical/AI fiber demand accelerates post-Infinera; licensing renewals exceed expectations; multiple re-rating to 22x P/E | **$18–\$20** |
+| **Base** | Modest mobile networks recovery; stable infrastructure growth; licensing flat-to-up; 18x P/E | **$14–\$16** |
+| **Bear** | Mobile Networks margin pressure persists; geopolitical headwinds (India tariffs, China restrictions); licensing disputes; 12x P/E | **$9–\$11** |
 
 **Analyst consensus:** Mixed — some see value at current levels given the dividend yield and net cash position, while others are concerned about the timing of mobile networks recovery and competitive dynamics with Ericsson and Samsung.
 
@@ -173,16 +173,16 @@ Q1 2026 showed modest top-line growth with margin improvement in Network Infrast
 
 **Position sizing:** Small-to-medium (2–4% of portfolio)
 
-**Entry strategy:** Current price (~$13.49) is near fair value. Existing holders should hold for the dividend yield and potential mobile networks recovery. New capital should wait for a pullback to $11.50–$12.50 or a clear margin inflection in Mobile Networks.
+**Entry strategy:** Current price (~$13.49) is near fair value. Existing holders should hold for the dividend yield and potential mobile networks recovery. New capital should wait for a pullback to \$11.50–\$12.50 or a clear margin inflection in Mobile Networks.
 
-**Stop loss:** $9.50 (below bear-case support and 52-week low cluster)
+**Stop loss:** \$9.50 (below bear-case support and 52-week low cluster)
 
 **Key levels:**
 
-- **Entry:** $13.49 (current) or $11.50–$12.50 on pullback
-- **Base target:** $14–$16
-- **Bull target:** $18–$20
-- **Stop:** $9.50
+- **Entry:** \$13.49 (current) or \$11.50–\$12.50 on pullback
+- **Base target:** \$14–\$16
+- **Bull target:** \$18–\$20
+- **Stop:** \$9.50
 
 **Catalyst calendar:**
 
@@ -203,7 +203,7 @@ Q1 2026 showed modest top-line growth with margin improvement in Network Infrast
 
 **Mobile Networks margin pressure:** The 5G equipment business is brutally competitive. Ericsson, Samsung, and Chinese vendors are all fighting for the same contracts from Verizon, AT&T, and others. This competition drives prices down, making it hard for Nokia to earn strong profits in this segment despite being #2 globally.
 
-**P/E of 18–20x in context:** For every $1 of annual profit, investors pay $18–$20. This is fair for a company with stable revenue, a dividend, and potential recovery upside, but it's not a bargain. If the mobile networks business doesn't improve, the multiple could compress to 12–14x, creating downside to $9–$11.
+**P/E of 18–20x in context:** For every \$1 of annual profit, investors pay \$18–\$20. This is fair for a company with stable revenue, a dividend, and potential recovery upside, but it's not a bargain. If the mobile networks business doesn't improve, the multiple could compress to 12–14x, creating downside to \$9–\$11.
 
 ---
 
@@ -227,13 +227,13 @@ Q1 2026 showed modest top-line growth with margin improvement in Network Infrast
 |-----------|-------|
 | **Ticker** | NOK |
 | **Exchange** | NYSE |
-| **Price** | $13.49 |
-| **52W Range** | $4.00 – $17.45 |
+| **Price** | \$13.49 |
+| **52W Range** | \$4.00 – \$17.45 |
 | **RSI(14)** | 59.65 |
 | **Rating** | HOLD |
-| **Bull Target** | $18–$20 |
-| **Base Target** | $14–$16 |
-| **Bear Target** | $9–$11 |
+| **Bull Target** | \$18–\$20 |
+| **Base Target** | \$14–\$16 |
+| **Bear Target** | \$9–\$11 |
 | **Dividend Yield** | ~3.5% |
 | **Net Cash** | €3.8B |
 | **Last Updated** | 2026-06-21 |

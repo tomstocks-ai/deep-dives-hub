@@ -8,7 +8,7 @@
   "exchange": "NASDAQ",
   "price": 103.25,
   "market_cap": "$92B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-24",
   "thesis": "Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem with growing crypto revenue, subscription services (Gold), and international expansion. The SPEC. BUY rating reflects strong brand loyalty among retail investors, crypto momentum, and recurring revenue growth, offset by stretched valuation and regulatory risks.",
   "financials": {
@@ -54,23 +54,28 @@
   "catalysts": [
     {
       "date": "H2 2026",
-      "event": "Crypto product expansion (new tokens, staking, custody)"
+      "event": "Crypto product expansion (new tokens, staking, custody)",
+      "iso_date": "2026-07"
     },
     {
       "date": "H2 2026",
-      "event": "EU market deepening with local licensing and marketing"
+      "event": "EU market deepening with local licensing and marketing",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026–2027",
-      "event": "Potential resolution of SEC Wells notice"
+      "event": "Potential resolution of SEC Wells notice",
+      "iso_date": "2026"
     },
     {
       "date": "2026–2027",
-      "event": "Fed rate cuts potentially boosting trading activity"
+      "event": "Fed rate cuts potentially boosting trading activity",
+      "iso_date": "2026"
     },
     {
       "date": "2026–2027",
-      "event": "Gold subscriber milestones (5M+, 10M+)"
+      "event": "Gold subscriber milestones (5M+, 10M+)",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -89,5 +94,6 @@
     "rsi_14": 64.3,
     "52_week_low": 63.52,
     "52_week_high": 153.86
-  }
+  },
+  "price_date": "2026-06-24"
 }

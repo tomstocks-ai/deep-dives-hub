@@ -165,9 +165,9 @@ The neutral RSI suggests the stock is not stretched technically, leaving room fo
 
 - BlackBerry Limited FY2026 Q1 Earnings Release and Management Discussion
 - BlackBerry FY2026 Revenue and Adjusted EBITDA Guidance (raised lower end)
-- QNX Revenue Guidance ($250–$270M) and Secure Communications Guidance ($234–$244M)
-- Q1 FY2026 Secure Communications Segment Results: $59.5M revenue, $9.6M adjusted EBITDA, 70% gross margin
-- Company press releases on $10M share buyback authorization and execution
+- QNX Revenue Guidance ($250–\$270M) and Secure Communications Guidance ($234–\$244M)
+- Q1 FY2026 Secure Communications Segment Results: \$59.5M revenue, \$9.6M adjusted EBITDA, 70% gross margin
+- Company press releases on \$10M share buyback authorization and execution
 - Industry reports on automotive embedded OS market and software-defined vehicle trends
 - Competitive analysis of endpoint security market (CrowdStrike, Microsoft, Palo Alto Networks)
 

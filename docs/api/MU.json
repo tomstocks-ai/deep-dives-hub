@@ -21,7 +21,7 @@
     "fcf": "$6.9B (Q2 FY2026)"
   },
   "bull_case": {
-    "target": "$1,400\u20131,600",
+    "target": "$1,400–1,600",
     "drivers": [
       "HBM demand exceeds supply, ASPs rise further",
       "Data center memory spend sustains 50%+ growth",
@@ -29,7 +29,7 @@
     ]
   },
   "bear_case": {
-    "target": "$600\u2013800",
+    "target": "$600–800",
     "risks": [
       "Memory cycle turns, ASPs collapse",
       "Inventory builds as AI capex slows",
@@ -37,21 +37,24 @@
     ]
   },
   "base_case": {
-    "target": "$1,100\u20131,300",
-    "assumptions": "AI memory demand remains strong but moderates in H2 2027. FY2026 revenue of $85\u201390B with EPS of $35\u201340. Cyclical normalization begins but is cushioned by HBM mix shift."
+    "target": "$1,100–1,300",
+    "assumptions": "AI memory demand remains strong but moderates in H2 2027. FY2026 revenue of $85–90B with EPS of $35–40. Cyclical normalization begins but is cushioned by HBM mix shift."
   },
   "catalysts": [
     {
       "date": "2026-06-24",
-      "event": "Q3 FY2026 earnings and guidance"
+      "event": "Q3 FY2026 earnings and guidance",
+      "iso_date": "2026-06-24"
     },
     {
       "date": "2026-08-27",
-      "event": "Q4 FY2026 earnings and FY2027 guidance"
+      "event": "Q4 FY2026 earnings and FY2027 guidance",
+      "iso_date": "2026-08-27"
     },
     {
       "date": "2026-09-15",
-      "event": "NVIDIA GTC / next-gen AI accelerator announcements"
+      "event": "NVIDIA GTC / next-gen AI accelerator announcements",
+      "iso_date": "2026-09-15"
     }
   ],
   "key_risks": [
@@ -60,5 +63,6 @@
     "Hyperscaler AI capex concentration risk",
     "High valuation leaves little margin for error"
   ],
-  "sector": "Technology"
+  "sector": "Technology",
+  "price_date": "2026-06-19"
 }

@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 44.32,
   "market_cap": "$1.36B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-06",
   "thesis": "Worldwide supplier of semiconductor test and burn-in solutions pivoting from EV/SiC automotive market to AI/data center opportunities. FOX family systems enable wafer-level burn-in for silicon carbide power semiconductors and now AI processors. Strong balance sheet with $31M cash and minimal debt, but currently unprofitable with negative FCF. High valuation (25x P/S) reflects AI-driven optimism.",
   "financials": {
@@ -44,9 +44,21 @@
     "assumptions": "Turnaround takes longer than expected but progress continues; AI revenue grows but doesn't fully offset EV/SiC softness until late FY2027; Company achieves break-even by end of FY2027."
   },
   "catalysts": [
-    {"date": "2026-04-07", "event": "Q3 FY2026 Earnings — First quarter of reinstated guidance execution"},
-    {"date": "2026-07", "event": "Q4 FY2026 Earnings — FY2027 guidance will drive stock direction"},
-    {"date": "Ongoing", "event": "New AI/hyperscaler customer announcements"}
+    {
+      "date": "2026-04-07",
+      "event": "Q3 FY2026 Earnings — First quarter of reinstated guidance execution",
+      "iso_date": "2026-04-07"
+    },
+    {
+      "date": "2026-07",
+      "event": "Q4 FY2026 Earnings — FY2027 guidance will drive stock direction",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "Ongoing",
+      "event": "New AI/hyperscaler customer announcements",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Customer concentration risk — pivoting from EV/SiC to AI dependence",
@@ -54,5 +66,8 @@
     "High valuation vulnerable to execution misses",
     "Competition from larger semiconductor test companies (Advantest, Teradyne)",
     "Heavy insider selling signals lack of confidence"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "price_date": "2026-04-06"
 }

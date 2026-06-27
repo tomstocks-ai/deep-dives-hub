@@ -44,16 +44,37 @@
     "assumptions": "Revenue grows 20–21% through FY2026, FCF margin sustains 35%+, market assigns 12x EV/Revenue on best-in-class SaaS metrics and platform leadership"
   },
   "catalysts": [
-    {"date": "2026-07", "event": "Q2 2026 Earnings — confirms FY2026 subscription revenue and margin guidance"},
-    {"date": "2026-09", "event": "Knowledge annual user conference — new product announcements and Now Assist updates"},
-    {"date": "2026-11", "event": "Q3 2026 Earnings — first look at FY2027 guidance and Now Assist run-rate"},
-    {"date": "2026-H2", "event": "AI agent general availability and monetization metrics"},
-    {"date": "2026-2027", "event": "Strategic partnership updates (NVIDIA, Microsoft) and joint go-to-market expansion"}
+    {
+      "date": "2026-07",
+      "event": "Q2 2026 Earnings — confirms FY2026 subscription revenue and margin guidance",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026-09",
+      "event": "Knowledge annual user conference — new product announcements and Now Assist updates",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 2026 Earnings — first look at FY2027 guidance and Now Assist run-rate",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2026-H2",
+      "event": "AI agent general availability and monetization metrics",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Strategic partnership updates (NVIDIA, Microsoft) and joint go-to-market expansion",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "Premium valuation (~12x EV/Revenue) leaves limited room for execution missteps",
     "Microsoft and Salesforce bundling threat in price-sensitive mid-market segments",
     "Natural growth deceleration at $15B+ scale could compress multiples",
     "AI monetization risk if enterprise AI deployment is slower than expected"
-  ]
+  ],
+  "price_date": "2026-06-24"
 }

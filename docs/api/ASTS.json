@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 82.87,
   "market_cap": "$31.7B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-04-02",
   "thesis": "Pioneering the world's first space-based cellular broadband network enabling standard smartphones to connect directly to satellites without specialized hardware. First-mover advantage in direct-to-cell technology with 5 BlueBird satellites operational. Partnerships with AT&T, Verizon, Vodafone, and 50+ global carriers represent nearly 3 billion potential subscribers. $70.9M revenue in 2025 (up 1,505%) proves technology works, but extreme 447x P/S valuation prices in massive execution success. Heavy competition from SpaceX Starlink is the primary threat.",
   "financials": {
@@ -19,7 +19,8 @@
     "eps_diluted": "-$1.34",
     "cash": "$2.34B",
     "total_debt": "$2.2B",
-    "fcf": "-$1.24B (negative)"
+    "fcf": "-$1.24B (negative)",
+    "net_income": "N/A"
   },
   "bull_case": {
     "target": "$180–220",
@@ -46,10 +47,26 @@
     "assumptions": "Successful satellite deployment with mixed adoption; SpaceX competition real but ASTS maintains 30-40% market share; Revenue grows to $400-600M by 2027; EBITDA breakeven by 2028-2029."
   },
   "catalysts": [
-    {"date": "Ongoing", "event": "BlueBird Satellite Launches — Monthly through 2026"},
-    {"date": "H2 2026", "event": "Verizon Service Launch — Major carrier going live"},
-    {"date": "2026-2027", "event": "Constellation Completion (45-60 satellites) — Continuous coverage milestone"},
-    {"date": "Ongoing", "event": "Government Contract Wins — Higher-margin revenue validation"}
+    {
+      "date": "Ongoing",
+      "event": "BlueBird Satellite Launches — Monthly through 2026",
+      "iso_date": null
+    },
+    {
+      "date": "H2 2026",
+      "event": "Verizon Service Launch — Major carrier going live",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Constellation Completion (45-60 satellites) — Continuous coverage milestone",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Government Contract Wins — Higher-margin revenue validation",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "SpaceX competition with deeper pockets and lower launch costs",
@@ -57,5 +74,8 @@
     "Extreme 447x P/S valuation vulnerable to any execution miss",
     "Customer concentration with AT&T and Verizon as key partners",
     "Technology execution risk — satellites are complex with launch/manufacturing risks"
-  ]
+  ],
+  "theme": "Space Economy",
+  "sub_theme": "Satellite Connectivity",
+  "price_date": "2026-04-02"
 }

@@ -167,5 +167,5 @@ Nuclear sentiment sours; recession delays reactor builds; secondary supply fills
 4. [Investing News Network — Uranium Forecast](https://investingnews.com/uranium-forecast/)
 5. [Goldinvest — Uranium Market Set for New Rally](https://goldinvest.de/en/uranium-market-set-for-new-rally-supply-shortages-and-nuclear-renaissance-to-drive-prices-in-2026)
 6. [Carbon Credits — Uranium Prices 2026](https://carboncredits.com/uranium-prices-2026-supply-crunch-and-rising-demand-fuel-a-nuclear-bull-market/)
-7. [Forbes — Uranium Marching Towards $100/lb](https://www.forbes.com/sites/timtreadgold/2025/09/02/uranium-marching-towards-100lb-as-supply-squeezed/)
+7. [Forbes — Uranium Marching Towards \$100/lb](https://www.forbes.com/sites/timtreadgold/2025/09/02/uranium-marching-towards-100lb-as-supply-squeezed/)
 8. [Yahoo Finance — URA](https://finance.yahoo.com/quote/URA)

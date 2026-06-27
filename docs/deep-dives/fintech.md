@@ -8,12 +8,12 @@ title: Fintech & Digital Payments
 ## Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
-| <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
+| <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -52,7 +52,7 @@ One of the largest publicly traded Bitcoin miners with 1.7 GW captive power capa
 
 Publicly traded Ethereum treasury company modeled on the MicroStrategy playbook, but focused on ETH. Holds approximately 5.62 million ETH (~$9.2B), making it one of the largest public ETH treasuries globally. Also operates BTC ecosystem services (consulting, advisory, equipment leasing) and sells mining equipment while winding down proprietary self-mining. Chairman Tom Lee (Fundstrat cofounder) provides institutional credibility. Recent 9.50% Series A Preferred (BMNP) offering raised ~$273.8M to fund additional ETH deployment. Massive GAAP losses ($8.69B TTM) are non-cash mark-to-market adjustments on digital assets. At ~$15.95, the stock trades at a significant discount to implied NAV, offering asymmetric upside to ETH rallies.
 
-**Bull:** $28–$35 · **Base:** $18–$22 · **Bear:** $8–$12
+**Bull:** \$28–\$35 · **Base:** \$18–\$22 · **Bear:** \$8–\$12
 
 [:material-arrow-right: Full Deep Dive](BMNR.md)
 
@@ -62,9 +62,9 @@ Publicly traded Ethereum treasury company modeled on the MicroStrategy playbook,
 
 **COIN — Coinbase Global, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Largest U.S. crypto exchange with ~55% retail market share and dominant institutional presence (~80-82% of trading volume). Revenue is diversifying beyond cyclical transaction fees (~40%) into subscription & services (~45%) and stablecoin revenue (~15%). Custodies 9 of 11 spot Bitcoin ETFs and 8 of 9 Ether ETFs, creating sticky institutional relationships. Q1 2026 showed $584M subscription & services (down 16% QoQ), $305M stablecoin revenue, and average USDC held at $19B (ATH). XRP/USD overtook Bitcoin as the largest market pair at 25.16% — a notable structural shift. The GENIUS Act stablecoin legislation is the key regulatory catalyst. Asymmetric upside to crypto bull markets, but high binary risk from cyclicality and regulation.
+Largest U.S. crypto exchange with ~55% retail market share and dominant institutional presence (~80-82% of trading volume). Revenue is diversifying beyond cyclical transaction fees (~40%) into subscription & services (~45%) and stablecoin revenue (~15%). Custodies 9 of 11 spot Bitcoin ETFs and 8 of 9 Ether ETFs, creating sticky institutional relationships. Q1 2026 showed \$584M subscription & services (down 16% QoQ), \$305M stablecoin revenue, and average USDC held at \$19B (ATH). XRP/USD overtook Bitcoin as the largest market pair at 25.16% — a notable structural shift. The GENIUS Act stablecoin legislation is the key regulatory catalyst. Asymmetric upside to crypto bull markets, but high binary risk from cyclicality and regulation.
 
-**Bull:** $280–$340 · **Base:** $200–$250 · **Bear:** $100–$140
+**Bull:** \$280–\$340 · **Base:** \$200–\$250 · **Bear:** \$100–\$140
 
 [:material-arrow-right: Full Deep Dive](COIN.md)
 
@@ -86,7 +86,7 @@ Robinhood is evolving from a commission-free trading app into a diversified fint
 
 NCR Voyix is a fintech and digital payments company spun out from NCR Corporation in late 2023. It provides digital banking platforms, payment processing, and commerce solutions to thousands of financial institutions, retailers, and restaurants. The company is transitioning from hardware-centric revenue to higher-margin software and recurring payments revenue, with a large installed base of ATMs and self-service terminals providing a captive audience for upsell. At ~$5.50, the stock trades at a deep discount (~0.25x P/S) due to a leveraged balance sheet (~$2.5B debt) and execution uncertainty in the standalone turnaround. Successful deleveraging, cost restructuring, and software mix shift could drive significant re-rating.
 
-**Bull:** $8–$9 · **Base:** $6–$7 · **Bear:** $4–$5
+**Bull:** \$8–\$9 · **Base:** \$6–\$7 · **Bear:** \$4–\$5
 
 [:material-arrow-right: Full Deep Dive](VYX.md)
 

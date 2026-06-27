@@ -49,23 +49,28 @@
   "catalysts": [
     {
       "date": "2026",
-      "event": "QNX design wins in next-generation software-defined vehicles and ADAS platforms"
+      "event": "QNX design wins in next-generation software-defined vehicles and ADAS platforms",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "Secure Communications cross-sell of Cylance AI into existing UEM base"
+      "event": "Secure Communications cross-sell of Cylance AI into existing UEM base",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "Government and defense cybersecurity contract awards"
+      "event": "Government and defense cybersecurity contract awards",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "Continued progress toward sustained profitability and operating leverage"
+      "event": "Continued progress toward sustained profitability and operating leverage",
+      "iso_date": "2026"
     },
     {
       "date": "2026",
-      "event": "Potential divestiture or monetization of non-core patent portfolio"
+      "event": "Potential divestiture or monetization of non-core patent portfolio",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -107,5 +112,6 @@
     "Intense competition in endpoint security from CrowdStrike, Microsoft, and Palo Alto Networks",
     "Execution risk on integrating Cylance AI across the full Secure Communications stack",
     "Small-cap liquidity and volatility"
-  ]
+  ],
+  "price_date": "2026-06-21"
 }

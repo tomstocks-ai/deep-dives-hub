@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 256.65,
   "market_cap": "$43.5B",
-  "rating": "SPECULATIVE BUY",
+  "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
   "thesis": "Credo is a pure-play enabler of AI data center connectivity, delivering 157% YoY revenue growth via ZeroFlap AECs and optical DSPs. Extreme customer concentration (61% Amazon) and 107x P/E create asymmetric risk/reward. Speculative Buy on pullback.",
   "financials": {
@@ -42,14 +42,29 @@
     "assumptions": "Moderate growth deceleration to 50–70% YoY; AECs maintain hyperscaler share; optical DSPs contribute 15–20% of revenue by FY2027; gross margins stable at 65–70%."
   },
   "catalysts": [
-    {"date": "2026-09", "event": "Q4 FY2026 earnings — FY2027 guidance critical"},
-    {"date": "2026-08", "event": "Potential 1.6T product/design win announcements"},
-    {"date": "2026-10", "event": "FY2026 10-K filing — customer concentration update"}
+    {
+      "date": "2026-09",
+      "event": "Q4 FY2026 earnings — FY2027 guidance critical",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-08",
+      "event": "Potential 1.6T product/design win announcements",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "2026-10",
+      "event": "FY2026 10-K filing — customer concentration update",
+      "iso_date": "2026-10"
+    }
   ],
   "key_risks": [
     "Customer concentration: Amazon ~61% of revenue",
     "Valuation: ~107x P/E prices in perfection",
     "Competition from larger, better-capitalized rivals (MRVL, AVGO)",
     "AI capex cycle sensitivity"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "price_date": "2026-06-15"
 }

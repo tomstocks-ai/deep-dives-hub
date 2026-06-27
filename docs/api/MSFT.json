@@ -44,11 +44,31 @@
     "assumptions": "Revenue grows 15-18% through FY2027, Azure sustains 25-30% growth, AI business contributes $40-45B run rate, and market assigns 8-9x EV/Revenue on best-in-class SaaS metrics and platform leadership"
   },
   "catalysts": [
-    {"date": "2026-07", "event": "FY26 Q4 Earnings (Year-End) — confirms full-year Azure growth, AI run rate, and FY2027 guidance"},
-    {"date": "2026-09", "event": "Microsoft Ignite — new AI product announcements, Copilot updates, Azure infrastructure roadmap"},
-    {"date": "2026-11", "event": "FY27 Q1 Earnings — first look at FY2027 growth trajectory and AI monetization trends"},
-    {"date": "2026-H2", "event": "Copilot adoption metrics and pricing updates — attach rates, ARPU impact, and new Copilot SKUs"},
-    {"date": "2026-2027", "event": "OpenAI partnership developments — model updates, exclusive features, enterprise go-to-market expansion"}
+    {
+      "date": "2026-07",
+      "event": "FY26 Q4 Earnings (Year-End) — confirms full-year Azure growth, AI run rate, and FY2027 guidance",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "2026-09",
+      "event": "Microsoft Ignite — new AI product announcements, Copilot updates, Azure infrastructure roadmap",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-11",
+      "event": "FY27 Q1 Earnings — first look at FY2027 growth trajectory and AI monetization trends",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "2026-H2",
+      "event": "Copilot adoption metrics and pricing updates — attach rates, ARPU impact, and new Copilot SKUs",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "OpenAI partnership developments — model updates, exclusive features, enterprise go-to-market expansion",
+      "iso_date": "2026"
+    }
   ],
   "key_risks": [
     "AI monetization risk if enterprise AI adoption is slower than expected or ROI is difficult to demonstrate",
@@ -56,5 +76,6 @@
     "Regulatory and antitrust scrutiny in the US and EU could force business model changes or partnership restrictions",
     "Macro IT spending slowdown in a recessionary environment could compress growth and margins",
     "OpenAI partnership dynamics could shift unfavorably, impacting Azure's AI differentiation"
-  ]
+  ],
+  "price_date": "2026-06-25"
 }

@@ -40,12 +40,23 @@
     "assumptions": "Revenue grows 25-30% through FY2027, FCF margin expands to 37-40%, market assigns 12-14x EV/Revenue on sustained platform leadership"
   },
   "catalysts": [
-    {"date": "2026-08-18", "event": "Q4 FY2026 Earnings — guidance for FY2027"},
-    {"date": "2026-09-15", "event": "CyberArk integration milestone update"}
+    {
+      "date": "2026-08-18",
+      "event": "Q4 FY2026 Earnings — guidance for FY2027",
+      "iso_date": "2026-08-18"
+    },
+    {
+      "date": "2026-09-15",
+      "event": "CyberArk integration milestone update",
+      "iso_date": "2026-09-15"
+    }
   ],
   "key_risks": [
     "High P/E (173-230x) leaves little room for execution missteps",
     "Large M&A integration risk from CyberArk and Chronosphere",
     "Intensifying competition from CRWD, Microsoft, Zscaler"
-  ]
+  ],
+  "theme": "Software",
+  "sub_theme": "Cybersecurity",
+  "price_date": "2026-06-14"
 }

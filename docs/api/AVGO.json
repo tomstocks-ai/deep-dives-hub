@@ -42,9 +42,21 @@
     "assumptions": "Steady AI ASIC growth at 25–30% CAGR; VMware stabilizes with modest churn; networking/optical grows in line with data center capex; stock trades at 28–32x forward earnings."
   },
   "catalysts": [
-    {"date": "2026-09", "event": "Q3 FY2026 earnings — AI revenue guidance update critical"},
-    {"date": "2026-10", "event": "VMware annual conference — subscription transition metrics"},
-    {"date": "2026-12", "event": "FY2026 year-end results and FY2027 guidance"}
+    {
+      "date": "2026-09",
+      "event": "Q3 FY2026 earnings — AI revenue guidance update critical",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "2026-10",
+      "event": "VMware annual conference — subscription transition metrics",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "2026-12",
+      "event": "FY2026 year-end results and FY2027 guidance",
+      "iso_date": "2026-12"
+    }
   ],
   "key_risks": [
     "Expectations mismatch: stock dropped >12% post-Q2 despite record results; market may punish any guidance shortfall",
@@ -52,5 +64,8 @@
     "VMware integration risk: customer churn and sales disruption from product rationalization",
     "Competition from Marvell in custom AI silicon and from NVIDIA in training workloads",
     "Macro cyclicality: AI capex is not immune to broader semiconductor demand cycles"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "price_date": "2026-06-19"
 }

@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "/api/schema.json",
+  "title": "Deep Dives Hub API Schema",
+  "description": "JSON Schema definitions for the Deep Dives Hub static API (v1)",
+  "$defs": {
+    "rating": {
+      "type": "string",
+      "enum": ["BUY", "SPEC. BUY", "HOLD", "HOLD / SPEC.", "SELL", "SPECULATIVE"]
+    },
+    "iso_date_or_null": {
+      "oneOf": [
+        {"type": "string", "pattern": "^(\\d{4}(-\\d{2}(-\\d{2})?)?|\\d{4}-0[1-9]|\\d{4}-1[0-2])$"},
+        {"type": "null"}
+      ]
+    },
+    "catalyst": {
+      "type": "object",
+      "required": ["date", "event", "iso_date"],
+      "properties": {
+        "date": {"type": "string", "description": "Human-readable date string (e.g. 'Q3 2026', 'September 2026')"},
+        "iso_date": {
+          "description": "Machine-parseable ISO 8601 approximation, or null for open-ended dates",
+          "oneOf": [{"type": "string"}, {"type": "null"}]
+        },
+        "event": {"type": "string"}
+      }
+    },
+    "financials": {
+      "type": "object",
+      "required": ["fiscal_year", "revenue", "revenue_growth", "gross_margin", "net_income", "eps_diluted", "cash", "fcf"],
+      "properties": {
+        "fiscal_year": {"type": "string"},
+        "revenue": {"type": "string"},
+        "revenue_growth": {"type": "string"},
+        "gross_margin": {"type": "string"},
+        "net_income": {"type": "string"},
+        "eps_diluted": {"type": "string"},
+        "cash": {"type": "string"},
+        "fcf": {"type": "string"}
+      }
+    },
+    "ticker_entry": {
+      "type": "object",
+      "required": ["ticker", "company", "sector", "theme", "sub_theme", "industry", "rating", "price", "price_date", "market_cap", "last_updated", "deep_dive_url", "api_url"],
+      "properties": {
+        "ticker":        {"type": "string"},
+        "company":       {"type": "string"},
+        "sector":        {"type": "string"},
+        "theme":         {"type": "string"},
+        "sub_theme":     {"type": "string"},
+        "industry":      {"type": "string"},
+        "rating":        {"$ref": "#/$defs/rating"},
+        "price":         {"type": "number", "exclusiveMinimum": 0},
+        "price_date":    {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "market_cap":    {"type": "string"},
+        "last_updated":  {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "deep_dive_url": {"type": "string"},
+        "api_url":       {"type": "string"}
+      }
+    },
+    "deep_dive": {
+      "type": "object",
+      "required": ["ticker", "company", "sector", "theme", "sub_theme", "industry", "exchange", "price", "price_date", "market_cap", "rating", "last_updated", "thesis", "financials", "bull_case", "base_case", "bear_case", "catalysts", "key_risks"],
+      "properties": {
+        "ticker":       {"type": "string"},
+        "company":      {"type": "string"},
+        "sector":       {"type": "string"},
+        "theme":        {"type": "string"},
+        "sub_theme":    {"type": "string"},
+        "industry":     {"type": "string"},
+        "exchange":     {"type": "string"},
+        "price":        {"type": "number", "exclusiveMinimum": 0},
+        "price_date":   {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "market_cap":   {"type": "string"},
+        "rating":       {"$ref": "#/$defs/rating"},
+        "last_updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "thesis":       {"type": "string", "minLength": 50},
+        "financials":   {"$ref": "#/$defs/financials"},
+        "bull_case": {
+          "type": "object",
+          "required": ["target", "drivers"],
+          "properties": {
+            "target":  {"type": "string"},
+            "drivers": {"type": "array", "items": {"type": "string"}, "minItems": 1}
+          }
+        },
+        "base_case": {
+          "type": "object",
+          "required": ["target", "assumptions"],
+          "properties": {
+            "target":      {"type": "string"},
+            "assumptions": {}
+          }
+        },
+        "bear_case": {
+          "type": "object",
+          "required": ["target", "risks"],
+          "properties": {
+            "target": {"type": "string"},
+            "risks":  {"type": "array", "items": {"type": "string"}, "minItems": 1}
+          }
+        },
+        "catalysts": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/catalyst"},
+          "minItems": 1
+        },
+        "key_risks": {
+          "type": "array",
+          "items": {"type": "string"},
+          "minItems": 1
+        }
+      }
+    }
+  },
+  "description": "Top-level schema — validate tickers.json against the 'index' definition, individual {TICKER}.json against 'deep_dive'.",
+  "oneOf": [
+    {
+      "title": "tickers.json index",
+      "type": "object",
+      "required": ["api_version", "last_updated", "tickers"],
+      "properties": {
+        "$schema":     {"type": "string"},
+        "api_version": {"type": "string", "const": "1"},
+        "last_updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "tickers": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/ticker_entry"},
+          "minItems": 1
+        }
+      }
+    },
+    {"$ref": "#/$defs/deep_dive"}
+  ]
+}

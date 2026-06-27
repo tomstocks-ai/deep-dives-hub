@@ -42,9 +42,21 @@
     "assumptions": "Bitcoin stable $80K–$95K; operational execution on hashrate; modest AI infrastructure contribution by 2027"
   },
   "catalysts": [
-    {"date": "2026-08-01", "event": "Q2 2026 Earnings — hashrate progress and AI infra update"},
-    {"date": "2026-12-01", "event": "End-2025 hashrate target verification (75 EH/s)"},
-    {"date": "2028-01-01", "event": "Bitcoin Halving — block reward cut to 1.5625 BTC"}
+    {
+      "date": "2026-08-01",
+      "event": "Q2 2026 Earnings — hashrate progress and AI infra update",
+      "iso_date": "2026-08-01"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "End-2025 hashrate target verification (75 EH/s)",
+      "iso_date": "2026-12-01"
+    },
+    {
+      "date": "2028-01-01",
+      "event": "Bitcoin Halving — block reward cut to 1.5625 BTC",
+      "iso_date": "2028-01-01"
+    }
   ],
   "key_risks": [
     "Single-asset concentration: 90%+ value tied to Bitcoin price",
@@ -52,5 +64,6 @@
     "Convertible debt dilution ($950M 2032 notes)",
     "Regulatory risk (SEC, environmental, energy policy)",
     "Fleet obsolescence requiring continuous capex"
-  ]
+  ],
+  "price_date": "2026-06-19"
 }

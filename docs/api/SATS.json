@@ -6,7 +6,7 @@
   "exchange": "NASDAQ",
   "price": 128.68,
   "market_cap": "$37.2B",
-  "rating": "ACCUMULATE",
+  "rating": "BUY",
   "last_updated": "2026-04-04",
   "thesis": "Undergoing dramatic transformation from distressed wireless carrier to spectrum monetization entity. $42.6B in strategic asset sales to AT&T ($22.65B) and SpaceX (~$20B) resolves 2026 debt maturity wall. Retains ~2% SpaceX equity stake worth ~$11B. EchoStar Capital division formed to manage space economy M&A. Pay-TV (DISH TV + Sling: 7M subscribers) generates $2.69B Adjusted OIBDA but declining. Boost Mobile transitioning to 'hybrid MNO' on AT&T network.",
   "financials": {
@@ -17,7 +17,12 @@
     "net_loss": "-$14.5B (includes $17.6B non-cash impairments)",
     "normalized_net_loss": "-$1.05B (ex-impairments)",
     "debt": "~$26B (pre-deal); ~$5-8B (post-deal est.)",
-    "spacex_stake_value": "~$11B (~2% of SpaceX)"
+    "spacex_stake_value": "~$11B (~2% of SpaceX)",
+    "gross_margin": "N/A",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "N/A",
+    "fcf": "N/A"
   },
   "bull_case": {
     "target": "$180–220",
@@ -44,10 +49,26 @@
     "assumptions": "Deals close as planned by mid-2026; Debt reduced to $5-8B; Pay-TV decline moderates; Boost stabilizes on AT&T network; SpaceX stake maintains current $11B value; Modest dividend potential by 2027-2028."
   },
   "catalysts": [
-    {"date": "Mid-2026", "event": "AT&T Deal FCC Approval — Critical regulatory milestone"},
-    {"date": "Mid-2026", "event": "SpaceX Deal Close — $11B+ equity stake formalized"},
-    {"date": "2026-2027", "event": "SpaceX/Starlink IPO — Potentially very bullish"},
-    {"date": "Ongoing", "event": "Debt Paydown Announcements — Deleveraging confirmation"}
+    {
+      "date": "Mid-2026",
+      "event": "AT&T Deal FCC Approval — Critical regulatory milestone",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "Mid-2026",
+      "event": "SpaceX Deal Close — $11B+ equity stake formalized",
+      "iso_date": "2026-06"
+    },
+    {
+      "date": "2026-2027",
+      "event": "SpaceX/Starlink IPO — Potentially very bullish",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Debt Paydown Announcements — Deleveraging confirmation",
+      "iso_date": null
+    }
   ],
   "key_risks": [
     "Regulatory approval risk for $42.6B spectrum deals",
@@ -55,5 +76,8 @@
     "Pay-TV acceleration — DISH TV lost 168K subs in Q4 2025",
     "Starlink competition crushing HughesNet (97% of speed tests)",
     "Complex 'sum-of-parts' valuation dependent on SpaceX IPO timing"
-  ]
+  ],
+  "theme": "Space Economy",
+  "sub_theme": "Satellite Connectivity",
+  "price_date": "2026-04-04"
 }

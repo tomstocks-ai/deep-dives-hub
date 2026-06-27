@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Broadband Infrastructure / Telecom Equipment",
   "exchange": "NASDAQ",
-  "price": 15.20,
+  "price": 15.2,
   "market_cap": "$1.68B",
   "rating": "BUY",
   "last_updated": "2026-06-15",
@@ -42,9 +42,21 @@
     "assumptions": "Broadband grows 20-25% YoY; video sale closes as planned in H2 2026; gross margins stabilize at 51-52%; company trades at 25x forward P/E. Base case implies 5-18% upside from current price with backlog-supported visibility."
   },
   "catalysts": [
-    {"date": "2026-08-03", "event": "Q2 2026 earnings — broadband momentum and video sale update"},
-    {"date": "2026-H2", "event": "Video business sale to MediaKind expected close"},
-    {"date": "2026-11", "event": "Q3 2026 earnings — potential guidance raise if backlog converts"}
+    {
+      "date": "2026-08-03",
+      "event": "Q2 2026 earnings — broadband momentum and video sale update",
+      "iso_date": "2026-08-03"
+    },
+    {
+      "date": "2026-H2",
+      "event": "Video business sale to MediaKind expected close",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-11",
+      "event": "Q3 2026 earnings — potential guidance raise if backlog converts",
+      "iso_date": "2026-11"
+    }
   ],
   "key_risks": [
     "Customer concentration among major cable operators",
@@ -52,5 +64,8 @@
     "Cyclical cable operator capex exposure",
     "Margin pressure from memory costs and new product ramps",
     "Video sale execution risk"
-  ]
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "price_date": "2026-06-15"
 }

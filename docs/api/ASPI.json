@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Enriched Isotopes / Critical Materials",
   "exchange": "NasdaqCM",
-  "price": 6.40,
+  "price": 6.4,
   "market_cap": "$664M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-10",
@@ -43,10 +43,26 @@
     "assumptions": "Revenue ramps to $50–80M by 2027 as commercial contracts materialize. Renergen contributes steady cash flow by 2027–2028. QLE spin-off completes at modest valuation."
   },
   "catalysts": [
-    {"date": "2026-06-30", "event": "QLE spin-off expected H1 2026"},
-    {"date": "2026-12-31", "event": "Renergen Virginia Gas Project Phase 1 completion"},
-    {"date": "2026-08-15", "event": "Q2 2026 earnings (expected)"},
-    {"date": "2026-06-30", "event": "Silicon-28 commercial shipment ramp"}
+    {
+      "date": "2026-06-30",
+      "event": "QLE spin-off expected H1 2026",
+      "iso_date": "2026-06-30"
+    },
+    {
+      "date": "2026-12-31",
+      "event": "Renergen Virginia Gas Project Phase 1 completion",
+      "iso_date": "2026-12-31"
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Q2 2026 earnings (expected)",
+      "iso_date": "2026-08-15"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "Silicon-28 commercial shipment ramp",
+      "iso_date": "2026-06-30"
+    }
   ],
   "key_risks": [
     "Pre-profitability with high cash burn rate",
@@ -54,5 +70,8 @@
     "Regulatory and licensing delays for nuclear materials",
     "South Africa geopolitical and infrastructure risks (Renergen)",
     "Technology scale-up execution risk"
-  ]
+  ],
+  "theme": "Critical Minerals",
+  "sub_theme": "Specialty Metals",
+  "price_date": "2026-06-10"
 }

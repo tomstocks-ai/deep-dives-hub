@@ -52,19 +52,23 @@
   "catalysts": [
     {
       "date": "2026-07",
-      "event": "Q2 2026 earnings — watch Mobile Networks margin trajectory and Infinera integration progress"
+      "event": "Q2 2026 earnings — watch Mobile Networks margin trajectory and Infinera integration progress",
+      "iso_date": "2026-07"
     },
     {
       "date": "2026-H2",
-      "event": "Potential announcement of major patent licensing renewals"
+      "event": "Potential announcement of major patent licensing renewals",
+      "iso_date": "2026"
     },
     {
       "date": "2026-Q4",
-      "event": "Capital Markets Day / 2027 guidance — management may refine margin and growth targets"
+      "event": "Capital Markets Day / 2027 guidance — management may refine margin and growth targets",
+      "iso_date": "2026"
     },
     {
       "date": "2026-ongoing",
-      "event": "U.S. BEAD broadband awards and European digital sovereignty programs favor Nokia fiber access"
+      "event": "U.S. BEAD broadband awards and European digital sovereignty programs favor Nokia fiber access",
+      "iso_date": "2026"
     }
   ],
   "key_risks": [
@@ -73,5 +77,6 @@
     "FX volatility (EUR/USD) impacting reported euro-denominated results",
     "5G capex cycle maturation in developed markets before 5G-Advanced upgrade cycle begins",
     "Open RAN and network virtualization trends eroding incumbent vendor margins over time"
-  ]
+  ],
+  "price_date": "2026-06-21"
 }
