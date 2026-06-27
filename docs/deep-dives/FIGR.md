@@ -133,7 +133,22 @@ Figure Technology Solutions offers a compelling risk/reward profile at current l
 | Ongoing | Federal Reserve policy decisions impacting credit demand |
 | Ongoing | Regulatory developments on blockchain-based financial services |
 
-## 7. Readability Pass
+## 7. Sentiment Analysis
+
+**X/Twitter Sentiment (as of 2026-06-27):**
+
+X/Twitter sentiment for FIGR is mixed-to-positive, with a notable split between crypto/blockchain-native accounts and traditional fintech investors. The stock's ~66% drawdown from its January 2026 all-time high has generated significant bearish commentary around valuation and credit-cycle risk, while bulls highlight the 49.6% EBITDA margin and $2.9B quarterly origination volume as evidence of operational execution.
+
+**Key sentiment themes observed:**
+- **Bullish:** Analyst upgrades (Mizuho raised PT to $55) and Q1 earnings beat ($167M vs $160M consensus) are cited as proof the business model works at scale.
+- **Bearish:** Concerns about consumer credit deterioration, blockchain/DeFi narrative fatigue, and the stock's inability to hold gains above $50 are recurring themes.
+- **Neutral/Watchful:** Many accounts are waiting for Q2 2026 earnings (August 2026) to confirm whether origination volume and margin trends are sustainable.
+
+**Influencer activity:** No major FIGR-specific threads from high-follower fintech or crypto accounts in the past 7 days. General fintech sentiment is cautious due to macro uncertainty, which likely weighs on FIGR's sentiment score.
+
+**Overall sentiment score:** Neutral-to-Slightly-Bullish (55/100). The operational numbers are strong, but the stock's price action and credit-cycle fears keep sentiment from being overtly bullish.
+
+## 8. Readability Pass
 
 - **Consumer Loan Marketplace:** A platform that connects borrowers seeking personal or home equity loans with institutional investors willing to fund those loans. Figure earns fees for originating and servicing the loans.
 - **Provenance Blockchain:** A blockchain network specifically designed for financial services. It creates immutable, transparent records of loan origination and servicing, reducing fraud and audit costs.
@@ -141,7 +156,7 @@ Figure Technology Solutions offers a compelling risk/reward profile at current l
 - **Origination Volume:** The total dollar value of loans that a lender or marketplace facilitates in a given period. Higher volume generally means higher fee revenue.
 - **Securitization:** The process of bundling loans together and selling them as securities to investors. It provides lenders with capital to make new loans.
 
-## 8. Sources Consulted
+## 9. Sources Consulted
 
 - Company press releases and Q1 2026 earnings report
 - Mizuho Securities research (Dan Dolev, June 2026)
