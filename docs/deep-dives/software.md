@@ -1,6 +1,3 @@
----
-title: Cloud & Enterprise Software
----
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
