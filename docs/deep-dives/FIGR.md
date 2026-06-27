@@ -156,7 +156,7 @@ X/Twitter sentiment for FIGR is mixed-to-positive, with a notable split between 
 - **Origination Volume:** The total dollar value of loans that a lender or marketplace facilitates in a given period. Higher volume generally means higher fee revenue.
 - **Securitization:** The process of bundling loans together and selling them as securities to investors. It provides lenders with capital to make new loans.
 
-## 8. Sources Consulted
+## 9. Sources Consulted
 
 - Company press releases and Q1 2026 earnings report
 - Mizuho Securities research (Dan Dolev, June 2026)
