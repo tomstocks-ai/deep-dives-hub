@@ -9,6 +9,7 @@ title: Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](FIGR.md) |
 | <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
@@ -89,6 +90,17 @@ NCR Voyix is a fintech and digital payments company spun out from NCR Corporatio
 **Bull:** \$8–\$9 · **Base:** \$6–\$7 · **Bear:** \$4–\$5
 
 [:material-arrow-right: Full Deep Dive](VYX.md)
+
+---
+### Consumer Finance
+
+**FIGR — Figure Technology Solutions · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Figure Technology Solutions operates a consumer loan marketplace that originated $2.9B in Q1 2026, combined with blockchain-based loan servicing via its Provenance blockchain. The company is already profitable with 49.6% adjusted EBITDA margins and TTM revenue of $514.6M. Trading at $26.29, the stock is down ~66% from its January 2026 ATH of $78.00, offering asymmetric upside if origination growth continues and blockchain adoption expands. Key risks are credit cycle sensitivity and blockchain narrative volatility.
+
+**Bull:** $55–$65 · **Base:** $45–$50 · **Bear:** $30–$35
+
+[:material-arrow-right: Full Deep Dive](FIGR.md)
 
 ---
 ---

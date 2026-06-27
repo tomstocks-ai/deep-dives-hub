@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "tickers": [
     {
       "ticker": "CEG",
@@ -1262,6 +1262,21 @@
       "api_url": "/api/FCEL.json",
       "sector": "Energy",
       "price_date": "2026-06-26"
+    },
+    {
+      "ticker": "FIGR",
+      "company": "Figure Technology Solutions",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "industry": "Consumer Lending / Blockchain Financial Services",
+      "rating": "SPEC. BUY",
+      "price": 26.29,
+      "market_cap": ".94B",
+      "last_updated": "2026-06-27",
+      "deep_dive_url": "/deep-dives/FIGR/",
+      "api_url": "/api/FIGR.json",
+      "price_date": "2026-06-27"
     }
   ]
 }
