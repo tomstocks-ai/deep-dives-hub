@@ -9,7 +9,7 @@ title: Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](FIGR.md) |
+| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](FIGR.md) |
 | <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
