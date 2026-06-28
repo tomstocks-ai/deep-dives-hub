@@ -32,6 +32,7 @@ hide:
   "withdateranges": false,
   "compareSymbols": [],
   "studies": [
+    "STD;RSI"
     "STD;EMA"
   ],
   "autosize": true,
