@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-28",
   "tickers": [
     {
       "ticker": "CEG",
@@ -292,16 +292,16 @@
       "ticker": "TSSI",
       "company": "TSS, Inc.",
       "sector": "Technology",
-      "industry": "Data Center Infrastructure / AI Servers",
+      "industry": "Data Center Infrastructure / AI Server Integration",
       "rating": "SPEC. BUY",
-      "price": 13.32,
-      "market_cap": "$387M",
-      "last_updated": "2026-04-02",
+      "price": 11.32,
+      "market_cap": "$330M",
+      "last_updated": "2026-06-28",
       "deep_dive_url": "/deep-dives/TSSI/",
       "api_url": "/api/TSSI.json",
       "theme": "AI Buildout",
       "sub_theme": "Servers & Systems",
-      "price_date": "2026-04-02"
+      "price_date": "2026-06-28"
     },
     {
       "ticker": "U",
@@ -1262,6 +1262,36 @@
       "api_url": "/api/FCEL.json",
       "sector": "Energy",
       "price_date": "2026-06-26"
+    },
+    {
+      "ticker": "FIGR",
+      "company": "Figure Technology Solutions",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "industry": "Consumer Lending / Blockchain Financial Services",
+      "rating": "SPEC. BUY",
+      "price": 26.29,
+      "market_cap": ".94B",
+      "last_updated": "2026-06-27",
+      "deep_dive_url": "/deep-dives/FIGR/",
+      "api_url": "/api/FIGR.json",
+      "price_date": "2026-06-27"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "sector": "Fintech",
+      "industry": "Digital Personal Finance / Lending & Financial Services",
+      "rating": "SPEC. BUY",
+      "price": 17.88,
+      "market_cap": "8.2B",
+      "last_updated": "2026-06-28",
+      "deep_dive_url": "/deep-dives/SOFI/",
+      "api_url": "/api/SOFI.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
     }
   ]
 }

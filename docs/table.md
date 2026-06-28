@@ -21,7 +21,7 @@ hide:
 | <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="badge badge-networking">Networking</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](deep-dives/SIVE.md) |
 | <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics | <span class="badge badge-photonics">Photonics</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](deep-dives/AAOI.md) |
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="badge badge-semi-equip">Semi Equipment</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-06 | [:material-file-document: Read](deep-dives/AEHR.md) |
-| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS Inc. | <span class="badge badge-dc-infra">DC Infra</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-03 | [:material-file-document: Read](deep-dives/TSSI.md) |
+| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="badge badge-dc-infra">DC Infra</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](deep-dives/TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="badge badge-dc-infra">DC Infra</span> | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](deep-dives/P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="badge badge-dc-infra">DC Infra</span> | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](deep-dives/PWR.md) |
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="badge badge-dc-infra">DC Infra</span> | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](deep-dives/MTZ.md) |
@@ -98,7 +98,8 @@ hide:
 | <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/AG.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="badge badge-software">Software</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](deep-dives/ADBE.md) |
 | <tv-ticker-tag symbol="NYSE:VYX" hide-background></tv-ticker-tag> | NCR Voyix Corporation | <span class="badge badge-fintech">Fintech</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](deep-dives/VYX.md) |
-
+| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="badge badge-fintech">Fintech & Digital Payments</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](deep-dives/FIGR.md) |
+| <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="badge badge-fintech">Fintech & Digital Payments</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](deep-dives/SOFI.md) |
 
 ## Prices table
 

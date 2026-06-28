@@ -1,0 +1,93 @@
+{
+  "ticker": "FIGR",
+  "company": "Figure Technology Solutions",
+  "sector": "Fintech",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Consumer Finance",
+  "industry": "Consumer Lending / Blockchain Financial Services",
+  "exchange": "NASDAQ",
+  "price": 26.29,
+  "price_date": "2026-06-27",
+  "market_cap": "$5.94B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-27",
+  "thesis": "Figure Technology Solutions is a profitable fintech combining a high-growth consumer loan marketplace ($2.9B Q1 volume) with blockchain-based loan origination and servicing via its Provenance blockchain. The company generates 49.6% adjusted EBITDA margins and trades at a deep discount to its January 2026 ATH of $78, offering asymmetric upside if origination growth continues and blockchain adoption expands. However, the stock is sensitive to the consumer credit cycle and blockchain sentiment, warranting a SPEC. BUY rating.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$514.6M (TTM)",
+    "revenue_growth": "+N/A (profitable early-stage)",
+    "gross_margin": "~49.6% adj. EBITDA margin",
+    "net_income": "$45M (Q1 2026)",
+    "eps_diluted": "$0.71 (TTM)",
+    "cash": "N/A",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$55–$65",
+    "drivers": [
+      "Loan origination volumes accelerate to $15B+ annually, driving fee and servicing revenue well above consensus",
+      "Provenance blockchain adoption expands to third-party lenders and institutional DeFi, creating platform/network effects",
+      "Margin expansion to 55%+ EBITDA as scale economies and blockchain cost savings compound",
+      "Regulatory tailwinds for blockchain-based financial infrastructure accelerate institutional adoption"
+    ]
+  },
+  "base_case": {
+    "target": "$45–$50",
+    "assumptions": "Steady $3B+ quarterly origination sustains TTM revenue above $700M; FY2026 revenue reaches $730M+; profitability proves durable through a mild credit cycle; multiple re-rates to ~35x forward P/E as execution consistency builds investor confidence."
+  },
+  "bear_case": {
+    "target": "$30–$35",
+    "risks": [
+      "Consumer credit cycle deterioration raises delinquencies and forces tighter underwriting, reducing origination volume",
+      "Blockchain / DeFi narrative fades, causing multiple compression regardless of core lending fundamentals",
+      "Higher-for-longer interest rates suppress consumer loan demand and increase funding costs",
+      "Competitive pressure from SoFi, Upstart, and traditional banks erodes market share and pricing power"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "event": "Q2 2026 earnings — watch for origination volume trends and margin sustainability",
+      "iso_date": "2026-08",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-27"
+    },
+    {
+      "date": "Late 2026",
+      "event": "Potential Provenance blockchain partnership or product announcements",
+      "iso_date": "2026-10",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-27"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Federal Reserve policy decisions impacting credit demand and consumer lending environment",
+      "iso_date": null,
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-27"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Regulatory developments on blockchain-based loan servicing and tokenization",
+      "iso_date": null,
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-27"
+    }
+  ],
+  "key_risks": [
+    "Credit cycle sensitivity: consumer lending is inherently cyclical and a recession would raise delinquencies",
+    "Blockchain narrative risk: a significant portion of valuation premium is tied to crypto/DeFi sentiment",
+    "Interest rate environment: higher rates reduce loan demand and increase funding costs",
+    "Competition from SoFi, Upstart, LendingClub, and traditional banks in digital consumer lending",
+    "Regulatory uncertainty around blockchain-based financial services from SEC, CFPB, and state regulators",
+    "Concentration in origination fees: a large share of revenue depends on continued strong secondary market demand for loans"
+  ]
+}
