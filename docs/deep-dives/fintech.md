@@ -15,6 +15,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
 | <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
+| <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](deep-dives/SOFI.md) |
 
 ---
 ### Stablecoins / Crypto Finance
