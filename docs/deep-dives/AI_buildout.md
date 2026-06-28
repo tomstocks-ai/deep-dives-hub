@@ -253,7 +253,7 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
-| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-03 | [:material-file-document: Read](TSSI.md) |
+|| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
@@ -262,11 +262,11 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 
 ### Servers & Systems
 
-**TSSI — TSS Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+**TSSI — TSS, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-AI infrastructure/data center play specializing in server rack integration. Explosive 5x revenue growth in 2 years (\$54M → \$246M), now profitable with \$15.1M net income. Recent IPO (Nov 2024) with \$85.5M cash and minimal funding risk. Major multi-year AI server contract driving growth. High customer concentration and volatility (beta 2–4x) require tight risk management.
+AI infrastructure/data center pure-play specializing in AI server rack integration, procurement, and facilities management. FY2025 revenue surged 66% YoY to $246M, with net income of $15.1M (turned profitable). Q1 2026 gross margin expanded to 15.9% (from 9.3% YoY) and adjusted EBITDA held at $5.3M despite lumpy revenue timing. Largest AI customer plans to double infrastructure in 2026; TSSI expects to double rack integration volumes. Strong balance sheet with $85.5M cash. High customer concentration and order lumpiness warrant a Speculative Buy rating.
 
-**Bull:** \$25–30 · **Base:** \$20 · **Bear:** \$8–10
+**Bull:** $18–22 · **Base:** $12–15 · **Bear:** $6–8
 
 [:material-arrow-right: Full Deep Dive](TSSI.md)
 

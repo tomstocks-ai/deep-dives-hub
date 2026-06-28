@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "tickers": [
     {
       "ticker": "CEG",
@@ -292,16 +292,16 @@
       "ticker": "TSSI",
       "company": "TSS, Inc.",
       "sector": "Technology",
-      "industry": "Data Center Infrastructure / AI Servers",
+      "industry": "Data Center Infrastructure / AI Server Integration",
       "rating": "SPEC. BUY",
-      "price": 13.32,
-      "market_cap": "$387M",
-      "last_updated": "2026-04-02",
+      "price": 11.32,
+      "market_cap": "$330M",
+      "last_updated": "2026-06-28",
       "deep_dive_url": "/deep-dives/TSSI/",
       "api_url": "/api/TSSI.json",
       "theme": "AI Buildout",
       "sub_theme": "Servers & Systems",
-      "price_date": "2026-04-02"
+      "price_date": "2026-06-28"
     },
     {
       "ticker": "U",
