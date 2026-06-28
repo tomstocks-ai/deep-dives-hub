@@ -4,22 +4,58 @@ hide:
   - navigation
 ---
 
-[← Back to Summary](../index.md)
+[← Back to Fintech](fintech.md)
 
-## MARKET SNAPSHOT
 
-<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
-<tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag>
-
-# COIN (Coinbase Global, Inc.) - Comprehensive Deep Dive Analysis
-**Report Date:** 2026-06-24
-**Market Cap:** ~\$42B
-**Exchange:** NASDAQ
-**52-Week Range:** \$98 - \$320
-**P/E Ratio:** N/A (variable earnings)
-**Beta:** ~2.3
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+  {
+  "symbol": "NASDAQ:COIN",
+  "colorTheme": "dark",
+  "isTransparent": false
+}
+  </script>
+</div>
 
 ---
+## MARKET SNAPSHOT
+
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NASDAQ:COIN",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
 
 ## 1. COMPANY OVERVIEW
 

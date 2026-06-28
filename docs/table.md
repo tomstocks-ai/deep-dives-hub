@@ -1,6 +1,16 @@
+---
+title: All Stocks
+hide:
+  - navigation
+---
+
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
-# All Stocks
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-mini-chart.js"></script>
+
+<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-market-data.js"></script>
+
+## Deep dives
 
 | Ticker | Company | Theme | Rating | Last Updated | Full DD |
 |--------|---------|-------|--------|--------------|---------|
@@ -88,3 +98,8 @@
 | <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="badge badge-minerals">Minerals</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](deep-dives/AG.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="badge badge-software">Software</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](deep-dives/ADBE.md) |
 | <tv-ticker-tag symbol="NYSE:VYX" hide-background></tv-ticker-tag> | NCR Voyix Corporation | <span class="badge badge-fintech">Fintech</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](deep-dives/VYX.md) |
+
+
+## Prices table
+
+<tv-market-data symbol-sectors='[{"sectionName":"AI Buildout — Semiconductors","symbols":["NASDAQ:NVDA","NASDAQ:AVGO","NASDAQ:MRVL","NASDAQ:CBRS","NASDAQ:INTC","NYSE:WOLF"]},{"sectionName":"AI Buildout — Networking & Photonics","symbols":["NASDAQ:CRDO","NASDAQ:HLIT","NASDAQ:CLFD","OMXSTO:SIVE","NYSE:NOK","NASDAQ:AAOI"]},{"sectionName":"AI Buildout — Semi Equipment","symbols":["NASDAQ:AEHR"]},{"sectionName":"AI Buildout — Servers & DC Infra","symbols":["NYSE:DELL","NYSE:PWR","NYSE:MTZ","NASDAQ:TSSI","NYSE:P","NASDAQ:NBIS","NASDAQ:HUT","NASDAQ:CORZ"]},{"sectionName":"AI Buildout — Memory & Storage","symbols":["NASDAQ:MU","KRX:000660"]},{"sectionName":"Software — Cloud & Enterprise","symbols":["NASDAQ:MSFT","NYSE:NOW","NASDAQ:DDOG","NYSE:SNOW","NASDAQ:ADBE","NASDAQ:CVLT","NYSE:FIG","NYSE:U","NASDAQ:BLZE"]},{"sectionName":"Software — Cybersecurity","symbols":["NASDAQ:PANW","NASDAQ:CRWD","NYSE:BB"]},{"sectionName":"Energy — Grid & Power","symbols":["NASDAQ:CEG","NYSE:GEV","NYSE:BE","NASDAQ:FLNC","NASDAQ:FCEL","NYSE:TE","NASDAQ:QS","NASDAQ:SLDP"]},{"sectionName":"Energy — Nuclear","symbols":["NYSE:OKLO","NYSE:LEU","NASDAQ:ASPI","NASDAQ:IMSR"]},{"sectionName":"Energy — Storage","symbols":["NASDAQ:EOSE"]},{"sectionName":"Space Economy","symbols":["NASDAQ:RKLB","NASDAQ:ASTS","NASDAQ:SATS","NASDAQ:SATL","NYSE:PL","NASDAQ:NN","NYSE:SPCE"]},{"sectionName":"Defense","symbols":["NYSE:RTX","NASDAQ:OSS"]},{"sectionName":"Robotics & Automation","symbols":["NASDAQ:VELO","NYSE:DDD"]},{"sectionName":"Critical Minerals","symbols":["NYSE:FCX","NYSE:TECK","AMEX:GLD","AMEX:SLV","NYSE:AEM","NYSE:FNV","AMEX:COPX","AMEX:URA","AMEX:UUUU","NASDAQ:PAAS","NYSE:AG","NASDAQ:PPTA","NASDAQ:CRML"]},{"sectionName":"Biotech & Health","symbols":["NYSE:HIMS","NYSE:BFLY","NASDAQ:STAA","NASDAQ:ADPT"]},{"sectionName":"Fintech & Digital Payments","symbols":["NASDAQ:COIN","NASDAQ:HOOD","NYSE:CRCL","NASDAQ:MARA","NYSE:BMNR","NASDAQ:PURR","NYSE:VYX"]},{"sectionName":"Quantum Computing","symbols":["NYSE:INFQ"]}]'></tv-market-data>

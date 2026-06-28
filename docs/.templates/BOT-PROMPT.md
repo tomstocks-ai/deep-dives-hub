@@ -136,8 +136,9 @@ Then the full analysis following this structure:
 4. GROWTH CATALYSTS
 5. RISKS
 6. RECOMMENDATION (rating, position sizing, entry strategy, stop loss, catalyst calendar)
-7. READABILITY PASS (jargon explained in plain English)
-8. SOURCES CONSULTED
+7. MARKET SENTIMENT (from posts on X, substack etc.)
+8. READABILITY PASS (jargon explained in plain English)
+9. SOURCES CONSULTED
 
 ---
 
@@ -196,13 +197,15 @@ Embed a live TradingView Advanced Chart widget at the **top of the deep dive** (
 
 ---
 
-### ARTIFACT 2: Master Table Row (`docs/table.md`)
+### ARTIFACT 2: Update Tables in `docs/table.md`
 
-One row to append to the All Stocks table in `docs/table.md`:
+One row to append to the Deep dives table in `docs/table.md`:
 
 ```markdown
 | <tv-ticker-tag symbol="{EXCHANGE}:{TICKER}" hide-background></tv-ticker-tag> | {Company} | <span class="badge badge-{BADGE}">{Theme}</span> | <span class="rating-{RATING_CLASS}">{RATING}</span> | {YYYY-MM-DD} | [:material-file-document: Read](deep-dives/{TICKER}.md) |
 ```
+
++ insert one ticker "{EXCHANGE}:{TICKER}" to add in the Prices table in `docs/table.md`:
 
 ---
 
