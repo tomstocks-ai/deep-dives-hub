@@ -1,0 +1,102 @@
+{
+  "ticker": "SOFI",
+  "company": "SoFi Technologies, Inc.",
+  "sector": "Fintech",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Consumer Finance",
+  "industry": "Digital Personal Finance / Lending & Financial Services",
+  "exchange": "NASDAQ",
+  "price": 17.88,
+  "market_cap": "$18.2B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-06-28",
+  "thesis": "SoFi is a digital personal finance platform with three segments: lending (student, personal, home), financial services (SoFi Money, Invest, Credit Card), and the Galileo B2B technology platform. FY2025 marked its first year of GAAP profitability (~$481M net income on ~$3.58B revenue, +35.6% YoY) with ~9.3M members. The Galileo platform offers high-margin, non-cyclical B2B revenue and is the key strategic option. The SPEC. BUY rating reflects strong growth but uncertainty around profitability sustainability, credit cycle exposure, and regulatory overhang.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "~$3.58B",
+    "revenue_growth": "+35.6%",
+    "gross_margin": "~65%",
+    "net_income": "~$481M",
+    "eps_diluted": "~$0.45",
+    "cash": "~$2.0B+",
+    "fcf": "Positive and growing"
+  },
+  "bull_case": {
+    "target": "$28–$32",
+    "drivers": [
+      "Galileo accelerates to 40%+ growth, winning major B2B embedded-finance clients",
+      "Fed rate cuts expand lending margins and reaccelerate student loan refinancing",
+      "AI integration (Composer acquisition) drives Invest adoption and products-per-member above 2.0",
+      "Regulatory clarity under fintech-friendly administration reduces compliance burden"
+    ]
+  },
+  "base_case": {
+    "target": "$20–$24",
+    "assumptions": "Steady member growth (~25% YoY), sustained GAAP breakeven or modest profitability, Galileo growing 25-30%, lending margins stable. Stock trades at 4-5x forward revenue."
+  },
+  "bear_case": {
+    "target": "$12–$14",
+    "risks": [
+      "Consumer credit deterioration triggers higher loan-loss provisions and compresses earnings",
+      "Regulatory action (CFPB, OCC) restricts product expansion or imposes fines",
+      "Fed hikes or prolonged high-rate environment suppresses refinancing demand and NIM",
+      "Competitive pressure from neobanks and legacy banks erodes member growth"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "event": "Q2 2026 Earnings — member growth, Galileo revenue, loan origination trends",
+      "iso_date": "2026-07",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
+    },
+    {
+      "date": "Q3 2026",
+      "event": "Fed rate decision (July/September) — impacts lending margin outlook",
+      "iso_date": "2026-07",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
+    },
+    {
+      "date": "Q4 2026",
+      "event": "Q3 2026 Earnings — first full quarter post-Composer integration commentary",
+      "iso_date": "2026-10",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
+    },
+    {
+      "date": "2026",
+      "event": "Regulatory developments (CFPB/OCC guidance on fintech-bank partnerships)",
+      "iso_date": "2026",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
+    },
+    {
+      "date": "2027",
+      "event": "Potential student loan refinancing volume surge if federal forbearance ends",
+      "iso_date": "2027",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
+    }
+  ],
+  "key_risks": [
+    "Credit cycle exposure in personal and student loan portfolios",
+    "Regulatory overhang from OCC, CFPB, and FDIC oversight",
+    "Sustainability of GAAP profitability through economic downturns",
+    "Intense competition from legacy banks and neobanks",
+    "Interest rate risk and refinancing demand sensitivity",
+    "M&A execution risk (Composer integration and future deals)"
+  ],
+  "price_date": "2026-06-28"
+}

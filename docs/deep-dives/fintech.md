@@ -103,4 +103,14 @@ Figure Technology Solutions operates a consumer loan marketplace that originated
 [:material-arrow-right: Full Deep Dive](FIGR.md)
 
 ---
+
+**SOFI — SoFi Technologies, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+SoFi is a digital personal finance platform with three segments: lending (student, personal, home loans), financial services (SoFi Money, Invest, Credit Card), and the Galileo B2B technology platform. FY2025 marked its first year of GAAP profitability with ~$481M net income on ~$3.58B revenue (+35.6% YoY) and ~9.3M members. The recent acquisition of Composer signals AI-driven differentiation in robo-advisory. Galileo provides a high-margin, non-cyclical B2B revenue stream and is the key strategic option. Risks include credit cycle exposure, regulatory overhang, and the challenge of sustaining GAAP profitability.
+
+**Bull:** $28–$32 · **Base:** $20–$24 · **Bear:** $12–$14
+
+[:material-arrow-right: Full Deep Dive](SOFI.md)
+
+---
 ---
