@@ -1277,6 +1277,21 @@
       "deep_dive_url": "/deep-dives/FIGR/",
       "api_url": "/api/FIGR.json",
       "price_date": "2026-06-27"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "sector": "Fintech",
+      "industry": "Digital Personal Finance / Lending & Financial Services",
+      "rating": "SPEC. BUY",
+      "price": 17.88,
+      "market_cap": "8.2B",
+      "last_updated": "2026-06-28",
+      "deep_dive_url": "/deep-dives/SOFI/",
+      "api_url": "/api/SOFI.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Consumer Finance",
+      "price_date": "2026-06-28"
     }
   ]
 }

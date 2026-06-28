@@ -15,6 +15,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
 | <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
+| <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](deep-dives/SOFI.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -101,6 +102,16 @@ Figure Technology Solutions operates a consumer loan marketplace that originated
 **Bull:** $55–$65 · **Base:** $45–$50 · **Bear:** $30–$35
 
 [:material-arrow-right: Full Deep Dive](FIGR.md)
+
+---
+
+**SOFI — SoFi Technologies, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+SoFi is a digital personal finance platform with three segments: lending (student, personal, home loans), financial services (SoFi Money, Invest, Credit Card), and the Galileo B2B technology platform. FY2025 marked its first year of GAAP profitability with ~$481M net income on ~$3.58B revenue (+35.6% YoY) and ~9.3M members. The recent acquisition of Composer signals AI-driven differentiation in robo-advisory. Galileo provides a high-margin, non-cyclical B2B revenue stream and is the key strategic option. Risks include credit cycle exposure, regulatory overhang, and the challenge of sustaining GAAP profitability.
+
+**Bull:** $28–$32 · **Base:** $20–$24 · **Bear:** $12–$14
+
+[:material-arrow-right: Full Deep Dive](SOFI.md)
 
 ---
 ---
