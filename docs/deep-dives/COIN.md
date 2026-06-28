@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[← Back to Fintech](fintech.md)
+[← Back to Summary](../index.md)
 
 
 <div class="tradingview-widget-container">

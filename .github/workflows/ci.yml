@@ -1,0 +1,25 @@
+name: CI
+on:
+  pull_request:
+    branches:
+      - master
+      - main
+  push:
+    branches:
+      - master
+      - main
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: pip install zensical mkdocs-material mkdocstrings-python fastmcp pytest
+      - name: Validate deep dives
+        run: pytest --tb=short
+      - name: Build site (dry run)
+        run: zensical build --clean
