@@ -1,81 +1,114 @@
 {
   "ticker": "ASTS",
-  "company": "AST SpaceMobile",
+  "company": "AST SpaceMobile, Inc.",
   "sector": "Space",
-  "industry": "Satellite Communications / Direct-to-Cell",
+  "theme": "Space Economy",
+  "sub_theme": "Satellite Connectivity",
+  "industry": "Satellite-to-Cell Connectivity",
   "exchange": "NASDAQ",
-  "price": 82.87,
-  "market_cap": "$31.7B",
+  "price": 71.45,
+  "price_date": "2026-06-29",
+  "market_cap": "~$16B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-02",
-  "thesis": "Pioneering the world's first space-based cellular broadband network enabling standard smartphones to connect directly to satellites without specialized hardware. First-mover advantage in direct-to-cell technology with 5 BlueBird satellites operational. Partnerships with AT&T, Verizon, Vodafone, and 50+ global carriers represent nearly 3 billion potential subscribers. $70.9M revenue in 2025 (up 1,505%) proves technology works, but extreme 447x P/S valuation prices in massive execution success. Heavy competition from SpaceX Starlink is the primary threat.",
+  "last_updated": "2026-06-29",
+  "thesis": "AST SpaceMobile is pioneering the world's first space-based cellular broadband network, enabling standard smartphones to connect directly to satellites without specialized hardware. With Q1 2026 revenue of $14.7M, FY2026 guidance of $150M–$200M, a contracted backlog exceeding $1.2B, and partnerships with AT&T, Verizon, and 50+ global carriers covering ~3 billion potential subscribers, the company is at a critical inflection point. The stock has pulled back from $133.86 to ~$71.45, improving risk/reward for speculative investors with a 3–5 year horizon, though Q1 EPS miss and BlueBird 7 write-off raise near-term execution concerns.",
   "financials": {
-    "fiscal_year": "FY2025",
-    "revenue": "$70.9M",
-    "revenue_growth": "+1,505% YoY",
-    "gross_margin": "50.3%",
-    "operating_loss": "-$342M",
-    "net_loss": "-$342M",
-    "eps_diluted": "-$1.34",
-    "cash": "$2.34B",
-    "total_debt": "$2.2B",
-    "fcf": "-$1.24B (negative)",
-    "net_income": "N/A"
+    "fiscal_year": "FY2026 (Q1)",
+    "revenue": "$14.7M (Q1 2026)",
+    "revenue_growth": "Guidance $150M–$200M FY2026",
+    "gross_margin": "~52%",
+    "net_income": "-$191M (Q1 2026)",
+    "eps_diluted": "-$0.66 (Q1 2026)",
+    "cash": "$3.5B",
+    "fcf": "-$191M (Q1 2026)"
   },
   "bull_case": {
-    "target": "$180–220",
+    "target": "$120–$140",
     "drivers": [
-      "45-60 satellites achieve continuous U.S. coverage by end of 2026",
-      "Verizon and AT&T commercial launches drive 5%+ rural adoption",
-      "International partnerships (Vodafone, Rakuten, stc) generate material revenue",
-      "Government contracts scale to $200M+ annually with high margins",
-      "SpaceX competition less severe than feared; carriers prefer ASTS neutral model"
-    ]
-  },
-  "bear_case": {
-    "target": "$25–35",
-    "risks": [
-      "SpaceX Starlink with T-Mobile captures 70%+ market share",
-      "AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions",
-      "Satellite launches face delays or technical issues",
-      "Revenue growth stalls below $200M annually; cash burn forces dilutive financing",
-      "Market loses patience with 'story stocks'; multiple compression to 50x sales"
+      "Successful deployment of 45 BlueBird satellites by end of 2026 enabling continuous U.S. coverage",
+      "AT&T and Verizon commercial service launches in H2 2026 drive subscriber adoption above 5% of rural customers",
+      "International partnerships (Vodafone, Rakuten, stc) generate material revenue by 2027",
+      "Government contracts scale to $200M+ annually with 20–30% margins",
+      "Revenue grows from $150M–$200M (FY2026) to $2–$3B by 2028 with gross margins expanding to 60%+"
     ]
   },
   "base_case": {
-    "target": "$70–95",
-    "assumptions": "Successful satellite deployment with mixed adoption; SpaceX competition real but ASTS maintains 30-40% market share; Revenue grows to $400-600M by 2027; EBITDA breakeven by 2028-2029."
+    "target": "$85–$95",
+    "assumptions": "ASTS deploys 45 satellites and achieves continuous coverage by late 2026. Commercial service launches with mixed adoption—grows steadily but not explosively. SpaceX competition is real but ASTS maintains 30–40% market share through carrier partnerships. Revenue grows to $400–$600M by 2027 and $1.5B by 2029. Company reaches EBITDA breakeven by 2028–2029. Stock trades based on execution with multiple compressing to 50–80x sales as growth matures."
+  },
+  "bear_case": {
+    "target": "$40–$50",
+    "risks": [
+      "SpaceX Starlink with T-Mobile proves 'good enough' for most users, capturing 70%+ market share",
+      "AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions",
+      "Satellite launches face delays or technical issues; constellation incomplete by 2027",
+      "Revenue growth stalls below $150M in FY2026; cash burn forces highly dilutive financing",
+      "Market loses patience with 'story stocks'; multiple compression to 30x sales or lower"
+    ]
   },
   "catalysts": [
     {
-      "date": "Ongoing",
-      "event": "BlueBird Satellite Launches — Monthly through 2026",
-      "iso_date": null
+      "date": "Monthly through 2026",
+      "iso_date": "2026",
+      "event": "BlueBird satellite launches targeting 45 in orbit",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
+    },
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — revenue acceleration vs. Q1 is critical",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
     },
     {
       "date": "H2 2026",
-      "event": "Verizon Service Launch — Major carrier going live",
-      "iso_date": "2026-07"
+      "iso_date": "2026-07",
+      "event": "Verizon commercial service launch",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
     },
     {
-      "date": "2026-2027",
-      "event": "Constellation Completion (45-60 satellites) — Continuous coverage milestone",
-      "iso_date": "2026"
+      "date": "Q3 2026",
+      "iso_date": "2026-07",
+      "event": "AT&T commercial service launch",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Constellation completion milestone — 45 satellites in orbit",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
     },
     {
       "date": "Ongoing",
-      "event": "Government Contract Wins — Higher-margin revenue validation",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Government contract awards (DoD, Space Development Agency, Golden Dome)",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-06-29"
     }
   ],
   "key_risks": [
-    "SpaceX competition with deeper pockets and lower launch costs",
-    "Burning $1.2B+ annually with 2-year runway requiring future capital raises",
-    "Extreme 447x P/S valuation vulnerable to any execution miss",
-    "Customer concentration with AT&T and Verizon as key partners",
-    "Technology execution risk — satellites are complex with launch/manufacturing risks"
-  ],
-  "theme": "Space Economy",
-  "sub_theme": "Satellite Connectivity",
-  "price_date": "2026-04-02"
+    "SpaceX Starlink competition with deeper pockets, lower launch costs, and T-Mobile partnership",
+    "BlueBird 7 write-off of $155M–$160M raises manufacturing and execution risks",
+    "Q1 2026 EPS miss (-$0.66 vs. -$0.21 est.) shows larger-than-expected losses",
+    "Heavy customer concentration with AT&T and Verizon; loss of either partner would collapse revenue",
+    "Need for 5–7x revenue growth to reach profitability; FY2026 guidance of $150M–$200M is still far from breakeven",
+    "Convertible note overhang creates potential future dilution of 15–30%",
+    "High cash burn rate (~$150M+ per quarter normalized) requires disciplined execution"
+  ]
 }

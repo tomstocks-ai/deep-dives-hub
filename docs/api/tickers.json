@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "tickers": [
     {
       "ticker": "CEG",
@@ -84,14 +84,14 @@
       "sector": "Space",
       "industry": "Satellite-to-Cell Connectivity",
       "rating": "SPEC. BUY",
-      "price": 82.87,
-      "market_cap": "$31.7B",
-      "last_updated": "2026-04-02",
+      "price": 71.45,
+      "market_cap": "~$16B",
+      "last_updated": "2026-06-29",
       "deep_dive_url": "/deep-dives/ASTS/",
       "api_url": "/api/ASTS.json",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-04-02"
+      "price_date": "2026-06-29"
     },
     {
       "ticker": "CRML",
