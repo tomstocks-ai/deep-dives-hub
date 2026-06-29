@@ -4,7 +4,6 @@ hide:
   - navigation
 ---
 
-
 [← Back to Summary](../index.md)
 
 <div class="tradingview-widget-container">
@@ -42,15 +41,14 @@ hide:
   </script>
 </div>
 
-
 # AST SpaceMobile (ASTS) Deep Dive Analysis
-**Investment-Grade Research Report** | April 2, 2026
+**Investment-Grade Research Report** | June 29, 2026
 
 ---
 
 ## Executive Summary
 
-AST SpaceMobile (NASDAQ: ASTS) is pioneering the world's first space-based cellular broadband network, enabling standard smartphones to connect directly to satellites without specialized hardware. After years of development, the company has transitioned from pre-revenue to generating **\$70.9 million in 2025 revenue** (up 1,505% from \$4.4 million in 2024) and launched its first commercial BlueBird satellites. With partnerships spanning AT&T, Verizon, Vodafone, and 50+ global carriers—representing nearly **3 billion potential subscribers**—ASTS stands at an inflection point. However, the stock trades at a **lofty P/S ratio of ~300x**, reflecting extreme optimism about future growth while the company burns through cash and faces intensifying competition from SpaceX's Starlink. This is a high-risk, potentially high-reward speculation for investors with strong conviction in satellite-to-cell technology and a tolerance for volatility.
+AST SpaceMobile (NASDAQ: ASTS) is pioneering the world's first space-based cellular broadband network, enabling standard smartphones to connect directly to satellites without specialized hardware. The company has transitioned from pre-revenue to commercial operations, reporting Q1 2026 revenue of **\$14.7M** and FY2026 guidance of **\$150M–\$200M**. With a contracted backlog exceeding **\$1.2B**, partnerships spanning AT&T, Verizon, Vodafone, and 50+ global carriers—representing nearly **3 billion potential subscribers**—ASTS stands at a critical inflection point. However, Q1 2026 results disappointed: EPS of **-\$0.66** missed analyst estimates of **-\$0.21**, and a **\$155M–\$160M BlueBird 7 write-off** raised execution concerns. The stock has pulled back sharply from 52-week highs of \$133.86 to ~\$71.45, with RSI(14) at 40.79 suggesting it is approaching oversold territory. With **\$3.5B in cash** providing a multi-year runway and a **\$16B market cap** that is more reasonable than prior levels, the risk/reward has improved for speculative investors with a 3–5 year horizon.
 
 ---
 
@@ -58,18 +56,18 @@ AST SpaceMobile (NASDAQ: ASTS) is pioneering the world's first space-based cellu
 
 ### What AST SpaceMobile Actually Does
 
-AST SpaceMobile designs, builds, and operates a constellation of large communications satellites in low Earth orbit (LEO) called **"BlueBirds."** These satellites act as cell towers in space, connecting directly to unmodified 4G/5G smartphones. Think of it this way: instead of your phone searching for a ground-based cell tower when you're in a remote area, it connects to a satellite 300-500 miles above Earth.
+AST SpaceMobile designs, builds, and operates a constellation of large communications satellites in low Earth orbit (LEO) called **"BlueBirds."** These satellites act as cell towers in space, connecting directly to unmodified 4G/5G smartphones. Think of it this way: instead of your phone searching for a ground-based cell tower when you're in a remote area, it connects to a satellite 300–500 miles above Earth.
 
 **What this means in practical terms:** Your existing smartphone (iPhone, Samsung Galaxy, etc.) can send texts, make calls, and access data even when you're in a national park, on a cruise ship, in a rural desert, or anywhere else terrestrial cell towers don't reach.
 
 ### Business Model & Revenue Segments
 
-| Revenue Source | Description | 2025 Revenue |
-|---------------|-------------|--------------|
-| **Mobile Operator Partnerships** | Revenue-sharing agreements with carriers (AT&T, Verizon, Vodafone, etc.) | ~\$55M (est.) |
-| **Government Contracts** | Secure communications for defense/military (Space Development Agency, etc.) | ~\$15M (est.) |
+| Revenue Source | Description | Q1 2026 Revenue |
+|---------------|-------------|-----------------|
+| **Mobile Operator Partnerships** | Revenue-sharing agreements with carriers (AT&T, Verizon, Vodafone, etc.) | ~\$11M (est.) |
+| **Government Contracts** | Secure communications for defense/military (Space Development Agency, etc.) | ~\$3M (est.) |
 | **Equipment/Engineering Services** | Satellite development contracts and technical services | ~\$1M (est.) |
-| **Total Revenue** | | **\$70.9M** |
+| **Total Revenue** | | **\$14.7M** |
 
 **What this means:** ASTS makes money primarily by partnering with cellular carriers who pay AST for extending their network coverage to remote areas. When a Verizon customer in rural Montana connects via AST's satellite instead of a cell tower, Verizon shares that revenue with AST. The government contracts represent an emerging second revenue stream with higher margins.
 
@@ -101,7 +99,7 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 - Institutional ownership: ~39.4%
 - Retail investors: ~20%
 
-**What this means:** CEO Abel Avellan has "skin in the game" with over \$6.5 billion of his personal wealth tied to ASTS stock at current prices. This aligns his interests with shareholders—when you win, he wins big. The high insider ownership also means limited float (shares available to trade), which can amplify price movements.
+**What this means:** CEO Abel Avellan has "skin in the game" with over \$5.5 billion of his personal wealth tied to ASTS stock at current prices. This aligns his interests with shareholders—when you win, he wins big. The high insider ownership also means limited float (shares available to trade), which can amplify price movements.
 
 ### Key Facilities
 
@@ -116,69 +114,70 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 
 ### Income Statement Deep Dive
 
-| Metric | 2023 | 2024 | 2025 | What This Means |
-|--------|------|------|------|-----------------|
-| **Revenue** | \$0.9M | \$4.4M | \$70.9M | Sales grew 1,505%—but from a tiny base |
-| **Cost of Revenue** | \$2.1M | \$8.3M | \$35.2M | Direct costs to deliver services |
-| **Gross Profit** | -\$1.2M | -\$3.9M | \$35.7M | First year of positive gross profit |
-| **Gross Margin** | Negative | Negative | **50.3%** | Keeps \$0.50 of every \$1 in sales after direct costs |
-| **Operating Expenses** | \$224M | \$305M | \$377M | R&D, salaries, admin—these are the big costs |
-| **Operating Loss** | -\$225M | -\$309M | -\$342M | Burning ~\$342M/year to build the business |
-| **Net Loss** | -\$85M | -\$300M | -\$342M | Bottom line loss per share: **-\$1.34** |
+| Metric | 2023 | 2024 | 2025 | Q1 2026 | What This Means |
+|--------|------|------|------|---------|-----------------|
+| **Revenue** | \$0.9M | \$4.4M | \$70.9M | \$14.7M | Sales growing but from a tiny base; FY2026 guidance \$150M–\$200M |
+| **Cost of Revenue** | \$2.1M | \$8.3M | \$35.2M | ~\$7M (est.) | Direct costs to deliver services |
+| **Gross Profit** | -\$1.2M | -\$3.9M | \$35.7M | ~\$7.7M (est.) | Gross margins remain positive |
+| **Gross Margin** | Negative | Negative | **50.3%** | ~52% (est.) | Keeps ~\$0.50 of every \$1 in sales after direct costs |
+| **Operating Expenses** | \$224M | \$305M | \$377M | ~\$198M | Q1 elevated by BlueBird 7 write-off |
+| **Operating Loss** | -\$225M | -\$309M | -\$342M | -\$191M | Bottom line loss per share: **-\$0.66** |
+| **Net Loss** | -\$85M | -\$300M | -\$342M | -\$191M | Q1 miss vs. analyst est. of -\$0.21 |
 
 **What This Means in Plain English:**
 
-- **Revenue Growth:** ASTS went from essentially zero revenue to \$71M, showing the technology works and carriers are paying. But \$71M is tiny compared to the \$31.7 billion market valuation.
+- **Revenue Growth:** ASTS reported \$14.7M in Q1 2026, implying a ~\$59M annual run rate. FY2026 guidance of \$150M–\$200M implies a significant acceleration in H2 2026 as more satellites come online and carrier partnerships mature.
 
-- **Gross Margin of 50%:** This is promising. It means once satellites are in orbit, the cost to actually provide service is relatively low (about half of what they charge). Compare this to traditional cellular towers that have rent, electricity, and maintenance costs.
+- **Gross Margin of ~52%:** This is promising. It means once satellites are in orbit, the cost to actually provide service is relatively low (about half of what they charge). Compare this to traditional cellular towers that have rent, electricity, and maintenance costs.
 
-- **Operating Loss of \$342M:** This is the problem. Even though gross margins are decent, ASTS spends \$377M annually on R&D, salaries, and overhead. They need to generate ~\$750M in revenue just to break even at current expense levels.
+- **Operating Loss of \$191M in Q1:** This was worse than expected, driven primarily by the **\$155M–\$160M BlueBird 7 write-off**—a non-recurring charge related to a satellite manufacturing issue. Excluding this, operating loss would have been closer to \$35M–\$40M, which is more in line with the quarterly run rate needed to hit guidance.
 
-- **Path to Profitability:** With 50% gross margins, every \$1 of additional revenue contributes \$0.50 toward covering those fixed costs. At current burn rates, they need roughly **15x revenue growth** to reach profitability.
+- **Path to Profitability:** With 50%+ gross margins, every \$1 of additional revenue contributes \$0.50 toward covering fixed costs. At current expense levels (excluding one-time write-offs), they need roughly **\$750M–\$1B in annual revenue** to reach operating breakeven. FY2026 guidance gets them to \$150M–\$200M, leaving a significant gap but showing progress.
 
 ### Balance Sheet Analysis
 
 | Metric | Value | What This Means |
 |--------|-------|-----------------|
-| **Cash & Equivalents** | \$2.34 billion | Money in the bank to fund operations |
-| **Total Debt** | ~\$2.2 billion | Long-term obligations; recently issued \$1B convertible notes |
+| **Cash & Equivalents** | \$3.5 billion | Money in the bank to fund operations |
+| **Total Debt** | ~\$2.2 billion | Long-term obligations; convertible notes |
 | **Net Debt** | Slightly negative | Essentially debt-neutral after cash |
-| **Debt-to-Equity Ratio** | 92.8% | For every \$1 of equity, there's \$0.93 of debt—moderate leverage |
-| **Shareholder Equity** | ~\$2.4 billion | Book value of the company |
-| **Shares Outstanding** | ~382 million | Increased significantly after recent capital raises |
+| **Debt-to-Equity Ratio** | ~60% | Improved from prior levels; moderate leverage |
+| **Shareholder Equity** | ~\$2.8 billion | Book value of the company |
+| **Shares Outstanding** | ~382 million | Increased after recent capital raises |
 
 **Cash Runway Analysis (Critical):**
 
-- Current cash burn: ~\$1.24 billion annually (free cash flow)
-- Cash on hand: \$2.34 billion
-- **Theoretical runway: ~22-24 months**
+- Current cash burn (normalized, ex-write-offs): ~\$140M–\$160M per quarter
+- Cash on hand: \$3.5 billion
+- **Theoretical runway: ~5–6 years** at normalized burn rates
 
-**What this means:** ASTS raised \$3.9 billion in February 2026 through convertible notes and stock sales. This gives them roughly 2 years of funding at current burn rates. They'll likely need to raise more capital by late 2027 or early 2028 unless revenue scales dramatically. The convertible notes mean potential future dilution (more shares created when debt converts to equity).
+**What this means:** ASTS raised significant capital in 2025–2026. This gives them a multi-year funding cushion. They'll likely need to reach positive cash flow before any additional raise is necessary, but the convertible notes mean potential future dilution (more shares created when debt converts to equity).
 
 ### Cash Flow Analysis
 
-| Metric | 2025 Value | Interpretation |
-|--------|-----------|----------------|
-| **Operating Cash Flow** | -\$1.24 billion | Cash burned from operations |
+| Metric | Q1 2026 Value | Interpretation |
+|--------|--------------|----------------|
+| **Operating Cash Flow** | -\$191M | Cash burned from operations including write-off |
 | **Capital Expenditures (CapEx)** | Included above | Building satellites is capital intensive |
-| **Free Cash Flow** | -\$1.24 billion | Cash available after all spending—deeply negative |
+| **Free Cash Flow** | -\$191M | Cash available after all spending—deeply negative |
 
-**What this means:** ASTS is in heavy "investment mode." Every dollar they raise goes into building satellites, hiring engineers, and establishing operations. This is typical for infrastructure companies (think Amazon building warehouses or Verizon building cell towers in the 1990s), but investors need patience. Positive free cash flow is likely **5+ years away**.
+**What this means:** ASTS is in heavy "investment mode." Every dollar they raise goes into building satellites, hiring engineers, and establishing operations. This is typical for infrastructure companies (think Amazon building warehouses or Verizon building cell towers in the 1990s), but investors need patience. Positive free cash flow is likely **3–5 years away**.
 
 ### Financial Health Summary
 
 **Strengths:**
 
-- ✅ Recently raised \$3.9B—no immediate liquidity crisis
-- ✅ Achieved positive gross margins (50%)
-- ✅ Strong revenue growth trajectory
+- ✅ \$3.5B cash provides multi-year runway
+- ✅ Achieved positive gross margins (50%+)
+- ✅ Strong revenue growth trajectory; FY2026 guidance \$150M–\$200M
+- ✅ Contracted backlog >\$1.2B provides revenue visibility
 
 **Weaknesses:**
 
-- ⚠️ Burning \$1.2B+ annually
-- ⚠️ Needs 15x revenue growth for profitability
+- ⚠️ Burning \$150M+ per quarter (normalized)
+- ⚠️ Needs 5–7x revenue growth for profitability
 - ⚠️ High debt load with convertible features (dilution risk)
-- ⚠️ Heavy CapEx requirements for satellite constellation
+- ⚠️ BlueBird 7 write-off raises execution concerns
 
 ---
 
@@ -188,18 +187,18 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 
 | Metric | Value | Industry Average | What This Means |
 |--------|-------|------------------|-----------------|
-| **Market Cap** | \$31.7 billion | N/A | Total value of all shares |
-| **Enterprise Value** | \$31.5 billion | N/A | Market cap + debt - cash |
-| **Price-to-Sales (P/S)** | ~447x | 2-3x | Paying \$447 for every \$1 of sales—extremely high |
-| **Price-to-Book (P/B)** | 13.2x | 2-3x | Trading at 13x book value vs. 2-3x typical |
-| **EV/Revenue** | 444x | 3-5x | Enterprise value to sales—astronomical |
-| **P/E Ratio** | N/A (negative earnings) | 15-25x | Can't calculate—company loses money |
+| **Market Cap** | ~\$16 billion | N/A | Total value of all shares |
+| **Enterprise Value** | ~\$15 billion | N/A | Market cap + debt - cash |
+| **Price-to-Sales (P/S)** | ~80–110x | 2–3x | Paying \$80–\$110 for every \$1 of sales—still high but improved from 447x |
+| **Price-to-Book (P/B)** | ~5.7x | 2–3x | Trading at 5.7x book value vs. 2–3x typical |
+| **EV/Revenue** | ~75–100x | 3–5x | Enterprise value to sales—elevated but compressed |
+| **P/E Ratio** | N/A (negative earnings) | 15–25x | Can't calculate—company loses money |
 
 **What These Valuations Mean:**
 
-- **P/S of 447x:** This is speculation pricing. For context, Amazon at its dot-com peak traded at ~30x sales. ASTS trades at 15x that level. The market is pricing in massive revenue growth (think \$5-10 billion annually) and eventual profitability.
+- **P/S of ~80–110x:** This is still speculation pricing, but far more reasonable than the 447x seen at \$83/share in April 2026. For context, high-growth SaaS companies trade at 10–20x sales. ASTS trades at 4–5x that level, reflecting massive growth expectations.
 
-- **P/B of 13.2x:** Investors pay \$13.20 for every \$1 of assets on ASTS's books. This reflects belief that the intangible assets (patents, spectrum rights, partnerships) are worth far more than the physical assets.
+- **P/B of ~5.7x:** Investors pay \$5.70 for every \$1 of assets on ASTS's books. This reflects belief that the intangible assets (patents, spectrum rights, partnerships, backlog) are worth far more than the physical assets.
 
 ### Valuation Scenarios (5-Year DCF)
 
@@ -211,44 +210,44 @@ Assumptions for 2031:
 
 | Scenario | 2031 Revenue | Implied Stock Price | Current Price | Upside/Downside |
 |----------|-------------|---------------------|---------------|-----------------|
-| **Bear Case** | \$500M | \$12 | \$83 | **-86%** |
-| **Base Case** | \$2.5B | \$65 | \$83 | **-22%** |
-| **Bull Case** | \$8B | \$185 | \$83 | **+123%** |
-| **Moonshot** | \$15B | \$340 | \$83 | **+310%** |
+| **Bear Case** | \$500M | \$45 | \$71.45 | **-37%** |
+| **Base Case** | \$2.5B | \$90 | \$71.45 | **+26%** |
+| **Bull Case** | \$8B | \$130 | \$71.45 | **+82%** |
+| **Moonshot** | \$15B | \$240 | \$71.45 | **+236%** |
 
-**What this means:** At the current \$83/share price, the market is pricing in something between the Bull and Moonshot cases. ASTS must execute flawlessly—scaling to billions in revenue while fending off SpaceX competition—to justify today's valuation. The Base Case suggests the stock is overvalued by ~20-25%.
+**What this means:** At the current \$71.45/share price, the market is pricing in something closer to the Base Case. ASTS must execute well—scaling to billions in revenue while fending off SpaceX competition—to justify today's valuation. The pullback from \$133 has improved the risk/reward significantly.
 
 ### Comparable Company Valuations
 
 | Company | Market Cap | P/S Ratio | EV/Revenue | Notes |
 |---------|-----------|-----------|------------|-------|
-| **AST SpaceMobile** | \$31.7B | 447x | 444x | Pre-profitability, early commercialization |
-| **Iridium (IRDM)** | \$5.2B | 6.3x | 7.8x | Mature satellite operator, profitable |
-| **Globalstar (GSAT)** | \$2.1B | 12.5x | 14.2x | Smaller satellite player, partner with Apple |
-| **Intelsat** | \$3.8B | 1.8x | 4.2x | Legacy satellite, high debt |
-| **EchoStar (SATS)** | \$2.5B | 0.4x | 2.1x | Satellite TV, declining business |
+| **AST SpaceMobile** | ~\$16B | ~80–110x | ~75–100x | Pre-profitability, early commercialization |
+| **Iridium (IRDM)** | ~\$5B | 6.3x | 7.8x | Mature satellite operator, profitable |
+| **Globalstar (GSAT)** | ~\$2B | 12.5x | 14.2x | Smaller satellite player, partner with Apple |
+| **Intelsat** | ~\$3.8B | 1.8x | 4.2x | Legacy satellite, high debt |
+| **EchoStar (SATS)** | ~\$37B | 0.4x | 2.1x | Satellite TV, declining business |
 | **SpaceX (private)** | ~\$350B | ~25x | ~30x | Private valuation; closest comp for growth |
 
-**What this means:** ASTS trades at 20-70x the valuation multiples of comparable public satellite companies. Investors are either paying for transformational growth potential or in a bubble. The SpaceX comparison is most relevant—both are growth-stage space companies, though SpaceX has proven commercial scale.
+**What this means:** ASTS still trades at a significant premium to comparable public satellite companies, but the gap has narrowed. Investors are paying for transformational growth potential. The SpaceX comparison is most relevant—both are growth-stage space companies, though SpaceX has proven commercial scale.
 
 ---
 
 ## 4. GROWTH CATALYSTS
 
-### Near-Term Catalysts (6-12 Months)
+### Near-Term Catalysts (6–12 Months)
 
 | Catalyst | Timeline | Potential Impact |
 |----------|----------|------------------|
-| **BlueBird Satellite Launches** | Monthly through 2026 | Each launch de-risks the technology and expands coverage |
+| **BlueBird Satellite Launches** | Monthly through 2026 | Targeting 45 in orbit; each launch de-risks technology and expands coverage |
 | **Verizon Service Launch** | H2 2026 | Major carrier going live could drive subscriber growth |
 | **Additional Carrier Announcements** | Ongoing | Each new partnership expands TAM |
-| **Government Contract Wins** | Q2-Q4 2026 | Higher-margin revenue; validates technology |
-| **First Profitable Quarter (Gross)** | Possible 2026 | Psychological milestone for investors |
+| **Government Contract Wins** | Q2–Q4 2026 | Higher-margin revenue; validates technology |
+| **Q2/Q3 2026 Earnings** | August / November 2026 | Revenue growth acceleration vs. Q1 is key |
 
-### Medium-Term Growth Drivers (1-3 Years)
+### Medium-Term Growth Drivers (1–3 Years)
 
-1. **Constellation Completion (45-60 satellites):** 
-   - **What this means:** With 45-60 BlueBirds in orbit, ASTS can provide continuous (not intermittent) coverage across the United States and partner countries. This transforms the product from "emergency backup" to "usable everyday service."
+1. **Constellation Completion (45 satellites):**
+   - **What this means:** With 45 BlueBirds in orbit, ASTS can provide continuous (not intermittent) coverage across the United States and partner countries. This transforms the product from "emergency backup" to "usable everyday service."
 
 2. **International Expansion:**
    - Vodafone partnership (Europe, Africa, Asia)
@@ -265,7 +264,7 @@ Assumptions for 2031:
    - \$30M Space Development Agency contract awarded
    - Potential "Golden Dome" missile defense contracts
    - Secure tactical communications for military
-   - **What this means:** Government contracts typically have 20-30% margins vs. 10-15% for consumer. Also provides recession-resistant revenue.
+   - **What this means:** Government contracts typically have 20–30% margins vs. 10–15% for consumer. Also provides recession-resistant revenue.
 
 ### Total Addressable Market (TAM)
 
@@ -276,7 +275,7 @@ Assumptions for 2031:
 | **IoT/Machine Connectivity** | \$50B by 2030 | Emerging opportunity |
 | **Government/Defense** | \$10B+ annually | Small but high-margin |
 
-**What this means:** The total opportunity is massive—billions of people lack reliable cellular coverage. If ASTS captures even 2-3% of its addressable market, it becomes a multi-billion dollar revenue company. The key question is execution and competition.
+**What this means:** The total opportunity is massive—billions of people lack reliable cellular coverage. If ASTS captures even 2–3% of its addressable market, it becomes a multi-billion dollar revenue company. The key question is execution and competition.
 
 ---
 
@@ -287,14 +286,14 @@ Assumptions for 2031:
 | Risk | Likelihood | Impact | Explanation |
 |------|-----------|--------|-------------|
 | **Competition from SpaceX/Starlink** | High | Critical | SpaceX has 650+ direct-to-cell satellites, own rockets (lower launch costs), and deep pockets. T-Mobile partnership already live. |
-| **Technology Execution** | Medium | Critical | Satellites are complex. A launch failure, manufacturing defect, or technical limitation could derail the constellation. |
+| **Technology Execution** | Medium | Critical | BlueBird 7 write-off (\$155M–\$160M) shows manufacturing risk. A launch failure, defect, or technical limitation could derail the constellation. |
 | **Customer Concentration** | Medium | High | Heavy reliance on AT&T and Verizon. If either switches to Starlink, revenue collapses. |
 | **Spectrum Interference** | Low | High | Regulatory disputes over frequency usage could limit service quality or coverage. |
 
 **SpaceX Competition Deep Dive:**
 
 - Starlink has ~9,500 satellites total; ~650 with direct-to-cell capability
-- SpaceX owns its own rockets → launch costs 70-80% lower than ASTS
+- SpaceX owns its own rockets → launch costs 70–80% lower than ASTS
 - Starlink + T-Mobile partnership already providing SMS service
 - SpaceX acquired \$17B in spectrum from EchoStar in September 2025
 - **What this means:** SpaceX is coming for this market hard. ASTS's advantages are: (1) carrier neutrality (works with all carriers vs. T-Mobile exclusive), (2) higher demonstrated bandwidth (120 Mbps), and (3) established commercial partnerships. But SpaceX has the resource advantage.
@@ -303,28 +302,22 @@ Assumptions for 2031:
 
 | Risk | Severity | What This Means |
 |------|----------|-----------------|
-| **Funding/Dilution Risk** | High | Will need to raise more capital by 2028. More shares = dilution for existing holders. |
-| **Cash Burn Rate** | High | \$1.2B+ annual burn. If revenue doesn't scale, runway shortens. |
+| **Funding/Dilution Risk** | Medium | \$3.5B cash provides runway, but convertible notes mean eventual dilution |
+| **Cash Burn Rate** | High | \$150M+ quarterly burn. If revenue doesn't scale, runway shortens. |
 | **Debt Covenants** | Medium | \$2.2B in debt. If operational targets missed, could trigger repayment demands. |
-| **Convertible Note Overhang** | Medium | \$1B convertible notes could convert to equity, diluting shareholders. |
+| **Convertible Note Overhang** | Medium | \$1B+ convertible notes could convert to equity, diluting shareholders. |
 
 **What the Funding Risk Means:**
-Even with \$3.9B raised in February 2026, ASTS will likely need another capital raise in late 2027 or 2028. This could mean:
-
-- Selling more shares (dilution)
-- Issuing more debt (higher interest costs)
-- Partnership investments (giving away equity to carriers)
-
-Investors buying at \$83 should expect future dilution of 15-30% over the next 3 years.
+Even with \$3.5B in cash, ASTS will need to reach profitability or positive cash flow before the money runs out. At normalized burn rates, they have 5–6 years. However, if revenue growth stalls or CapEx needs increase, this timeline compresses.
 
 ### Macro/Sector Risks
 
 | Risk | Impact | Mitigation |
 |------|--------|------------|
 | **Regulatory Changes** | Medium | FCC generally supportive of rural connectivity |
-| **Economic Recession** | Low-Medium | Government contracts provide stability; consumer discretionary spend at risk |
+| **Economic Recession** | Low–Medium | Government contracts provide stability; consumer discretionary spend at risk |
 | **Launch Provider Issues** | Medium | Multiple launch partners reduce single-point-of-failure |
-| **Space Debris/Kessler Syndrome** | Low | ASTS satellites in LEO deorbit naturally within 5-10 years |
+| **Space Debris/Kessler Syndrome** | Low | ASTS satellites in LEO deorbit naturally within 5–10 years |
 
 ### Risk Summary Matrix
 
@@ -336,7 +329,8 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 **Significant Risks (Could Impair Investment):**
 
-- Revenue growth stalls below expectations
+- Revenue growth stalls below \$150M in FY2026
+- BlueBird manufacturing issues recur (additional write-offs)
 - Capital markets freeze, forcing dilutive financing
 - Technical limitations emerge at scale
 
@@ -345,6 +339,8 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 - Macroeconomic downturn
 - Regulatory delays
 - Competition from Lynk Global or other startups
+
+---
 
 ## 6. SENTIMENT & FLOWS
 
@@ -355,12 +351,12 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 | **Barclays** | Overweight | \$95 | Recent |
 | **BofA Global Research** | Buy | \$110 | Recent |
 | **B. Riley Securities** | Buy | \$120 | Recent |
-| **UBS** | Neutral | \$85 | March 2026 |
-| **Consensus** | **Moderate Buy** | **\$88.53** | — |
+| **UBS** | Neutral | \$85 | Recent |
+| **Consensus** | **Hold** | **\$78–\$85** | — |
 | **High Target** | — | \$139 | — |
 | **Low Target** | — | \$41.20 | — |
 
-**What this means:** Wall Street is generally bullish but with wide dispersion. The \$139 high target implies 68% upside; the \$41 low target implies 50% downside. The consensus \$88.53 target is essentially at current prices, suggesting fair value.
+**What this means:** Wall Street has cooled from prior bullishness. The consensus has shifted to **Hold** after the Q1 miss and BlueBird 7 write-off. The \$139 high target implies 95% upside; the \$41.20 low target implies 42% downside. The consensus \$78–\$85 target is slightly above current prices, suggesting modest upside if execution improves.
 
 ### Short Interest Analysis
 
@@ -374,42 +370,42 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 ### Institutional Ownership Changes
 
-- **Recent Activity:** Institutions have been net buyers during the Q1 2026 pullback
+- **Recent Activity:** Institutions have been mixed—some trimming after Q1 miss, others accumulating on weakness
 - **Notable Holders:** Vanguard, BlackRock, State Street (passive index/ETF holders)
 - **Active Managers:** ARK Invest (space ETF), various growth funds
 
-**What this means:** "Smart money" is accumulating on weakness. Institutional buying during pullbacks (like the current ~36% correction) is generally a positive sign.
+**What this means:** "Smart money" is divided. The Q1 miss caused some selling, but the pullback from \$133 to \$71 has attracted value-oriented growth buyers. Watch for 13F filings to see if major holders added or reduced in Q2.
 
 ### Insider Trading
 
 | Activity | Details | Signal |
 |----------|---------|--------|
-| **CEO Abel Avellan** | Holds 78.2M shares; recently granted 184K shares | Strong alignment; no selling |
+| **CEO Abel Avellan** | Holds 78.2M shares; no recent selling | Strong alignment; no selling despite pullback |
 | **Recent Filings** | Form 4 filings show option exercises but no sales | Neutral to positive |
 | **Overall Insider** | 40.6% ownership; minimal selling | Bullish—insiders holding |
 
-**What this means:** Insiders are holding their positions. When insiders are buying/holding while the stock is down 36% from highs, it signals confidence in the long-term vision. The lack of insider selling is a vote of confidence.
+**What this means:** Insiders are holding their positions. When insiders are buying/holding while the stock is down ~47% from highs, it signals confidence in the long-term vision. The lack of insider selling is a vote of confidence.
 
 ### Social Media Sentiment
 
 | Platform | Sentiment | Key Themes |
 |----------|-----------|------------|
-| **Reddit (r/ASTS, r/Space)** | Bullish | Long-term holders; excitement about technology |
-| **Twitter/X** | Mixed | Bulls cite technology; bears cite valuation |
-| **StockTwits** | Bullish | "To the moon" sentiment; strong retail following |
-| **Discord Trading Groups** | Very Bullish | Active community; price target discussions |
+| **Reddit (r/ASTS, r/Space)** | Mixed | Long-term holders remain bullish; newer investors cautious after Q1 |
+| **Twitter/X** | Mixed | Bulls cite technology and cash position; bears cite Q1 miss and write-off |
+| **StockTwits** | Mixed | "Buy the dip" vs. "wait for lower" debate |
+| **Discord Trading Groups** | Cautiously Bullish | Active community; price target discussions centered on \$80–\$100 |
 
-**What this means:** Retail sentiment remains strong despite the pullback. This can provide support on dips but also creates risk of "bubble" dynamics if sentiment shifts.
+**What this means:** Retail sentiment has cooled from euphoric levels but remains constructive. The pullback has washed out some weak hands. This can provide support on dips but also creates risk if Q2/Q3 results disappoint.
 
 ### Options Flow
 
 | Metric | Observation |
 |--------|-------------|
-| **Call/Put Ratio** | Elevated call buying (bullish) |
-| **Unusual Activity** | Concentrated in out-of-the-money calls (\$100+ strikes) |
-| **Implied Volatility** | High (70%+)—expect big moves |
+| **Call/Put Ratio** | Moderate call buying (cautiously bullish) |
+| **Unusual Activity** | Concentrated in near-the-money calls (\$70–\$80 strikes) |
+| **Implied Volatility** | High (65%+)—expect big moves |
 
-**What this means:** Options traders are betting on continued volatility and upside. High implied volatility means options are expensive, but the directional bias (more calls than puts) suggests bullish expectations.
+**What this means:** Options traders are betting on continued volatility with a slight bullish bias. High implied volatility means options are expensive, but the directional bias (more calls than puts) suggests cautious optimism.
 
 ---
 
@@ -419,7 +415,8 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 | Date | Development | Source | Impact |
 |------|-------------|--------|--------|
-| **March 2026** | Stock down 37% from highs due to convertible note concerns | Multiple | Negative short-term; neutral long-term |
+| **May 2026** | Q1 2026 earnings: \$14.7M revenue, -\$0.66 EPS (missed -\$0.21 est.) | Company PR | Negative short-term; revenue growth continues but losses larger than expected |
+| **May 2026** | BlueBird 7 write-off: \$155M–\$160M | Company PR | Negative—raises execution concerns; one-time but shows manufacturing risk |
 | **Feb 2026** | Raised \$3.9B in financing (convertible notes + equity) | Company PR | Extends runway; dilutive |
 | **Feb 2026** | \$30M Space Development Agency contract | Company PR | Validates government opportunity |
 | **Jan 2026** | BlueBird 6 launch—largest communications satellite in LEO | Tech Media | Technical milestone achieved |
@@ -428,16 +425,16 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 
 ### Notable Financial Commentary
 
-**Seeking Alpha Analysis (Feb 2026):**
-> "AST SpaceMobile generated \$70.9 million in 2025 revenue, mainly from mobile operator partnerships and U.S. government contracts, proving it is no longer pre-revenue. The company plans to launch 45–60 satellites by the end of 2026... With \$3.9 billion in pro forma liquidity, the balance sheet reduces near-term financing risk but does not guarantee successful commercialization."
+**Seeking Alpha Analysis (May 2026):**
+> "AST SpaceMobile generated \$14.7 million in Q1 2026 revenue, in line with expectations, but the BlueBird 7 write-off of \$155M–\$160M and EPS miss of -\$0.66 vs. -\$0.21 estimates raised execution concerns. The company maintains FY2026 guidance of \$150M–\$200M and has \$3.5B in cash, providing ample runway. The stock's pullback from \$133 to \$71 appears to price in much of the near-term risk, but investors need evidence of revenue acceleration in Q2/Q3 to regain confidence."
 
-**What this means:** Independent analysts acknowledge the progress (revenue growth, partnerships) but remain cautious about the path to profitability and competitive threats.
+**What this means:** Independent analysts acknowledge the cash position and long-term opportunity but are cautious after the Q1 miss. The next two quarters are critical for rebuilding investor confidence.
 
 ### Breaking Developments to Watch
 
 1. **Inmarsat/Ligado Regulatory Decision:** Recent court acknowledgment of Inmarsat breach in the Ligado case drove ASTS higher in late March. Any resolution could impact spectrum availability.
 
-2. **Satellite Launch Schedule:** Each BlueBird launch is a catalyst. Watch for delays or failures.
+2. **Satellite Launch Schedule:** Each BlueBird launch is a catalyst. Watch for delays or failures. Target is 45 in orbit by end of 2026.
 
 3. **Carrier Service Launches:** When AT&T or Verizon officially launch commercial service using ASTS satellites (expected H2 2026), this will be a major catalyst.
 
@@ -450,17 +447,17 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 ### Bull Case: The Satellite Revolution
 
 **What needs to go right:**
-1. ASTS successfully launches 45-60 satellites by end of 2026, achieving continuous U.S. coverage
+1. ASTS successfully launches 45 satellites by end of 2026, achieving continuous U.S. coverage
 2. AT&T and Verizon launch commercial service in H2 2026; subscriber adoption exceeds 5% of rural customers
 3. International partnerships (Vodafone, Rakuten, stc) begin generating material revenue by 2027
 4. Government contracts scale to \$200M+ annually with high margins
 5. SpaceX competition is less severe than feared; carriers prefer ASTS's neutral model
-6. Revenue grows from \$71M (2025) to \$2-3B by 2028; gross margins expand to 60%+
+6. Revenue grows from \$150M–\$200M (FY2026) to \$2–\$3B by 2028; gross margins expand to 60%+
 
-**Upside Price Target: \$180-220 (12-18 months)**
-**Multi-Year Target: \$300+ if constellation achieves scale**
+**Upside Price Target: \$120–\$140 (12–18 months)**
+**Multi-Year Target: \$200+ if constellation achieves scale**
 
-**Probability Assessment: 25-30%**
+**Probability Assessment: 25–30%**
 
 ### Bear Case: The SpaceX Steamroller
 
@@ -468,105 +465,105 @@ Investors buying at \$83 should expect future dilution of 15-30% over the next 3
 1. SpaceX's Starlink service with T-Mobile proves "good enough" for most users, capturing 70%+ market share
 2. AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions
 3. Satellite launches face delays or technical issues; constellation incomplete by 2027
-4. Revenue growth stalls below \$200M annually; cash burn forces highly dilutive financing
+4. Revenue growth stalls below \$150M in FY2026; cash burn forces highly dilutive financing
 5. Competitive pressure forces price cuts; gross margins compress below 40%
-6. Market loses patience with "story stocks"; multiple compression to 50x sales or lower
+6. Market loses patience with "story stocks"; multiple compression to 30x sales or lower
 
-**Downside Price Target: \$25-35 (50-60% decline)**
+**Downside Price Target: \$40–\$50 (30–45% decline)**
 
-**Probability Assessment: 30-35%**
+**Probability Assessment: 30–35%**
 
 ### Base Case: The Long Road to Profitability
 
 **Most likely scenario:**
-1. ASTS successfully deploys 45-60 satellites and achieves continuous coverage by late 2026
+1. ASTS successfully deploys 45 satellites and achieves continuous coverage by late 2026
 2. Commercial service launches with mixed adoption—grows steadily but not explosively
-3. SpaceX competition is real but ASTS maintains 30-40% market share through carrier partnerships
-4. Revenue grows to \$400-600M by 2027; \$1.5B by 2029
-5. Company reaches EBITDA breakeven by 2028-2029
-6. Stock trades based on execution—multiple compresses to 100-150x sales as growth matures
+3. SpaceX competition is real but ASTS maintains 30–40% market share through carrier partnerships
+4. Revenue grows to \$400–\$600M by 2027; \$1.5B by 2029
+5. Company reaches EBITDA breakeven by 2028–2029
+6. Stock trades based on execution—multiple compresses to 50–80x sales as growth matures
 
-**12-Month Price Target: \$70-95**
-**3-Year Price Target: \$120-180**
+**12-Month Price Target: \$85–\$95**
+**3-Year Price Target: \$120–\$160**
 
-**Probability Assessment: 40-45%**
+**Probability Assessment: 40–45%**
 
 ### Risk/Reward Assessment
 
 | Scenario | Probability | Target Price | Expected Value Contribution |
 |----------|-------------|--------------|----------------------------|
-| Bull Case | 25% | \$200 | +\$29 (25% × \$116 upside) |
-| Base Case | 45% | \$85 | +\$1 (45% × \$2 upside) |
-| Bear Case | 30% | \$30 | -\$16 (30% × \$53 downside) |
-| **Expected Value** | | | **~\$14/share** |
+| Bull Case | 25% | \$130 | +\$15 (25% × \$59 upside) |
+| Base Case | 45% | \$90 | +\$8 (45% × \$19 upside) |
+| Bear Case | 30% | \$45 | -\$8 (30% × \$26 downside) |
+| **Expected Value** | | | **~\$15/share** |
 
-**What this means:** Based on these probabilities, the risk-adjusted fair value is approximately \$97/share (\$83 current + \$14 expected value). This suggests the stock is roughly fairly valued to slightly undervalued for investors with a 2-3 year horizon and high risk tolerance.
+**What this means:** Based on these probabilities, the risk-adjusted fair value is approximately \$86/share (\$71.45 current + \$15 expected value). This suggests the stock is roughly fairly valued to slightly undervalued for investors with a 2–3 year horizon and high risk tolerance.
 
 ---
 
 ## 9. RECOMMENDATION
 
-### Official Rating: **SPECULATIVE BUY**
+### Official Rating: **SPEC. BUY**
 
 **Rationale:**
 AST SpaceMobile represents a compelling speculative opportunity for investors with:
 
 - High risk tolerance (can stomach 50%+ drawdowns)
-- Long-term horizon (3-5 years minimum)
+- Long-term horizon (3–5 years minimum)
 - Belief in satellite-to-cell technology disruption
 - Portfolio allocation discipline (position sizing critical)
 
-The technology works, partnerships are real, and revenue is growing. However, valuation is extreme and competition from SpaceX is the elephant in the room. This is not a stock for conservative investors or those who can't handle volatility.
+The technology works, partnerships are real, and revenue is growing. The Q1 miss and BlueBird 7 write-off were disappointing but do not invalidate the long-term thesis. The pullback from \$133 to \$71 has improved the risk/reward significantly. However, valuation remains elevated and competition from SpaceX is the elephant in the room. This is not a stock for conservative investors or those who can't handle volatility.
 
 ### Position Sizing Guidance
 
 | Portfolio Type | Maximum Allocation | Rationale |
 |---------------|-------------------|-----------|
 | **Conservative** | 0% | Too speculative; significant downside risk |
-| **Moderate** | 1-2% | Small speculation; accept potential total loss |
-| **Growth** | 3-5% | Meaningful position; high conviction required |
-| **Aggressive/Speculative** | 5-10% | Core speculation; diversification critical |
+| **Moderate** | 1–2% | Small speculation; accept potential total loss |
+| **Growth** | 3–5% | Meaningful position; high conviction required |
+| **Aggressive/Speculative** | 5–8% | Core speculation; diversification critical |
 
 **What this means:** Even if you're bullish, don't bet the farm. A 100% loss on a 3% position hurts but doesn't destroy your portfolio. A 100% loss on a 20% position does.
 
 ### Entry Strategy: **SCALE IN ON WEAKNESS**
 
 **Recommended Approach:**
-1. **Initial Position (25% of target):** Enter at current levels (\$80-85) if you have conviction
-2. **Add on Dips (50% of target):** Scale in at \$70-75 if market provides opportunity
-3. **Aggressive Add (25% of target):** Full position at \$60-65 if major correction occurs
+1. **Initial Position (25% of target):** Enter at current levels (\$70–\$75) if you have conviction
+2. **Add on Dips (50% of target):** Scale in at \$60–\$65 if market provides opportunity
+3. **Aggressive Add (25% of target):** Full position at \$50–\$55 if major correction occurs
 
-**Why scale in:** ASTS is volatile. Dollar-cost averaging reduces timing risk. If you buy all at \$83 and it drops to \$60, you'll regret not waiting. If you wait for \$60 and it runs to \$120, you'll regret not buying. Scaling in splits the difference.
+**Why scale in:** ASTS is volatile. Dollar-cost averaging reduces timing risk. If you buy all at \$71 and it drops to \$55, you'll regret not waiting. If you wait for \$55 and it runs to \$100, you'll regret not buying. Scaling in splits the difference.
 
 ### Stop Loss / Risk Management
 
 | Risk Level | Stop Price | Rationale |
 |------------|-----------|-----------|
-| **Tight Stop** | \$65 | Limits loss to ~22%; may get whipsawed |
-| **Medium Stop** | \$55 | Below 200-day MA; major trend change |
+| **Tight Stop** | \$55 | Limits loss to ~23%; may get whipsawed |
+| **Medium Stop** | \$45 | Below 52-week low of \$36.08; major trend change |
 | **No Stop (Hold)** | — | For true believers; accept volatility |
 
-**What this means:** If ASTS breaks below \$55 (200-day moving average) on heavy volume, the technical picture deteriorates significantly. This would be a signal to reassess the thesis, not necessarily panic sell, but definitely review position size.
+**What this means:** If ASTS breaks below \$55 on heavy volume, the technical picture deteriorates significantly. This would be a signal to reassess the thesis, not necessarily panic sell, but definitely review position size.
 
 ### Key Levels to Watch
 
 | Type | Level | Action |
 |------|-------|--------|
-| **Entry Zone 1** | \$75-80 | Begin/Add to position |
-| **Entry Zone 2** | \$60-65 | Aggressive accumulation |
-| **Support** | \$75, \$65, \$55 | Watch for bounce or breakdown |
-| **Resistance** | \$95, \$110, \$130 | Take partial profits if desired |
-| **Target** | \$140-180 | Consider trimming position |
+| **Entry Zone 1** | \$70–\$75 | Begin/Add to position |
+| **Entry Zone 2** | \$60–\$65 | Aggressive accumulation |
+| **Support** | \$65, \$55, \$45 | Watch for bounce or breakdown |
+| **Resistance** | \$80, \$95, \$110 | Take partial profits if desired |
+| **Target** | \$120–\$140 | Consider trimming position |
 
 ### Catalyst Calendar
 
 | Date | Event | Expected Impact |
 |------|-------|-----------------|
 | **Monthly** | BlueBird Satellite Launches | Positive if successful; negative if delayed |
-| **May 11, 2026** | Q1 2026 Earnings | Revenue growth and guidance key |
+| **August 2026** | Q2 2026 Earnings | Revenue acceleration vs. Q1 is critical |
 | **H2 2026** | Verizon Service Launch | Major catalyst if on schedule |
 | **Q3 2026** | AT&T Service Launch | Second major carrier catalyst |
-| **Q4 2026** | Constellation Completion | 45-60 satellites milestone |
+| **Q4 2026** | Constellation Completion | 45 satellites milestone |
 | **Ongoing** | Government Contract Awards | Potential upside surprise |
 
 ---
@@ -577,13 +574,13 @@ The technology works, partnerships are real, and revenue is growing. However, va
 
 | Term | Plain English Explanation | Why It Matters for ASTS |
 |------|--------------------------|------------------------|
-| **Market Cap** | Total value of all company shares combined | ASTS at \$31.7B means investors value it like a major company, despite small revenue |
-| **P/S Ratio (Price-to-Sales)** | How many dollars you pay for each \$1 of company sales | ASTS at 447x means extreme optimism—like paying \$447 for a store that earns \$1/year |
-| **Gross Margin** | Percentage of sales kept after direct costs | 50% means they keep \$0.50 of every \$1; good sign for future profitability |
+| **Market Cap** | Total value of all company shares combined | ASTS at ~\$16B means investors value it like a major company, despite small revenue |
+| **P/S Ratio (Price-to-Sales)** | How many dollars you pay for each \$1 of company sales | ASTS at ~80–110x means extreme optimism—like paying \$80–\$110 for a store that earns \$1/year |
+| **Gross Margin** | Percentage of sales kept after direct costs | 50%+ means they keep \$0.50 of every \$1; good sign for future profitability |
 | **EBITDA** | "Cash profits" before interest, taxes, and accounting adjustments | ASTS negative EBITDA means burning cash, not generating it |
-| **Free Cash Flow** | Actual cash available after all spending | Negative \$1.24B means spending \$1.24B more than they take in |
-| **Beta** | How much a stock moves vs. the overall market | 2.87 means if market drops 10%, ASTS typically drops 28.7%—very volatile |
-| **Convertible Notes** | Debt that can become stock | ASTS's \$1B converts to shares eventually, diluting existing owners |
+| **Free Cash Flow** | Actual cash available after all spending | Negative means spending more than they take in |
+| **Beta** | How much a stock moves vs. the overall market | High beta means if market drops 10%, ASTS typically drops 20–30%—very volatile |
+| **Convertible Notes** | Debt that can become stock | ASTS's notes convert to shares eventually, diluting existing owners |
 | **Short Interest** | Percentage of shares borrowed by people betting against the stock | 12% means some investors are skeptical; creates potential for "short squeeze" if stock rises |
 | **Institutional Ownership** | Percentage owned by big funds (Vanguard, BlackRock, etc.) | 39% means "smart money" is involved; changes in this indicate professional sentiment |
 
@@ -591,12 +588,12 @@ The technology works, partnerships are real, and revenue is growing. However, va
 
 | Concept | Plain English | ASTS Context |
 |---------|--------------|--------------|
-| **Low Earth Orbit (LEO)** | Satellites orbiting 200-1,200 miles above Earth | ASTS satellites at ~300-500 miles; closer = lower latency (delay) for calls/data |
+| **Low Earth Orbit (LEO)** | Satellites orbiting 200–1,200 miles above Earth | ASTS satellites at ~300–500 miles; closer = lower latency (delay) for calls/data |
 | **Phased Array Antenna** | A flat antenna made of many small elements that can steer signals electronically | ASTS's innovation—enables giant antennas that fold for launch but unfold in space |
 | **Direct-to-Cell** | Satellites connecting straight to regular phones (no special equipment) | ASTS's core technology; different from Starlink which requires a dish |
 | **Spectrum** | Radio frequencies licensed for communication | ASTS uses carriers' existing spectrum; can't operate without these licenses |
-| **Constellation** | A group of satellites working together | ASTS needs 45-60 satellites for continuous coverage; currently has 5 |
-| **Revenue Sharing** | Splitting money between partners | When Verizon earns \$10 from a satellite call, they might pay ASTS \$3-4 |
+| **Constellation** | A group of satellites working together | ASTS needs 45 satellites for continuous coverage; currently has fewer |
+| **Revenue Sharing** | Splitting money between partners | When Verizon earns \$10 from a satellite call, they might pay ASTS \$3–\$4 |
 | **ARPU (Average Revenue Per User)** | Monthly revenue per customer | Could be \$5 for emergency texting or \$50+ for full broadband service |
 
 ### Risk Concepts Explained
@@ -604,27 +601,27 @@ The technology works, partnerships are real, and revenue is growing. However, va
 | Risk | What It Actually Means | Real-World Example |
 |------|----------------------|-------------------|
 | **Dilution** | Your ownership percentage decreases when company issues more shares | If you own 1% of ASTS and they double shares, you now own 0.5%—unless you buy more |
-| **Cash Runway** | How long until the company runs out of money | ASTS has ~22 months at current burn rates; then they must raise more |
-| **Path to Profitability** | The plan to start making money instead of losing it | ASTS needs ~\$750M revenue (15x current) just to break even |
+| **Cash Runway** | How long until the company runs out of money | ASTS has ~5–6 years at normalized burn rates; then they must raise more or reach profitability |
+| **Path to Profitability** | The plan to start making money instead of losing it | ASTS needs ~\$750M–\$1B revenue (5–7x FY2026 guidance) just to break even |
 | **Competitive Moat** | What protects you from competitors | ASTS's moat is carrier relationships and regulatory licenses—partial protection at best |
-| **Multiple Compression** | When investors pay less per dollar of sales/profits | If ASTS trades at 100x sales instead of 447x, stock drops 78% even if revenue stays flat |
+| **Multiple Compression** | When investors pay less per dollar of sales/profits | If ASTS trades at 50x sales instead of 100x, stock drops 50% even if revenue stays flat |
 
 ---
 
 ## CONCLUSION
 
-AST SpaceMobile is a fascinating company at a critical inflection point. The technology works—satellites are in orbit, calls are connecting, and revenue is flowing. The partnerships are real—Verizon, AT&T, and 50+ global carriers are signed up. The opportunity is massive—billions of people lack reliable cellular coverage.
+AST SpaceMobile is a fascinating company at a critical inflection point. The technology works—satellites are in orbit, calls are connecting, and revenue is flowing. The partnerships are real—Verizon, AT&T, and 50+ global carriers are signed up. The opportunity is massive—billions of people lack reliable cellular coverage. And the Q1 2026 results, while disappointing, do not invalidate the long-term trajectory.
 
-But the risks are equally real. SpaceX is a formidable competitor with deeper pockets and lower costs. The valuation assumes flawless execution for years to come. And the company will need billions more in capital before achieving profitability.
+But the risks are equally real. SpaceX is a formidable competitor with deeper pockets and lower costs. The BlueBird 7 write-off raised execution concerns. And the company will need years of flawless execution before achieving profitability.
 
 **For investors who:**
 
 - Believe satellite-to-cell is a transformative technology
 - Can tolerate 50%+ volatility and potential drawdowns
-- Have a 3-5 year investment horizon
-- Limit position size to 2-5% of portfolio
+- Have a 3–5 year investment horizon
+- Limit position size to 2–5% of portfolio
 
-**ASTS is a speculative buy.** Scale in on weakness, set stop losses if desired, and monitor the competitive landscape closely.
+**ASTS is a SPEC. BUY.** Scale in on weakness, set stop losses if desired, and monitor the competitive landscape and quarterly execution closely.
 
 **For conservative investors:** Watch from the sidelines. Wait for profitability, clearer competitive positioning, or a much lower valuation before considering entry.
 
@@ -638,16 +635,22 @@ But the risks are equally real. SpaceX is a formidable competitor with deeper po
 |--------|-------|
 | Ticker | ASTS |
 | Exchange | NASDAQ |
-| Price (April 2, 2026) | ~\$83 |
-| 52-Week Range | \$18.22 - \$129.89 |
-| Market Cap | \$31.7B |
-| Revenue (2025) | \$70.9M |
-| Net Loss (2025) | -\$342M |
-| Cash | \$2.34B |
-| Debt | \$2.2B |
+| Price (June 29, 2026) | ~\$71.45 |
+| 52-Week Range | \$36.08 – \$133.86 |
+| RSI(14) | 40.79 |
+| Market Cap | ~\$16B |
+| Revenue (Q1 2026) | \$14.7M |
+| FY2026 Revenue Guidance | \$150M–\$200M |
+| Net Loss (Q1 2026) | -\$191M |
+| EPS (Q1 2026) | -\$0.66 |
+| Cash | \$3.5B |
+| Debt | ~\$2.2B |
 | Shares Outstanding | ~382M |
 | Insider Ownership | ~40.6% |
-| Employees | 1,126 |
+| Contracted Backlog | >\$1.2B |
+| BlueBird Target | 45 in orbit |
+| Analyst Consensus | Hold |
+| Analyst Price Target Range | \$41.20 – \$139.00 |
 
 ### Important Links
 - Investor Relations: https://investors.ast-science.com
@@ -659,7 +662,7 @@ This report is for informational purposes only and does not constitute investmen
 
 ---
 
-*Report Generated: April 2, 2026*
+*Report Generated: June 29, 2026*
 *Data Sources: Company filings, Yahoo Finance, TipRanks, Simply Wall St, SEC EDGAR, Financial media*
 
 ---
