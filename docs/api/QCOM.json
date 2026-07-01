@@ -1,0 +1,94 @@
+{
+  "ticker": "QCOM",
+  "company": "Qualcomm Incorporated",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "exchange": "NASDAQ",
+  "price": 184.79,
+  "market_cap": "$205B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-01",
+  "thesis": "Qualcomm is a high-quality, cash-generative wireless semiconductor and licensing leader with a durable 5G/SoC moat and expanding exposure to AI PCs, automotive, and IoT. At ~$185 and ~20.6x P/E, the stock is fairly valued with balanced risk/reward; upside depends on the Snapdragon X Elite AI PC ramp, automotive design wins, and a steady smartphone refresh cycle, while downside risks include Apple modem insourcing, China exposure, and licensing disputes.",
+  "financials": {
+    "fiscal_year": "FY2025E",
+    "revenue": "$41.5B",
+    "revenue_growth": "Roughly flat to +5%",
+    "gross_margin": "~55\u201356% (non-GAAP blended)",
+    "net_income": "$10.5B (approximate)",
+    "eps_diluted": "$9.94 (non-GAAP approximate)",
+    "cash": "$14.5B",
+    "fcf": "$8.5B+"
+  },
+  "bull_case": {
+    "target": "$240\u2013260",
+    "drivers": [
+      "Strong 5G Android flagship refresh cycle lifts Snapdragon ASPs and unit share",
+      "Snapdragon X Elite captures meaningful Windows Copilot+ PC share, driving a new compute revenue stream",
+      "Automotive digital cockpit and modem design wins ramp faster than expected",
+      "IoT and industrial chip demand recovers from the cyclical downturn",
+      "QTL licensing remains stable and supports margin expansion"
+    ]
+  },
+  "bear_case": {
+    "target": "$150\u2013165",
+    "risks": [
+      "Apple accelerates internal modem development and reduces Qualcomm supply share",
+      "China handset demand weakens or geopolitical/export actions disrupt customer access",
+      "AI PC adoption disappoints and Snapdragon X Elite fails to gain traction against x86/Apple",
+      "Licensing disputes, antitrust actions, or customer renegotiations pressure QTL margins",
+      "Smartphone cyclical downturn resumes and compresses the P/E multiple to ~15\u201316x"
+    ]
+  },
+  "base_case": {
+    "target": "$200\u2013220",
+    "assumptions": "Smartphone demand stabilizes with modest 5G upgrade activity; AI PC begins to contribute but is not a near-term needle-mover; automotive and IoT grow steadily but do not fully offset mobile maturity; QTL remains high-margin and stable. Stock trades at ~20\u201321x forward earnings on ~$10.00\u201310.50 EPS."
+  },
+  "catalysts": [
+    {
+      "date": "2026-07-24",
+      "event": "Fiscal Q3 2026 earnings \u2014 handset and automotive trajectory update",
+      "iso_date": "2026-07-24",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-01"
+    },
+    {
+      "date": "2026-11-03",
+      "event": "Fiscal Q4 2026 earnings \u2014 AI PC Snapdragon X Elite ramp and FY2026 guidance",
+      "iso_date": "2026-11-03",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-01"
+    },
+    {
+      "date": "2026-12",
+      "event": "Windows Copilot+ PC holiday demand and OEM design-win data",
+      "iso_date": "2026-12",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-01"
+    },
+    {
+      "date": "2027-02",
+      "event": "FY2027 guidance and capital allocation update",
+      "iso_date": "2027-02",
+      "sector": "Technology",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-01"
+    }
+  ],
+  "key_risks": [
+    "Apple modem insourcing over time",
+    "China handset market exposure and geopolitical/export control risk",
+    "Smartphone cyclicality and lengthening replacement cycles",
+    "AI PC adoption slower than hoped for Snapdragon X Elite",
+    "Licensing disputes, antitrust actions, and customer renegotiations"
+  ],
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "price_date": "2026-07-01"
+}

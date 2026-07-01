@@ -159,6 +159,15 @@ The dominant designer of GPUs and AI accelerators, and the foundational enabler 
 
 ---
 
+**QCOM — Qualcomm Incorporated · <span class="rating-hold">HOLD</span>**
+
+Leading wireless technology and semiconductor company with a dual revenue model: QCT (Snapdragon mobile SoCs, automotive, IoT chips) and QTL (high-margin 5G patent licensing). FY2025 revenue is expected near \$41.5B with non-GAAP EPS around \$9.94 and free cash flow above \$8.5B. Growth catalysts include the 5G handset refresh cycle, Snapdragon X Elite AI PC platform, automotive digital cockpit wins, and IoT recovery. Downside risks center on Apple modem insourcing, China exposure, smartphone cyclicality, and licensing disputes. At ~20.6x P/E the stock is fairly valued, leaving balanced risk/reward.
+
+**Bull:** \$240–260 · **Base:** \$200–220 · **Bear:** \$150–165
+
+[:material-arrow-right: Full Deep Dive](QCOM.md)
+---
+
 **INTC — Intel Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing competitiveness, capitalize on AI PC demand, and build a viable foundry business. Q1 2026 revenue of \$13.58B beat estimates with non-GAAP EPS of \$0.29 vs. -\$0.01 expected. The stock has surged ~600% from 52-week lows to ~\$665B market cap, pricing in a heroic turnaround scenario. Analyst consensus target of ~\$88 reflects skepticism that near-term fundamentals justify the current price. Key risks: 18A manufacturing node execution, \$46.6B debt load, and intense competition from AMD and ARM-based chips.

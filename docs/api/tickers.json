@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-07-01",
   "tickers": [
     {
       "ticker": "CEG",
@@ -1292,6 +1292,21 @@
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Consumer Finance",
       "price_date": "2026-06-28"
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm Incorporated",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "rating": "HOLD",
+      "price": 184.79,
+      "market_cap": "$205B",
+      "last_updated": "2026-07-01",
+      "deep_dive_url": "/deep-dives/QCOM/",
+      "api_url": "/api/QCOM.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-01"
     }
   ]
 }
