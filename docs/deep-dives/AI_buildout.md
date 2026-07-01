@@ -136,6 +136,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
+| <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](deep-dives/QCOM.md) |
 
 ---
 
@@ -157,6 +158,15 @@ The dominant designer of GPUs and AI accelerators, and the foundational enabler 
 
 [:material-arrow-right: Full Deep Dive](NVDA.md)
 
+---
+
+**QCOM — Qualcomm Incorporated · <span class="rating-hold">HOLD</span>**
+
+Leading wireless technology and semiconductor company with a dual revenue model: QCT (Snapdragon mobile SoCs, automotive, IoT chips) and QTL (high-margin 5G patent licensing). FY2025 revenue is expected near \$41.5B with non-GAAP EPS around \$9.94 and free cash flow above \$8.5B. Growth catalysts include the 5G handset refresh cycle, Snapdragon X Elite AI PC platform, automotive digital cockpit wins, and IoT recovery. Downside risks center on Apple modem insourcing, China exposure, smartphone cyclicality, and licensing disputes. At ~20.6x P/E the stock is fairly valued, leaving balanced risk/reward.
+
+**Bull:** \$240–260 · **Base:** \$200–220 · **Bear:** \$150–165
+
+[:material-arrow-right: Full Deep Dive](QCOM.md)
 ---
 
 **INTC — Intel Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
