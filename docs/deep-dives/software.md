@@ -15,6 +15,7 @@
 | <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
+| <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
 
 ---
 
@@ -63,6 +64,18 @@ Enterprise data protection and cyber resilience platform that has successfully t
 **Bull:** \$165–\$175 · **Base:** \$130–\$140 · **Bear:** \$95–\$105
 
 [:material-arrow-right: Full Deep Dive](CVLT.md)
+
+---
+
+### Enterprise Software
+
+**CRM — Salesforce, Inc. · <span class="rating-buy">BUY</span>**
+
+The world's #1 CRM platform, repositioning as the "operating system for the Agentic Enterprise." FY2026 revenue reached \$41.5B (+10%) with a 34.1% non-GAAP operating margin and \$14.4B free cash flow, while Q1 FY27 accelerated to +13% revenue and +50% non-GAAP EPS growth; Agentforce ARR hit \$1.2B (+205% YoY) with combined AI + Data ARR of ~\$3.4B. The stock is down ~40% from its high on fears that AI agents erode seat-based SaaS pricing, leaving it at ~11.8x FY27 non-GAAP EPS guidance — and management answered with a debt-funded \$25B accelerated buyback retiring ~12% of shares. Primary risk is visible seat erosion at renewals and the newly re-levered balance sheet.
+
+**Bull:** \$250–\$280 · **Base:** \$195–\$215 · **Bear:** \$125–\$140
+
+[:material-arrow-right: Full Deep Dive](CRM.md)
 
 ---
 
