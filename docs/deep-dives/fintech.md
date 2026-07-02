@@ -10,21 +10,21 @@ title: Fintech & Digital Payments
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](FIGR.md) |
-| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
+| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
 | <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
-| <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](deep-dives/SOFI.md) |
+| <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 
 ---
 ### Stablecoins / Crypto Finance
 
-**CRCL — Circle Internet Group · <span class="rating-spec-buy">SPEC. BUY</span>**
+**CRCL — Circle Internet Group, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Circle is the issuer of USDC, the second-largest stablecoin with ~\$77B in circulation and ~25% market share. Revenue of \$2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. Q1 2026 results were solid: \$694M revenue (+47% YoY), \$125M net income, USDC supply \$77B (+72% YoY). The GENIUS Act (stablecoin regulation) is the key catalyst — passage would solidify Circle's regulatory moat. At \$80, the stock is ~24% below April levels, improving risk/reward. The biggest structural concern is Coinbase's revenue-sharing agreement, which captures ~56% of total reserve revenue.
 
-**Bull:** \$140–\$170 · **Base:** \$110–\$135 · **Bear:** \$55–\$75
+**Bull:** \$140–170 · **Base:** \$110–135 · **Bear:** \$55–75
 
 [:material-arrow-right: Full Deep Dive](CRCL.md)
 
@@ -76,7 +76,7 @@ Largest U.S. crypto exchange with ~55% retail market share and dominant institut
 
 Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem. Revenue segments include transaction-based (equities, options, crypto), net interest income, and subscription services (Robinhood Gold). The company recently raised a B convertible note offering (June 2026) to accelerate crypto infrastructure and international expansion into the UK and EU. Gold subscribers are growing rapidly, providing sticky recurring revenue. Crypto revenue has rebounded sharply alongside digital asset price cycles. Regulatory risks remain acute, including an SEC Wells notice and potential PFOF scrutiny. At 03.25, the stock trades at a premium (~25x P/S, ~115x forward P/E) but offers asymmetric upside if crypto and international growth exceed expectations.
 
-**Bull:** 40–55 · **Base:** 5–10 · **Bear:** 0–5
+**Bull:** \$140–\$155 · **Base:** \$95–\$110 · **Bear:** \$60–\$75
 
 [:material-arrow-right: Full Deep Dive](HOOD.md)
 
@@ -99,7 +99,7 @@ NCR Voyix is a fintech and digital payments company spun out from NCR Corporatio
 
 Figure Technology Solutions operates a consumer loan marketplace that originated $2.9B in Q1 2026, combined with blockchain-based loan servicing via its Provenance blockchain. The company is already profitable with 49.6% adjusted EBITDA margins and TTM revenue of $514.6M. Trading at $26.29, the stock is down ~66% from its January 2026 ATH of $78.00, offering asymmetric upside if origination growth continues and blockchain adoption expands. Key risks are credit cycle sensitivity and blockchain narrative volatility.
 
-**Bull:** $55–$65 · **Base:** $45–$50 · **Bear:** $30–$35
+**Bull:** \$55–\$65 · **Base:** \$45–\$50 · **Bear:** \$30–\$35
 
 [:material-arrow-right: Full Deep Dive](FIGR.md)
 
@@ -109,7 +109,7 @@ Figure Technology Solutions operates a consumer loan marketplace that originated
 
 SoFi is a digital personal finance platform with three segments: lending (student, personal, home loans), financial services (SoFi Money, Invest, Credit Card), and the Galileo B2B technology platform. FY2025 marked its first year of GAAP profitability with ~$481M net income on ~$3.58B revenue (+35.6% YoY) and ~9.3M members. The recent acquisition of Composer signals AI-driven differentiation in robo-advisory. Galileo provides a high-margin, non-cyclical B2B revenue stream and is the key strategic option. Risks include credit cycle exposure, regulatory overhang, and the challenge of sustaining GAAP profitability.
 
-**Bull:** $28–$32 · **Base:** $20–$24 · **Bear:** $12–$14
+**Bull:** \$28–\$32 · **Base:** \$20–\$24 · **Bear:** \$12–\$14
 
 [:material-arrow-right: Full Deep Dive](SOFI.md)
 

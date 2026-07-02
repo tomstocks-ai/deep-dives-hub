@@ -15,7 +15,7 @@
 
 Pure-play silicon carbide (SiC) semiconductor company with vertical integration from crystal growth to power devices. Recent \$476M capital raise and 25% debt reduction improved balance sheet and extended runway. Revenue still declining (-18.9% YoY), gross margins deeply negative, and stock has risen 560%+ from lows in what appears to be a short-squeeze dynamic (RSI 83+). AI/data center power opportunity is real but current price embeds flawless execution.
 
-**Bull:** \$65–75 · **Base:** \$35–45 · **Bear:** \$12–18
+**Bull:** \$65–\$75 · **Base:** \$35–\$45 · **Bear:** \$12–\$18
 
 [:material-arrow-right: Full Deep Dive](WOLF.md)
 
@@ -43,7 +43,7 @@ Worldwide supplier of semiconductor test and burn-in solutions, pivoting from EV
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
+| <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
 
 ---
 
@@ -61,7 +61,7 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:CRDO" hide-background></tv-ticker-tag> | Credo Technology Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRDO" hide-background></tv-ticker-tag> | Credo Technology Group Holding Ltd | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 | <tv-ticker-tag symbol="NASDAQ:HLIT" hide-background></tv-ticker-tag> | Harmonic Inc. | <span class="rating-buy">BUY</span> | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CLFD" hide-background></tv-ticker-tag> | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
@@ -89,7 +89,7 @@ The #2 global telecom equipment vendor with a durable patent licensing business 
 
 ---
 
-**CRDO — Credo Technology Group · <span class="rating-spec-buy">SPEC. BUY</span>**
+**CRDO — Credo Technology Group Holding Ltd · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Pure-play AI data center connectivity company delivering 157% YoY revenue growth through ZeroFlap Active Electrical Cables and optical DSPs. Q3 FY2026 revenue hit \$437M with 68.6% non-GAAP gross margin and \$1.07 EPS (beat by ~14%). \$1.3B cash, minimal debt. Extreme customer concentration (Amazon ~61%) and 107x P/E create asymmetric risk/reward. Wait for pullback to \$200–220.
 
@@ -113,7 +113,7 @@ Broadband infrastructure pure-play divesting its video business to focus on high
 
 Fiber connectivity pure-play benefiting from the \$42.5B BEAD broadband infrastructure program. FY2025 revenue of \$150.13M (+19.6% YoY) with Q1 FY2026 up 16% and guidance reiterated at \$160–170M. Strong balance sheet with \$157M cash, minimal debt, and active buybacks (\$23.1M remaining). New NOVA platform targets high-density data center fiber — unproven but high-potential TAM expansion.
 
-**Bull:** \$50–55 · **Base:** \$40–45 · **Bear:** \$25–30
+**Bull:** \$50-\$55 · **Base:** \$40-\$45 · **Bear:** \$25-\$30
 
 [:material-arrow-right: Full Deep Dive](CLFD.md)
 
@@ -136,7 +136,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
-| <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](deep-dives/QCOM.md) |
+| <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
 
 ---
 
@@ -182,13 +182,13 @@ Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing c
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure Storage | <span class="rating-buy">SPEC BUY</span> | 2026-04-21 | [:material-file-document: Read](P.md) |
+| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 | <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
 
 ---
 
-**P — Everpure, Inc · <span class="rating-spec-buy">SPEC. BUY</span>****
+**P — Everpure, Inc. · <span class="rating-hold">HOLD</span>**
 
 Everpure, Inc. (formerly Pure Storage, Inc., ticker PSTG) is a leading provider of all-flash data storage solutions for enterprises, cloud providers, and government organizations. The company rebranded from Pure Storage to Everpure in February 2026 and changed its NYSE ticker symbol to the single letter "P" on April 17, 2026 — a move reflecting its ambition to become the definitive platform for modern data infrastructure.
 
@@ -220,7 +220,7 @@ One of the "Big Three" global memory manufacturers and the only U.S.-based memor
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
 | <tv-ticker-tag symbol="NASDAQ:QS" hide-background></tv-ticker-tag> | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](QS.md) |
-| <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
+| <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
 
 ---
 
@@ -236,7 +236,7 @@ Pre-revenue solid-state battery developer with a proprietary ceramic separator t
 
 ---
 
-**SLDP — Solid Power · <span class="rating-spec-hold">HOLD / SPEC.</span>**
+**SLDP — Solid Power Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
 Pre-revenue solid-state battery company selling sulfide electrolyte technology and licensing cell designs to OEMs (BMW, Ford). Asset-light model avoids the need for multi-billion-dollar gigafactories. \$370M+ liquidity gives ~5–6 years of runway. Commercial revenue expected 2027–2028. This is a binary bet: breakthrough adoption or cash-burn-to-zero.
 
@@ -250,7 +250,7 @@ Pre-revenue solid-state battery company selling sulfide electrolyte technology a
 
 U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 632% revenue growth to \$114.2M in FY2025. \$701.5M backlog (2.8 GWh) provides visibility. \$305.3M DOE loan guarantee for manufacturing expansion. 2 GWh annual capacity achieved Q4 2025, targeting 8 GWh by 2026–2027. Negative gross margins (-126%) but improving — path to profitability dependent on scale.
 
-**Bull:** \$18 · **Base:** \$9.50 · **Bear:** \$3.50
+**Bull:** \$18.00 · **Base:** \$9.50 · **Bear:** \$3.50
 
 [:material-arrow-right: Full Deep Dive](EOSE.md)
 
@@ -263,7 +263,7 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
-|| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
+| <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
@@ -276,7 +276,7 @@ U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 6
 
 AI infrastructure/data center pure-play specializing in AI server rack integration, procurement, and facilities management. FY2025 revenue surged 66% YoY to $246M, with net income of $15.1M (turned profitable). Q1 2026 gross margin expanded to 15.9% (from 9.3% YoY) and adjusted EBITDA held at $5.3M despite lumpy revenue timing. Largest AI customer plans to double infrastructure in 2026; TSSI expects to double rack integration volumes. Strong balance sheet with $85.5M cash. High customer concentration and order lumpiness warrant a Speculative Buy rating.
 
-**Bull:** $18–22 · **Base:** $12–15 · **Bear:** $6–8
+**Bull:** \$18–22 · **Base:** \$12–15 · **Bear:** \$6–8
 
 [:material-arrow-right: Full Deep Dive](TSSI.md)
 
@@ -286,7 +286,7 @@ AI infrastructure/data center pure-play specializing in AI server rack integrati
 
 All-flash data storage leader formerly known as Pure Storage, now expanding beyond storage into AI-ready data management. FY2026 revenue of \$3.66B (+15.6% YoY) with exceptional 70.4% gross margins and \$690.6M free cash flow. Strong competitive moat via 50%+ lower TCO than legacy storage. Rebrand to Everpure and 1touch acquisition signal platform ambitions. Premium valuation (151x TTM P/E, 6.3x P/S) and overbought RSI.
 
-**Bull:** \$95–105 · **Base:** \$75–82 · **Bear:** \$55–62
+**Bull:** \$108–\$116 · **Base:** \$76–\$82 · **Bear:** \$51–\$56
 
 [:material-arrow-right: Full Deep Dive](P.md)
 
@@ -297,7 +297,7 @@ All-flash data storage leader formerly known as Pure Storage, now expanding beyo
 
 Leading global technology infrastructure company and top-three server vendor experiencing its fastest revenue growth since its 2018 IPO return, driven by explosive AI server demand. Q1 FY2026 AI server revenue surged +757% YoY to 6.1B recognized, with 4.4B in AI orders booked providing multi-year visibility. Operating income grew +10% YoY, with AI server operating income up +213.8% YoY. Dell raised annual revenue and profit forecasts, signaling management confidence in the structural AI infrastructure buildout. Strong direct sales model, deep NVIDIA partnerships, and enterprise relationships position Dell to capture both hyperscaler and enterprise AI demand. RSI of 92.11 signals extreme near-term overbought conditions, suggesting a pullback to 80–400 would improve entry quality.
 
-**Bull:** 00–520 · **Base:** 20–460 · **Bear:** 80–320
+**Bull:** \$500–520 · **Base:** \$420–460 · **Bear:** \$280–320
 
 [:material-arrow-right: Full Deep Dive](DELL.md)
 
@@ -308,7 +308,7 @@ Leading global technology infrastructure company and top-three server vendor exp
 
 Largest North American infrastructure contractor with a near-record \$50 billion backlog. Q1 2026 revenue \$7.87B (+26% YoY) and adjusted EPS \$2.68 (+51% YoY), both beating consensus by double digits. Primary beneficiary of grid modernization, renewable energy buildout, and data center electrification. FY2026 guidance raised to \$34.7–35.2B revenue.
 
-**Bull:** \$850–900 · **Base:** \$750–800 · **Bear:** \$550–600
+**Bull:** \$850–\$900 · **Base:** \$750–\$800 · **Bear:** \$550–\$600
 
 [:material-arrow-right: Full Deep Dive](PWR.md)
 
@@ -318,7 +318,7 @@ Largest North American infrastructure contractor with a near-record \$50 billion
 
 Leading North American infrastructure contractor with record \$20.3B backlog. Q1 2026 revenue \$3.83B (+34% YoY) and adjusted EBITDA \$284M (+73% YoY). FY2026 guidance raised to \$17.5B revenue and \$1.5B adjusted EBITDA. Key beneficiary of broadband expansion, clean energy buildout, and data center electrification. Valuation at ~62x trailing P/E is elevated — wait for pullback to \$320–\$340.
 
-**Bull:** \$480–520 · **Base:** \$380–420 · **Bear:** \$220–260
+**Bull:** \$480–\$520 · **Base:** \$380–\$420 · **Bear:** \$220–\$260
 
 [:material-arrow-right: Full Deep Dive](MTZ.md)
 
@@ -328,7 +328,7 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
+| <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group N.V. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 | <tv-ticker-tag symbol="NASDAQ:HUT" hide-background></tv-ticker-tag> | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](HUT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CORZ" hide-background></tv-ticker-tag> | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
 
@@ -336,11 +336,11 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 
 ### AI / HPC Operators
 
-**NBIS — Nebius Group · <span class="rating-spec-buy">SPEC. BUY</span>**
+**NBIS — Nebius Group N.V. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 AI infrastructure powerhouse that signed two of the largest compute contracts in history: \$27B with Meta and \$19.4B with Microsoft. Revenue grew 351% to \$530M in FY2025 with improving margins and \$2.45B cash. NVIDIA invested \$2B and is supplying Vera Rubin/Blackwell GPUs. Goldman sees \$3.0–\$3.4B revenue in 2026. The stock is up 616% in a year and RSI sits at 84.86 (extremely overbought), creating near-term technical risk despite strong fundamentals.
 
-**Bull:** \$250–280 · **Base:** \$170–200 · **Bear:** \$70–85
+**Bull:** \$250–\$280 · **Base:** \$170–\$200 · **Bear:** \$70–\$85
 
 [:material-arrow-right: Full Deep Dive](NBIS.md)
 
@@ -350,7 +350,7 @@ AI infrastructure powerhouse that signed two of the largest compute contracts in
 
 North American bitcoin miner pivoting to AI data center infrastructure. Secured \$16.8B in contracted AI revenue via 15-year triple-net leases at River Bend and Beacon Point (Texas), backed by \$7.5B+ in investment-grade project finance. Q1 2026 revenue of \$71M (+225% YoY) was dominated by the Compute segment, though a \$295.7M unrealized BTC loss drove a \$253M net loss. The AI pivot is real, but revenue is 12–18 months away.
 
-**Bull:** \$180–220 · **Base:** \$110–145 · **Bear:** \$45–65
+**Bull:** \$180–\$220 · **Base:** \$110–\$145 · **Bear:** \$45–\$65
 
 [:material-arrow-right: Full Deep Dive](HUT.md)
 
@@ -360,7 +360,7 @@ North American bitcoin miner pivoting to AI data center infrastructure. Secured 
 
 One of North America's largest bitcoin miners executing a strategic pivot to high-density AI/HPC colocation. HDC revenue surged 168% YoY to \$65.4M in FY2025, while total revenue declined 38% to \$319M as mining shrank. Operates ~745 MW of power capacity and ~19 EH/s of hash rate. Balance sheet is fragile: negative book value, ~\$1.06B debt. High risk/reward — wait for pullback to \$22–24.
 
-**Bull:** \$38–42 · **Base:** \$22–26 · **Bear:** \$12–16
+**Bull:** \$38–\$42 · **Base:** \$22–\$26 · **Bear:** \$12–\$16
 
 [:material-arrow-right: Full Deep Dive](CORZ.md)
 
