@@ -26,6 +26,7 @@ mcp = ["fastmcp"]
 
 [tool.poetry.group.dev.dependencies]
 pytest = "*"
+jsonschema = "*"
 
 [tool.poetry.group.mcp.dependencies]
 fastmcp = ">=2.0"

@@ -22,20 +22,26 @@ This repo is a collaborative stock research site built with [Zensical](https://z
 
 ---
 
-## Adding a New Ticker — The 4-Artifact Workflow
+## Adding a New Ticker — The 3-Artifact Workflow
 
-Every new ticker requires **exactly 4 artifacts**. See `docs/.templates/BOT-PROMPT.md` for complete instructions and templates.
+`docs/api/{TICKER}.json` is the **single source of truth**. You author exactly 3 artifacts; everything else is generated. See `docs/.templates/BOT-PROMPT.md` for complete instructions and templates.
 
 1. **`docs/deep-dives/{TICKER}.md`** — Full deep dive with TradingView widget
 2. **`docs/api/{TICKER}.json`** — Structured data (see schema below)
-3. **Thematic page additions** — table row + gist in `docs/deep-dives/{theme}.md`
-4. **`docs/table.md` row** — one row in the master All Stocks table
-5. **Update `docs/api/tickers.json`** — add entry with all required fields
+3. **Gist in `docs/deep-dives/{theme}.md`** — the summary paragraph on the thematic page. Its position determines theme membership; add a table row to the page's summary table too (any placeholder cells are fine, they get regenerated).
 
-After generating, run:
+Then run:
 ```bash
-python3 helpers/validate_deep_dive.py docs/deep-dives/{TICKER}.md
+python3 helpers/build_derived.py                                    # regenerates:
+#   docs/api/tickers.json        (master index — never edit by hand)
+#   docs/table.md                (All Stocks table — never edit by hand)
+#   thematic page mechanics      (table-row cells, gist rating span, Bull/Base/Bear line)
+#   ticker/theme counters        (docs/index.md, docs/api-docs.md)
+python3 helpers/validate_deep_dive.py docs/deep-dives/{TICKER}.md   # deep-dive lint
+pytest tests/test_consistency.py -q                                 # cross-artifact checks
 ```
+
+Never hand-edit content between `<!-- BEGIN GENERATED: ... -->` markers or in `tickers.json` — CI runs `build_derived.py --check` and fails the PR if derived files are stale. Rating values, scenario targets, `last_updated`, company names, and exchanges are always taken from `{TICKER}.json`; to change them anywhere, change the JSON and rebuild.
 
 ---
 
