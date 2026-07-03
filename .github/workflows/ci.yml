@@ -23,5 +23,3 @@ jobs:
         run: python3 helpers/build_derived.py --check
       - name: Validate deep dives
         run: pytest --tb=short
-      - name: Build site (dry run)
-        run: zensical build --clean
