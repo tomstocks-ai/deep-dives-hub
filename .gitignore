@@ -14,3 +14,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Private agent-runtime prompt supplement (never commit)
+BOT-PROMPT.private.md

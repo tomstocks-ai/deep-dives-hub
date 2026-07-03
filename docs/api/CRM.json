@@ -1,0 +1,95 @@
+{
+  "ticker": "CRM",
+  "company": "Salesforce, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Customer Relationship Management / Enterprise SaaS / Agentic AI",
+  "exchange": "NYSE",
+  "price": 166.11,
+  "price_date": "2026-07-02",
+  "market_cap": "$136B",
+  "rating": "BUY",
+  "last_updated": "2026-07-03",
+  "thesis": "Salesforce is the #1 CRM platform and is converting its franchise to agentic AI, with Agentforce ARR of $1.2B (+205% YoY) and combined AI + Data ARR of $3.4B, while total revenue still grows double digits and RPO stands at $67.9B. The stock has de-rated ~40% from its high on fears that AI agents erode seat-based SaaS pricing, leaving it at ~11.8x FY27 non-GAAP EPS guidance with a ~10% trailing FCF yield. Management is leaning against the narrative with a debt-funded $25B accelerated buyback (~12% of shares retired) and guided H2 FY27 organic revenue acceleration. The disruption fear is priced as if growth stalls; reported numbers show the opposite, skewing risk/reward positively.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended 2026-01-31)",
+    "revenue": "$41.5B (FY26); Q1 FY27 $11.1B (+13%)",
+    "revenue_growth": "+10% YoY (FY26); FY27 guide +11%",
+    "gross_margin": "77.7% (GAAP)",
+    "net_income": "$7.46B (GAAP, FY26)",
+    "eps_diluted": "$7.80 GAAP / $12.52 non-GAAP (FY26); FY27 guide $14.06–$14.12 non-GAAP",
+    "cash": "$9.6B cash + marketable securities (2026-01-31)",
+    "fcf": "$14.4B (FY26, +16%)"
+  },
+  "bull_case": {
+    "target": "$250–$280",
+    "drivers": [
+      "Agentforce becomes a proven consumption revenue engine: AI + Data ARR ($3.4B, tripling YoY) keeps compounding and Agentic Work Units (+111% Q/Q) convert into billable usage at scale",
+      "Guided H2 FY27 organic revenue acceleration materializes, breaking the 'AI kills SaaS' narrative and re-rating the multiple from ~12x toward 18–20x forward non-GAAP EPS",
+      "$25B ASR plus remaining $50B authorization shrink share count ~12%+, mechanically compounding EPS on top of margin expansion (non-GAAP OM 34.3% guided)",
+      "Informatica cross-sell strengthens Data 360 / Zero Copy positioning as the data foundation for enterprise agents",
+      "FY30 targets regain credibility, putting $16–18 of non-GAAP EPS power in view by FY28"
+    ]
+  },
+  "base_case": {
+    "target": "$195–$215",
+    "assumptions": [
+      "Revenue lands within FY27 guidance of $45.9–46.2B (+11%, ~3pts from Informatica) with organic growth holding in the 8–9% range",
+      "Non-GAAP operating margin at the guided 34.3% and non-GAAP EPS at $14.06–$14.12",
+      "Agentforce keeps scaling but consumption revenue stays a single-digit percentage of total, so the market pays ~14–15x forward EPS rather than a full re-rate",
+      "Buybacks offset AI-capex and interest drag; FCF grows ~4–5% as guided",
+      "No visible seat erosion in Sales/Service Cloud renewal cohorts"
+    ]
+  },
+  "bear_case": {
+    "target": "$125–$140",
+    "risks": [
+      "Agentic AI starts visibly cannibalizing seat counts at renewal, pushing organic growth to mid-single digits and cRPO growth below 10%",
+      "The $25B ASR debt turns from accretive to constraining as interest expense caps FCF growth while the multiple compresses to 9–10x",
+      "Agentforce ARR growth decelerates sharply as pilots fail to convert to production at scale",
+      "Microsoft (Copilot/Dynamics) and native-AI challengers win agent workloads on price, forcing discounting",
+      "Informatica integration distracts and dilutes margins"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "September 2026",
+      "iso_date": "2026-09",
+      "event": "Q2 FY27 earnings — guide is $11.27–11.35B (+10–11%); watch cRPO growth (~14% guided) and Agentforce ARR trajectory"
+    },
+    {
+      "date": "Q3 FY27 (Aug–Oct 2026)",
+      "iso_date": "2026-10",
+      "event": "Final settlement of the $25B accelerated share repurchase (~20% of ASR shares still to be delivered)"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Dreamforce 2026 — Agentforce roadmap, enterprise production case studies, potential FY30 target updates"
+    },
+    {
+      "date": "December 2026",
+      "iso_date": "2026-12",
+      "event": "Q3 FY27 earnings — key checkpoint for the guided H2 organic revenue acceleration"
+    },
+    {
+      "date": "February–March 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 / full-year FY27 results and initial FY28 guidance"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Agentforce / Data 360 ARR disclosures and consumption-pricing traction (Agentic Work Units +111% Q/Q, 28.6T tokens processed)"
+    }
+  ],
+  "key_risks": [
+    "Agentic AI could structurally erode per-seat SaaS pricing across Sales and Service Cloud — the core bear thesis behind the ~46% one-year drawdown",
+    "$25B of new debt issued to fund the ASR reduces balance-sheet flexibility and caps FY27 FCF growth at ~4–5%",
+    "Organic growth ex-Informatica is ~8%; macro softness or seat rationalization could push it to mid-single digits",
+    "Informatica ($8B acquisition) integration and margin-dilution risk",
+    "Intense competition from Microsoft Copilot/Dynamics, ServiceNow, HubSpot, and AI-native startups",
+    "Stock-based compensation (~$3.6B/yr) keeps GAAP-vs-non-GAAP gap wide, though the shrinking share count now more than offsets dilution"
+  ]
+}

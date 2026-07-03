@@ -6,15 +6,16 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
+| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
-| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 | <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
 | <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
+| <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
 
 ---
 
@@ -66,13 +67,25 @@ Enterprise data protection and cyber resilience platform that has successfully t
 
 ---
 
+### Enterprise Software
+
+**CRM — Salesforce, Inc. · <span class="rating-buy">BUY</span>**
+
+The world's #1 CRM platform, repositioning as the "operating system for the Agentic Enterprise." FY2026 revenue reached \$41.5B (+10%) with a 34.1% non-GAAP operating margin and \$14.4B free cash flow, while Q1 FY27 accelerated to +13% revenue and +50% non-GAAP EPS growth; Agentforce ARR hit \$1.2B (+205% YoY) with combined AI + Data ARR of ~\$3.4B. The stock is down ~40% from its high on fears that AI agents erode seat-based SaaS pricing, leaving it at ~11.8x FY27 non-GAAP EPS guidance — and management answered with a debt-funded \$25B accelerated buyback retiring ~12% of shares. Primary risk is visible seat erosion at renewals and the newly re-levered balance sheet.
+
+**Bull:** \$250–\$280 · **Base:** \$195–\$215 · **Bear:** \$125–\$140
+
+[:material-arrow-right: Full Deep Dive](CRM.md)
+
+---
+
 ### Cloud Storage / Data Infrastructure
 
 **BLZE — Backblaze, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Cloud storage and backup provider with two segments: B2 Cloud Storage (object storage for developers, businesses, and AI/ML workloads) and Computer Backup (consumer/SMB). B2 is the growth engine at 28% ARR growth and higher margins, while the legacy backup business is a declining drag. Q1 2026 revenue of \$38.7M (+12% YoY) beat guidance, gross margin expanded to 61% (from 56%), and EPS of \$0.04 crushed the -$0.02 estimate. The company differentiates via transparent pricing, no egress fees, and a simple API — positioning as a cost-effective alternative to AWS S3. AI/ML storage demand is an emerging tailwind. At ~$496M market cap and ~3x ARR, BLZE offers an attractive risk/reward for a SaaS growth story approaching profitability.
 
-**Bull:** \$12.00–\$14.00 · **Base:** \$9.00–\$11.00 · **Bear:** \$5.50–\$7.00
+**Bull:** \$12.00 – \$14.00 · **Base:** \$9.00 – \$11.00 · **Bear:** \$5.50 – \$7.00
 
 [:material-arrow-right: Full Deep Dive](BLZE.md)
 
@@ -80,11 +93,11 @@ Cloud storage and backup provider with two segments: B2 Cloud Storage (object st
 
 ### Enterprise Software
 
-**SNOW — Snowflake · <span class="rating-spec-buy">SPEC. BUY</span>**
+**SNOW — Snowflake Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Cloud data platform experiencing challenging period, down 57% from highs. Strong fundamentals intact: 30% YoY product revenue growth, 125% NRR, \$4.8B cash. RSI at 16.4 indicates severely oversold conditions. AI Data Cloud positioning with Cortex suite gaining traction. Analyst consensus \$235–249 target implies 96–108% upside. Trading at discount to high-growth SaaS peers despite comparable metrics.
 
-**Bull:** \$280 · **Base:** \$195 · **Bear:** \$145
+**Bull:** \$280 · **Base:** \$195 · **Bear:** \$90
 
 [:material-arrow-right: Full Deep Dive](SNOW.md)
 
@@ -116,7 +129,7 @@ Leading 3D content creation platform with ~70% mobile game market share. Recover
 
 ### UX
 
-**FIG — Figma · <span class="rating-spec-buy">SPEC. BUY</span>**
+**FIG — Figma, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. Stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with \$1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5%) adds squeeze potential.
 
@@ -130,13 +143,13 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 
 || Ticker | Company | Rating | Last Updated | Full DD |
 ||--------|---------|--------|--------------|---------|
-|| <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
-|| <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
-|| <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
+| <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings, Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
+| <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
 
 ---
 
-**PANW — Palo Alto Networks · <span class="rating-buy">BUY</span>**
+**PANW — Palo Alto Networks, Inc. · <span class="rating-buy">BUY</span>**
 
 World's largest pure-play cybersecurity company executing aggressive platform consolidation via transformative acquisitions (CyberArk ~$25B, Chronosphere \$3.35B). Q3 FY2026 revenue surged 31% to \$3.0B with Next-Gen Security ARR up 60% to \$8.1B and adjusted FCF of \$910M (38.5% margin). Dominant network security moat, AI-driven threat intelligence (XSIAM, Precision AI), and identity security expansion position PANW as the primary beneficiary of enterprise vendor consolidation.
 
@@ -146,7 +159,7 @@ World's largest pure-play cybersecurity company executing aggressive platform co
 
 ---
 
-**CRWD — CrowdStrike Holdings · <span class="rating-buy">BUY</span>**
+**CRWD — CrowdStrike Holdings, Inc. · <span class="rating-buy">BUY</span>**
 
 Leading cloud-native cybersecurity platform combining durable 25% revenue growth with expanding profitability and a widening competitive moat. The Falcon platform's AI-driven threat detection, 28+ module portfolio, and enterprise vendor consolidation tailwind position CrowdStrike as the primary beneficiary of security spend consolidation. Q1 FY2027 EPS beat (+25% vs est), FY27 ARR guidance raised to \$6.532B–\$6.556B (24–25% growth), and 30%+ FCF margins support a premium valuation. 4-for-1 stock split effective July 2, 2026. RSI at 57.8 indicates neutral momentum with room to run.
 
