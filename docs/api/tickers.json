@@ -715,14 +715,14 @@
       "sector": "Fintech",
       "industry": "Bitcoin Mining / Digital Asset Infrastructure",
       "rating": "SPEC. BUY",
-      "price": 14.22,
+      "price": 12.4,
       "market_cap": "$4.5B",
-      "last_updated": "2026-06-19",
+      "last_updated": "2026-07-04",
       "deep_dive_url": "/deep-dives/MARA/",
       "api_url": "/api/MARA.json",
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Stablecoins / Crypto Finance",
-      "price_date": "2026-06-19"
+      "price_date": "2026-07-04"
     },
     {
       "ticker": "MRVL",

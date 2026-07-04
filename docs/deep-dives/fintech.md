@@ -17,6 +17,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
+| <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -53,9 +54,9 @@ Publicly traded digital asset treasury company modeled on MicroStrategy's Bitcoi
 
 **MARA — MARA Holdings, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-One of the largest publicly traded Bitcoin miners with 1.7 GW captive power capacity (1.1 GW operational) and ~52,850 BTC treasury (~\$3.9B). Targeting 75 EH/s hashrate by end-2025 (64% YoY growth). Strategic AI infrastructure pivot via Starwood Capital partnership to convert mining sites into HPC data centers. At \$14.22, trades near NAV floor with asymmetric upside to BTC rallies and AI monetization.
+MARA is one of the largest publicly traded Bitcoin miners with 1.7 GW captive power capacity (1.1 GW operational) and a year-end 2025 BTC treasury of 53,822 BTC (~\$4.7B), of which 15,315 BTC was loaned or pledged as collateral. Q1 2026 energized hashrate reached 72.2 EH/s (17.6 J/TH fleet efficiency), up 33% YoY. Q1 2026 earnings were dominated by a ~\$1.0B non-cash Bitcoin fair-value impairment, producing a \$1.26B net loss, and the company sold 20,880 BTC for \$1.5B to fund operations and reduce total convertible debt from ~\$3.3B to ~\$2.3B. The AI/HPC pivot via Starwood Capital remains active but nascent. At \$12.40, MARA trades near the lower end of the analyst consensus range (\$13.00–\$18.38 median; \$8.00–\$30.00 range) with asymmetric upside to BTC rallies, AI/HPC milestones, or further deleveraging, but remains a high-beta, mark-to-market-volatile crypto proxy.
 
-**Bull:** \$33–\$43 · **Base:** \$20–\$26 · **Bear:** \$10–\$15
+**Bull:** \$20–\$26 · **Base:** \$14–\$18 · **Bear:** \$8–\$11
 
 [:material-arrow-right: Full Deep Dive](MARA.md)
 
