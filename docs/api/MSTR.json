@@ -1,0 +1,76 @@
+{
+  "ticker": "MSTR",
+  "company": "Strategy Inc",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "industry": "Bitcoin Treasury / Corporate Treasury Strategy / Financials",
+  "exchange": "NASDAQ",
+  "price": 100.77,
+  "price_date": "2026-07-04",
+  "market_cap": "~$27B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-04",
+  "thesis": "Strategy Inc is a bitcoin treasury vehicle that holds the largest public company BTC position (~818K BTC). Its stock trades as a leveraged, premium-exposed proxy for Bitcoin. Revenue from a shrinking business intelligence software segment (~$124M quarterly) funds only a fraction of operations; BTC accumulation is financed via convertible notes, preferred stock, and equity issuance. The core bull case is the 'Bitcoin Yield' metric — bitcoin per diluted share growth — which reached ~9.6% year-to-date in 2026. The bear case is severe downside if BTC prices fall, the premium to NAV collapses, or equity dilution accelerates. MSTR is appropriate only for investors who want BTC exposure with equity-like premium dynamics and can tolerate extreme volatility.",
+  "financials": {
+    "fiscal_year": "Q1 2026 (TTM context)",
+    "revenue": "$124.3M",
+    "revenue_growth": "+11.9% YoY",
+    "gross_margin": "~67.1%",
+    "net_income": "-$12.54B",
+    "eps_diluted": "-$38.25",
+    "cash": "~$500M–$1B",
+    "fcf": "~$0 (negative during BTC accumulation)"
+  },
+  "bull_case": {
+    "target": "$220–$280",
+    "drivers": [
+      "Bitcoin rallies to $120K–$150K+ and MSTR's premium to NAV expands toward historical highs",
+      "Bitcoin Yield continues to grow through accretive at-the-market equity and convertible debt issuance",
+      "Regulatory clarity (e.g., GENIUS Act, Strategic Bitcoin Reserve dynamics) supports institutional BTC adoption and MSTR's financing options",
+      "Software segment stabilizes and generates positive FCF, reducing reliance on capital raises"
+    ]
+  },
+  "base_case": {
+    "target": "$130–$170",
+    "assumptions": "Bitcoin holds $90K–$110K; MSTR maintains a modest premium to NAV; Bitcoin Yield grows mid-to-high single digits through disciplined capital raises; software revenue remains flat to slightly declining; interest expense is covered by BTC appreciation and modest operating cash flow."
+  },
+  "bear_case": {
+    "target": "$60–$85",
+    "risks": [
+      "Bitcoin falls below $80K and stays there, compressing NAV and the premium simultaneously",
+      "Accelerated equity issuance dilutes existing holders faster than BTC per share grows",
+      "Convertible debt covenants or financing conditions tighten as BTC declines, forcing distressed asset sales",
+      "Premium to NAV collapses toward zero or discount if the market questions the treasury strategy"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings (early August 2026)",
+      "event": "BTC mark-to-market and Bitcoin Yield update",
+      "iso_date": "2026-08"
+    },
+    {
+      "date": "Ongoing",
+      "event": "BTC purchases via at-the-market offerings and convertible/debt raises",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "Spot ETF / institutional adoption dynamics that affect BTC price",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "U.S. stablecoin / crypto regulatory developments (e.g., GENIUS Act) impacting MSTR's financing options and BTC premium",
+      "iso_date": null
+    }
+  ],
+  "key_risks": [
+    "BTC price volatility and leverage: MSTR's premium and NAV depend on BTC; large drawdowns can trigger margin pressure and equity issuance",
+    "Dilution / capital structure: aggressive use of convertible notes, preferred stock, and equity dilutes existing holders",
+    "Premium erosion: MSTR often trades at premium to its BTC NAV; compression erases returns even if BTC is flat",
+    "Regulatory / accounting risk: FASB fair value accounting for crypto may increase earnings volatility; convertible debt covenants and SEC disclosure requirements",
+    "Business deterioration: core enterprise analytics revenue declines and cannot support the corporate structure"
+  ]
+}
