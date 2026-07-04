@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-03",
-  "count": 85,
+  "last_updated": "2026-07-04",
+  "count": 86,
   "tickers": [
     {
       "ticker": "000660",
@@ -753,6 +753,21 @@
       "theme": "Software",
       "sub_theme": "Enterprise Software",
       "price_date": "2026-06-25"
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "sector": "Financials",
+      "industry": "Bitcoin Treasury / Corporate Treasury Strategy / Financials",
+      "rating": "SPEC. BUY",
+      "price": 100.77,
+      "market_cap": "~$27B",
+      "last_updated": "2026-07-04",
+      "deep_dive_url": "/deep-dives/MSTR/",
+      "api_url": "/api/MSTR.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-04"
     },
     {
       "ticker": "MTZ",

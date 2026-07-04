@@ -16,9 +16,20 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
 | <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
+| <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
 
 ---
 ### Stablecoins / Crypto Finance
+
+**MSTR — Strategy Inc · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Strategy Inc, formerly MicroStrategy, is the largest public-company Bitcoin treasury vehicle, holding roughly 818,000 BTC. The stock trades as a leveraged, premium-exposed proxy for Bitcoin, with quarterly software revenue of ~\$124M funding only a fraction of the corporate structure. Management pursues "Bitcoin Yield" — growth in BTC per diluted share — and reached ~9.6% YTD in 2026 by issuing equity, convertible notes, and preferred stock to accumulate more BTC. The bull case depends on BTC appreciation and sustained premium; the bear case is a collapse in the premium combined with dilution and a BTC drawdown. At \$100.77, MSTR has retraced most of its 2025/2026 premium expansion, improving risk/reward for risk-tolerant BTC bulls.
+
+**Bull:** \$220–\$280 · **Base:** \$130–\$170 · **Bear:** \$60–\$85
+
+[:material-arrow-right: Full Deep Dive](MSTR.md)
+
+---
 
 **CRCL — Circle Internet Group, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
