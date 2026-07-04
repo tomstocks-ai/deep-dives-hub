@@ -6,64 +6,86 @@
   "industry": "Bitcoin Mining / Digital Asset Infrastructure",
   "sector": "Fintech",
   "exchange": "NASDAQ",
-  "price": 14.22,
+  "price": 12.40,
   "market_cap": "$4.5B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-19",
-  "thesis": "MARA is the largest publicly traded Bitcoin miner with 1.7 GW of captive power, ~52,850 BTC treasury (~$3.9B), and an emerging AI infrastructure pivot via Starwood partnership. At $14.22, the stock trades near NAV floor with asymmetric upside to BTC rallies and HPC monetization.",
+  "last_updated": "2026-07-04",
+  "thesis": "MARA is one of the largest publicly traded Bitcoin miners, with 1.7 GW of captive power, 72.2 EH/s energized hashrate as of Q1 2026, and a year-end 2025 BTC treasury of 53,822 BTC (~$4.7B). Q1 2026 reported a $1.26B net loss driven by a ~$1.0B non-cash Bitcoin fair-value impairment, and the company sold 20,880 BTC for $1.5B to fund operations and reduce total convertible debt from ~$3.3B to ~$2.3B. The AI/HPC pivot via the Starwood Capital partnership remains active but nascent. At $12.40, MARA trades near the lower end of analyst consensus and offers asymmetric upside to a BTC rally, AI/HPC milestones, or further deleveraging, while carrying high beta and mark-to-market volatility.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$850M–$950M",
-    "revenue_growth": "N/A (commodity-driven)",
+    "revenue": "$907.1M (FY2025); $174.6M (Q1 2026)",
+    "revenue_growth": "38% YoY in FY2025; -18% YoY in Q1 2026",
     "gross_margin": "Variable (BTC price dependent)",
-    "net_income": "$22.3M (Q3 2025)",
+    "net_income": "-$1.31B (FY2025); -$1.26B (Q1 2026)",
     "eps_diluted": "N/A",
-    "cash": "Limited (BTC serves as liquid reserve)",
-    "fcf": "Negative during expansion"
+    "cash": "$559.1M at year-end 2025",
+    "fcf": "Negative during expansion; Q1 2026 BTC sale raised $1.5B to fund operations and reduce debt"
   },
   "bull_case": {
-    "target": "$33–$43",
+    "target": "$20–$26",
     "drivers": [
-      "Bitcoin price rallies to $120K–$150K",
-      "AI infrastructure pivot monetizes via Starwood partnership",
-      "75 EH/s hashrate target achieved with margin expansion"
+      "Bitcoin price rallies and risk appetite returns to crypto equities",
+      "AI/HPC pivot monetizes via Starwood partnership with signed contracts and deployed racks",
+      "Further debt reduction and balance-sheet de-risking"
     ]
   },
   "bear_case": {
-    "target": "$10–$15",
+    "target": "$8–$11",
     "risks": [
-      "Bitcoin bear market below $65K erodes NAV and mining margins",
-      "Global hashrate growth compresses block rewards faster than fleet expansion",
-      "AI pivot delayed or fails to secure contracts"
+      "Bitcoin bear market below key support erodes NAV and mining margins",
+      "Remaining ~$2.3B convertible debt creates dilution and refinancing pressure",
+      "AI pivot delayed or fails to secure contracts; additional treasury sales needed"
     ]
   },
   "base_case": {
-    "target": "$20–$26",
-    "assumptions": "Bitcoin stable $80K–$95K; operational execution on hashrate; modest AI infrastructure contribution by 2027"
+    "target": "$14–$18",
+    "assumptions": "Bitcoin stable to moderately higher; operational execution on hashrate and fleet efficiency; modest AI infrastructure contribution by 2027; analyst consensus median around $13.00–$18.38"
   },
   "catalysts": [
     {
-      "date": "2026-08-01",
-      "event": "Q2 2026 Earnings — hashrate progress and AI infra update",
-      "iso_date": "2026-08-01"
+      "date": "Q2 2026 Earnings (August 2026)",
+      "event": "Hashrate progress, AI infrastructure update, treasury strategy",
+      "iso_date": "2026-08",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-04"
     },
     {
-      "date": "2026-12-01",
-      "event": "End-2025 hashrate target verification (75 EH/s)",
-      "iso_date": "2026-12-01"
+      "date": "Bitcoin Halving 2028",
+      "event": "Block reward cut to 1.5625 BTC — long-term structural headwind",
+      "iso_date": "2028",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-04"
     },
     {
-      "date": "2028-01-01",
-      "event": "Bitcoin Halving — block reward cut to 1.5625 BTC",
-      "iso_date": "2028-01-01"
+      "date": "Strategic AI/HPC partnership milestones / data center deployments",
+      "event": "Starwood Capital partnership milestones and HPC rack deployments",
+      "iso_date": "2026-09",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-04"
+    },
+    {
+      "date": "Regulatory / Strategic Bitcoin Reserve developments",
+      "event": "Potential U.S. crypto policy tailwinds and Strategic Bitcoin Reserve developments",
+      "iso_date": "2026-12",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-04"
     }
   ],
   "key_risks": [
-    "Single-asset concentration: 90%+ value tied to Bitcoin price",
-    "Mining margin compression from global hashrate growth",
-    "Convertible debt dilution ($950M 2032 notes)",
-    "Regulatory risk (SEC, environmental, energy policy)",
+    "Single-asset concentration: 90%+ value tied to Bitcoin price and high equity beta",
+    "Mining margin compression from global hashrate growth and Bitcoin halving in 2028",
+    "Mark-to-market volatility: BTC fair-value impairments can overwhelm operating results",
+    "Convertible debt overhang (~$2.3B post-Q1 2026) creating dilution and refinancing risk",
+    "Regulatory risk (SEC, environmental, energy policy) and potential crypto crackdowns",
     "Fleet obsolescence requiring continuous capex"
   ],
-  "price_date": "2026-06-19"
+  "price_date": "2026-07-04"
 }
