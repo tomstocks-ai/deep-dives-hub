@@ -331,6 +331,7 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 | <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group N.V. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
 | <tv-ticker-tag symbol="NASDAQ:HUT" hide-background></tv-ticker-tag> | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](HUT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CORZ" hide-background></tv-ticker-tag> | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRWV" hide-background></tv-ticker-tag> | CoreWeave, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](CRWV.md) |
 
 ---
 
@@ -363,6 +364,16 @@ One of North America's largest bitcoin miners executing a strategic pivot to hig
 **Bull:** \$38–\$42 · **Base:** \$22–\$26 · **Bear:** \$12–\$16
 
 [:material-arrow-right: Full Deep Dive](CORZ.md)
+
+---
+
+**CRWV — CoreWeave, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to enterprise AI and machine-learning workloads. FY2025 revenue grew ~168% to ~\$5.1B, with marquee customers including Meta, Microsoft, and OpenAI. The company is a pure-play AI infrastructure play with strong demand tailwinds, but it remains unprofitable, requires heavy ongoing capex, and faces intense competition from AWS, Azure, and Google Cloud. SPEC. BUY for investors comfortable with high volatility and binary AI capex risk.
+
+**Bull:** \$130–\$150 · **Base:** \$100–\$120 · **Bear:** \$60–\$75
+
+[:material-arrow-right: Full Deep Dive](CRWV.md)
 
 ---
 
