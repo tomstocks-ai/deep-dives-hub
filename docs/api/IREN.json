@@ -1,0 +1,91 @@
+{
+  "ticker": "IREN",
+  "company": "Iris Energy Limited",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "industry": "Bitcoin Mining / Digital Asset Infrastructure / AI Data Center",
+  "sector": "Fintech",
+  "exchange": "NASDAQ",
+  "price": 43.91,
+  "market_cap": "$5.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-07",
+  "thesis": "Iris Energy is a renewable-energy-powered Bitcoin mining and digital infrastructure company listed on NASDAQ with operations in Australia and Canada. At $43.91 the stock trades near the lower bound of analyst targets ($74–$76 consensus, $41 low, $126 high) and offers a cleaner balance sheet than many U.S. crypto peers. The primary strategic option is the pivot toward AI/HPC data center hosting, which could monetize the company's 2.5 GW+ capacity pipeline and power interconnects. The bull case depends on AI contract wins and Bitcoin price appreciation; the bear case is BTC weakness and delays in the AI pivot.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "~$316M AUD (FY2025); ~$184M AUD (FY2024)",
+    "revenue_growth": "~72% YoY (FY2025 vs FY2024, AUD)",
+    "gross_margin": "Improved with BTC price and utilization; variable with energy/difficulty",
+    "net_income": "Near break-even to modestly positive in strong BTC quarters; historically loss-making during expansion",
+    "eps_diluted": "N/A",
+    "cash": "~$1.0–1.5B AUD (recent periods)",
+    "fcf": "Negative during expansion; positive when BTC prices and utilization are high"
+  },
+  "bull_case": {
+    "target": "$80–$95",
+    "drivers": [
+      "AI/HPC data center contracts monetize 2.5 GW+ capacity pipeline and power interconnects",
+      "Bitcoin price rally improves mining cash flow and investor appetite for crypto equities",
+      "Renewable energy profile attracts ESG-focused hyperscalers and commands premium hosting multiples"
+    ]
+  },
+  "bear_case": {
+    "target": "$35–$45",
+    "risks": [
+      "Bitcoin bear market compresses mining margins and operating cash flow",
+      "AI/HPC pivot fails to secure customers amid competition from dedicated AI data center operators",
+      "Expansion capex and potential equity raises dilute shareholders before AI revenue materializes"
+    ]
+  },
+  "base_case": {
+    "target": "$55–$70",
+    "assumptions": "Bitcoin stable to moderately higher; mining operations generate consistent cash; AI/HPC contributes incremental revenue by 2027 but not yet a majority driver; analyst consensus around $74–$76"
+  },
+  "catalysts": [
+    {
+      "date": "Q4 FY2026 Operational Update (July–August 2026)",
+      "event": "Hashrate, energy, and capacity expansion progress; potential AI/HPC pipeline update",
+      "iso_date": "2026-08",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-07"
+    },
+    {
+      "date": "AI / HPC Contract Announcements (2026–2027)",
+      "event": "Customer wins, joint ventures, or data center hosting contracts for AI/HPC workloads",
+      "iso_date": "2026-09",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-07"
+    },
+    {
+      "date": "Bitcoin Halving 2028",
+      "event": "Block reward cut to 1.5625 BTC — long-term structural headwind for mining economics",
+      "iso_date": "2028",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-07"
+    },
+    {
+      "date": "Australia Infrastructure / Government Policy Developments",
+      "event": "Potential tailwinds for the cited $22 billion Australia AI data center opportunity",
+      "iso_date": "2026-12",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-07"
+    }
+  ],
+  "key_risks": [
+    "Bitcoin mining revenue and margins are highly correlated with BTC price and network difficulty",
+    "AI/HPC pivot faces intense competition from dedicated AI data center operators and hyperscaler-owned capacity",
+    "Heavy expansion capex may strain liquidity and require equity raises or dilutive financing",
+    "Geographic concentration in Australia exposes operations to local regulation, currency risk, and weather/fire events",
+    "Long-term renewable power contracts may not remain cost-competitive if grid prices fall or competition increases",
+    "Regulatory risk around Bitcoin mining energy use and environmental policy in Australia or Canada"
+  ],
+  "price_date": "2026-07-07"
+}

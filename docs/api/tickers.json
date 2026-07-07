@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-04",
-  "count": 86,
+  "last_updated": "2026-07-07",
+  "count": 87,
   "tickers": [
     {
       "ticker": "000660",
@@ -693,6 +693,21 @@
       "theme": "AI Buildout",
       "sub_theme": "AI Compute",
       "price_date": "2026-06-25"
+    },
+    {
+      "ticker": "IREN",
+      "company": "Iris Energy Limited",
+      "sector": "Fintech",
+      "industry": "Bitcoin Mining / Digital Asset Infrastructure / AI Data Center",
+      "rating": "SPEC. BUY",
+      "price": 43.91,
+      "market_cap": "$5.5B",
+      "last_updated": "2026-07-07",
+      "deep_dive_url": "/deep-dives/IREN/",
+      "api_url": "/api/IREN.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-07-07"
     },
     {
       "ticker": "LEU",

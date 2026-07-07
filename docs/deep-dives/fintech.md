@@ -18,6 +18,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
 | <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
+| <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -59,6 +60,16 @@ MARA is one of the largest publicly traded Bitcoin miners with 1.7 GW captive po
 **Bull:** \$20–\$26 · **Base:** \$14–\$18 · **Bear:** \$8–\$11
 
 [:material-arrow-right: Full Deep Dive](MARA.md)
+
+---
+
+**IREN — Iris Energy Limited · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Iris Energy is a renewable-energy-powered Bitcoin mining and digital infrastructure company listed on NASDAQ with operations in Australia and Canada. At \$43.91 the stock trades near the lower bound of analyst targets (consensus \$74–\$76, low \$41, high \$126) and offers a cleaner balance sheet than many U.S. crypto peers. The primary strategic option is the pivot toward AI/HPC data center hosting, which could monetize the company's 2.5 GW+ capacity pipeline and power interconnects. The bull case depends on AI contract wins and Bitcoin price appreciation; the bear case is BTC weakness and delays in the AI pivot.
+
+**Bull:** \$80–\$95 · **Base:** \$55–\$70 · **Bear:** \$35–\$45
+
+[:material-arrow-right: Full Deep Dive](IREN.md)
 
 ---
 
