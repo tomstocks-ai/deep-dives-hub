@@ -1,0 +1,80 @@
+{
+  "ticker": "CRWV",
+  "company": "CoreWeave, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI / HPC Operators",
+  "industry": "Cloud Infrastructure / AI Cloud Computing",
+  "exchange": "NASDAQ",
+  "price": 86.46,
+  "price_date": "2026-07-07",
+  "market_cap": "$47.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-07",
+  "thesis": "CoreWeave is a leading AI-dedicated GPU cloud operator with FY2025 revenue up ~168% to $5.1B and a customer base anchored by Meta, Microsoft, and OpenAI. The company is a pure-play beneficiary of the generative AI infrastructure buildout, but the SPEC. BUY rating reflects heavy capex intensity, customer concentration, and fierce competition from the hyperscalers. Success depends on sustained AI compute demand, NVIDIA supply access, and a credible path to profitability.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$5.1B",
+    "revenue_growth": "167.9%",
+    "gross_margin": "30-40% (estimated)",
+    "net_income": "Negative",
+    "eps_diluted": "-$2.72 (TTM)",
+    "cash": "Limited; dependent on capital markets",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$130–$150",
+    "drivers": [
+      "Sustained >60% revenue growth through 2027 driven by multi-year contracts with top AI labs",
+      "Expanding utilization and gross margins as newer contracts ramp and software attach grows",
+      "Emergence as a durable third alternative to hyperscalers for AI compute, commanding a premium cloud multiple"
+    ]
+  },
+  "base_case": {
+    "target": "$100–$120",
+    "assumptions": "Growth remains strong but decelerates as AI capex cycles mature and competition intensifies. CoreWeave reaches operating profitability by 2027 but trades at a lower revenue multiple than the most optimistic bull scenario."
+  },
+  "bear_case": {
+    "target": "$60–$75",
+    "risks": [
+      "Softening demand for large-scale AI training/inference clusters or a major customer reducing commitments",
+      "GPU oversupply and pricing pressure from hyperscalers and other GPU clouds",
+      "Dilutive capital raises or tighter funding conditions that slow growth and compress the valuation multiple"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026 earnings",
+      "iso_date": "2026-08",
+      "event": "Quarterly report expected to show continued revenue growth, gross margin trends, and updated backlog or remaining performance obligations"
+    },
+    {
+      "date": "2026-07",
+      "iso_date": "2026-07",
+      "event": "Analyst initiation and price-target updates following recent IPO coverage expansion"
+    },
+    {
+      "date": "NVIDIA Blackwell rollout",
+      "iso_date": null,
+      "event": "GPU supply and deployment timing could materially impact CoreWeave's capacity and competitive positioning"
+    },
+    {
+      "date": "Major enterprise contract wins",
+      "iso_date": null,
+      "event": "New multi-year reserved contracts or expansions beyond Meta, Microsoft, and OpenAI would improve revenue visibility and reduce concentration risk"
+    },
+    {
+      "date": "New data center capacity online",
+      "iso_date": null,
+      "event": "Power-secured campus openings and international expansion increase addressable TAM"
+    }
+  ],
+  "key_risks": [
+    "Extreme capex intensity and dependence on debt/equity capital markets to fund GPU and data center expansion",
+    "High customer concentration among a few large AI labs",
+    "Intense competition from hyperscalers (AWS, Azure, Google Cloud) with greater capital and ecosystem breadth",
+    "Dependence on NVIDIA GPU supply and rapid product obsolescence cycles",
+    "AI demand cyclicality and potential slowdown in generative AI infrastructure spending",
+    "Negative free cash flow and elevated leverage/lease obligations"
+  ]
+}

@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-07",
-  "count": 87,
+  "count": 88,
   "tickers": [
     {
       "ticker": "000660",
@@ -393,6 +393,21 @@
       "theme": "Software",
       "sub_theme": "Cybersecurity",
       "price_date": "2026-06-19"
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "sector": "Technology",
+      "industry": "Cloud Infrastructure / AI Cloud Computing",
+      "rating": "SPEC. BUY",
+      "price": 86.46,
+      "market_cap": "$47.5B",
+      "last_updated": "2026-07-07",
+      "deep_dive_url": "/deep-dives/CRWV/",
+      "api_url": "/api/CRWV.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI / HPC Operators",
+      "price_date": "2026-07-07"
     },
     {
       "ticker": "CVLT",
