@@ -75,10 +75,11 @@ RATING_CLASS = {
 # JSON "exchange" -> TradingView symbol prefix.
 EXCHANGE_TV = {
     "NYSE": "NYSE",
+    "AMEX": "AMEX",
+    "NYSE Arca": "AMEX",
     "NASDAQ": "NASDAQ",
     "NasdaqCM": "NASDAQ",
     "NASDAQ / TSX": "NASDAQ",
-    "NYSE Arca": "AMEX",
     "OMXSTO": "OMXSTO",
     "KRX": "KRX",
 }
