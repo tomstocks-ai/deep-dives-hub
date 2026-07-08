@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-07",
-  "count": 88,
+  "last_updated": "2026-07-08",
+  "count": 89,
   "tickers": [
     {
       "ticker": "000660",
@@ -918,6 +918,21 @@
       "theme": "Energy",
       "sub_theme": "Reactor Developers",
       "price_date": "2026-04-15"
+    },
+    {
+      "ticker": "OPTT",
+      "company": "Ocean Power Technologies Inc.",
+      "sector": "Energy",
+      "industry": "Marine Renewable Energy / Wave Power",
+      "rating": "SPECULATIVE",
+      "price": 0.25,
+      "market_cap": "$64M",
+      "last_updated": "2026-07-08",
+      "deep_dive_url": "/deep-dives/OPTT/",
+      "api_url": "/api/OPTT.json",
+      "theme": "Energy",
+      "sub_theme": "Marine & Wave Energy",
+      "price_date": "2026-07-08"
     },
     {
       "ticker": "OSS",
