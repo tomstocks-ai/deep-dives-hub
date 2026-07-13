@@ -1,0 +1,72 @@
+{
+  "ticker": "RY",
+  "company": "Royal Bank of Canada",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Banking / Diversified Financials",
+  "industry": "Banks - Diversified",
+  "exchange": "NYSE",
+  "price": 210.69,
+  "price_date": "2026-07-13",
+  "market_cap": "$293B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-13",
+  "thesis": "Royal Bank of Canada is the largest Canadian bank by market cap and one of the world's top banks by assets. It delivers strong double-digit revenue and earnings growth, a 16% ROE, and a 2.4% dividend yield with 48 consecutive years of increases. At $210, the stock trades at a premium valuation (19.5x P/E, 3.2x P/B) and above most analyst targets after a 62% one-year rally. High-quality defensive compounder, but best bought on dips.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$66.5B",
+    "revenue_growth": "16.1%",
+    "gross_margin": "33.7%",
+    "net_income": "$20.4B",
+    "eps_diluted": "$14.07",
+    "cash": "$87.4B",
+    "fcf": "$53.0B"
+  },
+  "bull_case": {
+    "target": "$230–$250",
+    "drivers": [
+      "Rate-cut cycle stimulates mortgage originations and credit growth without a spike in delinquencies",
+      "Wealth management AUA grows 8-10% annually, adding ~$14B per 100 bps market appreciation",
+      "Capital Markets M&A and energy advisory rebound drives fee income",
+      "Investors re-rate the stock to 20-21x forward EPS on sustained double-digit earnings growth"
+    ]
+  },
+  "base_case": {
+    "target": "$200–$220",
+    "assumptions": "Moderate GDP growth supports mid-single-digit loan growth. NIM compresses 5-10 bps as deposit competition intensifies, but fee-based revenue offsets. Forward P/E stabilizes at 17-18x. Stock trades sideways as earnings catch up to valuation."
+  },
+  "bear_case": {
+    "target": "$170–$190",
+    "risks": [
+      "Hard landing in Canada or U.S. triggers spike in loan-loss provisions (PCL > 60 bps)",
+      "Commercial real estate exposure deteriorates faster than modeled in Canadian and U.S. office markets",
+      "NIM compresses sharply as rates fall and deposit betas lag",
+      "Multiple contracts to 14-15x forward earnings, consistent with recessionary bank pricing"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 FY2026",
+      "iso_date": "2026-08",
+      "event": "Q3 FY2026 earnings release (scheduled Aug 27, 2026)"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Bank of Canada rate cuts continue, stimulating mortgage refinancing activity"
+    },
+    {
+      "date": "Q4 FY2026 / Q1 CY2027",
+      "iso_date": "2026-11",
+      "event": "Annual dividend increase announcement (48-year streak)"
+    }
+  ],
+  "key_risks": [
+    "Canadian household debt-to-income is among the highest in the G7; unemployment spike could drive mortgage delinquencies",
+    "Commercial real estate exposure in Canadian and U.S. office markets remains elevated",
+    "Net interest margin compression as deposit competition intensifies and asset yields reprice faster",
+    "Capital Markets revenue cyclicality tied to M&A and trading volatility",
+    "Regulatory capital requirements (OSFI / Basel III) could limit buyback capacity or dividend growth",
+    "Canada-U.S. trade tensions and tariffs could weigh on cross-border capital flows and GDP growth"
+  ]
+}

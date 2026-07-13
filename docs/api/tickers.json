@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-07",
-  "count": 88,
+  "last_updated": "2026-07-13",
+  "count": 89,
   "tickers": [
     {
       "ticker": "000660",
@@ -1098,6 +1098,21 @@
       "theme": "Defense",
       "sub_theme": "Prime Contractors",
       "price_date": "2026-06-24"
+    },
+    {
+      "ticker": "RY",
+      "company": "Royal Bank of Canada",
+      "sector": "Financials",
+      "industry": "Banks - Diversified",
+      "rating": "HOLD",
+      "price": 210.69,
+      "market_cap": "$293B",
+      "last_updated": "2026-07-13",
+      "deep_dive_url": "/deep-dives/RY/",
+      "api_url": "/api/RY.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Banking / Diversified Financials",
+      "price_date": "2026-07-13"
     },
     {
       "ticker": "SATL",
