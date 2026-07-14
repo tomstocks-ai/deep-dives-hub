@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-14",
-  "count": 91,
+  "count": 92,
   "tickers": [
     {
       "ticker": "000660",
@@ -243,6 +243,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Semiconductors / AI Compute",
       "price_date": "2026-06-21"
+    },
+    {
+      "ticker": "CCXI",
+      "company": "Churchill Capital XI / Agility Robotics",
+      "sector": "Technology",
+      "industry": "Humanoid Robotics / SPAC",
+      "rating": "SPEC. BUY",
+      "price": 15.76,
+      "market_cap": "$880M",
+      "last_updated": "2026-07-14",
+      "deep_dive_url": "/deep-dives/CCXI/",
+      "api_url": "/api/CCXI.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-14"
     },
     {
       "ticker": "CEG",

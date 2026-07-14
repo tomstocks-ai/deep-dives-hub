@@ -381,6 +381,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:CCXI" hide-background></tv-ticker-tag> | Churchill Capital XI / Agility Robotics | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](CCXI.md) |
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
@@ -414,5 +415,15 @@ Leading global manufacturer of engineered bearings and mechanical power transmis
 **Bull:** \$155–\$165 · **Base:** \$130–\$140 · **Bear:** \$105–\$115
 
 [:material-arrow-right: Full Deep Dive](TKR.md)
+
+---
+
+**CCXI — Churchill Capital XI / Agility Robotics · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Pre-merger SPAC proxy for Agility Robotics, the first US-listed pure-play humanoid robotics company. \$2.5B pre-money equity valuation with \$620M+ gross proceeds (\$420M trust + \$200M PIPE at \$10/share led by Foxconn). Digit v5 humanoid already deployed at 9 customer facilities with 65,000+ hours of operation and \$300M+ in multi-year orders. Backed by Amazon, NVIDIA, SoftBank, and Google DeepMind. High-risk, high-reward speculative play on the commercialization of humanoid labor — but stock has already run 50%+ above the PIPE price, so discipline on entry is critical.
+
+**Bull:** \$26–\$30 · **Base:** \$18–\$22 · **Bear:** \$10–\$12
+
+[:material-arrow-right: Full Deep Dive](CCXI.md)
 
 ---
