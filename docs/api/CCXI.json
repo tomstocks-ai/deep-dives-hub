@@ -1,0 +1,73 @@
+{
+  "ticker": "CCXI",
+  "company": "Churchill Capital XI / Agility Robotics",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Humanoid Robotics / SPAC",
+  "exchange": "NASDAQ",
+  "price": 15.76,
+  "price_date": "2026-07-14",
+  "market_cap": "$880M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-14",
+  "thesis": "Pre-merger SPAC proxy for Agility Robotics, the first US-listed pure-play humanoid robotics company. The $2.5B pre-money equity merger includes $620M+ in gross proceeds ($420M trust + $200M PIPE at $10/share led by Foxconn). Agility's Digit v5 humanoid is already deployed at 9 customer facilities with 65,000+ hours of operation and $300M+ in multi-year binding orders. Backed by Amazon, NVIDIA, SoftBank, and Google DeepMind. High-risk, high-reward speculative play on the commercialization of humanoid labor — but the stock has already run 50%+ above the PIPE price, so discipline on entry is critical.",
+  "financials": {
+    "fiscal_year": "Pre-merger / FY2025 preliminary (Agility)",
+    "revenue": "Pre-revenue; $300M+ multi-year binding orders (not yet recognized)",
+    "revenue_growth": "N/A (pre-revenue)",
+    "gross_margin": "N/A (pre-revenue)",
+    "net_income": "Negative; Agility burned ~$100M in cash in 2025 per preliminary filings",
+    "eps_diluted": "N/A",
+    "cash": "$420M trust + $200M PIPE = $620M gross proceeds before redemptions",
+    "fcf": "Negative pre-revenue; runway extended via merger proceeds"
+  },
+  "bull_case": {
+    "target": "$26–$30",
+    "drivers": [
+      "S-4 declared effective and shareholder vote approves the merger in Q4 2026",
+      "Digit deployments scale from 9 facilities to 50+ by end of 2027",
+      "Toyota / Mercado Libre / Amazon orders convert into recurring RaaS revenue",
+      "NVIDIA partnership (Halos safety stack) accelerates enterprise adoption",
+      "Humanoid robotics TAM captures premium multiples similar to early AI infrastructure plays"
+    ]
+  },
+  "base_case": {
+    "target": "$18–$22",
+    "assumptions": "Merger closes in Q4 2026 with modest redemptions. Agility begins recognizing material revenue in 2027 as RaaS contracts ramp, but profitability remains years away. Market values the company at a speculative-but-reasonable premium to the $2.5B pre-money valuation."
+  },
+  "bear_case": {
+    "target": "$10–$12",
+    "risks": [
+      "High shareholder redemptions leave Agility with less cash than planned",
+      "Merger closes late or fails due to regulatory/SEC delays",
+      "Digit adoption stalls at pilot stage; customers do not expand deployments",
+      "Competition from Tesla Optimus, Figure AI, and Apptronik undercuts pricing",
+      "Cash burn exceeds expectations and forces dilutive capital raise post-merger"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Expected closing of Agility Robotics merger and NASDAQ listing under CCXI"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "S-4 registration statement declared effective and shareholder vote"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "New commercial deployment announcements and Toyota RAV4 plant expansion"
+    }
+  ],
+  "key_risks": [
+    "SPAC merger may not close or may close with heavy redemptions",
+    "Pre-revenue with high cash burn and long path to profitability",
+    "Customer concentration and pilot-to-deployment conversion risk",
+    "Competitive humanoid robotics landscape (Tesla, Figure, Apptronik)",
+    "Stock has already run well above the $10 trust/PIPE price, creating entry risk"
+  ]
+}
