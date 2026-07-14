@@ -848,16 +848,16 @@
       "ticker": "NB",
       "company": "NioCorp Developments Ltd.",
       "sector": "Materials",
-      "industry": "Other Industrial Metals & Mining",
+      "industry": "Critical Minerals Mining / Development",
       "rating": "SPEC. BUY",
-      "price": 4.79,
-      "market_cap": "$350M",
+      "price": 4.3,
+      "market_cap": "$626M",
       "last_updated": "2026-07-14",
       "deep_dive_url": "/deep-dives/NB/",
       "api_url": "/api/NB.json",
       "theme": "Critical Minerals",
-      "sub_theme": "Rare Earths / Specialty Metals",
-      "price_date": "2026-07-14"
+      "sub_theme": "Rare Earths",
+      "price_date": "2026-07-13"
     },
     {
       "ticker": "NBIS",

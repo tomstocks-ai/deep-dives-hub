@@ -3,88 +3,82 @@
   "company": "NioCorp Developments Ltd.",
   "sector": "Materials",
   "theme": "Critical Minerals",
-  "sub_theme": "Rare Earths / Specialty Metals",
-  "industry": "Other Industrial Metals & Mining",
-  "exchange": "NASDAQ",
-  "price": 4.79,
-  "price_date": "2026-07-14",
-  "market_cap": "$350M",
+  "sub_theme": "Rare Earths",
+  "industry": "Critical Minerals Mining / Development",
+  "exchange": "NasdaqGM",
+  "price": 4.30,
+  "price_date": "2026-07-13",
+  "market_cap": "$626M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-14",
-  "thesis": "NioCorp Developments is a pre-revenue critical minerals developer advancing the Elk Creek Project in Nebraska, a large U.S. deposit of niobium, scandium, titanium, and rare earth elements. The investment case is binary: if the company secures ~$1.3B in project financing and additional binding offtake agreements in 2026, the stock could re-rate significantly; failure to finance or delay construction would pressure the equity. The non-binding Traxys offtake agreement and U.S. critical-minerals policy support are positive catalysts, but dilution risk remains material.",
+  "thesis": "Pre-revenue critical minerals developer advancing the Elk Creek Project in Nebraska \u2014 North America\u2019s only niobium/scandium/titanium project and the 2nd largest indicated rare earth resource in the U.S. Feasibility study confirms $2.8B NPV, 29.2% IRR, and 38-year mine life. Company broke ground on the $44.6M mine portal in March 2026 and has secured over $370M in funding including a $10M US DoD grant. Stellantis rare earth offtake term sheet adds strategic validation. Stock down 66% from 52-week highs, creating an attractive entry for patient investors betting on U.S. critical minerals security.",
   "financials": {
-    "fiscal_year": "FY2025",
-    "revenue": "$0",
+    "fiscal_year": "Pre-revenue",
+    "revenue": "N/A",
     "revenue_growth": "N/A",
     "gross_margin": "N/A",
-    "net_income": "Negative",
-    "eps_diluted": "$0.00",
-    "cash": "$300M+",
-    "fcf": "Negative"
+    "net_income": "-$50.8M",
+    "eps_diluted": "-$0.58",
+    "cash": "$419M",
+    "fcf": "-$28.1M"
   },
   "bull_case": {
-    "target": "$10–$14",
+    "target": "$10\u2013$12",
     "drivers": [
-      "Full project financing closes in 2026 with limited equity dilution",
-      "Additional binding offtake agreements de-risk revenue and lender confidence",
-      "Updated feasibility study incorporates rare earths and improved titanium recovery, raising project NPV"
+      "Project financing closes on schedule; construction advances to full-scale development",
+      "Stellantis offtake agreement finalized with strategic equity investment",
+      "Additional US government grants / loans secured (EXIM Bank, DFC)",
+      "Rare earth separation facility demonstrates commercial-scale recovery rates",
+      "Commodity prices for niobium, scandium, and rare earths remain elevated"
     ]
   },
   "base_case": {
-    "target": "$6–$9",
-    "assumptions": "Project financing closes in 2026–2027 with moderate dilution; construction starts on a delayed timeline; first production pushed toward 2028–2029. Commodity price assumptions remain stable."
+    "target": "$7\u2013$9",
+    "assumptions": "Construction progresses but faces modest delays. Partial financing secured with some dilution. First production pushed to 2028-2029. Stock re-rates as project de-risks but does not reach full feasibility valuation."
   },
   "bear_case": {
-    "target": "$2–$4",
+    "target": "$3\u2013$4",
     "risks": [
-      "Project financing fails or requires heavy equity dilution",
-      "Commodity prices for niobium, scandium, or titanium weaken materially",
-      "Permitting, technical, or macro delays push the project beyond the cash runway"
+      "Project financing fails to close; company runs low on cash and requires significant dilutive raise",
+      "Construction cost overruns or technical issues at demonstration plant",
+      "Niobium or rare earth prices collapse, undermining project economics",
+      "Regulatory or environmental opposition delays permitting",
+      "Competing projects (MP Materials, Lynas) capture market share first"
     ]
   },
   "catalysts": [
     {
-      "date": "H2 2026",
-      "iso_date": "2026-07",
-      "event": "Project financing close / lender announcements",
-      "sector": "Materials",
-      "theme": "Critical Minerals",
-      "sub_theme": "Rare Earths / Specialty Metals",
-      "price_date": "2026-07-14"
-    },
-    {
-      "date": "H2 2026",
-      "iso_date": "2026-07",
-      "event": "Additional binding offtake agreements",
-      "sector": "Materials",
-      "theme": "Critical Minerals",
-      "sub_theme": "Rare Earths / Specialty Metals",
-      "price_date": "2026-07-14"
-    },
-    {
-      "date": "2026–2027",
+      "date": "2026",
       "iso_date": "2026",
-      "event": "Construction start / final investment decision",
-      "sector": "Materials",
-      "theme": "Critical Minerals",
-      "sub_theme": "Rare Earths / Specialty Metals",
-      "price_date": "2026-07-14"
+      "event": "Project financing close and full construction decision"
     },
     {
-      "date": "2028–2029",
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Stellantis definitive offtake agreement and potential strategic investment"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Portal construction completion; underground development begins"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": "2026",
+      "event": "EXIM Bank loan decision; additional government funding"
+    },
+    {
+      "date": "2028-2029",
       "iso_date": "2028",
-      "event": "First production and commissioning",
-      "sector": "Materials",
-      "theme": "Critical Minerals",
-      "sub_theme": "Rare Earths / Specialty Metals",
-      "price_date": "2026-07-14"
+      "event": "First production of niobium, scandium, titanium"
     }
   ],
   "key_risks": [
-    "Financing risk: ~$1.3B project cost requires additional capital, likely with equity dilution",
-    "Execution risk: no operating history as a producer; construction and ramp-up are complex",
-    "Commodity price risk: niobium and scandium markets are thin and opaque",
-    "Offtake risk: current Traxys agreement is non-binding",
-    "Single-project concentration: entire thesis rests on Elk Creek in Nebraska"
+    "Pre-revenue with multi-year path to first production",
+    "Project financing risk: $1B+ capex requirement may require significant dilution",
+    "Construction and execution risk on first-of-kind US critical minerals facility",
+    "Commodity price volatility for niobium, scandium, and rare earths",
+    "Competition from established producers and other US projects",
+    "Regulatory and environmental permitting delays"
   ]
 }

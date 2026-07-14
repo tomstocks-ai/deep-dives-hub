@@ -9,8 +9,6 @@ title: Critical Minerals & Strategic Materials
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
-
 | <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-21 | [:material-file-document: Read](CRML.md) |
 | <tv-ticker-tag symbol="AMEX:UUUU" hide-background></tv-ticker-tag> | Energy Fuels | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
 | <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](FCX.md) |
@@ -22,6 +20,7 @@ title: Critical Minerals & Strategic Materials
 | <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
 | <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](GLD.md) |
 | <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](SLV.md) |
+| <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
 
 ---
 
@@ -29,9 +28,9 @@ title: Critical Minerals & Strategic Materials
 
 **NB — NioCorp Developments Ltd. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Pre-revenue critical minerals developer advancing the Elk Creek Project in Nebraska, a large U.S. deposit of niobium, scandium, titanium, and rare earth elements. A non-binding 10-year offtake agreement with Traxys and potential U.S. EXIM financing support the 2026 financing push. The thesis is binary: successful project financing and construction could re-rate the equity materially, while failure or heavy dilution would pressure the stock.
+Pre-revenue critical minerals developer advancing the Elk Creek Project in Nebraska — North America's only niobium / scandium / titanium project and the 2nd largest indicated rare earth resource in the U.S. Feasibility study confirms $2.8B NPV, 29.2% IRR, and 38-year mine life. Broke ground on the $44.6M mine portal in March 2026. $370M+ in funding raised including $10M US DoD grant. Stellantis rare earth offtake term sheet adds strategic validation. Stock down 66% from 52-week highs.
 
-**Bull:** \$10–\$14 · **Base:** \$6–\$9 · **Bear:** \$2–\$4
+**Bull:** \$10–\$12 · **Base:** \$7–\$9 · **Bear:** \$3–\$4
 
 [:material-arrow-right: Full Deep Dive](NB.md)
 
@@ -148,8 +147,6 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 ---
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
-
 | <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](PAAS.md) |
 | <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](AG.md) |
 

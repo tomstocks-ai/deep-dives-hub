@@ -79,6 +79,7 @@ EXCHANGE_TV = {
     "NYSE Arca": "AMEX",
     "NASDAQ": "NASDAQ",
     "NasdaqCM": "NASDAQ",
+    "NasdaqGM": "NASDAQ",
     "NASDAQ / TSX": "NASDAQ",
     "OMXSTO": "OMXSTO",
     "KRX": "KRX",
