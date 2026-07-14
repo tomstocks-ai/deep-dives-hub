@@ -1,0 +1,77 @@
+{
+  "ticker": "FRSH",
+  "company": "Freshworks Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Enterprise Software / IT Service Management (ITSM) & Customer Experience (CX)",
+  "exchange": "NASDAQ",
+  "price": 10.74,
+  "price_date": "2026-07-14",
+  "market_cap": "~$2.7B",
+  "rating": "BUY",
+  "last_updated": "2026-07-14",
+  "thesis": "Freshworks is a mid-cap enterprise SaaS vendor with a fast-growing Employee Experience (Freshservice) segment and a slower but stabilizing Customer Experience (Freshdesk/Freshdesk Omni) segment. Q1 2026 showed 16% revenue growth, 80.8% non-GAAP gross margin, and $55.4M in free cash flow (24% margin). With EX ARR above $540M growing 27% YoY, AI attach rates over 65% in new deals, and a restructuring plan targeting 20% annual adjusted FCF-per-share compounding, the stock trades at a discounted ~2.3x EV/Sales and ~9% FCF yield. The risk/reward is attractive if management stabilizes CX and executes the integration of FireHydrant.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$960M",
+    "revenue_growth": "14%",
+    "gross_margin": "80.8%",
+    "net_income": "$41M",
+    "eps_diluted": "$0.11",
+    "cash": "$780M",
+    "fcf": "$55.4M"
+  },
+  "bull_case": {
+    "target": "$14–$16",
+    "drivers": [
+      "CX ARR reaccelerates to high-single-digit growth while EX sustains 20%+ growth",
+      "AI attach rates and Freddy MCP Gateway drive net revenue retention above 110%",
+      "FireHydrant integration expands ITOM TAM and cross-sell penetration",
+      "FCF margins approach 30% and the stock re-rates to 4x EV/Sales"
+    ]
+  },
+  "base_case": {
+    "target": "$11–$12.50",
+    "assumptions": "Revenue grows 14–15% in FY2026, non-GAAP operating margins expand modestly, and adjusted FCF reaches ~$250M. The market awards a 2.5–3.0x EV/Sales multiple, reflecting a SaaS compounder with durable but decelerating growth and improving margins."
+  },
+  "bear_case": {
+    "target": "$7.50–$9.00",
+    "risks": [
+      "CX ARR stalls or declines, dragging headline growth below the mid-teens",
+      "Agentic AI disrupts seat-based SaaS pricing and compresses blended ARPU",
+      "Competition from ServiceNow, Zendesk, HubSpot, and Salesforce accelerates churn",
+      "Restructuring or FireHydrant integration falters, delaying margin expansion"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings",
+      "iso_date": "2026-08",
+      "event": "Earnings report in early August 2026; key for restructuring impact and margin guidance"
+    },
+    {
+      "date": "Q3 2026 earnings",
+      "iso_date": "2026-11",
+      "event": "November 2026 earnings; watch for CX stabilization and EX retention trends"
+    },
+    {
+      "date": "FireHydrant integration completion",
+      "iso_date": "2026",
+      "event": "Full integration of FireHydrant ITOM capabilities into Freshservice expected through 2026"
+    },
+    {
+      "date": "Long-term outlook update",
+      "iso_date": "2026-12",
+      "event": "Potential formalization of $1B+ ARR / $1.3B+ revenue / $425M+ FCF 2028 outlook"
+    }
+  ],
+  "key_risks": [
+    "Slowing CX ARR growth, guided to low single digits in 2026, drags overall revenue",
+    "AI disruption of traditional seat-based SaaS pricing and pricing power",
+    "Intense competition from ServiceNow in ITSM and Zendesk, HubSpot, Salesforce in CX",
+    "Execution risk on the ~11% global headcount reduction and cost restructuring",
+    "Integration risk from FireHydrant and Device42 acquisitions",
+    "Macro enterprise spend pressure lengthening sales cycles and pressuring renewals"
+  ]
+}
