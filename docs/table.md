@@ -104,6 +104,7 @@ hide:
 | <tv-ticker-tag symbol="NASDAQ:ADPT" hide-background></tv-ticker-tag> | Adaptive Biotechnologies Corporation | <span class="badge badge-health">Biotech & Health</span> | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](deep-dives/ADPT.md) |
 | <tv-ticker-tag symbol="NYSE:HIMS" hide-background></tv-ticker-tag> | Hims & Hers Health, Inc. | <span class="badge badge-health">Biotech & Health</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-16 | [:material-file-document: Read](deep-dives/HIMS.md) |
 | <tv-ticker-tag symbol="NYSE:INFQ" hide-background></tv-ticker-tag> | Infleqtion, Inc. | <span class="badge badge-quantum">Quantum</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-29 | [:material-file-document: Read](deep-dives/INFQ.md) |
+| <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="badge badge-industrial">Industrials</span> | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](deep-dives/TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:MRVL" hide-background></tv-ticker-tag> | Marvell Technology, Inc. | <span class="badge badge-tech">Technology</span> | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](deep-dives/MRVL.md) |
 <!-- END GENERATED: all-stocks-table -->
 

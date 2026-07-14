@@ -1,0 +1,73 @@
+{
+  "ticker": "TKR",
+  "company": "The Timken Company",
+  "sector": "Industrials",
+  "theme": "Industrials",
+  "sub_theme": "Industrial Components / Bearings & Power Transmission",
+  "industry": "Machinery / Industrial Components",
+  "exchange": "NYSE",
+  "price": 138.50,
+  "price_date": "2026-07-14",
+  "market_cap": "$9.63B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-14",
+  "thesis": "Leading global manufacturer of bearings and mechanical power transmission products serving automotive, industrial, energy, and aerospace end markets. Revenue of $4.67B TTM with improving margins from operational excellence and strategic acquisitions. Strong positioning in renewable energy (wind turbine bearings) and aerospace recovery. Stock has surged 65% YTD and 80% YoY, now trading at a trailing P/E of 31.5x — elevated for an industrial. Forward P/E of 22.7x is more reasonable if earnings growth materializes. Wait for post-earnings pullback or better entry.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$4.67B",
+    "revenue_growth": "3.2%",
+    "gross_margin": "30.5%",
+    "net_income": "$308M",
+    "eps_diluted": "$4.39",
+    "cash": "$345M",
+    "fcf": "$339M"
+  },
+  "bull_case": {
+    "target": "$155–$165",
+    "drivers": [
+      "Q2 earnings beat and raised FY2026 guidance",
+      "Margin expansion from operational improvements and acquisitions",
+      "Aerospace recovery drives above-trend revenue growth",
+      "Infrastructure spending accelerates industrial demand",
+      "Renewable energy (wind) orders exceed expectations"
+    ]
+  },
+  "base_case": {
+    "target": "$130–$140",
+    "assumptions": "Stable industrial demand across automotive and process industries. Moderate margin improvement from cost initiatives. Aerospace recovery continues at measured pace. Stock treads water near current levels as earnings growth catches up to valuation."
+  },
+  "bear_case": {
+    "target": "$105–$115",
+    "risks": [
+      "Industrial downturn or recessionary demand contraction",
+      "Automotive slowdown hurts Mobile Industries segment",
+      "Raw material cost inflation pressures margins",
+      "China weakness reduces Process Industries orders",
+      "Higher-for-longer interest rates cap industrial capex"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Jul 29, 2026",
+      "iso_date": "2026-07-29",
+      "event": "Q2 FY2026 earnings release"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Infrastructure spending tailwind continues"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Renewable energy and aerospace recovery trajectory"
+    }
+  ],
+  "key_risks": [
+    "Industrial cyclicality and macroeconomic downturn",
+    "Automotive sector slowdown",
+    "Raw material cost inflation and supply chain disruption",
+    "China demand weakness and geopolitical exposure",
+    "Acquisition integration risk and debt levels"
+  ]
+}
