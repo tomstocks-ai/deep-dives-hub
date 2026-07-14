@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-14",
-  "count": 93,
+  "count": 94,
   "tickers": [
     {
       "ticker": "000660",
@@ -588,6 +588,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Gold",
       "price_date": "2026-06-08"
+    },
+    {
+      "ticker": "FRSH",
+      "company": "Freshworks Inc.",
+      "sector": "Technology",
+      "industry": "Enterprise Software / IT Service Management (ITSM) & Customer Experience (CX)",
+      "rating": "BUY",
+      "price": 10.74,
+      "market_cap": "~$2.7B",
+      "last_updated": "2026-07-14",
+      "deep_dive_url": "/deep-dives/FRSH/",
+      "api_url": "/api/FRSH.json",
+      "theme": "Software",
+      "sub_theme": "Enterprise Software",
+      "price_date": "2026-07-14"
     },
     {
       "ticker": "GEV",

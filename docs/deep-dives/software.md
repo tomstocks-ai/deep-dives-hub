@@ -16,6 +16,7 @@
 | <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
 | <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
+| <tv-ticker-tag symbol="NASDAQ:FRSH" hide-background></tv-ticker-tag> | Freshworks Inc. | <span class="rating-buy">BUY</span> | 2026-07-14 | [:material-file-document: Read](FRSH.md) |
 
 ---
 
@@ -76,6 +77,18 @@ The world's #1 CRM platform, repositioning as the "operating system for the Agen
 **Bull:** \$250–\$280 · **Base:** \$195–\$215 · **Bear:** \$125–\$140
 
 [:material-arrow-right: Full Deep Dive](CRM.md)
+
+---
+
+### Enterprise Software
+
+**FRSH — Freshworks Inc. · <span class="rating-buy">BUY</span>**
+
+Mid-market enterprise SaaS vendor with Employee Experience (Freshservice) becoming the primary growth engine while Customer Experience (Freshdesk/Freshdesk Omni) stabilizes. Q1 2026 revenue grew 16% YoY to \$228.6M with 80.8% non-GAAP gross margin and \$55.4M free cash flow (24% margin). EX ARR exceeded \$540M (+27% YoY), AI attach rates in new deals topped 65%, and the recent 11% workforce reduction should streamline operations. Trading at ~2.3x EV/Sales and ~9% FCF yield, the stock discounts the CX slowdown but offers upside if restructuring and FireHydrant integration drive margin expansion.
+
+**Bull:** \$14–\$16 · **Base:** \$11–\$12.50 · **Bear:** \$7.50–\$9.00
+
+[:material-arrow-right: Full Deep Dive](FRSH.md)
 
 ---
 
