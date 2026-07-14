@@ -18,6 +18,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
 | <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
+| <tv-ticker-tag symbol="NYSE:RY" hide-background></tv-ticker-tag> | Royal Bank of Canada | <span class="rating-hold">HOLD</span> | 2026-07-13 | [:material-file-document: Read](RY.md) |
 | <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
 
 ---
@@ -135,6 +136,18 @@ SoFi is a digital personal finance platform with three segments: lending (studen
 **Bull:** \$28–\$32 · **Base:** \$20–\$24 · **Bear:** \$12–\$14
 
 [:material-arrow-right: Full Deep Dive](SOFI.md)
+
+---
+
+### Banking / Diversified Financials
+
+**RY — Royal Bank of Canada · <span class="rating-hold">HOLD</span>**
+
+Royal Bank of Canada is the largest bank in Canada by market cap and one of the world's top banks by assets, with a \$2.33 trillion balance sheet and ~98,000 employees across 29 countries. It operates five segments: Personal \\& Commercial Banking, Wealth Management, Capital Markets, Insurance, and Investor \\& Treasury Services. FY2025 revenue reached \$66.5B (+16% YoY) with net income of \$20.4B and ROE of 16.2%. The stock pays a 2.4% dividend yield with 48 consecutive years of increases. At \$210.69, RY trades at a premium valuation (19.5x P/E, 3.2x P/B) after a 62% one-year rally and sits above most analyst targets, making it a high-quality hold rather than an aggressive buy.
+
+**Bull:** \$230–\$250 · **Base:** \$200–\$220 · **Bear:** \$170–\$190
+
+[:material-arrow-right: Full Deep Dive](RY.md)
 
 ---
 ---
