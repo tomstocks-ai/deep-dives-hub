@@ -1,0 +1,82 @@
+{
+  "ticker": "OPTT",
+  "company": "Ocean Power Technologies Inc.",
+  "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Marine & Wave Energy",
+  "industry": "Marine Renewable Energy / Wave Power",
+  "exchange": "AMEX",
+  "price": 0.25,
+  "price_date": "2026-07-08",
+  "market_cap": "$64M",
+  "rating": "SPECULATIVE",
+  "last_updated": "2026-07-08",
+  "thesis": "Ocean Power Technologies is a pre-profitability micro-cap developing wave-powered buoys and autonomous maritime power/data systems. Revenue is roughly $6M annually and the company is burning cash, creating a going-concern risk, but the PowerBuoy platform has optionality in defense, offshore oil & gas, and ocean-observation markets if a meaningful contract or financing event extends the runway.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$6.0M",
+    "revenue_growth": "N/A",
+    "gross_margin": "28%",
+    "net_income": "-$30M",
+    "eps_diluted": "-$0.12",
+    "cash": "$9.9M",
+    "fcf": "-$18.6M"
+  },
+  "bull_case": {
+    "target": "$0.50–$0.65",
+    "drivers": [
+      "A major defense or offshore oil & gas contract validates the PowerBuoy platform and accelerates revenue toward $15M+",
+      "Strategic partnership or grant funding extends cash runway and reduces near-term dilution risk",
+      "Renewables and decarbonization mandates expand the addressable market for wave-powered off-grid marine systems"
+    ]
+  },
+  "base_case": {
+    "target": "$0.25–$0.35",
+    "assumptions": "Small contract wins and modest revenue growth keep the business operating, but ongoing operating losses and likely capital raises prevent a meaningful re-rating. The stock remains range-bound near current levels."
+  },
+  "bear_case": {
+    "target": "$0.08–$0.15",
+    "risks": [
+      "Cash runway runs out within 6–12 months and the company is forced into a highly dilutive financing",
+      "Lack of large commercial contracts confirms that the technology cannot scale profitably",
+      "Going-concern warning leads to delisting or restructuring"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-07",
+      "event": "Quarterly earnings update; watch cash, backlog, and runway guidance",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Marine & Wave Energy",
+      "price_date": "2026-07-08"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Potential defense or offshore energy contract announcements",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Marine & Wave Energy",
+      "price_date": "2026-07-08"
+    },
+    {
+      "date": "FY2026 year-end",
+      "iso_date": "2026-10",
+      "event": "Auditor going-concern language and any capital-raise terms",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Marine & Wave Energy",
+      "price_date": "2026-07-08"
+    }
+  ],
+  "key_risks": [
+    "Going-concern risk: cash may not fund 12 months of operations at current burn rate",
+    "High potential dilution from future equity or convertible financings",
+    "Limited commercial scale and likely customer concentration",
+    "Dependence on defense, oil & gas, and research budgets subject to procurement delays",
+    "Technology and total-cost-of-ownership competition from diesel and solar-battery hybrids",
+    "Micro-cap illiquidity and volatility"
+  ]
+}

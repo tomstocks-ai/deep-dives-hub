@@ -920,6 +920,21 @@
       "price_date": "2026-04-15"
     },
     {
+      "ticker": "OPTT",
+      "company": "Ocean Power Technologies Inc.",
+      "sector": "Energy",
+      "industry": "Marine Renewable Energy / Wave Power",
+      "rating": "SPECULATIVE",
+      "price": 0.25,
+      "market_cap": "$64M",
+      "last_updated": "2026-07-08",
+      "deep_dive_url": "/deep-dives/OPTT/",
+      "api_url": "/api/OPTT.json",
+      "theme": "Energy",
+      "sub_theme": "Marine & Wave Energy",
+      "price_date": "2026-07-08"
+    },
+    {
       "ticker": "OSS",
       "company": "One Stop Systems, Inc.",
       "sector": "Technology",

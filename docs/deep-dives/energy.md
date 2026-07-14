@@ -91,6 +91,26 @@ Pure-play U.S. solar domestic manufacturer building fully integrated silicon sup
 ---
 
 
+## Marine & Wave Energy
+
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="AMEX:OPTT" hide-background></tv-ticker-tag> | Ocean Power Technologies Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-07-08 | [:material-file-document: Read](OPTT.md) |
+
+---
+
+### Marine & Wave Energy
+
+**OPTT — Ocean Power Technologies Inc. · <span class="rating-spec">SPECULATIVE</span>**
+
+Marine renewable energy company commercializing the PowerBuoy wave-energy platform and autonomous maritime power/data systems. FY2025 revenue was roughly \$6.0M with a ~28% gross margin, but the company is burning ~\$18.6M in operating cash and holds only ~\$9.9M cash, creating a going-concern warning. The bull case rests on a defense or offshore energy contract that validates the platform and extends runway; the bear case is a dilutive financing or capital shortfall.
+
+**Bull:** \$0.50–\$0.65 · **Base:** \$0.25–\$0.35 · **Bear:** \$0.08–\$0.15
+
+[:material-arrow-right: Full Deep Dive](OPTT.md)
+
+---
+
 ## Natural Gas & AI Power Demand
 
 | Ticker | Company | Rating | Last Updated | Full DD |
