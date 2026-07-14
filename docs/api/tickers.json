@@ -1300,13 +1300,13 @@
       "sector": "Industrials",
       "industry": "Machinery / Industrial Components",
       "rating": "HOLD",
-      "price": 138.5,
-      "market_cap": "$9.63B",
+      "price": 138.34,
+      "market_cap": "$9.61B",
       "last_updated": "2026-07-14",
       "deep_dive_url": "/deep-dives/TKR/",
       "api_url": "/api/TKR.json",
-      "theme": "Industrials",
-      "sub_theme": "Industrial Components / Bearings & Power Transmission",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
       "price_date": "2026-07-14"
     },
     {

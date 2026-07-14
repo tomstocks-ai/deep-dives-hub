@@ -60,7 +60,6 @@ THEME_PAGES = [
     ("defense", "Defense", "badge-defense"),
     ("biotech-health", "Biotech & Health", "badge-health"),
     ("quantum-computing", "Quantum", "badge-quantum"),
-    ("industrials", "Industrials", "badge-industrial"),
     ("evtol", "eVTOL", "badge-evtol"),
 ]
 

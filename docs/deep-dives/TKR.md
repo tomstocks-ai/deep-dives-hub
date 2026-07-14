@@ -43,7 +43,7 @@ hide:
 
 # TKR — The Timken Company
 
-The Timken Company is the world\u2019s leading manufacturer of bearings and mechanical power transmission products, serving critical industries including automotive, rail, aerospace, energy, and industrial machinery. Founded in 1899 and headquartered in North Canton, Ohio, Timken operates through two main segments: Mobile Industries (automotive, rail, aerospace) and Process Industries (industrial, energy, mining). The company has executed a multi-year transformation through operational excellence, strategic acquisitions, and geographic expansion — including a strong presence in India through Timken India Ltd. Revenue reached \$4.67B TTM with net income of \$308M and levered free cash flow of \$339M.
+The Timken Company is the world\u2019s leading manufacturer of bearings and mechanical power transmission products, serving critical industries including automotive, rail, aerospace, energy, and industrial machinery. Founded in 1899 and headquartered in North Canton, Ohio, Timken operates through two main segments: Mobile Industries (automotive, rail, aerospace) and Process Industries (industrial, energy, mining). The company has executed a multi-year transformation through operational excellence, strategic acquisitions, and geographic expansion — including a strong presence in India through Timken India Ltd. Revenue reached \$4.58B in FY2025 with net income of \$288M and free cash flow of \$406M.
 
 ## Company Overview
 
@@ -80,10 +80,10 @@ CEO Richard Kyle has led the company since 2014, executing a disciplined strateg
 | Metric | TTM | Context |
 |--------|-----|---------|
 | Revenue | \$4.67B | Stable industrial demand with modest growth |
-| Net Income | \$308M | Profit margin of 6.6% — improving but below industrial peers |
-| Diluted EPS | \$4.39 | Up from prior year driven by margin expansion |
+| Net Income | \$288M | GAAP net income for FY2025 (6.3% margin) |
+| Diluted EPS | \$4.11 | FY2025 GAAP; adjusted EPS $5.33 |
 | Gross Margin | ~30.5% | Improved through operational excellence and pricing |
-| Revenue Growth | ~3.2% | Modest, reflecting industrial cyclicality |
+| Revenue Growth | 0.2% | FY2025 reported sales growth |
 
 Timken\u2019s revenue growth has been modest but steady, reflecting the mature nature of its end markets. The key financial story is margin expansion — gross margins have improved from the mid-20s to ~30% through operational improvements, pricing discipline, and higher-margin aftermarket mix.
 
@@ -102,11 +102,11 @@ The balance sheet is in reasonable shape. Debt-to-equity of 65% is manageable fo
 
 | Metric | TTM | Context |
 |--------|-----|---------|
-| Levered Free Cash Flow | \$339M | Strong FCF generation relative to net income |
-| FCF/Net Income | ~110% | Cash conversion is solid |
+| Levered Free Cash Flow | \$406M | FY2025 free cash flow |
+| FCF/Net Income | ~141% | Strong cash conversion |
 | Capital Intensity | Moderate | Manufacturing requires ongoing capex but not excessive |
 
-Timken generates strong free cash flow — levered FCF of \$339M compares favorably to net income of \$308M. This indicates high-quality earnings and good working capital management. The company has returned cash to shareholders through dividends (current yield ~1.05%) and share repurchases.
+Timken generates strong free cash flow — levered FCF of \$406M compares favorably to net income of \$288M. This indicates high-quality earnings and good working capital management. The company has returned cash to shareholders through dividends (current yield ~1.05%) and share repurchases.
 
 ## Valuation
 
@@ -235,7 +235,7 @@ News flow has been positive, with focus on the analyst upgrades and infrastructu
 
 **What Timken actually does:** Imagine the wheels on a freight train, the gearbox in a wind turbine, or the landing gear on an airplane. All of these need bearings — the rings and rolling elements that let things spin smoothly with minimal friction. Timken makes these bearings, plus the related gearboxes, lubrication systems, and monitoring equipment that keep industrial machinery running. They are essentially the \u201cdoctor for moving parts\u201d across every major industry.
 
-**What the financials mean:** Timken generates \$4.67B in annual sales and keeps about 6.6 cents of every dollar as profit. That\u2019s not spectacular, but it\u2019s improving. The company turns almost all of its accounting profit into actual cash — \$339M in free cash flow vs. \$308M in net income. That cash funds dividends, debt paydown, and acquisitions. The 31.5x P/E means investors are paying \$31.50 for every \$1 of annual earnings — expensive for an industrial company that typically trades at 15\u201320x.
+**What the financials mean:** Timken generates \$4.58B in annual sales and keeps about 6.3 cents of every dollar as profit. That\u2019s not spectacular, but it\u2019s improving. The company turns almost all of its accounting profit into actual cash — \$406M in free cash flow vs. \$288M in net income. That cash funds dividends, debt paydown, and acquisitions. The 31.5x P/E means investors are paying \$31.50 for every \$1 of annual earnings — expensive for an industrial company that typically trades at 15\u201320x.
 
 **What the risk/reward looks like:** If everything goes right — aerospace recovers, wind turbines keep selling, and margins improve — the stock could reach \$160 (15% upside). If things go sideways, it probably stays around \$130\u2013\$140. If an industrial recession hits, it could fall to \$105\u2013\$115. At today\u2019s price, you\u2019re paying for the best case. Better to wait for a sale.
 

@@ -381,6 +381,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 
@@ -403,5 +404,15 @@ Legacy additive manufacturing pioneer executing a multi-year turnaround. Q1 2026
 **Bull:** \$6.50–\$8.00 · **Base:** \$4.00–\$5.00 · **Bear:** \$1.50–\$2.50
 
 [:material-arrow-right: Full Deep Dive](DDD.md)
+
+---
+
+**TKR — The Timken Company · <span class="rating-hold">HOLD</span>**
+
+Leading global manufacturer of engineered bearings and mechanical power transmission products serving automotive, industrial, aerospace, and energy end markets. FY2025 revenue of $4.58B and adjusted EPS of $5.33, with Q1 2026 showing 8% revenue growth and raised full-year guidance. Strong positioning in industrial automation, wind turbine bearings, and aerospace recovery. Stock has surged ~80% YoY and now trades at a trailing P/E above 31x, leaving limited near-term upside.
+
+**Bull:** \$155–\$165 · **Base:** \$130–\$140 · **Bear:** \$105–\$115
+
+[:material-arrow-right: Full Deep Dive](TKR.md)
 
 ---

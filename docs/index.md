@@ -6,7 +6,7 @@ title: Deep Dives Hub
 
 Welcome to the **Deep Dives Hub** — a collaborative, open-source repository of stock deep-dive research.
 
-91 tickers across 10 investment themes. Each ticker gets a concise summary on its thematic page and a full deep-dive page. All data is also available as structured JSON for AI agents and as an MCP server for Claude.
+91 tickers across 9 investment themes. Each ticker gets a concise summary on its thematic page and a full deep-dive page. All data is also available as structured JSON for AI agents and as an MCP server for Claude.
 
 --- 
 
