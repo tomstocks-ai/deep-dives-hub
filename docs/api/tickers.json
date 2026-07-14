@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-14",
-  "count": 92,
+  "count": 93,
   "tickers": [
     {
       "ticker": "000660",
@@ -843,6 +843,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Memory & Storage",
       "price_date": "2026-06-19"
+    },
+    {
+      "ticker": "NB",
+      "company": "NioCorp Developments Ltd.",
+      "sector": "Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "rating": "SPEC. BUY",
+      "price": 4.79,
+      "market_cap": "$350M",
+      "last_updated": "2026-07-14",
+      "deep_dive_url": "/deep-dives/NB/",
+      "api_url": "/api/NB.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Rare Earths / Specialty Metals",
+      "price_date": "2026-07-14"
     },
     {
       "ticker": "NBIS",
