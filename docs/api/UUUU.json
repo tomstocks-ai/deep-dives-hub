@@ -1,0 +1,105 @@
+{
+  "ticker": "UUUU",
+  "company": "Energy Fuels Inc.",
+  "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Enrichment / Fuel Cycle",
+  "industry": "Uranium Mining / Nuclear Fuel Cycle / Critical Minerals",
+  "exchange": "NYSEAMERICAN",
+  "price": 12.58,
+  "price_date": "2026-07-15",
+  "market_cap": "$4.1B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-15",
+  "thesis": "Energy Fuels is the leading U.S. uranium concentrate producer with the only conventional uranium mill in the country, a rising production profile from the high-grade Pinyon Plain mine, and a strong balance sheet with over $900M in cash and marketable securities. The planned ASM acquisition adds rare earth element optionality, while U.S. policy tailwinds and utility restocking support a constructive uranium demand outlook. The stock trades at a large discount to analyst targets, but commodity volatility and acquisition/dilution risk keep the rating speculative.",
+  "financials": {
+    "fiscal_year": "FY2025 / Q1 2026",
+    "revenue": "$36.0M (Q1 2026)",
+    "revenue_growth": "Uranium sales quarter dependent",
+    "gross_margin": "Mining/milling margin varies with realized price",
+    "net_income": "-$10.8M (Q1 2026)",
+    "eps_diluted": "-$0.04 (Q1 2026)",
+    "cash": "$108.4M",
+    "fcf": "+$8.3M operating cash flow (Q1 2026)"
+  },
+  "bull_case": {
+    "target": "$21–$24",
+    "drivers": [
+      "Uranium spot and long-term prices rise above $100/lb on Russian import ban and SMR demand",
+      "Pinyon Plain grades improve and 2026 mined production reaches the upper end of 2.0M–2.5M lb guidance",
+      "ASM acquisition closes on favorable terms, unlocking Dubbo REE and South Korea metallization/alloying assets",
+      "Utility restocking and U.S. critical minerals policy accelerate domestic uranium demand",
+      "Analysts rerate UUUU toward the high end of consensus $23–$26 targets"
+    ]
+  },
+  "base_case": {
+    "target": "$16–$18",
+    "assumptions": "Uranium prices remain constructive (spot $85–$95/lb, term $90–$100/lb). Energy Fuels executes 2026 production guidance, reduces unit costs, and monetizes inventory at gradually higher prices. ASM closes and contributes optionality through 2027. The stock re-rates to the lower-to-middle end of analyst targets as execution de-risks the story."
+  },
+  "bear_case": {
+    "target": "$9–$11",
+    "risks": [
+      "Uranium prices weaken below $75/lb on demand destruction or supply restarts",
+      "Pinyon Plain grades fail to improve, raising costs and forcing inventory write-downs",
+      "ASM acquisition requires more dilutive financing than expected or faces delays",
+      "Risk-off sentiment in small-cap mining and commodity sectors drives multiple compression",
+      "REE and medical isotope projects consume more capital than projected before generating cash flow"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 Earnings — production and sales update",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-09",
+      "event": "ASM Acquisition close and funding terms",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-10",
+      "event": "Donald Project JV construction decision",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2026",
+      "event": "Pinyon Plain grade improvement and White Mesa Mill production ramp",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "U.S. policy / Russian uranium import ban / utility contract restarts / SMR buildout",
+      "sector": "Energy",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
+    }
+  ],
+  "key_risks": [
+    "Commodity price volatility in uranium and rare earth elements",
+    "Potential dilution from ASM acquisition financing",
+    "Operational ramp execution at Pinyon Plain and White Mesa Mill",
+    "Permitting and regulatory delays for new mine development and mill expansion",
+    "Geopolitical and currency exposure from Australian projects (ASM and Donald JV)",
+    "Cash burn and capital intensity of REE and medical isotope initiatives",
+    "Small-cap mining stock beta and risk-off sentiment"
+  ]
+}

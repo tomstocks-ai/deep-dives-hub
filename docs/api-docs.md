@@ -166,7 +166,7 @@ DEEP_DIVES_REMOTE=1 deep-dives-mcp
 
 | Tool | Description |
 |------|-------------|
-| `list_tickers` | Filter all 94 tickers by theme, sector, and/or rating |
+| `list_tickers` | Filter all 95 tickers by theme, sector, and/or rating |
 | `get_deep_dive` | Full structured deep dive for one ticker |
 | `get_thesis` | Investment thesis only — token-efficient shortcut |
 | `compare_tickers` | Side-by-side targets + thesis snippets for a list |

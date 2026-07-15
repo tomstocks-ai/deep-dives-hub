@@ -12,7 +12,6 @@ title: Critical Minerals & Strategic Materials
 | <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
 
 | <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-21 | [:material-file-document: Read](CRML.md) |
-| <tv-ticker-tag symbol="AMEX:UUUU" hide-background></tv-ticker-tag> | Energy Fuels | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](UUUU.md) |
 | <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](FCX.md) |
 | <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources Limited | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](TECK.md) |
 | <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](COPX.md) |
@@ -47,15 +46,6 @@ Pre-revenue rare earth mining company developing Tanbreez Project in Greenland �
 
 ---
 
-**UUUU — Energy Fuels · <span class="rating-buy">BUY</span>**
-
-Leading U.S. critical minerals company with unique diversification: uranium (#1 U.S. producer), heavy mineral sands, and rare earth elements. White Mesa Mill is only fully licensed conventional uranium processing facility in U.S. 1.118M lbs U3O8 inventory worth ~\$73M. Zero debt, \$170.9M working capital. Toliara FID expected early 2026 — transformative catalyst. Only Western separated REE producer.
-
-**Bull:** \$40–50 · **Base:** \$22–28 · **Bear:** \$10–12
-
-[:material-arrow-right: Full Deep Dive](UUUU.md)
-
----
 
 ### Uranium & Nuclear Fuel
 
