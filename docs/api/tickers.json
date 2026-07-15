@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-14",
-  "count": 94,
+  "last_updated": "2026-07-15",
+  "count": 95,
   "tickers": [
     {
       "ticker": "000660",
@@ -1383,6 +1383,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Uranium & Nuclear Fuel",
       "price_date": "2026-06-07"
+    },
+    {
+      "ticker": "UUUU",
+      "company": "Energy Fuels Inc.",
+      "sector": "Energy",
+      "industry": "Uranium Mining / Nuclear Fuel Cycle / Critical Minerals",
+      "rating": "SPEC. BUY",
+      "price": 12.58,
+      "market_cap": "$4.1B",
+      "last_updated": "2026-07-15",
+      "deep_dive_url": "/deep-dives/UUUU/",
+      "api_url": "/api/UUUU.json",
+      "theme": "Energy",
+      "sub_theme": "Enrichment / Fuel Cycle",
+      "price_date": "2026-07-15"
     },
     {
       "ticker": "VYX",

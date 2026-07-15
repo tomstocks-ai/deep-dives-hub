@@ -75,6 +75,7 @@ RATING_CLASS = {
 # JSON "exchange" -> TradingView symbol prefix.
 EXCHANGE_TV = {
     "NYSE": "NYSE",
+    "NYSEAMERICAN": "NYSEAMERICAN",
     "AMEX": "AMEX",
     "NYSE Arca": "AMEX",
     "NASDAQ": "NASDAQ",
@@ -113,6 +114,7 @@ SUBTHEME_BADGE = {
     "Natural Gas & AI Power Demand": ("Grid & Power", "badge-grid"),
     "Reactor Developers": ("Nuclear", "badge-nuclear"),
     "Enrichment": ("Nuclear", "badge-nuclear"),
+    "Enrichment / Fuel Cycle": ("Nuclear", "badge-nuclear"),
     "Uranium & Nuclear Fuel": ("Minerals", "badge-minerals"),
     "Specialty Metals": ("Nuclear", "badge-nuclear"),
     "Specialty Metals (Silver)": ("Minerals", "badge-minerals"),

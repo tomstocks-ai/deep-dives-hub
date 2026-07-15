@@ -11,6 +11,7 @@
 | <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
 | <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
+| <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
 
 ---
 
@@ -48,7 +49,7 @@ Only U.S.-licensed HALEU producer supplying enriched uranium to nuclear utilitie
 
 ---
 
-### Enrichment
+### Enrichment / Fuel Cycle
 
 **ASPI — ASP Isotopes Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
@@ -57,6 +58,16 @@ Advanced materials company producing enriched isotopes for nuclear medicine, qua
 **Bull:** \$12–\$14 · **Base:** \$8–\$10 · **Bear:** \$3–\$4
 
 [:material-arrow-right: Full Deep Dive](ASPI.md)
+
+---
+
+**UUUU — Energy Fuels Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Leading U.S. uranium concentrate producer with the only conventional uranium mill in the country and a growing rare earth element / critical minerals platform. Q1 2026 revenue was \$36.0M with a narrowed net loss of \$10.8M; the company holds ~\$910M in cash and marketable securities plus 2.24M lb of finished and contained uranium inventory. The 2026 production ramp at Pinyon Plain and the planned ASM acquisition are the key catalysts. Stock trades at \$12.58, well below the analyst consensus target range of \$23–\$26.
+
+**Bull:** \$21–\$24 · **Base:** \$16–\$18 · **Bear:** \$9–\$11
+
+[:material-arrow-right: Full Deep Dive](UUUU.md)
 
 ---
 
