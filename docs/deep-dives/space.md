@@ -12,7 +12,7 @@
 | <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs PBC | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
 | <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-26 | [:material-file-document: Read](NN.md) |
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings, Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
-| <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-19 | [:material-file-document: Read](RKLB.md) |
+| <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](RKLB.md) |
 
 ---
 
@@ -88,9 +88,9 @@ Commercial spaceflight company developing suborbital tourism via air-launched Sp
 
 **RKLB — Rocket Lab USA, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Vertically integrated space company with the only reusable small-lift orbital vehicle (Electron) in commercial service and the medium-lift Neutron in development. Q1 2026 revenue \$200.3M (+63.5% YoY), backlog \$2.2B+ (up 108% YoY). \$2B+ total liquidity funds Neutron development without near-term dilution. Space Systems revenue of \$136.7M and Launch revenue of \$63.7M with 31 new Electron/HASTE contracts and 5 Neutron agreements signed. Key catalysts: Neutron first flight, SDA/DoD contracts, and potential Nasdaq-100 inclusion.
+Vertically integrated space company with the only reusable small-lift orbital vehicle (Electron) in commercial service and the medium-lift Neutron in development. Stock has pulled back to \$76.20 from a \$151.00 52-week high, partly due to broad space-sector selling after the Blue Origin test failure and SpaceX IPO focus. Q1 2026 revenue \$200.3M (+63.5% YoY), backlog \$2.2B+ (up 108% YoY), and \$2B+ total liquidity fund Neutron development without near-term dilution.
 
-**Bull:** \$140–160 · **Base:** \$95–115 · **Bear:** \$60–75
+**Bull:** \$130–150 · **Base:** \$95–110 · **Bear:** \$55–70
 
 [:material-arrow-right: Full Deep Dive](RKLB.md)
 

@@ -6,50 +6,62 @@
   "sub_theme": "Lunar / Deep Space",
   "industry": "Launch Vehicles / Space Systems",
   "exchange": "NASDAQ",
-  "price": 107.24,
-  "market_cap": "$5.2B",
+  "price": 76.2,
+  "price_date": "2026-07-16",
+  "market_cap": "~$47.6B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-19",
-  "thesis": "Rocket Lab is the most credible publicly traded challenger to SpaceX in the commercial launch market. Its vertical integration, proven launch cadence, and expanding space systems business create a durable competitive position. The Neutron vehicle is the key inflection point — if successful, it opens the medium-lift constellation deployment market and dramatically expands the addressable market. With $2B+ in liquidity and a $2.2B+ backlog, the company has the capital and demand visibility to execute its growth plan.",
+  "last_updated": "2026-07-16",
+  "thesis": "Rocket Lab is the most credible publicly traded challenger to SpaceX in the commercial launch market. The company is evolving from a small-launch provider into a vertically integrated end-to-end space platform through acquisitions (Motiv Space Systems, Mynaric AG) and the pending $8B acquisition of Iridium Communications. The Neutron medium-lift vehicle remains the key technical inflection point, with a successful full-duration AVac engine test completed in July 2026 and a first flight still targeted for late 2026. The Iridium deal adds a $872M-revenue, 57%-EBITDA-margin satellite services business, global L-band spectrum, and 2.5M subscribers, but it also brings $3.6B in bridge financing, integration risk, and likely equity dilution. At $76.20, the stock is down ~29% from the June update and ~50% from its May 2026 all-time high, improving the risk/reward for speculative investors who can tolerate execution and integration risk through mid-2027.",
   "financials": {
-    "fiscal_year": "Q1 2026",
-    "revenue": "$200.3M",
-    "revenue_growth": "+63.5% YoY",
+    "fiscal_year": "Q1 2026 / TTM",
+    "revenue": "$200.3M (Q1 2026)",
+    "revenue_growth": "+63.5% YoY; backlog $2.2B+",
     "gross_margin": "38.2% GAAP / 43.0% non-GAAP",
-    "net_income": "-$45.0M (narrowed)",
-    "eps_diluted": "N/A",
-    "cash": "$1.48B",
-    "fcf": "Negative (investment phase)"
+    "net_income": "-$45.0M (Q1 2026, narrowed)",
+    "eps_diluted": "-$0.31 (TTM)",
+    "cash": "~$1.48B (pre-Iridium financing)",
+    "fcf": "Negative (investment phase; Neutron + acquisitions)"
   },
   "bull_case": {
-    "target": "$140–160",
+    "target": "$130–150",
     "drivers": [
-      "Neutron first flight successful and on schedule; commercial bookings accelerate",
+      "Neutron first flight successful in late 2026 and commercial bookings accelerate",
+      "Iridium acquisition closes mid-2027 and delivers expected synergies ($872M revenue base, 57% EBITDA margin)",
       "SDA/DoD awards multiple Tranches to Rocket Lab, adding $200M+ in high-margin revenue",
       "Space Systems margins expand to 50%+ as satellite bus production scales",
-      "Nasdaq-100 inclusion drives passive inflows and multiple expansion",
-      "Company achieves positive EBITDA by late 2026 and FCF positive by 2027"
+      "Company achieves EBITDA breakeven by late 2026/early 2027 and positive FCF by 2027"
     ]
   },
   "base_case": {
-    "target": "$95–115",
-    "assumptions": "Neutron first flight occurs in late 2026 with minor delays; commercial ramp begins H1 2027. Steady government contract wins sustain $250M+ annual launch revenue. Space Systems grows 40%+ YoY with modest margin expansion. Company reaches EBITDA breakeven by mid-2027. Stock trades at 8–10x forward sales, reflecting solid execution but no multiple expansion."
+    "target": "$95–110",
+    "assumptions": "Neutron first flight occurs in late 2026 with minor delays; commercial ramp begins H1 2027. Iridium deal closes with manageable integration costs and modest equity dilution. Steady government contract wins sustain $250M+ annual launch revenue. Space Systems grows 40%+ YoY with modest margin expansion. Company reaches EBITDA breakeven by mid-2027. Stock trades at 8–10x forward sales, reflecting solid execution but no multiple expansion."
   },
   "bear_case": {
-    "target": "$60–75",
+    "target": "$55–70",
     "risks": [
       "Neutron first flight delayed into 2027 or experiences anomaly",
+      "Iridium acquisition faces regulatory hurdles, integration costs exceed plan, or equity dilution is larger than expected",
+      "$3.6B bridge loan and additional debt/equity financing strain the balance sheet",
       "Government contract awards disappoint; competition from SpaceX and emerging launch providers intensifies",
       "Space Systems growth decelerates due to customer concentration or supply chain issues",
-      "Cash burn exceeds expectations, forcing dilutive capital raise",
       "Macro risk-off environment compresses growth stock multiples"
     ]
   },
   "catalysts": [
     {
-      "date": "H2 2026",
-      "event": "Neutron first flight — binary event validating medium-lift strategy",
-      "iso_date": "2026-07"
+      "date": "Late 2026",
+      "event": "Neutron first flight — binary event validating medium-lift strategy; AVac full-duration test completed July 2026",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "Mid-2027",
+      "event": "Expected close of $8B Iridium acquisition — transformative for revenue scale and spectrum assets",
+      "iso_date": "2027-06"
+    },
+    {
+      "date": "Q2 2026",
+      "event": "Q2 2026 earnings (August 2026) — backlog conversion and margin progress post-Iridium announcement",
+      "iso_date": "2026-08"
     },
     {
       "date": "2026",
@@ -57,27 +69,23 @@
       "iso_date": "2026"
     },
     {
-      "date": "2026",
-      "event": "Nasdaq-100 inclusion — passive inflows and institutional ownership increase",
+      "date": "2026–2029",
+      "event": "Multi-launch contract execution — 5 Neutron + 3 Electron launches for confidential customer",
       "iso_date": "2026"
     },
     {
       "date": "Ongoing",
-      "event": "Electron cadence increase — higher launch frequency improves unit economics",
+      "event": "Electron cadence increase and Archimedes engine test campaign — higher launch frequency improves unit economics",
       "iso_date": null
-    },
-    {
-      "date": "2026–2027",
-      "event": "Space Systems margin expansion — satellite bus production scaling",
-      "iso_date": "2026"
     }
   ],
   "key_risks": [
-    "Neutron development risk — medium-lift rocket development is technically complex and capital intensive",
+    "Neutron development risk — medium-lift rocket development is technically complex and capital intensive; delays or anomaly would hurt sentiment",
+    "Iridium acquisition execution — $8B deal, $3.6B bridge loan, integration complexity, and potential equity dilution",
     "Government dependency — significant revenue from DoD/SDA; budget cuts or contract delays would hurt",
-    "Competition — SpaceX dominates launch; other startups (Relativity, ABL) emerging",
-    "Execution risk — scaling manufacturing for both launch and space systems is operationally complex",
-    "Macro / valuation risk — high-growth stock vulnerable to rate shocks and risk-off sentiment"
-  ],
-  "price_date": "2026-06-19"
+    "Competition — SpaceX dominates launch; other startups (Relativity, ABL) emerging; Starlink is a powerful satellite services rival",
+    "Balance sheet / financing risk — acquisition funding may require additional debt or equity, diluting shareholders",
+    "Execution risk — scaling manufacturing for launch, space systems, and Iridium integration simultaneously is operationally complex",
+    "Macro / valuation risk — high-growth stock vulnerable to rate shocks and risk-off sentiment; stock is down ~50% from May 2026 highs"
+  ]
 }

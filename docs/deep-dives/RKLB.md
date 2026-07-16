@@ -41,36 +41,54 @@ hide:
   </script>
 </div>
 
+# RKLB — Rocket Lab USA, Inc.
+
+**Investment-Grade Research Report** | July 16, 2026
+
+---
+
+## Executive Summary
+
+Rocket Lab USA (NASDAQ: RKLB) is a vertically integrated space company that operates the only reusable small-lift orbital launch vehicle (Electron) in commercial service and is developing the medium-lift Neutron rocket. The company is in the middle of a strategic transformation: on June 29, 2026, it announced an agreement to acquire **Iridium Communications** for approximately **\$8 billion** in a cash-and-stock deal. The transaction would combine Rocket Lab's launch and satellite manufacturing capabilities with Iridium's global L-band satellite network, licensed spectrum, and 2.5 million subscribers. The stock has fallen sharply from its May 2026 all-time high of **\$151.00** to **\$76.20** as of July 15, 2026, a decline of roughly **50%**. The pullback reflects both broad space-sector de-rating and concerns about the Iridium deal's financing and integration risk. At current levels, the risk/reward has improved for speculative investors, but the Iridium acquisition adds a new layer of complexity.
+
+---
+
 ## 1. COMPANY OVERVIEW
 
-**Rocket Lab USA, Inc.** (NASDAQ: RKLB) is a vertically integrated space company providing end-to-end launch services and space systems. Founded in 2006 by CEO Peter Beck and headquartered in Long Beach, California, Rocket Lab operates the only reusable small-lift orbital launch vehicle (Electron) in commercial service and is developing the medium-lift Neutron rocket to capture the growing satellite constellation market.
+### What Rocket Lab Does
 
-### Business Model & Revenue Segments
+Rocket Lab is a vertically integrated space infrastructure company. Its business spans two primary segments:
 
-Rocket Lab generates revenue from two primary segments:
+| Segment | Description | Key Products / Revenue Drivers |
+|---------|-------------|------------------------------|
+| **Launch Services** | Orbital launch and hypersonic test flights | Electron rocket, HASTE hypersonic testbed, Neutron rocket (in development) |
+| **Space Systems** | Satellite components, spacecraft manufacturing, and on-orbit services | Solar arrays, reaction wheels, flight software, satellite buses, optical terminals |
 
-| Segment | Description | Revenue Driver |
-|---------|-------------|----------------|
-| **Space Systems** | Satellite components, spacecraft manufacturing, and on-orbit services | Largest segment; solar arrays, reaction wheels, flight software, and full satellite buses |
-| **Launch Services** | Electron orbital launches and HASTE hypersonic testbed flights | High-margin recurring revenue; expanding to Neutron |
+The company is the second most-frequently launched U.S. rocket provider after SpaceX. It manufactures most critical components in-house, giving it faster iteration cycles, lower costs, and higher margins than competitors reliant on external suppliers.
 
-**Key customers** include the U.S. Department of Defense, NASA, commercial constellation operators, and allied government agencies. The company is the second most-frequently launched U.S. rocket provider after SpaceX.
+### Recent Strategic Moves
 
-### Competitive Moat
+Rocket Lab has been actively building an end-to-end space platform through acquisitions:
 
-Rocket Lab's moat rests on **vertical integration** — it manufactures most critical components in-house, from carbon composite structures to avionics and reaction wheels. This integration yields faster iteration cycles, lower costs, and higher margins than competitors reliant on external suppliers. The Electron rocket's reusability (via helicopter catch and ocean recovery) further drives cost efficiency. The upcoming Neutron vehicle targets the medium-lift market with a reusable first stage, positioning Rocket Lab as the primary commercial alternative to SpaceX for constellation deployment and national security missions.
+- **Mynaric AG (closed early 2026):** Laser optical communication terminals for satellite constellations.
+- **Motiv Space Systems (announced 2026):** In-space robotics and motion control systems.
+- **Iridium Communications (agreed June 29, 2026; expected close mid-2027):** \$8 billion cash-and-stock acquisition of a satellite communications operator with \$872 million in 2025 revenue and 57% operational EBITDA margin.
+
+The Iridium deal is by far the largest and most consequential. It gives Rocket Lab:
+- A **global L-band satellite network** with 66 low-Earth-orbit satellites.
+- **Licensed spectrum** that penetrates clouds, foliage, and severe weather.
+- **2.5 million paid subscribers** across government, defense, aviation, maritime, and commercial markets.
+- An estimated **\$872 million annual revenue base** and **57% EBITDA margin**.
 
 ### Management
 
-CEO **Peter Beck** is a hands-on founder-engineer with deep technical credibility in the aerospace industry. The leadership team combines seasoned aerospace executives with strong government contracting experience. Insider ownership remains meaningful, aligning management with long-term shareholder value creation.
+CEO **Peter Beck** is a hands-on founder-engineer with deep technical credibility in aerospace. The leadership team has strong government contracting experience. Insider ownership remains meaningful.
 
 ---
 
 ## 2. FINANCIAL ANALYSIS
 
 ### Income Statement
-
-Rocket Lab's growth is accelerating as the space economy expands and backlog converts to revenue.
 
 | Metric | Q1 2026 | YoY Change |
 |--------|---------|------------|
@@ -79,25 +97,27 @@ Rocket Lab's growth is accelerating as the space economy expands and backlog con
 | **Launch Revenue** | \$63.7M | Growing with flight cadence |
 | **GAAP Gross Margin** | 38.2% | Expanding with scale |
 | **Non-GAAP Gross Margin** | 43.0% | +~300 bps YoY |
-| **Net Loss** | \$45.0M | Narrowed significantly |
-| **Adjusted EBITDA Loss** | \$11.8M | Path to breakeven visible |
+| **Net Loss** | -\$45.0M | Narrowed significantly |
+| **Adjusted EBITDA Loss** | -\$11.8M | Path to breakeven visible |
+| **TTM EPS** | -\$0.31 | Per Yahoo Finance as of July 2026 |
 
-**Quality of earnings:** Revenue growth is driven by genuine demand — backlog exceeded \$2.2B (up 108% YoY, 20.2% QoQ). Gross margin expansion reflects vertical integration benefits and higher launch cadence. Net loss is narrowing as operating leverage kicks in; the company expects to achieve positive EBITDA in the near term as Neutron development costs peak and then decline.
+**What this means:** Rocket Lab's core business is scaling well. Revenue growth is driven by genuine demand — backlog exceeded **\$2.2 billion** (up 108% YoY). Gross margin expansion reflects vertical integration benefits and higher launch cadence. Net loss is narrowing as operating leverage kicks in.
 
 ### Balance Sheet
 
-| Metric | Approximate Value |
-|--------|-----------------|
-| **Cash & Equivalents** | ~\$1.48B |
-| **Total Liquidity** | \$2B+ |
-| **Debt** | Minimal |
-| **Market Cap** | ~\$5.2B |
+| Metric | Approximate Value | Notes |
+|--------|-----------------|-------|
+| **Cash \& Equivalents** | ~\$1.48B | Pre-Iridium acquisition financing |
+| **Total Liquidity** | \$2B+ | Includes undrawn credit facilities |
+| **Debt** | Minimal currently | \$3.6B bridge loan committed for Iridium deal |
+| **Market Cap** | ~\$47.6B | As of July 15, 2026 |
+| **YTD Return** | ~9.2% | Underperforming S\&P 500's ~10.6% |
 
-The balance sheet is well-capitalized. The \$1.48B cash position provides substantial runway to fund Neutron development and space systems expansion without near-term dilution. Total liquidity exceeding \$2B includes undrawn credit facilities. Minimal debt eliminates refinancing risk in a rising-rate environment.
+**The Iridium financing:** Rocket Lab has secured a **\$3.6 billion bridge loan** from Deutsche Bank and Wells Fargo. The company also plans to use cash on hand and additional debt and equity financing. The deal is expected to close in **mid-2027**. This financing significantly changes the balance sheet and will likely result in equity dilution.
 
 ### Cash Flow
 
-Operating cash flow is improving as the company scales. Capital intensity is elevated due to Neutron development (launch pad construction, engine testing, and vehicle integration), but these are largely one-time investments with long payback periods. Free cash flow is expected to turn positive as Neutron enters commercial service and launch cadence increases.
+Operating cash flow is improving as the company scales. Capital intensity is elevated due to Neutron development (launch pad construction, engine testing, and vehicle integration) and the pending acquisition. Free cash flow is expected to turn positive as Neutron enters commercial service and the Iridium business is integrated.
 
 ---
 
@@ -107,68 +127,80 @@ Operating cash flow is improving as the company scales. Capital intensity is ele
 
 | Metric | Value |
 |--------|-------|
-| **Current Price** | \$107.24 |
-| **52-Week Range** | \$27.84 – \$151.00 |
-| **RSI(14)** | 47.3 |
-| **Market Cap** | ~\$5.2B |
+| **Current Price** | \$76.20 |
+| **52-Week Range** | \$37.57 – \$151.00 |
+| **RSI(14)** | ~47.3 (from June update) |
+| **Market Cap** | ~\$47.6B |
 | **P/S (TTM)** | ~6.5x |
-| **Analyst Consensus** | Buy, avg target ~\$97–103 |
+| **Analyst Consensus** | Buy, average target \$116.57 |
 
 ### Valuation Framework
 
 Rocket Lab trades at a premium to traditional aerospace and defense contractors, reflecting its growth profile and scarcity value as the only publicly traded, vertically integrated small-lift launch provider. The valuation is heavily dependent on:
 
-1. **Neutron execution** — successful first flight and commercial ramp
-2. **Space Systems scaling** — margin expansion as satellite bus production scales
-3. **Government contract wins** — SDA, DoD, and allied nation security missions
+1. **Neutron execution** — successful first flight and commercial ramp.
+2. **Iridium acquisition** — closing, integration, and synergy realization.
+3. **Space Systems scaling** — margin expansion as satellite bus production scales.
+4. **Government contract wins** — SDA, DoD, and allied nation security missions.
 
-The stock is not cheap on near-term metrics, but the \$2.2B+ backlog and expanding TAM justify a growth premium. The RSI at 47.3 suggests the stock is neither overbought nor oversold, sitting near the middle of its 52-week range after a significant run-up from lows.
+The stock has de-rated sharply from its May highs. The current price is more reasonable but still prices in significant execution success.
+
+### Valuation Scenarios
+
+| Scenario | Implied Price | Upside/Downside |
+|----------|---------------|-----------------|
+| **Bear** | \$55–70 | Downside if Neutron delays, Iridium integration stumbles, or financing is more dilutive than expected |
+| **Base** | \$95–110 | Neutron flies late 2026, Iridium closes mid-2027, Rocket Lab reaches EBITDA breakeven by mid-2027 |
+| **Bull** | \$130–150 | Neutron success, Iridium synergies, SDA/DoD wins, and positive FCF by 2027 |
 
 ---
 
-## 4. THESIS & CATALYSTS
+## 4. THESIS \& CATALYSTS
 
 ### Investment Thesis
 
-Rocket Lab is the most credible publicly traded challenger to SpaceX in the commercial launch market. Its vertical integration, proven launch cadence, and expanding space systems business create a durable competitive position. The Neutron vehicle is the key inflection point — if successful, it opens the medium-lift constellation deployment market and dramatically expands the addressable market. With \$2B+ in liquidity and a \$2.2B+ backlog, the company has the capital and demand visibility to execute its growth plan.
+Rocket Lab is evolving from a small-launch provider into a vertically integrated end-to-end space company. The Iridium acquisition, if executed well, transforms the company from a launch and space systems vendor into a satellite services operator with recurring revenue, spectrum assets, and a global subscriber base. The Neutron vehicle is the critical technical milestone: if successful, it opens the medium-lift constellation deployment market and makes Rocket Lab the only credible public challenger to SpaceX across multiple space verticals.
 
 ### Key Catalysts
 
 | Timeline | Catalyst | Impact |
 |----------|----------|--------|
-| **H2 2026** | Neutron first flight | Binary event — success validates medium-lift strategy and opens constellation market |
-| **2026** | SDA/DoD contract awards | Government revenue is high-margin and sticky; Tranche awards could add \$100M+ annually |
-| **2026** | Nasdaq-100 inclusion | Passive inflows if added; increases institutional ownership and liquidity |
-| **Ongoing** | Electron cadence increase | Higher launch frequency improves unit economics and cash flow |
-| **2026–2027** | Space Systems margin expansion | Satellite bus production scaling and component sales to third parties |
+| **July 2026** | Full-duration AVac engine test completed | Key technical milestone toward Neutron first flight |
+| **Late 2026** | Neutron first flight | Binary event — success validates medium-lift strategy |
+| **Mid-2027** | Iridium acquisition close | Transforms revenue scale and spectrum assets |
+| **August 2026** | Q2 2026 earnings | Backlog conversion and margin progress post-deal announcement |
+| **2026** | SDA/DoD contract awards | Government revenue is high-margin and sticky |
+| **2026–2029** | Multi-launch contract execution | 5 Neutron + 3 Electron launches for confidential customer |
+| **Ongoing** | Electron cadence increase | Higher launch frequency improves unit economics |
 
 ---
 
 ## 5. BULL / BASE / BEAR SCENARIOS
 
-### Bull Case (\$140–160)
+### Bull Case (\$130–150)
 
-- Neutron first flight is successful and on schedule; commercial bookings accelerate
-- SDA/DoD awards multiple Tranches to Rocket Lab, adding \$200M+ in high-margin revenue
-- Space Systems margins expand to 50%+ as satellite bus production scales
-- Nasdaq-100 inclusion drives passive inflows and multiple expansion
-- Company achieves positive EBITDA by late 2026 and FCF positive by 2027
+- Neutron first flight is successful and on schedule; commercial bookings accelerate.
+- Iridium acquisition closes mid-2027 and delivers expected synergies.
+- SDA/DoD awards multiple Tranches to Rocket Lab, adding \$200M+ in high-margin revenue.
+- Space Systems margins expand to 50%+ as satellite bus production scales.
+- Company achieves positive EBITDA by late 2026/early 2027 and FCF positive by 2027.
 
-### Base Case (\$95–115)
+### Base Case (\$95–110)
 
-- Neutron first flight occurs in late 2026 with minor delays; commercial ramp begins H1 2027
-- Steady government contract wins sustain \$250M+ annual launch revenue
-- Space Systems grows 40%+ YoY with modest margin expansion
-- Company reaches EBITDA breakeven by mid-2027
-- Stock trades at 8–10x forward sales, reflecting solid execution but no multiple expansion
+- Neutron first flight occurs in late 2026 with minor delays; commercial ramp begins H1 2027.
+- Iridium deal closes with manageable integration costs and modest equity dilution.
+- Steady government contract wins sustain \$250M+ annual launch revenue.
+- Space Systems grows 40%+ YoY with modest margin expansion.
+- Company reaches EBITDA breakeven by mid-2027.
 
-### Bear Case (\$60–75)
+### Bear Case (\$55–70)
 
-- Neutron first flight delayed into 2027 or experiences anomaly
-- Government contract awards disappoint; competition from SpaceX and emerging launch providers intensifies
-- Space Systems growth decelerates due to customer concentration or supply chain issues
-- Cash burn exceeds expectations, forcing dilutive capital raise
-- Macro risk-off environment compresses growth stock multiples
+- Neutron first flight is delayed into 2027 or experiences an anomaly.
+- Iridium acquisition faces regulatory hurdles, integration costs exceed plan, or equity dilution is larger than expected.
+- \$3.6B bridge loan and additional financing strain the balance sheet.
+- Government contract awards disappoint; competition intensifies.
+- Space Systems growth decelerates due to customer concentration or supply chain issues.
+- Macro risk-off environment compresses growth stock multiples.
 
 ---
 
@@ -176,27 +208,29 @@ Rocket Lab is the most credible publicly traded challenger to SpaceX in the comm
 
 | Risk | Description | Mitigation |
 |------|-------------|------------|
-| **Neutron Development Risk** | Medium-lift rocket development is technically complex and capital intensive | Strong balance sheet (\$2B+ liquidity); proven team with Electron experience |
+| **Neutron Development Risk** | Medium-lift rocket development is technically complex and capital intensive | Strong engineering team; AVac full-duration test completed July 2026 |
+| **Iridium Acquisition Risk** | \$8B deal, \$3.6B bridge loan, integration complexity, and potential dilution | Strategic rationale is strong; Iridium has recurring revenue and 57% EBITDA margin |
 | **Government Dependency** | Significant revenue from DoD/SDA; budget cuts or contract delays would hurt | Diversified customer base; allied nation contracts expanding |
-| **Competition** | SpaceX dominates launch; other startups (Relativity, ABL) emerging | Vertical integration and proven flight heritage provide moat |
-| **Execution Risk** | Scaling manufacturing for both launch and space systems is operationally complex | Long Beach production facility operational; backlog provides visibility |
-| **Macro / Valuation** | High-growth stock vulnerable to rate shocks and risk-off sentiment | \$2B+ liquidity provides defensive cushion; path to profitability visible |
+| **Competition** | SpaceX dominates launch and satellite services; other startups emerging | Vertical integration and proven flight heritage provide moat |
+| **Execution Risk** | Scaling manufacturing for launch, space systems, and Iridium integration simultaneously | Long Beach production facility operational; backlog provides visibility |
+| **Financing / Dilution Risk** | Deal may require additional debt or equity, diluting shareholders | Strong core business growth and strategic value of Iridium |
+| **Macro / Valuation** | High-growth stock vulnerable to rate shocks and risk-off sentiment | Stock is already down ~50% from highs, improving risk/reward |
 
 ---
 
-## 7. POSITION SIZING & ENTRY
+## 7. POSITION SIZING \& ENTRY
 
 ### Recommendation: **SPECULATIVE BUY**
 
 | Strategy | Details |
 |----------|---------|
 | **Position Size** | 2–3% of portfolio (speculative/growth sleeve) |
-| **Entry Zone** | \$95–110 (current levels attractive) |
-| **Stop Loss** | \$75 (bear case support, -30% from entry) |
-| **Time Horizon** | 12–18 months (Neutron flight + contract catalysts) |
-| **Target** | \$140–160 (bull case), \$95–115 (base case) |
+| **Entry Zone** | \$70–85 (current levels attractive) |
+| **Stop Loss** | \$55 (bear case support, ~28% from entry) |
+| **Time Horizon** | 12–18 months (Neutron flight + Iridium close) |
+| **Target** | \$130–150 (bull case), \$95–110 (base case) |
 
-**Rationale:** Rocket Lab offers asymmetric upside with a clear path to profitability and multiple near-term catalysts. The \$2B+ liquidity position reduces bankruptcy risk, while the \$2.2B+ backlog provides revenue visibility. The stock is appropriate for investors with a high risk tolerance and a 12–18 month horizon. Avoid if you cannot tolerate 30–40% drawdowns on development delays.
+**Rationale:** Rocket Lab offers asymmetric upside with a clear strategic path, but the Iridium deal adds significant financing and integration risk. The core launch and space systems business is performing well, Neutron is progressing, and the stock has de-rated sharply. The position is appropriate for investors with a high risk tolerance and a 12–18 month horizon. Avoid if you cannot tolerate 30–40% drawdowns on development or M\&A setbacks.
 
 ---
 
@@ -207,6 +241,8 @@ Rocket Lab is the most credible publicly traded challenger to SpaceX in the comm
 | **Electron** | Rocket Lab's small-lift reusable rocket (can carry ~300 kg to orbit) |
 | **Neutron** | Rocket Lab's upcoming medium-lift rocket (can carry ~13,000 kg to orbit) |
 | **HASTE** | Hypersonic Accelerator Suborbital Test Electron — a modified Electron used for hypersonic vehicle testing |
+| **AVac** | Archimedes Vacuum engine, the second-stage engine for Neutron |
+| **L-band spectrum** | A set of radio frequencies that penetrate weather and foliage well; used by Iridium for satellite communications |
 | **SDA** | Space Development Agency, a U.S. DoD organization building satellite constellations for missile tracking |
 | **Satellite bus** | The core structure of a satellite — power, propulsion, communications — that payloads plug into |
 | **Vertical integration** | Making most components in-house rather than buying from suppliers |
@@ -219,11 +255,15 @@ Rocket Lab is the most credible publicly traded challenger to SpaceX in the comm
 ## 9. SOURCES CONSULTED
 
 - Rocket Lab Q1 2026 Earnings Release and Investor Presentation
-- Rocket Lab 10-K and 10-Q SEC Filings
+- Rocket Lab / Iridium acquisition announcement (June 29, 2026)
+- Rocket Lab press release: Archimedes Vacuum engine full-duration test (July 2026)
+- Yahoo Finance RKLB quote and analyst targets (July 15, 2026)
+- Google Finance RKLB quote (July 16, 2026)
+- CNBC: "Rocket Lab to Acquire Iridium in Historic Deal" (June 29, 2026)
+- The Motley Fool: "What Does Rocket Lab's \$8 Billion Iridium Acquisition Signal?" (July 13, 2026)
 - TradingView Technical Analysis (NASDAQ:RKLB)
-- Analyst reports from Canaccord Genuity, Deutsche Bank, and Morgan Stanley
+- Analyst reports from Needham, Piper Sandler, and consensus estimates
 - SDA / DoD contract announcements and budget documents (FY2026)
-- Company investor relations materials and press releases
 - Industry reports from BryceTech and Euroconsult on launch market trends
 
 ---
