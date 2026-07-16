@@ -6,12 +6,12 @@
   "sub_theme": "Satellite Connectivity",
   "industry": "Satellite-to-Cell Connectivity",
   "exchange": "NASDAQ",
-  "price": 71.45,
-  "price_date": "2026-06-29",
-  "market_cap": "~$16B",
+  "price": 66.31,
+  "price_date": "2026-07-16",
+  "market_cap": "~$25B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-29",
-  "thesis": "AST SpaceMobile is pioneering the world's first space-based cellular broadband network, enabling standard smartphones to connect directly to satellites without specialized hardware. With Q1 2026 revenue of $14.7M, FY2026 guidance of $150M–$200M, a contracted backlog exceeding $1.2B, and partnerships with AT&T, Verizon, and 50+ global carriers covering ~3 billion potential subscribers, the company is at a critical inflection point. The stock has pulled back from $133.86 to ~$71.45, improving risk/reward for speculative investors with a 3–5 year horizon, though Q1 EPS miss and BlueBird 7 write-off raise near-term execution concerns.",
+  "last_updated": "2026-07-16",
+  "thesis": "AST SpaceMobile is pioneering the first space-based cellular broadband network accessible by standard smartphones. The company priced $1B of 1.625% convertible senior notes due 2034 at a 20% premium ($79.57 conversion price) with capped calls up to $149.20, adding ~$984M (up to $1.13B with shoe) to a June 30 cash balance of ~$2.72B. The launch campaign has slipped to ~45 BlueBird satellites in early 2027 (from late 2026), and use-of-proceeds language signals potential investment or acquisition of a launch provider. The stock has sold off from $133.86 highs to ~$66.31, improving risk/reward for speculative investors, though execution and competitive risks from SpaceX remain acute.",
   "financials": {
     "fiscal_year": "FY2026 (Q1)",
     "revenue": "$14.7M (Q1 2026)",
@@ -19,51 +19,51 @@
     "gross_margin": "~52%",
     "net_income": "-$191M (Q1 2026)",
     "eps_diluted": "-$0.66 (Q1 2026)",
-    "cash": "$3.5B",
+    "cash": "~$2.72B pre-raise; ~$3.7B pro forma",
     "fcf": "-$191M (Q1 2026)"
   },
   "bull_case": {
-    "target": "$120–$140",
+    "target": "$110–$130",
     "drivers": [
-      "Successful deployment of 45 BlueBird satellites by end of 2026 enabling continuous U.S. coverage",
-      "AT&T and Verizon commercial service launches in H2 2026 drive subscriber adoption above 5% of rural customers",
+      "Successful deployment of ~45 BlueBird satellites by early 2027 enables continuous U.S. coverage",
+      "AT&T and Verizon commercial service launches in H2 2026–H1 2027 drive subscriber adoption above 5% of rural customers",
       "International partnerships (Vodafone, Rakuten, stc) generate material revenue by 2027",
       "Government contracts scale to $200M+ annually with 20–30% margins",
       "Revenue grows from $150M–$200M (FY2026) to $2–$3B by 2028 with gross margins expanding to 60%+"
     ]
   },
   "base_case": {
-    "target": "$85–$95",
-    "assumptions": "ASTS deploys 45 satellites and achieves continuous coverage by late 2026. Commercial service launches with mixed adoption—grows steadily but not explosively. SpaceX competition is real but ASTS maintains 30–40% market share through carrier partnerships. Revenue grows to $400–$600M by 2027 and $1.5B by 2029. Company reaches EBITDA breakeven by 2028–2029. Stock trades based on execution with multiple compressing to 50–80x sales as growth matures."
+    "target": "$75–$90",
+    "assumptions": "ASTS deploys ~45 satellites by early 2027 and achieves continuous coverage. Commercial service launches with mixed adoption—grows steadily but not explosively. SpaceX competition is real but ASTS maintains 30–40% market share through carrier partnerships. Revenue grows to $400–$600M by 2027 and $1.5B by 2029. Company reaches EBITDA breakeven by 2028–2029. Stock trades based on execution with multiple compressing to 50–80x sales as growth matures."
   },
   "bear_case": {
     "target": "$40–$50",
     "risks": [
       "SpaceX Starlink with T-Mobile proves 'good enough' for most users, capturing 70%+ market share",
       "AT&T or Verizon switch allegiance to SpaceX or develop in-house solutions",
-      "Satellite launches face delays or technical issues; constellation incomplete by 2027",
+      "Satellite launches face further delays or technical issues; constellation incomplete by 2027",
       "Revenue growth stalls below $150M in FY2026; cash burn forces highly dilutive financing",
       "Market loses patience with 'story stocks'; multiple compression to 30x sales or lower"
     ]
   },
   "catalysts": [
     {
-      "date": "Monthly through 2026",
-      "iso_date": "2026",
-      "event": "BlueBird satellite launches targeting 45 in orbit",
+      "date": "Early 2027",
+      "iso_date": "2027-01",
+      "event": "Launch campaign targeting ~45 BlueBird satellites (slipped from late 2026)",
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
-      "date": "August 2026",
-      "iso_date": "2026-08",
-      "event": "Q2 2026 earnings — revenue acceleration vs. Q1 is critical",
+      "date": "August 17, 2026",
+      "iso_date": "2026-08-17",
+      "event": "Q2 2026 earnings — revenue acceleration vs. Q1 and updated launch timeline are critical",
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
       "date": "H2 2026",
@@ -72,7 +72,7 @@
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
       "date": "Q3 2026",
@@ -81,16 +81,16 @@
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
-      "date": "Q4 2026",
-      "iso_date": "2026-10",
-      "event": "Constellation completion milestone — 45 satellites in orbit",
+      "date": "July 2026",
+      "iso_date": "2026-07-16",
+      "event": "$1B convertible notes priced; 1.625% coupon, $79.57 conversion price, capped calls up to $149.20",
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
       "date": "Ongoing",
@@ -99,7 +99,16 @@
       "sector": "Space",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Potential acquisition or partnership with a launch provider (ULA, Firefly, Relativity, Stoke)",
+      "sector": "Space",
+      "theme": "Space Economy",
+      "sub_theme": "Satellite Connectivity",
+      "price_date": "2026-07-16"
     }
   ],
   "key_risks": [
@@ -108,7 +117,9 @@
     "Q1 2026 EPS miss (-$0.66 vs. -$0.21 est.) shows larger-than-expected losses",
     "Heavy customer concentration with AT&T and Verizon; loss of either partner would collapse revenue",
     "Need for 5–7x revenue growth to reach profitability; FY2026 guidance of $150M–$200M is still far from breakeven",
-    "Convertible note overhang creates potential future dilution of 15–30%",
+    "$1B convertible note overhang creates potential future dilution, though capped calls and 20% premium limit economic dilution unless stock is above $80",
+    "Launch campaign delay to early 2027 pushes back commercialization timeline and may strain carrier confidence",
+    "Use-of-proceeds hints at acquisition/investment in a launch provider; integration risk and capital allocation uncertainty",
     "High cash burn rate (~$150M+ per quarter normalized) requires disciplined execution"
   ]
 }

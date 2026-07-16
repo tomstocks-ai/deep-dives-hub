@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "count": 95,
   "tickers": [
     {
@@ -130,14 +130,14 @@
       "sector": "Space",
       "industry": "Satellite-to-Cell Connectivity",
       "rating": "SPEC. BUY",
-      "price": 71.45,
-      "market_cap": "~$16B",
-      "last_updated": "2026-06-29",
+      "price": 66.31,
+      "market_cap": "~$25B",
+      "last_updated": "2026-07-16",
       "deep_dive_url": "/deep-dives/ASTS/",
       "api_url": "/api/ASTS.json",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-06-29"
+      "price_date": "2026-07-16"
     },
     {
       "ticker": "AVGO",

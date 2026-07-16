@@ -6,7 +6,7 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-29 | [:material-file-document: Read](ASTS.md) |
+| <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](ASTS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar Corporation | <span class="rating-buy">BUY</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](SATL.md) |
 | <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs PBC | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
@@ -20,9 +20,9 @@
 
 **ASTS — AST SpaceMobile, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Pioneering space-based cellular broadband network — first to achieve commercial voice, video calls, and 5G data speeds via direct-to-cell satellite. Real revenue \$70.9M in 2025 (up 1,505%). \$2.34B cash provides 22-month runway. Partnerships with AT&T, Verizon, Vodafone cover ~3 billion potential subscribers. Extreme valuation at 447x P/S reflects massive growth expectations.
+Pioneering space-based cellular broadband network — first to achieve commercial voice, video calls, and 5G data speeds via direct-to-cell satellite. Q1 2026 revenue \$14.7M with FY2026 guidance of \$150M–\$200M, but execution concerns mount after BlueBird launch campaign slipped to early 2027 and a \$1B convertible note offering (3rd raise of 2026) added dilution risk. \$3.7B cash pro forma provides multi-year runway. Piper Sandler initiated Overweight with a \$100 PT in July 2026. Partnerships with AT&T, Verizon, Vodafone cover ~3 billion potential subscribers.
 
-**Bull:** \$120–\$140 · **Base:** \$85–\$95 · **Bear:** \$40–\$50
+**Bull:** \$110–\$130 · **Base:** \$75–\$90 · **Bear:** \$40–\$50
 
 [:material-arrow-right: Full Deep Dive](ASTS.md)
 
