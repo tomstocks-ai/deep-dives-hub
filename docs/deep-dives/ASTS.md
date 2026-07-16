@@ -50,7 +50,7 @@ hide:
 
 AST SpaceMobile (NASDAQ: ASTS) is pioneering the world's first space-based cellular broadband network, enabling standard smartphones to connect directly to satellites without specialized hardware. The company has transitioned from pre-revenue to commercial operations, reporting Q1 2026 revenue of **\$14.7M** and FY2026 guidance of **\$150M–\$200M**. With a contracted backlog exceeding **\$1.2B**, partnerships spanning AT\&T, Verizon, Vodafone, and 50+ global carriers—representing nearly **3 billion potential subscribers**—ASTS stands at a critical inflection point.
 
-However, Q1 2026 results disappointed: EPS of **-\$0.66** missed analyst estimates of **-\$0.21**, and a **\$155M–\$160M BlueBird 7 write-off** raised execution concerns. More recently, the company announced a **\$1B senior convertible notes offering** (July 2026), its third capital raise of the year, alongside a slip in the BlueBird launch campaign to **early 2027** (from Q4 2026). The stock has pulled back sharply from 52-week highs of \$133.86 to **~\$60**, with the overnight session touching **\$60.27** after the convert announcement. The risk/reward has improved for speculative investors with a 3–5 year horizon, but near-term dilution and execution delays require patience.
+However, Q1 2026 results disappointed: EPS of **-\$0.66** missed analyst estimates of **-\$0.21**, and a **\$155M–\$160M BlueBird 7 write-off** raised execution concerns. More recently, the company announced a **\$1B senior convertible notes offering** (July 2026), its third capital raise of the year, alongside a slip in the BlueBird launch campaign to **early 2027** (from Q4 2026). The stock has pulled back sharply from 52-week highs of \$133.86 to **\$66.31**, with the after-hours session touching **~\$58** after the convert announcement. The risk/reward has improved for speculative investors with a 3–5 year horizon, but near-term dilution and execution delays require patience.
 
 ---
 
@@ -140,12 +140,12 @@ AST SpaceMobile designs, builds, and operates a constellation of large communica
 
 | Metric | Value | What This Means |
 |--------|-------|-----------------|
-|| **Cash & Equivalents** | ~\\$2.72B pre-raise; ~\\$3.7B pro forma | Money in the bank to fund operations |
-|| **Total Debt** | ~\\$3.2B (incl. new \\$1B converts) | Long-term obligations; convertible notes |
-|| **Net Debt** | Slightly positive | Pro forma net cash still positive after new raise |
-|| **Debt-to-Equity Ratio** | ~60% | Moderate leverage; converts are equity-like at high prices |
-|| **Shareholder Equity** | ~\\$2.8 billion | Book value of the company |
-|| **Shares Outstanding** | ~382 million | Increased after 2025–2026 capital raises; ~12.6M shares of potential new dilution if converts convert above \\$80 |
+| **Cash & Equivalents** | ~\\$2.72B pre-raise; ~\\$3.7B pro forma | Money in the bank to fund operations |
+| **Total Debt** | ~\\$3.2B (incl. new \\$1B converts) | Long-term obligations; convertible notes |
+| **Net Debt** | Slightly positive | Pro forma net cash still positive after new raise |
+| **Debt-to-Equity Ratio** | ~60% | Moderate leverage; converts are equity-like at high prices |
+| **Shareholder Equity** | ~\\$2.8 billion | Book value of the company |
+| **Shares Outstanding** | ~382 million | Increased after 2025–2026 capital raises; ~12.6M shares of potential new dilution if converts convert above \\$80 |
 
 **Cash Runway Analysis (Critical):**
 
@@ -211,18 +211,18 @@ On July 15, 2026, ASTS announced **\$1B in senior convertible notes due 2034** w
 
 | Metric | Value | Industry Average | What This Means |
 |--------|-------|------------------|-----------------|
-| **Market Cap** | ~\$16 billion | N/A | Total value of all shares |
-| **Enterprise Value** | ~\$15 billion | N/A | Market cap + debt - cash |
-| **Price-to-Sales (P/S)** | ~80–110x | 2–3x | Paying \$80–\$110 for every \$1 of sales—still high but improved from 447x |
-| **Price-to-Book (P/B)** | ~5.7x | 2–3x | Trading at 5.7x book value vs. 2–3x typical |
-| **EV/Revenue** | ~75–100x | 3–5x | Enterprise value to sales—elevated but compressed |
+| **Market Cap** | ~\$25 billion | N/A | Total value of all shares |
+| **Enterprise Value** | ~\$21 billion | N/A | Market cap + debt - cash |
+| **Price-to-Sales (P/S)** | ~60–80x | 2–3x | Paying \$60–\$80 for every \$1 of sales—compressed from 100x+ |
+| **Price-to-Book (P/B)** | ~8.5x | 2–3x | Trading at ~8.5x book value vs. 2–3x typical |
+| **EV/Revenue** | ~50–70x | 3–5x | Enterprise value to sales—elevated but compressed |
 | **P/E Ratio** | N/A (negative earnings) | 15–25x | Can't calculate—company loses money |
 
 **What These Valuations Mean:**
 
-- **P/S of ~80–110x:** This is still speculation pricing, but far more reasonable than the 447x seen at \$83/share in April 2026. For context, high-growth SaaS companies trade at 10–20x sales. ASTS trades at 4–5x that level, reflecting massive growth expectations.
+- **P/S of ~60–80x:** This is still speculation pricing, but far more reasonable than the 447x seen at \$83/share in April 2026. For context, high-growth SaaS companies trade at 10–20x sales. ASTS trades at 4–5x that level, reflecting massive growth expectations.
 
-- **P/B of ~5.7x:** Investors pay \$5.70 for every \$1 of assets on ASTS's books. This reflects belief that the intangible assets (patents, spectrum rights, partnerships, backlog) are worth far more than the physical assets.
+- **P/B of ~8.5x:** Investors pay \$8.50 for every \$1 of assets on ASTS's books. This reflects belief that the intangible assets (patents, spectrum rights, partnerships, backlog) are worth far more than the physical assets.
 
 ### Valuation Scenarios (5-Year DCF)
 
@@ -234,18 +234,18 @@ Assumptions for 2031:
 
 | Scenario | 2031 Revenue | Implied Stock Price | Current Price | Upside/Downside |
 |----------|-------------|---------------------|---------------|-----------------|
-| **Bear Case** | \$500M | \$40 | \$60 | **-33%** |
-| **Base Case** | \$2.5B | \$78 | \$60 | **+30%** |
-| **Bull Case** | \$8B | \$110 | \$60 | **+83%** |
-| **Moonshot** | \$15B | \$240 | \$60 | **+300%** |
+| **Bear Case** | \$500M | \$45 | \$66.31 | **-32%** |
+| **Base Case** | \$2.5B | \$85 | \$66.31 | **+28%** |
+| **Bull Case** | \$8B | \$130 | \$66.31 | **+96%** |
+| **Moonshot** | \$15B | \$240 | \$66.31 | **+262%** |
 
-**What this means:** At the current \$60/share price, the market is pricing in something between the Bear and Base Case. The pullback from \$133 has improved the risk/reward significantly, but the dilution and launch delay risks temper upside. ASTS must execute well—scaling to billions in revenue while fending off SpaceX competition—to justify even today's compressed valuation.
+**What this means:** At the current \$66.31/share price, the market is pricing in something between the Bear and Base Case. The pullback from \$133 has improved the risk/reward significantly, but the dilution and launch delay risks temper upside. ASTS must execute well—scaling to billions in revenue while fending off SpaceX competition—to justify even today's compressed valuation.
 
 ### Comparable Company Valuations
 
 | Company | Market Cap | P/S Ratio | EV/Revenue | Notes |
 |---------|-----------|-----------|------------|-------|
-| **AST SpaceMobile** | ~\$16B | ~80–110x | ~75–100x | Pre-profitability, early commercialization |
+| **AST SpaceMobile** | ~\$25B | ~60–80x | ~50–70x | Pre-profitability, early commercialization |
 | **Iridium (IRDM)** | ~\$5B | 6.3x | 7.8x | Mature satellite operator, profitable |
 | **Globalstar (GSAT)** | ~\$2B | 12.5x | 14.2x | Smaller satellite player, partner with Apple |
 | **Intelsat** | ~\$3.8B | 1.8x | 4.2x | Legacy satellite, high debt |
@@ -355,24 +355,24 @@ The July 2026 convert offering and launch slip have **materially increased two r
 
 ## 6. RECOMMENDATION
 
-### Rating: **SPECULATIVE BUY** (Downgraded from Aggressive Buy)
+### Rating: **SPEC. BUY**
 
 **Position Sizing:** 2–3% of portfolio maximum (speculative allocation)
 
 **Entry Strategy:**
-- **Aggressive Entry:** Buy at current levels (\$58–\$62) with 25% position
+- **Aggressive Entry:** Buy at current levels (\$65–\$70) with 25% position
 - **Conservative Entry:** Wait for Q2 earnings (August 2026) to confirm revenue acceleration and updated launch timeline
 - **Dollar-Cost Averaging:** Add 25% every \$5–\$7 decline
 
 **Stop Loss:** \$45 (hard stop—if it breaks below this, something is fundamentally wrong)
 
 **Target Prices (12–18 Months):**
-- **Bear Case:** \$35–\$45 (execution delays, dilution, SpaceX competition)
-- **Base Case:** \$70–\$85 (constellation deployed, revenue growth to \$400M–\$600M by 2027)
-- **Bull Case:** \$100–\$120 (massive adoption, \$2B+ revenue by 2028, government contracts scale)
+- **Bear Case:** \$40–\$50 (execution delays, dilution, SpaceX competition)
+- **Base Case:** \$75–\$90 (constellation deployed, revenue growth to \$400M–\$600M by 2027)
+- **Bull Case:** \$110–\$130 (massive adoption, \$2B+ revenue by 2028, government contracts scale)
 - **Moonshot:** \$180+ (monopoly-like market share, \$5B+ revenue, profitability)
 
-**What this means:** At \$60, ASTS offers a **favorable risk/reward** for speculative investors. The potential upside to \$85–\$120 (40–100% gain) outweighs the downside to \$35–\$45 (25–40% loss) for a small, speculative position. However, this is NOT a core holding. It's a "call option" on the future of satellite connectivity.
+**What this means:** At \$66.31, ASTS offers a **favorable risk/reward** for speculative investors. The potential upside to \$110–\$130 (66–96% gain) outweighs the downside to \$40–\$50 (25–40% loss) for a small, speculative position. However, this is NOT a core holding. It's a "call option" on the future of satellite connectivity.
 
 ### Catalyst Calendar (Updated July 2026)
 
@@ -407,7 +407,7 @@ The July 2026 convert offering and launch slip have **materially increased two r
 - "3rd raise in 2026. This is dilution over dilution. When does it stop?"
 - "Launch slipped to early 2027. Execution is worse than they admit."
 - "SpaceX has 650 satellites and its own rockets. ASTS is a rounding error."
-- "\$150M revenue guidance vs. \$16B market cap. The math doesn't work."
+- "\$150M revenue guidance vs. ~\$25B market cap. The math doesn't work."
 - "They're raising to buy a launch provider because SpaceX won't give them slots. That's desperation."
 
 **Sentiment Score:** 5/10 (Neutral-Bearish Short-Term, Bullish Long-Term)
@@ -431,19 +431,20 @@ AST SpaceMobile is building a network of satellites that let your phone connect 
 
 **The Bad:** They lose \$150M+ per quarter. They need to grow revenue 5–7x just to break even. SpaceX is a terrifying competitor with its own rockets and 650 satellites. And now they've raised money three times in 2026, which means dilution for shareholders. The BlueBird launch schedule has slipped to early 2027.
 
-**The Verdict:** At \$60/share (down from \$133), the risk/reward is better than it was. If they succeed, the stock could double or triple. If they fail, it could fall to \$35–\$45. This is a speculative bet—only invest money you can afford to lose completely. Wait for Q2 earnings in August 2026 to see if revenue is actually accelerating before buying.
+**The Verdict:** At \$66.31/share (down from \$133), the risk/reward is better than it was. If they succeed, the stock could double or triple. If they fail, it could fall to \$40–\$50. This is a speculative bet—only invest money you can afford to lose completely. Wait for Q2 earnings in August 2026 to see if revenue is actually accelerating before buying.
 
 ---
 
-## Sources Consulted
+## 9. Sources Consulted
 
-- Yahoo Finance (ASTS stock data, price history, analyst estimates)
-- Google Finance (price verification)
-- AST SpaceMobile Q1 2026 earnings report and SEC filings
-- Company press releases (July 2026 convertible note offering, launch timeline updates)
-- Piper Sandler research initiation (July 2026)
-- X/Twitter financial commentary and StockTwits sentiment
-- TradingView technical analysis
+1. [Yahoo Finance - ASTS](https://finance.yahoo.com/quote/ASTS)
+2. [SEC EDGAR - ASTS Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ASTS)
+3. [AST SpaceMobile Investor Relations](https://investors.ast-science.com/)
+4. [Business Wire - ASTS $1B Convertible Notes Offering](https://www.businesswire.com/news/home/20260715000369/en/)
+5. [PCMag - ASTS Delays Service Launch to 2027](https://www.pcmag.com/news/ast-spacemobile-delays-service-launch-to-2027-eyes-acquisitions)
+6. [StockTwits - ASTS Analyst Buy Rocket Company](https://stocktwits.com/news-articles/markets/equity/asts-analyst-buy-rocket-company-1b-raise/)
+7. [TipRanks - ASTS Stock Forecast](https://www.tipranks.com/stocks/asts)
+8. [MarketBeat - ASTS Short Interest](https://www.marketbeat.com/stocks/NASDAQ/ASTS/short-interest/)
 
 ---
 
