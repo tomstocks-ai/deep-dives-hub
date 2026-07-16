@@ -1135,14 +1135,14 @@
       "sector": "Space",
       "industry": "Launch Vehicles / Space Systems",
       "rating": "SPEC. BUY",
-      "price": 107.24,
-      "market_cap": "$5.2B",
-      "last_updated": "2026-06-19",
+      "price": 76.2,
+      "market_cap": "~$47.6B",
+      "last_updated": "2026-07-16",
       "deep_dive_url": "/deep-dives/RKLB/",
       "api_url": "/api/RKLB.json",
       "theme": "Space Economy",
       "sub_theme": "Lunar / Deep Space",
-      "price_date": "2026-06-19"
+      "price_date": "2026-07-16"
     },
     {
       "ticker": "RTX",
