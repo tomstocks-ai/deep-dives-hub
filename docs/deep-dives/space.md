@@ -90,7 +90,7 @@ Commercial spaceflight company developing suborbital tourism via air-launched Sp
 
 Vertically integrated space company with the only reusable small-lift orbital vehicle (Electron) in commercial service and the medium-lift Neutron in development. Stock has pulled back to \$76.20 from a \$151.00 52-week high, partly due to broad space-sector selling after the Blue Origin test failure and SpaceX IPO focus. Q1 2026 revenue \$200.3M (+63.5% YoY), backlog \$2.2B+ (up 108% YoY), and \$2B+ total liquidity fund Neutron development without near-term dilution.
 
-**Bull:** \$130–150 · **Base:** \$95–110 · **Bear:** \$55–70
+**Bull:** \$130–160 · **Base:** \$95–115 · **Bear:** \$55–75
 
 [:material-arrow-right: Full Deep Dive](RKLB.md)
 
