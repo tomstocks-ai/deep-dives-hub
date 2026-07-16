@@ -37,7 +37,7 @@ STALE_DAYS = 90
 mcp = FastMCP(
     "Deep Dives Hub",
     instructions=(
-        "Stock research tools for the Deep Dives Hub — 84 structured deep dives "
+        "Stock research tools for the Deep Dives Hub — structured deep dives "
         "covering AI infrastructure, energy, space, software, critical minerals, and more. "
         "Use list_tickers to discover tickers by theme/sector/rating, get_deep_dive for "
         "full analysis, get_thesis for a quick investment summary, compare_tickers for "
@@ -349,7 +349,7 @@ def get_schema() -> dict:
 
 @mcp.resource("deep-dives://index")
 def resource_index() -> dict:
-    """The full tickers.json master index — all 84 tracked tickers with metadata."""
+    """The full tickers.json master index — all tracked tickers with metadata."""
     return _load_tickers()
 
 

@@ -1,0 +1,83 @@
+{
+  "ticker": "U",
+  "company": "Unity Software Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Game Engines & Marketing",
+  "industry": "Game Engine / 3D Content Creation Platform",
+  "exchange": "NYSE",
+  "price": 21.57,
+  "price_date": "2026-04-10",
+  "market_cap": "$9.41B",
+  "rating": "HOLD",
+  "last_updated": "2026-04-10",
+  "thesis": "Leading 3D content creation platform with ~70% mobile game market share, recovering from the 2023 'Runtime Fee' controversy that damaged developer trust. New CEO focused on strategic portfolio cleanup and profitable growth. $2.06B cash provides 5+ years of runway and net debt has improved from $691M to $180M; free cash flow turned positive in recent quarters. Persistent GAAP losses (~$400M/yr), heavy stock-based compensation (~5% annual dilution), and intense competition from Unreal Engine keep the risk profile elevated. HOLD with strict risk management given heavy portfolio concentration.",
+  "financials": {
+    "fiscal_year": "FY2024",
+    "revenue": "$1.85B",
+    "revenue_growth": "Q4 2024 +10% YoY (ex-divestitures)",
+    "gross_margin": "74.3% (Q4 2024)",
+    "net_income": "-$403M",
+    "eps_diluted": "-$0.96",
+    "cash": "$2.06B",
+    "fcf": "$401M (FY2024)"
+  },
+  "bull_case": {
+    "target": "$45",
+    "drivers": [
+      "Developer trust recovery drives re-rating after pricing model stabilization",
+      "Unity Muse / Sentis AI tools lower development barriers and expand TAM",
+      "Meta VR multi-year partnership and Apple Vision Pro primary-platform position pay off in a new spatial computing content cycle",
+      "Industrial digital twins expand Unity beyond gaming into automotive and manufacturing",
+      "Revenue growth accelerates to ~18% with 25% EBITDA margins"
+    ]
+  },
+  "base_case": {
+    "target": "$28",
+    "assumptions": "Revenue grows ~12% with EBITDA margins expanding toward 20%; pricing model stays stable and developer relations continue to normalize; FCF stays positive but GAAP profitability remains elusive near term; stock re-rates modestly on execution under new leadership."
+  },
+  "bear_case": {
+    "target": "$14",
+    "risks": [
+      "Unreal Engine keeps taking share, especially in high-end and AAA gaming",
+      "Developer trust never fully recovers from the pricing controversy",
+      "Mobile gaming market stagnates, hurting Grow Solutions revenue",
+      "Goodwill impairment ($3.17B, 46% of assets) forces write-downs",
+      "Revenue growth stalls at 0-5% and cash burn resumes"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Quarterly",
+      "event": "Earnings — revenue trajectory, margin progress, and FCF durability",
+      "iso_date": null
+    },
+    {
+      "date": "2026",
+      "event": "Pricing model stabilization and developer relations recovery",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026-2027",
+      "event": "Unity Muse / Sentis AI tooling adoption and potential pricing power",
+      "iso_date": "2026"
+    },
+    {
+      "date": "Ongoing",
+      "event": "Meta VR partnership extension and Apple Vision Pro spatial computing content cycle",
+      "iso_date": null
+    },
+    {
+      "date": "1-3 years",
+      "event": "Industrial digital twins expansion into automotive and manufacturing",
+      "iso_date": null
+    }
+  ],
+  "key_risks": [
+    "Developer exodus risk — trust damaged by 2023 Runtime Fee controversy, competitive pressure from Unreal and Godot",
+    "Epic's Unreal Engine 5 offers photorealistic graphics and is free below $1M revenue",
+    "Execution risk under new leadership after multiple strategy pivots",
+    "Goodwill impairment risk: $3.17B goodwill, negative tangible book value (-$579M)",
+    "Heavy stock-based compensation dilutes shareholders ~5% annually"
+  ]
+}

@@ -2,6 +2,8 @@
   "ticker": "CBRS",
   "company": "Cerebras Systems Inc.",
   "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
   "industry": "Semiconductors / AI Compute",
   "exchange": "NASDAQ",
   "price": 234.71,

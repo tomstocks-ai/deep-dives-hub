@@ -1,0 +1,72 @@
+{
+  "ticker": "VELO",
+  "company": "Velo3D, Inc.",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Metal Additive Manufacturing / Aerospace & Defense",
+  "exchange": "NASDAQ",
+  "price": 11.27,
+  "price_date": "2026-04-02",
+  "market_cap": "~$277M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-04-02",
+  "thesis": "Metal additive manufacturing company with unique 'support-free' laser powder bed fusion technology enabling true design freedom versus legacy AM, targeting mission-critical aerospace and defense applications. AS9100D aerospace certification and deepening defense relationships (U.S. Army CRADA, Navy contracts, $32.6M DoD award) underpin a guided 30-52% revenue ramp to $60-70M in 2026 with a path to EBITDA profitability by H2 2026. Precarious financials ($39M cash, -$71M TTM net loss) mean the profitability milestone must land or dilutive financing follows. High short interest (28.6% of float) on a 7.2M-share float creates squeeze potential. High-risk/high-reward speculative position, 1-3% sizing max.",
+  "financials": {
+    "fiscal_year": "TTM (as of 2026-04)",
+    "revenue": "N/A (FY2026 guide: $60-70M)",
+    "revenue_growth": "+30-52% guided FY2026",
+    "gross_margin": "N/A",
+    "net_income": "-$71M (TTM)",
+    "eps_diluted": "N/A",
+    "cash": "$39M",
+    "fcf": "N/A"
+  },
+  "bull_case": {
+    "target": "$28",
+    "drivers": [
+      "Defense demand accelerates: U.S. Army CRADA, Navy contracts, and $32.6M DoD award convert into repeat system and services revenue",
+      "Support-free technology moat holds against legacy additive manufacturing competitors",
+      "EBITDA profitability lands in H2 2026, removing the dilution overhang",
+      "28.6% short interest on a 7.2M-share float fuels a squeeze on positive news",
+      "AS9100D certification opens additional aerospace primes"
+    ]
+  },
+  "base_case": {
+    "target": "$14",
+    "assumptions": "Revenue lands within the guided $60-70M range (+30-52%); EBITDA breakeven approaches but arrives roughly on schedule in H2 2026; no major new defense program wins beyond existing contracts; modest dilution risk persists until profitability is confirmed."
+  },
+  "bear_case": {
+    "target": "$5",
+    "risks": [
+      "Profitability slips past H2 2026 and forces dilutive financing from a $39M cash position",
+      "Customer concentration and lumpy system sales produce a guidance miss",
+      "Defense procurement timing slips to the right",
+      "Micro-cap volatility and limited float amplify drawdowns"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Quarterly",
+      "event": "Earnings — progress against the $60-70M FY2026 revenue guide",
+      "iso_date": null
+    },
+    {
+      "date": "H2 2026",
+      "event": "Path to EBITDA profitability — the make-or-break milestone for avoiding dilution",
+      "iso_date": "2026-07"
+    },
+    {
+      "date": "Ongoing",
+      "event": "New defense contract awards building on Army CRADA, Navy work, and the $32.6M DoD award",
+      "iso_date": null
+    }
+  ],
+  "key_risks": [
+    "Precarious financials: $39M cash against a -$71M TTM net loss",
+    "Must reach profitability by H2 2026 or face dilutive financing",
+    "Customer concentration and lumpy system sales",
+    "Micro-cap volatility with a limited 7.2M-share float",
+    "High short interest cuts both ways if execution slips"
+  ]
+}

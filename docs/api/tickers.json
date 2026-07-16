@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-16",
-  "count": 95,
+  "count": 97,
   "tickers": [
     {
       "ticker": "000660",
@@ -241,7 +241,7 @@
       "deep_dive_url": "/deep-dives/CBRS/",
       "api_url": "/api/CBRS.json",
       "theme": "AI Buildout",
-      "sub_theme": "Semiconductors / AI Compute",
+      "sub_theme": "AI Compute",
       "price_date": "2026-06-21"
     },
     {
@@ -795,8 +795,8 @@
       "last_updated": "2026-06-19",
       "deep_dive_url": "/deep-dives/MRVL/",
       "api_url": "/api/MRVL.json",
-      "theme": "Technology",
-      "sub_theme": "Data Infrastructure Semiconductors / Custom AI Silicon",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
       "price_date": "2026-06-19"
     },
     {
@@ -916,7 +916,7 @@
       "deep_dive_url": "/deep-dives/NOK/",
       "api_url": "/api/NOK.json",
       "theme": "AI Buildout",
-      "sub_theme": "Telecommunications Equipment / Networking Infrastructure",
+      "sub_theme": "Networking & Connectivity",
       "price_date": "2026-06-21"
     },
     {
@@ -1370,6 +1370,21 @@
       "price_date": "2026-06-28"
     },
     {
+      "ticker": "U",
+      "company": "Unity Software Inc.",
+      "sector": "Technology",
+      "industry": "Game Engine / 3D Content Creation Platform",
+      "rating": "HOLD",
+      "price": 21.57,
+      "market_cap": "$9.41B",
+      "last_updated": "2026-04-10",
+      "deep_dive_url": "/deep-dives/U/",
+      "api_url": "/api/U.json",
+      "theme": "Software",
+      "sub_theme": "Game Engines & Marketing",
+      "price_date": "2026-04-10"
+    },
+    {
       "ticker": "URA",
       "company": "Global X Uranium ETF",
       "sector": "Energy",
@@ -1398,6 +1413,21 @@
       "theme": "Energy",
       "sub_theme": "Enrichment / Fuel Cycle",
       "price_date": "2026-07-15"
+    },
+    {
+      "ticker": "VELO",
+      "company": "Velo3D, Inc.",
+      "sector": "Industrials",
+      "industry": "Metal Additive Manufacturing / Aerospace & Defense",
+      "rating": "SPEC. BUY",
+      "price": 11.27,
+      "market_cap": "~$277M",
+      "last_updated": "2026-04-02",
+      "deep_dive_url": "/deep-dives/VELO/",
+      "api_url": "/api/VELO.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-04-02"
     },
     {
       "ticker": "VYX",

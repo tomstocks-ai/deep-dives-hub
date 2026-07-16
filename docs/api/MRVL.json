@@ -2,6 +2,8 @@
   "ticker": "MRVL",
   "company": "Marvell Technology, Inc.",
   "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
   "industry": "Data Infrastructure Semiconductors / Custom AI Silicon",
   "exchange": "NASDAQ",
   "price": 310.58,

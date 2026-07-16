@@ -8,7 +8,7 @@
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
-| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
+| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software Inc. | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
 | <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 | <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
@@ -130,7 +130,7 @@ Cloud-native observability and security platform with best-in-class fundamentals
 
 ### Game Engines & Marketing
 
-**U — Unity Software · <span class="rating-hold">HOLD</span>**
+**U — Unity Software Inc. · <span class="rating-hold">HOLD</span>**
 
 Leading 3D content creation platform with ~70% mobile game market share. Recovering from 2023 "Runtime Fee" controversy that damaged developer trust. New CEO focused on strategic portfolio cleanup. \$2.06B cash provides 5+ years runway. Positive FCF in recent quarters. Heavy portfolio concentration at 20% requires risk management.
 

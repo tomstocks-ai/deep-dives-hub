@@ -2,6 +2,8 @@
   "ticker": "NOK",
   "company": "Nokia Corporation",
   "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
   "industry": "Telecommunications Equipment / Networking Infrastructure",
   "exchange": "NYSE",
   "price": 13.49,
