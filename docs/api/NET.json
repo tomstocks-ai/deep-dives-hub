@@ -1,0 +1,84 @@
+{
+  "ticker": "NET",
+  "company": "Cloudflare, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cybersecurity",
+  "industry": "Internet Security / CDN / Edge Cloud",
+  "exchange": "NYSE",
+  "price": 272.46,
+  "price_date": "2026-07-17",
+  "market_cap": "~$96.5B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-17",
+  "thesis": "Cloudflare operates a global edge network that combines CDN, cybersecurity, zero-trust networking, and developer services into a unified platform. Q1 2026 revenue grew 34% YoY with a 47% EPS beat and record net new ARR growth, while a newly announced AI-first restructuring could improve long-term margins but introduces near-term execution risk. The stock is near analyst consensus and trades at a premium valuation, warranting a HOLD until a better entry point emerges.",
+  "financials": {
+    "fiscal_year": "Q1 2026",
+    "revenue": "$639.8M",
+    "revenue_growth": "34%",
+    "gross_margin": "Strong SaaS-level margins",
+    "net_income": "$94M (non-GAAP)",
+    "eps_diluted": "$0.25 (non-GAAP)",
+    "cash": "Strong balance sheet",
+    "fcf": "$84.1M"
+  },
+  "bull_case": {
+    "target": "$320–$350",
+    "drivers": [
+      "AI-first restructuring drives operating leverage and margin expansion",
+      "Record net new ARR growth of 76% and 73% growth in $1M+ deals sustain enterprise momentum",
+      "AI-gateway and edge inference products monetize faster than expected",
+      "Market awards a premium multiple on a clear path to $4B+ revenue"
+    ]
+  },
+  "base_case": {
+    "target": "$240–$260",
+    "assumptions": "Cloudflare delivers solid but gradually decelerating growth, restructuring charges peak in Q2 2026, and execution remains steady. The stock trades near the analyst consensus cluster around $250–$252, reflecting fair value at a premium SaaS multiple."
+  },
+  "bear_case": {
+    "target": "$160–$180",
+    "risks": [
+      "Restructuring disrupts sales execution and slows large-deal momentum",
+      "Revenue growth decelerates into the mid-20% range",
+      "Competition from hyperscale edge and security platforms compresses margins",
+      "Multiple contracts toward mature SaaS peers"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "July 30, 2026",
+      "iso_date": "2026-07-30",
+      "event": "Q2 2026 earnings report and updated guidance; restructuring impact clarity",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-07-17"
+    },
+    {
+      "date": "Late 2026",
+      "iso_date": "2026-10",
+      "event": "AI product monetization updates and edge-AI revenue contribution",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-07-17"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Operating leverage from restructuring becomes visible in margins",
+      "sector": "Technology",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-07-17"
+    }
+  ],
+  "key_risks": [
+    "Execution risk from a 20% workforce restructuring",
+    "Premium valuation leaves limited margin of safety",
+    "Competition from hyperscale edge, CDN, and security platforms",
+    "Macro and enterprise IT budget pressure",
+    "Uncertainty around timing and magnitude of AI monetization",
+    "Q2 2026 restructuring charges of $140–$150M could create volatility"
+  ]
+}
