@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-17",
-  "count": 98,
+  "count": 99,
   "tickers": [
     {
       "ticker": "000660",
@@ -1053,6 +1053,21 @@
       "theme": "Software",
       "sub_theme": "Cybersecurity",
       "price_date": "2026-06-14"
+    },
+    {
+      "ticker": "PESI",
+      "company": "Perma-Fix Environmental Services, Inc.",
+      "sector": "Industrials",
+      "industry": "Waste Management / Environmental Services",
+      "rating": "SPEC. BUY",
+      "price": 17.8,
+      "market_cap": "~$383M",
+      "last_updated": "2026-07-17",
+      "deep_dive_url": "/deep-dives/PESI/",
+      "api_url": "/api/PESI.json",
+      "theme": "Energy",
+      "sub_theme": "Nuclear Services",
+      "price_date": "2026-07-17"
     },
     {
       "ticker": "PL",

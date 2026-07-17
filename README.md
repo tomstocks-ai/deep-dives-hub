@@ -1,7 +1,7 @@
 # Deep Dives Hub
 
 Collaborative stock deep-dive research built with [Zensical](https://zensical.org/).  
-98 structured deep dives across 9 investment themes, served as a static JSON API and an MCP server.
+99 structured deep dives across 9 investment themes, served as a static JSON API and an MCP server.
 
 **Live site:** [https://tomstocks-ai.github.io/deep-dives-hub/](https://tomstocks-ai.github.io/deep-dives-hub/)
 
@@ -79,7 +79,7 @@ zensical serve
 
 ## MCP Server
 
-Exposes all 98 deep dives as MCP tools and resources for Claude Desktop / the `claude` CLI.
+Exposes all 99 deep dives as MCP tools and resources for Claude Desktop / the `claude` CLI.
 
 ```bash
 # Install with MCP support
