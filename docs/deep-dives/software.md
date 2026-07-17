@@ -154,11 +154,22 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 
 ## Cybersecurity
 
-|| Ticker | Company | Rating | Last Updated | Full DD |
-||--------|---------|--------|--------------|---------|
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:NET" hide-background></tv-ticker-tag> | Cloudflare, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-17 | [:material-file-document: Read](NET.md) |
 | <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings, Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
 | <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
+
+---
+
+**NET — Cloudflare, Inc. · <span class="rating-hold">HOLD</span>**
+
+Cloudflare operates a global edge connectivity cloud that bundles CDN, cybersecurity, zero-trust networking, and developer services. Q1 2026 revenue reached \$639.8M (+34% YoY) with a 47% non-GAAP EPS beat and record net new ARR growth of 76%, while \$1M+ deals surged 73% YoY. The company announced an AI-first restructuring that will cut roughly 20% of its workforce, expecting \$140–\$150M in charges that will largely hit Q2 2026. The stock is near the analyst consensus around \$250–\$252 and already carries a premium valuation, so the risk/reward is balanced rather than compelling.
+
+**Bull:** \$320–\$350 · **Base:** \$240–\$260 · **Bear:** \$160–\$180
+
+[:material-arrow-right: Full Deep Dive](NET.md)
 
 ---
 

@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-16",
-  "count": 97,
+  "last_updated": "2026-07-17",
+  "count": 98,
   "tickers": [
     {
       "ticker": "000660",
@@ -888,6 +888,21 @@
       "theme": "AI Buildout",
       "sub_theme": "AI / HPC Operators",
       "price_date": "2026-04-22"
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "sector": "Technology",
+      "industry": "Internet Security / CDN / Edge Cloud",
+      "rating": "HOLD",
+      "price": 272.46,
+      "market_cap": "~$96.5B",
+      "last_updated": "2026-07-17",
+      "deep_dive_url": "/deep-dives/NET/",
+      "api_url": "/api/NET.json",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-07-17"
     },
     {
       "ticker": "NN",
