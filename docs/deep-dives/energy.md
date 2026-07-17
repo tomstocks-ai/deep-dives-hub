@@ -12,6 +12,7 @@
 | <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 | <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
+| <tv-ticker-tag symbol="NASDAQ:PESI" hide-background></tv-ticker-tag> | Perma-Fix Environmental Services, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-17 | [:material-file-document: Read](PESI.md) |
 
 ---
 
@@ -70,6 +71,16 @@ Leading U.S. uranium concentrate producer with the only conventional uranium mil
 [:material-arrow-right: Full Deep Dive](UUUU.md)
 
 ---
+
+### Nuclear Services
+
+**PESI — Perma-Fix Environmental Services, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+U.S. environmental-services company focused on treatment and disposal of nuclear, low-level radioactive, mixed, hazardous, and non-hazardous waste. The Treatment segment (~73% of FY2025 revenue) is anchored by the Perma-Fix Northwest facility near the Hanford DOE site, while Services (~27%) provides on-site waste management, radiological services, demolition, and PFAS treatment. The bull case rests on a Hanford ETF/DFLAW waste ramp and a speculative large-scale grouting opportunity; risks include a going-concern warning, negative free cash flow, and reliance on DOE spending.
+
+**Bull:** \$26–\$30 · **Base:** \$18–\$20 · **Bear:** \$10–\$12
+
+[:material-arrow-right: Full Deep Dive](PESI.md)
 
 ## Solar
 

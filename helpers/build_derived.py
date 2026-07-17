@@ -118,6 +118,7 @@ SUBTHEME_BADGE = {
     "Reactor Developers": ("Nuclear", "badge-nuclear"),
     "Enrichment": ("Nuclear", "badge-nuclear"),
     "Enrichment / Fuel Cycle": ("Nuclear", "badge-nuclear"),
+    "Nuclear Services": ("Nuclear", "badge-nuclear"),
     "Uranium & Nuclear Fuel": ("Minerals", "badge-minerals"),
     "Specialty Metals": ("Nuclear", "badge-nuclear"),
     "Specialty Metals (Silver)": ("Minerals", "badge-minerals"),

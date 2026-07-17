@@ -1,0 +1,83 @@
+{
+  "ticker": "PESI",
+  "company": "Perma-Fix Environmental Services, Inc.",
+  "sector": "Industrials",
+  "theme": "Energy",
+  "sub_theme": "Nuclear Services",
+  "industry": "Waste Management / Environmental Services",
+  "exchange": "NASDAQ",
+  "price": 17.80,
+  "price_date": "2026-07-17",
+  "market_cap": "~$383M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-17",
+  "thesis": "Perma-Fix Environmental Services is a micro-cap U.S. nuclear/hazardous waste treatment company whose key Perma-Fix Northwest facility is levered to a potential Hanford DOE ETF/DFLAW waste ramp in H2 2026. A speculative grouting opportunity, a $24M Lawrence Livermore contract, an expanded Richland permit, and the Perma-FAS PFAS platform offer additional upside, but the company has a going-concern warning, negative free cash flow, and a recent dilutive $20M equity raise.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$61.67M",
+    "revenue_growth": "4.3%",
+    "gross_margin": "~9.7%",
+    "net_income": "-$13.78M",
+    "eps_diluted": "-$0.75",
+    "cash": "$6.7M",
+    "fcf": "-$17.6M"
+  },
+  "bull_case": {
+    "target": "$26–$30",
+    "drivers": [
+      "Hanford ETF/DFLAW waste receipts ramp at PFNW in H2 2026 and materially lift utilization",
+      "Perma-Fix captures a meaningful share of a speculative large-scale Hanford grouting opportunity",
+      "Perma-FAS PFAS destruction technology achieves commercial-scale deployment",
+      "Operating leverage turns thin gross margins into sustained profitability and positive FCF by 2027"
+    ]
+  },
+  "base_case": {
+    "target": "$18–$20",
+    "assumptions": "Modest Hanford improvement and gradual Services recovery drive revenue growth back to double digits, but no transformational grouting contract. Losses narrow through 2026–2027 and the company stabilizes at a smaller, cash-constrained scale. The current price roughly embeds the base case."
+  },
+  "bear_case": {
+    "target": "$10–$12",
+    "risks": [
+      "DOE procurement delays and Hanford ramp underwhelm, leaving revenue flat or declining",
+      "Going-concern warning forces further dilutive financing and weakens the equity base",
+      "Thin margins and negative FCF persist, and the stock re-rates toward tangible book value"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings report expected around August 6, 2026; key read on Hanford ramp and margin trajectory",
+      "sector": "Industrials",
+      "theme": "Energy",
+      "sub_theme": "Nuclear Services",
+      "price_date": "2026-07-17"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Expected ramp in Hanford ETF/DFLAW waste receipts at PFNW",
+      "sector": "Industrials",
+      "theme": "Energy",
+      "sub_theme": "Nuclear Services",
+      "price_date": "2026-07-17"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2026",
+      "event": "Execution of $24M two-year Lawrence Livermore demolition/disposal contract and any grouting or PFAS commercialization updates",
+      "sector": "Industrials",
+      "theme": "Energy",
+      "sub_theme": "Nuclear Services",
+      "price_date": "2026-07-17"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: DOE and its contractors dominate revenue; any delay or cancellation of Hanford-related work is material",
+    "Going-concern warning in the Q1 2026 10-Q raises substantial doubt about liquidity without improved operations or additional financing",
+    "Dilution risk: the May 2026 $20M equity raise at $8.75 was highly dilutive; further raises possible if the ramp is delayed",
+    "Thin margins: gross margins in the high single digits require strong operating leverage to reach sustained profitability",
+    "Federal budget and procurement cycles are subject to appropriations, continuing resolutions, and shifting DOE priorities",
+    "Speculative grouting narrative is unconfirmed; failure to materialize could trigger a sharp re-rating lower"
+  ]
+}
