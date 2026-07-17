@@ -154,8 +154,8 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 
 ## Cybersecurity
 
-||| Ticker | Company | Rating | Last Updated | Full DD |
-|||--------|---------|--------|--------------|---------|
+| Ticker | Company | Rating | Last Updated | Full DD |
+|--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:NET" hide-background></tv-ticker-tag> | Cloudflare, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-17 | [:material-file-document: Read](NET.md) |
 | <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings, Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
