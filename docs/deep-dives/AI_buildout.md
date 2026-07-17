@@ -79,6 +79,16 @@ Dominant merchant supplier of custom AI ASICs and networking silicon to hypersca
 
 ---
 
+**MRVL — Marvell Technology, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Mission-critical supplier to hyperscaler AI buildouts, with 76% of revenue from data center products spanning custom AI silicon (ASICs), electro-optics, and networking. 27% revenue growth and 35% non-GAAP operating margins reflect strong execution, and the custom-compute pipeline positions it as the closest peer to Broadcom in merchant AI ASICs. The stock has run hard off its lows, so entry discipline matters.
+
+**Bull:** \$380–420 · **Base:** \$280–320 · **Bear:** \$180–220
+
+[:material-arrow-right: Full Deep Dive](MRVL.md)
+
+---
+
 **NOK — Nokia Corporation · <span class="rating-hold">HOLD</span>**
 
 The #2 global telecom equipment vendor with a durable patent licensing business and improving optical/network infrastructure exposure via the 2025 Infinera acquisition. Q1 2026 comparable net sales rose 4% constant currency to €4.50B (~$5.27B) with 45.5% gross margin and 6.2% operating margin. Mobile Networks margin pressure and 5G capex maturation create near-term headwinds, but the dividend yield (~3.5%), €3.8B net cash, and AI-driven fiber demand provide a floor. HOLD pending a clearer mobile networks recovery or a pullback to more attractive entry levels.
@@ -185,12 +195,6 @@ Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing c
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 | <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
-
----
-
-**P — Everpure, Inc. · <span class="rating-hold">HOLD</span>**
-
-Everpure, Inc. (formerly Pure Storage, Inc., ticker PSTG) is a leading provider of all-flash data storage solutions for enterprises, cloud providers, and government organizations. The company rebranded from Pure Storage to Everpure in February 2026 and changed its NYSE ticker symbol to the single letter "P" on April 17, 2026 — a move reflecting its ambition to become the definitive platform for modern data infrastructure.
 
 ---
 
@@ -383,12 +387,12 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CCXI" hide-background></tv-ticker-tag> | Churchill Capital XI / Agility Robotics | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](CCXI.md) |
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
-| <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | VELO3D | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
+| <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 
 ---
 
-**VELO — VELO3D · <span class="rating-spec-buy">SPEC. BUY</span>**
+**VELO — Velo3D, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Metal additive manufacturing for mission-critical aerospace/defense. Unique "support-free" technology enables true design freedom vs. legacy AM. AS9100D aerospace certification. Defense partnerships: U.S. Army CRADA, Navy contracts, \$32.6M DoD award. Path to EBITDA profitability by H2 2026. High short interest (28.6%) creates squeeze potential. Micro-cap with limited float (7.2M shares).
 

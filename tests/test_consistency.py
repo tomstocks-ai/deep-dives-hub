@@ -27,19 +27,19 @@ DD_DIR = ROOT / "docs" / "deep-dives"
 
 # Gist and/or table rows exist on the site, but the API JSON was never
 # created — the ticker 404s for agents. Fix: create docs/api/{T}.json.
-MISSING_JSON = {"U", "UUUU", "VELO"}
+MISSING_JSON: set[str] = set()
 
 # JSON exists but the ticker has no gist on any thematic page, so it is
 # unreachable from the human-facing theme navigation. Fix: add a gist.
-NO_THEME_HOME = {"MRVL"}
+NO_THEME_HOME: set[str] = set()
 
 # (page, ticker) pairs with more than one gist on the same page. The second
 # P gist on AI_buildout.md carries SK hynix's KRW price targets — delete it.
-DUPLICATE_GISTS = {("AI_buildout.md", "P")}
+DUPLICATE_GISTS: set[tuple[str, str]] = set()
 
 # JSONs that fail schema validation (missing theme/sub_theme). Fix: add the
 # two fields, then remove from this set.
-SCHEMA_ISSUES = {"CBRS", "MRVL", "NOK"}
+SCHEMA_ISSUES: set[str] = set()
 
 
 # --- fixtures ---------------------------------------------------------------

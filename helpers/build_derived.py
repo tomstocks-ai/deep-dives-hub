@@ -42,7 +42,8 @@ ROOT = Path(__file__).resolve().parent.parent
 API_DIR = ROOT / "docs" / "api"
 DD_DIR = ROOT / "docs" / "deep-dives"
 TABLE_MD = ROOT / "docs" / "table.md"
-COUNTER_FILES = [ROOT / "docs" / "index.md", ROOT / "docs" / "api-docs.md"]
+COUNTER_FILES = [ROOT / "docs" / "index.md", ROOT / "docs" / "api-docs.md",
+                 ROOT / "README.md", ROOT / "deep_dives_mcp" / "README.md"]
 
 BEGIN = "<!-- BEGIN GENERATED: {name} — do not edit, run helpers/build_derived.py -->"
 END = "<!-- END GENERATED: {name} -->"
@@ -101,12 +102,14 @@ SUBTHEME_BADGE = {
     "AI / HPC Operators": ("DC & HPC", "badge-dc-hpc"),
     "Cloud Storage / Data Infrastructure": ("Cloud & Software", "badge-cloud"),
     "Cloud & Enterprise Software": ("Software", "badge-cloud"),
+    "Game Engines & Marketing": ("Cloud & Software", "badge-cloud"),
     "Enterprise Software": ("Software", "badge-cloud"),
     "Data & Analytics": ("Cloud & Software", "badge-cloud"),
     "UX": ("Cloud & Software", "badge-cloud"),
     "Cybersecurity": ("Cybersecurity", "badge-cyber"),
     "Robotics & Automation": ("Robotics", "badge-robotics"),
     "Solid-State Batteries": ("Grid & Power", "badge-grid"),
+    "Marine & Wave Energy": ("Grid & Power", "badge-grid"),
     "Grid-Scale Energy Storage": ("Grid & Power", "badge-grid"),
     "Grid-Scale Energy Storage / Grid & Power": ("Grid & Power", "badge-grid"),
     "Fuel Cells": ("Grid & Power", "badge-grid"),
@@ -118,14 +121,17 @@ SUBTHEME_BADGE = {
     "Uranium & Nuclear Fuel": ("Minerals", "badge-minerals"),
     "Specialty Metals": ("Nuclear", "badge-nuclear"),
     "Specialty Metals (Silver)": ("Minerals", "badge-minerals"),
+    "Rare Earths / Specialty Metals": ("Minerals", "badge-minerals"),
     "Copper": ("Minerals", "badge-minerals"),
     "Gold": ("Minerals", "badge-minerals"),
     "Rare Earths": ("Minerals", "badge-minerals"),
     "Stablecoins / Crypto Finance": ("Fintech", "badge-fintech"),
     "Brokerage / Trading": ("Fintech", "badge-fintech"),
     "Payments / Digital Banking": ("Fintech", "badge-fintech"),
+    "Banking / Diversified Financials": ("Fintech", "badge-fintech"),
     "Consumer Finance": ("Fintech", "badge-fintech"),
     "Satellite Connectivity": ("Space", "badge-space"),
+    "Launch Vehicles": ("Space", "badge-space"),
     "Geospatial Intelligence": ("Space", "badge-space"),
     "Satellite Connectivity / Geospatial Intelligence": ("Space", "badge-space"),
     "Lunar / Deep Space": ("Space", "badge-space"),
@@ -363,7 +369,13 @@ def regen_theme_page(page: Path, data: dict, member: dict, rep: Reporter) -> str
 def update_counters(text: str, n_tickers: int, n_themes: int) -> str:
     text = re.sub(r"\b\d+ tickers across \d+ investment themes\b",
                   f"{n_tickers} tickers across {n_themes} investment themes", text)
-    text = re.sub(r"\ball \d+ tickers\b", f"all {n_tickers} tickers", text)
+    text = re.sub(r"\b\d+ structured (stock )?deep dives across \d+ investment themes\b",
+                  lambda m: f"{n_tickers} structured {m.group(1) or ''}deep dives "
+                            f"across {n_themes} investment themes", text)
+    text = re.sub(r"\b\d+ structured (stock )?deep dives\b",
+                  lambda m: f"{n_tickers} structured {m.group(1) or ''}deep dives", text)
+    text = re.sub(r"\ball \d+ (tickers|deep dives|tracked tickers)\b",
+                  lambda m: f"all {n_tickers} {m.group(1)}", text)
     return text
 
 
