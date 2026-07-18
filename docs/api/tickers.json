@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-17",
-  "count": 99,
+  "last_updated": "2026-07-18",
+  "count": 100,
   "tickers": [
     {
       "ticker": "000660",
@@ -1308,6 +1308,21 @@
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Consumer Finance",
       "price_date": "2026-06-28"
+    },
+    {
+      "ticker": "SONY",
+      "company": "Sony Group Corporation",
+      "sector": "Technology",
+      "industry": "Diversified Consumer Electronics / Semiconductors / Entertainment",
+      "rating": "BUY",
+      "price": 21.12,
+      "market_cap": "$122.76B",
+      "last_updated": "2026-07-18",
+      "deep_dive_url": "/deep-dives/SONY/",
+      "api_url": "/api/SONY.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Imaging & Sensing",
+      "price_date": "2026-07-18"
     },
     {
       "ticker": "SPCE",

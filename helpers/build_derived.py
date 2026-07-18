@@ -92,6 +92,7 @@ EXCHANGE_TV = {
 SUBTHEME_BADGE = {
     "AI Compute": ("Semiconductors", "badge-semi"),
     "Analog / Power": ("Semiconductors", "badge-semi"),
+    "Imaging & Sensing": ("Semiconductors", "badge-semi"),
     "Memory & Storage": ("Memory & Storage", "badge-memory"),
     "Semiconductor Equipment": ("Semi Equipment", "badge-semi-equip"),
     "Photonics & Optical Interconnects": ("Photonics", "badge-photonics"),
