@@ -1,0 +1,66 @@
+{
+  "ticker": "SONY",
+  "company": "Sony Group Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Imaging & Sensing",
+  "industry": "Diversified Consumer Electronics / Semiconductors / Entertainment",
+  "exchange": "NYSE",
+  "price": 21.12,
+  "price_date": "2026-07-18",
+  "market_cap": "$122.76B",
+  "rating": "BUY",
+  "last_updated": "2026-07-18",
+  "thesis": "Sony Group Corporation is a high-quality Japanese conglomerate being mispriced near 52-week lows. While the market focuses on the Sony Financial spin-off charge and gaming hardware softness, the dominant Imaging & Sensing Solutions business (CMOS image sensors, camera modules, and AI-perception silicon) offers a unique call option on AI/robotics/autonomous systems. The ADR trades at a meaningful discount to analyst targets and offers strong free cash flow, recurring music/pictures IP, and a newly expanded share buyback.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$83.2B",
+    "revenue_growth": "+3.7%",
+    "gross_margin": "~30%",
+    "net_income": "$6.7B",
+    "eps_diluted": "$1.12",
+    "cash": "$14.7B",
+    "fcf": "$9.0B"
+  },
+  "bull_case": {
+    "target": "$36–$40",
+    "drivers": [
+      "Accelerated image-sensor design wins in automotive, industrial, and robotics perception",
+      "PlayStation services and content monetization stabilize gaming profits",
+      "Strong music and pictures performance drives recurring IP cash flow",
+      "Yen weakness boosts dollar-reported earnings and repatriation value",
+      "Expanded buyback and dividend execution exceed expectations"
+    ]
+  },
+  "base_case": {
+    "target": "$28–$32",
+    "assumptions": "Imaging & Sensing Solutions grows steadily while gaming transitions; entertainment cash flows remain resilient; the Sony Financial spin-off completes without major disruption; and the ADR re-rates toward analyst consensus as near-term concerns fade."
+  },
+  "bear_case": {
+    "target": "$18–$20",
+    "risks": [
+      "Gaming hardware and content-spend deterioration",
+      "Image-sensor share loss to Samsung, Omnivision, or Chinese suppliers",
+      "JPY/FX headwinds and persistent conglomerate discount",
+      "Auto/semiconductor cycle weakness delaying sensor ramp"
+    ]
+  },
+  "catalysts": [
+    { "date": "Q2 FY2026 earnings", "iso_date": "2026-11", "event": "Quarterly results expected to show imaging and entertainment momentum, gaming transition progress, and any guidance updates." },
+    { "date": "FY2026 H1 results / raised guidance", "iso_date": "2026-11", "event": "Strong first-half results could lead to full-year guidance upgrades, particularly in Imaging & Sensing and Pictures." },
+    { "date": "Image sensor design wins", "iso_date": "2026", "event": "New automotive, industrial, and robotics CMOS image-sensor design wins expand TAM and validate the AI-perception thesis." },
+    { "date": "PlayStation services momentum", "iso_date": "2026", "event": "Recurring revenue from PlayStation Plus, digital games, and live-service titles stabilizes gaming segment profitability." },
+    { "date": "Sony Financial spin-off completion", "iso_date": "2026", "event": "Completion of the financial services separation simplifies the conglomerate and improves ROE." },
+    { "date": "Share buyback execution", "iso_date": "2026", "event": "Execution of the announced ¥500 billion share buyback provides downside support and signals capital discipline." }
+  ],
+  "key_risks": [
+    "Gaming hardware decline and content-spend inflation",
+    "JPY/FX headwinds",
+    "Image-sensor competition from Samsung, Omnivision, and Chinese suppliers",
+    "Auto/semiconductor cycle weakness",
+    "Conglomerate discount",
+    "Memory and component costs",
+    "Box-office volatility in Pictures",
+    "Financial Services spin-off execution risk"
+  ]
+}

@@ -7,6 +7,7 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NYSE:SONY" hide-background></tv-ticker-tag> | Sony Group Corporation | <span class="rating-buy">BUY</span> | 2026-07-18 | [:material-file-document: Read](SONY.md) |
 | <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
 
 ### Analog / Power
@@ -18,6 +19,18 @@ Pure-play silicon carbide (SiC) semiconductor company with vertical integration 
 **Bull:** \$65–\$75 · **Base:** \$35–\$45 · **Bear:** \$12–\$18
 
 [:material-arrow-right: Full Deep Dive](WOLF.md)
+
+---
+
+### Imaging & Sensing
+
+**SONY — Sony Group Corporation · <span class="rating-buy">BUY</span>**
+
+Sony Group Corporation is a high-quality Japanese conglomerate being mispriced near 52-week lows. While the market fixates on the Sony Financial spin-off and gaming hardware softness, the dominant Imaging & Sensing Solutions business (CMOS image sensors, camera modules, and AI-perception silicon) offers a unique call option on AI/robotics/autonomous systems. Strong free cash flow, recurring music/pictures IP, and a newly expanded ¥500 billion buyback further support the ADR.
+
+**Bull:** \$36–\$40 · **Base:** \$28–\$32 · **Bear:** \$18–\$20
+
+[:material-arrow-right: Full Deep Dive](SONY.md)
 
 ---
 
