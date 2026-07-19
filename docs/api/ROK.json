@@ -1,0 +1,64 @@
+{
+  "ticker": "ROK",
+  "company": "Rockwell Automation, Inc.",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Industrial Automation / Specialty Industrial Machinery",
+  "exchange": "NYSE",
+  "price": 461.85,
+  "price_date": "2026-07-19",
+  "market_cap": "~$51B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-19",
+  "thesis": "Rockwell Automation is the largest pure-play industrial-automation company in the world and a prime beneficiary of factory reshoring, digital transformation, and the automation of AI-era infrastructure (data centers, semiconductor fabs, and logistics). After a soft FY2025 (revenue +1% to $8.34B as customers digested prior overordering), momentum has re-accelerated: the most recent quarter delivered ~12% revenue growth and an EPS beat, management raised FY2026 adjusted EPS guidance to $12.50–$13.10, and margin expansion continues across all three segments. The company pairs a wide moat (installed base, Logix control ecosystem, switching costs) with a $1B buyback and a growing software and recurring-revenue mix. The catch is valuation: at ~$462 the stock trades near 48x trailing and ~33x forward earnings — well above its historical range and near 52-week highs, with the ~$471 analyst consensus implying only low-single-digit upside. Excellent franchise, full price — hence HOLD.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Sep 2025)",
+    "revenue": "$8.34B",
+    "revenue_growth": "+1%",
+    "gross_margin": "~40%",
+    "net_income": "$867M (GAAP)",
+    "eps_diluted": "$10.53 (adjusted)",
+    "cash": "~$0.5B",
+    "fcf": "~$1.0B"
+  },
+  "bull_case": {
+    "target": "$560–620",
+    "drivers": [
+      "Data-center and semiconductor automation demand accelerates, adding a durable secular growth layer on top of Rockwell's traditional cyclical end markets",
+      "FY2026 adjusted EPS lands at or above the top of the $12.50–$13.10 guide and FY2027 approaches $15 as reshoring and digital-transformation capex broadens",
+      "Software & Control and recurring/annual-recurring revenue keep compounding at 30%+ segment margins, structurally lifting the blended margin and multiple",
+      "Order momentum and book-to-bill stay above 1.0 as manufacturers scale AI, MES, and cybersecurity (FactoryTalk, Plex, SecureOT)",
+      "Continued margin expansion (segment margin already 20.7%, +360 bps YoY) plus the $1B buyback drive double-digit EPS growth and the premium multiple holds"
+    ]
+  },
+  "base_case": {
+    "target": "$470–520",
+    "assumptions": "Rockwell delivers its raised FY2026 guide (adjusted EPS $12.50–$13.10) on mid-to-high-single-digit organic growth, with continued but moderating margin expansion. Data-center, semiconductor, and logistics automation offset softer traditional discrete and process markets. The stock stays a premium industrial at ~33–38x forward earnings and drifts modestly higher toward the ~$471 consensus as the cyclical recovery is confirmed rather than re-rated sharply."
+  },
+  "bear_case": {
+    "target": "$340–390",
+    "risks": [
+      "The industrial capex cycle rolls over and organic growth decelerates, echoing the FY2024–2025 destocking downturn",
+      "The premium ~33x forward / ~48x trailing multiple compresses toward Rockwell's historical mid-20s as growth slows",
+      "Data-center and semiconductor automation demand proves lumpier or lower-margin than hoped and does not offset core-market weakness",
+      "Tariffs, supply-chain costs, and pricing give-back pressure the hard-won margin expansion",
+      "A broad industrials de-rating or recession hits a name trading near 52-week highs and above the analyst target"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 5, 2026", "iso_date": "2026-08-05", "event": "Q3 FY2026 earnings — organic growth, orders/book-to-bill, and any further FY2026 guidance raise"},
+    {"date": "FY2026", "iso_date": "2026", "event": "Execution against raised FY2026 adjusted EPS guidance of $12.50–$13.10 and continued segment-margin expansion"},
+    {"date": "2026", "iso_date": "2026", "event": "Data-center, semiconductor-fab, and logistics automation order momentum as AI-era infrastructure is built out"},
+    {"date": "November 2026", "iso_date": "2026-11", "event": "Q4 and full-year FY2026 results with initial FY2027 guidance"},
+    {"date": "2026", "iso_date": "2026", "event": "Execution of the $1B share-repurchase authorization and growth in software / annual recurring revenue (FactoryTalk, Plex)"}
+  ],
+  "key_risks": [
+    "Full valuation: ~48x trailing and ~33x forward earnings, above the historical mid-20s range and near 52-week highs, with consensus target only ~2% above the price",
+    "Cyclicality: industrial automation capex is tied to manufacturing cycles and can swing sharply, as the FY2024–2025 destocking downturn showed",
+    "Reliance on data-center and semiconductor demand that may prove lumpy, project-timing dependent, or lower-margin than the core business",
+    "Tariff, input-cost, and pricing pressures that could reverse recent margin gains",
+    "Competition from Siemens, Schneider Electric, Emerson, ABB, and Honeywell across automation, software, and process end markets",
+    "Macro/recession sensitivity given a high beta (~1.5) and premium multiple"
+  ]
+}

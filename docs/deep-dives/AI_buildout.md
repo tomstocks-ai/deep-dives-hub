@@ -39,6 +39,7 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
+| <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 
 ---
 
@@ -49,6 +50,16 @@ Worldwide supplier of semiconductor test and burn-in solutions, pivoting from EV
 **Bull:** \$65–75 · **Base:** \$40–50 · **Bear:** \$20–25
 
 [:material-arrow-right: Full Deep Dive](AEHR.md)
+
+---
+
+**TER — Teradyne, Inc. · <span class="rating-hold">HOLD</span>**
+
+The world's leading supplier of automated test equipment (ATE) for semiconductors and one of the cleanest picks-and-shovels plays on the AI hardware buildout — AI now drives ~70% of sales. Rising test intensity from advanced packaging, HBM/DRAM, and compute SoCs is structurally expanding its market: after a modest FY2025 (revenue +13% to \$3.19B), Q1 2026 revenue exploded +87% and Q2 is guided to similar growth, with management targeting \$6B midterm revenue at 59-61% gross margin. The Tokyo Electron KGD collaboration and robotics ("physical AI" via Universal Robots and MiR) add optionality. The catch is valuation: even ~34% off its 52-week high, at ~\$322 the stock trades near 60x trailing and ~46x forward earnings — a peak-cycle multiple on possibly peak-cycle earnings, in a historically boom-bust industry. Genuine AI tailwind, rich price — but ~31% upside to the \$423 consensus if the up-cycle proves durable.
+
+**Bull:** \$500–560 · **Base:** \$400–450 · **Bear:** \$200–260
+
+[:material-arrow-right: Full Deep Dive](TER.md)
 
 ---
 
@@ -156,10 +167,21 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:AMD" hide-background></tv-ticker-tag> | Advanced Micro Devices, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](AMD.md) |
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 | <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
+
+---
+
+**AMD — Advanced Micro Devices, Inc. · <span class="rating-hold">HOLD</span>**
+
+The clear number-two in AI accelerators and the only credible near-term challenger to NVIDIA's data-center GPU dominance. FY2025 delivered record revenue of \$34.6B (+34% YoY) with Data Center revenue of \$16.6B (+32%), and the Instinct MI350 ramp plus the 2026 MI400 series and Helios rack-scale platform give AMD a real path to meaningful GPU share — seven of the ten largest AI companies (OpenAI, Meta, xAI, Microsoft, Oracle) now use Instinct. The catch is valuation: at ~\$496 the stock trades near 187x GAAP EPS and ~45–55x forward non-GAAP earnings, pricing in near-flawless MI400 execution. Main risks are the ROCm-vs-CUDA software gap, competition from NVIDIA's Rubin generation, and AI-capex digestion. Strong thesis, stretched price — HOLD pending a better entry or proof of the 2026 ramp.
+
+**Bull:** \$650–750 · **Base:** \$520–580 · **Bear:** \$300–360
+
+[:material-arrow-right: Full Deep Dive](AMD.md)
 
 ---
 
@@ -402,6 +424,10 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
+| <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
+| <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
+| <tv-ticker-tag symbol="NYSE:RRX" hide-background></tv-ticker-tag> | Regal Rexnord Corporation | <span class="rating-buy">BUY</span> | 2026-07-19 | [:material-file-document: Read](RRX.md) |
+| <tv-ticker-tag symbol="NASDAQ:OUST" hide-background></tv-ticker-tag> | Ouster, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-19 | [:material-file-document: Read](OUST.md) |
 
 ---
 
@@ -442,5 +468,42 @@ Pre-merger SPAC proxy for Agility Robotics, the first US-listed pure-play humano
 **Bull:** \$26–\$30 · **Base:** \$18–\$22 · **Bear:** \$10–\$12
 
 [:material-arrow-right: Full Deep Dive](CCXI.md)
+**ROK — Rockwell Automation, Inc. · <span class="rating-hold">HOLD</span>**
+
+The world's largest pure-play industrial-automation company and a prime beneficiary of factory reshoring, digital transformation, and the automation of AI-era infrastructure (data centers, semiconductor fabs, logistics). After a soft FY2025 (revenue +1% to \$8.34B on customer destocking), growth has re-accelerated — the latest quarter grew ~12% with an EPS beat (\$3.30 vs \$2.88), total segment margin expanded 360 bps to 20.7%, and management raised FY2026 adjusted EPS guidance to \$12.50–\$13.10. Software & Control (31.2% margin) is the mix-shift engine, backed by a fresh \$1B buyback. The catch is valuation: at ~\$462 the stock trades near 48x trailing and ~33x forward earnings, above its historical range and close to 52-week highs, with consensus (~\$471) only ~2% higher. Excellent franchise, full price — the primary risk is a cyclical stumble plus multiple compression.
+
+**Bull:** \$560–620 · **Base:** \$470–520 · **Bear:** \$340–390
+
+[:material-arrow-right: Full Deep Dive](ROK.md)
+
+---
+
+**NOVT — Novanta Inc. · <span class="rating-hold">HOLD</span>**
+
+A precision-technology enabler — the picks-and-shovels (photonics, precision motion, machine vision) inside surgical robots, DNA sequencers, semiconductor tools, and factory automation. Novanta runs two segments (Automation Enabling Technologies ~51%, Medical Solutions ~49%), with medical end markets ~53% of sales. FY2025 revenue rose 3% to \$981M with adjusted EPS of \$3.29, and momentum is re-accelerating — Q1 2026 bookings grew 37% (1.10 book-to-bill) and management raised FY2026 guidance to \$1.04–1.055B revenue and \$3.50–3.65 adjusted EPS. The \$1.45B Riverpoint Medical acquisition pushes it deeper into recurring surgical consumables. The catch: at ~\$149 the stock trades ~40x forward (and ~105x depressed GAAP) earnings, and the debt-and-equity-funded deal adds leverage, dilution, and integration risk. High-quality compounder, full price, ~18% upside to the \$175–180 targets. *(Classified under Robotics & Automation on its automation/enabling-tech identity despite ~53% medical end-market exposure.)*
+
+**Bull:** \$190–210 · **Base:** \$160–180 · **Bear:** \$100–120
+
+[:material-arrow-right: Full Deep Dive](NOVT.md)
+
+---
+
+**RRX — Regal Rexnord Corporation · <span class="rating-buy">BUY</span>**
+
+A diversified industrial maker of electric motors, power transmission, and automation/motion-control products that has quietly become an AI data-center beneficiary. Its Automation & Motion Control segment is booming on data-center power management and precision motion — Q4 2025 brought ~\$735M of data-center orders and Q1 2026 AMC orders grew over 34%. FY2025 revenue was roughly flat at \$5.93B, but adjusted EPS reached \$9.65 with \$893M adjusted free cash flow driving rapid deleveraging, and FY2026 is guided to \$10.20–\$11.00 adjusted EPS (~10% growth). Unlike most AI-adjacent names, RRX is not expensive: at ~\$207 it trades at only ~18–19x forward earnings with a Strong Buy consensus and a ~\$260 target (~26% upside). Reasonable valuation plus a real data-center catalyst, margin expansion (gross margin ~26% to ~38% over seven years), and deleveraging make this a BUY — with elevated leverage (~3.1x net debt/EBITDA) and industrial cyclicality the key risks.
+
+**Bull:** \$290–320 · **Base:** \$250–270 · **Bear:** \$150–175
+
+[:material-arrow-right: Full Deep Dive](RRX.md)
+
+---
+
+**OUST — Ouster, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+A digital-lidar pure play positioning as a leader in sensing and perception for "Physical AI" — the 3D eyes for robots, autonomous machines, ADAS, and smart infrastructure. Revenue is growing fast (FY2025 +52% to \$169M; Q1 2026 +49%) as the OS family and new Rev8 native-color lidar ramp, aided by the Stereolabs camera acquisition, BlueCity smart-traffic systems (NJ DOT / World Cup), and design wins in heavy-equipment autonomy (AIM). Analysts are bullish (Strong Buy, ~\$49 target, ~32% upside; Oppenheimer \$57) and 2026 equity raises leave it well funded on a stated path to profitability by 2027. But it is still loss-making, carries an extreme ~3.2 beta and a \$16–64 52-week range, competes in a brutal lidar industry, and the raises are dilutive. Positive thesis, high uncertainty — a speculative position sized small.
+
+**Bull:** \$65–80 · **Base:** \$45–55 · **Bear:** \$18–25
+
+[:material-arrow-right: Full Deep Dive](OUST.md)
 
 ---

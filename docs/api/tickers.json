@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-18",
-  "count": 100,
+  "last_updated": "2026-07-19",
+  "count": 107,
   "tickers": [
     {
       "ticker": "000660",
@@ -108,6 +108,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Specialty Metals (Silver)",
       "price_date": "2026-06-25"
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors / AI Compute",
+      "rating": "HOLD",
+      "price": 495.76,
+      "market_cap": "~$800B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/AMD/",
+      "api_url": "/api/AMD.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-19"
     },
     {
       "ticker": "ASPI",
@@ -935,6 +950,21 @@
       "price_date": "2026-06-21"
     },
     {
+      "ticker": "NOVT",
+      "company": "Novanta Inc.",
+      "sector": "Technology",
+      "industry": "Precision Photonics, Motion and Vision / Scientific and Technical Instruments",
+      "rating": "HOLD",
+      "price": 148.71,
+      "market_cap": "~$5.6B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/NOVT/",
+      "api_url": "/api/NOVT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "sector": "Technology",
@@ -1010,6 +1040,21 @@
       "price_date": "2026-06-10"
     },
     {
+      "ticker": "OUST",
+      "company": "Ouster, Inc.",
+      "sector": "Technology",
+      "industry": "Digital Lidar Sensors / Electronic Components",
+      "rating": "SPEC. BUY",
+      "price": 37.04,
+      "market_cap": "~$2.5B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/OUST/",
+      "api_url": "/api/OUST.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "P",
       "company": "Everpure, Inc.",
       "sector": "Technology",
@@ -1083,6 +1128,21 @@
       "theme": "Space Economy",
       "sub_theme": "Geospatial Intelligence",
       "price_date": "2026-04-03"
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "sector": "Technology",
+      "industry": "Enterprise Software / Data Analytics",
+      "rating": "HOLD",
+      "price": 132.38,
+      "market_cap": "~$317B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/PLTR/",
+      "api_url": "/api/PLTR.json",
+      "theme": "Software",
+      "sub_theme": "Data & Analytics",
+      "price_date": "2026-07-19"
     },
     {
       "ticker": "PPTA",
@@ -1173,6 +1233,36 @@
       "theme": "Space Economy",
       "sub_theme": "Launch Vehicles",
       "price_date": "2026-07-16"
+    },
+    {
+      "ticker": "ROK",
+      "company": "Rockwell Automation, Inc.",
+      "sector": "Industrials",
+      "industry": "Industrial Automation / Specialty Industrial Machinery",
+      "rating": "HOLD",
+      "price": 461.85,
+      "market_cap": "~$51B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/ROK/",
+      "api_url": "/api/ROK.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
+      "ticker": "RRX",
+      "company": "Regal Rexnord Corporation",
+      "sector": "Industrials",
+      "industry": "Motion Control, Power Transmission and Automation / Specialty Industrial Machinery",
+      "rating": "BUY",
+      "price": 206.81,
+      "market_cap": "~$13.8B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/RRX/",
+      "api_url": "/api/RRX.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
     },
     {
       "ticker": "RTX",
@@ -1383,6 +1473,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Copper",
       "price_date": "2026-04-03"
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductor Test Equipment (ATE) / Robotics",
+      "rating": "HOLD",
+      "price": 322.36,
+      "market_cap": "~$50B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/TER/",
+      "api_url": "/api/TER.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-07-19"
     },
     {
       "ticker": "TKR",

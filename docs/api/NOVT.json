@@ -1,0 +1,64 @@
+{
+  "ticker": "NOVT",
+  "company": "Novanta Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Precision Photonics, Motion and Vision / Scientific and Technical Instruments",
+  "exchange": "NASDAQ",
+  "price": 148.71,
+  "price_date": "2026-07-19",
+  "market_cap": "~$5.6B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-19",
+  "thesis": "Novanta is a precision-technology enabler that supplies photonics (laser beam steering, sources), precision motion, and machine-vision subsystems to medical and advanced-industrial OEMs — the picks-and-shovels inside surgical robots, DNA sequencers, semiconductor tools, and factory automation. It runs two segments (Automation Enabling Technologies, ~51%, and Medical Solutions, ~49%), with medical end markets ~53% of sales and growing. FY2025 revenue rose 3% to $981M with adjusted EPS of $3.29, and momentum is re-accelerating: Q1 2026 bookings grew 37% (1.10 book-to-bill) and management raised FY2026 guidance to $1.04-1.055B revenue and $3.50-3.65 adjusted EPS. The $1.45B Riverpoint Medical acquisition pushes Novanta deeper into recurring surgical consumables. The catch is valuation and risk: at ~$149 the stock trades ~40x forward (and ~105x depressed GAAP) earnings, and the debt-and-equity-funded Riverpoint deal adds leverage, dilution, and integration risk. High-quality compounder, full price — hence HOLD, with ~18% upside to the ~$175-180 analyst target if execution holds.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$981M",
+    "revenue_growth": "+3%",
+    "gross_margin": "~46%",
+    "net_income": "$54M (GAAP)",
+    "eps_diluted": "$3.29 (adjusted)",
+    "cash": "~$110M",
+    "fcf": "~$150M"
+  },
+  "bull_case": {
+    "target": "$190–210",
+    "drivers": [
+      "Riverpoint Medical integrates cleanly and accretes, accelerating high-margin recurring surgical-consumables revenue (medical consumables already ~15% of sales, growing double digits)",
+      "Bookings strength (+37% YoY, 1.10 book-to-bill) converts into sustained double-digit organic revenue growth across medical and automation",
+      "Automation Enabling Technologies rides robotics, machine vision, and AI-linked precision-motion demand as factory and lab automation expands",
+      "Adjusted EBITDA margins expand toward the mid-20s on mix shift to recurring revenue and intelligent subsystems",
+      "The market re-rates Novanta as a durable, recurring-revenue precision-tech compounder rather than a cyclical component supplier"
+    ]
+  },
+  "base_case": {
+    "target": "$160–180",
+    "assumptions": "Novanta delivers its raised FY2026 guide (revenue $1.04-1.055B, adjusted EPS $3.50-3.65) on mid-to-high-single-digit organic growth plus the Riverpoint contribution, with steady margin expansion. The Riverpoint integration proceeds without major surprises, and the stock holds a premium ~38-42x forward multiple, drifting toward the ~$175-180 analyst targets over the next year as growth is delivered."
+  },
+  "bear_case": {
+    "target": "$100–120",
+    "risks": [
+      "Riverpoint integration missteps, higher leverage, and share dilution weigh on returns and the multiple",
+      "Advanced-industrial and semiconductor end-market cyclicality slows bookings and revenue",
+      "The premium ~40x forward multiple compresses toward instrument/industrial peers on any growth or execution wobble",
+      "GAAP earnings stay pressured by acquisition amortization and integration costs, keeping the headline P/E optically extreme",
+      "A broad small/mid-cap or industrials de-rating hits a high-beta (~1.7) serial acquirer"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 5, 2026", "iso_date": "2026-08-05", "event": "Q2 2026 earnings — bookings/book-to-bill, organic growth, and early Riverpoint integration commentary (guide: revenue $259-264M, adj EPS $0.81-0.86)"},
+    {"date": "2026", "iso_date": "2026", "event": "Riverpoint Medical ($1.45B) closing and integration — surgical-consumables recurring-revenue ramp and synergy delivery"},
+    {"date": "FY2026", "iso_date": "2026", "event": "Execution against raised FY2026 guidance (revenue $1.04-1.055B, adjusted EPS $3.50-3.65)"},
+    {"date": "2026", "iso_date": "2026", "event": "Automation Enabling Technologies demand in robotics, machine vision, and semiconductor/lab automation; deleveraging progress post-acquisition"},
+    {"date": "Q1 2027", "iso_date": "2027-02", "event": "Q4/FY2026 results and initial FY2027 outlook, including full Riverpoint contribution"}
+  ],
+  "key_risks": [
+    "Full valuation: ~40x forward and ~105x trailing (GAAP) earnings leave limited room for error",
+    "Acquisition risk: the $1.45B Riverpoint deal adds leverage, dilution (a $300M private placement plus share registration), and integration risk",
+    "Cyclicality in advanced-industrial and semiconductor end markets (~47% of sales)",
+    "GAAP earnings depressed by acquisition amortization and integration costs, widening the adjusted-vs-GAAP gap",
+    "Customer and OEM concentration; Novanta is a component/subsystem supplier dependent on its OEM customers' own cycles",
+    "High beta (~1.7) and small/mid-cap liquidity make the stock sensitive to risk-off rotations"
+  ]
+}

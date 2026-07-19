@@ -135,7 +135,7 @@ tickers.forEach(t => console.log(`${t.ticker}: ${t.rating}`));
 
 ## MCP Server
 
-An [MCP](https://modelcontextprotocol.io/) server is included, letting Claude Desktop and the `claude` CLI use all 100 deep dives as tools and resources.
+An [MCP](https://modelcontextprotocol.io/) server is included, letting Claude Desktop and the `claude` CLI use all 107 deep dives as tools and resources.
 
 ```bash
 # Install with MCP support
@@ -166,7 +166,7 @@ DEEP_DIVES_REMOTE=1 deep-dives-mcp
 
 | Tool | Description |
 |------|-------------|
-| `list_tickers` | Filter all 100 tickers by theme, sector, and/or rating |
+| `list_tickers` | Filter all 107 tickers by theme, sector, and/or rating |
 | `get_deep_dive` | Full structured deep dive for one ticker |
 | `get_thesis` | Investment thesis only — token-efficient shortcut |
 | `compare_tickers` | Side-by-side targets + thesis snippets for a list |

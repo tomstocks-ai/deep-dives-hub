@@ -1,6 +1,6 @@
 # Deep Dives Hub — MCP Server
 
-Exposes 100 structured stock deep dives as MCP tools and resources, consumable
+Exposes 107 structured stock deep dives as MCP tools and resources, consumable
 by Claude Desktop, the `claude` CLI, and any MCP-compatible agent.
 
 ## Install
@@ -59,7 +59,7 @@ Remote mode (no repo clone needed):
 
 | Tool | Description |
 |---|---|
-| `list_tickers` | Filter all 100 tickers by theme, sector, and/or rating |
+| `list_tickers` | Filter all 107 tickers by theme, sector, and/or rating |
 | `get_deep_dive` | Full structured deep dive for one ticker |
 | `get_thesis` | Investment thesis only — token-efficient shortcut |
 | `compare_tickers` | Side-by-side targets + thesis snippets for a list |
