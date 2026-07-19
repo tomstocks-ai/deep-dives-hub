@@ -17,6 +17,7 @@
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
 | <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
 | <tv-ticker-tag symbol="NASDAQ:FRSH" hide-background></tv-ticker-tag> | Freshworks Inc. | <span class="rating-buy">BUY</span> | 2026-07-14 | [:material-file-document: Read](FRSH.md) |
+| <tv-ticker-tag symbol="NASDAQ:PLTR" hide-background></tv-ticker-tag> | Palantir Technologies Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](PLTR.md) |
 
 ---
 
@@ -125,6 +126,18 @@ Cloud-native observability and security platform with best-in-class fundamentals
 **Bull:** \$300–\$320 · **Base:** \$220–\$240 · **Bear:** \$150–\$170
 
 [:material-arrow-right: Full Deep Dive](DDOG.md)
+
+---
+
+### Data & Analytics
+
+**PLTR — Palantir Technologies Inc. · <span class="rating-hold">HOLD</span>**
+
+The purest large-cap play on enterprise-AI deployment, pairing a decades-deep government franchise (Gotham, Maven Smart System) with the fastest-growing commercial business in software. FY2025 revenue accelerated to \$4.475B (+56% YoY) with US commercial up 137% in Q4, a Rule of 40 of 127, ~51% adjusted FCF margins, and GAAP profitability; FY2026 is guided to ~\$7.19B (+61%). The AIP bootcamp motion is converting pilots into large expansions faster than almost any software company in history. The only problem is price: even after a ~35% drawdown from its high, at ~\$132 the stock trades near 149x trailing and ~83x forward earnings and 60x+ sales. Exceptional company, priced for perfection — the primary risk is multiple compression, not the business.
+
+**Bull:** \$200–240 · **Base:** \$150–180 · **Bear:** \$80–110
+
+[:material-arrow-right: Full Deep Dive](PLTR.md)
 
 ---
 

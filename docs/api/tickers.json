@@ -1100,6 +1100,21 @@
       "price_date": "2026-04-03"
     },
     {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "sector": "Technology",
+      "industry": "Enterprise Software / Data Analytics",
+      "rating": "HOLD",
+      "price": 132.38,
+      "market_cap": "~$317B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/PLTR/",
+      "api_url": "/api/PLTR.json",
+      "theme": "Software",
+      "sub_theme": "Data & Analytics",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "PPTA",
       "company": "Perpetua Resources Corp.",
       "sector": "Materials",

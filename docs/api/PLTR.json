@@ -1,0 +1,64 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Data & Analytics",
+  "industry": "Enterprise Software / Data Analytics",
+  "exchange": "NASDAQ",
+  "price": 132.38,
+  "price_date": "2026-07-19",
+  "market_cap": "~$317B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-19",
+  "thesis": "Palantir is the purest large-cap way to own the enterprise-AI deployment wave, pairing a decades-deep government franchise (Gotham, Maven Smart System) with the fastest-growing commercial business in software. FY2025 revenue of $4.475B (+56% YoY) accelerated through the year — Q4 grew 70% and US commercial revenue exploded 137% YoY — producing a Rule of 40 of 127, 51% adjusted FCF margins, and GAAP profitability. The AIP (Artificial Intelligence Platform) bootcamp motion is converting pilots into large expansions at record pace, and FY2026 is guided to ~$7.19B (+61%). The single problem is price: even after a ~35% drawdown from its high, the stock trades near 149x trailing and ~83x forward earnings and well over 60x sales. Exceptional business, priced for perfection — hence HOLD pending a better entry.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$4.475B",
+    "revenue_growth": "+56%",
+    "gross_margin": "~80% (GAAP)",
+    "net_income": "$1.63B (GAAP)",
+    "eps_diluted": "$0.66 (GAAP)",
+    "cash": "~$6.5B (cash and short-term investments)",
+    "fcf": "$2.3B (adjusted, 51% margin)"
+  },
+  "bull_case": {
+    "target": "$200–240",
+    "drivers": [
+      "US commercial revenue keeps compounding above 100% as AIP bootcamps convert into seven- and eight-figure enterprise expansions",
+      "FY2026 revenue beats the ~$7.19B (+61%) guide and the Rule of 40 stays above 100, cementing Palantir as the reference platform for operational enterprise AI",
+      "Government franchise re-accelerates on Maven Smart System scale-up, NATO and allied defense adoption, and expanding US federal AI budgets",
+      "International commercial finally inflects as sovereign-AI and regulated-industry demand (Rackspace, SNP, insurers) builds a repeatable channel",
+      "Adjusted operating and FCF margins push toward the mid-50s, letting the premium multiple hold as earnings compound into it"
+    ]
+  },
+  "base_case": {
+    "target": "$150–180",
+    "assumptions": "Palantir delivers its FY2026 guide of ~$7.19B (+61%) with US commercial up ~115%, government growing steadily, and adjusted FCF margins near 50%. Growth is spectacular but broadly anticipated, so the multiple compresses gradually as the company grows into it rather than de-rating sharply. The stock recovers toward the ~$183 analyst consensus over the next year as execution stays clean and the AIP narrative holds."
+  },
+  "bear_case": {
+    "target": "$80–110",
+    "risks": [
+      "The AI-software multiple keeps compressing and PLTR de-rates toward high-growth SaaS peers (20–30x forward earnings), a long way below ~83x",
+      "US commercial growth decelerates as early-adopter AIP demand is pulled forward and net-new logo velocity slows",
+      "Government revenue is lumpy and politically exposed; contract timing, budget continuing-resolutions, or a values-based procurement block dents the growth trajectory",
+      "Heavy stock-based compensation and continued share issuance dilute holders and widen the GAAP-vs-adjusted gap",
+      "A broad risk-off rotation out of expensive AI names hits the most richly valued software stock hardest"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 3, 2026", "iso_date": "2026-08-03", "event": "Q2 2026 earnings — US commercial growth, AIP net-new logos, and any FY2026 guidance raise in focus"},
+    {"date": "Q4 2026", "iso_date": "2026-11", "event": "Q3 2026 earnings — durability of 100%+ US commercial growth and Rule of 40 trajectory"},
+    {"date": "FY2026", "iso_date": "2026", "event": "Execution against the ~$7.19B (+61%) revenue guide and ~115% US commercial guide"},
+    {"date": "2026", "iso_date": "2026", "event": "Government expansion — Maven Smart System scale-up, NATO and allied defense adoption, new US federal AI awards"},
+    {"date": "2026", "iso_date": "2026", "event": "International commercial reacceleration via sovereign-AI and regulated-industry partnerships (Rackspace, SNP, insurers)"}
+  ],
+  "key_risks": [
+    "Extreme valuation: ~149x trailing and ~83x forward earnings, and well over 60x sales, leave essentially no margin for error",
+    "Growth deceleration risk if AIP demand is pulled forward or commercial net-new logo velocity slows",
+    "Government revenue lumpiness and political/procurement exposure (contract timing, budget CRs, values-based blocks)",
+    "High stock-based compensation and ongoing dilution widen the gap between adjusted and GAAP profitability",
+    "Concentration and reputational risk tied to defense/intelligence work and a polarizing public profile",
+    "Sensitivity to a broad risk-off rotation out of high-multiple AI software names"
+  ]
+}
