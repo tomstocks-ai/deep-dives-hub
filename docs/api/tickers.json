@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-19",
-  "count": 89,
+  "count": 107,
   "tickers": [
     {
       "ticker": "000660",
@@ -1475,21 +1475,6 @@
       "price_date": "2026-04-03"
     },
     {
-      "ticker": "TKR",
-      "company": "The Timken Company",
-      "sector": "Industrials",
-      "industry": "Machinery / Industrial Components",
-      "rating": "HOLD",
-      "price": 138.34,
-      "market_cap": "$9.61B",
-      "last_updated": "2026-07-14",
-      "deep_dive_url": "/deep-dives/TKR/",
-      "api_url": "/api/TKR.json",
-      "theme": "AI Buildout",
-      "sub_theme": "Robotics & Automation",
-      "price_date": "2026-07-14"
-    },
-    {
       "ticker": "TER",
       "company": "Teradyne, Inc.",
       "sector": "Technology",
@@ -1503,6 +1488,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Semiconductor Equipment",
       "price_date": "2026-07-19"
+    },
+    {
+      "ticker": "TKR",
+      "company": "The Timken Company",
+      "sector": "Industrials",
+      "industry": "Machinery / Industrial Components",
+      "rating": "HOLD",
+      "price": 138.34,
+      "market_cap": "$9.61B",
+      "last_updated": "2026-07-14",
+      "deep_dive_url": "/deep-dives/TKR/",
+      "api_url": "/api/TKR.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-14"
     },
     {
       "ticker": "TSSI",
