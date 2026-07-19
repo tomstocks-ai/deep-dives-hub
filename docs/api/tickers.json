@@ -1040,6 +1040,21 @@
       "price_date": "2026-06-10"
     },
     {
+      "ticker": "OUST",
+      "company": "Ouster, Inc.",
+      "sector": "Technology",
+      "industry": "Digital Lidar Sensors / Electronic Components",
+      "rating": "SPEC. BUY",
+      "price": 37.04,
+      "market_cap": "~$2.5B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/OUST/",
+      "api_url": "/api/OUST.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "P",
       "company": "Everpure, Inc.",
       "sector": "Technology",

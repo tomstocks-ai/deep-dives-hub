@@ -427,6 +427,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
 | <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
 | <tv-ticker-tag symbol="NYSE:RRX" hide-background></tv-ticker-tag> | Regal Rexnord Corporation | <span class="rating-buy">BUY</span> | 2026-07-19 | [:material-file-document: Read](RRX.md) |
+| <tv-ticker-tag symbol="NASDAQ:OUST" hide-background></tv-ticker-tag> | Ouster, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-19 | [:material-file-document: Read](OUST.md) |
 
 ---
 
@@ -494,5 +495,15 @@ A diversified industrial maker of electric motors, power transmission, and autom
 **Bull:** \$290–320 · **Base:** \$250–270 · **Bear:** \$150–175
 
 [:material-arrow-right: Full Deep Dive](RRX.md)
+
+---
+
+**OUST — Ouster, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+A digital-lidar pure play positioning as a leader in sensing and perception for "Physical AI" — the 3D eyes for robots, autonomous machines, ADAS, and smart infrastructure. Revenue is growing fast (FY2025 +52% to \$169M; Q1 2026 +49%) as the OS family and new Rev8 native-color lidar ramp, aided by the Stereolabs camera acquisition, BlueCity smart-traffic systems (NJ DOT / World Cup), and design wins in heavy-equipment autonomy (AIM). Analysts are bullish (Strong Buy, ~\$49 target, ~32% upside; Oppenheimer \$57) and 2026 equity raises leave it well funded on a stated path to profitability by 2027. But it is still loss-making, carries an extreme ~3.2 beta and a \$16–64 52-week range, competes in a brutal lidar industry, and the raises are dilutive. Positive thesis, high uncertainty — a speculative position sized small.
+
+**Bull:** \$65–80 · **Base:** \$45–55 · **Bear:** \$18–25
+
+[:material-arrow-right: Full Deep Dive](OUST.md)
 
 ---

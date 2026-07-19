@@ -1,0 +1,64 @@
+{
+  "ticker": "OUST",
+  "company": "Ouster, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Digital Lidar Sensors / Electronic Components",
+  "exchange": "NASDAQ",
+  "price": 37.04,
+  "price_date": "2026-07-19",
+  "market_cap": "~$2.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-19",
+  "thesis": "Ouster is a digital-lidar pure play positioning itself as a leader in sensing and perception for 'Physical AI' — the 3D eyes for robots, autonomous machines, ADAS, and smart infrastructure. Revenue is growing fast (FY2025 +52% to $169M; Q1 2026 +49%) as its OS sensor family and new Rev8 native-color lidar ramp, aided by the Stereolabs camera acquisition, BlueCity smart-traffic systems, and design wins across heavy-equipment autonomy (AIM) and transportation (NJ DOT). Analysts are bullish (Strong Buy, ~$49 target, ~32% upside), and multiple 2026 equity raises leave the balance sheet well funded on a stated path to profitability by 2027. But this is a speculative name: Ouster is still loss-making, the stock carries an extreme ~3.2 beta and a $16-64 52-week range, lidar is a brutally competitive and historically value-destructive industry, and recent raises are dilutive. Positive thesis, high uncertainty — a SPEC. BUY for risk-tolerant investors.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$169M",
+    "revenue_growth": "+52%",
+    "gross_margin": "~40% (GAAP)",
+    "net_income": "-$60M (GAAP net loss)",
+    "eps_diluted": "-$1.26 (GAAP)",
+    "cash": "~$400M (bolstered by 2026 equity raises)",
+    "fcf": "-$45M (approx)"
+  },
+  "bull_case": {
+    "target": "$65–80",
+    "drivers": [
+      "Rev8 native-color digital lidar and the BlueCity smart-infrastructure platform drive revenue past $250M+ with expanding gross margins",
+      "Physical AI adoption accelerates across robotics, heavy-equipment autonomy (AIM Intelligent Machines), logistics, and intelligent transportation",
+      "Ouster reaches profitability at or ahead of its 2027 target, validating the operating-leverage story",
+      "Domestic-procurement tailwinds (Build America, Buy America compliance) win smart-city and government infrastructure deals",
+      "The market re-rates Ouster as the scaled, IP-rich digital-lidar leader in a consolidating industry"
+    ]
+  },
+  "base_case": {
+    "target": "$45–55",
+    "assumptions": "Ouster keeps growing revenue ~40-50% as OS and Rev8 sensors ramp across industrial, robotics, and smart-infrastructure markets, with gross margin expanding toward the mid-40s and the path to 2027 profitability intact. The well-funded balance sheet covers the remaining cash burn. The stock reaches the ~$49 analyst consensus (Oppenheimer at $57) over the next year as growth and margin progress are delivered."
+  },
+  "bear_case": {
+    "target": "$18–25",
+    "risks": [
+      "Lidar remains brutally competitive (Hesai, RoboSense, Luminar, Innoviz, plus camera/radar alternatives), pressuring price and share",
+      "Continued losses force further dilutive capital raises, compounding the recent share issuance",
+      "Automotive/ADAS and AV demand disappoints or design wins fail to convert to volume revenue",
+      "Growth decelerates and the ~13x sales multiple compresses sharply given no profits",
+      "Extreme volatility (~3.2 beta) drives a large drawdown in any risk-off rotation out of speculative Physical AI names"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 6, 2026", "iso_date": "2026-08-06", "event": "Q2 2026 earnings — product revenue growth, gross margin, cash burn, and profitability-path commentary"},
+    {"date": "2026", "iso_date": "2026", "event": "Rev8 native-color lidar ramp and high-volume production with Benchmark Electronics"},
+    {"date": "2026", "iso_date": "2026", "event": "BlueCity intelligent-transportation deployments (e.g., NJ DOT / FIFA World Cup 2026) and Build America, Buy America-driven infrastructure wins"},
+    {"date": "2026", "iso_date": "2026", "event": "Physical-AI design wins in robotics and heavy-equipment autonomy (AIM Intelligent Machines) and the Stereolabs camera integration"},
+    {"date": "2027", "iso_date": "2027", "event": "Stated path to profitability — evidence of operating leverage and cash-flow breakeven"}
+  ],
+  "key_risks": [
+    "Unprofitable: still loss-making with a stated profitability target only in 2027",
+    "Dilution: multiple 2026 equity offerings have added shares, and further raises are possible if losses persist",
+    "Intense competition in a historically value-destructive lidar industry, plus camera/radar substitution",
+    "Extreme volatility: ~3.2 beta and a $16-64 52-week range make this a high-risk holding",
+    "Valuation: ~$2.5B market cap on ~$185M TTM revenue (~13x sales) with no profits leaves little margin for error",
+    "Dependence on early-stage end markets (AV, robotics, smart infrastructure) whose adoption timing is uncertain"
+  ]
+}
