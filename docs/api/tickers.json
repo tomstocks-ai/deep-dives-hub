@@ -110,6 +110,21 @@
       "price_date": "2026-06-25"
     },
     {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors / AI Compute",
+      "rating": "HOLD",
+      "price": 495.76,
+      "market_cap": "~$800B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/AMD/",
+      "api_url": "/api/AMD.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "ASPI",
       "company": "ASP Isotopes Inc.",
       "sector": "Materials",

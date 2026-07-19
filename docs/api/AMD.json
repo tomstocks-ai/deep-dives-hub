@@ -1,0 +1,64 @@
+{
+  "ticker": "AMD",
+  "company": "Advanced Micro Devices, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "industry": "Semiconductors / AI Compute",
+  "exchange": "NASDAQ",
+  "price": 495.76,
+  "price_date": "2026-07-19",
+  "market_cap": "~$800B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-19",
+  "thesis": "AMD is the clear number-two in AI accelerators and the primary credible challenger to NVIDIA's data-center GPU monopoly. FY2025 delivered record revenue of $34.6B (+34% YoY) with Data Center revenue of $16.6B (+32%), and the Instinct MI350 ramp plus the MI400 series and Helios rack-scale platform in 2026 give AMD a genuine shot at meaningful GPU share as customers seek a second source. Seven of the ten largest AI companies — including OpenAI, Meta, and xAI — now use Instinct GPUs. The problem is price: at ~$496 the stock trades near 187x GAAP EPS and roughly 45–55x forward non-GAAP earnings, embedding near-flawless MI400 execution. Strong thesis, extreme valuation — hence HOLD pending a better entry or proof of the 2026 GPU ramp.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$34.6B",
+    "revenue_growth": "+34%",
+    "gross_margin": "50% (GAAP)",
+    "net_income": "$4.3B (GAAP)",
+    "eps_diluted": "$2.65 (GAAP)",
+    "cash": "~$7B",
+    "fcf": "~$3.9B"
+  },
+  "bull_case": {
+    "target": "$650–750",
+    "drivers": [
+      "MI400 series and Helios rack-scale system ramp hard through 2026, roughly doubling Data Center GPU revenue growth versus 2025",
+      "AMD captures double-digit share of the merchant AI-accelerator market as OpenAI, Meta, xAI, Microsoft and Oracle scale Instinct deployments",
+      "ROCm software maturity and open-standard positioning erode NVIDIA's CUDA lock-in enough to win a durable second-source slot at every major buyer",
+      "EPYC Venice (Zen 6, up to 256 cores) extends server CPU share gains above 40% and lifts blended data-center margins",
+      "Non-GAAP EPS compounds toward $12–15 by 2027 and the stock holds a premium AI-compute multiple"
+    ]
+  },
+  "base_case": {
+    "target": "$520–580",
+    "assumptions": "MI350 continues shipping and MI400/Helios launch on schedule in 2026 with solid but not NVIDIA-displacing volumes. Data Center revenue grows 40–60% in 2026; Client and Embedded grow steadily; Gaming stays soft. Gross margin drifts toward 52–54% on mix and GPU scale. The extreme multiple compresses modestly as growth is delivered rather than merely anticipated, leaving the stock range-bound-to-higher. 2026 revenue of $48–55B with non-GAAP EPS of $8–10."
+  },
+  "bear_case": {
+    "target": "$300–360",
+    "risks": [
+      "MI400 underdelivers against NVIDIA's Rubin generation on performance, availability, or software, and the second-source thesis stalls",
+      "AI-capex digestion in 2026–2027 slows hyperscaler GPU orders and channel inventory builds",
+      "Gross margins stay stuck near 50% as GPU pricing is used aggressively to buy share from NVIDIA",
+      "The ~187x GAAP / 45–55x forward multiple compresses sharply toward semiconductor-peer levels on any growth wobble",
+      "Customer concentration and export-control exposure to China weigh on the Data Center trajectory"
+    ]
+  },
+  "catalysts": [
+    {"date": "Q3 2026", "iso_date": "2026-08", "event": "Q2 2026 earnings — MI350 ramp, MI400 pre-orders, and 2026 Data Center GPU guidance in focus"},
+    {"date": "Q3 2026", "iso_date": "2026-09", "event": "Instinct MI400 series (MI430X / MI440X / MI455X) production and Helios double-wide rack launch (up to 3 AI exaflops per rack)"},
+    {"date": "H2 2026", "iso_date": "2026-09", "event": "EPYC Venice (Zen 6, up to 256 cores) server CPU launch driving continued share gains"},
+    {"date": "Q4 2026", "iso_date": "2026-11", "event": "Q3 2026 earnings — first full quarter of MI400 revenue contribution"},
+    {"date": "January 2027", "iso_date": "2027-01", "event": "CES 2027 keynote — client AI, next-gen roadmap and MI500 details"}
+  ],
+  "key_risks": [
+    "Software moat gap: NVIDIA's CUDA ecosystem remains the industry default; ROCm adoption must keep accelerating for the GPU thesis to hold",
+    "Valuation risk at ~$800B market cap, ~187x GAAP EPS and ~45–55x forward non-GAAP earnings — priced for near-flawless MI400 execution",
+    "Customer concentration: a handful of hyperscalers and AI labs drive Data Center GPU demand; any capex pause hits AMD disproportionately",
+    "Competition from NVIDIA (Rubin), custom ASICs from Broadcom and Marvell, and a resurgent Intel across CPU and accelerator markets",
+    "TSMC supply-chain and advanced-packaging (CoWoS) dependency; leading-edge and packaging capacity are shared bottlenecks",
+    "U.S.–China export controls on advanced AI chips continue to constrain the addressable Data Center GPU market"
+  ]
+}

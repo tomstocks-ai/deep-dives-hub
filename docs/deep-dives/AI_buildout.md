@@ -156,10 +156,21 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
+| <tv-ticker-tag symbol="NASDAQ:AMD" hide-background></tv-ticker-tag> | Advanced Micro Devices, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](AMD.md) |
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 | <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
+
+---
+
+**AMD — Advanced Micro Devices, Inc. · <span class="rating-hold">HOLD</span>**
+
+The clear number-two in AI accelerators and the only credible near-term challenger to NVIDIA's data-center GPU dominance. FY2025 delivered record revenue of \$34.6B (+34% YoY) with Data Center revenue of \$16.6B (+32%), and the Instinct MI350 ramp plus the 2026 MI400 series and Helios rack-scale platform give AMD a real path to meaningful GPU share — seven of the ten largest AI companies (OpenAI, Meta, xAI, Microsoft, Oracle) now use Instinct. The catch is valuation: at ~\$496 the stock trades near 187x GAAP EPS and ~45–55x forward non-GAAP earnings, pricing in near-flawless MI400 execution. Main risks are the ROCm-vs-CUDA software gap, competition from NVIDIA's Rubin generation, and AI-capex digestion. Strong thesis, stretched price — HOLD pending a better entry or proof of the 2026 ramp.
+
+**Bull:** \$650–750 · **Base:** \$520–580 · **Bear:** \$300–360
+
+[:material-arrow-right: Full Deep Dive](AMD.md)
 
 ---
 
