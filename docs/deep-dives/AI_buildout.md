@@ -425,6 +425,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
+| <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
 
 ---
 
@@ -472,5 +473,15 @@ The world's largest pure-play industrial-automation company and a prime benefici
 **Bull:** \$560–620 · **Base:** \$470–520 · **Bear:** \$340–390
 
 [:material-arrow-right: Full Deep Dive](ROK.md)
+
+---
+
+**NOVT — Novanta Inc. · <span class="rating-hold">HOLD</span>**
+
+A precision-technology enabler — the picks-and-shovels (photonics, precision motion, machine vision) inside surgical robots, DNA sequencers, semiconductor tools, and factory automation. Novanta runs two segments (Automation Enabling Technologies ~51%, Medical Solutions ~49%), with medical end markets ~53% of sales. FY2025 revenue rose 3% to \$981M with adjusted EPS of \$3.29, and momentum is re-accelerating — Q1 2026 bookings grew 37% (1.10 book-to-bill) and management raised FY2026 guidance to \$1.04–1.055B revenue and \$3.50–3.65 adjusted EPS. The \$1.45B Riverpoint Medical acquisition pushes it deeper into recurring surgical consumables. The catch: at ~\$149 the stock trades ~40x forward (and ~105x depressed GAAP) earnings, and the debt-and-equity-funded deal adds leverage, dilution, and integration risk. High-quality compounder, full price, ~18% upside to the \$175–180 targets. *(Classified under Robotics & Automation on its automation/enabling-tech identity despite ~53% medical end-market exposure.)*
+
+**Bull:** \$190–210 · **Base:** \$160–180 · **Bear:** \$100–120
+
+[:material-arrow-right: Full Deep Dive](NOVT.md)
 
 ---

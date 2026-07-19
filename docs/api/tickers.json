@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-18",
-  "count": 100,
+  "last_updated": "2026-07-19",
+  "count": 89,
   "tickers": [
     {
       "ticker": "000660",
@@ -948,6 +948,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-06-21"
+    },
+    {
+      "ticker": "NOVT",
+      "company": "Novanta Inc.",
+      "sector": "Technology",
+      "industry": "Precision Photonics, Motion and Vision / Scientific and Technical Instruments",
+      "rating": "HOLD",
+      "price": 148.71,
+      "market_cap": "~$5.6B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/NOVT/",
+      "api_url": "/api/NOVT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
     },
     {
       "ticker": "NOW",
