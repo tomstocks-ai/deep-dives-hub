@@ -426,6 +426,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
 | <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
+| <tv-ticker-tag symbol="NYSE:RRX" hide-background></tv-ticker-tag> | Regal Rexnord Corporation | <span class="rating-buy">BUY</span> | 2026-07-19 | [:material-file-document: Read](RRX.md) |
 
 ---
 
@@ -483,5 +484,15 @@ A precision-technology enabler — the picks-and-shovels (photonics, precision m
 **Bull:** \$190–210 · **Base:** \$160–180 · **Bear:** \$100–120
 
 [:material-arrow-right: Full Deep Dive](NOVT.md)
+
+---
+
+**RRX — Regal Rexnord Corporation · <span class="rating-buy">BUY</span>**
+
+A diversified industrial maker of electric motors, power transmission, and automation/motion-control products that has quietly become an AI data-center beneficiary. Its Automation & Motion Control segment is booming on data-center power management and precision motion — Q4 2025 brought ~\$735M of data-center orders and Q1 2026 AMC orders grew over 34%. FY2025 revenue was roughly flat at \$5.93B, but adjusted EPS reached \$9.65 with \$893M adjusted free cash flow driving rapid deleveraging, and FY2026 is guided to \$10.20–\$11.00 adjusted EPS (~10% growth). Unlike most AI-adjacent names, RRX is not expensive: at ~\$207 it trades at only ~18–19x forward earnings with a Strong Buy consensus and a ~\$260 target (~26% upside). Reasonable valuation plus a real data-center catalyst, margin expansion (gross margin ~26% to ~38% over seven years), and deleveraging make this a BUY — with elevated leverage (~3.1x net debt/EBITDA) and industrial cyclicality the key risks.
+
+**Bull:** \$290–320 · **Base:** \$250–270 · **Bear:** \$150–175
+
+[:material-arrow-right: Full Deep Dive](RRX.md)
 
 ---

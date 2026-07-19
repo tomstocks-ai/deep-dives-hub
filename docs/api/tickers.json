@@ -1235,6 +1235,21 @@
       "price_date": "2026-07-19"
     },
     {
+      "ticker": "RRX",
+      "company": "Regal Rexnord Corporation",
+      "sector": "Industrials",
+      "industry": "Motion Control, Power Transmission and Automation / Specialty Industrial Machinery",
+      "rating": "BUY",
+      "price": 206.81,
+      "market_cap": "~$13.8B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/RRX/",
+      "api_url": "/api/RRX.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "RTX",
       "company": "RTX Corporation",
       "sector": "Defense",

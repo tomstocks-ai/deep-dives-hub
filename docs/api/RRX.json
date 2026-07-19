@@ -1,0 +1,64 @@
+{
+  "ticker": "RRX",
+  "company": "Regal Rexnord Corporation",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
+  "industry": "Motion Control, Power Transmission and Automation / Specialty Industrial Machinery",
+  "exchange": "NYSE",
+  "price": 206.81,
+  "price_date": "2026-07-19",
+  "market_cap": "~$13.8B",
+  "rating": "BUY",
+  "last_updated": "2026-07-19",
+  "thesis": "Regal Rexnord is a diversified industrial maker of electric motors, power transmission, and automation/motion-control products that has quietly become an AI data-center beneficiary. Its Automation & Motion Control (AMC) segment is booming on data-center power management, precision motion, and cooling demand — Q4 2025 brought ~$735M of data-center orders and Q1 2026 AMC orders grew over 34%. FY2025 revenue was roughly flat at $5.93B, but adjusted EPS reached $9.65 with $893M of adjusted free cash flow driving rapid deleveraging, and management guides FY2026 to $10.20-$11.00 adjusted EPS (~10% growth). Unlike most AI-adjacent names, RRX is not expensive: at ~$207 it trades at only ~18-19x forward earnings with a Strong Buy consensus and a ~$260 target (~26% upside). Reasonable valuation, a real data-center catalyst, margin expansion (gross margin up from 26% to ~38% over seven years), and deleveraging optionality make this a BUY, with elevated leverage and industrial cyclicality the key risks.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$5.93B",
+    "revenue_growth": "-2%",
+    "gross_margin": "~38%",
+    "net_income": "$280M (GAAP)",
+    "eps_diluted": "$9.65 (adjusted)",
+    "cash": "~$0.5B",
+    "fcf": "$893M (adjusted)"
+  },
+  "bull_case": {
+    "target": "$290–320",
+    "drivers": [
+      "Data-center orders (AMC +34% YoY, ~$735M booked in Q4 2025) convert into accelerating organic revenue growth through 2026-2027",
+      "Adjusted EBITDA margin expands beyond the 22.2% FY2026 guide as higher-margin automation and data-center mix scales",
+      "Deleveraging from ~3.1x toward ~2.7x net debt/EBITDA completes, freeing capital for buybacks and bolt-on M&A",
+      "Cross-selling integrated powertrain and automation solutions lifts share and pricing across aerospace/defense, discrete automation, and medical",
+      "New CEO Aamir Paul sustains the margin and growth playbook and the stock re-rates toward peer automation multiples"
+    ]
+  },
+  "base_case": {
+    "target": "$250–270",
+    "assumptions": "Regal Rexnord delivers FY2026 adjusted EPS of $10.20-$11.00 (~10% growth) on ~4.5% sales growth and a 22.2% adjusted EBITDA margin, with data-center orders steadily converting to revenue and tariffs mitigated to dollar-cost neutral by mid-2026. Free cash flow of ~$650M funds continued deleveraging. The stock reaches the ~$260 analyst consensus over the next year as growth and margins are delivered."
+  },
+  "bear_case": {
+    "target": "$150–175",
+    "risks": [
+      "Data-center and automation order momentum stalls or converts to revenue more slowly than expected, leaving organic growth soft",
+      "Tariffs, input costs, and unfavorable mix pressure the adjusted EBITDA margin below guidance",
+      "Elevated leverage (~3.1x net debt/EBITDA) constrains flexibility if the industrial cycle turns down",
+      "A broad industrials de-rating hits a stock that has already risen ~50% in 2026",
+      "CEO transition and integration/execution missteps disrupt the margin-expansion trajectory"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 5, 2026", "iso_date": "2026-08-05", "event": "Q2 2026 earnings — orders/backlog, data-center revenue conversion, and margin/tariff progress"},
+    {"date": "2026", "iso_date": "2026", "event": "Conversion of ~$735M data-center orders and 34%+ AMC order growth into reported revenue"},
+    {"date": "FY2026", "iso_date": "2026", "event": "Execution against FY2026 guidance: adjusted EPS $10.20-$11.00, ~4.5% sales growth, 22.2% adjusted EBITDA margin"},
+    {"date": "2026", "iso_date": "2026", "event": "Deleveraging toward ~2.7x net debt/EBITDA, unlocking buybacks/M&A; tariff mitigation to dollar-cost neutral by mid-2026"},
+    {"date": "2026", "iso_date": "2026", "event": "CEO transition to Aamir Paul and continued gross-margin expansion (26% to ~38% over seven years)"}
+  ],
+  "key_risks": [
+    "Elevated leverage: net debt/adjusted EBITDA near 3.1x, which amplifies downside if the industrial cycle weakens",
+    "Cyclicality: motors, power transmission, and industrial automation demand track manufacturing and capex cycles",
+    "Execution/conversion risk: strong data-center orders must convert to revenue and margin as guided",
+    "Tariff, input-cost, and mix headwinds that could pressure margins despite mitigation plans",
+    "The stock has risen ~50% in 2026, so a portion of the data-center optimism is already priced in",
+    "CEO transition (Louis Pinkham to Aamir Paul) and integration execution risk"
+  ]
+}
