@@ -413,6 +413,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
+| <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
 
 ---
 
@@ -453,5 +454,12 @@ Pre-merger SPAC proxy for Agility Robotics, the first US-listed pure-play humano
 **Bull:** \$26–\$30 · **Base:** \$18–\$22 · **Bear:** \$10–\$12
 
 [:material-arrow-right: Full Deep Dive](CCXI.md)
+**ROK — Rockwell Automation, Inc. · <span class="rating-hold">HOLD</span>**
+
+The world's largest pure-play industrial-automation company and a prime beneficiary of factory reshoring, digital transformation, and the automation of AI-era infrastructure (data centers, semiconductor fabs, logistics). After a soft FY2025 (revenue +1% to \$8.34B on customer destocking), growth has re-accelerated — the latest quarter grew ~12% with an EPS beat (\$3.30 vs \$2.88), total segment margin expanded 360 bps to 20.7%, and management raised FY2026 adjusted EPS guidance to \$12.50–\$13.10. Software & Control (31.2% margin) is the mix-shift engine, backed by a fresh \$1B buyback. The catch is valuation: at ~\$462 the stock trades near 48x trailing and ~33x forward earnings, above its historical range and close to 52-week highs, with consensus (~\$471) only ~2% higher. Excellent franchise, full price — the primary risk is a cyclical stumble plus multiple compression.
+
+**Bull:** \$560–620 · **Base:** \$470–520 · **Bear:** \$340–390
+
+[:material-arrow-right: Full Deep Dive](ROK.md)
 
 ---

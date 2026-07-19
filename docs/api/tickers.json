@@ -1205,6 +1205,21 @@
       "price_date": "2026-07-16"
     },
     {
+      "ticker": "ROK",
+      "company": "Rockwell Automation, Inc.",
+      "sector": "Industrials",
+      "industry": "Industrial Automation / Specialty Industrial Machinery",
+      "rating": "HOLD",
+      "price": 461.85,
+      "market_cap": "~$51B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/ROK/",
+      "api_url": "/api/ROK.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Robotics & Automation",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "RTX",
       "company": "RTX Corporation",
       "sector": "Defense",
