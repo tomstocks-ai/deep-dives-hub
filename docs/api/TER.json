@@ -1,0 +1,64 @@
+{
+  "ticker": "TER",
+  "company": "Teradyne, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Semiconductor Test Equipment (ATE) / Robotics",
+  "exchange": "NASDAQ",
+  "price": 322.36,
+  "price_date": "2026-07-19",
+  "market_cap": "~$50B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-19",
+  "thesis": "Teradyne is the world's leading supplier of automated test equipment (ATE) for semiconductors and a direct beneficiary of the AI hardware buildout: AI now drives roughly 70% of its sales, and rising test intensity from advanced packaging, HBM/DRAM, and compute SoCs is structurally expanding its market. After a modest FY2025 (revenue +13% to $3.19B), demand has exploded — Q1 2026 revenue grew 87% and Q2 is guided to similar growth, with a $6B midterm revenue target at 59-61% gross margin. The problem is that this is still a cyclical business trading at a peak-cycle multiple: even after a ~34% pullback from its 52-week high, at ~$322 the stock trades near 60x trailing and ~46x forward earnings on what may be cyclically elevated earnings. Genuine AI tailwind, but rich valuation plus ATE's boom-bust history argue for patience — hence HOLD, with meaningful upside to the ~$423 analyst consensus if the up-cycle proves durable.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$3.19B",
+    "revenue_growth": "+13%",
+    "gross_margin": "~59%",
+    "net_income": "$554M (GAAP)",
+    "eps_diluted": "$3.44 (GAAP)",
+    "cash": "~$0.7B (cash and marketable securities)",
+    "fcf": "~$0.5B"
+  },
+  "bull_case": {
+    "target": "$500–560",
+    "drivers": [
+      "The AI-driven test super-cycle proves structural rather than a spike, with advanced packaging, HBM/DRAM, and compute SoC test intensity durably expanding Teradyne's served market toward a ~$20B ATE TAM",
+      "FY2026 revenue lands at or above guidance and Teradyne advances toward its $6B midterm revenue target at 59-61% gross margin",
+      "Share gains in compute, DRAM, and networking test hold, aided by the Tokyo Electron KGD collaboration for AI/data-center device screening",
+      "Robotics (Universal Robots, MiR) inflects on 'physical AI' adoption, adding a second growth engine and improving segment profitability",
+      "Strong free cash flow funds buybacks and the premium multiple holds as earnings compound"
+    ]
+  },
+  "base_case": {
+    "target": "$400–450",
+    "assumptions": "Teradyne delivers a strong FY2026 (revenue well above the $3.19B FY2025 base on AI-led Semiconductor Test demand) with gross margin in the ~59-61% range, then growth moderates in 2027 as the initial AI test build digests. The multiple compresses modestly from ~46x forward as earnings are delivered rather than merely anticipated, leaving the stock drifting toward the ~$423 analyst consensus over the next year."
+  },
+  "bear_case": {
+    "target": "$200–260",
+    "risks": [
+      "The ATE cycle rolls over as AI test demand digests, and cyclically elevated earnings normalize sharply — Teradyne's historical boom-bust pattern reasserts itself",
+      "The premium ~46x forward / ~60x trailing multiple compresses toward the historical 20-25x range on any growth wobble",
+      "Customer concentration in a handful of large chipmakers and OSATs makes revenue lumpy and order timing volatile",
+      "Robotics remains subscale and a margin drag rather than the hoped-for second engine",
+      "A broad semiconductor-equipment or AI de-rating hits a high-beta (~1.7) name that has already run ~250% off its lows"
+    ]
+  },
+  "catalysts": [
+    {"date": "July 28, 2026", "iso_date": "2026-07-28", "event": "Q2 2026 earnings — AI test demand, order trends, and 2H 2026 outlook (consensus ~$2.04 EPS on ~$1.22B revenue)"},
+    {"date": "H2 2026", "iso_date": "2026", "event": "Durability of the AI-led up-cycle and progress toward the $6B midterm revenue target at 59-61% gross margin"},
+    {"date": "2026", "iso_date": "2026", "event": "Ramp of the Tokyo Electron KGD (known-good-device) integrated test solution for AI and data-center devices"},
+    {"date": "2026", "iso_date": "2026", "event": "Robotics 'physical AI' adoption (Universal Robots, MiR) and defense/other test wins (e.g., $139.8M Air Force contract)"},
+    {"date": "Q1 2027", "iso_date": "2027-01", "event": "Q4/FY2026 results and initial FY2027 outlook — the key test of whether AI demand is structural or cyclical"}
+  ],
+  "key_risks": [
+    "Cyclicality: automated test equipment is historically boom-bust; current earnings may be cyclically elevated near a peak",
+    "Full valuation: ~60x trailing and ~46x forward earnings, well above the historical 20-25x range, embed continued strong execution",
+    "Customer concentration among a few large chipmakers and OSATs makes orders lumpy and revenue volatile",
+    "Dependence on the AI capex cycle: AI is ~70% of sales, so an AI-spending digestion phase hits Teradyne disproportionately",
+    "Robotics segment remains subscale and can weigh on blended margins",
+    "High beta (~1.7) and a ~250% run off the lows leave the stock exposed to a semi-equipment or AI de-rating; recent insider selling noted"
+  ]
+}

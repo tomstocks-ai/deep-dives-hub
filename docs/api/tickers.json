@@ -1445,6 +1445,21 @@
       "price_date": "2026-07-14"
     },
     {
+      "ticker": "TER",
+      "company": "Teradyne, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductor Test Equipment (ATE) / Robotics",
+      "rating": "HOLD",
+      "price": 322.36,
+      "market_cap": "~$50B",
+      "last_updated": "2026-07-19",
+      "deep_dive_url": "/deep-dives/TER/",
+      "api_url": "/api/TER.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-07-19"
+    },
+    {
       "ticker": "TSSI",
       "company": "TSS, Inc.",
       "sector": "Technology",

@@ -39,6 +39,7 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
+| <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 
 ---
 
@@ -49,6 +50,16 @@ Worldwide supplier of semiconductor test and burn-in solutions, pivoting from EV
 **Bull:** \$65–75 · **Base:** \$40–50 · **Bear:** \$20–25
 
 [:material-arrow-right: Full Deep Dive](AEHR.md)
+
+---
+
+**TER — Teradyne, Inc. · <span class="rating-hold">HOLD</span>**
+
+The world's leading supplier of automated test equipment (ATE) for semiconductors and one of the cleanest picks-and-shovels plays on the AI hardware buildout — AI now drives ~70% of sales. Rising test intensity from advanced packaging, HBM/DRAM, and compute SoCs is structurally expanding its market: after a modest FY2025 (revenue +13% to \$3.19B), Q1 2026 revenue exploded +87% and Q2 is guided to similar growth, with management targeting \$6B midterm revenue at 59-61% gross margin. The Tokyo Electron KGD collaboration and robotics ("physical AI" via Universal Robots and MiR) add optionality. The catch is valuation: even ~34% off its 52-week high, at ~\$322 the stock trades near 60x trailing and ~46x forward earnings — a peak-cycle multiple on possibly peak-cycle earnings, in a historically boom-bust industry. Genuine AI tailwind, rich price — but ~31% upside to the \$423 consensus if the up-cycle proves durable.
+
+**Bull:** \$500–560 · **Base:** \$400–450 · **Bear:** \$200–260
+
+[:material-arrow-right: Full Deep Dive](TER.md)
 
 ---
 
