@@ -5,8 +5,8 @@
 
 ## Semiconductors
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:SONY" hide-background></tv-ticker-tag> | Sony Group Corporation | <span class="rating-buy">BUY</span> | 2026-07-18 | [:material-file-document: Read](SONY.md) |
 | <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
 
@@ -36,8 +36,8 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 
 ## Semiconductor Equipment
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](AEHR.md) |
 | <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 
@@ -65,8 +65,8 @@ The world's leading supplier of automated test equipment (ATE) for semiconductor
 
 ## Photonics & Optical Interconnects
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
 
 ---
@@ -83,15 +83,26 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 
 ## Networking & Connectivity
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CRDO" hide-background></tv-ticker-tag> | Credo Technology Group Holding Ltd | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CRDO.md) |
 | <tv-ticker-tag symbol="NASDAQ:HLIT" hide-background></tv-ticker-tag> | Harmonic Inc. | <span class="rating-buy">BUY</span> | 2026-06-15 | [:material-file-document: Read](HLIT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CLFD" hide-background></tv-ticker-tag> | Clearfield, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](CLFD.md) |
 | <tv-ticker-tag symbol="OMXSTO:SIVE" hide-background></tv-ticker-tag> | Sivers Semiconductors AB | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](SIVE.md) |
 | <tv-ticker-tag symbol="NASDAQ:AVGO" hide-background></tv-ticker-tag> | Broadcom Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](AVGO.md) |
 | <tv-ticker-tag symbol="NYSE:NOK" hide-background></tv-ticker-tag> | Nokia Corporation | <span class="rating-hold">HOLD</span> | 2026-06-21 | [:material-file-document: Read](NOK.md) |
+| <tv-ticker-tag symbol="NYSE:GLW" hide-background></tv-ticker-tag> | Corning Incorporated | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](GLW.md) |
 
+
+**GLW — Corning Incorporated · <span class="rating-buy">BUY</span>**
+
+Corning is the world's leading producer of optical fiber and specialty glass, supplying critical connectivity and materials for AI data centers, telecom networks, consumer electronics, and life sciences. Q2 2026 core sales rose 17% YoY to \$4.74B and core EPS grew 30% YoY to \$0.78, with operating margin expanding to 20.9%. Partnerships with Amazon and NVIDIA anchor the AI-driven Optical Communications thesis, while Display Technologies remains challenged by weak consumer demand. The stock has fallen from a June peak near \$255 to ~\$120 on a Q3 guidance miss, creating a more attractive entry for patient investors. Analyst consensus is Buy with an average 12-month target near \$210.
+
+**Bull:** \$260–300 · **Base:** \$190–230 · **Bear:** \$110–140
+
+[:material-arrow-right: Full Deep Dive](GLW.md)
+
+---
 
 **AVGO — Broadcom Inc. · <span class="rating-buy">BUY</span>**
 
@@ -165,8 +176,8 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 ## AI Compute
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AMD" hide-background></tv-ticker-tag> | Advanced Micro Devices, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](AMD.md) |
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
@@ -225,8 +236,8 @@ Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing c
 
 ## Memory & Storage
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 | <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
@@ -255,8 +266,8 @@ One of the "Big Three" global memory manufacturers and the only U.S.-based memor
 
 ## Grid & Power
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](EOSE.md) |
 | <tv-ticker-tag symbol="NASDAQ:QS" hide-background></tv-ticker-tag> | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](QS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-07-28 | [:material-file-document: Read](SLDP.md) |
@@ -299,8 +310,8 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 
 ## Data Center Infrastructure
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
 | <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
@@ -365,8 +376,8 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 
 ## Data Centers & HPC
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group N.V. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](NBIS.md) |
 | <tv-ticker-tag symbol="NASDAQ:HUT" hide-background></tv-ticker-tag> | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](HUT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CORZ" hide-background></tv-ticker-tag> | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
@@ -418,8 +429,8 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 
 ## Robotics & Automation
 
-| Ticker | Company | Rating | Last Updated | Full DD |
-|--------|---------|--------|--------------|---------|
+|| Ticker | Company | Rating | Last Updated | Full DD |
+||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CCXI" hide-background></tv-ticker-tag> | Churchill Capital XI / Agility Robotics | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](CCXI.md) |
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](VELO.md) |

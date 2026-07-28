@@ -1,0 +1,70 @@
+{
+  "ticker": "GLW",
+  "company": "Corning Incorporated",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "industry": "Optical Communications / Specialty Glass and Ceramics",
+  "exchange": "NYSE",
+  "price": 120.75,
+  "price_date": "2026-07-28",
+  "market_cap": "$104B",
+  "rating": "BUY",
+  "last_updated": "2026-07-28",
+  "thesis": "Corning is the dominant provider of optical fiber and cable for AI data center buildouts, with partnerships at Amazon and NVIDIA driving a multiyear demand inflection. Q2 2026 core sales grew 17% YoY to $4.74B and core EPS rose 30% YoY to $0.78, with operating margin expanding to 20.9%. The July 2026 guidance reset and AI infrastructure rotation have compressed the multiple, creating a more attractive entry point for patient investors who can look through near-term volatility.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$16.0B (approx.)",
+    "revenue_growth": "+7% YoY",
+    "gross_margin": "38% (approx.)",
+    "net_income": "$1.5B (approx.)",
+    "eps_diluted": "$1.75 (approx.)",
+    "cash": "$2.5B (approx.)",
+    "fcf": "$2.0B (approx.)"
+  },
+  "bull_case": {
+    "target": "$260–300",
+    "drivers": [
+      "AI data center fiber demand sustains 20%+ Optical Communications growth through 2027",
+      "Amazon and NVIDIA partnerships expand into higher-value co-packaged optics and specialty fiber",
+      "Display Technologies margins stabilize as OLED glass mix improves",
+      "Gorilla Glass and semiconductor glass drive double-digit Specialty Materials growth"
+    ]
+  },
+  "base_case": {
+    "target": "$190–230",
+    "assumptions": "Optical Communications grows 15–20% annually as AI buildout continues but moderates; Display Technologies remains flat-to-down on weak consumer demand; Specialty Materials grows high single digits; overall margins expand modestly. Stock re-rates to ~25–30x forward earnings as execution remains solid."
+  },
+  "bear_case": {
+    "target": "$110–140",
+    "risks": [
+      "Hyperscaler AI capex digestion extends the guidance miss into 2027",
+      "Display Technologies deterioration accelerates on LCD/OLED oversupply",
+      "Input cost inflation or tariff pressure crimps gross margins",
+      "Interest rates stay higher for longer, compressing the multiple on a capital-intensive business"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 2026",
+      "event": "Q3 2026 earnings — guidance update and AI fiber order commentary",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "Q4 2026",
+      "event": "2027 capital allocation plan and Springboard plan milestones",
+      "iso_date": "2026-12"
+    },
+    {
+      "date": "2026-08",
+      "event": "Potential data center customer win or co-packaged optics announcement",
+      "iso_date": "2026-08"
+    }
+  ],
+  "key_risks": [
+    "AI capex cyclicality and hyperscaler demand digestion",
+    "Weak consumer electronics hurting Display Technologies",
+    "Capital intensity and sensitivity to interest rates",
+    "Customer concentration in large cloud and telecom accounts"
+  ]
+}
