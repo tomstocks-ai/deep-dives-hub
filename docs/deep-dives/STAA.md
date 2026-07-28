@@ -4,7 +4,6 @@ hide:
   - navigation
 ---
 
-
 [← Back to Summary](../index.md)
 
 <div class="tradingview-widget-container">
@@ -42,347 +41,152 @@ hide:
   </script>
 </div>
 
+# STAA — STAAR Surgical
 
-# STAAR Surgical (STAA) Deep Dive Analysis
-## April 9, 2026
+STAAR Surgical is the global leader in phakic Implantable Collamer Lenses (the EVO ICL family), with more than 4 million lenses sold worldwide. After a punishing FY2025 in which revenue fell 23.7% and the company posted a net loss, the turnaround is now visibly materializing: China refractive demand stabilized and rebounded, STAAR returned to profitability in Q1 2026, and preliminary Q1 and Q2 2026 net sales each came in above \$90M. At ~\$22.95 the stock sits mid-range between a two-sided analyst debate — multiple target raises against a fresh UBS SELL — so the rating stays **HOLD**.
 
----
+## Company Overview
 
-## 1. COMPANY OVERVIEW
+STAAR Surgical designs, manufactures, and sells implantable lenses for vision correction. Its flagship is the **EVO ICL** — a phakic Implantable Collamer Lens placed inside the eye to correct myopia (nearsightedness) and astigmatism **without removing corneal tissue**, making it a reversible alternative to LASIK.
 
-### What They Do
-STAAR Surgical is the **global leader in phakic Implantable Collamer® Lenses (ICLs)** for vision correction. Their flagship product is the **EVO ICL** — an implantable lens that corrects myopia (nearsightedness) and astigmatism without removing corneal tissue.
+**Business model highlights**
 
-### Business Model
-- **Primary Product:** EVO ICL family of lenses
-- **Key Advantage:** Reversible procedure that doesn't permanently alter the cornea (unlike LASIK)
-- **Milestone:** Over **4 million ICLs sold globally** (as of Feb 2026)
-- **Sales Channels:** Direct sales in US, Japan, Germany, Spain, Canada, UK, Singapore; distributors in China, Korea, India, and other international markets
+- **Core franchise:** the EVO ICL family — the company is the global leader in phakic ICLs, with **4M+ lenses sold** to date.
+- **Concentration:** roughly **95% of revenue** comes from the ICL product family, and roughly **60% of revenue** is generated in **China**.
+- **Sales reach:** direct sales in the US, Japan, Germany, Spain, Canada, UK, and Singapore; distributor-led in China, Korea, India, and other international markets.
+- **Moat:** proprietary Collamer material, a large installed base of trained refractive surgeons, and a differentiated "additive, reversible" positioning versus corneal-tissue-ablating procedures (LASIK, SMILE).
 
-### Geographic Revenue Breakdown (2024)
-| Region | Revenue Share | Key Notes |
-|--------|--------------|-----------|
-| **China** | ~60% (\$203M) | Largest market, significant growth driver |
-| **Other International** | ~25% (\$84M) | Diversified emerging markets |
-| **Japan** | ~11% (\$38M) | Mature, stable market |
-| **US** | ~4% | Growth opportunity with recent FDA approvals |
+**What this means:** STAAR is a focused, market-leading device maker whose fortunes are tightly linked to a single product family and a single large market — China. That concentration is the source of both its upside torque and its principal risk.
 
-**What this means:** STAAR is heavily exposed to China — nearly 60% of revenue comes from this single market, creating both opportunity and risk.
+## Financial Analysis
 
----
+FY2025 was the trough of a sharp downcycle, and FY2026 is showing a clear inflection.
 
-## 2. FINANCIAL ANALYSIS
+| Metric | FY2024 | FY2025 | TTM (mid-2026) |
+|--------|--------|--------|----------------|
+| Revenue | \$313.9M | \$239.44M | ~\$290.4M |
+| Revenue growth | — | **-23.7%** | **+4.0%** |
+| Net income | — | **-\$80.45M** | -\$21.03M |
+| EPS (diluted) | — | **-\$1.68** | **-\$0.42** |
 
-### Income Statement (Recent History)
-| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
-|--------|--------|--------|--------|--------|--------|
-| Revenue | \$230M | \$284M | \$322M | \$314M | \$239M |
-| Revenue Growth | +41% | +23% | +13% | -2.6% | **-24%** |
-| EPS | \$0.56 | \$0.80 | \$0.43 | -\$0.41 | **-\$1.62** |
+**Reading the trend**
 
-**What this means:** After years of strong growth, STAAR hit a wall in 2024-2025 with revenue declining 24% and swinging to a significant loss. This was driven by China market headwinds and competitive pressures.
+- **FY2025 was the bottom:** revenue dropped 23.7% to \$239.44M and the company lost \$80.45M (~-\$1.68/share) as Chinese refractive demand collapsed.
+- **The recovery is real:** TTM revenue has climbed back to roughly \$290.4M (+4.0%), and the TTM net loss has narrowed to \$21.03M (-\$0.42/share) — a loss that is shrinking quarter by quarter.
+- **Q1 2026 (reported 2026-05-13):** robust sales growth and a **return to profitability** with improved margins, led by China. Preliminary Q1 net sales came in **above \$90M versus ~\$67.6M consensus** — a large beat that drove a sharp rally.
+- **Preliminary Q2 2026 (2026-07-16):** net sales again **above \$90M** (roughly in line with the ~\$90.2M consensus), led by sequential growth in China and broader Asia-Pacific.
 
-### Balance Sheet Highlights
-- **Market Cap:** ~\$1.03 billion (as of Apr 2026)
-- **Cash Position:** Declining due to losses
-- **Debt:** Limited debt; primarily lease obligations
-- **Asset-Lite:** Manufacturing facilities in US; majority of operations outsourced
+**Balance sheet and cash:** the business is asset-light with limited debt. The FY2025 losses pressured cash, but the return to profitability and disciplined cost control in 2026 have stemmed the burn.
 
-### Cash Flow
-- **Operating Cash Flow:** Negative in FY2025 due to losses
-- **Free Cash Flow:** Burned cash during downturn
-- **Cash Runway:** Management has implemented cost-cutting measures
+**What this means:** the numbers now support the turnaround narrative rather than merely hoping for it. Revenue growth has turned positive, losses are narrowing, and profitability has returned — but the earnings base is still recovering off a deep trough.
 
-**What this means:** The company went from profitable and growing to burning cash. The key question is whether this is temporary or structural.
+## Valuation
 
----
+At **~\$22.95** the market cap is **~\$1.14B** on roughly **49.8M shares**. The 52-week range is **\$15.59–\$35.87**, and beta is **1.23**.
 
-## 3. VALUATION
+- **Forward P/E:** ~**30x** — a meaningful multiple, but a very different picture from the stale ~114x figure that reflected trough earnings. The re-rating reflects restored (if still modest) profitability.
+- **Prior-cycle context:** STAAR historically earned mid-to-high gross margins (70%+) and commanded a premium multiple as a high-growth device leader; the current ~30x forward multiple prices in a continued recovery.
 
-### Current Metrics (April 2026)
-- **Stock Price:** ~\$26.00 (up 25%+ today on Q1 pre-announcement)
-- **Market Cap:** ~\$1.03 billion
-- **52-Week Range:** \$14.69 - \$30.81
-- **P/E Ratio:** Negative (company not profitable)
-- **Forward P/E (2027):** ~114x (if company returns to profitability)
+**Scenario targets**
 
-### Analyst Price Targets
-| Target | Price | Upside/Downside |
-|--------|-------|-----------------|
-| **Low** | \$16 | -38% |
-| **Average** | \$22.81 | -13% |
-| **Median** | \$26 | -0.8% |
-| **High** | \$28 | +7% |
+- **Bull — \$35–40:** China demand re-accelerates, profitability is sustained and expands, gross margins rebuild toward 70%+, EVO+ and ex-China growth diversify the base, and the market awards ~30x+ on growing earnings.
+- **Base — \$28–32:** China stabilizes and grows modestly, TTM revenue growth holds in the mid-single digits, profitability is sustained but earnings recover gradually, and the ~30x forward multiple is broadly maintained.
+- **Bear — \$16–20:** a China economic or geopolitical shock re-cuts the ~60% revenue base, the turnaround stalls, competition erodes ICL share, and the multiple compresses.
 
-**Analyst Consensus:** HOLD / BUY (2 Strong Buy, 7 Hold)
+**What this means:** with the stock at ~\$22.95, the base case (\$28–32) implies upside, but the bear case (\$16–20) is close enough to today's price that the risk/reward is balanced rather than compelling — consistent with a HOLD.
 
-**What this means:** Analysts are cautious — the stock is trading near the median target even after today's 25% jump. Most see limited upside from current levels.
+## Growth Catalysts
 
-### DCF/Intrinsic Value Considerations
-Given the company's transition from growth to profitability challenges, traditional DCF is difficult. Key variables:
+- **China refractive rebound:** the market stabilized through 2025 and delivered strong Q1 2026 demand. Notably, seasonality is now tied to **military conscription timing**, giving a clearer demand rhythm to model.
+- **Return to profitability and margin recovery:** Q1 2026 restored profitability with improved margins; sustaining and extending that recovery toward historic 70%+ gross margins is the central value driver.
+- **EVO+ rollout:** next-generation ICL demand supports both volume and mix.
+- **Ex-China growth:** expansion across broader Asia-Pacific and the US diversifies away from China concentration and lengthens the growth runway.
+- **Structural tailwind:** rising global myopia rates expand the long-term addressable market for lens-based correction.
 
-- **China recovery:** Will 60% revenue segment rebound?
-- **US expansion:** Can FDA approvals drive new growth?
-- **Margin recovery:** Can gross margins return to 70%+ levels?
+**What this means:** the near-term catalyst path is concrete and dated — Q2 2026 results on August 12 are the next proof point — while the medium-term story rests on margin recovery and geographic diversification.
 
-**Fair Value Range:** \$18-28 (wide range due to uncertainty)
+## Risk Factors
 
----
+- **China concentration (~60% of revenue):** economic weakness, currency swings, or geopolitical/regulatory shifts in China could quickly re-impair the largest revenue segment, as FY2025 demonstrated.
+- **Single-product-family dependence (~95% ICL):** there is little to cushion the business if ICL demand softens or a safety/competitive issue emerges.
+- **Competition:** LASIK remains the entrenched "gold standard," and SMILE and improved PRK continue to compete for refractive patients.
+- **Valuation on a recovering base:** at ~30x forward earnings, any execution misstep could trigger meaningful multiple compression.
+- **Early-stage turnaround:** FY2025 posted a \$80.45M net loss; the recovery must be sustained across multiple quarters before it is de-risked.
 
-## 4. GROWTH CATALYSTS
+**What this means:** the risks have not changed in character — China, single-product dependence, competition, and valuation remain the four pillars — but the return to profitability has reduced the near-term financial fragility.
 
-### Near-Term (6-12 months)
-1. **Q1 2026 Beat:** Company pre-announced Q1 revenue above \$90M vs. \$67.6M consensus — a 33% beat
-2. **China Recovery:** Early signs of stabilization in largest market
-3. **US Momentum:** Domestic revenue grew 45%+ in recent quarters
-4. **FDA Age Expansion:** February 2026 approval expanded age indication, opening larger addressable market
+## Recommendation
 
-### Medium-Term (1-3 years)
-1. **EVO ICL Adoption:** Industry shift from LASIK to lens-based correction
-2. **Myopia Epidemic:** Growing global myopia rates driving addressable market expansion
-3. **New Markets:** Expansion in India, Southeast Asia, Latin America
-4. **Technology Improvements:** Next-generation lens designs with enhanced features
+**Rating: HOLD.** The turnaround is materializing and the fundamentals have inflected positively, but at ~\$22.95 the stock sits between a rising-conviction bull camp and a fresh bear call, with the bear-case target uncomfortably close to the current price.
 
-### Long-Term (3-5 years)
-1. **Market Share Gains:** Potential to capture 25%+ of refractive surgery market (vs. ~20% currently)
-2. **Adjacent Products:** Pipeline expansion beyond myopia correction
-3. **Strategic Acquisition:** Company was approached by Alcon in 2025 — potential for future M&A
+**Position and entry**
 
-**What this means:** The Q1 2026 beat is a significant near-term catalyst. If China has truly stabilized, the stock could rerate higher.
+- Existing holders can hold through the Q2 2026 print; the recovery thesis is intact and improving.
+- New capital is better deployed on weakness toward the low end of the range (mid-teens to high-teens) or on a confirmed, profitable Q2 that de-risks the margin story.
+- Size positions so that a retest of the 52-week low (\$15.59) is tolerable.
 
----
+**Technical context:** the stock trades well off its \$35.87 high and above its \$15.59 low; watch the mid-\$20s as near-term resistance and the high-teens as support. Use the TradingView widget above (RSI and EMA studies) for live levels rather than a static snapshot.
 
-## 5. RISK FACTORS
+**Catalyst calendar**
 
-### Business Risks
-1. **China Concentration (60% of revenue):**
-   - Regulatory changes in China could severely impact sales
-   - Economic slowdown reducing consumer discretionary spending
-   - Currency fluctuation risk (RMB/USD)
-
-2. **Competition:**
-   - LASIK remains the "gold standard" with established market presence
-   - New technologies (SMILE, PRK improvements) could erode ICL positioning
-   - Alcon and other large ophthalmology players could develop competing products
-
-3. **Single Product Risk:**
-   - ~95% of revenue from ICL products
-   - Limited diversification if ICL adoption stalls
-
-### Financial Risks
-1. **Profitability Challenges:**
-   - FY2025 operating loss of ~\$1.62/share
-   - Cash burn during turnaround phase
-   - May need to raise capital if losses continue
-
-2. **High Valuation:**
-   - Trading at 114x forward earnings (2027 estimate)
-   - Any execution misstep could lead to significant multiple compression
-
-### Macro/Sector Risks
-1. **Economic Sensitivity:**
-   - Vision correction is elective/cosmetic — highly sensitive to economic downturns
-   - Recession could severely impact procedure volumes
-
-2. **Regulatory Risk:**
-   - FDA or international regulatory changes could impact approvals or labeling
-   - Safety concerns (even rare) could damage brand and demand
-
-**What this means:** The China concentration is the #1 risk. Any adverse regulatory or economic developments in China could cut revenue in half.
-
-## 6. SENTIMENT & FLOWS
-
-### Analyst Sentiment
-- **Consensus Rating:** BUY (cautious)
-- **Recent Changes:**
-  - **Canaccord Genuity:** Upgraded HOLD → STRONG BUY, raised target \$22→\$27 (Apr 2026)
-  - **Wedbush:** Maintained HOLD, raised target \$21→\$26 (Apr 2026)
-  - **Wells Fargo:** Maintained HOLD, cut target \$31→\$16 (Mar 2026) — most bearish
-
-### Institutional Activity
-- **Ownership:** Mix of growth and healthcare-focused funds
-- **Recent Flows:** Likely seeing inflows after Q1 beat; specific 13F data pending
-
-### Short Interest
-- **Short % of Float:** Moderate (exact data unavailable due to fetch limitations)
-- **Short Thesis:** China exposure, profitability concerns, high valuation
-
-**What this means:** Sentiment is turning more positive after the Q1 beat, but analysts remain cautious given the China exposure and valuation.
-
----
-
-## 7. SUBSTACK & NEWS SCAN
-
-### Recent Headlines
-- **April 2026:** "STAAR Surgical up 25% after Q1 revenue pre-announcement above consensus"
-- **Feb 2026:** "STAAR Surgical surpasses 4 million ICLs sold globally"
-- **Feb 2026:** "FDA expands age indication for EVO ICL"
-- **Aug 2025:** "Alcon Agrees to Acquire STAAR Surgical" — deal terms undisclosed, status unclear
-
-### Key Themes in Financial Media
-1. **Recovery Narrative:** Q1 2026 beat suggests turnaround may be underway
-2. **China Watch:** Investors focused on stabilization of largest market
-3. **Valuation Debate:** Bulls point to long-term TAM; bears cite profitability challenges
-
-**What this means:** The narrative is shifting from "troubled growth stock" to "potential turnaround." The Q1 beat validates the recovery thesis.
-
----
-
-## 8. INVESTMENT THESIS
-
-### Bull Case (\$35-40 target — +35-55% upside)
-**What needs to go right:**
-
-- China market fully recovers, driving 20%+ revenue growth
-- US market continues 40%+ growth trajectory
-- Company returns to profitability by FY2026
-- Gross margins expand back to 75%+
-- Market awards 30x+ P/E on restored earnings power
-
-**Probability:** 25-30%
-
-### Base Case (\$24-28 target — 0-10% upside)
-**Most likely scenario:**
-
-- China stabilizes but doesn't accelerate
-- Revenue grows 10-15% annually
-- Breakeven profitability by late FY2026
-- Stock trades sideways as turnaround plays out
-- Multiple compression offsets earnings growth
-
-**Probability:** 50-55%
-
-### Bear Case (\$14-16 target — -40-45% downside)
-**What could go wrong:**
-
-- China economic weakness worsens
-- Competitive pressure from LASIK/SMILE intensifies
-- Company fails to return to profitability
-- Cash burn forces dilutive capital raise
-- Multiple compresses to 5-8x sales
-
-**Probability:** 20-25%
-
-### Risk/Reward Assessment
-- **Upside:** +35-55% (bull case)
-- **Downside:** -40-45% (bear case)
-- **Expected Return:** Neutral to slightly positive
-
-**What this means:** The risk/reward is fairly balanced after today's 25% jump. The Q1 beat improves odds, but China exposure and valuation remain concerns.
-
----
-
-## 9. RECOMMENDATION
-
-### Rating: **HOLD / SPECULATIVE BUY**
-
-### Position Sizing Guidance
-- **Conservative Portfolio:** 1-2% position (speculative)
-- **Aggressive Portfolio:** 3-5% position (if bullish on China recovery)
-
-### Entry Strategy
-**Current Situation:** Stock jumped 25% on Q1 pre-announcement
-
-**Options:**
-1. **Wait for pullback:** Look for entry near \$20-22 (support level)
-2. **Scale in:** Start small position now, add on any weakness
-3. **Momentum play:** Buy breakout above \$28 with tight stop
-
-### Stop Loss / Risk Management
-- **Stop Loss:** \$18 (-31% from current)
-- **Position Size:** Size such that a -40% loss is tolerable
-
-### Key Levels to Watch
-| Level | Action |
-|-------|--------|
-| **Above \$28** | Bullish breakout — add to position |
-| **\$20-22** | Support zone — accumulate if bullish |
-| **Below \$18** | Stop loss triggered — exit position |
-
-### Catalyst Calendar
 | Date | Event | Impact |
 |------|-------|--------|
-| **April 2026** | Q1 2026 Earnings Call | High — guidance update critical |
-| **May 2026** | Analyst Day / Conference | Medium — strategic update |
-| **July 2026** | Q2 2026 Earnings | High — trend confirmation |
-| **Ongoing** | China economic data | High — impacts 60% of revenue |
+| **August 12, 2026** | Q2 2026 earnings (prelim net sales >\$90M) | High — confirms margins and sustained profitability |
+| **Ongoing** | China demand / conscription-season data | High — drives the ~60% revenue base |
+| **Ongoing** | Margin-recovery progress | High — the core re-rating driver |
+| **Ongoing** | EVO+ rollout and ex-China growth | Medium — diversification and mix |
 
----
+## Sentiment Analysis
 
-## 10. READABILITY & CLARITY PASS
+**Analyst sentiment — constructive but split.** Consensus is a **Buy** across 10 analysts, with an average 12-month target of **~\$30**. The China rebound has triggered a wave of target raises, but coverage is genuinely two-sided:
 
-### Key Terms Explained
+| Firm | Rating | Target |
+|------|--------|--------|
+| Wedbush | Outperform (upgraded) | \$40 |
+| Piper Sandler | Neutral | \$33 (raised from \$16) |
+| Canaccord | Buy (upgraded) | \$32 |
+| Stifel | Hold | \$31 (raised from \$18) |
+| Mizuho | Neutral | \$27 |
+| UBS | **Sell (new initiation)** | \$20 |
 
-**EVO ICL:** An Implantable Collamer® Lens — essentially a permanent contact lens that a surgeon places inside your eye to correct vision. Unlike LASIK, it doesn't remove any corneal tissue and is reversible.
+**The debate:** bulls point to the China refractive rebound, the return to profitability, and EVO+ momentum; the newly initiated UBS SELL at \$20 argues the recovery is largely priced in at ~30x forward earnings on a still-fragile, China-dependent base.
 
-**Phakic IOL:** An intraocular lens (IOL) that's implanted without removing the eye's natural lens. "Phakic" means the natural lens is still there.
+**News and retail tone:** headlines have shifted from "troubled turnaround" to "recovery underway," reinforced by two consecutive preliminary net-sales beats above \$90M. Options and retail sentiment skew positive after the Q1 rally, but the split professional view keeps a lid on conviction.
 
-**Myopia:** Nearsightedness — the inability to see distant objects clearly. STAAR's target market.
+**Sentiment score: ~6/10 (moderately positive).** Improving fundamentals and multiple upgrades are offset by a fresh SELL initiation and a valuation that already discounts much of the recovery.
 
-**Gross Margin:** The percentage of revenue left after direct costs. If gross margin is 70%, the company keeps \$0.70 of every dollar in sales after manufacturing costs.
+## Readability Pass
 
-**Forward P/E:** Price-to-Earnings ratio based on future (forecasted) earnings rather than past earnings. A 114x forward P/E means investors are paying \$114 for every \$1 of expected future earnings — very expensive.
+**In plain English:** STAAR makes a tiny lens (the EVO ICL) that a surgeon implants inside the eye to fix nearsightedness — think of it as a permanent contact lens that, unlike LASIK, doesn't cut away part of the cornea and can be removed. Most of its sales come from China, and most of its revenue comes from this one product family.
 
-**Pre-announcement:** When a company releases preliminary financial results before the official earnings call. STAAR's Q1 pre-announcement beat expectations significantly.
+In 2025, China's economy hurt demand badly: sales fell about 24% and the company lost money (about -\$1.68 per share). In 2026 the story turned around — China bounced back, STAAR started making money again, and sales for both the first and second quarters came in above \$90M, beating expectations. The stock has recovered to about \$22.95.
 
-### What This Investment Actually Is
-STAAR Surgical is a **high-risk, high-reward medical device turnaround play**. The company:
+Wall Street is now divided: several firms raised their price targets sharply (up to \$40), while UBS just started coverage with a **Sell** and a \$20 target. The bull case is \$35–40 if the China recovery keeps going and margins rebuild; the base case is \$28–32; the bear case is \$16–20 if China stumbles again. Because the downside target is close to today's price, the stock is a **HOLD** — the turnaround is working, but a lot of good news is already in the price.
 
-- **Makes:** Implantable lenses for vision correction
-- **Sells primarily to:** Eye surgeons in China (60%), Japan (11%), and globally
-- **Is trying to:** Recover from a 24% revenue decline in 2025
-- **Stock price reflects:** Hope that Q1 2026 beat signals a turnaround
+## Appendix — Quick Reference
 
-**The core bet:** That China's vision correction market recovers and STAAR can return to profitability while maintaining its technology leadership.
-
-### Who Should Invest
-✅ **Consider buying if:**
-
-- You believe China's economy and consumer spending will recover
-- You understand the risks of single-product, single-country concentration
-- You can tolerate 40%+ downside risk
-- You have a 2-3 year investment horizon
-
-❌ **Avoid if:**
-
-- You need stable, dividend-paying investments
-- You can't tolerate significant volatility
-- You're bearish on China
-- You prefer profitable companies with lower valuations
-
----
-
-## SUMMARY
-
-STAAR Surgical (STAA) is a **speculative turnaround story** trading at ~\$26, up 25% on a Q1 2026 revenue beat. The company sells EVO ICL implantable lenses for vision correction, with 60% of revenue from China.
-
-**The Good:**
-
-- Q1 2026 revenue beat (\$90M+ vs. \$67.6M consensus) suggests turnaround
-- 4M+ lenses sold globally; market leader in phakic IOLs
-- FDA expanded age indication in Feb 2026
-
-**The Bad:**
-
-- Lost \$1.62/share in FY2025; profitability uncertain
-- 60% revenue concentration in China creates significant risk
-- Trading at 114x forward earnings — expensive
-
-**The Verdict:**
-**HOLD / SPECULATIVE BUY** with tight risk management. The Q1 beat is encouraging, but the stock isn't cheap and China exposure remains a concern. Consider scaling in on any pullback to \$20-22.
-
----
-
-*Report Date: April 9, 2026*
-*Stock Price: \$26.22 (as of report)*
-*Market Cap: ~\$1.03 billion*
-
----
+| Item | Value |
+|------|-------|
+| Ticker / Exchange | STAA / NASDAQ |
+| Price (2026-07-28) | \$22.95 |
+| Market cap | ~\$1.14B |
+| Shares outstanding | ~49.8M |
+| 52-week range | \$15.59–\$35.87 |
+| Beta | 1.23 |
+| Forward P/E | ~30x |
+| FY2025 revenue | \$239.44M (-23.7% YoY) |
+| FY2025 net loss | -\$80.45M (~-\$1.68/share) |
+| TTM revenue | ~\$290.4M (+4.0%) |
+| TTM net income / EPS | -\$21.03M / -\$0.42 |
+| Rating | HOLD |
+| Bull / Base / Bear | \$35–40 / \$28–32 / \$16–20 |
+| Next earnings | Q2 2026 — 2026-08-12 |
 
 ## Sources Consulted
 
-1. [Yahoo Finance - STAA](https://finance.yahoo.com/quote/STAA)
-2. [SEC EDGAR - STAA Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STAA)
-3. [MarketBeat - STAA Analysis](https://www.marketbeat.com/stocks/NASDAQ/STAA)
-4. [TipRanks - STAA Stock](https://www.tipranks.com/stocks/staa)
-5. [Finviz - STAA](https://finviz.com/quote.ashx?t=STAA)
+1. [STAAR Surgical Investor Relations](https://investors.staar.com/)
+2. [Yahoo Finance — STAA](https://finance.yahoo.com/quote/STAA)
+3. [SEC EDGAR — STAAR Surgical filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STAA)
+4. [MarketBeat — STAA analyst ratings](https://www.marketbeat.com/stocks/NASDAQ/STAA)
+5. [TipRanks — STAA stock forecast](https://www.tipranks.com/stocks/staa)
+6. STAAR Surgical Q1 2026 preliminary net-sales release (2026-05-13) and Q2 2026 preliminary net-sales release (2026-07-16)

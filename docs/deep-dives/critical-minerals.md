@@ -11,14 +11,14 @@ title: Critical Minerals & Strategic Materials
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
 
-| <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-21 | [:material-file-document: Read](CRML.md) |
-| <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](FCX.md) |
-| <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources Limited | <span class="rating-buy">BUY</span> | 2026-04-03 | [:material-file-document: Read](TECK.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](CRML.md) |
+| <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](FCX.md) |
+| <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources Limited | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](TECK.md) |
 | <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](COPX.md) |
 | <tv-ticker-tag symbol="AMEX:URA" hide-background></tv-ticker-tag> | Global X Uranium ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](URA.md) |
 | <tv-ticker-tag symbol="NYSE:AEM" hide-background></tv-ticker-tag> | Agnico Eagle Mines Limited | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](AEM.md) |
 | <tv-ticker-tag symbol="NYSE:FNV" hide-background></tv-ticker-tag> | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | 2026-06-08 | [:material-file-document: Read](FNV.md) |
-| <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-29 | [:material-file-document: Read](PPTA.md) |
+| <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](PPTA.md) |
 | <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](GLD.md) |
 | <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](SLV.md) |
 
@@ -38,9 +38,9 @@ Pre-revenue critical minerals developer advancing the Elk Creek Project in Nebra
 
 **CRML — Critical Metals Corp · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Pre-revenue rare earth mining company developing Tanbreez Project in Greenland — one of world's largest rare earth deposits with 4.7 billion-tonne resource. **92.5% ownership** after Greenland cleared transfer. 27% Heavy Rare Earth Elements (HREE) content is critical differentiator (vs. ~10% industry standard). Saudi Arabia JV (\$1.5B processing facility) + Romania JV create strategic partnerships. Stock +72% YTD, +380% over past year.
+Pre-revenue rare earth developer whose value hinges on the Tanbreez project in Greenland, one of the world's largest heavy-rare-earth deposits, where a 10,000-meter drilling campaign began in June 2026 ahead of an S-K 1300 technical report. Cantor Fitzgerald initiated with a "Speculative Buy" and \$18 target on Tanbreez's exceptional heavy-REE content, and CRML has advanced to the final round of Kenya's Mrima Hill tender — though a related release was retracted, so treat it as in-process. The dominant risk is funding: limited cash against ~\$800M–\$1B of capex has driven ongoing registration statements and share sales (dilution), pushing the stock near a 52-week low at \$6.04, down ~49% since the prior review. U.S.-China rare-earth decoupling supports the long-term thesis, with a Saudi Arabia processing JV and offtake as key catalysts.
 
-**Bull:** \$28.00 · **Base:** \$18.00 · **Bear:** \$5.00
+**Bull:** \$16–\$20 · **Base:** \$9–\$12 · **Bear:** \$3–\$4
 
 [:material-arrow-right: Full Deep Dive](CRML.md)
 
@@ -63,19 +63,19 @@ Exposure to global uranium miners (Cameco, Kazatomprom, NexGen, Denison). Nuclea
 
 **FCX — Freeport-McMoRan Inc. · <span class="rating-buy">BUY</span>**
 
-World's largest publicly traded copper producer. Operations spanning Indonesia (Grasberg), North America, South America. 2024 EBITDA \$10B (+14% YoY). Q1 2025 net cash costs \$2.07/lb vs. \$4.00+ market price — exceptional margins. Grasberg ramp-up to 1.6B lbs copper + 1.6M oz gold by 2026–2027. Copper structural supply deficit through 2030.
+World's largest publicly traded copper producer, with Tier 1 assets in Indonesia (Grasberg), North America, and South America — the go-to large-cap way to play copper at record highs on a structural deficit fed by electrification, grid buildout, and AI data-center power demand. Q2 2026 beat handily (adjusted EPS \$0.74 vs \$0.62; revenue \$7.03B), with U.S. operations net income +65% YoY and FY2025 revenue of \$25.92B. The Grasberg Block Cave ramp is progressing on schedule after the prior disruption, and a new Indonesia agreement extends key asset lifespans, easing the long-standing regulatory overhang. Guidance points to copper sales scaling from ~3.1B lbs (2026) toward 4.1B lbs (2028); investment-grade balance sheet, no significant 2026 maturities. Main risk: copper-price cyclicality and residual Indonesia/Grasberg execution risk.
 
-**Bull:** \$81.00 · **Base:** \$65.00 · **Bear:** \$48.00
+**Bull:** \$82–90 · **Base:** \$70–74 · **Bear:** \$48–52
 
 [:material-arrow-right: Full Deep Dive](FCX.md)
 
 ---
 
-**TECK — Teck Resources Limited · <span class="rating-buy">BUY</span>**
+**TECK — Teck Resources Limited · <span class="rating-hold">HOLD</span>**
 
-Transformed to pure-play "green metals" champion focused on copper and zinc after \$7.3B coal divestiture to Glencore. Pending Anglo American merger creates top-five global copper producer with \$800M annual synergies. QB2 flagship asset in Chile — 316,000 tonnes copper/year at full production. Net cash position ~\$5B provides fortress balance sheet.
+Pure-play "green metals" copper/zinc producer after the 2024 steelmaking-coal divestiture to Glencore, with a fortress balance sheet. Q2 2026 was a record quarter — adjusted EBITDA roughly tripled YoY to ~\$2.2B on record copper prices and higher production, adjusted EPS of C\$1.93 beat consensus, and 2026-2028 production guidance was reaffirmed; Raymond James upgraded to Outperform citing strong cash generation. The pending Anglo American "merger of equals" (Anglo Teck) remains the central catalyst — a top-five global copper producer with ~\$800M annual synergies — alongside the QB2 (Chile) and Highland Valley ramp. We downgrade BUY to HOLD: after a ~23% run to ~\$59.75 the stock trades above the blended consensus 12-mo target (~\$53.23) with a Hold consensus label, so near-term risk/reward is balanced. Key risks: copper-price/China cyclicality, Chile political/royalty risk, and merger regulatory/integration execution.
 
-**Bull:** \$68 · **Base:** \$55 · **Bear:** \$38
+**Bull:** \$68–74 · **Base:** \$55–60 · **Bear:** \$40–45
 
 [:material-arrow-right: Full Deep Dive](TECK.md)
 
@@ -115,9 +115,9 @@ World's largest gold-focused royalty and streaming company. Asset-light model �
 
 **PPTA — Perpetua Resources Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Development-stage mining company advancing the \$1.3B Stibnite Gold Project in Idaho — one of the largest undeveloped gold deposits in the U.S. with 6M+ oz gold and 148M lbs antimony (a critical mineral). Broke ground in October 2025 after 9 years of permitting. America's answer to China's antimony export bans. \$2B U.S. EXIM debt financing pending.
+Development-stage miner advancing the Stibnite Gold Project in Idaho — one of the largest undeveloped U.S. gold deposits (6M+ oz gold) plus ~148M lbs antimony, the only domestic mined antimony source amid China's export bans (a defense and critical-minerals tailwind). The thesis has changed decisively: the U.S. EXIM Bank board unanimously finalized a \$2.9B senior secured loan under "Make More in America" (up from the ~\$2B previously pending), leaving the project effectively fully financed and triggering a ~22.7% pop. Construction is advancing — an Idaho federal court rejected efforts to halt critical-path work and the Burntlog Route commenced, with first production targeted late 2029. Yet shares have slid to ~\$18 near a 52-week low on a gold pullback, dilution, and "sell-the-news", shifting the key risks to construction execution, commodity prices, and dilution.
 
-**Bull:** \$50.00 · **Base:** \$35.00 · **Bear:** \$15.00
+**Bull:** \$40–\$50 · **Base:** \$28–\$35 · **Bear:** \$12–\$16
 
 [:material-arrow-right: Full Deep Dive](PPTA.md)
 

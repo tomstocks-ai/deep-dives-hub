@@ -2,81 +2,82 @@
   "ticker": "OKLO",
   "company": "Oklo Inc.",
   "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
   "industry": "Advanced Nuclear / Fast Reactor",
   "exchange": "NYSE",
-  "price": 58.58,
-  "market_cap": "$10.17B",
+  "price": 41.81,
+  "price_date": "2026-07-28",
+  "market_cap": "$7.27B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-15",
-  "thesis": "Building small, advanced nuclear power plants (Aurora Powerhouses) — compact 15-75 MW factory-built reactors. 'Build, Own, Operate' model with long-term PPAs. Liquid metal-cooled fast reactor technology based on proven EBR-II heritage. $1.23B cash provides 30+ years runway — eliminates near-term dilution risk. Meta partnership (1.2 GW Ohio campus) validates commercial demand. First commercial operation targeted late 2027/early 2028.",
+  "last_updated": "2026-07-28",
+  "thesis": "Oklo builds compact 15-75 MW factory-built Aurora Powerhouse fast reactors on a 'build, own, operate' model with long-term PPAs, targeting AI data centers and industrial off-takers. A DOE startup authorization for its Groves Isotope Test Reactor clears the way for fuel loading and first criticality, a major near-term de-risking milestone, while a Meta 1.2 GW Ohio campus partnership and a Trump-administration-backed ~$200M advanced-nuclear initiative (with Microsoft, Nvidia and X-energy) validate demand. Pre-revenue with over $1B cash and essentially no debt, but the stock has round-tripped from a ~$194 high to near its 52-week low, and HALEU fuel supply plus NRC licensing remain key risks ahead of first commercial operation targeted for late 2027/2028.",
   "financials": {
-    "fiscal_year": "Pre-revenue",
+    "fiscal_year": "Pre-revenue (TTM)",
     "revenue": "$0",
-    "net_loss": "-$105.7M (TTM)",
-    "eps_diluted": "-$0.72",
-    "cash": "$1.23B",
-    "total_debt": "$1.45M (essentially debt-free)",
-    "cash_burn": "$35-40M/year",
-    "runway": "30+ years (unprecedented for pre-revenue)",
     "revenue_growth": "N/A",
     "gross_margin": "N/A",
-    "net_income": "N/A",
+    "net_income": "-$128.9M (TTM)",
+    "eps_diluted": "-$0.83",
+    "cash": "over $1B",
     "fcf": "N/A"
   },
   "bull_case": {
-    "target": "$150–200",
+    "target": "$90–120",
     "drivers": [
-      "NRC approves Aurora Powerhouse design without major delays",
-      "Aurora-INL comes online in 2027-2028 as scheduled",
-      "Meta Ohio campus proceeds on timeline (Phase 1 by 2030)",
-      "LOI-to-PPA conversion rate exceeds 50%",
-      "SpaceX IPO at $200B+ valuation validates space/energy plays"
+      "Groves Isotope Test Reactor reaches first criticality on schedule, proving the fuel and licensing pathway",
+      "Aurora-INL progresses through NRC licensing without major delays",
+      "Meta Ohio 1.2 GW campus proceeds and additional LOIs convert to binding PPAs",
+      "Trump-administration ~$200M advanced-nuclear-for-AI initiative accelerates deployment and policy tailwinds",
+      "First commercial operation confirmed for late 2027/2028, re-rating the stock toward its prior highs"
     ]
   },
   "bear_case": {
-    "target": "$30–40",
+    "target": "$25–35",
     "risks": [
-      "NRC delays push first deployment to 2029-2030",
-      "Technology issues emerge during commissioning",
-      "Competitors (TerraPower, NuScale) capture market share",
+      "NRC licensing delays push first commercial operation into 2029-2030",
       "HALEU fuel supply constraints limit deployment speed",
-      "Multiple year delays erode investor confidence"
+      "First-of-a-kind commissioning issues emerge at Groves or Aurora-INL",
+      "Continued nuclear-sector profit-taking and high beta drive further downside",
+      "LOI pipeline fails to convert to binding, financeable PPAs"
     ]
   },
   "base_case": {
-    "target": "$90–100",
-    "assumptions": "Aurora-INL online by 2028 (6-12 month delay from target); Meta Phase 1 by 2031; 3-5 reactors operational by 2030; Revenue of $200-300M by 2030; Stock trades based on execution with partial success."
+    "target": "$65–80",
+    "assumptions": "Groves reaches criticality and Aurora-INL advances through NRC licensing with modest slippage; Meta Ohio Phase 1 and initial PPA conversions proceed; over $1B cash funds the plan without near-term dilution; stock trades on execution milestones between its 52-week low and prior highs. Consensus avg target ~$84 implies roughly 2x upside from current levels."
   },
   "catalysts": [
     {
-      "date": "2025",
-      "event": "NRC Combined License Application Filing — Critical regulatory step",
-      "iso_date": "2025"
+      "date": "August 7, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — cash burn, runway, and milestone updates"
     },
     {
-      "date": "2026-07",
-      "event": "DOE Authorization for Aurora-INL — Potential accelerated operation",
-      "iso_date": "2026-07"
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Groves Isotope Test Reactor fuel loading and first criticality following DOE startup authorization — major near-term de-risking milestone"
     },
     {
-      "date": "2026-2027",
-      "event": "LOI-to-PPA Conversions — Revenue visibility",
-      "iso_date": "2026"
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Aurora-INL progress and NRC licensing advancement"
     },
     {
-      "date": "Late 2027/Early 2028",
-      "event": "First Commercial Operation — Major derisking event",
-      "iso_date": "2027-10"
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "LOI-to-PPA conversions and Meta 1.2 GW Ohio campus timeline"
+    },
+    {
+      "date": "Late 2027/2028",
+      "iso_date": "2027-10",
+      "event": "First commercial operation — major derisking event"
     }
   ],
   "key_risks": [
-    "Regulatory risk — NRC denied first license application in 2022; new design requires fresh review",
-    "First-of-a-kind technology execution risk at commercial scale",
-    "HALEU fuel supply scarcity (Russia was dominant supplier, now banned)",
-    "2-3 years until first revenue is a long time for impatient investors",
-    "High short interest and post-SPAC warrant overhang"
-  ],
-  "theme": "Energy",
-  "sub_theme": "Reactor Developers",
-  "price_date": "2026-04-15"
+    "NRC licensing risk — no non-water-cooled commercial reactor has yet been licensed; delays push out first revenue",
+    "HALEU fuel supply scarcity constrains deployment (Russia banned as supplier)",
+    "First-of-a-kind technology execution risk at Groves and Aurora-INL commercial scale",
+    "Extreme valuation and sentiment volatility — stock round-tripped from ~$194 to near its 52-week low on nuclear-sector profit-taking (beta 1.16)",
+    "Pre-revenue; first commercial operation is ~2 years out, testing investor patience"
+  ]
 }

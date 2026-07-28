@@ -2,82 +2,82 @@
   "ticker": "CRML",
   "company": "Critical Metals Corp",
   "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Rare Earths",
   "industry": "Rare Earth Elements Mining",
   "exchange": "NASDAQ",
-  "price": 11.94,
-  "market_cap": "$1.46B",
+  "price": 6.04,
+  "price_date": "2026-07-28",
+  "market_cap": "$887M",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-21",
-  "thesis": "Pre-revenue rare earth mining company developing Tanbreez Project in Greenland — one of the world's largest known rare earth deposits with 4.7 billion-tonne resource and exceptional 27% Heavy Rare Earth Elements content. Strategic JVs with Saudi Arabia ($1.5B) and Romania provide processing capacity and validation. Greenland recently cleared transfer of additional 50.5% stake bringing CRML ownership to 92.5%. Highly speculative with only $7-10M cash and significant funding/execution risks, but positioned to benefit from U.S.-China decoupling and Project Vault tailwinds.",
+  "last_updated": "2026-07-28",
+  "thesis": "Pre-revenue rare earth developer advancing the Tanbreez project in Greenland — one of the world's largest heavy-rare-earth deposits — where a 10,000-meter drilling campaign began June 2026 ahead of an S-K 1300 technical report. Cantor Fitzgerald initiated with a 'Speculative Buy' and $18 target on Tanbreez's exceptional heavy-REE content, and the company has advanced to the final round of Kenya's Mrima Hill tender (still in process). The story rides U.S.-China rare-earth decoupling and a pending Saudi Arabia processing JV, but the dominant concern is funding: with limited cash against ~$800M-$1B of capex, ongoing registration statements and share sales are diluting holders and the stock sits near a 52-week low.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$560,623",
-    "revenue_growth": "+376% (early stage)",
-    "net_loss": "-$51.87M",
-    "eps_diluted": "-$1.41",
-    "cash": "$7-10M",
-    "cash_per_share": "$0.66",
-    "book_value_per_share": "$1.19",
-    "total_debt": "Minimal (6.40% D/E)",
-    "runway": "6-12 months without JV milestones",
-    "gross_margin": "N/A",
-    "net_income": "N/A",
-    "fcf": "N/A"
+    "revenue_growth": "+376% (off a tiny base)",
+    "gross_margin": "N/A (pre-revenue)",
+    "net_income": "-$51.87M",
+    "eps_diluted": "-$1.47 (TTM)",
+    "cash": "Limited / funding-dependent",
+    "fcf": "Negative (development stage)"
   },
   "bull_case": {
-    "target": "$28.00",
+    "target": "$16–$20",
     "drivers": [
-      "Saudi JV closes on schedule with full $1.5B commitment",
-      "Project Vault provides price guarantees and direct U.S. offtake",
-      "Production begins 2027 (accelerated timeline)",
-      "Rare earth prices remain elevated ($40+/kg basket)",
-      "Additional JVs announced (Japan, Korea, Australia)"
-    ]
-  },
-  "bear_case": {
-    "target": "$5.00",
-    "risks": [
-      "Saudi JV collapses or significantly delayed",
-      "Greenland political situation deteriorates",
-      "Rare earth prices collapse on Chinese oversupply",
-      "Multiple dilutive raises required before production",
-      "Production delayed to 2030+ or cancelled"
+      "Saudi Arabia processing JV finalized with committed funding, de-risking capex",
+      "Tanbreez 10,000-meter drilling results confirm exceptional heavy-REE grades feeding an upgraded S-K 1300 report",
+      "Mrima Hill (Kenya) tender awarded, adding a second world-class rare-earth and niobium asset",
+      "U.S.-China rare-earth decoupling drives government-backed offtake and price support",
+      "First production track for 2027-2028 stays on schedule"
     ]
   },
   "base_case": {
-    "target": "$18.00",
-    "assumptions": "Saudi JV closes with partial/delayed funding; Project Vault provides indirect support; Production begins 2028; Rare earth prices normalize ($30/kg); One additional equity raise ($100M at $10/share); Successful pilot plant operation."
+    "target": "$9–$12",
+    "assumptions": "Tanbreez advances on the accelerated timeline with drilling results and an S-K 1300 report, the Saudi JV progresses but funding arrives in stages, Mrima Hill remains an in-process tender, and the company completes further dilutive raises to bridge toward a 2028 first-production window as rare-earth policy tailwinds hold."
+  },
+  "bear_case": {
+    "target": "$3–$4",
+    "risks": [
+      "Saudi JV stalls and project financing falls through, forcing heavy dilution near multi-year lows",
+      "Mrima Hill tender is lost after the retracted press release, removing a key optionality leg",
+      "Greenland permitting or Arctic logistics slip first production past 2028",
+      "Rare-earth basket prices fall on Chinese oversupply, gutting project economics",
+      "Continued cash burn with no revenue leaves the equity valued on distressed asset value only"
+    ]
   },
   "catalysts": [
     {
-      "date": "Q1-Q2 2026",
-      "event": "$30M Strategic Program Execution — Development acceleration",
-      "iso_date": "2026-01"
+      "date": "~October 2026",
+      "iso_date": "2026-10",
+      "event": "Next quarterly earnings / financials update (~2026-10-06) — cash position and burn rate in focus"
     },
     {
-      "date": "Q2 2026",
-      "event": "Saudi Arabia JV Finalization — $1.5B funding commitment",
-      "iso_date": "2026-04"
+      "date": "Pending",
+      "iso_date": null,
+      "event": "Saudi Arabia processing JV finalization and associated funding commitment"
     },
     {
-      "date": "Q2-Q3 2026",
-      "event": "S-K 1300 Technical Report — Resource standardization",
-      "iso_date": "2026-04"
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Tanbreez 10,000-meter drilling results and S-K 1300 technical report"
+    },
+    {
+      "date": "Pending",
+      "iso_date": null,
+      "event": "Mrima Hill (Kenya) rare-earth and niobium tender outcome (final round, in process)"
     },
     {
       "date": "2027-2028",
-      "event": "First Production — Revenue generation begins",
-      "iso_date": "2027"
+      "iso_date": "2027",
+      "event": "Targeted first production at Tanbreez — start of revenue generation"
     }
   ],
   "key_risks": [
-    "Critical funding risk with only $7.3M cash vs $800M-$1B capex requirement",
-    "Greenland regulatory/political risk with independence movement",
-    "Heavy insider selling by European Lithium (parent company)",
-    "Rare earth price volatility dominated by Chinese supply",
-    "High 23.78% short float indicates market skepticism"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Rare Earths",
-  "price_date": "2026-04-21"
+    "Critical funding risk: limited cash against ~$800M-$1B capex, with ongoing registration statements and share sales causing dilution",
+    "Stock trades near its 52-week low ($3.19-$32.15 range), down ~49% from the prior review, reflecting funding and execution skepticism",
+    "Mrima Hill remains an unresolved tender — a related press release was retracted via a 'Notice to Disregard'",
+    "Greenland Arctic permitting, logistics, and geopolitical uncertainty around the Tanbreez project",
+    "Rare-earth price volatility dominated by Chinese supply; pre-revenue status with no operating cash flow"
+  ]
 }

@@ -6,67 +6,78 @@
   "sub_theme": "Robotics & Automation",
   "industry": "Metal Additive Manufacturing / Aerospace & Defense",
   "exchange": "NASDAQ",
-  "price": 11.27,
-  "price_date": "2026-04-02",
-  "market_cap": "~$277M",
+  "price": 10.25,
+  "price_date": "2026-07-28",
+  "market_cap": "~$305M",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-02",
-  "thesis": "Metal additive manufacturing company with unique 'support-free' laser powder bed fusion technology enabling true design freedom versus legacy AM, targeting mission-critical aerospace and defense applications. AS9100D aerospace certification and deepening defense relationships (U.S. Army CRADA, Navy contracts, $32.6M DoD award) underpin a guided 30-52% revenue ramp to $60-70M in 2026 with a path to EBITDA profitability by H2 2026. Precarious financials ($39M cash, -$71M TTM net loss) mean the profitability milestone must land or dilutive financing follows. High short interest (28.6% of float) on a 7.2M-share float creates squeeze potential. High-risk/high-reward speculative position, 1-3% sizing max.",
+  "last_updated": "2026-07-28",
+  "thesis": "Recapitalized metal additive manufacturing company with unique support-free laser powder bed fusion technology (Sapphire printers, Flow/Assure software) enabling true design freedom versus legacy AM for mission-critical aerospace, space, defense, semiconductor, and energy applications. Under new leadership, the company is pivoting to a recurring-revenue model via Rapid Production Solutions (RPS) and has opened its ~289,000 sq ft Livermore 'Forge 1' campus (built for 100+ printers) to triple production capacity. Q1 2026 revenue grew 48% YoY to $13.8M and FY2026 guidance calls for $60-70M revenue with >30% gross margin and EBITDA positivity in H2 2026. A late-June 2026 Morpheus Research short report alleging a 'sham' SpaceX relationship, a 3M-share resale registration, and a heavy capex/opex plan against thin cash make execution binary. Russell 3000/Microcap inclusion and fresh analyst coverage (Needham Buy $33) lift visibility. High-risk/high-reward speculative position, 1-3% sizing max.",
   "financials": {
-    "fiscal_year": "TTM (as of 2026-04)",
-    "revenue": "N/A (FY2026 guide: $60-70M)",
-    "revenue_growth": "+30-52% guided FY2026",
-    "gross_margin": "N/A",
-    "net_income": "-$71M (TTM)",
-    "eps_diluted": "N/A",
-    "cash": "$39M",
-    "fcf": "N/A"
+    "fiscal_year": "FY2025",
+    "revenue": "$45.97M",
+    "revenue_growth": "+12.1%",
+    "gross_margin": ">30% guided H2 2026",
+    "net_income": "-$71.36M",
+    "eps_diluted": "-$2.75 (TTM)",
+    "cash": "N/A",
+    "fcf": "N/A (capex $40-50M guided FY2026)"
   },
   "bull_case": {
-    "target": "$28",
+    "target": "$22–28",
     "drivers": [
-      "Defense demand accelerates: U.S. Army CRADA, Navy contracts, and $32.6M DoD award convert into repeat system and services revenue",
-      "Support-free technology moat holds against legacy additive manufacturing competitors",
-      "EBITDA profitability lands in H2 2026, removing the dilution overhang",
-      "28.6% short interest on a 7.2M-share float fuels a squeeze on positive news",
-      "AS9100D certification opens additional aerospace primes"
+      "FY2026 revenue lands at or above the high end of the $60-70M guide (>30% YoY) as Forge 1 capacity ramps",
+      "EBITDA positivity in H2 2026 removes the dilution overhang and validates the recurring-revenue RPS model",
+      "Support-free laser powder bed fusion moat wins repeat defense, space, and aerospace programs",
+      "Russell 3000/Microcap inclusion and new coverage (Needham $33, Cantor $17, Lake Street $20) broaden the institutional base",
+      "Morpheus short allegations are credibly rebutted, restoring the SpaceX/defense narrative"
     ]
   },
   "base_case": {
-    "target": "$14",
-    "assumptions": "Revenue lands within the guided $60-70M range (+30-52%); EBITDA breakeven approaches but arrives roughly on schedule in H2 2026; no major new defense program wins beyond existing contracts; modest dilution risk persists until profitability is confirmed."
+    "target": "$13–15",
+    "assumptions": "FY2026 revenue lands within the guided $60-70M range; gross margin approaches but roughly hits the >30% H2 target; EBITDA breakeven arrives near schedule; capex/opex tracks guidance; modest dilution risk persists until profitability is confirmed; short-report controversy fades without material damage."
   },
   "bear_case": {
-    "target": "$5",
+    "target": "$4–6",
     "risks": [
-      "Profitability slips past H2 2026 and forces dilutive financing from a $39M cash position",
-      "Customer concentration and lumpy system sales produce a guidance miss",
-      "Defense procurement timing slips to the right",
-      "Micro-cap volatility and limited float amplify drawdowns"
+      "Morpheus short allegations gain traction, damaging the SpaceX/defense narrative and credibility",
+      "EBITDA positivity slips past H2 2026 and the $40-50M capex plan forces dilutive financing",
+      "The 3M-share resale registration and speculative ETF (VELL) flows amplify volatility and overhang",
+      "Lumpy system sales and customer concentration produce a guidance miss",
+      "Micro-cap volatility (beta 2.52) and a $2.81–$31.75 52-week range magnify drawdowns"
     ]
   },
   "catalysts": [
     {
-      "date": "Quarterly",
-      "event": "Earnings — progress against the $60-70M FY2026 revenue guide",
-      "iso_date": null
+      "date": "August 26, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — progress against the $60-70M FY2026 revenue guide and margin trajectory"
     },
     {
       "date": "H2 2026",
-      "event": "Path to EBITDA profitability — the make-or-break milestone for avoiding dilution",
-      "iso_date": "2026-07"
+      "iso_date": "2026-07",
+      "event": ">30% gross margin and EBITDA positivity milestone — the make-or-break inflection for avoiding dilution"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Forge 1 / Livermore Production Campus capacity ramp toward 100+ printers to meet defense/aerospace demand"
+    },
+    {
+      "date": "FY2026",
+      "iso_date": "2026",
+      "event": "Progress toward the $60-70M FY2026 revenue guidance and Rapid Production Solutions (RPS) recurring-revenue traction"
     },
     {
       "date": "Ongoing",
-      "event": "New defense contract awards building on Army CRADA, Navy work, and the $32.6M DoD award",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Resolution of Morpheus Research short-report allegations regarding the SpaceX relationship"
     }
   ],
   "key_risks": [
-    "Precarious financials: $39M cash against a -$71M TTM net loss",
-    "Must reach profitability by H2 2026 or face dilutive financing",
-    "Customer concentration and lumpy system sales",
-    "Micro-cap volatility with a limited 7.2M-share float",
-    "High short interest cuts both ways if execution slips"
+    "Morpheus Research short report alleging a 'sham' SpaceX relationship and 'SpaceX hype' rally — credibility and narrative risk",
+    "Path to EBITDA positivity in H2 2026 must land or dilutive financing follows given the $40-50M capex plan",
+    "3M-share resale registration creates a dilution/overhang risk amid ongoing cash needs",
+    "Lumpy system sales and customer concentration can produce guidance misses",
+    "Extreme micro-cap volatility (beta 2.52, $2.81–$31.75 52-week range) amplified by the VELL 2X single-stock ETF"
   ]
 }

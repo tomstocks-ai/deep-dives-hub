@@ -2,82 +2,80 @@
   "ticker": "PL",
   "company": "Planet Labs PBC",
   "sector": "Space",
+  "theme": "Space Economy",
+  "sub_theme": "Geospatial Intelligence",
   "industry": "Earth Observation / Satellite Imagery",
   "exchange": "NYSE",
-  "price": 35.88,
-  "market_cap": "$12.42B",
-  "rating": "HOLD",
-  "last_updated": "2026-04-03",
-  "thesis": "Leading provider of daily satellite imagery and geospatial data, operating the largest commercial Earth observation constellation with ~200 satellites. FY2026 revenue of $307.7M (+26% YoY) with first year of positive free cash flow ($57.7M). $900M backlog (+79% YoY) provides strong visibility. However, stock trades at extreme 40x P/S valuation after 900%+ run-up, leaving limited margin of safety. Market leader position but priced for near-flawless execution.",
+  "price": 21.00,
+  "price_date": "2026-07-28",
+  "market_cap": "$7.48B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-28",
+  "thesis": "Planet Labs operates the largest commercial Earth observation constellation (~200 SuperDove satellites plus high-resolution Pelican/SkySat), selling daily satellite imagery and geospatial analytics. Q1 FY2027 delivered record Q1 revenue up +42% YoY on defense, intelligence, and commercial wins, with backlog and RPOs surging past ~$900M and FY2026 marking the first year of positive free cash flow. A ~41% pullback from ~$35.88 to ~$21 — driven by a sector-wide de-rating after the SpaceX IPO drew capital away — has compressed the multiple from ~40x P/S to ~22x TTM P/S, materially de-risking the extreme-valuation concern that anchored the prior HOLD. The company remains unprofitable with a high 2.07 beta, so the upgraded thesis is speculative rather than clean.",
   "financials": {
     "fiscal_year": "FY2026",
-    "revenue": "$307.7M",
+    "revenue": "$307.73M",
     "revenue_growth": "+25.9% YoY",
     "gross_margin": "56.2%",
-    "operating_loss": "-$95.1M",
-    "net_loss": "-$246.9M",
-    "adjusted_ebitda": "$15.5M (turned positive)",
+    "net_income": "-$246.86M",
+    "eps_diluted": "-$1.17 (TTM)",
     "cash": "$640.1M",
-    "debt": "$462.5M (convertible notes)",
     "fcf": "$57.7M (first year positive)",
-    "backlog": "$900M (+79% YoY)",
-    "net_income": "N/A",
-    "eps_diluted": "N/A"
+    "ttm_revenue": "$335.6M (+34.2% YoY)",
+    "ttm_net_income": "-$373.10M",
+    "backlog": "$900M+"
   },
   "bull_case": {
-    "target": "$45–50",
+    "target": "$40–50",
     "drivers": [
-      "Revenue grows at 50% CAGR through 2030",
-      "Gross margins expand to 65%+",
-      "Operating leverage drives 30%+ operating margins",
-      "Government contracts accelerate internationally",
-      "Platform adoption drives recurring revenue to 85%+"
-    ]
-  },
-  "bear_case": {
-    "target": "$15–20",
-    "risks": [
-      "Revenue growth slows to 20% CAGR",
-      "Gross margins compressed by competition",
-      "Government contract delays or cancellations",
-      "Operating expenses grow faster than revenue",
-      "Space sector sentiment shifts negative"
+      "Defense and intelligence demand accelerates; RPO and backlog keep compounding",
+      "Pelican 2nd-generation high-resolution fleet scales and unlocks premium tasking revenue",
+      "European expansion (London office, Isar Aerospace launch deal) converts into government contracts",
+      "Operating leverage on a re-rated multiple drives sustained positive free cash flow",
+      "Platform and AI analytics adoption lifts recurring revenue mix"
     ]
   },
   "base_case": {
     "target": "$28–32",
-    "assumptions": "Revenue grows at 35% CAGR through 2030; Gross margins stabilize at 58-60%; Operating margins reach 20% by 2030; Market share remains strong but faces competition; Free cash flow generation continues."
+    "assumptions": "Revenue compounds ~30-35% near-term on defense and intelligence momentum; gross margins hold in the mid-to-high 50s; free cash flow stays modestly positive; TTM P/S re-rates back toward the mid-20s to low-30s as growth is confirmed while GAAP losses persist."
+  },
+  "bear_case": {
+    "target": "$12–16",
+    "risks": [
+      "Growth decelerates below guidance and disappoints investors again",
+      "Space-sector sentiment stays negative post-SpaceX IPO, compressing the multiple further",
+      "Competition from Maxar, BlackSky, and Satellogic pressures pricing and share",
+      "Continued GAAP losses and dilution weigh on the equity",
+      "Government contract timing slips push out backlog conversion"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-06-03",
-      "event": "Q1 FY2027 Earnings — Guidance validation",
-      "iso_date": "2026-06-03"
+      "date": "September 8, 2026",
+      "iso_date": "2026-09",
+      "event": "Q2 FY2027 earnings — confirm defense/intel-led growth and FY2027 guidance"
     },
     {
-      "date": "Q2 2026",
-      "event": "New Contract Announcements — Government and commercial",
-      "iso_date": "2026-04"
+      "date": "Ongoing 2026-2027",
+      "iso_date": null,
+      "event": "Pelican 2nd-gen fleet build-out and next high-resolution launches following Pelican-11 tech demo"
     },
     {
       "date": "Ongoing",
-      "event": "SpaceX IPO Developments — Sector effect",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Defense and international government contract wins expanding backlog and RPO"
     },
     {
-      "date": "Q3 2026",
-      "event": "Pelican Satellite Launches — High-resolution constellation",
-      "iso_date": "2026-07"
+      "date": "Ongoing 2026",
+      "iso_date": null,
+      "event": "European expansion traction — London office, Isar Aerospace launch agreement, EU advisory build-out"
     }
   ],
   "key_risks": [
-    "Extreme valuation at 40x P/S prices in perfection",
-    "900%+ run-up in past year creates significant downside risk",
-    "Short interest at 12.3% of float creates volatility",
-    "Customer concentration in government contracts",
-    "Competition from Maxar, BlackSky, and new entrants"
-  ],
-  "theme": "Space Economy",
-  "sub_theme": "Geospatial Intelligence",
-  "price_date": "2026-04-03"
+    "Still unprofitable on a GAAP basis with TTM net loss of -$373.10M",
+    "High beta of 2.07 and space-sector sentiment swings drive extreme volatility",
+    "Multiple could compress further if growth disappoints or sector rotation continues",
+    "Competition from Maxar, BlackSky, and Satellogic in Earth observation",
+    "Customer concentration in government and defense contracts"
+  ]
 }

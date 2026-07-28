@@ -2,80 +2,82 @@
   "ticker": "STAA",
   "company": "STAAR Surgical",
   "sector": "Health",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Medical Devices",
   "industry": "Medical Devices / Ophthalmology",
   "exchange": "NASDAQ",
-  "price": 26.22,
-  "market_cap": "$1.03B",
+  "price": 22.95,
+  "price_date": "2026-07-28",
+  "market_cap": "~$1.14B",
   "rating": "HOLD",
-  "last_updated": "2026-04-09",
-  "thesis": "Global leader in phakic Implantable Collamer® Lenses (ICLs) for vision correction. EVO ICL product line with 4+ million lenses sold globally. ~60% revenue concentration in China creates significant opportunity and risk. Q1 2026 pre-announcement beat ($90M+ vs $67.6M consensus) drove 25% stock rally, suggesting potential turnaround after 24% revenue decline in FY2025. FDA expanded age indication in Feb 2026 opens larger addressable market.",
+  "last_updated": "2026-07-28",
+  "thesis": "STAAR Surgical is the global leader in phakic Implantable Collamer Lenses (the EVO ICL family), with 4M+ lenses sold worldwide. After a brutal FY2025 (revenue -23.7% to $239.44M, net loss -$80.45M, ~-$1.68/share), the turnaround is now materializing: China refractive demand stabilized through 2025 and rebounded strongly in Q1 2026, driving a return to profitability and pushing TTM revenue back to +4.0% (~$290.4M). Preliminary Q1 and Q2 2026 net sales each came in above $90M, led by China and broader Asia-Pacific, with EVO+ demand and cost discipline restoring margins. The debate is now two-sided: multiple analyst target raises (Wedbush Outperform $40, Canaccord Buy $32, Piper $33, Stifel $31) against a fresh UBS SELL at $20. With ~60% of revenue still tied to China, ~95% dependence on the ICL family, and a ~30x forward multiple on a still-recovering earnings base, the risk/reward is balanced — HOLD.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$239M",
-    "revenue_growth": "-24% YoY",
-    "gross_margin": "Historic 70%+, currently depressed",
-    "net_loss": "-$1.62/share",
-    "cash": "Declining due to losses",
-    "market_cap": "$1.03B",
-    "fy2024_revenue": "$314M",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
+    "revenue": "$239.44M",
+    "revenue_growth": "-23.7% YoY",
+    "gross_margin": "~70% historic (recovering in 2026)",
+    "net_income": "-$80.45M",
+    "eps_diluted": "-$1.68",
+    "cash": "N/A",
     "fcf": "N/A"
   },
   "bull_case": {
     "target": "$35–40",
     "drivers": [
-      "China market fully recovers, driving 20%+ revenue growth",
-      "US market continues 40%+ growth trajectory",
-      "Company returns to profitability by FY2026",
-      "Gross margins expand back to 75%+",
-      "Market awards 30x+ P/E on restored earnings power"
-    ]
-  },
-  "bear_case": {
-    "target": "$14–16",
-    "risks": [
-      "China economic weakness worsens",
-      "Competitive pressure from LASIK/SMILE intensifies",
-      "Company fails to return to profitability",
-      "Cash burn forces dilutive capital raise",
-      "Multiple compresses to 5-8x sales"
+      "China refractive demand accelerates on conscription-season tailwinds, driving 20%+ revenue growth",
+      "Sustained return to profitability with gross margins expanding back toward historic 70%+",
+      "EVO+ rollout and disciplined cost control drive durable operating leverage",
+      "Ex-China growth (Asia-Pacific, US) diversifies the revenue base",
+      "Market awards ~30x+ P/E on restored and growing earnings power"
     ]
   },
   "base_case": {
-    "target": "$24–28",
-    "assumptions": "China stabilizes but doesn't accelerate; Revenue grows 10-15% annually; Breakeven profitability by late FY2026; Stock trades sideways as turnaround plays out; Multiple compression offsets earnings growth."
+    "target": "$28–32",
+    "assumptions": "China stabilizes and grows modestly rather than re-accelerating; TTM revenue growth holds in the mid-single digits; profitability is sustained but earnings recover gradually; stock trades within its current range as the turnaround is proven quarter by quarter; ~30x forward multiple is broadly maintained."
+  },
+  "bear_case": {
+    "target": "$16–20",
+    "risks": [
+      "China economic or geopolitical shock re-cuts the ~60% revenue base",
+      "Turnaround stalls and the company slips back toward losses",
+      "Competition from LASIK/SMILE erodes ICL share and pricing",
+      "Single-product-family dependence (~95% ICL) leaves no offset if demand softens",
+      "~30x forward multiple compresses on any execution misstep"
+    ]
   },
   "catalysts": [
     {
-      "date": "April 2026",
-      "event": "Q1 2026 Earnings Call — Guidance update critical",
-      "iso_date": "2026-04"
-    },
-    {
-      "date": "May 2026",
-      "event": "Analyst Day / Conference — Strategic update",
-      "iso_date": "2026-05"
-    },
-    {
-      "date": "July 2026",
-      "event": "Q2 2026 Earnings — Trend confirmation",
-      "iso_date": "2026-07"
+      "date": "August 12, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — full results after preliminary net sales above $90M; margin and profitability confirmation"
     },
     {
       "date": "Ongoing",
-      "event": "China Economic Data — Impacts 60% of revenue",
-      "iso_date": null
+      "iso_date": null,
+      "event": "China refractive demand and military-conscription-season data — drives the ~60% revenue base and new seasonality"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Margin-recovery progress — sustaining the return to profitability and rebuilding toward historic 70%+ gross margins"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "EVO+ rollout — next-generation ICL adoption supporting demand and mix"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Ex-China growth (Asia-Pacific, US) — geographic diversification away from China concentration"
     }
   ],
   "key_risks": [
-    "60% revenue concentration in China — regulatory/economic vulnerability",
-    "Lost $1.62/share in FY2025; profitability uncertain",
-    "Trading at 114x forward earnings — expensive",
-    "Competition from LASIK and SMILE procedures",
-    "Single product risk — ~95% of revenue from ICL products"
-  ],
-  "theme": "Biotechnology & Health Technology",
-  "sub_theme": "Medical Devices",
-  "price_date": "2026-04-09"
+    "~60% revenue concentration in China — economic and geopolitical vulnerability",
+    "Single-product-family dependence — ~95% of revenue from the ICL family",
+    "Competition from LASIK and SMILE refractive procedures",
+    "Valuation: ~30x forward earnings on a still-recovering earnings base",
+    "Turnaround is early — FY2025 posted a -$80.45M net loss and earnings recovery must be sustained"
+  ]
 }

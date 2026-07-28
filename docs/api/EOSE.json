@@ -4,80 +4,86 @@
   "sector": "Energy",
   "industry": "Battery Energy Storage Systems (BESS)",
   "exchange": "NASDAQ",
-  "price": 4.86,
-  "market_cap": "$1.69B",
+  "price": 3.61,
+  "price_date": "2026-07-28",
+  "market_cap": "$1.28B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-05",
-  "thesis": "U.S.-based manufacturer of zinc-bromine battery energy storage systems for utility-scale applications. Non-flammable aqueous chemistry offers safety advantages over lithium-ion. $305.3M DOE loan guarantee provides critical funding support. Revenue grew 632% in 2025 to $114.2M with $701.5M backlog (2.8 GWh), but gross margins remain deeply negative (-126%) during manufacturing scale-up. Path to profitability depends on achieving positive gross margins by Q4 2026.",
+  "last_updated": "2026-07-28",
+  "thesis": "U.S.-based manufacturer of zinc-based (Znyth) battery energy storage systems for long-duration, utility-scale applications. Non-flammable aqueous chemistry — now independently fire-tested with no thermal runaway and ISO 14001 certified — offers real safety and siting advantages over lithium-ion. TTM revenue exploded ~726% to ~$160.7M and preliminary Q2 2026 signals record quarterly revenue and backlog as manufacturing capacity doubles. A ~$263M rights offering (with Hudson Bay and Cerberus), a $75M direct offering, the new Frontier Power USA (FPUSA) project-finance platform, a Golden Dome selection, and a $305.3M DOE loan guarantee have strengthened funding and credibility — but at the cost of heavy dilution. The stock trades near 52-week lows and the entire thesis hinges on reaching positive gross margin, targeted around H2 2026.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$114.2M",
     "revenue_growth": "+632% YoY",
-    "gross_margin": "-125.9% (negative)",
-    "operating_loss": "-$259.3M",
-    "net_loss": "-$969.6M",
-    "adjusted_ebitda": "-$219.1M",
-    "cash": "$624.6M (including restricted)",
-    "total_debt": "$1.76B (convertible notes)",
-    "book_value": "Negative ($2.24B deficit)",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
-    "fcf": "N/A"
+    "gross_margin": "Deeply negative (scale-up)",
+    "operating_loss": "N/A",
+    "net_loss": "-$1.74B (mostly non-cash warrant/derivative charges)",
+    "ttm_revenue": "$160.7M (+726% YoY)",
+    "ttm_net_income": "-$1.01B",
+    "net_income": "-$1.74B",
+    "eps_diluted": "-$5.51 (TTM)",
+    "cash": "Bolstered by ~$263M rights offering + $75M direct offering",
+    "total_debt": "Heavy convertible-note load",
+    "book_value": "Negative",
+    "fcf": "Negative (high cash burn)"
   },
   "bull_case": {
-    "target": "$18.00",
+    "target": "$9–$12",
     "drivers": [
-      "Achieves 2026 revenue guidance high end ($400M)",
-      "Gross margins turn positive by Q4 2026",
-      "DOE loan funds full manufacturing expansion to 8 GWh",
-      "Zinc-bromine chemistry gains acceptance vs lithium-ion",
-      "IRA manufacturing credits provide meaningful cash contribution"
-    ]
-  },
-  "bear_case": {
-    "target": "$3.50",
-    "risks": [
-      "Manufacturing quality issues delay shipments",
-      "Lithium-ion prices drop faster than expected, eroding cost advantage",
-      "Cash burn exceeds expectations; dilutive raise required",
-      "Customer project delays push revenue to 2027",
-      "Technical issues with Z3 or Indensity products"
+      "Positive gross margin achieved around H2 2026, validating unit economics at scale",
+      "Record Q2 2026 revenue and backlog confirmed; doubled annual production capacity ramps cleanly",
+      "FPUSA (~$375M targeted equity, KKR Capital Markets engaged) converts its ~1.8 GWh selected/closed pipeline into funded orders",
+      "$305.3M DOE loan guarantee drawn to fund manufacturing expansion",
+      "Golden Dome for America and defense/grid demand plus ISO 14001 / no-thermal-runaway safety edge drive share gains vs lithium-ion"
     ]
   },
   "base_case": {
-    "target": "$9.50",
-    "assumptions": "Revenue reaches $350M in 2026 (middle of guidance); Gross margins improve but stay negative through mid-2027; Successful DOE loan draw but slower ramp than planned; Market assigns 3x EV/Sales on 2029E revenue of $900M."
+    "target": "$5–$7",
+    "assumptions": "Revenue keeps scaling on record backlog but gross margin turns positive only around H2 2026 and stays thin; DOE loan draws proceed with some delay; FPUSA converts part of its ~1.8 GWh pipeline; continued but manageable dilution. Market pays a growth multiple on a credible-but-not-yet-proven path to profitability."
+  },
+  "bear_case": {
+    "target": "$2–$3",
+    "risks": [
+      "Gross margin inflection slips beyond H2 2026; cash burn forces further dilutive raises",
+      "Convertible-note debt and warrant overhang keep pressuring the share count and price",
+      "Manufacturing ramp stumbles; capacity-reservation orders (e.g. Redbird) fail to convert",
+      "Lithium-ion cost declines erode the value proposition for long-duration storage",
+      "DOE loan draw milestones or FPUSA financing closings are delayed"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05-12",
-      "event": "Q1 2026 Earnings — First 2026 data point",
-      "iso_date": "2026-05-12"
+      "date": "August 5, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — preliminary results already signal record quarterly revenue and backlog; watch margin trajectory and updated guidance"
     },
     {
-      "date": "Q2 2026",
-      "event": "Manufacturing Update — Capacity progress",
-      "iso_date": "2026-04"
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "Gross-margin inflection — the key thesis trigger; management targets a turn to positive gross margin"
     },
     {
-      "date": "2026-08",
-      "event": "Q2 Earnings — Margin inflection watch",
-      "iso_date": "2026-08"
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "DOE $305.3M loan draw milestones — funds manufacturing expansion without equity dilution"
     },
     {
-      "date": "Q3 2026",
-      "event": "DOE Loan Milestones — Critical funding trigger",
-      "iso_date": "2026-07"
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "FPUSA project closings / capacity conversions — converting the ~1.8 GWh selected/closed pipeline (incl. Redbird 2 GWh reservation) into funded purchase orders"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Golden Dome for America deliveries — first 'mission-ready power' shipments validate defense/grid credibility"
     }
   ],
   "key_risks": [
-    "Negative gross margins — losing $1.26 for every $1 of sales",
-    "High cash burn rate (~$70M/quarter)",
-    "Heavy $1.76B debt load with convertible note dilution risk",
-    "Customer concentration in utility-scale projects",
-    "Competition from established lithium-ion players (Tesla, Fluence, CATL)"
+    "Continued dilution from the rights offering, $75M registered direct offering, and warrants",
+    "Still-negative gross margins during the manufacturing scale-up",
+    "High cash burn rate",
+    "Heavy convertible-note debt load with associated dilution/refinancing risk",
+    "Execution risk on the manufacturing ramp and on converting FPUSA/backlog capacity into revenue"
   ],
   "theme": "AI Buildout",
-  "sub_theme": "Grid-Scale Energy Storage",
-  "price_date": "2026-04-05"
+  "sub_theme": "Grid-Scale Energy Storage"
 }
