@@ -6,9 +6,9 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-10 | [:material-file-document: Read](SNOW.md) |
+| <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](SNOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
-| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software Inc. | <span class="rating-hold">HOLD</span> | 2026-04-10 | [:material-file-document: Read](U.md) |
+| <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](U.md) |
 | <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
 | <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
@@ -107,11 +107,11 @@ Cloud storage and backup provider with two segments: B2 Cloud Storage (object st
 
 ### Enterprise Software
 
-**SNOW — Snowflake Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+**SNOW — Snowflake Inc. · <span class="rating-buy">BUY</span>**
 
-Cloud data platform experiencing challenging period, down 57% from highs. Strong fundamentals intact: 30% YoY product revenue growth, 125% NRR, \$4.8B cash. RSI at 16.4 indicates severely oversold conditions. AI Data Cloud positioning with Cortex suite gaining traction. Analyst consensus \$235–249 target implies 96–108% upside. Trading at discount to high-growth SaaS peers despite comparable metrics.
+Leading cloud-agnostic data platform whose deeply-oversold recovery thesis has fully played out — shares have roughly doubled from ~\$119 (RSI ~16) to ~\$273 on sustained 30%+ growth. FY2026 total revenue rose 29.2% to \$4.68B, TTM revenue is ~\$5.03B (+31%), NRR is ~125%, RPO is ~\$9.8B, and free cash flow runs ~\$1.2B+ at a ~25% margin — a profitable-cash-flow quality leader rather than a speculative bounce. Cortex AI and Snowflake Intelligence are the core growth engines, and a 51-analyst Strong Buy consensus (avg target ~\$297.60; BofA \$330, KeyBanc \$325, Jefferies \$310) backs the upgrade to BUY. Databricks' ~\$188B private raise reframes public SNOW as relatively cheap, though a full ~129x forward-earnings multiple, consumption-model volatility, and heavy stock-based comp cap near-term upside.
 
-**Bull:** \$280 · **Base:** \$195 · **Bear:** \$90
+**Bull:** \$330–\$360 · **Base:** \$290–\$310 · **Bear:** \$180–\$210
 
 [:material-arrow-right: Full Deep Dive](SNOW.md)
 
@@ -143,11 +143,11 @@ The purest large-cap play on enterprise-AI deployment, pairing a decades-deep go
 
 ### Game Engines & Marketing
 
-**U — Unity Software Inc. · <span class="rating-hold">HOLD</span>**
+**U — Unity Software Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Leading 3D content creation platform with ~70% mobile game market share. Recovering from 2023 "Runtime Fee" controversy that damaged developer trust. New CEO focused on strategic portfolio cleanup. \$2.06B cash provides 5+ years runway. Positive FCF in recent quarters. Heavy portfolio concentration at 20% requires risk management.
+Leading 3D content creation platform with ~70% mobile game market share, now in a credible turnaround under CEO Matt Bromberg. The new **Vector** AI-powered ad/monetization platform is rebuilding "Grow Solutions," a strong pre-announced Q1 2026 helped shares recover ~75% off the February/March lows to ~\$30 (+41% since the last update), and TTM revenue has reaccelerated to +7.6%. The Unity 7 authoring roadmap unveiled at Unite Seoul defends Create Solutions engine leadership. Consensus is Buy (26 analysts, ~\$35.45 target, ~16% upside) with ~\$2B cash and positive FCF. Still GAAP-unprofitable with ~5% annual SBC dilution and Unreal Engine competition, hence speculative and high-beta (2.05).
 
-**Bull:** \$45 · **Base:** \$28 · **Bear:** \$14
+**Bull:** \$42–\$48 · **Base:** \$34–\$38 · **Bear:** \$18–\$22
 
 [:material-arrow-right: Full Deep Dive](U.md)
 

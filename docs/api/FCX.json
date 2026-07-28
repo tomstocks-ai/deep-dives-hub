@@ -2,82 +2,83 @@
   "ticker": "FCX",
   "company": "Freeport-McMoRan Inc.",
   "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Copper",
   "industry": "Copper Mining",
   "exchange": "NYSE",
-  "price": 61.38,
-  "market_cap": "$87.96B",
+  "price": 62.72,
+  "price_date": "2026-07-28",
+  "market_cap": "$90.2B",
   "rating": "BUY",
-  "last_updated": "2026-04-03",
-  "thesis": "World's largest publicly traded copper producer positioned at the epicenter of the global energy transition. Operations spanning Indonesia (Grasberg), North America, and South America. 2024 EBITDA of $10B (+14% YoY) with strong operational execution. Grasberg underground ramp-up progressing with world-class copper/gold grades. Critical leverage to copper structural supply deficit through 2030 driven by EVs, renewables, and AI data centers.",
+  "last_updated": "2026-07-28",
+  "thesis": "World's largest publicly traded copper producer at the epicenter of electrification, grid buildout, and AI data-center power demand — copper prices sit at record highs on a structural supply deficit. Q2 2026 beat handily (adjusted EPS $0.74 vs $0.62; revenue $7.03B) with U.S. operations net income up 65% YoY. The Grasberg Block Cave ramp is progressing on schedule after the prior operational disruption, and a new Indonesia agreement extends key asset lifespans, reducing the long-standing regulatory overhang. Investment-grade balance sheet with no significant 2026 debt maturities backs continued dividends and performance-based returns.",
   "financials": {
-    "fiscal_year": "FY2024",
-    "revenue": "$25.1B",
-    "revenue_growth": "+9.6% YoY",
-    "ebitda": "$10.0B",
-    "ebitda_growth": "+14% YoY",
-    "net_income": "$2.2B",
-    "eps_diluted": "$1.21",
-    "operating_cash_flow": "$6.8B",
-    "free_cash_flow": "$3.2B",
-    "unit_net_cash_costs": "$2.07/lb (highly competitive)",
-    "debt_to_equity": "Low (investment grade BBB-)",
+    "fiscal_year": "FY2025",
+    "revenue": "$25.92B",
+    "revenue_growth": "+1.8% YoY",
     "gross_margin": "N/A",
+    "net_income": "$2.20B",
+    "eps_diluted": "$2.04 (TTM)",
     "cash": "N/A",
     "fcf": "N/A"
   },
   "bull_case": {
-    "target": "$81.00",
+    "target": "$82–90",
     "drivers": [
-      "Copper averages $5.50/lb 2025-2027 on structural deficit",
-      "Grasberg achieves 1.6B lbs peak production by 2026-2027",
-      "China stimulus drives demand surge",
-      "Supply deficits widen faster than expected",
-      "Indonesia terms finalized favorably"
-    ]
-  },
-  "bear_case": {
-    "target": "$48.00",
-    "risks": [
-      "Copper falls to $3.75/lb on global recession",
-      "Indonesia imposes punitive terms or export restrictions",
-      "China property crisis deepens",
-      "Grasberg operational issues emerge"
+      "Copper holds at record highs on a widening structural deficit (electrification, grid, AI data centers)",
+      "Grasberg Block Cave ramp exceeds plan; smelting fully restored",
+      "Leach initiative reaches ~300M lb/yr run-rate at low capital intensity",
+      "Copper sales scale to 3.8B lbs (2027) and 4.1B lbs (2028) per guidance",
+      "Multiple analyst target raises (Barclays $82, RBC $73, Wells Fargo $70) prove conservative"
     ]
   },
   "base_case": {
-    "target": "$65.00",
-    "assumptions": "Copper averages $4.50/lb (current levels); Grasberg ramps as planned through 2027; Indonesia negotiations result in status quo; Steady copper demand growth (3-4% CAGR)."
+    "target": "$70–74",
+    "assumptions": "Copper stays firm but off peak; Grasberg ramps as guided; Indonesia terms hold under the new agreement; FY2026 copper sales ~3.1B lbs and gold ~0.65M oz; capex ~$4.3B; steady 3-4% copper demand growth."
+  },
+  "bear_case": {
+    "target": "$48–52",
+    "risks": [
+      "Copper corrects on global recession or a deeper China property slowdown",
+      "Grasberg ramp stalls or a fresh operational disruption emerges",
+      "Indonesia imposes punitive export/permitting terms despite the new MoU",
+      "Rising capex and unit costs compress margins",
+      "AI/electrification demand narrative disappoints near term"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-04-16",
-      "event": "Q1 2026 Earnings — Quarterly production update",
-      "iso_date": "2026-04-16"
+      "date": "Late October 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings — production, unit costs, and updated 2026 guidance"
     },
     {
-      "date": "2026-07",
-      "event": "Grasberg Ramp Update — Production milestone",
-      "iso_date": "2026-07"
-    },
-    {
-      "date": "Q3 2026",
-      "event": "Indonesia Terms Negotiation — Critical regulatory milestone",
-      "iso_date": "2026-07"
+      "date": "Ongoing 2026-2027",
+      "iso_date": null,
+      "event": "Grasberg Block Cave ramp milestones and restoration of full mining/smelting operations"
     },
     {
       "date": "Ongoing",
-      "event": "Copper Price Movements — LME inventory levels",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Copper price and LME inventory moves — leverage to the structural deficit"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Indonesia terms and permitting under the new asset-life-extension agreement"
+    },
+    {
+      "date": "Ongoing 2026",
+      "iso_date": null,
+      "event": "Leach initiative progress toward a ~300M lb/yr copper run-rate"
     }
   ],
   "key_risks": [
-    "Indonesia political/regulatory risk — government majority stakeholder through Inalum",
-    "Commodity price volatility — 50% revenue sensitivity to copper prices",
-    "Grasberg operational execution — underground ramp-up complexity",
-    "China demand slowdown — 40% of global copper demand",
-    "ESG/tailings management risks in mining operations"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Copper",
-  "price_date": "2026-04-03"
+    "Indonesia political/regulatory risk — government majority stakeholder via Inalum; export and permitting exposure remains despite the new agreement",
+    "Commodity price volatility — heavy revenue sensitivity to copper prices",
+    "Grasberg operational execution — Block Cave ramp complexity after the prior disruption",
+    "China demand slowdown — roughly 40% of global copper demand",
+    "Rising capex (~$4.3B FY2026) and unit-cost inflation",
+    "ESG and tailings/water management risks across mining operations"
+  ]
 }

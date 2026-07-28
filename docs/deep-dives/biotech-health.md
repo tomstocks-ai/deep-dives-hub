@@ -9,8 +9,8 @@ title: Biotechnology & Health Technology
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:HIMS" hide-background></tv-ticker-tag> | Hims & Hers Health, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-16 | [:material-file-document: Read](HIMS.md) |
-| <tv-ticker-tag symbol="NASDAQ:STAA" hide-background></tv-ticker-tag> | STAAR Surgical | <span class="rating-hold">HOLD</span> | 2026-04-09 | [:material-file-document: Read](STAA.md) |
+| <tv-ticker-tag symbol="NYSE:HIMS" hide-background></tv-ticker-tag> | Hims & Hers Health, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](HIMS.md) |
+| <tv-ticker-tag symbol="NASDAQ:STAA" hide-background></tv-ticker-tag> | STAAR Surgical | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](STAA.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADPT" hide-background></tv-ticker-tag> | Adaptive Biotechnologies Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
 | <tv-ticker-tag symbol="NYSE:BFLY" hide-background></tv-ticker-tag> | Butterfly Network, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BFLY.md) |
 
@@ -18,11 +18,11 @@ title: Biotechnology & Health Technology
 
 ### Telehealth & Digital Health
 
-**HIMS — Hims & Hers Health, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+**HIMS — Hims & Hers Health, Inc. · <span class="rating-hold">HOLD</span>**
 
-Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, mental health, dermatology, and weight loss. Revenue grew 59% YoY to \$2.35B in FY2025 with 72% gross margins. Key risk: FDA cracking down on compounded GLP-1 drugs (~25% of revenue at stake). 36% short interest creates both danger and squeeze potential.
+Consumer-first telehealth platform that, after completing the Eucalyptus (Juniper) acquisition, now operates across the US, UK, Australia, Canada, Germany, Ireland, France, and Spain — one of the world's largest consumer-health platforms. FY2025 revenue grew 59% to \$2.35B at ~72% gross margin with \$128.37M net income, but TTM earnings slipped to a small loss (-\$13.24M) as the GLP-1/branded pivot and integration pressure margins. Weight-loss/GLP-1 momentum (Novo Nordisk/Wegovy) offers multi-billion-dollar upside if the FDA loosens peptide rules, but after a ~37% rally to ~\$30 the stock sits at/above the ~\$29.77 consensus (Hold) target at ~533x forward earnings, with an FDA/DOJ overhang — downgraded to HOLD on balanced risk/reward.
 
-**Bull:** \$35–40 · **Base:** \$28–30 · **Bear:** \$12–15
+**Bull:** \$40–48 · **Base:** \$28–32 · **Bear:** \$15–20
 
 [:material-arrow-right: Full Deep Dive](HIMS.md)
 
@@ -32,9 +32,9 @@ Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, 
 
 **STAA — STAAR Surgical · <span class="rating-hold">HOLD</span>**
 
-Global leader in phakic Implantable Collamer Lenses (ICLs) with 4M+ EVO ICLs sold. Market leader in lens-based vision correction vs. LASIK. Q1 2026 pre-announcement beat: \$90M+ revenue vs. \$67.6M consensus. 60% revenue from China creates significant concentration risk. Trading at 114x forward earnings — expensive turnaround play.
+Global leader in phakic Implantable Collamer Lenses (the EVO ICL family) with 4M+ lenses sold. The turnaround is now materializing: after FY2025 revenue fell 23.7% to \$239.44M (net loss -\$80.45M, ~-\$1.68/share), China refractive demand rebounded, STAAR returned to profitability in Q1 2026, and TTM revenue is back to +4.0% (~\$290.4M). Preliminary Q1 and Q2 2026 net sales each topped \$90M, led by China and broader Asia-Pacific, with EVO+ demand and cost discipline restoring margins. Analysts are split — target raises from Wedbush (\$40), Canaccord (\$32), Piper (\$33), and Stifel (\$31) against a fresh UBS SELL at \$20. Core risks: ~60% China revenue concentration, ~95% ICL dependence, LASIK/SMILE competition, and ~30x forward earnings on a still-recovering base.
 
-**Bull:** \$35–40 · **Base:** \$24–28 · **Bear:** \$14–16
+**Bull:** \$35–40 · **Base:** \$28–32 · **Bear:** \$16–20
 
 [:material-arrow-right: Full Deep Dive](STAA.md)
 

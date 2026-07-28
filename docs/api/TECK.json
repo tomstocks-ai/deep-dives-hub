@@ -4,80 +4,80 @@
   "sector": "Materials",
   "industry": "Diversified Mining (Copper/Zinc)",
   "exchange": "NYSE",
-  "price": 48.54,
-  "market_cap": "$24.3B",
-  "rating": "BUY",
-  "last_updated": "2026-04-03",
-  "thesis": "Pure-play 'green metals' champion following strategic divestiture of steelmaking coal business to Glencore for $7.3B. Now focused on copper and zinc with best-in-class growth pipeline. Pending 'merger of equals' with Anglo American (expected mid-2026) will create Anglo Teck — top-five global copper producer with >70% copper exposure and $800M annual synergies. QB2 copper project in Chile is flagship growth asset. $5B net cash position provides fortress balance sheet.",
+  "price": 59.75,
+  "price_date": "2026-07-28",
+  "market_cap": "$29.3B",
+  "rating": "HOLD",
+  "last_updated": "2026-07-28",
+  "thesis": "Pure-play 'green metals' producer focused on copper and zinc after the 2024 divestiture of its steelmaking-coal business to Glencore. Q2 2026 was a record quarter — adjusted EBITDA roughly tripled YoY to ~$2.2B on record copper prices and higher production — and the pending 'merger of equals' with Anglo American (Anglo Teck) would create a top-five global copper producer with ~$800M in annual synergies. After a ~23% run to ~$59.75, however, the stock trades ABOVE the blended analyst consensus 12-month target (~$53.23) with a Hold consensus label, so near-term risk/reward is balanced even as the longer-term copper supercycle and merger bull case remain intact.",
   "financials": {
-    "fiscal_year": "FY2024",
-    "revenue": "$9.1B (post-coal sale)",
-    "ebitda": "$10.0B (2024, +14% YoY)",
-    "net_income": "$2.2B",
-    "eps_diluted": "$1.21",
-    "operating_cash_flow": "$6.8B",
-    "free_cash_flow": "$3.2B",
-    "cash": "$5.01B (net cash)",
-    "debt": "~$6.5B (manageable)",
-    "copper_production": "1.04B lbs (Q4 2024)",
-    "revenue_growth": "N/A",
+    "fiscal_year": "TTM (Q2 2026)",
+    "revenue": "$9.85B",
+    "revenue_growth": "+40.5%",
     "gross_margin": "N/A",
-    "fcf": "N/A"
+    "net_income": "$1.76B",
+    "eps_diluted": "$3.59",
+    "cash": "fortress balance sheet (net cash post-coal sale)",
+    "fcf": "N/A",
+    "fy2025_revenue": "C$10.76B (+18.7% YoY)",
+    "fy2025_earnings": "C$1.40B",
+    "q2_2026_adjusted_ebitda": "~$2.2B (roughly tripled YoY)",
+    "q2_2026_adjusted_eps": "C$1.93 (beat ~C$1.15–C$1.39 consensus)",
+    "q2_2026_revenue": "~C$3.61B"
   },
   "bull_case": {
-    "target": "$68",
+    "target": "$68–74",
     "drivers": [
-      "Copper averages $5.50/lb 2025-2027 on structural deficit",
-      "QB2 achieves 1.6B lbs peak production by 2026-2027",
-      "Anglo American merger closes on schedule with $800M synergies",
-      "Anglo Teck becomes top-5 global copper producer with >70% copper exposure",
-      "Copper supercycle narrative gains traction"
-    ]
-  },
-  "bear_case": {
-    "target": "$38",
-    "risks": [
-      "Copper falls to $3.50/lb on global recession",
-      "QB2 TMF (Tailings Management Facility) issues persist",
-      "Anglo American merger faces delays or fails",
-      "China demand slows more than expected",
-      "Chile royalty increases hurt margins"
+      "Record copper prices persist on a structural supply deficit fed by electrification, grid buildout, and AI data-center power demand",
+      "Anglo Teck merger closes on schedule, delivering ~$800M annual synergies and top-five global copper scale",
+      "QB2 (Quebrada Blanca) in Chile ramps toward higher output and Highland Valley mine-life extension advances",
+      "Reaffirmed 2026-2028 production guidance is met or exceeded",
+      "Copper supercycle narrative drives sector multiple re-rating"
     ]
   },
   "base_case": {
-    "target": "$55",
-    "assumptions": "Copper averages $4.25/lb; QB2 reaches 240kt by 2027; Anglo merger closes with normal execution; Synergies achieved as guided; Moderate copper market tightness."
+    "target": "$55–60",
+    "assumptions": "Copper prices moderate from record highs but remain healthy; QB2 and Highland Valley continue ramping per reaffirmed 2026-2028 guidance; Anglo Teck merger closes with normal execution and synergies realized over time; balanced near-term risk/reward with the stock near fair value."
+  },
+  "bear_case": {
+    "target": "$40–45",
+    "risks": [
+      "Copper prices correct sharply on a China demand slowdown or global recession",
+      "Anglo Teck merger faces regulatory delays, conditions, or fails to close",
+      "Chile political, royalty, or permitting risk pressures margins and project economics",
+      "QB2 / Highland Valley production ramp disappoints versus guidance",
+      "Post-run valuation compresses as the stock sits above consensus target"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-04-23",
-      "event": "Q4 2025 Earnings — Operational update",
-      "iso_date": "2026-04-23"
-    },
-    {
-      "date": "Q2 2026",
-      "event": "Anglo Merger Regulatory Approvals — Key milestone",
-      "iso_date": "2026-04"
-    },
-    {
-      "date": "Mid-2026",
-      "event": "Anglo Teck Merger Close — Transformational event",
-      "iso_date": "2026-06"
+      "date": "Q3 2026 (~late October 2026)",
+      "event": "Q3 2026 earnings — read on copper realizations, production, and cash generation",
+      "iso_date": "2026-10"
     },
     {
       "date": "Ongoing",
-      "event": "QB2 Production Ramp — 280kt+ target by 2028",
+      "event": "Anglo Teck merger regulatory approvals and close — central transformational catalyst",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "QB2 (Quebrada Blanca) and Highland Valley Copper production ramp toward reaffirmed 2026-2028 guidance",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "Copper price / LME moves — key swing factor for earnings and sentiment",
       "iso_date": null
     }
   ],
   "key_risks": [
-    "QB2 TMF (Tailings Management Facility) sand drainage challenges delaying ramp-up",
-    "Anglo American merger execution and regulatory approval risk",
-    "Copper price volatility — high correlation to China demand",
-    "Chile political risk — royalty increases, regulatory changes",
+    "Valuation: stock trades above the blended consensus 12-month target after a ~23% run",
+    "Copper price cyclicality and high correlation to China demand",
+    "Anglo Teck merger execution and regulatory approval risk",
+    "Chile political risk — royalty increases, permitting, regulatory changes",
     "Merger integration complexity with Anglo American"
   ],
   "theme": "Critical Minerals",
-  "sub_theme": "Copper",
-  "price_date": "2026-04-03"
+  "sub_theme": "Copper"
 }

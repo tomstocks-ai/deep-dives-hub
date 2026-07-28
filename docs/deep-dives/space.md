@@ -8,8 +8,8 @@
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](ASTS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar Corporation | <span class="rating-buy">BUY</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
-| <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](SATL.md) |
-| <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs PBC | <span class="rating-hold">HOLD</span> | 2026-04-03 | [:material-file-document: Read](PL.md) |
+| <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](SATL.md) |
+| <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs PBC | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](PL.md) |
 | <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-26 | [:material-file-document: Read](NN.md) |
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings, Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
 | <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](RKLB.md) |
@@ -38,23 +38,23 @@ Dramatic transformation from distressed wireless carrier to spectrum monetizatio
 
 ---
 
+### Geospatial Intelligence
+
 **SATL — Satellogic · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Vertically integrated Earth observation company building own satellites. 72% gross margins with 38% revenue growth (\$17.7M). \$130M cash runway. Merlin constellation launch (Oct 2026) is binary catalyst — AI-first, 1-meter daily remapping capability. High customer concentration (top 2 = 50%+ revenue). High short interest (23.8%) creates squeeze potential.
+Vertically integrated Earth observation company building and operating its own satellites, now branding itself the infrastructure company for "Persistent Global Intelligence (PGI)." Q1 2026 revenue jumped +80% YoY to \$6.1M (beat), adjusted EBITDA loss improved 32%, and the company delivered its first-ever positive operating cash flow — the GAAP -\$0.84 EPS was driven by a ~\$113M non-cash fair-value charge, not operations. ~72% gross margins, FY2025 revenue \$17.71M, TTM ~\$20.4M (+58%). A new \$18M international defense contract plus SpaceKnow and SynMax AI partnerships broaden the defense/government pipeline. The AI-first Merlin constellation launch (~Oct 2026) is the binary catalyst; a CFO transition and customer concentration are the key risks. Consensus Strong Buy, avg target ~\$11.28.
 
-**Bull:** \$8–10 · **Base:** \$5.00 · **Bear:** \$1.00–1.50
+**Bull:** \$10–12 · **Base:** \$5–6 · **Bear:** \$1.50–2
 
 [:material-arrow-right: Full Deep Dive](SATL.md)
 
 ---
 
-### Geospatial Intelligence
+**PL — Planet Labs PBC · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-**PL — Planet Labs PBC · <span class="rating-hold">HOLD</span>**
+Operates the largest commercial Earth observation constellation — ~200 SuperDove satellites imaging the planet daily plus high-res Pelican/SkySat. Q1 FY2027 (reported June 2026) posted record Q1 revenue up +42% YoY on defense, intelligence, and commercial wins, with backlog/RPOs surging past ~\$900M and FY2026 delivering the first year of positive free cash flow. Upgraded from HOLD: a ~41% pullback from ~\$35.88 to ~\$21 — driven by a SpaceX-IPO-led space-sector de-rating — compressed the multiple from ~40x to ~22x TTM sales, wringing out the extreme-valuation risk that anchored the prior call. Catalysts include Q2 FY2027 earnings (Sept 8, 2026), the Pelican-11-led 2nd-gen fleet build-out, defense/international contract wins, and European expansion (London office, Isar Aerospace launch deal). Still unprofitable (TTM EPS -\$1.17) with a 2.07 beta, hence speculative. Consensus Buy (11 analysts), avg target ~\$40.10; Wedbush Outperform \$50, Deutsche Bank Buy \$36, Goldman Neutral \$25.
 
-Leading Earth observation company with ~200 satellites providing daily global imagery. Largest commercial constellation by unit count. Revenue \$307.7M FY2026 (+26% YoY), backlog \$900M (+79%). Achieved positive free cash flow (\$57.7M) for first time. Gross margins 56% and expanding. However, stock trades at 40x sales after 900% run-up — extreme valuation prices in perfection.
-
-**Bull:** \$45–50 · **Base:** \$28–32 · **Bear:** \$15–20
+**Bull:** \$40–50 · **Base:** \$28–32 · **Bear:** \$12–16
 
 [:material-arrow-right: Full Deep Dive](PL.md)
 

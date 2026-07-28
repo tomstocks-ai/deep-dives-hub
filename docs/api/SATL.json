@@ -4,79 +4,77 @@
   "sector": "Space",
   "industry": "Earth Observation / Satellite Services",
   "exchange": "NASDAQ",
-  "price": 3.0,
-  "market_cap": "$444M",
+  "price": 3.54,
+  "price_date": "2026-07-28",
+  "market_cap": "$525M",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-02",
-  "thesis": "Vertically integrated Earth observation company designing, manufacturing, launching, and operating its own satellites. 20+ satellites in orbit with AI-first constellation (Merlin) launching October 2026. FY2025 revenue $17.7M (+38% YoY) with exceptional 72% gross margins. $130M cash runway post-January 2026 raise. Unique sovereign partnership model selling satellites + technology transfer to nations (Portugal, Malaysia, Albania, Australia). Merlin constellation is make-or-break catalyst.",
+  "last_updated": "2026-07-28",
+  "theme": "Space Economy",
+  "sub_theme": "Geospatial Intelligence",
+  "thesis": "Vertically integrated Earth observation company that designs, manufactures, launches, and operates its own satellites — now rebranding itself as the infrastructure company for 'Persistent Global Intelligence (PGI)'. 20+ satellites in orbit with the AI-first Merlin constellation on track to launch ~Oct 2026, the key binary catalyst. Q1 2026 delivered +80% YoY revenue to $6.1M (beat), a 32% improvement in adjusted EBITDA loss, and first-ever positive operating cash flow, while GAAP EPS of -$0.84 was driven almost entirely by a ~$113M non-cash change in the fair value of financial instruments. FY2025 revenue was $17.71M (+37.6%) at ~72% gross margin; TTM revenue is ~$20.4M (+58%). A new $18M one-year international defense contract plus SpaceKnow and SynMax partnerships broaden the defense/government pipeline, though customer concentration, a CFO transition, and Merlin launch execution keep this a high-risk, high-reward speculative position.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$17.7M",
+    "revenue": "$17.71M",
     "revenue_growth": "+37.6% YoY",
-    "gross_margin": "72% (exceptional for hardware)",
-    "operating_loss": "-$31.0M",
-    "net_loss": "-$4.8M (improved from -$116.3M)",
-    "adjusted_ebitda_loss": "-$17.4M",
-    "cash": "~$130M (post-Jan 2026 raise)",
-    "runway": "~4-5 years",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
-    "fcf": "N/A"
+    "gross_margin": "~72% (exceptional for hardware)",
+    "net_income": "-$4.78M (FY2025)",
+    "eps_diluted": "-$0.91 (TTM)",
+    "cash": "~$120M",
+    "fcf": "Positive operating cash flow (Q1 2026, first-ever)",
+    "ttm_revenue": "~$20.4M (+58% YoY)",
+    "ttm_net_income": "-$90.5M (driven by non-cash fair-value charges)"
   },
   "bull_case": {
-    "target": "$8–10",
+    "target": "$10–12",
     "drivers": [
-      "Merlin constellation launch successful (Oct 2026)",
-      "AI-first, 1-meter daily remapping drives defense customer adoption",
-      "Sovereign program replication — 3-5 similar deals annually",
-      "Break-even profitability by 2027-2028",
-      "Acquisition by Maxar, Planet, or defense prime at $800M-$1.2B"
-    ]
-  },
-  "bear_case": {
-    "target": "$1.00–1.50",
-    "risks": [
-      "Customer concentration blow-up (top 2 = 50%+ revenue)",
-      "Merlin launch failure or technical delays",
-      "Competitive pressure from Planet Labs and Maxar",
-      "Cash burn forces additional dilutive financing",
-      "Defense customer non-renewal"
+      "Merlin AI-first constellation launches successfully (~Oct 2026), enabling 1-meter daily global remapping and real-time onboard detection",
+      "Defense/government pipeline compounds — $18M international defense contract expands, plus SpaceKnow and SynMax 'Persistent Global Intelligence' partnerships convert to recurring revenue",
+      "Sovereign/technology-transfer model replicates (Portugal, Malaysia, Albania, Australia) at 3-5 similar deals annually",
+      "First-ever positive operating cash flow (Q1 2026) proves a credible path to sustained profitability",
+      "Acquisition interest from Planet, a defense prime, or a data/analytics platform at $800M-$1.2B"
     ]
   },
   "base_case": {
-    "target": "$5.00",
-    "assumptions": "Merlin launches successfully late 2026; 2-3 additional sovereign deals signed; Revenue grows to $35-40M by 2027; EBITDA losses narrow to $5-10M; Operational break-even by 2028."
+    "target": "$5–6",
+    "assumptions": "Merlin launches on or near schedule in late 2026; the $18M defense contract renews and 2-3 additional sovereign/defense deals are signed; revenue grows toward $35-40M by 2027 on ~50%+ TTM momentum; adjusted EBITDA losses continue to narrow toward break-even by 2027-2028; CFO transition completes without disruption."
+  },
+  "bear_case": {
+    "target": "$1.50–2",
+    "risks": [
+      "Merlin launch failure or material technical delay destroys credibility and forces dilutive financing",
+      "Customer concentration blow-up — a small number of large defense/sovereign customers drive the majority of revenue",
+      "Competitive pressure from Planet Labs' larger constellation and entrenched Maxar government relationships",
+      "CFO transition and management turnover create execution and governance uncertainty",
+      "Small-cap liquidity, secondary block trades (e.g. 10M shares at $9.94), and warrant/note conversions dilute holders"
+    ]
   },
   "catalysts": [
     {
-      "date": "Q2 2026",
-      "event": "CEiiA Satellite Delivery — $18M Portugal contract validation",
-      "iso_date": "2026-04"
+      "date": "August 5, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — first read on revenue momentum after +80% Q1, adjusted EBITDA trajectory, and durability of positive operating cash flow"
     },
     {
-      "date": "2026-10",
-      "event": "Merlin Launch — Make-or-break moment for AI-first constellation",
-      "iso_date": "2026-10"
-    },
-    {
-      "date": "May 2026",
-      "event": "Q1 2026 Earnings — Revenue trajectory update",
-      "iso_date": "2026-05"
+      "date": "~October 2026",
+      "iso_date": "2026-10",
+      "event": "Merlin AI-first constellation launch — the key binary catalyst; 1-meter daily remapping with onboard AI processing"
     },
     {
       "date": "Ongoing",
-      "event": "New Sovereign Partnerships — Malaysia, Albania expansions",
-      "iso_date": null
+      "iso_date": null,
+      "event": "New sovereign and defense contract signings — expansion of the $18M defense deal and SpaceKnow / SynMax partnerships into recurring PGI revenue"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "CFO successor appointment — completion of the Rick Dunn management transition"
     }
   ],
   "key_risks": [
-    "Customer concentration — top 2 customers ~60% of backlog",
-    "Binary Merlin launch catalyst (Oct 2026) — failure could destroy credibility",
-    "Small-cap with limited liquidity and ~25% dilution potential",
-    "Competition from Planet Labs' 200+ satellite constellation",
-    "Pre-revenue scale with high execution risk"
-  ],
-  "theme": "Space Economy",
-  "sub_theme": "Geospatial Intelligence",
-  "price_date": "2026-04-02"
+    "Binary Merlin launch catalyst (~Oct 2026) — failure or delay could crater the stock and credibility",
+    "Customer concentration — a few large defense/sovereign customers drive most revenue and backlog",
+    "CFO transition (Rick Dunn stepping down) introduces governance and execution risk",
+    "TTM net loss of -$90.5M (largely non-cash fair-value charges) and small-cap liquidity amplify volatility and dilution risk",
+    "Competition from Planet Labs' 200+ satellite constellation and Maxar's deep government relationships"
+  ]
 }

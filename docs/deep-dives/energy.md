@@ -7,8 +7,8 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-15 | [:material-file-document: Read](OKLO.md) |
-| <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-04 | [:material-file-document: Read](IMSR.md) |
+| <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](OKLO.md) |
+| <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](IMSR.md) |
 | <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 | <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
@@ -20,9 +20,9 @@
 
 **OKLO — Oklo Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Building small, advanced nuclear power plants (Aurora Powerhouses) — 15–75 MW factory-built reactors. First-mover in non-water-cooled advanced reactors with 10+ year NRC engagement head start. \$1.23B cash, only \$1.45M debt — 30+ year runway. Meta partnership for 1.2 GW Ohio campus validates commercial demand. 1,350 MW LOI pipeline (up 93% since mid-2024). Pre-revenue; first commercial operation expected 2027–2028.
+Building small, factory-built Aurora Powerhouse fast reactors (15–75 MW) on a build-own-operate model with long-term PPAs, targeting AI data centers. Just received DOE startup authorization for its Groves Isotope Test Reactor, clearing the way for fuel loading and first criticality — a major near-term de-risking milestone — and joined a Trump-administration-backed ~\$200M initiative (with Microsoft, Nvidia and X-energy) to accelerate advanced nuclear for AI. Pre-revenue with over \$1B cash and essentially no debt; Meta 1.2 GW Ohio campus anchors demand and first commercial operation is targeted for late 2027/2028. The stock round-tripped from a ~\$194 high to near its 52-week low on nuclear-sector profit-taking; NRC licensing and HALEU fuel supply remain key risks. Consensus Buy, avg target ~\$84 (~2x upside).
 
-**Bull:** \$150–200 · **Base:** \$90–100 · **Bear:** \$30–40
+**Bull:** \$90–120 · **Base:** \$65–80 · **Bear:** \$25–35
 
 [:material-arrow-right: Full Deep Dive](OKLO.md)
 
@@ -30,9 +30,9 @@ Building small, advanced nuclear power plants (Aurora Powerhouses) — 15–75 M
 
 **IMSR — Terrestrial Energy Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Developing Integral Molten Salt Reactor (IMSR) — Generation IV SMR using Standard-Assay Low Enriched Uranium (SALEU), avoiding HALEU supply chain bottlenecks. First molten salt reactor to complete CNSC Vendor Design Review. First NRC Safety Evaluation approved Sept 2025. TETRA pilot reactor targeting July 2026 criticality. Pre-revenue; first revenue ~2030 at earliest. Stock 80% below SPAC highs despite regulatory progress.
+Developing the Generation IV Integral Molten Salt Reactor (IMSR), an SMR using Standard-Assay Low Enriched Uranium (SALEU) that avoids HALEU supply-chain bottlenecks — first MSR to complete CNSC Vendor Design Review and secure NRC engagement. A May 2026 NRC Safety Evaluation Report approving its Postulated Initiating Events topical report further de-risks licensing, while a Texas A&M RELLIS ground lease (~77 acres for a first commercial site) and a Riot Platforms data-center collaboration tie the IMSR to AI power demand. The ~\$292M Oct 2025 Nasdaq raise left ~\$280M cash (multi-year runway); still pre-revenue with first revenue ~2030 and TETRA pilot criticality a pending, unconfirmed near-term catalyst. Stock near 52-week lows, down 80%+ from SPAC highs.
 
-**Bull:** \$23.60 · **Base:** \$14.16 · **Bear:** \$3.80
+**Bull:** \$14–18 · **Base:** \$8–10 · **Bear:** \$3–4
 
 [:material-arrow-right: Full Deep Dive](IMSR.md)
 
@@ -87,7 +87,7 @@ U.S. environmental-services company focused on treatment and disposal of nuclear
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:FLNC" hide-background></tv-ticker-tag> | Fluence Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](FLNC.md) |
-| <tv-ticker-tag symbol="NYSE:TE" hide-background></tv-ticker-tag> | T1 Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-03-16 | [:material-file-document: Read](TE.md) |
+| <tv-ticker-tag symbol="NYSE:TE" hide-background></tv-ticker-tag> | T1 Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](TE.md) |
 
 ---
 
@@ -103,9 +103,9 @@ Global leader in grid-scale battery energy storage systems (BESS) with record \$
 
 **TE — T1 Energy Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Pure-play U.S. solar domestic manufacturer building fully integrated silicon supply chain. G1_Dallas (5 GW operational) + G2_Austin (2.1 GW under construction, Q4 2026). Revenue \$396.7M (9 months 2025). \$93.1M Section 45X credits accrued — monetization critical. High balance sheet risk: 351% D/E, only \$34.1M unrestricted cash.
+Pure-play U.S. solar manufacturer (formerly FREYR Battery) building a fully integrated silicon supply chain: G1_Dallas (~5 GW modules, operational, "A" bankability grade from Intertek CEA) plus the ~2.1 GW G2_Austin cell fab targeted online ~Q4 2026. FY2025 revenue jumped to \$755.3M (from \$2.94M) but net loss was -\$380.8M. A pending ~\$32M KORE Power acquisition adds BESS and data center infrastructure, and \$125M of convertible notes (Apr 2026) eases balance-sheet stress (D/E ~178%). Section 45X credits are the key margin lever; short-seller scrutiny and beta 2.17 keep it volatile.
 
-**Bull:** \$15–20 · **Base:** \$10–14 · **Bear:** \$4–6
+**Bull:** \$14–16 · **Base:** \$9–10 · **Bear:** \$3–4
 
 [:material-arrow-right: Full Deep Dive](TE.md)
 

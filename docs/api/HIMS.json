@@ -4,13 +4,14 @@
   "sector": "Consumer Health",
   "industry": "Telehealth / DTC Healthcare",
   "exchange": "NYSE",
-  "price": 22.02,
-  "market_cap": "$5.02B",
-  "pe_ttm": 43.18,
-  "beta": 2.32,
-  "rating": "SPEC. BUY",
-  "last_updated": "2026-04-16",
-  "thesis": "Consumer-first telehealth platform with 2.5M+ subscribers across sexual health, mental health, dermatology, and weight loss. Revenue grew 59% YoY to $2.35B in FY2025 with 72% gross margins. Pivoting from compounded GLP-1 drugs to branded medications. 36% short interest creates squeeze potential but also reflects real regulatory risk.",
+  "price": 30.24,
+  "market_cap": "$7.00B",
+  "pe_ttm": null,
+  "forward_pe": 533,
+  "beta": 2.34,
+  "rating": "HOLD",
+  "last_updated": "2026-07-28",
+  "thesis": "Consumer-first telehealth platform now operating globally after completing the Eucalyptus (Juniper) acquisition, spanning sexual health, mental health, dermatology, and weight loss across the US, UK, Australia, Canada, Germany, Ireland, France, and Spain. FY2025 revenue grew 59% to $2.35B at ~72% gross margin with $128.37M net income, but TTM earnings have slipped to a small loss (-$13.24M) as the branded-drug/GLP-1 pivot and Eucalyptus integration pressure margins. After a ~37% rally to ~$30 the stock trades at/above the ~$29.77 consensus (Hold) target at ~533x forward earnings, with GLP-1/FDA/DOJ overhang keeping risk elevated — balanced risk/reward.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$2.35B",
@@ -21,72 +22,79 @@
     "eps_diluted": "$0.51",
     "cash": "$577.49M",
     "total_liquidity": "$929M",
-    "ev_revenue": "2.31x",
+    "ev_revenue": "~2.9x",
     "fcf": "$110.51M"
   },
+  "ttm": {
+    "revenue": "~$2.37B",
+    "revenue_growth": "+32.8%",
+    "net_income": "-$13.24M",
+    "eps_diluted": "-$0.06"
+  },
   "revenue_segments": {
-    "sexual_health": "~30%",
-    "mental_health": "~25%",
-    "dermatology": "~20%",
-    "weight_loss": "~25%"
+    "weight_loss": "~30%",
+    "sexual_health": "~27%",
+    "mental_health": "~22%",
+    "dermatology": "~21%"
   },
   "guidance_2026": {
     "revenue": "$2.7B–$2.9B",
     "growth": "15–23%"
   },
   "bull_case": {
-    "target": "$35–40",
+    "target": "$40–48",
     "drivers": [
-      "Telehealth TAM $185B+ growing 25% annually",
-      "EBITDA grew 80% in 2025; margin expansion continuing",
-      "Platform scalability — fixed costs spread over growing subscriber base",
-      "International growth via Eucalyptus acquisition (UK, Germany)",
-      "36% short interest could fuel squeeze on positive catalyst"
-    ]
-  },
-  "bear_case": {
-    "target": "$12–15",
-    "risks": [
-      "GLP-1 revenue collapse if compounded drugs banned (~25% of revenue at risk)",
-      "DOJ investigation could lead to fines or business restrictions",
-      "Competition from Novo Nordisk, Eli Lilly, Amazon, CVS telehealth",
-      "Subscriber churn if GLP-1 customers don't stay for other services",
-      "Multiple contraction if revenue growth slows below 20%"
+      "Eucalyptus (Juniper) integration unlocks international scale across UK, Australia, Canada, Germany, Ireland, France, and Spain",
+      "Weight-loss/GLP-1 momentum via the Novo Nordisk (Wegovy) relationship; multi-billion-dollar upside if the FDA loosens peptide manufacturing restrictions",
+      "Employers dropping GLP-1 coverage push more cash-pay obesity demand to HIMS",
+      "Ambitious 2030 targets on global expansion, specialty growth, and an AI/data-driven platform",
+      "Operating leverage from platform scalability spreading fixed costs over a growing global subscriber base"
     ]
   },
   "base_case": {
-    "target": "$28–30",
-    "assumptions": "Revenue grows 20–25% annually through 2027; EBITDA margins stabilize 13–15%; international contributes 15–20% by 2028; regulatory issues resolved with manageable impact."
+    "target": "$28–32",
+    "assumptions": "Revenue lands within the $2.7B–$2.9B FY2026 guidance (15–23% growth); Eucalyptus integration and the branded-drug/GLP-1 pivot keep margins soft near term before recovering; GLP-1/FDA/DOJ issues stay an overhang but are managed; stock hovers near the ~$29.77 consensus target."
+  },
+  "bear_case": {
+    "target": "$15–20",
+    "risks": [
+      "FDA action on compounded/peptide GLP-1 cuts off a large slice of weight-loss revenue",
+      "DOJ investigation into marketing leads to fines or business restrictions",
+      "Novo Nordisk / Eli Lilly competition and patent litigation blocks alternative GLP-1 formulations",
+      "Eucalyptus integration overruns and international FX/margin drag persist",
+      "Multiple contraction from a very rich ~533x forward earnings if growth decelerates"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05-11",
-      "event": "Q1 2026 Earnings — first quarter post-GLP-1 pivot",
-      "iso_date": "2026-05-11"
+      "date": "August 10, 2026",
+      "event": "Q2 2026 earnings — first full quarter reflecting Eucalyptus integration and the GLP-1/branded pivot",
+      "iso_date": "2026-08"
     },
     {
-      "date": "2026-06",
-      "event": "FDA GLP-1 decision — regulatory clarity",
-      "iso_date": "2026-06"
-    },
-    {
-      "date": "ongoing",
-      "event": "DOJ investigation updates",
+      "date": "Ongoing",
+      "event": "FDA peptide/GLP-1 regulatory decisions — potential multi-billion-dollar swing on compounded/peptide rules",
       "iso_date": null
     },
     {
-      "date": "2026-08",
-      "event": "Q2 2026 Earnings — international expansion progress",
-      "iso_date": "2026-08"
+      "date": "Ongoing",
+      "event": "Eucalyptus / international integration progress across UK, Australia, Canada, Germany, Ireland, France, and Spain",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "DOJ investigation updates into marketing practices",
+      "iso_date": null
     }
   ],
   "key_risks": [
-    "FDA crackdown on compounded GLP-1 medications",
+    "FDA action on compounded/peptide GLP-1 medications",
     "DOJ investigation into marketing practices",
-    "Novo Nordisk patent lawsuit blocking alternative GLP-1 formulations",
-    "Margin compression from international expansion and branded drugs"
+    "Novo Nordisk / Eli Lilly competition and patent litigation",
+    "Margin pressure from the branded-drug/GLP-1 pivot and Eucalyptus integration",
+    "Very rich valuation (~533x forward earnings) leaves little room for execution missteps"
   ],
   "theme": "Biotechnology & Health Technology",
   "sub_theme": "Telehealth & Digital Health",
-  "price_date": "2026-04-16"
+  "price_date": "2026-07-28"
 }

@@ -4,70 +4,73 @@
   "sector": "Technology",
   "industry": "Semiconductor Test & Burn-in Solutions",
   "exchange": "NASDAQ",
-  "price": 44.32,
-  "market_cap": "$1.36B",
+  "price": 77.48,
+  "market_cap": "$2.52B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-06",
-  "thesis": "Worldwide supplier of semiconductor test and burn-in solutions pivoting from EV/SiC automotive market to AI/data center opportunities. FOX family systems enable wafer-level burn-in for silicon carbide power semiconductors and now AI processors. Strong balance sheet with $31M cash and minimal debt, but currently unprofitable with negative FCF. High valuation (25x P/S) reflects AI-driven optimism.",
+  "last_updated": "2026-07-28",
+  "thesis": "Worldwide supplier of semiconductor test and burn-in solutions whose long-anticipated AI/silicon-photonics inflection arrived with a blowout Q4 FY2026 (reported 2026-07-14): record quarterly bookings of $60.7M, ~$100M effective backlog, and FY2027 revenue guidance of $130M–$150M (160–200% YoY growth) that dwarfed the ~$85M consensus. FOX-XP wafer-level burn-in systems now serve AI/data-center processors and hyperscale silicon photonics optical interconnects, while a stabilizing SiC/EV base adds $8M+ in fresh orders. The thesis is high-conviction but the risk/reward is binary: the stock trades at ~100x forward earnings with a 3.18 beta, a small revenue base, customer concentration, and execution risk against a very aggressive guide.",
   "financials": {
     "fiscal_year": "FY2026",
-    "revenue": "$53.25M (TTM)",
-    "revenue_growth": "Declining YoY (transitional)",
-    "gross_margin": "33.28%",
-    "operating_margin": "-22.85%",
-    "net_income": "-$8.86M (loss)",
-    "eps_diluted": "-$0.30",
-    "cash": "$30.84M",
-    "total_debt": "Minimal (~7.77% D/E)",
-    "fcf": "-$7.36M (negative)"
+    "revenue": "$50.0M",
+    "revenue_growth": "-15.2%",
+    "gross_margin": "~33%",
+    "net_income": "-$7.13M",
+    "eps_diluted": "-$0.23",
+    "cash": "~$31M",
+    "fcf": "Negative"
   },
   "bull_case": {
-    "target": "$65–75",
+    "target": "$120–140",
     "drivers": [
-      "AI processor testing becomes major revenue driver ($50M+ annually)",
-      "Silicon photonics orders materialize in FY2027",
-      "Return to profitability in FY2027 with expanding margins",
-      "Short squeeze amplifies upside from elevated short interest (15.58%)"
-    ]
-  },
-  "bear_case": {
-    "target": "$20–25",
-    "risks": [
-      "AI opportunity proves smaller or more competitive than expected",
-      "Customer delays push out production ramps",
-      "Semiconductor capex cycle downturn impacts demand",
-      "Company burns cash and needs to raise capital"
+      "AEHR executes at or above the $130M–$150M FY2027 revenue guide (2.6x–3.0x FY2026)",
+      "AI/data-center processor and silicon photonics burn-in demand compounds with follow-on FOX-XP production orders",
+      "Return to solid profitability with operating leverage as revenue scales",
+      "Additional hyperscaler/AI customer wins broaden the base beyond the lead photonics customer"
     ]
   },
   "base_case": {
-    "target": "$40–50",
-    "assumptions": "Turnaround takes longer than expected but progress continues; AI revenue grows but doesn't fully offset EV/SiC softness until late FY2027; Company achieves break-even by end of FY2027."
+    "target": "$90–105",
+    "assumptions": "AEHR delivers strong triple-digit FY2027 growth landing within the guided $130M–$150M range; AI/photonics ramps as backlog converts and SiC/EV order flow stabilizes; profitability returns but the ~100x forward multiple compresses somewhat as the story de-risks and the stock consolidates its post-print gains."
+  },
+  "bear_case": {
+    "target": "$45–55",
+    "risks": [
+      "FY2027 guidance proves too aggressive and revenue lands well below $130M as customer ramps slip",
+      "AI/silicon-photonics orders concentrated in a single lead customer disappoint or push out",
+      "Extreme valuation (~100x forward) and 3.18 beta amplify a sharp drawdown on any miss",
+      "Shelf registration is drawn on, diluting shareholders; patent litigation and Advantest/Teradyne competition weigh"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-04-07",
-      "event": "Q3 FY2026 Earnings — First quarter of reinstated guidance execution",
-      "iso_date": "2026-04-07"
+      "date": "Early October 2026",
+      "event": "Q1 FY2027 earnings — first data point on execution against the $130M–$150M FY2027 guide",
+      "iso_date": "2026-10"
     },
     {
-      "date": "2026-07",
-      "event": "Q4 FY2026 Earnings — FY2027 guidance will drive stock direction",
-      "iso_date": "2026-07"
+      "date": "Through FY2027",
+      "event": "Execution vs the $130M–$150M FY2027 revenue guide (160–200% YoY growth) and backlog conversion",
+      "iso_date": "2027"
     },
     {
       "date": "Ongoing",
-      "event": "New AI/hyperscaler customer announcements",
+      "event": "New AI/hyperscaler and silicon photonics customer orders (follow-on FOX-XP wafer-level burn-in wins)",
+      "iso_date": null
+    },
+    {
+      "date": "Ongoing",
+      "event": "SiC/EV wafer-level burn-in order flow as electric-vehicle programs re-accelerate",
       "iso_date": null
     }
   ],
   "key_risks": [
-    "Customer concentration risk — pivoting from EV/SiC to AI dependence",
-    "Unprofitability and cash burn during investment phase",
-    "High valuation vulnerable to execution misses",
-    "Competition from larger semiconductor test companies (Advantest, Teradyne)",
-    "Heavy insider selling signals lack of confidence"
+    "Extreme valuation — ~100x forward earnings leaves no margin for execution error",
+    "Very high beta (3.18) and small revenue base make the stock exceptionally volatile",
+    "Customer concentration — AI/photonics growth leans on a lead silicon photonics customer",
+    "Ongoing patent litigation and competition from larger test peers (Advantest, Teradyne)",
+    "Mixed-securities shelf registration creates future capital-raise / dilution optionality"
   ],
   "theme": "AI Buildout",
   "sub_theme": "Semiconductor Equipment",
-  "price_date": "2026-04-06"
+  "price_date": "2026-07-28"
 }

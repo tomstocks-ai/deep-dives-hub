@@ -2,81 +2,78 @@
   "ticker": "TE",
   "company": "T1 Energy Inc.",
   "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Solar",
   "industry": "Solar Manufacturing / Renewable Energy",
   "exchange": "NYSE",
-  "price": 7.6,
-  "market_cap": "$1.3-2.0B",
+  "price": 4.9,
+  "price_date": "2026-07-28",
+  "market_cap": "$1.37B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-03-16",
-  "thesis": "Pure-play U.S. solar domestic manufacturer building America's first fully integrated silicon solar supply chain. G1_Dallas facility operational (5 GW capacity), G2_Austin under construction ($400-425M investment, 2.1 GW cells). Section 45X manufacturing credits ($93M accrued) provide critical subsidy support. Recently turned EBITDA positive with improving margins. High leverage (269% D/E) and $34M restricted cash create balance sheet risk requiring additional financing.",
+  "last_updated": "2026-07-28",
+  "thesis": "T1 Energy (formerly FREYR Battery) is a pure-play U.S. solar domestic manufacturer building America's first fully integrated silicon solar supply chain. G1_Dallas (~5 GW module capacity) is operational and drove FY2025 revenue to $755.3M (from $2.94M in FY2024), while the ~2.1 GW G2_Austin cell fab is under construction and targeted online by Q4 2026. The pending ~$32M acquisition of KORE Power pushes TE into battery energy storage (BESS) and data center infrastructure, diversifying beyond solar modules. Section 45X manufacturing credits underpin margins, but high leverage (~178% D/E), FY2025 net loss of -$380.8M, and short-seller scrutiny keep this a high-risk, high-reward speculative name.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$396.7M (9 months)",
-    "revenue_growth": "Variable (contract timing)",
-    "adjusted_ebitda_guidance": "$25M-$50M (FY2025)",
-    "gross_margin": "Improving with scale",
-    "cash": "$34.1M unrestricted + $52.6M restricted",
-    "total_debt": "~$702M",
-    "debt_to_equity": "269% (high risk)",
-    "q3_2025_revenue": "$210.5M",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
-    "fcf": "N/A"
+    "revenue": "$755.3M",
+    "revenue_growth": ">25,000% (G1_Dallas ramp from $2.94M)",
+    "gross_margin": "Positive (record set in Q1 2026)",
+    "net_income": "-$380.8M",
+    "eps_diluted": "-$1.88",
+    "cash": "Bolstered by $125M convertible notes (Apr 2026)",
+    "fcf": "Negative (G2_Austin capex)"
   },
   "bull_case": {
-    "target": "$15–20",
+    "target": "$14–16",
     "drivers": [
-      "Toliara FID approved (early 2026); Madagascar project adds REE/HMS diversification",
-      "Section 45X credits monetized ($93M+)",
-      "G2_Austin comes online Q4 2026, creating fully integrated supply chain",
-      "Trump administration supports domestic manufacturing",
-      "First Solar valuation comparison drives multiple expansion"
-    ]
-  },
-  "bear_case": {
-    "target": "$4–6",
-    "risks": [
-      "Balance sheet stress forces highly dilutive financing",
-      "Policy changes eliminate 45X benefits",
-      "G2 construction halted or delayed",
-      "Chinese oversupply crashes solar prices",
-      "G1_Dallas fails to achieve 4.5 GW run rate"
+      "G2_Austin comes online ~Q4 2026, completing a fully integrated U.S. silicon supply chain",
+      "KORE Power acquisition opens BESS and data center infrastructure markets, re-rating the multiple",
+      "Section 45X manufacturing credits monetized, supporting record gross margins and adjusted EBITDA",
+      "Comprehensive G2 financing closes on favorable terms, removing balance-sheet overhang",
+      "Domestic-content premium and tariff/FEOC dynamics favor U.S.-made modules over Chinese supply"
     ]
   },
   "base_case": {
-    "target": "$10–14",
-    "assumptions": "Toliara FID delayed but proceeds; 45X credits partially monetized; G2 operational by Q4 2026; Revenue reaches $600M+ by 2027; EBITDA breakeven achieved; One additional equity raise required."
+    "target": "$9–10",
+    "assumptions": "G1_Dallas sustains ~5 GW run rate; G2_Austin financing closes and production starts near Q4 2026 with some slippage; KORE Power deal closes and contributes modest 2027 revenue; 45X credits partially monetized; one further capital raise likely. Consensus average 12-month target ~$10.07."
+  },
+  "bear_case": {
+    "target": "$3–4",
+    "risks": [
+      "Balance-sheet stress forces further highly dilutive financing",
+      "Policy changes weaken or eliminate Section 45X benefits",
+      "G2_Austin construction or financing stalls, or KORE Power integration disappoints",
+      "Chinese oversupply crashes solar module prices and margins",
+      "Short-seller thesis (Fuzzy Panda) proves out; volatility (beta 2.17) drives a de-rating"
+    ]
   },
   "catalysts": [
     {
-      "date": "Q1-Q2 2026",
-      "event": "$30M Strategic Program Execution — Development acceleration",
-      "iso_date": "2026-01"
+      "date": "August 19, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — margin trajectory, G2 financing update, KORE Power integration plan"
     },
     {
-      "date": "Early 2026",
-      "event": "Toliara Project FID — Major project sanctioning",
-      "iso_date": "2026-01"
+      "date": "H2 2026",
+      "iso_date": "2026-09",
+      "event": "KORE Power (~$32M) acquisition close — entry into BESS and data center infrastructure"
     },
     {
-      "date": "Late 2025",
-      "event": "Donald Project FID — JV with Astron (Australia)",
-      "iso_date": "2025-10"
+      "date": "Q2/Q3 2026",
+      "iso_date": "2026-09",
+      "event": "Comprehensive G2_Austin financing close — removes near-term balance-sheet overhang"
     },
     {
       "date": "Q4 2026",
-      "event": "G2_Austin Production Start — Fully integrated supply chain",
-      "iso_date": "2026-10"
+      "iso_date": "2026-10",
+      "event": "G2_Austin (~2.1 GW cell fab) production start — fully integrated U.S. supply chain"
     }
   ],
   "key_risks": [
-    "Critical balance sheet risk — 269% D/E, only $34M unrestricted cash",
-    "$400-425M G2_Austin capex requires additional financing",
-    "Policy dependency on 45X tax credits and domestic content requirements",
-    "Variable revenue due to utility contract timing",
-    "Intense competition from First Solar (profitable, $15B+ market cap)"
-  ],
-  "theme": "Energy",
-  "sub_theme": "Solar",
-  "price_date": "2026-03-16"
+    "High leverage (~178% D/E) and thin liquidity (current ratio ~1.25) despite the $125M convertible raise",
+    "FY2025 net loss of -$380.8M; path to sustained profitability unproven",
+    "Policy dependency on Section 45X credits and domestic-content requirements",
+    "Execution and integration risk on G2_Austin and the KORE Power acquisition",
+    "Elevated short-seller and volatility risk (Fuzzy Panda report May 2026; beta 2.17)",
+    "Intense competition from profitable, well-capitalized First Solar and low-cost Chinese suppliers"
+  ]
 }

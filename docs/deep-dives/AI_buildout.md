@@ -38,16 +38,16 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-06 | [:material-file-document: Read](AEHR.md) |
+| <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](AEHR.md) |
 | <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 
 ---
 
 **AEHR — Aehr Test Systems · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Worldwide supplier of semiconductor test and burn-in solutions, pivoting from EV/SiC dependence to AI/data center opportunities. FOX family systems test AI processors, GPUs, and HPC chips at wafer level. Strong balance sheet with \$31M cash and minimal debt. YTD +119%, 1-year +465%. High short interest (15.6%) creates squeeze potential.
+Worldwide supplier of semiconductor test and burn-in solutions whose long-anticipated AI/silicon-photonics inflection finally arrived — a blowout Q4 FY2026 (reported 2026-07-14) delivered record quarterly bookings of \$60.7M, ~\$100M effective backlog, and FY2027 revenue guidance of \$130M–\$150M (160–200% YoY growth) that dwarfed the ~\$85M consensus, sending the stock up 40%+. FY2026 itself was a transitional down year (revenue -15% to \$50.0M) as EV/SiC softened, but a follow-on FOX-XP order from the lead silicon photonics customer plus \$8M+ of fresh SiC/EV orders now anchor a two-engine growth story. The catch is valuation: ~100x forward earnings and a 3.18 beta on a small revenue base leave no room for execution error, with customer concentration, patent litigation, and a mixed-securities shelf as added risks. Consensus is Strong Buy (avg target ~\$115).
 
-**Bull:** \$65–75 · **Base:** \$40–50 · **Bear:** \$20–25
+**Bull:** \$120–140 · **Base:** \$90–105 · **Bear:** \$45–55
 
 [:material-arrow-right: Full Deep Dive](AEHR.md)
 
@@ -257,9 +257,9 @@ One of the "Big Three" global memory manufacturers and the only U.S.-based memor
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-05 | [:material-file-document: Read](EOSE.md) |
+| <tv-ticker-tag symbol="NASDAQ:EOSE" hide-background></tv-ticker-tag> | Eos Energy Enterprises | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](EOSE.md) |
 | <tv-ticker-tag symbol="NASDAQ:QS" hide-background></tv-ticker-tag> | QuantumScape Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](QS.md) |
-| <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-04-14 | [:material-file-document: Read](SLDP.md) |
+| <tv-ticker-tag symbol="NASDAQ:SLDP" hide-background></tv-ticker-tag> | Solid Power Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-07-28 | [:material-file-document: Read](SLDP.md) |
 
 ---
 
@@ -277,9 +277,9 @@ Pre-revenue solid-state battery developer with a proprietary ceramic separator t
 
 **SLDP — Solid Power Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
-Pre-revenue solid-state battery company selling sulfide electrolyte technology and licensing cell designs to OEMs (BMW, Ford). Asset-light model avoids the need for multi-billion-dollar gigafactories. \$370M+ liquidity gives ~5–6 years of runway. Commercial revenue expected 2027–2028. This is a binary bet: breakthrough adoption or cash-burn-to-zero.
+Pre-revenue, R&D-stage solid-state battery company selling sulfide solid electrolyte and licensing cell designs to OEMs (BMW, Ford, SK On) under an asset-light model that avoids multi-billion-dollar gigafactories. A January 2026 raise lifted liquidity to ~\$435M — ample multi-year runway against FY2026 cash-investment guidance of \$85–100M — and Q1 2026 brought an SK On development milestone plus a new automotive-savvy board member (Uwe Breitweg). Revenue is still declining (FY2025 \$17.91M, -11%) as the company stays pre-commercial, with first meaningful revenue expected ~2027–2028. Two bullish-but-tiny analyst calls (H.C. Wainwright \$7, Alliance Global \$6.75) frame the upside; the stock trades near its 52-week low as a binary bet — breakthrough adoption versus cash-burn failure — against QuantumScape, Toyota, and improving lithium-ion.
 
-**Bull:** \$10–15 · **Base:** \$5–8 · **Bear:** \$0.50–1.00
+**Bull:** \$7–10 · **Base:** \$4–6 · **Bear:** \$1–1.50
 
 [:material-arrow-right: Full Deep Dive](SLDP.md)
 
@@ -287,9 +287,9 @@ Pre-revenue solid-state battery company selling sulfide electrolyte technology a
 
 **EOSE — Eos Energy Enterprises · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-U.S.-based zinc-bromine battery manufacturer for utility-scale energy storage. 632% revenue growth to \$114.2M in FY2025. \$701.5M backlog (2.8 GWh) provides visibility. \$305.3M DOE loan guarantee for manufacturing expansion. 2 GWh annual capacity achieved Q4 2025, targeting 8 GWh by 2026–2027. Negative gross margins (-126%) but improving — path to profitability dependent on scale.
+U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-flammable alternative to lithium-ion for utility-scale storage. TTM revenue exploded ~726% to ~\$160.7M and preliminary Q2 2026 signals record quarterly revenue and backlog as annual capacity doubles. Recent moves reshaped the story: a ~\$263M rights offering (with Hudson Bay and Cerberus) plus a \$75M direct offering strengthened funding but drove heavy dilution; new platform Frontier Power USA (FPUSA, ~\$375M targeted equity, KKR engaged) backs ~1.8 GWh of selected/closed projects; independent testing showed no thermal runaway (plus ISO 14001); and Eos was picked for the Golden Dome for America initiative. A \$305.3M DOE loan guarantee underpins expansion. Trading near its 52-week low (\$3.36–\$19.86), the entire thesis hinges on the targeted gross-margin inflection around H2 2026 — against still-negative margins, high cash burn, and heavy convertible-note debt.
 
-**Bull:** \$18.00 · **Base:** \$9.50 · **Bear:** \$3.50
+**Bull:** \$9–\$12 · **Base:** \$5–\$7 · **Bear:** \$2–\$3
 
 [:material-arrow-right: Full Deep Dive](EOSE.md)
 
@@ -367,7 +367,7 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group N.V. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-22 | [:material-file-document: Read](NBIS.md) |
+| <tv-ticker-tag symbol="NASDAQ:NBIS" hide-background></tv-ticker-tag> | Nebius Group N.V. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](NBIS.md) |
 | <tv-ticker-tag symbol="NASDAQ:HUT" hide-background></tv-ticker-tag> | Hut 8 Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](HUT.md) |
 | <tv-ticker-tag symbol="NASDAQ:CORZ" hide-background></tv-ticker-tag> | Core Scientific, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-16 | [:material-file-document: Read](CORZ.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRWV" hide-background></tv-ticker-tag> | CoreWeave, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](CRWV.md) |
@@ -378,9 +378,9 @@ Leading North American infrastructure contractor with record \$20.3B backlog. Q1
 
 **NBIS — Nebius Group N.V. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-AI infrastructure powerhouse that signed two of the largest compute contracts in history: \$27B with Meta and \$19.4B with Microsoft. Revenue grew 351% to \$530M in FY2025 with improving margins and \$2.45B cash. NVIDIA invested \$2B and is supplying Vera Rubin/Blackwell GPUs. Goldman sees \$3.0–\$3.4B revenue in 2026. The stock is up 616% in a year and RSI sits at 84.86 (extremely overbought), creating near-term technical risk despite strong fundamentals.
+AI infrastructure operator anchored by two of the largest compute contracts in history — ~\$27B with Meta and ~\$19.4B with Microsoft — and validated by NVIDIA, which disclosed a ~9.3% stake (13G). TTM revenue surged ~575% to ~\$877.9M at ~69% gross margin; reported TTM EPS of \$3.20 is boosted by one-time gains, so the capex-intensive core is not yet consistently profitable on operations. Baird initiated Outperform (\$250), citing the Token Factory inference service and full-stack positioning versus CoreWeave. Consensus is Buy (avg ~\$258). Extreme customer concentration, a rich valuation, NVDA dependency, insider selling (~\$29.2M), and Yandex/Russian-heritage headline risk keep this volatile neocloud name speculative.
 
-**Bull:** \$250–\$280 · **Base:** \$170–\$200 · **Bear:** \$70–\$85
+**Bull:** \$290–\$330 · **Base:** \$250–\$280 · **Bear:** \$110–\$140
 
 [:material-arrow-right: Full Deep Dive](NBIS.md)
 
@@ -422,7 +422,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:CCXI" hide-background></tv-ticker-tag> | Churchill Capital XI / Agility Robotics | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](CCXI.md) |
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
-| <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-04-02 | [:material-file-document: Read](VELO.md) |
+| <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](VELO.md) |
 | <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
 | <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
 | <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
@@ -433,9 +433,9 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 
 **VELO — Velo3D, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Metal additive manufacturing for mission-critical aerospace/defense. Unique "support-free" technology enables true design freedom vs. legacy AM. AS9100D aerospace certification. Defense partnerships: U.S. Army CRADA, Navy contracts, \$32.6M DoD award. Path to EBITDA profitability by H2 2026. High short interest (28.6%) creates squeeze potential. Micro-cap with limited float (7.2M shares).
+Recapitalized metal additive manufacturing for mission-critical aerospace, space, and defense, built on unique "support-free" laser powder bed fusion (Sapphire printers, Flow/Assure software). New leadership is pivoting to a recurring-revenue model via Rapid Production Solutions (RPS), anchored by the newly opened ~289,000 sq ft Livermore "Forge 1" campus (built for 100+ printers) that triples capacity. Q1 2026 revenue grew 48% YoY to \$13.8M; FY2026 guidance is \$60–70M revenue with >30% gross margin and EBITDA positivity targeted for H2 2026. Russell 3000/Microcap inclusion and fresh coverage (Needham \$33) lift visibility, but a late-June Morpheus Research short report alleging a "sham" SpaceX relationship, a 3M-share resale registration, and a heavy capex plan against thin cash make this binary. Beta 2.52; a 2X single-stock ETF (VELL) amplifies volatility.
 
-**Bull:** \$28 · **Base:** \$14 · **Bear:** \$5
+**Bull:** \$22–28 · **Base:** \$13–15 · **Bear:** \$4–6
 
 [:material-arrow-right: Full Deep Dive](VELO.md)
 

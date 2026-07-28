@@ -2,82 +2,83 @@
   "ticker": "IMSR",
   "company": "Terrestrial Energy Inc.",
   "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
   "industry": "Advanced Nuclear / Molten Salt Reactor",
   "exchange": "NASDAQ",
-  "price": 6.24,
-  "market_cap": "$661M",
+  "price": 5.11,
+  "price_date": "2026-07-28",
+  "market_cap": "$541M",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-04",
-  "thesis": "Advanced nuclear technology company developing the Integral Molten Salt Reactor (IMSR) — a Generation IV small modular reactor using Standard-Assay Low Enriched Uranium (SALEU) fuel. First molten salt reactor to complete CNSC Vendor Design Review and receive NRC Safety Evaluation. Pre-revenue with ~4-5 year cash runway post-SPAC. TETRA pilot reactor scheduled for criticality July 2026 under DOE fast-track program.",
+  "last_updated": "2026-07-28",
+  "thesis": "Advanced nuclear technology company developing the Integral Molten Salt Reactor (IMSR) — a Generation IV small modular reactor using Standard-Assay Low Enriched Uranium (SALEU) fuel that sidesteps the HALEU supply-chain bottleneck facing many rivals. First MSR to complete CNSC Vendor Design Review and to secure NRC engagement, with a May 2026 NRC Safety Evaluation Report approving its Postulated Initiating Events topical report further de-risking licensing. A ~$292M October 2025 Nasdaq/SPAC raise left the balance sheet with ~$280M cash and multi-year runway. New Texas A&M RELLIS site lease and a Riot Platforms data-center collaboration tie the IMSR to AI power demand, but the company remains pre-revenue with no revenue expected until ~2030 and a pending, unconfirmed TETRA pilot criticality milestone.",
   "financials": {
-    "fiscal_year": "Pre-revenue",
+    "fiscal_year": "Pre-revenue (TTM)",
     "revenue": "$0 (development stage)",
-    "net_loss": "-$23.7M (TTM)",
-    "eps_diluted": "-$0.39",
-    "cash": "$27.7M",
-    "post_spa_c_capital": "$292M raised (Oct 2025)",
-    "burn_rate": "~$23M/year",
-    "runway": "~4-5 years at current burn",
-    "shares_outstanding": "105.9M",
     "revenue_growth": "N/A",
     "gross_margin": "N/A",
-    "net_income": "N/A",
-    "fcf": "N/A"
+    "net_income": "-$32.3M (TTM net loss)",
+    "eps_diluted": "-$0.39",
+    "cash": "$280M",
+    "fcf": "-$30M to -$35M (annual burn)"
   },
   "bull_case": {
-    "target": "$23.60",
+    "target": "$14–18",
     "drivers": [
-      "TETRA pilot reactor achieves criticality on schedule (July 2026)",
-      "NRC continues timely review of design elements",
-      "First Construction Permit application submitted by 2028",
-      "3-4 plants operational by 2035 with recurring core replacement revenues",
-      "Regulatory fast-track accelerates commercialization timeline"
-    ]
-  },
-  "bear_case": {
-    "target": "$3.80",
-    "risks": [
-      "NRC raises unforeseen safety concerns with molten salt design",
-      "TETRA pilot reactor encounters technical issues",
-      "Competitors (NuScale, Kairos) capture market share",
-      "Funding dries up; dilutive raises required",
-      "First plant delayed to 2040+ or cancelled"
+      "TETRA pilot reactor achieves criticality under the DOE fast-track program, proving the technology",
+      "Further NRC topical report approvals continue to de-risk the licensing pathway",
+      "Texas A&M RELLIS site characterization advances toward a first commercial deployment",
+      "Riot Platforms and other data-center collaborations convert into firm nuclear-power offtake",
+      "First Construction Permit application filed by 2028, keeping early-2030s commercialization on track"
     ]
   },
   "base_case": {
-    "target": "$14.16",
-    "assumptions": "12-18 month delays in regulatory timeline; 2-3 plants operational by 2036; Moderate competition from NuScale, Kairos; One additional capital raise required; Revenue of $300M by 2036."
+    "target": "$8–10",
+    "assumptions": "Licensing progresses but on a longer timeline; TETRA criticality slips or comes with caveats; RELLIS site work advances steadily; strong ~$280M cash cushions burn without an imminent dilutive raise; first revenue remains a ~2030 event with modest fleet buildout thereafter."
+  },
+  "bear_case": {
+    "target": "$3–4",
+    "risks": [
+      "NRC raises unforeseen safety concerns with the molten salt design or licensing stalls",
+      "TETRA pilot reactor slips further or encounters technical issues",
+      "Competitors (NuScale, Oklo, Kairos, X-energy) capture the SMR market first",
+      "Multi-year pre-revenue burn forces dilutive capital raises before commercialization",
+      "First commercial plant delayed to 2040+ or cancelled"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-07",
-      "event": "TETRA Reactor Criticality — DOE fast-track program milestone",
-      "iso_date": "2026-07"
+      "date": "August 13, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings release — cash position and burn update"
+    },
+    {
+      "date": "Near-term 2026 (pending / unconfirmed)",
+      "iso_date": "2026",
+      "event": "TETRA pilot reactor criticality under the DOE fast-track program — a targeted milestone with no public confirmation it has been achieved"
     },
     {
       "date": "2026",
-      "event": "Additional NRC Topical Report Approvals — Further de-risks licensing",
-      "iso_date": "2026"
+      "iso_date": "2026",
+      "event": "Further NRC topical report approvals — building on the May 2026 Safety Evaluation Report to de-risk licensing"
     },
     {
-      "date": "2026-2027",
-      "event": "Site Characterization Completion (Texas A&M) — Enables Construction Permit",
-      "iso_date": "2026"
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Texas A&M RELLIS site characterization — advancing the ~77-acre first commercial deployment site"
     },
     {
-      "date": "2028-2029",
-      "event": "First Construction Permit Application — Major regulatory milestone",
-      "iso_date": "2028"
+      "date": "2028",
+      "iso_date": "2028",
+      "event": "First Construction Permit application — major regulatory milestone toward commercialization"
     }
   ],
   "key_risks": [
-    "Pre-revenue with no near-term revenue expected until ~2030",
-    "Regulatory delays — NRC has never licensed a non-water-cooled commercial reactor",
-    "Dilution risk from future capital raises before commercialization",
-    "Technology execution risk — first-of-a-kind reactor deployment",
-    "80% decline from SPAC highs indicates market skepticism"
-  ],
-  "theme": "Energy",
-  "sub_theme": "Reactor Developers",
-  "price_date": "2026-04-04"
+    "Pre-revenue with no meaningful revenue expected until ~2030",
+    "TETRA criticality is a pending, unconfirmed milestone — slippage would pressure sentiment",
+    "Regulatory execution risk — NRC has never licensed a non-water-cooled commercial reactor",
+    "Dilution risk from future capital raises despite the strong ~$280M cash position",
+    "First-of-a-kind technology and deployment execution risk",
+    "Stock down 80%+ from SPAC highs and near its 52-week low signals market skepticism"
+  ]
 }

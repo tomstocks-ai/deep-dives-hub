@@ -4,73 +4,78 @@
   "sector": "Technology",
   "industry": "Quantum Computing / Quantum Sensing",
   "exchange": "NYSE",
-  "price": 12.02,
-  "market_cap": "$2.76B",
+  "price": 9.76,
+  "market_cap": "$2.13B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-04-29",
-  "thesis": "Infleqtion is the first publicly traded neutral-atom quantum technology company, offering a unique pure-play on quantum computing and sensing. With $32.5M revenue (up 13% YoY), a $40M 2026 guidance, and $540M+ in SPAC proceeds, the company has both near-term revenue validation from quantum sensing products and long-term optionality on quantum computing commercialization. The NVIDIA partnership, DARPA/DoD contracts, and 235+ patents create a differentiated position in the emerging quantum ecosystem.",
+  "last_updated": "2026-07-28",
+  "thesis": "Infleqtion is the first publicly traded neutral-atom quantum technology company, a pure-play on both quantum computing and quantum sensing. FY2025 revenue of $32.46M (+12.6% YoY) provides rare near-term commercial validation among quantum names, anchored by government and defense demand. Recent catalysts — three DOE 'Genesis Mission' awards, a planned fault-tolerant neutral-atom deployment in Illinois, a Craig-Hallum Buy initiation ($19 target), and a Trump executive order fast-tracking quantum — reinforce the thesis, but a ~23.25M-share resale prospectus creates a near-term dilution overhang and the stock trades near its 52-week low. NVIDIA partnership, DARPA/DoD contracts, and 235+ patents underpin a differentiated but still pre-profitable business.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$32.5M",
-    "revenue_growth": "+12.8%",
-    "gross_margin": "36.4%",
-    "net_income": "($31.8M)",
-    "eps_diluted": "($0.69)",
-    "cash": "$63M (cash + securities)",
+    "revenue": "$32.46M",
+    "revenue_growth": "+12.6%",
+    "gross_margin": "~36%",
+    "net_income": "($31.80M)",
+    "eps_diluted": "($0.78) TTM",
+    "cash": "~$60M (cash + securities)",
     "fcf": "($26.5M)"
   },
   "bull_case": {
-    "target": "$28–$35",
+    "target": "$22–$30",
     "drivers": [
-      "100 logical qubits achieved by 2028 with major commercial computing contracts",
-      "Defense spending acceleration drives sensing revenue to $50M+ annually",
-      "Strategic acquisition by big tech (NVIDIA, Google, Microsoft) at significant premium",
-      "Quantum computing TAM materializes faster than expected ($100B+ by 2035)"
-    ]
-  },
-  "bear_case": {
-    "target": "$5–$8",
-    "risks": [
-      "Revenue misses $40M guidance; quantum computing progress stalls",
-      "Cash burn accelerates requiring dilutive capital raise",
-      "Quantum winter reduces sector funding and valuations",
-      "Competing technologies (trapped ion, superconducting) achieve commercial scale first"
+      "Fault-tolerant neutral-atom deployment in Illinois delivers on roadmap and validates commercialization",
+      "DOE 'Genesis Mission' and DoD/DARPA awards scale government revenue toward $50M+ annually",
+      "Logical-qubit milestones (10+, 25+, 50+) drive a re-rating toward the 100 logical-qubit 2028 target",
+      "Strategic acquisition interest from big tech (NVIDIA, Google, Microsoft) at a premium"
     ]
   },
   "base_case": {
-    "target": "$16–$22",
-    "assumptions": "$40-60M revenue by 2027 with sensing stabilizing at $30M+; computing revenue begins scaling; path to EBITDA breakeven by 2028-2029; analyst coverage expands to 3-5 firms"
+    "target": "$14–$18",
+    "assumptions": "Revenue scales toward $40-60M by 2027 with sensing stabilizing at $30M+; computing revenue begins scaling; path to EBITDA breakeven by 2028-2029; the ~23.25M-share resale overhang is absorbed; analyst coverage expands beyond the current 5 firms"
+  },
+  "bear_case": {
+    "target": "$5–$7",
+    "risks": [
+      "Resale prospectus (~23.25M shares) and further capital raises drive persistent dilution and overhang",
+      "Revenue growth stalls and quantum computing milestones slip amid a history of over-promising",
+      "Quantum winter compresses sector funding and valuations",
+      "Competing modalities (trapped ion, superconducting, photonic) reach commercial scale first"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05",
-      "event": "Q1 2026 earnings — first public earnings report",
-      "iso_date": "2026-05"
+      "date": "August 14, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — first read on post-catalyst momentum and guidance"
     },
     {
-      "date": "2026-08",
-      "event": "Q2 2026 earnings — mid-year guidance check",
-      "iso_date": "2026-08"
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Logical-qubit milestone announcements (10+, 25+, 50+)"
     },
     {
-      "date": "2026-2027",
-      "event": "Logical qubit milestone announcements (10+, 25+, 50+)",
-      "iso_date": "2026"
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Illinois fault-tolerant neutral-atom deployment progress"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "DOE 'Genesis Mission' and DoD/DARPA contract awards"
     },
     {
       "date": "2028",
-      "event": "100 logical qubit target achievement",
-      "iso_date": "2028"
+      "iso_date": "2028",
+      "event": "100 logical-qubit target achievement"
     }
   ],
   "key_risks": [
-    "Pre-profitability with significant cash burn; 3-5 year path to breakeven",
-    "Quantum computing commercialization timeline uncertain; history of over-promising",
-    "Revenue concentration in government contracts subject to budget cycles",
-    "Competitive technology risk from trapped ion, superconducting, or photonic approaches",
-    "SPAC merger overhang and limited institutional coverage create volatility"
+    "Share overhang: an updated resale prospectus registered ~23.25M shares, pressuring the stock near its 52-week low",
+    "Pre-profitability with TTM net loss of ($56.07M) and a multi-year path to breakeven; further raises would be dilutive",
+    "Quantum computing commercialization timeline uncertain; sector history of over-promising",
+    "Revenue concentration in government/defense contracts subject to budget cycles",
+    "Competitive technology risk from trapped ion, superconducting, or photonic approaches"
   ],
   "theme": "Quantum Computing",
   "sub_theme": "Pure Plays",
-  "price_date": "2026-04-29"
+  "price_date": "2026-07-28"
 }

@@ -2,83 +2,81 @@
   "ticker": "SNOW",
   "company": "Snowflake Inc.",
   "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Data & Analytics",
   "industry": "Cloud Data Platform / SaaS",
   "exchange": "NYSE",
-  "price": 119.71,
-  "market_cap": "$41.6B",
-  "rating": "SPEC. BUY",
-  "last_updated": "2026-04-10",
-  "thesis": "Leading cloud data platform experiencing challenging period with shares down 57% from highs. Q4 FY2026 showed strong fundamentals: 30% product revenue growth, $4.8B cash, first year of positive free cash flow. Transitioning from pure data warehouse to AI Data Cloud with Cortex AI suite gaining traction. However, intensifying competition from Databricks, Microsoft Fabric, and AI bubble concerns creating valuation pressure. RSI 16.43 indicates severely oversold conditions.",
+  "price": 272.92,
+  "price_date": "2026-07-28",
+  "market_cap": "$94.6B",
+  "rating": "BUY",
+  "last_updated": "2026-07-28",
+  "thesis": "Snowflake is the leading cloud-agnostic data platform, and the deeply-oversold recovery thesis has fully played out — shares have roughly doubled from ~$119 (RSI ~16) to ~$273 on sustained 30%+ growth, positive free cash flow, and accelerating AI Data Cloud adoption. FY2026 total revenue rose 29.2% to $4.68B, TTM revenue is ~$5.03B (+31%), NRR is ~125%, and RPO is ~$9.8B, while FCF runs ~$1.2B+ at a ~25% margin. Cortex AI and Snowflake Intelligence are the core growth engines, and a 51-analyst Strong Buy consensus (avg target ~$297.60) reflects a profitable-cash-flow quality leader rather than a speculative bounce. The upgrade to BUY drops the speculative tag; the principal caution is a full valuation (~129x forward earnings, heavy stock-based comp) that leaves only modest near-term upside.",
   "financials": {
     "fiscal_year": "FY2026",
-    "product_revenue": "$4.50B",
-    "total_revenue": "$4.88B",
-    "revenue_growth": "+30% YoY",
-    "gross_margin": "75.8% (non-GAAP)",
-    "operating_margin": "10.5% (non-GAAP, +450bps)",
-    "fcf": "$1.24B",
-    "fcf_margin": "25.5%",
-    "cash": "$4.8B",
-    "nrr": "125% (Net Revenue Retention)",
-    "rpo": "$9.77B (+42% YoY)",
-    "revenue": "N/A",
-    "net_income": "N/A",
-    "eps_diluted": "N/A"
+    "revenue": "$4.68B",
+    "revenue_growth": "+29.2% YoY",
+    "gross_margin": "~75% (non-GAAP product)",
+    "net_income": "-$1.33B (GAAP, heavy SBC)",
+    "eps_diluted": "-$3.51 (TTM)",
+    "cash": "$4.8B+",
+    "fcf": "$1.2B+ (~25% FCF margin)",
+    "total_revenue_ttm": "$5.03B (+31.1%)",
+    "nrr": "~125%",
+    "rpo": "~$9.8B",
+    "net_income_ttm": "-$1.20B (GAAP)"
   },
   "bull_case": {
-    "target": "$280",
+    "target": "$330–$360",
     "drivers": [
-      "AI Data Cloud positioning captures generative AI workloads",
-      "Snowflake Intelligence and Cortex Code reach mainstream adoption",
-      "Net Revenue Retention rebounds above 130%",
-      "FY2027 guidance (27% growth) proves conservative",
-      "Margin expansion continues toward 20%+ operating margins"
-    ]
-  },
-  "bear_case": {
-    "target": "$90",
-    "risks": [
-      "Databricks continues taking share in AI workloads (65% growth vs 30%)",
-      "Microsoft Fabric bundles data warehouse with Office 365",
-      "Growth deceleration continues below 20% in FY2028",
-      "AI hype cycle ends before Snowflake captures value",
-      "Valuation compression to 5-6x revenue on growth slowdown"
+      "Cortex AI and Snowflake Intelligence adoption accelerates consumption growth back above 30%",
+      "Net Revenue Retention re-expands toward 130% as AI workloads scale",
+      "FCF margin expands beyond 25% while non-GAAP operating margin keeps climbing",
+      "Multiple post-run target raises validate momentum (BofA $330, KeyBanc $325, Jefferies $310)",
+      "Databricks' ~$188B private valuation reframes public SNOW as relatively undervalued"
     ]
   },
   "base_case": {
-    "target": "$195",
-    "assumptions": "Revenue grows 25-27% through FY2028 then decelerates to 20%; AI products contribute meaningfully but don't transform growth; Margins continue expanding toward 15-20% operating margin; Stock trades at 10-12x revenue (reasonable for 25% growth)."
+    "target": "$290–$310",
+    "assumptions": "Revenue compounds ~25–30% through FY2028 with steady margin expansion and ~25% FCF margins; Cortex/Snowflake Intelligence contribute meaningfully but do not re-accelerate growth dramatically; NRR holds around 125%; the stock tracks toward the ~$297.60 consensus average target as earnings confirm the AI Data Cloud ramp."
+  },
+  "bear_case": {
+    "target": "$180–$210",
+    "risks": [
+      "Databricks (new funding at ~$188B, expanded ~$100M OpenAI deal) and Microsoft Fabric take AI-workload share",
+      "Consumption-revenue model volatility drives a guidance miss and multiple compression from ~129x forward earnings",
+      "Heavy stock-based compensation keeps GAAP losses large and dilutes shareholders",
+      "AI-momentum enthusiasm fades and the stock retraces toward its prior range",
+      "Growth decelerates below the mid-20s% as the law of large numbers bites"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05-27",
-      "event": "Q1 FY2027 Earnings — Guidance update critical",
-      "iso_date": "2026-05-27"
-    },
-    {
-      "date": "2026-06",
-      "event": "Investor Day / Conference — Product announcements",
-      "iso_date": "2026-06"
-    },
-    {
-      "date": "2026-08",
-      "event": "Q2 FY2027 Earnings — AI traction visibility",
-      "iso_date": "2026-08"
+      "date": "August 26, 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 FY2027 earnings — revenue growth, margins, and updated FY2027 guidance"
     },
     {
       "date": "Ongoing",
-      "event": "AI Product Adoption — Cortex Code, Intelligence metrics",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Cortex AI and Snowflake Intelligence adoption metrics — the core growth driver to watch"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Net Revenue Retention trajectory — signal of consumption expansion vs. deceleration"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Competitive dynamics vs. Databricks and Microsoft Fabric in AI-data workloads"
     }
   ],
   "key_risks": [
-    "Intensifying competition from Databricks (65% growth) and Microsoft Fabric",
-    "Consumption model creates revenue volatility during economic slowdowns",
-    "Heavy stock-based compensation (34% of revenue, improving but dilutive)",
-    "Growth deceleration from 30% to 27% guidance (FY2027)",
-    "RSI 16.43 indicates oversold but may signal fundamental concerns"
-  ],
-  "theme": "Software",
-  "sub_theme": "Data & Analytics",
-  "price_date": "2026-04-10"
+    "Full valuation (~129x forward earnings) leaves only ~9% average-target upside and limited margin for error",
+    "Intensifying AI-workload competition from Databricks (~$188B private valuation, expanded OpenAI deal) and Microsoft Fabric",
+    "Consumption-based revenue model creates quarter-to-quarter volatility during enterprise budget swings",
+    "Heavy stock-based compensation keeps GAAP results in the red and dilutes shareholders",
+    "CEO pay package worth up to ~$448M tied to the stock doubling adds an alignment/governance and dilution consideration"
+  ]
 }

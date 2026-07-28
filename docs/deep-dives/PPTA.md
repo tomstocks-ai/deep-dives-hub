@@ -8,7 +8,7 @@ hide:
 
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ / TSX-PPTA/" rel="noopener nofollow" target="_blank"><span class="blue-text">PPTA stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-PPTA/" rel="noopener nofollow" target="_blank"><span class="blue-text">PPTA stock chart</span></a><span class="trademark"> by TradingView</span></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
     "allow_symbol_change": true,
@@ -23,7 +23,7 @@ hide:
     "locale": "en",
     "save_image": true,
     "style": "1",
-    "symbol": "NASDAQ / TSX:PPTA",
+    "symbol": "NASDAQ:PPTA",
     "theme": "dark",
     "timezone": "Etc/UTC",
     "backgroundColor": "#0F0F0F",
@@ -42,229 +42,151 @@ hide:
 </div>
 
 
-# Perpetua Resources Corp. (PPTA) - Investment Deep Dive Analysis
-**Date:** April 29, 2026
-**Ticker:** PPTA (NASDAQ / TSX)
-**Sector:** Materials — Precious Metals & Critical Minerals Mining
-**Current Price:** \$26.30 (as of April 29, 2026 close)
-**Market Cap:** \$3.29B
-**Report Type:** Investment-Grade Deep Dive
+# PPTA — Perpetua Resources Corp.
+
+Perpetua Resources is a development-stage miner advancing the **Stibnite Gold Project** in central Idaho — one of the largest undeveloped gold deposits in the United States (6M+ oz gold) that also holds ~148M lbs of antimony, the only domestic mined source of a critical mineral now restricted by Chinese export bans. The defining development since the prior update: the U.S. Export-Import Bank (EXIM) board **unanimously finalized a \$2.9B senior secured long-term loan** under the "Make More in America" initiative — up from the ~\$2B that was merely *pending* — leaving Stibnite effectively **fully financed**. That removes the single biggest overhang from the old thesis. Paradoxically, the stock has fallen to ~\$18 (near its 52-week low) on a gold-price pullback, equity dilution, and post-approval "sell-the-news", shifting the risk profile from financing risk toward construction execution, commodity prices, and dilution.
+
+**Rating:** SPEC. BUY · **Price:** \$18.24 (2026-07-28) · **Market Cap:** ~\$2.29B
+
+- **Bull:** \$40–50
+- **Base:** \$28–35
+- **Bear:** \$12–16
 
 ---
 
-## EXECUTIVE SUMMARY
+## Company Overview
 
-Perpetua Resources is a development-stage mining company advancing the **Stibnite Gold Project** in central Idaho — a \$1.3 billion open-pit gold and antimony mine that represents one of the largest and highest-grade undeveloped gold deposits in the United States. The project is also America's answer to China's antimony export bans, as it contains 148 million pounds of proven and probable antimony reserves, a critical mineral essential for defense systems, energy storage, and semiconductors.
+Perpetua Resources is a mineral development company built around a single transformative asset.
 
-The company broke ground in October 2025 after nine years of permitting, received final federal approval from the U.S. Forest Service, and is now in early works construction. Full production is targeted for H2 2029. The stock has rallied from \$11.22 (52-week low) to \$26.30, driven by construction commencement, \$2B U.S. EXIM debt financing progress, and geopolitical tailwinds around critical minerals independence.
+**Stibnite Gold Project (Valley County, Idaho, USA)**
 
-**Analyst Rating:** SPECULATIVE BUY (High Risk/High Reward)
-**Price Targets:**
+- 100%-owned open-pit gold and antimony project — a brownfield restoration of a legacy mining district
+- Proven and probable reserves of **6M+ ounces of gold** and **~148M lbs of antimony**
+- Expected steady-state output of roughly 450,000 oz of gold per year at full capacity
+- The **only domestic mined source of antimony**, a listed critical mineral essential to defense (armor-piercing ammunition, night vision), flame retardants, batteries, and semiconductors
+- Fast-tracked as a FAST-41 federal permitting project; broke ground in October 2025 after nine years of permitting
 
-- **Bull Case:** \$50.00 (+90%)
-- **Base Case:** \$35.00 (+33%)
-- **Bear Case:** \$15.00 (-43%)
+**Strategic importance.** China controls the majority of global antimony supply and has imposed export bans, making Stibnite a rare non-Chinese source and a direct beneficiary of U.S. critical-minerals and defense policy. This is the geopolitical spine of the thesis and underpins the EXIM financing.
 
----
-
-## 1. COMPANY OVERVIEW
-
-### 1.1 Business Model
-Perpetua Resources is a mineral exploration and development company with a single transformative asset:
-
-**Stibnite Gold Project (Idaho, USA)**
-
-- **100% owned** open-pit gold and antimony project in Valley County, Idaho
-- Proven and probable reserves: **6+ million ounces of gold** and **148 million pounds of antimony**
-
-- Expected production: ~450,000 ounces of gold annually at full capacity
-- One of the few known U.S. sources of antimony — a listed critical mineral
-- Project footprint redesigned to shrink by 13% and improve stream/wetland conditions
-- Brownfield site — restoring an abandoned legacy mining area
-
-### 1.2 Strategic Importance
-- **Antimony:** Essential for defense systems (armor-piercing ammunition, night vision), lead-acid batteries, flame retardants, and semiconductors
-- China controls ~80% of global antimony supply and recently imposed export bans
-- Stibnite is one of the largest antimony deposits outside China's control
-- Fast-tracked by the Trump administration as part of U.S. critical minerals supply chain strengthening
-- Designated a FAST-41 project (federal permitting acceleration)
-
-### 1.3 Management
-- **CEO Jon Cherry:** Led the company through the 9-year permitting process; former Midas Gold Corp. executive
-- **Headquarters:** Boise, Idaho (close to the project)
-- **Employees:** 47 (as of 2026)
-- **Incorporated:** 2011 in British Columbia, Canada; formerly known as Midas Gold Corp. (renamed February 2021)
+**Management and structure.** Led by CEO Jon Cherry, headquartered in Boise, Idaho, close to the project. Incorporated in British Columbia (formerly Midas Gold Corp., renamed 2021). The company is dual-listed — NASDAQ and TSX — and remains a lean development-stage organization.
 
 ---
 
-## 2. FINANCIAL ANALYSIS
+## Financial Analysis
 
-### 2.1 Income Statement
-Perpetua is pre-revenue and in the development/construction phase:
+Perpetua is pre-revenue and in the construction phase; the income statement reflects development spend rather than operations.
 
-| Metric | FY2025 |
-|--------|--------|
+| Metric | TTM 2026 |
+|--------|----------|
 | Revenue | \$0 (pre-revenue) |
-| Net Loss | ~-\$135M (estimated, development costs) |
-| EPS (Diluted) | -\$1.08 |
-| R&D / Exploration | Minimal (focused on construction) |
+| Net Loss | ~-\$140.8M (TTM) |
+| EPS (Diluted) | -\$1.32 |
+| Cash & Equivalents | ~\$200M+ (pre-drawdown) |
+| Shares Outstanding | ~125.1M |
+| Market Cap | ~\$2.29B |
+| Beta | 0.69 |
 
-### 2.2 Balance Sheet
-| Metric | Value |
-|--------|-------|
-| Cash & Equivalents | ~\$200M+ (post June/July 2025 equity raise) |
-| Total Debt | Minimal (development financing pending) |
-| Market Cap | \$3.29B |
-| Shares Outstanding | 125.1M |
-| Book Value | Limited (development stage) |
+**Financing picture — materially changed.** The prior version of this thesis hinged on a ~\$2B EXIM debt package that was still *pending* board approval. That risk is now resolved: the EXIM board **unanimously approved and finalized a \$2.9B senior secured long-term loan**, and the market re-rated the stock ~+22.7% on the news. With total project capex on the order of \$1.3B, the enlarged facility leaves Stibnite effectively fully financed to first production, sharply reducing (though not eliminating) reliance on future equity raises.
 
-**Key Financial Events:**
-
-- **June/July 2025:** Equity offering raised \$49M in gross proceeds (fully exercised underwriter option)
-- **October 2025:** Posted \$139M in construction phase financial assurance (reclamation bond)
-- **Q1 2026:** Market value of non-affiliate equity: \$868M (per 10-K filing)
-
-### 2.3 Cash Flow
-- **Operating Cash Flow:** Negative (pre-revenue)
-- **Capital Expenditures:** ~\$1.3B total project capex
-- **Financing Strategy:**
-  - U.S. EXIM Bank: Application for **\$2.0 billion in debt financing** (Preliminary Project Letter and Indicative Term Sheet received September 2025)
-  - Final EXIM Board review expected **Spring 2026**
-  - Additional equity raises likely during construction
+**Balance-sheet trajectory.** The company entered the build with \$200M+ of cash and a posted reclamation/financial-assurance bond. Drawdowns against the EXIM facility will fund the bulk of construction. Some further equity issuance remains possible, but the debt package changes the funding math decisively.
 
 ---
 
-## 3. VALUATION
+## Valuation
 
-### 3.1 Comparative Analysis
-As a pre-revenue development-stage miner, traditional multiples are not applicable. Valuation is based on:
+As a pre-revenue developer, PPTA is valued on net asset value (NAV) of reserves and comparable development-stage transactions rather than earnings multiples.
 
-- Net Asset Value (NAV) of reserves
-- Comparable development-stage mining transactions
-- Strategic premium for critical minerals exposure
+- **Gold:** 6M+ oz at ~\$3,000/oz spot implies substantial in-situ value before recovery, capex, and opex adjustments
+- **Antimony:** ~148M lbs carries a strategic premium given the domestic-supply scarcity
+- Analyst consensus is **Strong Buy** across 7 analysts, with an average 12-month target of ~\$38.90 (H.C. Wainwright at Buy, \$43.50)
 
-| Comparable | Stage | Market Cap |
-|------------|-------|------------|
-| PPTA (Stibnite) | Construction | \$3.29B |
-| UAMY (US Antimony) | Exploration | ~\$200M |
-| Americas Gold (Galena) | Production | ~\$500M |
+### Price Target Scenarios
 
-### 3.2 NAV Analysis
-- **Gold reserves:** 6M+ oz at ~\$3,000/oz spot = \$18B+ in-situ value
-- **Antimony reserves:** 148M lbs (strategic premium applies)
-- **Recovery rates, capex, opex** must be applied for realistic NAV
-- Analyst consensus implies ~\$35/share NAV at full production
+| Scenario | Target | Key Assumptions |
+|----------|--------|-----------------|
+| **Bull** | \$40–50 | EXIM \$2.9B drawdowns proceed smoothly; gold recovers above \$3,200/oz; antimony stays elevated with defense offtakes signed; construction on schedule; new strategic partnerships |
+| **Base** | \$28–35 | EXIM facility draws on schedule; gold ~\$3,000/oz; construction advances with minor delays; first production H2 2029; modest further dilution; antimony offtakes signed |
+| **Bear** | \$12–16 | Cost overruns on a first-time mine build; gold and antimony price declines; further dilution; permitting/environmental litigation; prolonged sell-the-news keeps shares oversold |
 
-### 3.3 Price Target Scenarios
-
-| Scenario | Target | Implied Return | Key Assumptions |
-|----------|--------|----------------|-----------------|
-| **Bull** | \$50 | +90% | EXIM financing closes at favorable terms; gold >\$3,200; antimony prices spike on supply constraints; construction on schedule; additional strategic partnerships |
-| **Base** | \$35 | +33% | EXIM financing closes Q2 2026; gold \$3,000; construction progresses with minor delays; first production H2 2029; equity dilution ~15% |
-| **Bear** | \$15 | -43% | EXIM financing delayed/cancelled; significant cost overruns; gold <\$2,600; permitting challenges; major equity dilution required |
+At ~\$18.24 the stock trades near the low end of its \$14.69–\$37.37 52-week range and roughly a third below the stale \$26.30 print, offering an asymmetric entry for risk-tolerant investors now that financing risk has been largely retired.
 
 ---
 
-## 4. GROWTH CATALYSTS
+## Growth Catalysts
 
-### Near-Term (2026)
-1. **EXIM Board Approval (Spring 2026):** \$2B debt financing decision — the most critical catalyst
-2. **Full Construction Sanction:** Expected Spring 2026 upon financing completion
-3. **Equipment Agreements:** Long-lead time procurement advancing
-4. **Exploration Resumption:** High-priority targets within approved Plan of Operations
+**Near-term.**
 
-### Medium-Term (2027-2029)
-5. **Construction Milestones:** Mill construction, tailings facility, infrastructure
-6. **First Gold Pour:** Targeted H2 2029
-7. **Antimony Production:** Strategic offtake agreements with defense/industrial buyers
-8. **Resource Expansion:** 28,536-acre land package offers exploration upside
+1. **Q2 2026 earnings (Aug 12, 2026)** — first results and construction/financing progress update since full financing
+2. **EXIM \$2.9B loan drawdown / financial close milestones** — execution of the finalized facility de-risks funding
+3. **Burntlog Route construction** — critical-path access work has commenced after an Idaho federal court rejected efforts to stop it
 
-### Strategic Tailwinds
-- **U.S. critical minerals policy:** Bipartisan support for domestic supply chains
-- **China antimony export controls:** Creates urgent demand for non-Chinese sources
-- **Gold price environment:** \$3,000+ spot price supports project economics
-- **Defense prioritization:** Antimony classified as essential for national security
+**Medium-term.**
+
+4. **Stibnite construction milestones** — mill, tailings facility, and infrastructure through 2027–2028
+5. **Antimony offtake agreements with defense contractors** — monetizes the strategic-minerals angle
+6. **First gold production** — targeted for H2 2029
+
+**Strategic tailwinds.** Bipartisan U.S. support for domestic critical-minerals supply chains, China's antimony export controls creating urgent demand for non-Chinese sources, and a still-elevated gold-price environment all reinforce the long-term case.
 
 ---
 
-## 5. RISKS
+## Risk Factors
 
-### 5.1 Financing Risk (HIGH)
-- **\$2B EXIM financing is not guaranteed.** If delayed or denied, alternative financing may be more expensive or dilutive
-- Total project cost ~\$1.3B; financing gap could require significant equity raises
-- Interest rate environment affects debt servicing costs
+**Execution risk (HIGH).** This is a first-time mine build with no operating history. Open-pit mining, a processing plant, and tailings management in a remote Idaho location invite cost overruns, which run 20-40% above feasibility estimates industry-wide. With financing now secured, execution is the primary swing factor for the thesis.
 
-### 5.2 Execution Risk (HIGH)
-- **First mine development:** Company has no operating history
-- Construction complexity: open-pit mining, processing plant, tailings management
-- Cost overruns common in mining (industry average 20-40% above feasibility estimates)
-- Labor and equipment availability in remote Idaho location
+**Commodity price risk (MEDIUM-HIGH).** Gold price volatility directly affects project NAV and the equity, as the recent pullback demonstrated. Antimony trades in a small, illiquid market with challenging price discovery.
 
-### 5.3 Commodity Price Risk (MEDIUM)
-- Gold price volatility affects project economics and valuation
-- Antimony market is small and illiquid — price discovery challenges
-- No hedging program currently in place
+**Dilution risk (MEDIUM).** The \$2.9B EXIM facility greatly reduces — but does not fully eliminate — the possibility of further equity raises before 2029 production.
 
-### 5.4 Regulatory/Environmental Risk (MEDIUM)
-- **Nine years of permitting** demonstrates regulatory scrutiny
-- Environmental opposition possible (Idaho conservation groups)
-- Water rights, endangered species, and watershed protection issues
-- Post-construction compliance and reclamation obligations
+**Regulatory / environmental risk (MEDIUM).** Nine years of permitting reflect intense scrutiny; conservation groups may pursue further opposition or litigation despite the recent court ruling in the company's favor.
 
-### 5.5 Dilution Risk (MEDIUM)
-- Pre-revenue company requiring ongoing capital
-- Multiple equity raises likely before first production (2029)
-- Current shareholders could face 15-30% dilution
+**Sentiment / technical risk (MEDIUM).** Shares sit near a 52-week low and have been flagged as technically oversold. A plaintiff law firm has issued a boilerplate "fiduciary duty" solicitation — immaterial to fundamentals, but it exists and can weigh on sentiment.
 
-## 6. RECOMMENDATION
+---
 
-### Rating: SPECULATIVE BUY
+## Recommendation
 
-**Position Sizing:** 2-3% of portfolio maximum (high-risk development stage)
+**Rating: SPEC. BUY.** With EXIM financing finalized, the thesis has flipped from "can they fund it?" to "can they build it?" — a materially better risk/reward for a project of this strategic importance, now available near 52-week lows.
 
-**Entry Strategy:**
+**Position sizing:** 2-3% of portfolio maximum given the development-stage, single-asset profile.
 
-- **Aggressive entry:** Current levels (\$26-27) — RSI near oversold, strong fundamentals
-- **Conservative entry:** Wait for EXIM financing confirmation (Spring 2026) — may miss upside but reduces financing risk
-- **Dollar-cost averaging:** Scale in over 2-3 tranches given volatility
+**Entry strategy:** The ~\$18 area near the low end of the 52-week range and with shares technically oversold offers an asymmetric entry. Scale in over 2-3 tranches to manage volatility and gold-price swings.
 
-**Stop Loss:** \$18.00 (below major support, -31% from current)
-- Rationale: If price breaks \$18, market is pricing in significant financing/execution concerns
+**Technical context:** Support sits near the \$14.69 52-week low; the \$37.37 high marks longer-term resistance. RSI has been in oversold territory, consistent with the post-approval sell-the-news pullback. A reclaim above the mid-\$20s would signal the market re-embracing the fully-financed build.
 
-**Catalyst Calendar:**
+**Catalyst calendar:**
 
 | Date | Event | Impact |
 |------|-------|--------|
-| Spring 2026 | EXIM Board Decision | CRITICAL |
-| Summer 2026 | Full Construction Sanction | HIGH |
-| 2027-2028 | Construction Milestones | MEDIUM |
-| H2 2029 | First Production | HIGH |
+| Aug 12, 2026 | Q2 2026 earnings | MEDIUM |
+| 2026 onward | EXIM \$2.9B drawdown / financial close | HIGH |
+| 2027–2028 | Construction milestones (Burntlog, mill, tailings) | MEDIUM |
+| TBD | Antimony offtake agreements | MEDIUM |
+| H2 2029 | First gold production | HIGH |
 
 ---
 
-## 7. READABILITY PASS
+## Sentiment Analysis
 
-**Antimony:** A silvery-gray metal used in flame retardants, batteries, and military applications. China dominates global supply, making U.S. sources strategically valuable.
+**News flow.** Overwhelmingly driven by the EXIM board's unanimous approval of the \$2.9B loan — a clearly positive, thesis-changing headline that drove a ~+22.7% single-session move. Follow-on coverage has been mixed: full financing is bullish, but the stock's slide to near 52-week lows on a gold pullback and dilution concerns tempers the tone.
 
-**Proven and Probable Reserves:** The amount of mineral that geologists have measured and can reasonably expect to extract economically. "Proven" = highest confidence; "Probable" = slightly less certain.
+**Analyst sentiment.** Positive. Consensus is Strong Buy across 7 analysts with an average 12-month target of ~\$38.90; H.C. Wainwright rates it Buy with a \$43.50 target — well above the current ~\$18 price.
 
-**FAST-41:** A U.S. federal program that speeds up permitting for infrastructure projects deemed nationally important.
+**Retail / social.** Enthusiasm around the domestic-antimony and critical-minerals narrative persists, offset by frustration at the "sell-the-news" decline and dilution. Shares have been flagged as technically oversold. A boilerplate plaintiff-firm "fiduciary duty" solicitation is circulating; it is immaterial to fundamentals but adds noise.
 
-**U.S. EXIM Bank:** The Export-Import Bank of the United States provides loans and guarantees to support American exports and strategic projects.
+**Options / flow.** Elevated volatility around the financing news and the sharp drawdown; positioning reflects a binary, catalyst-driven, execution-stage story.
 
-**Reclamation Bond:** Money set aside upfront to restore the land after mining ends — ensures environmental cleanup is funded.
-
-**Brownfield:** A site that was previously mined or industrialized (vs. "greenfield" = untouched land). Stibnite is a brownfield site, meaning Perpetua is cleaning up old mining damage while building new operations.
+**Net sentiment score: cautiously bullish.** Fundamentals improved decisively with financing secured, while price action and near-term sentiment remain weak — the classic setup where the tape lags the fundamentals.
 
 ---
 
-## 8. SOURCES CONSULTED
+## Sources Consulted
 
 1. [Yahoo Finance - PPTA](https://finance.yahoo.com/quote/PPTA/)
 2. [Perpetua Resources Investor Relations](https://www.investors.perpetuaresources.com/)
-3. [SEC EDGAR - PPTA 10-K Annual Report (FY2025)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPTA)
-4. [Mining.com - Perpetua Starts Building \$1.3B Stibnite Mine](https://www.mining.com/perpetua-starts-building-1-3b-stibnite-gold-antimony-mine/)
-5. [PR Newswire - Groundbreaking Announcement](https://www.prnewswire.com/news-releases/perpetua-resources-breaks-ground-on-the-stibnite-gold-project-302590660.html)
+3. [SEC EDGAR - PPTA Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PPTA)
+4. [U.S. EXIM Bank - Make More in America](https://www.exim.gov/)
+5. [Mining.com - Perpetua / Stibnite coverage](https://www.mining.com/)
 6. [StockAnalysis.com - PPTA Overview](https://stockanalysis.com/stocks/ppta/)
 7. [WallStreetZen - PPTA Forecast](https://www.wallstreetzen.com/stocks/us/nasdaq/ppta)
 8. [MarketBeat - PPTA Analyst Ratings](https://www.marketbeat.com/stocks/NASDAQ/PPTA/forecast/)
@@ -273,4 +195,4 @@ As a pre-revenue development-stage miner, traditional multiples are not applicab
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute financial advice. PPTA is a high-risk, development-stage investment. The author may hold positions in securities mentioned. Always conduct your own due diligence before investing.*
+*Disclaimer: This analysis is for informational purposes only and does not constitute financial advice. PPTA is a high-risk, development-stage investment. Always conduct your own due diligence before investing.*
