@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-07-28",
-  "count": 107,
+  "count": 108,
   "tickers": [
     {
       "ticker": "000660",
@@ -648,6 +648,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Gold",
       "price_date": "2026-06-07"
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning Incorporated",
+      "sector": "Technology",
+      "industry": "Optical Communications / Specialty Glass and Ceramics",
+      "rating": "BUY",
+      "price": 120.75,
+      "market_cap": "$104B",
+      "last_updated": "2026-07-28",
+      "deep_dive_url": "/deep-dives/GLW/",
+      "api_url": "/api/GLW.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-07-28"
     },
     {
       "ticker": "HIMS",
