@@ -760,14 +760,14 @@
       "sector": "Fintech",
       "industry": "Brokerage / Trading Platforms",
       "rating": "SPEC. BUY",
-      "price": 103.25,
-      "market_cap": "$92B",
-      "last_updated": "2026-06-24",
+      "price": 89.84,
+      "market_cap": "$83B",
+      "last_updated": "2026-07-29",
       "deep_dive_url": "/deep-dives/HOOD/",
       "api_url": "/api/HOOD.json",
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Brokerage / Trading",
-      "price_date": "2026-06-24"
+      "price_date": "2026-07-29"
     },
     {
       "ticker": "HUT",

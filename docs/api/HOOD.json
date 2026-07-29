@@ -6,94 +6,123 @@
   "sub_theme": "Brokerage / Trading",
   "industry": "Brokerage / Trading Platforms",
   "exchange": "NASDAQ",
-  "price": 103.25,
-  "market_cap": "$92B",
+  "price": 89.84,
+  "market_cap": "$83B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-24",
-  "thesis": "Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem with growing crypto revenue, subscription services (Gold), and international expansion. The SPEC. BUY rating reflects strong brand loyalty among retail investors, crypto momentum, and recurring revenue growth, offset by stretched valuation and regulatory risks.",
+  "last_updated": "2026-07-29",
+  "thesis": "Robinhood is transitioning from a commission-free trading app into a diversified financial services ecosystem. Q2 2026 delivered record net revenue of $1.31B (+32% YoY), driven by a surge in event-contract trading, strong options and equities flows, and $492M of net interest revenue. Robinhood Gold subscribers reached 4.8M (+39% YoY), while the July 2026 launch of Trump Accounts added more than 7M signups and nearly $1.5B in deposits within weeks. New agentic-trading and credit-card products, a $2.2B convertible note, and a rapidly growing desktop platform (Robinhood Legend) expand the growth runway. We maintain a SPEC. BUY rating at $89.84 because the post-earnings valuation is more reasonable than at prior highs, but regulatory uncertainty (outstanding SEC Wells notice) and weaker year-over-year crypto revenue keep the call speculative.",
   "financials": {
-    "fiscal_year": "FY2025 (Est.)",
-    "revenue": "$3.6B",
-    "revenue_growth": "~24%",
-    "gross_margin": "~87%",
-    "net_income": "$0.8B",
-    "eps_diluted": "$0.90",
-    "cash": "$4.5B",
-    "fcf": "$0.9B"
+    "fiscal_year": "FY2026 (Est.)",
+    "revenue": "$5.2B",
+    "revenue_growth": "~32%",
+    "gross_margin": "~85%",
+    "net_income": "$1.8B",
+    "eps_diluted": "$1.81",
+    "cash": "$6.5B",
+    "fcf": "$2.0B"
   },
   "bull_case": {
-    "target": "$140–$155",
+    "target": "$120–$135",
     "drivers": [
-      "Crypto revenue surpasses $1B annually with staking and custody expansion",
-      "Robinhood Gold subscribers double, validating recurring revenue thesis",
-      "International markets (UK/EU) contribute material revenue by 2027",
-      "Resolution of SEC Wells notice removes regulatory overhang",
-      "HOOD re-rated as fintech-crypto hybrid rather than traditional broker"
+      "Event-contract revenue sustains a $150M+/quarter run-rate and options/equities volumes keep growing",
+      "Robinhood Gold crosses 5M subscribers in 2026 and approaches 6M in 2027, lifting recurring revenue",
+      "Trump Accounts convert deposits into active trading and Gold adoption",
+      "Agentic Trading and the Agentic Credit Card drive engagement and fee-based revenue",
+      "SEC Wells notice resolves favorably, removing a key regulatory overhang"
     ]
   },
   "base_case": {
     "target": "$95–$110",
     "assumptions": [
-      "20% revenue CAGR sustained through 2027",
-      "Modest margin expansion as subscription revenue mix increases",
-      "Crypto revenue grows but remains cyclical, not explosive",
-      "International expansion proceeds at measured pace",
-      "Valuation compresses slightly from current levels as growth normalizes"
+      "FY2026 revenue grows ~30% and FY2027 EPS approaches ~$2.49",
+      "Transaction revenue remains strong but crypto stays a headwind vs prior-year comps",
+      "Net interest revenue moderates modestly as rates drift lower",
+      "Robinhood Gold subscriber growth stays above 30% YoY",
+      "Valuation compresses slightly from peak fintech multiples as growth normalizes"
     ]
   },
   "bear_case": {
-    "target": "$60–$75",
+    "target": "$70–$80",
     "risks": [
-      "SEC enforcement action or PFOF ban materially impacts revenue",
-      "Crypto bear market compresses transaction revenue and sentiment",
-      "Competition from Schwab, Fidelity, and Coinbase erodes market share",
-      "Rate cuts compress net interest income faster than trading recovers",
-      "Valuation multiple compression on growth deceleration"
+      "SEC enforcement action related to the unresolved Wells notice (May 2024)",
+      "Crypto revenue continues to decline and options/event-contract volumes normalize",
+      "Rate cuts compress net interest income faster than trading revenue recovers",
+      "Competition from Schwab, Fidelity, and Coinbase erodes retail market share",
+      "Valuation multiple compression on any growth deceleration"
     ]
   },
   "catalysts": [
     {
-      "date": "H2 2026",
-      "event": "Crypto product expansion (new tokens, staking, custody)",
-      "iso_date": "2026-07"
+      "date": "Q3 2026 earnings",
+      "event": "Estimated Q3 2026 earnings report — watch event-contract revenue, Gold subscribers, and Trump Account contribution",
+      "iso_date": "2026-11",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
     },
     {
       "date": "H2 2026",
-      "event": "EU market deepening with local licensing and marketing",
-      "iso_date": "2026-07"
+      "event": "Trump Account update: deposit growth, activation rates, and contribution to net deposits",
+      "iso_date": "2026-10",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
     },
     {
       "date": "2026–2027",
-      "event": "Potential resolution of SEC Wells notice",
-      "iso_date": "2026"
+      "event": "Potential resolution of the SEC Wells notice — binary regulatory overhang",
+      "iso_date": "2026",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
+    },
+    {
+      "date": "H2 2026",
+      "event": "Robinhood Gold 5M subscriber milestone",
+      "iso_date": "2026-10",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
     },
     {
       "date": "2026–2027",
-      "event": "Fed rate cuts potentially boosting trading activity",
-      "iso_date": "2026"
+      "event": "EU/UK expansion milestones and international crypto licensing progress",
+      "iso_date": "2026",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
     },
     {
       "date": "2026–2027",
-      "event": "Gold subscriber milestones (5M+, 10M+)",
-      "iso_date": "2026"
+      "event": "Agentic Trading and Agentic Credit Card adoption metrics",
+      "iso_date": "2026",
+      "sector": "Fintech",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Brokerage / Trading",
+      "price_date": "2026-07-29"
     }
   ],
   "key_risks": [
-    "Regulatory / SEC enforcement risk from Wells notice and PFOF scrutiny",
-    "Crypto volatility and cyclicality of transaction revenue",
+    "Regulatory / SEC enforcement risk from the unresolved Wells notice and PFOF scrutiny",
+    "Crypto revenue down 38% YoY in Q2 2026 and cyclicality of transaction revenue",
     "Competition from traditional brokers and crypto-native platforms",
     "Stretched valuation with limited margin for error",
     "Interest rate sensitivity of net interest income"
   ],
   "analyst_consensus": {
     "rating": "BUY",
-    "median_target": "$97.50",
-    "target_range": "$52–$155"
+    "median_target": "$121",
+    "target_range": "$43–$172"
   },
   "technicals": {
-    "rsi_14": 64.3,
+    "rsi_14": 60.0,
     "52_week_low": 63.52,
     "52_week_high": 153.86
   },
-  "price_date": "2026-06-24"
+  "price_date": "2026-07-29"
 }
