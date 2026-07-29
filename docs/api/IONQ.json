@@ -1,0 +1,84 @@
+{
+  "ticker": "IONQ",
+  "company": "IonQ, Inc.",
+  "sector": "Technology",
+  "theme": "Quantum Computing",
+  "sub_theme": "Pure Plays",
+  "industry": "Quantum Computing Hardware and Software",
+  "exchange": "NYSE",
+  "price": 33.88,
+  "price_date": "2026-07-29",
+  "market_cap": "$12.65B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "IonQ is the largest and most commercially advanced publicly traded quantum computing pure-play, a full-stack trapped-ion leader whose FY2025 revenue tripled to $130.02M (+201.9% YoY) — the strongest near-term commercial traction in the group. A fortress ~$2.03B cash-and-investments balance sheet (built via equity raises into the 2025-26 quantum rally) funds a roadmap toward 256-qubit systems and a stated 2 million physical qubits by 2030, while the SkyWater semiconductor foundry acquisition, a $2B federal quantum funding wave with government equity stakes, and a Strong Buy analyst consensus (average target ~$69) underpin the bull thesis. The counterweight is stark: a rich ~68x EV/revenue valuation, a FY2025 GAAP net loss of ($510.38M), heavy cash burn, and a stock that has round-tripped from an $84.64 high to near its 52-week low — this is a high-beta, binary, milestone-driven speculation.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$130.02M",
+    "revenue_growth": "+201.9%",
+    "gross_margin": "40.4%",
+    "net_income": "($510.38M)",
+    "eps_diluted": "($1.82)",
+    "cash": "~$2.03B (cash + investments)",
+    "fcf": "($299.6M)"
+  },
+  "bull_case": {
+    "target": "$70–$90",
+    "drivers": [
+      "Roadmap execution — 256-qubit prototype scaling toward the 2 million physical qubit 2030 target with rising fidelity and logical-qubit milestones",
+      "SkyWater foundry acquisition secures domestic chip supply and vertically integrates manufacturing, de-risking scale-up",
+      "Federal quantum funding wave and government equity stakes scale contract revenue and validate the sector",
+      "Enterprise and cloud adoption (AWS Braket, Azure Quantum, Google Cloud) plus quantum networking and Clavis XG security drive commercial revenue beyond hardware sales",
+      "Strategic acquisition interest or a quantum 'tipping point' re-rates the cohort back toward prior highs"
+    ]
+  },
+  "base_case": {
+    "target": "$42–$55",
+    "assumptions": "Revenue continues scaling off the $130M base toward $250-400M by 2027-2028 as hardware and services both ramp; the ~$2.03B cash pile funds the roadmap without a forced raise; gross margin stabilizes in the 40-50% range; Strong Buy consensus holds and the stock re-rates modestly above current levels as milestones land on schedule; path to EBITDA breakeven remains multi-year"
+  },
+  "bear_case": {
+    "target": "$18–$26",
+    "risks": [
+      "A quantum winter compresses sector multiples and the ~68x EV/revenue premium collapses",
+      "Roadmap milestones slip and the 2-million-qubit-by-2030 target proves aspirational amid quantum's history of over-promising",
+      "Persistent heavy cash burn ($299.6M FCF outflow in FY2025) and further equity issuance drive dilution",
+      "Competing modalities (superconducting at IBM/Google, neutral atom, photonic) reach commercial scale first",
+      "SkyWater integration disappoints or government funding and equity-stake dynamics create overhang"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 5, 2026",
+      "iso_date": "2026-08-05",
+      "event": "Q2 2026 earnings — read on revenue momentum, cash burn, and guidance"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "SkyWater Technology acquisition close and integration (final regulatory approval received)"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "256-qubit chip prototype and modular system milestones; logical-qubit progress"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Federal quantum funding awards and government equity-stake developments"
+    },
+    {
+      "date": "2030",
+      "iso_date": "2030",
+      "event": "2 million physical qubit roadmap target"
+    }
+  ],
+  "key_risks": [
+    "Extreme valuation: a ~$12.65B market cap on $130M FY2025 revenue (~68x EV/revenue) leaves no room for execution error",
+    "Pre-profitability with a FY2025 GAAP net loss of ($510.38M) and ($299.6M) free cash flow; a multi-year path to breakeven",
+    "Quantum computing commercialization timeline uncertain; sector has a long history of over-promising on qubit milestones",
+    "High beta (~3.2) and severe volatility — the stock has round-tripped from an $84.64 high toward its 52-week low",
+    "Dilution risk from continued equity issuance; SkyWater integration and government equity-stake overhang",
+    "Competitive technology risk from superconducting, neutral-atom, and photonic approaches reaching scale first"
+  ]
+}

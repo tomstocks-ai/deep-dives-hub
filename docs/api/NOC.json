@@ -1,0 +1,83 @@
+{
+  "ticker": "NOC",
+  "company": "Northrop Grumman Corporation",
+  "sector": "Defense",
+  "theme": "Defense",
+  "sub_theme": "Prime Contractors",
+  "industry": "Defense Prime Contractor / Aerospace and Space Systems",
+  "exchange": "NYSE",
+  "price": 549.22,
+  "price_date": "2026-07-29",
+  "market_cap": "$78B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Northrop Grumman is a top-tier U.S. defense prime with unmatched positions in strategic deterrence (B-21 Raider bomber, Sentinel ICBM), space systems, and missile defense. A record backlog above $95B, 26% free-cash-flow growth in FY2025, and rising demand from Golden Dome missile-defense architecture and NATO rearmament underpin a BUY rating, with margin recovery and B-21 production ramp as the key upside levers.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$42.0B",
+    "revenue_growth": "+2.2% YoY",
+    "gross_margin": "19%",
+    "net_income": "$4.2B",
+    "eps_diluted": "$29.08",
+    "cash": "$4.4B",
+    "fcf": "$3.3B"
+  },
+  "bull_case": {
+    "target": "$660–$700",
+    "drivers": [
+      "B-21 Raider transitions to full-rate production with improving fixed-price margins",
+      "Golden Dome homeland missile-defense architecture drives multi-billion-dollar Space and Mission Systems awards",
+      "Sentinel ICBM program restructuring stabilizes and re-baselines to profitable execution",
+      "NATO and allied rearmament sustains record munitions, radar, and space bookings",
+      "Free cash flow compounds toward $4B-plus, funding accelerated buybacks and dividend growth"
+    ]
+  },
+  "base_case": {
+    "target": "$560–$600",
+    "assumptions": "Low-to-mid single-digit organic revenue growth in line with 2026 guidance of $43.5B–$44B, segment operating margin recovering back toward 11%, backlog held above $90B, and the stock trading at roughly 19–20x forward EPS consistent with large-cap defense-prime multiples."
+  },
+  "bear_case": {
+    "target": "$470–$500",
+    "risks": [
+      "Additional fixed-price charges on B-21, Sentinel, or guided-missile programs compress margins",
+      "U.S. deficit-reduction pressure or a continuing resolution slows defense outlays and new awards",
+      "Sentinel cost growth triggers further Nunn-McCurdy scrutiny or program restructuring",
+      "Space Systems growth decelerates as legacy launch and satellite programs wind down",
+      "Multiple compression toward 16–17x forward EPS on earnings or backlog stagnation"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 Earnings — margin recovery and B-21 production progress"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "FY2027 Defense Budget Request and NDAA — strategic-deterrence and Golden Dome funding visibility"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "B-21 Raider low-rate to full-rate production decision"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "Golden Dome missile-defense architecture award decisions"
+    },
+    {
+      "date": "January 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 and Full-Year 2026 Earnings — backlog, FCF, and 2027 guidance"
+    }
+  ],
+  "key_risks": [
+    "Fixed-price development contract cost overruns on B-21, Sentinel, and guided-missile programs",
+    "U.S. defense budget volatility, continuing resolutions, or deficit-driven spending cuts",
+    "Concentration risk with roughly 84% of revenue from the U.S. government",
+    "Sentinel ICBM cost growth and Nunn-McCurdy restructuring execution risk",
+    "Supply-chain inflation and skilled-labor constraints pressuring margins and schedules"
+  ]
+}

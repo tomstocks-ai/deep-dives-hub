@@ -12,6 +12,7 @@ title: Critical Minerals & Strategic Materials
 | <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
 
 | <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](CRML.md) |
+| <tv-ticker-tag symbol="NYSE:MP" hide-background></tv-ticker-tag> | MP Materials Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](MP.md) |
 | <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](FCX.md) |
 | <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources Limited | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](TECK.md) |
 | <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](COPX.md) |
@@ -43,6 +44,16 @@ Pre-revenue rare earth developer whose value hinges on the Tanbreez project in G
 **Bull:** \$16–\$20 · **Base:** \$9–\$12 · **Bear:** \$3–\$4
 
 [:material-arrow-right: Full Deep Dive](CRML.md)
+
+---
+
+**MP — MP Materials Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+MP Materials owns Mountain Pass, the only integrated rare earth mine and processing site in the Western Hemisphere, and is building a domestic "mine-to-magnet" supply chain to challenge China's dominance. The Pentagon is its largest shareholder (a July 2025 partnership set a \$110/kg NdPr price floor, a 10-year magnet offtake, and a \$140M EBITDA guarantee) and Apple committed \$500M for U.S.-made magnets. But MP is still deeply unprofitable (FY2025 net loss \$85.9M, FCF -\$328M) and priced on a magnet ramp that does not commission until 2028 — a powerful thesis with binary execution risk, at a 52-week-low near \$41.
+
+**Bull:** \$70–90 · **Base:** \$52–60 · **Bear:** \$28–36
+
+[:material-arrow-right: Full Deep Dive](MP.md)
 
 ---
 

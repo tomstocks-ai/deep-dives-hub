@@ -11,6 +11,8 @@ title: Defense
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:OSS" hide-background></tv-ticker-tag> | One Stop Systems, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](OSS.md) |
 | <tv-ticker-tag symbol="NYSE:RTX" hide-background></tv-ticker-tag> | RTX Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](RTX.md) |
+| <tv-ticker-tag symbol="NYSE:LMT" hide-background></tv-ticker-tag> | Lockheed Martin Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LMT.md) |
+| <tv-ticker-tag symbol="NYSE:NOC" hide-background></tv-ticker-tag> | Northrop Grumman Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](NOC.md) |
 
 ### Prime Contractors
 
@@ -21,6 +23,26 @@ Top-tier defense prime contractor with a balanced defense/commercial aerospace p
 **Bull:** \$220–\$230 · **Base:** \$195–\$205 · **Bear:** \$160–\$170
 
 [:material-arrow-right: Full Deep Dive](RTX.md)
+
+---
+
+**LMT — Lockheed Martin Corporation · <span class="rating-buy">BUY</span>**
+
+Lockheed Martin is the world's largest pure-play defense prime, anchored by the F-35 franchise and a record \$194B backlog. FY2025 sales rose 6% to \$75.0B with \$6.9B of free cash flow, even as GAAP EPS of \$21.49 absorbed a \$479M pension charge. Surging missile and missile-defense demand, the Golden Dome initiative, and elevated allied budgets underpin durable, government-backed cash flows and a growing ~2.3% dividend. Main risks are heavy U.S. budget dependence, F-35 concentration, and the loss of the F-47 next-gen fighter to Boeing.
+
+**Bull:** \$680–\$720 · **Base:** \$610–\$650 · **Bear:** \$470–\$510
+
+[:material-arrow-right: Full Deep Dive](LMT.md)
+
+---
+
+**NOC — Northrop Grumman Corporation · <span class="rating-buy">BUY</span>**
+
+Northrop Grumman is a top-tier U.S. defense prime with unmatched positions in strategic deterrence — the B-21 Raider bomber and Sentinel ICBM — plus space systems and missile defense. FY2025 revenue rose 2.2% to \$42.0B with EPS of \$29.08 and \$3.3B of free cash flow, backed by a record backlog above \$95B. Rising demand from the Golden Dome missile-defense architecture and NATO rearmament underpins a BUY, with B-21 full-rate production and margin recovery the key upside levers. Main risks are fixed-price program charges (B-21, Sentinel), ~84% U.S.-government revenue concentration, and budget/CR volatility.
+
+**Bull:** \$660–\$700 · **Base:** \$560–\$600 · **Bear:** \$470–\$500
+
+[:material-arrow-right: Full Deep Dive](NOC.md)
 
 ---
 

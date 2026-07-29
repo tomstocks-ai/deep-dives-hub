@@ -13,6 +13,8 @@ title: Biotechnology & Health Technology
 | <tv-ticker-tag symbol="NASDAQ:STAA" hide-background></tv-ticker-tag> | STAAR Surgical | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](STAA.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADPT" hide-background></tv-ticker-tag> | Adaptive Biotechnologies Corporation | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-11 | [:material-file-document: Read](ADPT.md) |
 | <tv-ticker-tag symbol="NYSE:BFLY" hide-background></tv-ticker-tag> | Butterfly Network, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BFLY.md) |
+| <tv-ticker-tag symbol="NYSE:LLY" hide-background></tv-ticker-tag> | Eli Lilly and Company | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LLY.md) |
+| <tv-ticker-tag symbol="NASDAQ:CRSP" hide-background></tv-ticker-tag> | CRISPR Therapeutics AG | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](CRSP.md) |
 
 ---
 
@@ -61,5 +63,29 @@ Pioneer in point-of-care ultrasound (POCUS) with handheld, single-probe, whole-b
 **Bull:** \$12–14 · **Base:** \$8–9 · **Bear:** \$4–5
 
 [:material-arrow-right: Full Deep Dive](BFLY.md)
+
+---
+
+### Pharmaceuticals
+
+**LLY — Eli Lilly and Company · <span class="rating-buy">BUY</span>**
+
+Eli Lilly is the dominant force in the GLP-1 era: its tirzepatide franchise (Mounjaro for diabetes, Zepbound for obesity) is compounding at triple-digit rates, and in April 2026 it launched orforglipron, the first oral small-molecule GLP-1 approved for obesity. TTM revenue reached \$72.25B (+47%) with net income of \$25.28B (+128%) and EPS of \$28.15, lifting the market cap to ~\$1.09T. The pipeline extends the lead with retatrutide (triple agonist, ~56 lbs average weight loss, Q1 2027 filing) and Kisunla in Alzheimer's. At ~\$1,221 the stock trades near the ~\$1,277 consensus (Buy) target at ~34x forward earnings — a premium justified by category leadership, though Novo Nordisk competition/litigation, US drug-pricing policy, and manufacturing execution are the key risks.
+
+**Bull:** \$1,500–\$1,650 · **Base:** \$1,275–\$1,400 · **Bear:** \$850–\$1,000
+
+[:material-arrow-right: Full Deep Dive](LLY.md)
+
+---
+
+### Gene Editing
+
+**CRSP — CRISPR Therapeutics AG · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+CRISPR Therapeutics is the gene-editing pioneer behind Casgevy (exa-cel), the world's first approved CRISPR/Cas9 medicine, commercialized with Vertex (CRSP owns 40% of profits and losses). FY2025 reported revenue was just \$3.5M with a -\$581.6M net loss, but the story is the ~\$2.4B cash pile and a broad, wholly-owned pipeline: in vivo cardiovascular editing (CTX310 ANGPTL3, CTX320 Lp(a)), CAR-T for oncology and autoimmune disease (CTX112), and regenerative medicine for diabetes. Stripping out cash, the market values Casgevy's economics plus the entire pipeline at only ~\$1.9B — attractive for a validated platform, but the slow Casgevy launch, ~\$400M annual burn, and binary readouts keep it speculative. Consensus is a Moderate Buy near \$67.78 versus \$47.55 today.
+
+**Bull:** \$80–\$100 · **Base:** \$55–\$70 · **Bear:** \$25–\$35
+
+[:material-arrow-right: Full Deep Dive](CRSP.md)
 
 ---

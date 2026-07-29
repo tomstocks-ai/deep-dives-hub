@@ -1,0 +1,76 @@
+{
+  "ticker": "ANET",
+  "company": "Arista Networks, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "industry": "Data Center Networking / Ethernet Switching",
+  "exchange": "NYSE",
+  "price": 169.71,
+  "price_date": "2026-07-29",
+  "market_cap": "$214B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Arista is the merchant-silicon leader in high-speed data center Ethernet, riding the AI back-end networking wave as hyperscalers standardize on Ethernet over InfiniBand. FY2025 revenue grew 28.6% to $9.0B with 64% gross margins, ~43% operating margins, and ~$4B free cash flow on a debt-free balance sheet. Q1 2026 accelerated to +35% YoY and management targets $11.5B revenue and $3.5B of AI networking revenue in 2026. At ~58x trailing earnings the multiple is full but supported by durable growth, elite profitability, and a dominant AI-Ethernet position; customer concentration (Microsoft ~26%, Meta ~16%) is the key risk.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$9.01B",
+    "revenue_growth": "+28.6% YoY",
+    "gross_margin": "64.1% (GAAP)",
+    "net_income": "$3.51B (GAAP)",
+    "eps_diluted": "$2.75 (GAAP)",
+    "cash": "~$8.3B (no debt)",
+    "fcf": "~$4.0B"
+  },
+  "bull_case": {
+    "target": "$245–285",
+    "drivers": [
+      "AI back-end networking revenue exceeds the $3.5B 2026 target as Ethernet displaces InfiniBand",
+      "Campus and enterprise expansion diversifies revenue beyond cloud titans",
+      "800G and emerging 1.6T Ethernet cycle drives sustained port and ASP growth",
+      "Operating margins hold above 42% and buybacks compound EPS on ~$4B+ FCF"
+    ]
+  },
+  "base_case": {
+    "target": "$185–215",
+    "assumptions": "Revenue grows ~25–30% to ~$11.5B in 2026 then ~$14B in 2027; gross margins stay 62–64%; operating margins near 42%; the market applies ~48–52x forward earnings on ~$4.00 of 2027 EPS."
+  },
+  "bear_case": {
+    "target": "$120–145",
+    "risks": [
+      "Hyperscaler AI capex digestion cuts orders and compresses the multiple toward 30–35x",
+      "Microsoft or Meta shift spend to white-box or in-house switching, hitting concentrated revenue",
+      "InfiniBand or competing Ethernet fabrics from Nvidia, Cisco and Broadcom-based OEMs erode share",
+      "Gross-margin pressure from mix shift toward large cloud deals and tariff-driven component costs"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — consensus ~$0.89 EPS on ~$2.83B revenue; AI networking progress vs $3.5B target"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 earnings and updated 2027 revenue framework (Street ~$14B)"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "800G Ethernet ramp and initial 1.6T design wins at top hyperscalers"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and full-year 2026 results — confirmation of ~$11.5B revenue and AI mix"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: Microsoft ~26% and Meta ~16% of revenue (~42% combined)",
+    "Valuation: ~58x trailing earnings prices in continued hypergrowth",
+    "AI capex cycle sensitivity — a hyperscaler spending pause would hit orders hard",
+    "Competition from Nvidia (InfiniBand/Spectrum-X), Cisco, and white-box Ethernet",
+    "Gross-margin dilution from concentrated large-cloud deals and component/tariff costs"
+  ]
+}

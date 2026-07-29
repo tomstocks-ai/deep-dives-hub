@@ -1,0 +1,89 @@
+{
+  "ticker": "LMT",
+  "company": "Lockheed Martin Corporation",
+  "sector": "Defense",
+  "theme": "Defense",
+  "sub_theme": "Prime Contractors",
+  "industry": "Defense Prime Contractor / Aerospace and Missiles",
+  "exchange": "NYSE",
+  "price": 581.31,
+  "price_date": "2026-07-29",
+  "market_cap": "$134B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Lockheed Martin is the world's largest pure-play defense prime, anchored by the F-35 franchise and a record $194B backlog. Surging missile and missile-defense demand, the Golden Dome initiative, and elevated U.S. and allied budgets underpin durable growth and strong free cash flow, supporting a BUY rating as margins recover from 2025 charge-related lows.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$75.0B",
+    "revenue_growth": "+6% YoY",
+    "gross_margin": "~11%",
+    "net_income": "$5.0B",
+    "eps_diluted": "$21.49",
+    "cash": "$4.1B",
+    "fcf": "$6.9B"
+  },
+  "bull_case": {
+    "target": "$680–$720",
+    "drivers": [
+      "Golden Dome homeland missile-defense architecture drives multi-year, high-margin awards to Missiles and Fire Control and Space",
+      "Missile production surge (PAC-3, JASSM, LRASM, THAAD, GMLRS) ramps faster than planned as allies replenish stockpiles",
+      "F-35 sustainment and Block 4 / TR-3 upgrades expand a decades-long recurring revenue base",
+      "Segment margins recover toward 11%+ as 2025 pension and program charges roll off",
+      "Multiple re-rates toward 22x+ forward EPS on record backlog visibility and capital returns"
+    ]
+  },
+  "base_case": {
+    "target": "$610–$650",
+    "assumptions": [
+      "Mid-single-digit organic revenue growth with backlog sustained near $190B–$200B",
+      "Segment operating margin normalizes to roughly 10.5%–11% as charges abate",
+      "Free cash flow of $6.5B–$7.5B funds a growing dividend and consistent buybacks",
+      "F-35 deliveries and international demand offset a maturing domestic fighter cycle",
+      "Stock trades at 20x–21x forward EPS, in line with large-cap defense primes"
+    ]
+  },
+  "bear_case": {
+    "target": "$470–$510",
+    "risks": [
+      "U.S. defense budget pressure or continuing resolutions delay procurement and new starts",
+      "F-35 program funding, TR-3 software, or engine-upgrade setbacks reduce deliveries and sentiment",
+      "Loss of next-generation air-dominance share (F-47 awarded to Boeing) limits long-term aeronautics growth",
+      "Fixed-price development cost overruns and further pension or program charges compress margins",
+      "Multiple compression to 16x–17x forward EPS on earnings stagnation or political risk"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "event": "Q3 2026 Earnings — margin recovery and free cash flow trajectory",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "Q4 2026",
+      "event": "Golden Dome architecture awards and missile-defense contract flow",
+      "iso_date": "2026-11"
+    },
+    {
+      "date": "December 2026",
+      "event": "FY2027 Defense Budget Request and NDAA — F-35 and munitions funding visibility",
+      "iso_date": "2026-12"
+    },
+    {
+      "date": "Q4 2026",
+      "event": "F-35 Lot 19–20 production negotiations and delivery cadence updates",
+      "iso_date": "2026-12"
+    },
+    {
+      "date": "Q1 2027",
+      "event": "Q4 and Full Year 2026 Earnings — 2027 guidance and backlog update",
+      "iso_date": "2027-01"
+    }
+  ],
+  "key_risks": [
+    "Heavy dependence on U.S. government funding exposes revenue to budget and political cycles",
+    "F-35 concentration risk — program delays, funding cuts, or upgrade issues weigh on results",
+    "Fixed-price development contracts carry cost-overrun and charge risk",
+    "Export-control and geopolitical restrictions can limit or delay international sales",
+    "Pension and program accounting charges can distort GAAP earnings and margins"
+  ]
+}

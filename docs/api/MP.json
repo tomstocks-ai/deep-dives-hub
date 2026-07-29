@@ -1,0 +1,85 @@
+{
+  "ticker": "MP",
+  "company": "MP Materials Corp.",
+  "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Rare Earths",
+  "industry": "Rare Earth Mining and Magnetics",
+  "exchange": "NYSE",
+  "price": 41.28,
+  "price_date": "2026-07-29",
+  "market_cap": "$7.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "MP Materials owns and operates Mountain Pass, the only integrated rare earth mine and processing site in the Western Hemisphere, and is building a domestic magnet supply chain aimed squarely at the U.S. effort to break China's rare earth dominance. A July 2025 Department of Defense public-private partnership made the Pentagon the largest shareholder and set a $110/kg NdPr price floor plus a 10-year magnet offtake and EBITDA guarantee, while a $500M Apple agreement anchors commercial demand for recycled magnets. The catch: MP is still deeply unprofitable (FY2025 net loss $85.9M, free cash flow -$328M) and the equity is priced on a magnet ramp that does not commission until 2028, so this is a high-conviction thesis with binary execution risk — a SPEC. BUY into a 52-week-low pullback near $41.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$224.4M",
+    "revenue_growth": "+10.1% YoY",
+    "gross_margin": "14.1%",
+    "net_income": "-$85.9M (net loss)",
+    "eps_diluted": "-$0.50",
+    "cash": "$1.83B",
+    "fcf": "-$328M"
+  },
+  "bull_case": {
+    "target": "$70–90",
+    "drivers": [
+      "10X magnet campus in Northlake, Texas commissions on schedule and ramps toward the 10,000 metric ton nameplate, turning MP into a Western magnet supplier at scale",
+      "NdPr prices recover well above the $110/kg DoD floor as ex-China demand from EVs, robotics, defense and AI hardware tightens",
+      "DoD offtake, $140M minimum EBITDA guarantee and the $500M Apple agreement de-risk demand and pull profitability forward",
+      "Government policy tailwinds (tariffs, export controls, reshoring incentives) reward the only U.S. integrated producer",
+      "Analyst high targets prove right — Canaccord $82, Needham $73, Morgan Stanley $71.50 — with consensus average near $79–80"
+    ]
+  },
+  "base_case": {
+    "target": "$52–60",
+    "assumptions": "Rare earth concentrate and NdPr volumes keep growing at a ~40-50% revenue clip off a small base; the DoD price floor and Apple/offtake contracts stabilize demand; 10X construction stays broadly on track for 2028 commissioning; losses narrow but the company stays FCF-negative through the build-out, funded by its ~$1.8B cash pile; the stock re-rates back toward its 50-/200-day moving averages ($56–59) as sentiment stabilizes."
+  },
+  "bear_case": {
+    "target": "$28–36",
+    "risks": [
+      "10X magnet facility slips, runs over its >$1.25B budget, or ramps slowly — pushing the profitability inflection past 2028",
+      "NdPr prices stay weak and China floods supply, leaving MP reliant on the DoD floor and eroding the growth narrative",
+      "Continued heavy cash burn (FY2025 FCF -$328M) forces dilutive equity or debt raises",
+      "The rich valuation (forward P/E ~150x, P/S ~21x) compresses as growth stocks de-rate, driving further downgrades",
+      "Single-site concentration risk at Mountain Pass — any operational or geological setback hits the whole thesis"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 6, 2026",
+      "iso_date": "2026-08-06",
+      "event": "Q2 2026 earnings — NdPr oxide production/sales, Magnetics segment revenue, cash burn and updated 10X timeline"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": null,
+      "event": "10X magnet campus (Northlake, TX) construction and equipment-procurement milestones ahead of 2028 commissioning"
+    },
+    {
+      "date": "2028",
+      "iso_date": "2028",
+      "event": "10X facility commissioning — first large-scale U.S. rare earth magnet output"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "NdPr price relative to the $110/kg DoD floor and ramp of the 10-year DoD magnet offtake"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Apple $500M recycled-magnet deliveries and additional commercial magnet offtake wins"
+    }
+  ],
+  "key_risks": [
+    "Deep unprofitability and cash burn — FY2025 net loss $85.9M, operating margin -89%, free cash flow -$328M; profitability hinges on a magnet ramp that does not commission until 2028",
+    "Extreme valuation — forward P/E ~150x and P/S ~21x price in years of execution; any stumble drives sharp de-rating",
+    "Execution risk on the >$1.25B 10X magnet campus — budget, schedule and ramp all unproven",
+    "Rare earth price volatility and China's dominance of global supply, pricing and processing",
+    "Single-site concentration at Mountain Pass — operational, geological or permitting setbacks hit the entire business",
+    "Policy dependence — the thesis leans heavily on continued DoD support, tariffs and reshoring incentives",
+    "Dilution risk from the DoD convertible preferred and future capital raises to fund the build-out"
+  ]
+}
