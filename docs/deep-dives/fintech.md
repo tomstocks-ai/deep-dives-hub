@@ -14,7 +14,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
-| <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](HOOD.md) |
+| <tv-ticker-tag symbol="NASDAQ:HOOD" hide-background></tv-ticker-tag> | Robinhood Markets, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](HOOD.md) |
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
 | <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
@@ -99,9 +99,9 @@ Largest U.S. crypto exchange with ~55% retail market share and dominant institut
 
 **HOOD — Robinhood Markets, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Robinhood is evolving from a commission-free trading app into a diversified fintech ecosystem. Revenue segments include transaction-based (equities, options, crypto), net interest income, and subscription services (Robinhood Gold). The company recently raised a B convertible note offering (June 2026) to accelerate crypto infrastructure and international expansion into the UK and EU. Gold subscribers are growing rapidly, providing sticky recurring revenue. Crypto revenue has rebounded sharply alongside digital asset price cycles. Regulatory risks remain acute, including an SEC Wells notice and potential PFOF scrutiny. At 03.25, the stock trades at a premium (~25x P/S, ~115x forward P/E) but offers asymmetric upside if crypto and international growth exceed expectations.
+Robinhood reported record Q2 2026 net revenue of \$1.31B (+32% YoY) and EPS \$0.62, beating consensus by ~47%. Transaction revenue jumped 44% YoY, led by a 10x surge in event contracts (\$156M), +29% options (\$342M), and +95% equities (\$129M), while crypto revenue fell 38% YoY. Net interest revenue was ~\$492M and Robinhood Gold subscribers reached 4.8M (+39% YoY). The July 2026 Trump Account launch added >7M signups and nearly \$1.5B in deposits within weeks, while Agentic Trading, the Agentic Credit Card, and Robinhood Legend (>\$100M annualized revenue) expand the product set. The unresolved SEC Wells notice and weaker crypto comps remain the key risks. At \$89.84, the post-earnings valuation is more reasonable than at prior highs.
 
-**Bull:** \$140–\$155 · **Base:** \$95–\$110 · **Bear:** \$60–\$75
+**Bull:** \$120–\$135 · **Base:** \$95–\$110 · **Bear:** \$70–\$80
 
 [:material-arrow-right: Full Deep Dive](HOOD.md)
 
