@@ -261,9 +261,13 @@ class TestFindCatalysts:
             assert _pad_iso_date(r["iso_date"]) <= "2026-09-01"
 
     def test_after_date_excludes_earlier(self):
+        from deep_dives_mcp.server import _pad_iso_date
+        # Every returned catalyst must be on/after the lower bound; nothing earlier.
         results = find_catalysts("2030-01")
-        # No catalysts should be in 2030+ given current data
-        assert results == []
+        for r in results:
+            assert _pad_iso_date(r["iso_date"]) >= "2030-01-01"
+        # A date beyond any tracked catalyst yields nothing.
+        assert find_catalysts("2100-01") == []
 
     def test_year_only_date(self):
         # "2026" should be padded to "2026-01-01"

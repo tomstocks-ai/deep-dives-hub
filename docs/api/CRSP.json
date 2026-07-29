@@ -1,0 +1,80 @@
+{
+  "ticker": "CRSP",
+  "company": "CRISPR Therapeutics AG",
+  "sector": "Health",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Gene Editing",
+  "industry": "Biotechnology / Gene Editing Therapeutics",
+  "exchange": "NASDAQ",
+  "price": 47.55,
+  "price_date": "2026-07-29",
+  "market_cap": "$4.3B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "CRISPR Therapeutics is the gene-editing pioneer behind Casgevy (exa-cel), the world's first approved CRISPR/Cas9 medicine, commercialized with partner Vertex Pharmaceuticals (CRSP owns 40% of profits and losses). With roughly $2.4B in cash and a deep, de-risked pipeline spanning in vivo cardiovascular editing (CTX310/CTX320), CAR-T immuno-oncology and autoimmune programs (CTX112), and regenerative medicine for diabetes, CRSP is a validated platform company. But Casgevy's launch is slow, cash burn runs near $400M a year, and the value depends on binary clinical readouts — a high-conviction but high-uncertainty story best sized as a speculative position.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$3.5M",
+    "revenue_growth": "-91%",
+    "gross_margin": "~100% (nominal)",
+    "net_income": "-$581.6M",
+    "eps_diluted": "-$6.47",
+    "cash": "$1.98B",
+    "fcf": "-$345.9M"
+  },
+  "bull_case": {
+    "target": "$80–$100",
+    "drivers": [
+      "Casgevy commercial ramp accelerates as authorized treatment centers scale globally and ex-US reimbursement broadens, turning CRSP's 40% profit share positive",
+      "In vivo pipeline (CTX310 ANGPTL3, CTX320 Lp(a)) delivers durable, best-in-class LDL and Lp(a) reductions, validating a repeat-dose-free cardiovascular franchise with a multi-billion-dollar TAM",
+      "CTX112 CD19 CAR-T posts strong data in B-cell malignancies and autoimmune disease, and the diabetes and regenerative programs advance — re-rating CRSP from single-product biotech to multi-asset platform"
+    ]
+  },
+  "base_case": {
+    "target": "$55–$70",
+    "assumptions": "Casgevy uptake grows gradually but remains modest through 2026-2027; in vivo and CAR-T programs generate encouraging but not definitive data; CRSP stays pre-profit and continues burning ~$400M a year, funded by its ~$2.4B cash pile. The stock drifts toward the ~$67.78 analyst consensus target as pipeline milestones de-risk the platform."
+  },
+  "bear_case": {
+    "target": "$25–$35",
+    "risks": [
+      "Casgevy commercialization stays slow due to complex ex-vivo logistics, long cell-collection-to-infusion timelines, and payer friction, keeping CRSP's profit share negative",
+      "A clinical setback or safety signal in the in vivo or CAR-T pipeline resets platform expectations",
+      "Persistent ~$400M annual cash burn eventually forces a dilutive raise, pressuring the share count and price"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings (August 2026)",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 results — Casgevy patient starts, authorized treatment center activations, and cash-burn trajectory"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-12",
+      "event": "Clinical data updates for in vivo programs CTX310 (ANGPTL3) and CTX320 (Lp(a)) targeting cardiovascular disease"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "CTX112 (CD19 CAR-T) data readouts in B-cell malignancies and autoimmune indications"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": "2026",
+      "event": "Casgevy label and geographic expansion — additional treatment centers and ex-US reimbursement milestones with Vertex"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Progress in regenerative medicine, including CTX211/VCTX-series programs for type 1 diabetes"
+    }
+  ],
+  "key_risks": [
+    "Slow Casgevy commercial ramp given ex-vivo cell-therapy complexity, long vein-to-vein times, and payer reimbursement friction",
+    "Binary clinical risk across the in vivo (CTX310/CTX320) and CAR-T (CTX112) pipeline — a single failure can reset the thesis",
+    "High cash burn (~$400M/year) and no near-term path to profitability, raising eventual dilution risk despite ~$2.4B cash",
+    "Dependence on Vertex partnership economics for Casgevy (CRSP holds only 40% of profits and losses)",
+    "High short interest (~22% of float) and biotech sector rate sensitivity amplify volatility",
+    "Competition in gene editing (Intellia, Beam, base/prime editing) and in cardiovascular RNA/gene therapies"
+  ]
+}

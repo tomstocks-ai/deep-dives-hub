@@ -20,6 +20,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
 | <tv-ticker-tag symbol="NYSE:RY" hide-background></tv-ticker-tag> | Royal Bank of Canada | <span class="rating-hold">HOLD</span> | 2026-07-13 | [:material-file-document: Read](RY.md) |
 | <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
+| <tv-ticker-tag symbol="NYSE:V" hide-background></tv-ticker-tag> | Visa Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](V.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -115,6 +116,16 @@ NCR Voyix is a fintech and digital payments company spun out from NCR Corporatio
 **Bull:** \$8–\$9 · **Base:** \$6–\$7 · **Bear:** \$4–\$5
 
 [:material-arrow-right: Full Deep Dive](VYX.md)
+
+---
+
+**V — Visa Inc. · <span class="rating-buy">BUY</span>**
+
+Visa operates the world's largest electronic payments network (VisaNet), a capital-light, wide-moat toll-road on global spending that bears no credit risk and earns a fee on every transaction. FY2025 delivered \$40.0B revenue (+11.3%), \$19.85B net income (~50% net margin), and ~\$18.7B free cash flow, and fiscal Q3 2026 beat with revenue +14% and adjusted EPS \$3.32. New rails — Visa Direct, B2B, and stablecoin settlement — extend the runway, with the main debate being a premium ~25x forward multiple near all-time highs. At \$366.59 the base case sits above the current price and analysts hold a Strong Buy consensus (~\$406 target); the primary risk is multiple compression or long-term disintermediation and interchange regulation.
+
+**Bull:** \$430–\$470 · **Base:** \$390–\$420 · **Bear:** \$300–\$330
+
+[:material-arrow-right: Full Deep Dive](V.md)
 
 ---
 ### Consumer Finance

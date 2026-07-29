@@ -1,0 +1,85 @@
+{
+  "ticker": "SMCI",
+  "company": "Super Micro Computer, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Data Center Infrastructure",
+  "industry": "Computer Hardware / AI Server and Storage Solutions",
+  "exchange": "NASDAQ",
+  "price": 28.45,
+  "price_date": "2026-07-29",
+  "market_cap": "$18.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Super Micro Computer is a SPEC. BUY: a fast-growing, application-optimized AI server maker trading at a deep discount to peers (~15x trailing, ~8x forward P/E) on the back of a record ~$60B order backlog and trailing-twelve-month revenue of ~$33.7B (+56% YoY). The bull thesis rests on Supermicro's first-mover lead in direct-liquid-cooled (DLC) rack-scale systems, its tight NVIDIA and AMD partnerships, and management's guidance to roughly double gross margins from a depressed ~11% base. The 'SPEC.' qualifier is deliberate and material: SMCI carries a documented history of accounting and SEC-filing failures (2018 delisting, 2024 Hindenburg allegations, Ernst & Young resignation, and a near-miss Nasdaq delisting), razor-thin margins, chronically negative free cash flow, and a fresh 2026 Taiwan/China export-control probe. Positive risk/reward for risk-tolerant investors, but the binary governance and legal overhangs keep this out of high-conviction BUY territory.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended June 2025)",
+    "revenue": "$21.97B",
+    "revenue_growth": "+47% YoY",
+    "gross_margin": "~11%",
+    "net_income": "$1.05B",
+    "eps_diluted": "$1.62",
+    "cash": "~$3.5B",
+    "fcf": "-$2.5B (working-capital drag)"
+  },
+  "bull_case": {
+    "target": "$55–65",
+    "drivers": [
+      "Record ~$60B backlog converts to revenue as NVIDIA Blackwell/GB300 and next-gen GPU platforms ramp, driving 40%+ revenue growth into FY2027",
+      "Gross margin roughly doubles off the depressed ~11% base as higher-value DLC rack-scale systems and better component pricing improve mix",
+      "Supermicro's direct-liquid-cooling first-mover lead and design-cycle speed capture disproportionate share of GPU-dense data-center deployments",
+      "Clean audits and uneventful filings under new auditor BDO gradually restore an institutional-quality governance premium and multiple re-rating",
+      "Forward P/E of ~8x re-rates toward peers (Dell, HPE) as the market gains confidence in earnings durability"
+    ]
+  },
+  "base_case": {
+    "target": "$35–42",
+    "assumptions": "Revenue growth moderates from the ~56% TTM pace toward 25–35% as the AI-server market normalizes; gross margin recovers modestly toward 12–13% but not the guided doubling; Supermicro holds a top-tier but pressured position against Dell and HPE; the China/Taiwan export probe resolves without a material fine or restatement; forward P/E holds around 10–12x. Aligns with the ~$37.81 analyst consensus target."
+  },
+  "bear_case": {
+    "target": "$15–20",
+    "risks": [
+      "Gross margin stays compressed near single digits as Dell and HPE undercut pricing in commoditized GPU servers",
+      "Chronic negative free cash flow forces further dilutive convertible or equity raises to fund AI-server working capital",
+      "The Taiwan/China export-control probe escalates into fines, restrictions, or a criminal enforcement action against the company",
+      "Any new accounting, filing, or internal-control issue revives delisting risk and destroys the fragile governance recovery",
+      "AI capex digestion or a shift to hyperscaler custom silicon collapses backlog conversion and revenue growth"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 11, 2026",
+      "iso_date": "2026-08-11",
+      "event": "Q4 and full-year FY2026 earnings — confirmation of the preliminary update, record backlog detail, and gross-margin recovery trajectory"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "Resolution or escalation of the Taiwan/China export-control probe into alleged illegal shipment of Supermicro AI servers to China"
+    },
+    {
+      "date": "September 2026",
+      "iso_date": "2026-09",
+      "event": "Ramp of the new H15 server portfolio built on 6th-gen AMD EPYC 9006 CPUs and AMD Instinct GPUs"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "NVIDIA Blackwell/GB300 and next-gen GPU platform availability driving direct-liquid-cooled rack-scale system shipments"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": "2027",
+      "event": "Evidence of sustained gross-margin recovery toward management's guided doubling, and clean audits under new auditor BDO"
+    }
+  ],
+  "key_risks": [
+    "History of accounting and SEC-filing failures — 2018 Nasdaq delisting, 2024 Hindenburg allegations of accounting manipulation and self-dealing, Ernst & Young resignation, and a near-miss Nasdaq delisting resolved only in February 2025",
+    "Razor-thin gross margins (~11%) that leave little cushion against pricing pressure or component cost swings",
+    "Chronically negative free cash flow driven by inventory and working-capital needs to fund AI-server growth, creating reliance on debt and convertible financing",
+    "2026 Taiwan/China export-control probe into alleged illegal exports of Supermicro AI servers to China, with legal and reputational tail risk",
+    "Intense competition from Dell, HPE, and Lenovo in an increasingly commoditized AI-server market",
+    "Customer concentration in a small number of large AI/hyperscale buyers",
+    "High valuation sensitivity and beta (~1.9) — the stock swings violently on backlog updates, analyst target changes, and headline risk"
+  ]
+}

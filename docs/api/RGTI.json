@@ -1,0 +1,81 @@
+{
+  "ticker": "RGTI",
+  "company": "Rigetti Computing, Inc.",
+  "sector": "Technology",
+  "industry": "Quantum Computing / Superconducting Quantum Processors",
+  "exchange": "NASDAQ",
+  "price": 14.52,
+  "price_date": "2026-07-29",
+  "market_cap": "$4.83B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Rigetti is a full-stack superconducting quantum computing pure-play building quantum processing units (QPUs) and selling access through quantum-computing-as-a-service and on-premises Novera systems. The investment case rests on an unusually strong balance sheet — roughly $590M in cash and investments with no debt — that funds a multi-year roadmap toward 100+ qubit modular chiplet systems and 1,000+ qubits, layered on top of powerful government tailwinds: a letter of intent with the U.S. Department of Commerce for an award of up to $100M, a Trump executive-order push for quantum, and a Benchmark-projected ~$1.5B industry revenue in 2026. The counterweight is extreme: FY2025 revenue was just $7.1M (down 34% YoY) against a ~$4.83B market cap, GAAP net loss was $216.2M, and the stock has round-tripped from a $58 high to near $14, leaving a high-beta, binary, milestone-driven speculation where the cash runway and analyst Buy consensus (avg target ~$30) offset commercialization and dilution risk.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$7.1M",
+    "revenue_growth": "-34.3%",
+    "gross_margin": "~45%",
+    "net_income": "($216.2M) GAAP / ($50.5M) non-GAAP",
+    "eps_diluted": "($0.86) TTM",
+    "cash": "~$590M (cash + investments, no debt)",
+    "fcf": "~($60M)"
+  },
+  "bull_case": {
+    "target": "$30–$45",
+    "drivers": [
+      "Modular chiplet roadmap delivers 100+ qubit systems with improving two-qubit fidelity, re-rating the stock toward prior highs",
+      "U.S. Department of Commerce award (LOI up to $100M) and DARPA/DoD contracts convert into scaling government revenue",
+      "Quantum reaches a commercial 'tipping point' — Benchmark projects ~$1.5B industry revenue in 2026 — lifting the whole superconducting cohort",
+      "On-premises Novera deployments (HPE / Pittsburgh Supercomputing Center TangleLab) and cloud QCaaS build a recurring revenue base"
+    ]
+  },
+  "base_case": {
+    "target": "$18–$25",
+    "assumptions": "Revenue reaccelerates off the $7.1M FY2025 trough as Novera system sales and government programs ramp; the ~$590M cash pile funds the roadmap without a near-term dilutive raise; analyst Buy consensus (avg ~$30 target) holds; the stock stabilizes above its $12.53 52-week low as the sector's post-rally volatility settles; path to non-GAAP breakeven remains multi-year."
+  },
+  "bear_case": {
+    "target": "$6–$10",
+    "risks": [
+      "A 'quantum winter' compresses sector multiples and RGTI re-rates toward pre-rally levels on its ~$7M revenue base",
+      "Roadmap milestones (100+ qubit chiplet systems, fidelity targets) slip, damaging credibility",
+      "ATM/equity raises and potential government equity stakes add persistent share supply and dilution",
+      "Competing modalities — trapped ion (IonQ), neutral atom (Infleqtion), annealing (D-Wave) — reach commercial scale first"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 6, 2026",
+      "iso_date": "2026-08-06",
+      "event": "Q2 2026 earnings and conference call — first read on post-rally momentum, cash burn, and government-program traction"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Finalization of the U.S. Department of Commerce award (LOI up to $100M) and additional DARPA/DoD contracts"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "HPE and Pittsburgh Supercomputing Center 'TangleLab' hybrid quantum-classical testbed — 9-qubit Novera delivery and expansion"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "Modular chiplet system milestones (100+ qubit architecture, fidelity improvements) on the roadmap to 1,000+ qubits"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Next-generation system releases and commercial QCaaS / on-premises revenue scaling"
+    }
+  ],
+  "key_risks": [
+    "Extreme valuation: ~$4.83B market cap on just $7.1M FY2025 revenue, which fell 34% year over year",
+    "Pre-profitability with a FY2025 GAAP net loss of $216.2M (non-GAAP $50.5M) and continued cash burn despite ~$590M of liquidity",
+    "Quantum commercialization timeline is uncertain; superconducting must out-execute trapped-ion, neutral-atom, and annealing rivals",
+    "High beta (~1.96) and severe sector volatility — the stock has round-tripped from a $58.15 high to near its $12.53 52-week low",
+    "Dilution risk from at-the-market equity sales and potential government equity stakes tied to funding awards"
+  ],
+  "theme": "Quantum Computing",
+  "sub_theme": "Pure Plays"
+}

@@ -1,0 +1,64 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Semiconductor Lithography Equipment (EUV / DUV)",
+  "exchange": "NASDAQ",
+  "price": 1582.95,
+  "price_date": "2026-07-29",
+  "market_cap": "~$610B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "ASML is the world's sole supplier of extreme-ultraviolet (EUV) lithography, the single most critical and un-substitutable tool for manufacturing the leading-edge logic and memory chips that power AI — a true monopoly at the base of the entire AI hardware stack. FY2025 was a record (net sales €32.7B, +15.6%, net income €9.6B) and momentum has accelerated: after a strong Q2 2026 (€9.3B sales, €2.9B net income), management raised its 2026 outlook to €43-45B on a step-up in customers' medium-term AI capacity plans, backed by a €38.8B backlog. The ADR has pulled back roughly 21% from its ~$2,000 high to ~$1,583, leaving a ~32x forward multiple on a 30%-plus grower with an unassailable moat — attractive for a franchise of this quality, hence BUY. The main risks are cyclicality (2026 is a strong EUV year; 2027 could digest), China export controls, and a rich absolute valuation near historic highs.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "€32.7B",
+    "revenue_growth": "+15.6%",
+    "gross_margin": "52.8%",
+    "net_income": "€9.6B",
+    "eps_diluted": "€24.73 (basic)",
+    "cash": "€13.3B (cash and short-term investments)",
+    "fcf": "~€9B (lumpy on customer prepayment timing)"
+  },
+  "bull_case": {
+    "target": "$2,200–$2,500",
+    "drivers": [
+      "The AI-driven EUV super-cycle proves structural: leading-edge logic (2nm / A16-class) and HBM/advanced-DRAM buildouts drive record EUV shipments through 2027 and beyond",
+      "High-NA EUV (EXE-series) ramps to volume with strong customer adoption, lifting per-tool ASP and expanding ASML's served market",
+      "The company advances toward its 2024 Investor Day 2030 model of €44–60B revenue at 56–60% gross margin ahead of schedule",
+      "High-margin Installed Base Management (service and upgrades) revenue compounds off ~€8.2B in 2025, adding a durable recurring layer",
+      "The €12B buyback (through 2028) and a rising dividend support the premium multiple as EPS compounds"
+    ]
+  },
+  "base_case": {
+    "target": "$1,850–$2,100",
+    "assumptions": "ASML delivers FY2026 within its raised €43–45B guidance at 54–56% gross margin, then grows more modestly in 2027 as the initial AI-driven EUV build digests. The forward multiple holds around 30–33x on a durable monopoly with a €38.8B backlog, and the ADR drifts toward the ~$1,970–$2,120 analyst consensus over the next year."
+  },
+  "bear_case": {
+    "target": "$1,050–$1,300",
+    "risks": [
+      "AI capex digestion in 2027 stalls EUV order growth and the semiconductor-equipment cycle rolls over from a 2026 peak",
+      "Tightened US/Dutch export controls and a sharp normalization of elevated China DUV revenue cut sales and bookings",
+      "The premium ~32x forward / ~50x trailing multiple compresses toward the historical low-20s on any growth wobble",
+      "Customer concentration and order lumpiness (TSMC, Samsung, Intel, SK Hynix, Micron) drive a downside surprise in bookings",
+      "A broad AI-trade de-rating hits a high-beta (~1.4) name that remains up more than 2x off its 52-week low"
+    ]
+  },
+  "catalysts": [
+    {"date": "October 2026", "iso_date": "2026-10", "event": "Q3 2026 results — EUV and High-NA order momentum and early read on 2027 demand"},
+    {"date": "Q4 / FY2026 results (late January 2027)", "iso_date": "2027-01", "event": "FY2026 results and initial 2027 outlook — the key test of whether AI-driven EUV demand extends beyond the 2026 growth year"},
+    {"date": "2026", "iso_date": "2026", "event": "High-NA EUV (EXE-series) volume ramp and additional customer adoption for sub-2nm logic and advanced DRAM"},
+    {"date": "2026–2027", "iso_date": "2026", "event": "China export-control and tariff developments and normalization of elevated China DUV revenue"},
+    {"date": "2030 (model)", "iso_date": "2030", "event": "Progress toward the 2024 Investor Day 2030 model of €44–60B revenue at 56–60% gross margin"}
+  ],
+  "key_risks": [
+    "Cyclicality: semiconductor capital equipment is historically boom-bust; 2026 is a strong EUV year and 2027 could digest, pressuring orders and earnings",
+    "China exposure and export controls: US/Dutch restrictions on advanced-tool sales and a normalization of elevated China DUV revenue can cut sales and bookings",
+    "Customer concentration: a handful of leading-edge foundry and memory customers (TSMC, Samsung, Intel, SK Hynix, Micron) drive EUV demand, making orders lumpy",
+    "Valuation: ~50x trailing and ~32x forward earnings, near 52-week highs, leave little room for disappointment",
+    "High-NA adoption risk: the EXE-series is very expensive and its adoption pace and economics are unproven at volume",
+    "Macro and geopolitical: tariffs, EUR/USD swings, and a broad AI-capex de-rating can hit a high-beta (~1.4) name still up more than 2x off its lows"
+  ]
+}

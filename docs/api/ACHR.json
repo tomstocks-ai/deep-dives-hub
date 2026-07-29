@@ -1,0 +1,87 @@
+{
+  "ticker": "ACHR",
+  "company": "Archer Aviation Inc.",
+  "sector": "Industrials",
+  "theme": "eVTOL",
+  "sub_theme": "Advanced Air Mobility",
+  "industry": "Aerospace / Electric Vertical Takeoff and Landing (eVTOL)",
+  "exchange": "NYSE",
+  "price": 4.82,
+  "price_date": "2026-07-29",
+  "market_cap": "$3.66B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Archer Aviation is a pre-revenue eVTOL developer racing to commercialize its four-passenger Midnight air taxi. The bull case rests on a fortress balance sheet — roughly $1.8B in Q1 2026 liquidity against under $100M of debt — that funds FAA type certification, an initial US launch under the eVTOL Integration Pilot Program, a UAE/Abu Dhabi program, official LA28 Olympics air-taxi status, and an expanding defense franchise anchored by the Anduril partnership. The counterweight is stark: FY2025 net loss of $618.2M, an adjusted EBITDA loss of $481.8M, no meaningful commercial revenue yet, and binary certification and dilution risk. With shares near $4.82 versus a ~$10.5 analyst average target, ACHR is a high-conviction, high-uncertainty speculative buy for risk-tolerant investors.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "Negligible (pre-commercial revenue)",
+    "revenue_growth": "N/M (pre-revenue)",
+    "gross_margin": "N/M (pre-revenue)",
+    "net_income": "($618.2M)",
+    "eps_diluted": "(~$1.10)",
+    "cash": "$2.0B (end FY2025); ~$1.8B liquidity at Q1 2026",
+    "fcf": "(~$480M)"
+  },
+  "bull_case": {
+    "target": "$12–$16",
+    "drivers": [
+      "FAA type certification of Midnight achieved and initial US commercial operations launch on schedule",
+      "UAE/Abu Dhabi program and official LA28 Olympics air-taxi status convert into visible, revenue-generating routes",
+      "Anduril defense partnership scales into material hybrid-aircraft and program-of-record contracts",
+      "$1.8B liquidity carries the company to commercialization without a heavily dilutive raise, driving a re-rating toward analyst targets"
+    ]
+  },
+  "base_case": {
+    "target": "$7–$9",
+    "assumptions": "Certification progresses with typical eVTOL slippage; initial operations begin at limited scale in 2026-2027; defense and software initiatives add optionality; cash burn stays within guidance and liquidity funds the ramp; the stock re-rates toward the lower end of the ~$10.5 analyst average as milestones de-risk the story"
+  },
+  "bear_case": {
+    "target": "$2–$3",
+    "risks": [
+      "FAA certification slips materially, pushing commercial revenue years out",
+      "Adjusted EBITDA losses of $170M-$200M per quarter force dilutive capital raises that erode the share count",
+      "eVTOL sector sentiment sours or a competitor (Joby) reaches commercial operations first",
+      "Execution missteps in manufacturing scale-up or the UAE/US pilot programs undermine the commercialization narrative"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings — certification progress update and confirmation of adjusted EBITDA loss guidance ($170M-$200M)"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "Initial US air-taxi operations under the FAA eVTOL Integration Pilot Program"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "FAA type certification milestones for the Midnight aircraft"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "UAE/Abu Dhabi air-taxi program launch progress"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Anduril defense partnership — hybrid aircraft development and defense contract awards"
+    },
+    {
+      "date": "2028",
+      "iso_date": "2028",
+      "event": "LA28 Olympics official air-taxi provider service window"
+    }
+  ],
+  "key_risks": [
+    "Pre-revenue with FY2025 net loss of ($618.2M) and adjusted EBITDA loss of ($481.8M); multi-year path to profitability",
+    "FAA type certification is the binary gating event; delays would push commercialization and revenue materially further out",
+    "Quarterly adjusted EBITDA losses of $170M-$200M mean continued cash burn and likely future dilution despite ~$1.8B liquidity",
+    "Intense competition, especially from Joby Aviation, in a nascent and unproven air-mobility market",
+    "Execution risk in scaling manufacturing and standing up US and UAE pilot programs simultaneously",
+    "Sector sentiment and macro risk: eVTOL valuations are volatile and sensitive to funding conditions and regulatory tone"
+  ]
+}

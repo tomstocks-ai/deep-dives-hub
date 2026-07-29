@@ -40,6 +40,7 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](AEHR.md) |
 | <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
+| <tv-ticker-tag symbol="NASDAQ:ASML" hide-background></tv-ticker-tag> | ASML Holding N.V. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](ASML.md) |
 
 ---
 
@@ -60,6 +61,16 @@ The world's leading supplier of automated test equipment (ATE) for semiconductor
 **Bull:** \$500–560 · **Base:** \$400–450 · **Bear:** \$200–260
 
 [:material-arrow-right: Full Deep Dive](TER.md)
+
+---
+
+**ASML — ASML Holding N.V. · <span class="rating-buy">BUY</span>**
+
+ASML is the world's sole supplier of EUV lithography — the one un-substitutable tool for making the leading-edge logic and memory chips that power AI, and a true monopoly at the base of the AI hardware stack. FY2025 was a record (net sales €32.7B, +15.6%, net income €9.6B) and momentum has accelerated: after a strong Q2 2026 (€9.3B sales, €2.9B net income) management raised 2026 guidance to €43–45B, backed by a €38.8B backlog. After a ~21% pullback from its ~\$2,000 high to ~\$1,583, the ADR trades at ~32x forward earnings — attractive for a 30%-plus grower of this quality. Main risks: cyclicality (2026 strong, 2027 could digest), China export controls, and a rich valuation near record highs.
+
+**Bull:** \$2,200–\$2,500 · **Base:** \$1,850–\$2,100 · **Bear:** \$1,050–\$1,300
+
+[:material-arrow-right: Full Deep Dive](ASML.md)
 
 ---
 
@@ -92,6 +103,7 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 | <tv-ticker-tag symbol="NASDAQ:AVGO" hide-background></tv-ticker-tag> | Broadcom Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](AVGO.md) |
 | <tv-ticker-tag symbol="NYSE:NOK" hide-background></tv-ticker-tag> | Nokia Corporation | <span class="rating-hold">HOLD</span> | 2026-06-21 | [:material-file-document: Read](NOK.md) |
 | <tv-ticker-tag symbol="NYSE:GLW" hide-background></tv-ticker-tag> | Corning Incorporated | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](GLW.md) |
+| <tv-ticker-tag symbol="NYSE:ANET" hide-background></tv-ticker-tag> | Arista Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](ANET.md) |
 
 
 **GLW — Corning Incorporated · <span class="rating-buy">BUY</span>**
@@ -174,6 +186,16 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 ---
 
+**ANET — Arista Networks, Inc. · <span class="rating-buy">BUY</span>**
+
+Arista is the merchant-silicon leader in high-speed data center Ethernet and a prime beneficiary of AI back-end networking as hyperscalers standardize on Ethernet over InfiniBand. FY2025 revenue grew 28.6% to \$9.0B with 64% gross margins, ~43% operating margins, and ~\$4B free cash flow on a debt-free balance sheet; Q1 2026 accelerated to +35% YoY and management targets \$11.5B revenue with \$3.5B of AI networking revenue in 2026. At ~58x trailing earnings the multiple is full but supported by durable growth and elite profitability. The key risk is customer concentration (Microsoft ~26%, Meta ~16%).
+
+**Bull:** \$245–285 · **Base:** \$185–215 · **Bear:** \$120–145
+
+[:material-arrow-right: Full Deep Dive](ANET.md)
+
+---
+
 ## AI Compute
 
 || Ticker | Company | Rating | Last Updated | Full DD |
@@ -183,6 +205,7 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 | <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
+| <tv-ticker-tag symbol="NYSE:TSM" hide-background></tv-ticker-tag> | Taiwan Semiconductor Manufacturing Company Limited | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](TSM.md) |
 
 ---
 
@@ -232,6 +255,16 @@ Historic turnaround under new CEO Lip-Bu Tan, seeking to restore manufacturing c
 **Bull:** \$160–180 · **Base:** \$110–130 · **Bear:** \$60–80
 
 [:material-arrow-right: Full Deep Dive](INTC.md)
+
+---
+
+**TSM — Taiwan Semiconductor Manufacturing Company Limited · <span class="rating-buy">BUY</span>**
+
+TSMC is the world's dominant pure-play foundry and the indispensable manufacturing chokepoint of the AI buildout, fabricating the leading-edge chips behind NVIDIA, AMD, Apple, and every hyperscaler ASIC program. With >60% foundry share, a one-to-two-node lead, and control of scarce CoWoS advanced packaging, FY2025 revenue reached ~\$118B (+34%) at ~59% gross margins. At ~\$392 (~33x forward), the premium is defensible and consensus is Strong Buy (~\$537 avg target), with concentrated Taiwan geopolitical risk the dominant offset.
+
+**Bull:** \$520–560 · **Base:** \$450–490 · **Bear:** \$300–340
+
+[:material-arrow-right: Full Deep Dive](TSM.md)
 
 
 ## Memory & Storage
@@ -317,6 +350,8 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
+| <tv-ticker-tag symbol="NASDAQ:SMCI" hide-background></tv-ticker-tag> | Super Micro Computer, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](SMCI.md) |
+| <tv-ticker-tag symbol="NYSE:VRT" hide-background></tv-ticker-tag> | Vertiv Holdings Co | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](VRT.md) |
 
 ---
 
@@ -350,6 +385,26 @@ Leading global technology infrastructure company and top-three server vendor exp
 **Bull:** \$500–520 · **Base:** \$420–460 · **Bear:** \$280–320
 
 [:material-arrow-right: Full Deep Dive](DELL.md)
+
+---
+
+**SMCI — Super Micro Computer, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Super Micro Computer builds application-optimized AI servers and is a leader in direct-liquid-cooled rack-scale systems, growing TTM revenue ~56% to ~\$33.7B on a record ~\$60B backlog. At ~8x forward earnings it is the cheapest AI-hardware name on the board, but the discount reflects genuine risk: razor-thin ~11% margins, negative free cash flow, a documented history of accounting and filing failures (2024 Hindenburg allegations, auditor resignation, near-miss Nasdaq delisting), and a fresh 2026 Taiwan/China export-control probe. Positive risk/reward for the risk-tolerant, but the binary governance and legal overhangs keep it a speculative buy, not a core holding.
+
+**Bull:** \$55–65 · **Base:** \$35–42 · **Bear:** \$15–20
+
+[:material-arrow-right: Full Deep Dive](SMCI.md)
+
+---
+
+**VRT — Vertiv Holdings Co · <span class="rating-buy">BUY</span>**
+
+Vertiv is the closest large-cap pure-play on the physical layer of the AI data center buildout — power management, thermal/liquid cooling, and integrated modular infrastructure. FY2025 revenue grew ~28% to \$10.23B and net income jumped ~169% to \$1.33B as hyperscalers and neoclouds deploy dense GPU racks that require Vertiv's liquid cooling and power distribution. The stock is richly valued (~68x trailing, ~40x forward P/E) and volatile (beta ~2.0), but the multi-year secular demand and Strong Buy consensus (avg target ~\$376) support a BUY. Primary risk is a rich multiple colliding with any AI-capex deceleration.
+
+**Bull:** \$400–440 · **Base:** \$340–380 · **Bear:** \$200–230
+
+[:material-arrow-right: Full Deep Dive](VRT.md)
 
 ---
 ### Electrical Contractors

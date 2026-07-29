@@ -1,0 +1,82 @@
+{
+  "ticker": "JOBY",
+  "company": "Joby Aviation, Inc.",
+  "sector": "Industrials",
+  "theme": "eVTOL",
+  "sub_theme": "Advanced Air Mobility",
+  "industry": "eVTOL Aircraft Manufacturing / Air Mobility",
+  "exchange": "NYSE",
+  "price": 7.27,
+  "price_date": "2026-07-29",
+  "market_cap": "$7.15B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Joby Aviation is the best-capitalized pure-play in electric vertical takeoff and landing (eVTOL) air taxis, targeting commercial passenger service as it works through the final stages of FAA type certification. A ~$2.5B cash and short-term investment war chest (Q1 2026), a deepening Toyota manufacturing joint venture, a finalized Virgin Atlantic UK partnership, the Blade passenger-mobility acquisition, and a planned Dubai launch give it a credible path to first revenue that most competitors lack. The counterweight is a pre-commercial business burning ~$500M a year, a binary dependence on FAA certification timing, and heavy dilution risk — the stock trades near its 52-week low of $6.89 despite the news flow.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$53.43M",
+    "revenue_growth": "+39,183% (Blade acquisition)",
+    "gross_margin": "N/A (pre-commercial)",
+    "net_income": "($929.84M)",
+    "eps_diluted": "($1.10) TTM",
+    "cash": "~$2.5B (cash + short-term investments, Q1 2026)",
+    "fcf": "~($480M)"
+  },
+  "bull_case": {
+    "target": "$18–$25",
+    "drivers": [
+      "FAA type certification achieved on schedule, unlocking U.S. commercial passenger service",
+      "Dubai commercial launch with RTA proves the operating model and generates first meaningful air-taxi revenue",
+      "Toyota manufacturing joint venture scales S4 production toward hundreds of aircraft per year",
+      "Virgin Atlantic UK and Japan/Korea partnerships open multiple international markets ahead of peers"
+    ]
+  },
+  "base_case": {
+    "target": "$10–$13",
+    "assumptions": "Certification and commercial launch slip modestly but stay on track into 2027; Dubai and early U.S. routes ramp slowly; Blade contributes near-term revenue; the ~$2.5B balance sheet funds the path to commercialization with periodic, manageable dilution; the stock re-rates toward the ~$11 analyst consensus target"
+  },
+  "bear_case": {
+    "target": "$4–$6",
+    "risks": [
+      "FAA certification delays push commercial service out multiple years and erode investor patience",
+      "Persistent ~$500M annual cash burn forces large, dilutive equity raises",
+      "Manufacturing scale-up or supply-chain issues delay production ramp",
+      "eVTOL sector sentiment sours and unit economics or demand disappoint at launch"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 5, 2026",
+      "iso_date": "2026-08-05",
+      "event": "Q2 2026 earnings — cash burn, certification progress, and Toyota JV / Blade updates"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "FAA type certification flight-testing milestones (final stages)"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Dubai commercial air-taxi launch with the Road and Transport Authority"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Toyota manufacturing joint venture production scale-up of the S4 aircraft"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Targeted U.S. commercial passenger service launch pending certification"
+    }
+  ],
+  "key_risks": [
+    "Binary FAA type-certification risk — timing is uncertain and commercial revenue is gated on it",
+    "Pre-commercial with ~$500M annual cash burn and a multi-year path to profitability; future raises would be dilutive",
+    "Roughly 984M shares outstanding and a history of equity issuance create ongoing dilution overhang",
+    "Manufacturing and supply-chain execution risk as the Toyota JV scales S4 production",
+    "eVTOL demand, unit economics, and infrastructure (vertiports, charging) remain unproven at commercial scale",
+    "High volatility (beta ~2.7) and sector-sentiment swings; stock trades near its 52-week low"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "TSM",
+  "company": "Taiwan Semiconductor Manufacturing Company Limited",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "industry": "Semiconductors / Foundry",
+  "exchange": "NYSE",
+  "price": 392.31,
+  "price_date": "2026-07-29",
+  "market_cap": "~$2.0T",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "TSMC is the world's dominant pure-play semiconductor foundry, manufacturing the leading-edge chips that power the entire AI buildout — including NVIDIA GPUs, AMD accelerators, Apple silicon, and hyperscaler custom ASICs. With >60% global foundry share and a near-monopoly on advanced (3nm/2nm) nodes and CoWoS advanced packaging, TSMC is the indispensable chokepoint of AI compute. FY2025 revenue of ~$118B (+34% YoY) with ~59% gross margins reflects surging high-performance-computing demand. At ~$392 (ADR) and ~43x trailing / ~33x forward earnings, the premium is supported by pricing power, an unmatched technology lead, and structurally rising AI capex; the dominant offset is concentrated geopolitical (Taiwan/China) risk.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Dec 2025)",
+    "revenue": "$118B",
+    "revenue_growth": "+34%",
+    "gross_margin": "~59%",
+    "net_income": "$48B",
+    "eps_diluted": "$9.20",
+    "cash": "~$75B",
+    "fcf": "~$28B"
+  },
+  "bull_case": {
+    "target": "$520–560",
+    "drivers": [
+      "AI/HPC demand keeps 3nm and 2nm nodes sold out; N2 ramp in 2026 commands premium pricing and lifts blended ASPs",
+      "CoWoS advanced-packaging capacity doubles again, easing the AI accelerator bottleneck and capturing more value per wafer",
+      "Gross margins expand toward 60%+ on node mix, utilization, and pricing power despite overseas fab cost drag",
+      "Arizona and Japan fabs de-risk the geopolitical discount, prompting a multiple re-rating toward global mega-cap tech peers"
+    ]
+  },
+  "base_case": {
+    "target": "$450–490",
+    "assumptions": "HPC/AI revenue continues to grow 30%+ and becomes the largest segment; gross margins hold in the high-50s%; capex stays elevated (~$40B/yr); FY2026 revenue grows ~25% with ADR EPS of ~$11–12; the stock trades at ~30–33x forward earnings, roughly in line with the analyst consensus average target near $537."
+  },
+  "bear_case": {
+    "target": "$300–340",
+    "risks": [
+      "A cross-strait (Taiwan/China) crisis or blockade disrupts production at the world's most critical fabs",
+      "AI capex cycle peaks and hyperscaler/GPU order rates decelerate sharply, driving foundry underutilization",
+      "Overseas fab expansion (Arizona, Japan, Germany) dilutes gross margins by several points and pressures returns",
+      "Rising competition from Intel Foundry and a resurgent Samsung erodes leading-edge pricing power",
+      "The multiple compresses to ~20x on cyclical normalization or a broad AI-trade unwind"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings — HPC/AI revenue mix, N2 ramp progress, and full-year guidance update"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "N2 (2nm) high-volume production ramp and 2027 capex guidance"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 2026 earnings and full-year 2027 outlook, including CoWoS capacity expansion targets"
+    },
+    {
+      "date": "2026 monthly",
+      "iso_date": null,
+      "event": "Monthly revenue disclosures — high-frequency read on AI/foundry demand"
+    }
+  ],
+  "key_risks": [
+    "Geopolitical concentration: the vast majority of leading-edge capacity is in Taiwan; a cross-strait conflict would be catastrophic for global supply and the stock",
+    "Cyclicality: foundry demand is tied to the AI/semiconductor capex cycle, which could decelerate sharply if AI ROI disappoints",
+    "Customer concentration: a handful of clients (Apple, NVIDIA, AMD, and hyperscaler ASIC programs) drive a large share of leading-edge revenue",
+    "Margin dilution from overseas fabs (Arizona, Japan, Germany), which carry higher costs than Taiwan operations",
+    "Competition from Intel Foundry Services and Samsung at advanced nodes, plus potential customer in-sourcing",
+    "Currency and export-control exposure: NT dollar swings and U.S./China chip restrictions can affect reported results and end demand"
+  ]
+}

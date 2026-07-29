@@ -1,0 +1,88 @@
+{
+  "ticker": "V",
+  "company": "Visa Inc.",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Payments / Digital Banking",
+  "industry": "Credit Services / Payment Networks",
+  "exchange": "NYSE",
+  "price": 366.59,
+  "price_date": "2026-07-29",
+  "market_cap": "$691B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "52_week_range": "$293.89 – $371.16",
+  "rsi_14": "~65–70",
+  "analyst_consensus": "Strong Buy",
+  "deep_dive_url": "/deep-dives/V/",
+  "api_url": "/api/V.json",
+  "thesis": "Visa operates the world's largest electronic payments network, a wide-moat toll-road on global consumer and commercial spending. Double-digit growth in payments volume, cross-border transactions, and value-added services drives ~50% net margins and prodigious free cash flow returned via buybacks and dividends. New rails — Visa Direct, B2B, and stablecoin settlement — extend the runway, while the primary debate is whether a premium ~25x forward multiple leaves enough upside and whether disintermediation and regulation erode the network's take rate.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$40.0B",
+    "revenue_growth": "11.3%",
+    "gross_margin": "~67% (operating)",
+    "net_income": "$19.85B",
+    "eps_diluted": "~$10.05",
+    "cash": "~$16B",
+    "fcf": "~$18.7B"
+  },
+  "bull_case": {
+    "target": "$430–$470",
+    "drivers": [
+      "Sustained double-digit growth in payments volume and cross-border transactions",
+      "Value-added services and Visa Direct scaling into higher-growth, higher-margin revenue",
+      "Stablecoin settlement and B2B money movement expanding the addressable network",
+      "Continued ~50% net margins with aggressive buybacks compounding EPS in the mid-teens",
+      "Premium multiple sustained as investors pay up for a defensive, wide-moat compounder"
+    ]
+  },
+  "base_case": {
+    "target": "$390–$420",
+    "assumptions": "Low-teens net revenue growth and mid-teens EPS growth per management's FY2026 guidance, a stable take rate, and a roughly 25x forward multiple holding as the stock tracks the ~$406 analyst consensus target."
+  },
+  "bear_case": {
+    "target": "$300–$330",
+    "risks": [
+      "Multiple compression from a premium ~31x trailing P/E if growth decelerates",
+      "Disintermediation from stablecoins, account-to-account rails, and real-time payment networks eroding card economics",
+      "Interchange and antitrust litigation or regulation compressing the take rate",
+      "A consumer-spending or cross-border travel downturn slowing volume growth"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 2026",
+      "event": "Fiscal Q4 2026 earnings and initial FY2027 guidance",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Realization of cost savings from the ~2,600-person (7%) restructuring announced July 2026",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Scaling of stablecoin settlement, Visa Direct, and B2B money-movement volumes",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2026–2027",
+      "event": "Resolution or progress in U.S. interchange litigation and global regulatory reviews",
+      "iso_date": "2026"
+    },
+    {
+      "date": "2027+",
+      "event": "Continued value-added-services growth and cross-border volume recovery above pre-pandemic trend",
+      "iso_date": "2027"
+    }
+  ],
+  "key_risks": [
+    "Premium valuation (~31x trailing, ~25x forward P/E) leaves little room for execution missteps",
+    "Disintermediation from stablecoins, A2A transfers, and real-time payment rails could erode long-term card economics",
+    "Interchange, antitrust, and interchange-cap regulation globally could compress the take rate",
+    "Cyclical exposure to consumer discretionary spending and cross-border travel",
+    "Concentration risk in a duopoly with Mastercard invites regulatory scrutiny and merchant pushback",
+    "FX headwinds on the ~55% of revenue generated internationally"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "LLY",
+  "company": "Eli Lilly and Company",
+  "sector": "Health",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Pharmaceuticals",
+  "industry": "Drug Manufacturers - General",
+  "exchange": "NYSE",
+  "price": 1220.66,
+  "price_date": "2026-07-29",
+  "market_cap": "$1.09T",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Eli Lilly is the dominant force in the incretin (GLP-1) era, with the tirzepatide franchise — Mounjaro for type 2 diabetes and Zepbound for obesity — driving triple-digit growth and now joined by orforglipron, the first oral small-molecule GLP-1 approved for obesity. TTM revenue reached $72.25B (+47%) with net income of $25.28B (+128%) and EPS of $28.15, and the pipeline extends the lead with retatrutide (triple agonist, Q1 2027 filing after ~56 lbs average weight loss) and Kisunla in Alzheimer's. At ~$1,221 the stock trades near the ~$1,277 consensus (Buy) target at ~34x forward earnings — a premium multiple justified by category leadership, but exposed to Novo Nordisk competition and litigation, drug-pricing policy, and manufacturing execution.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$65.18B",
+    "revenue_growth": "+44.7%",
+    "gross_margin": "~81%",
+    "net_income": "$20.64B",
+    "eps_diluted": "~$22.70",
+    "cash": "~$3.5B",
+    "fcf": "~$5.0B"
+  },
+  "bull_case": {
+    "target": "$1,500–$1,650",
+    "drivers": [
+      "Orforglipron ramps into a mass-market oral GLP-1, expanding the obesity/diabetes TAM well beyond the injectable-treated population and reaching global markets with lower cold-chain and manufacturing constraints",
+      "Tirzepatide franchise (Mounjaro + Zepbound) sustains high growth as capacity expands and label indications broaden (sleep apnea, cardiovascular, MASH)",
+      "Retatrutide (GIP/GLP-1/glucagon triple agonist) delivers best-in-class ~20%+ weight loss, files Q1 2027, and becomes a multi-billion-dollar next-generation obesity drug",
+      "Kisunla (donanemab) and the oncology/immunology portfolio (Verzenio, Ebglyss, Taltz) diversify growth beyond incretins",
+      "Massive US and global manufacturing buildout relieves supply constraints and lets Lilly capture unmet obesity demand ahead of competitors"
+    ]
+  },
+  "base_case": {
+    "target": "$1,275–$1,400",
+    "assumptions": "The incretin franchise keeps compounding as capacity comes online and orforglipron scales the oral opportunity, revenue growth moderates from the ~47% TTM pace but stays well above pharma peers, and margins hold near best-in-class levels. The stock tracks the ~$1,277 analyst consensus toward the high-end (JPMorgan ~$1,400) as retatrutide data and orforglipron uptake de-risk the pipeline, while pricing pressure and Novo competition cap the multiple near ~34x forward earnings."
+  },
+  "bear_case": {
+    "target": "$850–$1,000",
+    "risks": [
+      "Orforglipron obesity-pill sales disappoint (Goldman Sachs flagged a weak launch), undercutting the oral GLP-1 growth thesis",
+      "Novo Nordisk competition and litigation — including the injunction fight over Zepbound/Mounjaro advertising — pressures share and pricing",
+      "US drug-pricing policy, IRA negotiation, and tariff risk compress net prices and margins",
+      "Manufacturing/supply execution missteps or safety signals (e.g., GLP-1 side-effect headlines) dent demand",
+      "Multiple contraction from ~34x forward earnings if growth decelerates faster than expected (HSBC rates Reduce at $850)"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 5, 2026",
+      "iso_date": "2026-08-05",
+      "event": "Q2 2026 earnings — tirzepatide (Mounjaro/Zepbound) run-rate, early orforglipron obesity launch signal, and full-year guidance update"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-01",
+      "event": "Planned FDA filing for retatrutide following positive TRIUMPH-2 and TRIUMPH-3 Phase 3 results (~56 lbs average weight loss)"
+    },
+    {
+      "date": "Ongoing 2026",
+      "iso_date": "2026",
+      "event": "Orforglipron oral GLP-1 obesity launch ramp and additional label expansions across the tirzepatide franchise"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Novo Nordisk litigation / injunction proceedings over weight-loss drug advertising"
+    }
+  ],
+  "key_risks": [
+    "Orforglipron oral obesity launch underperforms expectations",
+    "Novo Nordisk competition and advertising litigation / injunction risk",
+    "US drug-pricing policy, IRA negotiation, and pharmaceutical tariffs",
+    "Manufacturing and supply-chain execution across a rapid capacity buildout",
+    "Premium ~34x forward valuation leaves little room for a growth slowdown"
+  ]
+}

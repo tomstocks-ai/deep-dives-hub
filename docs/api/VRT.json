@@ -1,0 +1,85 @@
+{
+  "ticker": "VRT",
+  "company": "Vertiv Holdings Co",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Data Center Infrastructure",
+  "industry": "Electrical Equipment & Parts / Data Center Infrastructure",
+  "exchange": "NYSE",
+  "price": 269.56,
+  "price_date": "2026-07-29",
+  "market_cap": "$104B",
+  "rating": "BUY",
+  "last_updated": "2026-07-29",
+  "thesis": "Vertiv Holdings is a high-conviction BUY as the closest pure-play on the physical layer of the AI data center buildout — power management, thermal/liquid cooling, and integrated modular infrastructure. FY2025 revenue grew ~28% to $10.23B with net income up ~169% to $1.33B, and organic orders and backlog continue to accelerate as hyperscalers and neoclouds race to deploy high-density GPU racks that require Vertiv's liquid-cooling and power distribution. The stock is richly valued (~68x trailing, ~40x forward P/E) and highly volatile (beta ~2.0), but the multi-year secular demand for AI-ready power and cooling supports continued outperformance. Analyst consensus is Strong Buy with a ~$376 average target; our base case is $340–380 with a bull case of $400–440.",
+  "financials": {
+    "fiscal_year": "FY2025 (Dec 2025)",
+    "revenue": "$10.23B",
+    "revenue_growth": "+28% YoY",
+    "gross_margin": "~36%",
+    "net_income": "$1.33B",
+    "eps_diluted": "$3.40",
+    "cash": "~$1.6B",
+    "fcf": "~$1.3B"
+  },
+  "bull_case": {
+    "target": "$400–440",
+    "drivers": [
+      "AI data center capex sustains 25%+ order growth through 2027 as hyperscalers and neoclouds deploy dense GPU clusters requiring liquid cooling",
+      "Liquid-cooling attach rate accelerates and Vertiv captures majority share of the thermal management transition from air to liquid",
+      "Operating margins expand toward 20%+ as scale, pricing, and mix improve",
+      "Backlog and book-to-bill remain above 1.0x, extending multi-year revenue visibility",
+      "Bolt-on M&A (ThermoKey, Strategic Thermal Labs, Great Lakes) deepens the thermal and rack portfolio and expands EMEA/APAC capacity"
+    ]
+  },
+  "base_case": {
+    "target": "$340–380",
+    "assumptions": "AI infrastructure demand stays robust but order growth moderates to 15–25% YoY; Vertiv holds its leadership in power and cooling; operating margins expand modestly to the high-teens; the stock trades at ~30–38x forward EPS as the market pays a premium for the pure-play data center infrastructure exposure but not an unlimited multiple. Aligns with the ~$376 analyst consensus target."
+  },
+  "bear_case": {
+    "target": "$200–230",
+    "risks": [
+      "AI capex cycle peaks or pauses as hyperscalers digest prior spend, cutting order growth sharply",
+      "Competition from Schneider Electric, Eaton, and nVent compresses pricing and share in power and cooling",
+      "Hyperscaler customer concentration means a single deferral materially dents bookings",
+      "Multiple compression from ~40x forward to ~20–25x on any growth deceleration given beta ~2.0",
+      "Tariffs, component costs, and supply-chain disruptions pressure margins"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "July 29, 2026",
+      "iso_date": "2026-07-29",
+      "event": "Q2 2026 earnings (before market open) — organic orders, book-to-bill, backlog, and updated full-year guidance"
+    },
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings — liquid-cooling ramp and margin trajectory"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "NVIDIA next-gen GPU (Rubin) deployments driving demand for higher-density liquid cooling and power"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": "2026",
+      "event": "New manufacturing capacity (Italy, Malaysia) ramps and bolt-on acquisitions integrate"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Full-year 2026 orders and backlog update; 2027 guidance framework"
+    }
+  ],
+  "key_risks": [
+    "AI capex cyclicality — Vertiv's growth is tightly coupled to hyperscaler and neocloud data center spending, which could pause or peak",
+    "Valuation risk — ~68x trailing and ~40x forward P/E leave little margin for error; a growth miss could trigger sharp multiple compression",
+    "High volatility — beta of ~2.0 means the stock amplifies market and sector swings",
+    "Competition from Schneider Electric, Eaton, and nVent in power and thermal management",
+    "Customer concentration — a limited number of large hyperscaler customers drive a significant share of orders",
+    "Margin pressure from tariffs, component inflation, and rapid capacity expansion",
+    "Execution risk integrating multiple bolt-on acquisitions"
+  ]
+}
