@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-29",
-  "count": 123,
+  "last_updated": "2026-07-31",
+  "count": 124,
   "tickers": [
     {
       "ticker": "000660",
@@ -198,6 +198,21 @@
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
       "price_date": "2026-07-16"
+    },
+    {
+      "ticker": "ATEC",
+      "company": "Alphatec Holdings, Inc.",
+      "sector": "Health Care",
+      "industry": "Medical Devices / Spine Surgery",
+      "rating": "SPEC. BUY",
+      "price": 9.55,
+      "market_cap": "$1.4B",
+      "last_updated": "2026-07-31",
+      "deep_dive_url": "/deep-dives/ATEC/",
+      "api_url": "/api/ATEC.json",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
     },
     {
       "ticker": "AVGO",

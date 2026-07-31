@@ -1,0 +1,114 @@
+{
+  "ticker": "ATEC",
+  "company": "Alphatec Holdings, Inc.",
+  "sector": "Health Care",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Medical Devices",
+  "industry": "Medical Devices / Spine Surgery",
+  "exchange": "NASDAQ",
+  "price": 9.55,
+  "market_cap": "$1.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-07-31",
+  "thesis": "Alphatec is a medical-device company focused on spine surgery through the Alpha InformatiX platform, combining implants, EOS imaging, SafeOp neural monitoring, and the Valence navigation/robotics system. The core surgical business is growing at a double-digit pace with surgeon and procedural adoption expanding more than 20% in Q1 2026, but the stock has sold off 20-32% after a Q1 revenue miss and a 2026 guidance cut driven by underperforming EOS imaging. We rate ATEC SPEC. BUY at $9.55 because the core implant business is healthy, adjusted EBITDA and free-cash-flow guidance were reaffirmed despite lower revenue, and the new $300M refinancing lowers interest expense and extends maturities. The high uncertainty comes from $466M of net debt and convertible-note overhang, competitive pressure from Medtronic, Globus, Stryker, and Zimmer, and the need to execute a turnaround in EOS and the Valence rollout.",
+  "financials": {
+    "fiscal_year": "FY2026 (Est.)",
+    "revenue": "$882M",
+    "revenue_growth": "~15%",
+    "gross_margin": "~70%",
+    "net_income": "N/A",
+    "eps_diluted": "N/A",
+    "cash": "~$90M",
+    "fcf": "≥$20M"
+  },
+  "bull_case": {
+    "target": "$18–$22",
+    "drivers": [
+      "EOS imaging revenue recovers above guided levels and returns to growth",
+      "Valence intraoperative navigation/robotics platform gains rapid surgeon adoption and lifts ASPs per case",
+      "Surgical revenue growth reaccelerates toward 20% as ATEC continues taking share from Globus, Stryker, and Zimmer",
+      "Adjusted EBITDA reaches ~$134M and free cash flow turns positive at ≥$20M, de-risking the balance sheet",
+      "Refinancing savings and improved sentiment drive multiple expansion toward analyst consensus targets"
+    ]
+  },
+  "base_case": {
+    "target": "$12–$15",
+    "assumptions": "Surgical revenue grows at a mid-teens pace, EOS stabilizes near the $77M guided level, adjusted EBITDA reaches ~$134M at ~15% margin, and the refinancing reduces interest expense by more than $6M annually. The stock rerates modestly as free cash flow inflects, but debt/execution risk keeps the valuation below analyst consensus."
+  },
+  "bear_case": {
+    "target": "$7–$9",
+    "risks": [
+      "EOS imaging continues to weaken and pressures full-year revenue guidance again",
+      "Competitive share loss to Medtronic, Globus, Stryker, or Zimmer compresses surgical growth and margins",
+      "Valence rollout is slower than expected, limiting the robotics/navigation premium",
+      "Adjusted EBITDA or free cash flow miss guidance, raising balance-sheet concerns",
+      "Convertible notes and equity compensation create dilution that weighs on the stock"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings",
+      "event": "Estimated Q2 2026 earnings report — first read on whether EOS stabilized and whether EBITDA/free-cash-flow guidance remains intact",
+      "iso_date": "2026-07",
+      "sector": "Health Care",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
+    },
+    {
+      "date": "H2 2026",
+      "event": "Valence intraoperative navigation/robotics platform adoption metrics and any expansion of surgeon/robotics accounts",
+      "iso_date": "2026-10",
+      "sector": "Health Care",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
+    },
+    {
+      "date": "2026",
+      "event": "EOS imaging recovery or restructuring/fix updates",
+      "iso_date": "2026",
+      "sector": "Health Care",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
+    },
+    {
+      "date": "2026",
+      "event": "Refinancing savings flowing through interest expense and cash flow",
+      "iso_date": "2026",
+      "sector": "Health Care",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
+    },
+    {
+      "date": "2026",
+      "event": "Path to positive free cash flow of at least $20M",
+      "iso_date": "2026",
+      "sector": "Health Care",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Medical Devices",
+      "price_date": "2026-07-31"
+    }
+  ],
+  "key_risks": [
+    "EOS imaging segment underperforming and dragging consolidated revenue",
+    "Heavy debt load (~$466M net debt) and convertible note overhang",
+    "Ongoing dilution from equity compensation and convertible securities",
+    "Competitive spine market dominated by Medtronic, Globus Medical, Stryker, and Zimmer Biomet",
+    "Price pressure in spine implants and hospital cost scrutiny",
+    "Execution risk on the Valence navigation/robotics rollout",
+    "High dependence on sustained above-market surgical volume growth"
+  ],
+  "analyst_consensus": {
+    "rating": "Moderate Buy / Strong Buy",
+    "median_target": "$18.58–$21.70",
+    "target_range": "~$12–$27"
+  },
+  "technicals": {
+    "52_week_low": 6.82,
+    "52_week_high": 23.29
+  },
+  "price_date": "2026-07-31"
+}
