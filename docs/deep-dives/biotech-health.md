@@ -15,6 +15,7 @@ title: Biotechnology & Health Technology
 | <tv-ticker-tag symbol="NYSE:BFLY" hide-background></tv-ticker-tag> | Butterfly Network, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BFLY.md) |
 | <tv-ticker-tag symbol="NYSE:LLY" hide-background></tv-ticker-tag> | Eli Lilly and Company | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LLY.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRSP" hide-background></tv-ticker-tag> | CRISPR Therapeutics AG | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](CRSP.md) |
+| <tv-ticker-tag symbol="NASDAQ:ATEC" hide-background></tv-ticker-tag> | Alphatec Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-31 | [:material-file-document: Read](ATEC.md) |
 
 ---
 
@@ -42,6 +43,26 @@ Global leader in phakic Implantable Collamer Lenses (the EVO ICL family) with 4M
 
 ---
 
+**BFLY — Butterfly Network, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Pioneer in point-of-care ultrasound (POCUS) with handheld, single-probe, whole-body ultrasound devices priced under \$3,000. Semiconductor-based ultrasound-on-chip technology democratizes medical imaging for primary care, emergency medicine, and rural clinics. AI-enabled image interpretation and automated measurements create a path to high-margin recurring revenue. Revenue grew 16% YoY to ~\$88.5M TTM, but net losses widened 101% in Q3 2025 to \$34.0M. RSI(14) of 84.6 signals overbought conditions after a rally from \$1.33 to \$8.90. Analyst targets average \$5.56–\$5.67, well below current price. Speculative opportunity for high-risk-tolerance investors with a 2–3 year horizon.
+
+**Bull:** \$12–14 · **Base:** \$8–9 · **Bear:** \$4–5
+
+[:material-arrow-right: Full Deep Dive](BFLY.md)
+
+---
+
+**ATEC — Alphatec Holdings, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Alphatec is a spine-focused medical device company built around the Alpha InformatiX platform, integrating implants, EOS full-body imaging, SafeOp neural monitoring, and the Valence intraoperative navigation/robotics system. Q1 2026 revenue of \$192.1M (+~14% YoY) missed expectations because EOS imaging is underperforming, and full-year 2026 guidance was cut to ~\$882M from ~\$890–\$909M. However, the core surgical business is growing strongly — surgeon and procedural adoption increased more than 20% — and management reaffirmed adjusted EBITDA guidance of ~\$134M and a free cash flow target of at least \$20M. A new \$300M bank facility refinanced existing debt, saving more than \$6M in annual interest and extending maturities to 2031. The stock sold off 20–32% and trades at a steep discount to analyst targets (~\$18.58–\$21.70), but the ~\$466M net debt load, convertible overhang, and competitive spine market remain the key risks.
+
+**Bull:** \$18–\$22 · **Base:** \$12–\$15 · **Bear:** \$7–\$9
+
+[:material-arrow-right: Full Deep Dive](ATEC.md)
+
+---
+
 ### Precision Medicine & Diagnostics
 
 **ADPT — Adaptive Biotechnologies Corporation · <span class="rating-spec-hold">HOLD / SPEC.</span>**
@@ -51,18 +72,6 @@ Commercial-stage biotech leading the minimal residual disease (MRD) testing mark
 **Bull:** \$28–\$32 · **Base:** \$18–\$22 · **Bear:** \$10–\$13
 
 [:material-arrow-right: Full Deep Dive](ADPT.md)
-
----
-
-### Medical Devices
-
-**BFLY — Butterfly Network, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
-
-Pioneer in point-of-care ultrasound (POCUS) with handheld, single-probe, whole-body ultrasound devices priced under \$3,000. Semiconductor-based ultrasound-on-chip technology democratizes medical imaging for primary care, emergency medicine, and rural clinics. AI-enabled image interpretation and automated measurements create a path to high-margin recurring revenue. Revenue grew 16% YoY to ~\$88.5M TTM, but net losses widened 101% in Q3 2025 to \$34.0M. RSI(14) of 84.6 signals overbought conditions after a rally from \$1.33 to \$8.90. Analyst targets average \$5.56–\$5.67, well below current price. Speculative opportunity for high-risk-tolerance investors with a 2–3 year horizon.
-
-**Bull:** \$12–14 · **Base:** \$8–9 · **Bear:** \$4–5
-
-[:material-arrow-right: Full Deep Dive](BFLY.md)
 
 ---
 
