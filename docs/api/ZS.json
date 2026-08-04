@@ -1,0 +1,72 @@
+{
+  "ticker": "ZS",
+  "company": "Zscaler, Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cybersecurity",
+  "industry": "Cloud Security / Zero Trust / SASE",
+  "exchange": "NASDAQ",
+  "price": 154.46,
+  "price_date": "2026-08-04",
+  "market_cap": "~$25.0B",
+  "rating": "BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "Zscaler is the pure-play leader in cloud-delivered zero trust security, routing enterprise traffic through its Zero Trust Exchange to replace legacy network and VPN architectures. ARR is growing in the mid-20% range with record non-GAAP operating margins near 23% and roughly 30% free cash flow margins, and the company is extending its platform into securing agentic AI, machine identities, and data. After a sharp selloff from its 52-week high on FY2027 guidance caution and leadership-transition worries, the stock trades near 34x forward earnings with the analyst consensus target well above the current price, offering an attractive entry for a durable secular-growth compounder.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$2.67B",
+    "revenue_growth": "23%",
+    "gross_margin": "~80%",
+    "net_income": "-$41.5M (GAAP)",
+    "eps_diluted": "-$0.27 (GAAP); ~$3.19 non-GAAP",
+    "cash": "~$3.0B cash and investments",
+    "fcf": "~$1.0B"
+  },
+  "bull_case": {
+    "target": "$220–$260",
+    "drivers": [
+      "ARR reaccelerates as Zero Trust Everywhere, data security, and AI security products cross-sell into the installed base",
+      "Zero Trust for AI Agents, AI Protect, and the ZAgent framework establish Zscaler as the security layer for enterprise agentic AI",
+      "Non-GAAP operating margin and ~30% free cash flow margin expand further, driving Rule-of-50-plus performance",
+      "FY2027 guidance clears the lowered bar and the multiple re-rates back toward premium security peers"
+    ]
+  },
+  "base_case": {
+    "target": "$180–$200",
+    "assumptions": "Zscaler sustains mid-20% ARR and revenue growth with steady margin expansion, integrates the Red Canary and Symmetry Systems acquisitions, and delivers FY2027 guidance roughly in line with expectations. The stock trades toward the analyst consensus target near $192 at a reasonable ~35x forward earnings for a durable grower."
+  },
+  "bear_case": {
+    "target": "$110–$130",
+    "risks": [
+      "FY2027 guidance disappoints and growth decelerates below 20% as large-enterprise deals lengthen",
+      "Competition from CrowdStrike, Palo Alto Networks, and Microsoft compresses pricing and win rates",
+      "Leadership transitions and sales-motion changes disrupt execution",
+      "Elevated stock-based compensation keeps GAAP profitability negative and pressures the multiple back toward the 52-week low"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "September 1, 2026",
+      "iso_date": "2026-09-01",
+      "event": "Q4 and full-year FY2026 earnings with initial FY2027 guidance — the key overhang on the stock"
+    },
+    {
+      "date": "Q1 FY2027 (Dec 2026)",
+      "iso_date": "2026-12",
+      "event": "First FY2027 quarter tests durability of mid-20% ARR growth and margin trajectory"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "Monetization of AI security portfolio (Zero Trust for AI Agents, AI Protect, ZAgent) and integration of Red Canary and Symmetry Systems"
+    }
+  ],
+  "key_risks": [
+    "FY2027 guidance and growth-deceleration concerns weigh on sentiment",
+    "Intense competition from CrowdStrike, Palo Alto Networks, and Microsoft in SASE and zero trust",
+    "Leadership transitions and go-to-market changes create execution risk",
+    "Persistent GAAP losses driven by heavy stock-based compensation",
+    "Premium valuation leaves limited room for execution missteps",
+    "Enterprise IT budget pressure could slow large-deal momentum"
+  ]
+}

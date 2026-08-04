@@ -9,6 +9,7 @@
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](OKLO.md) |
 | <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](IMSR.md) |
+| <tv-ticker-tag symbol="NYSE:SMR" hide-background></tv-ticker-tag> | NuScale Power Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](SMR.md) |
 | <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 | <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
@@ -35,6 +36,16 @@ Developing the Generation IV Integral Molten Salt Reactor (IMSR), an SMR using S
 **Bull:** \$14–18 · **Base:** \$8–10 · **Bear:** \$3–4
 
 [:material-arrow-right: Full Deep Dive](IMSR.md)
+
+---
+
+**SMR — NuScale Power Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+NuScale develops the 77 MWe NuScale Power Module, the only small modular reactor design with U.S. NRC certification — a multi-year regulatory head start over rivals. Deployment now runs through exclusive partner ENTRA1 Energy, with the RoPower six-module project in Romania (FID slipped to late 2026) and a growing U.S. data-center pipeline as the commercialization test. It ended Q1 2026 with ~\$1.0B cash and essentially no debt, but FY2025 revenue was tiny and declining (~\$31.5M, -15%) with a \$355.8M net loss. At \$9.01 the stock trades ~60% below the ~\$14.57 consensus target after falling from a \$57.42 high toward its \$7.21 low; the main risk is that the pipeline fails to convert into firm orders. Asymmetric but binary.
+
+**Bull:** \$20–25 · **Base:** \$12–15 · **Bear:** \$5–7
+
+[:material-arrow-right: Full Deep Dive](SMR.md)
 
 ---
 

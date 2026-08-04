@@ -2,70 +2,77 @@
   "ticker": "WOLF",
   "company": "Wolfspeed, Inc.",
   "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Analog / Power",
   "industry": "Semiconductors / Silicon Carbide Power Devices",
   "exchange": "NYSE",
-  "price": 53.72,
-  "market_cap": "$2.60B",
-  "rating": "HOLD",
-  "last_updated": "2026-05-13",
-  "thesis": "Wolfspeed is the leading pure-play silicon carbide (SiC) semiconductor company, vertically integrated from crystal growth to power devices. A recent $476M capital raise and 25% debt reduction have materially improved the balance sheet and extended runway. However, revenue remains in decline (-18.9% YoY), gross margins are deeply negative, and the stock has risen 560%+ from lows in what appears to be a short-squeeze dynamic (RSI 83+). The AI/data center power opportunity is real, but the current price embeds a flawless turnaround execution that is unlikely to materialize smoothly. Hold existing positions; do not chase.",
+  "price": 24.35,
+  "price_date": "2026-08-04",
+  "market_cap": "$1.25B",
+  "rating": "HOLD / SPEC.",
+  "last_updated": "2026-08-04",
+  "thesis": "Wolfspeed emerged from a prepackaged Chapter 11 on September 29, 2025, cancelling roughly 156M legacy shares and issuing about 43.6M new shares while cutting total debt by ~70% (~$4.6B) and extending maturities to 2030. The world's leading pure-play silicon carbide (SiC) maker now has a far cleaner balance sheet, but it still runs deeply negative gross margins on ~$760M of revenue and had to raise another ~$475M (convertible notes plus equity) in March 2026. The AI data center, industrial/energy, aerospace/defense and automotive SiC opportunity is real, yet the post-emergence equity is a high-risk turnaround bet with residual ~$2.2B debt, ongoing cash burn and dilution risk. Treat as a speculative hold, not a core position.",
   "financials": {
-    "fiscal_year": "FY2026 (Q3)",
-    "revenue": "$150.2M (quarterly)",
-    "revenue_growth": "-18.9%",
-    "gross_margin": "Negative (~-17% TTM)",
-    "net_income": "-$119.9M (quarterly)",
-    "eps_diluted": "-$4.38 (quarterly)",
-    "cash": "$1.29B",
-    "fcf": "-$42.6M (quarterly)"
+    "fiscal_year": "FY2025 (pro forma, fresh-start)",
+    "revenue": "$757.6M",
+    "revenue_growth": "-6%",
+    "gross_margin": "-13% (gross loss)",
+    "net_income": "-$1.21B",
+    "eps_diluted": "-$27.85",
+    "cash": "$835M (at emergence)",
+    "fcf": "Negative (FY25 cash burn)"
   },
   "bull_case": {
-    "target": "$65–$75",
+    "target": "$35–$50",
     "drivers": [
-      "AI/data center power revenue grows to 30%+ of revenue mix by FY28",
-      "Mohawk Valley 200mm fab reaches 50%+ utilization, driving positive gross margins",
-      "Automotive SiC adoption accelerates with Chinese EV and Tier-1 partnerships",
-      "Continued debt paydown creates path to profitability by FY28"
-    ]
-  },
-  "bear_case": {
-    "target": "$12–$18",
-    "risks": [
-      "SiC commoditization accelerates; pricing pressure crushes margins",
-      "EV demand weakness persists; revenue continues declining",
-      "Additional dilutive capital raises required within 12–18 months",
-      "Short-squeeze reversal drives violent technical selloff"
+      "Mohawk Valley 200mm SiC fab utilization climbs, driving gross margin back toward positive by FY28",
+      "AI data center high-voltage power and industrial/energy demand grows to a meaningful share of revenue mix",
+      "Automotive SiC design wins with global OEMs and Tier-1s convert to volume as EV platforms launch",
+      "Reduced interest expense (~60% lower) and 2030 maturities give runway to reach EBITDA breakeven without further dilution"
     ]
   },
   "base_case": {
-    "target": "$35–$45",
-    "assumptions": "Revenue stabilizes at $600–700M annually with modest growth. Gross margins turn slightly positive by late FY27. EBITDA breakeven by FY29. Valuation converges toward analyst consensus (~$40 target). Additional capital raises cause moderate dilution."
+    "target": "$18–$26",
+    "assumptions": "Revenue stabilizes around $750M–$900M with modest growth as Mohawk Valley ramps. Gross margin approaches breakeven by FY28 but the company remains cash-flow negative near term, implying at least one more capital raise. EV/revenue normalizes toward peer power-semi multiples on the ~52M post-emergence share base. Price hovers near the March 2026 raise level of ~$18.46 with upside toward the mid-$20s."
+  },
+  "bear_case": {
+    "target": "$8–$14",
+    "risks": [
+      "SiC pricing pressure and competition (Onsemi, Infineon, STMicro, Navitas, Chinese vendors) keep gross margins negative",
+      "Automotive/EV demand stays soft and revenue resumes declining",
+      "Continued cash burn forces additional dilutive raises or a second-lien note conversion wave",
+      "Post-emergence equity volatility and thin float trigger a sharp technical reversal back toward the ~$8 52-week low"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05-27",
-      "event": "Q4 FY26 Earnings (expected) — revenue guidance for FY27",
-      "iso_date": "2026-05-27"
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q4 and full-year FY2026 earnings — first clean post-emergence annual report and FY2027 guidance"
     },
     {
-      "date": "2026-06-15",
-      "event": "Potential analyst/investor day with Mohawk Valley update",
-      "iso_date": "2026-06-15"
+      "date": "Q2 FY2027",
+      "iso_date": "2026-10",
+      "event": "Mohawk Valley 200mm SiC utilization and gross-margin progress update"
     },
     {
-      "date": "2026-08-15",
-      "event": "Q1 FY27 Earnings — first post-restructuring clean quarter",
-      "iso_date": "2026-08-15"
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "AI data center / high-voltage power and industrial design-win ramp; Renesas long-term SiC supply milestones"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Navitas patent-infringement litigation and potential Renesas note conversion / warrant exercise (exercise price $23.95)"
     }
   ],
   "key_risks": [
-    "Continued cash burn and potential dilutive capital raises",
-    "SiC commoditization and intensifying competition from Onsemi, Infineon, STMicro, Chinese vendors",
-    "Automotive EV demand weakness in key markets",
-    "Mohawk Valley 200mm ramp delays or yield challenges",
-    "Short-squeeze reversal creating violent technical downside"
-  ],
-  "theme": "AI Buildout",
-  "sub_theme": "Analog / Power",
-  "price_date": "2026-05-13"
+    "Residual ~$2.2B of new notes despite the ~70% reduction; refinancing and covenant risk into 2030 maturities",
+    "Negative gross margins and continued cash burn; further dilutive raises likely (as in March 2026)",
+    "SiC commoditization and intensifying competition from Onsemi, Infineon, STMicro, Navitas and Chinese vendors",
+    "Automotive/EV demand weakness in key markets",
+    "Mohawk Valley 200mm ramp and yield execution risk",
+    "Post-emergence equity volatility, thin float and short-driven price swings",
+    "Renesas concentration — a large shareholder and creditor with governance rights and warrants"
+  ]
 }

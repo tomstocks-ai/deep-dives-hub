@@ -7,12 +7,13 @@
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:ASTS" hide-background></tv-ticker-tag> | AST SpaceMobile, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](ASTS.md) |
-| <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar Corporation | <span class="rating-buy">BUY</span> | 2026-04-04 | [:material-file-document: Read](SATS.md) |
+| <tv-ticker-tag symbol="NASDAQ:SATS" hide-background></tv-ticker-tag> | EchoStar Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](SATS.md) |
 | <tv-ticker-tag symbol="NASDAQ:SATL" hide-background></tv-ticker-tag> | Satellogic | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](SATL.md) |
 | <tv-ticker-tag symbol="NYSE:PL" hide-background></tv-ticker-tag> | Planet Labs PBC | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](PL.md) |
 | <tv-ticker-tag symbol="NASDAQ:NN" hide-background></tv-ticker-tag> | NextNav Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-26 | [:material-file-document: Read](NN.md) |
-| <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings, Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-05-29 | [:material-file-document: Read](SPCE.md) |
+| <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings, Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-08-04 | [:material-file-document: Read](SPCE.md) |
 | <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](RKLB.md) |
+| <tv-ticker-tag symbol="NASDAQ:LUNR" hide-background></tv-ticker-tag> | Intuitive Machines, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](LUNR.md) |
 
 ---
 
@@ -28,11 +29,11 @@ Pioneering space-based cellular broadband network — first to achieve commercia
 
 ---
 
-**SATS — EchoStar Corporation · <span class="rating-buy">BUY</span>**
+**SATS — EchoStar Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Dramatic transformation from distressed wireless carrier to spectrum monetization entity via \$42.6B strategic asset sales to AT&T and SpaceX. ~2% SpaceX equity stake worth ~\$11B provides unique asymmetric upside. Post-transaction: debt reduction from ~\$26B to ~\$5–8B. Pay-TV generates \$2.69B Adjusted OIBDA as cash cow. YTD +497%.
+EchoStar (now trading on Nasdaq as **ECHO** after a June 24, 2026 symbol change from SATS) has largely completed its turn from a distressed carrier into a deleveraged spectrum-and-SpaceX-optionality vehicle. On June 30, 2026 it deconsolidated Pay-TV (DISH plus Sling), booking a \$9.7B gain that lifted Q2 net income to \$8.5B while total debt fell 34% YoY to \$17.4B and pro-forma cash reached ~\$14–15B. The residual thesis is a sum-of-parts of remaining mid-band spectrum, a ~2% SpaceX equity stake, and shrinking Boost Mobile and Hughes operations. At ~\$84 the stock sits well below the ~\$136 Moderate Buy consensus, but value hinges on the SpaceX mark, the final SpaceX transaction close, and \$5–7B of FCC-mandated Boost shutdown and tax liabilities — a binary profile that warrants a speculative stance.
 
-**Bull:** \$180–220 · **Base:** \$125–145 · **Bear:** \$60–80
+**Bull:** \$150–190 · **Base:** \$110–140 · **Bear:** \$55–75
 
 [:material-arrow-right: Full Deep Dive](SATS.md)
 
@@ -72,15 +73,25 @@ Terrestrial PNT (Positioning, Navigation, Timing) technology as GPS backup. 165 
 
 ---
 
-### Launch
+### Lunar / Deep Space
 
 **SPCE — Virgin Galactic Holdings, Inc. · <span class="rating-spec">SPECULATIVE</span>**
 
-Commercial spaceflight company developing suborbital tourism via air-launched SpaceShip vehicles. Currently pre-revenue after pausing flights to focus on next-generation Delta-class fleet. First Delta-class ship enters ground tests April 2026, flight tests Q3 2026, and commercial service targeted for Q4 2026. Cash of \$338M provides ~3–4 quarters of runway. Pure speculative call option on Delta-class execution.
+Virgin Galactic is a pre-revenue suborbital spaceflight company whose equity is a binary call option on the Delta-class spaceship program. VSS Unity has returned to flight to de-risk the new vehicle; the first Delta ship is guided to flight tests in Q3 2026, a first powered spaceflight and limited commercial launch in Q4 2026, and a private-astronaut ramp from January 2027 toward 8-plus flights per month by mid-2027, targeting ~\$450M revenue and ~\$100M adjusted EBITDA at fleet scale. Against that, FY2025 revenue was just \$1.54M on a \$278.9M net loss with -\$438M free cash flow; ongoing burn, 2026 debt-for-equity swaps and a fresh mixed-securities shelf point to more dilution, and ~40% of the float is sold short. Market cap is ~\$378M on ~134M shares (post the June 2024 1-for-20 reverse split); analyst consensus is Hold near \$3.43–\$3.52. Primary risk: a Delta flight-test delay or failure with limited cash runway.
 
-**Bull:** \$12–\$16 · **Base:** \$3–\$5 · **Bear:** \$1–\$2
+**Bull:** \$9–\$13 · **Base:** \$3–\$5 · **Bear:** \$1–\$2
 
 [:material-arrow-right: Full Deep Dive](SPCE.md)
+
+---
+
+**LUNR — Intuitive Machines, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+The leading commercial pure-play on the cislunar economy and the first company to soft-land a commercial spacecraft on the Moon (IM-1 Odysseus, Feb 2024) — though both IM-1 and IM-2 (Athena, Mar 2025) tipped over on touchdown, exposing real landing-execution risk. The thesis is diversifying beyond binary lander missions via NASA's Commercial Lunar Payload Services (a sixth CLPS award in June 2026 plus a ~\$148M share of the \$590M late-2028 Moon-lander tranche), a position on NASA's Near Space Network services contract (up to \$4.82B multi-award), and a nascent lunar data-relay constellation, augmented by the Aug 2026 Goonhilly Earth Station and COMSAT acquisition. TTM revenue ~\$334.3M (+53.8%) but still unprofitable (-\$109.9M TTM, ~10% fixed-price margins) with recurring dilution. At \$13.10 — down ~72% from a \$46.75 high — the risk/reward has reset; consensus Buy with a ~\$39 target. IM-3 (~2027) is the binary catalyst.
+
+**Bull:** \$28–40 · **Base:** \$16–22 · **Bear:** \$6–9
+
+[:material-arrow-right: Full Deep Dive](LUNR.md)
 
 ---
 

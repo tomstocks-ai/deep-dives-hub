@@ -4,11 +4,12 @@
   "sector": "Technology",
   "industry": "Software — Collaborative Design Platform",
   "exchange": "NYSE",
-  "price": 17.7,
-  "market_cap": "$9.33B",
+  "price": 24.92,
+  "price_date": "2026-08-04",
+  "market_cap": "$13.17B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-05-01",
-  "thesis": "Figma is the dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. The stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with $1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5% of float) adds squeeze potential. Key risks: AI disruption, path to GAAP profitability, gross margin compression from 91% to 82%.",
+  "last_updated": "2026-08-04",
+  "thesis": "Figma is the dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ (TTM $1.16B, +41.4%) with positive free cash flow and 130%+ net revenue retention. After cratering ~78% from post-IPO highs on SaaS multiple compression and AI-disruption anxiety, the stock has stabilized and rebounded off its $16.60 low as Q1 2026 results (+46% revenue growth, raised full-year outlook) eased fears that prompt-to-interface tools would make Figma redundant. At a mid-single-digit forward EV/Revenue with ~$1.6B cash and minimal debt, Figma trades at a discount to high-growth SaaS peers. Key risks: AI disruption, no GAAP profitability (-$1.40B net loss TTM), heavy stock-based dilution, and an activist campaign pressing for cost discipline.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$1,056M",
@@ -21,85 +22,84 @@
     "fcf_margin": "23.32%",
     "cash": "$1.66B",
     "debt": "$58.5M",
-    "enterprise_value": "$7.64B",
-    "fcf": "N/A"
+    "enterprise_value": "$11.6B",
+    "fcf": "$246.2M"
   },
   "bull_case": {
-    "target": "$55–65",
+    "target": "$45–55",
     "drivers": [
-      "FY2026 revenue beats guidance ($1.4B+) with AI products accelerating adoption",
-      "Net revenue retention stays above 135% as enterprise customers expand seats",
-      "SaaS multiples re-rate higher as rates stabilize and growth scarcity premium returns",
-      "Path to GAAP profitability by 2028 as SBC moderates and operating leverage kicks in",
-      "Short squeeze from 26.5% short interest on any positive catalyst"
+      "FY2026 revenue beats the raised full-year outlook as AI credit monetization (Figma Make, Weave, Code Layers, AI agents) scales",
+      "Net revenue retention holds above 130% as enterprise customers expand seats and adopt new products",
+      "Q1 2026 momentum (+46% revenue growth) proves AI is a tailwind, not an existential threat, driving a SaaS multiple re-rate",
+      "Cost rationalization from the Findell activist campaign accelerates the path to GAAP profitability",
+      "Short-covering and scarcity premium for durable 40%+ growth at scale amplify upside on any beat"
     ]
   },
   "bear_case": {
-    "target": "$10–15",
+    "target": "$15–20",
     "risks": [
-      "Revenue growth decelerates below 25% as AI-native tools (v0, Claude Design) erode share",
-      "Gross margins continue compressing below 80% due to AI compute costs",
-      "SBC remains elevated, preventing GAAP profitability and causing talent retention issues",
-      "Lockup expirations and insider selling create persistent supply overhang",
-      "Broader SaaS multiple compression pushes EV/Revenue below 5x"
+      "Revenue growth decelerates toward 25% as AI-native tools (Claude Design, v0) erode share",
+      "Gross margins compress further below 80% due to rising AI compute costs",
+      "Stock-based compensation stays elevated, preventing GAAP profitability and diluting shareholders",
+      "Insider selling and lockup supply keep a persistent overhang on the stock",
+      "Broad SaaS multiple compression drags shares back toward the $16.60 52-week low"
     ]
   },
   "base_case": {
-    "target": "$30–40",
-    "assumptions": "Revenue grows 30-35% in FY2026 to ~$1.35-1.4B; FCF margin stabilizes at 20-25%; SBC moderates to 30-35% of revenue; company reaches EBITDA breakeven by 2027; stock trades at 8-10x EV/Revenue as profitability path becomes visible"
+    "target": "$30–38",
+    "assumptions": "Revenue grows 35-40% in FY2026 to roughly $1.45-1.55B; FCF margin stabilizes at 20-25%; SBC moderates as a share of revenue; company reaches EBITDA breakeven by 2027; stock trades at 8-10x forward EV/Revenue as the profitability path becomes visible — in line with the ~$31-33 analyst consensus."
   },
   "catalysts": [
     {
-      "date": "2026-05-14",
-      "event": "Q1 2026 Earnings — guided $315-317M vs $291.9M consensus",
+      "date": "2026-08-05",
+      "event": "Q2 2026 Earnings — first report since Config 2026 and raised full-year outlook",
       "impact": "HIGH",
-      "iso_date": "2026-05-14"
+      "iso_date": "2026-08-05"
     },
     {
-      "date": "2026-08",
-      "event": "Q2 2026 Earnings — mid-year guidance check",
+      "date": "Q3 2026",
+      "event": "Q3 2026 Earnings — durability check on AI credit monetization and NRR",
       "impact": "MEDIUM",
-      "iso_date": "2026-08"
+      "iso_date": "2026-11"
     },
     {
       "date": "2026-H2",
-      "event": "Figma Make / Weave general availability launch",
+      "event": "General availability ramp of Config 2026 launches (Code Layers, Motion, AI agents)",
       "impact": "MEDIUM",
       "iso_date": "2026"
     },
     {
-      "date": "2026-2027",
-      "event": "IPO lockup expiration waves complete",
-      "impact": "LOW-MEDIUM",
+      "date": "2026",
+      "event": "Findell Capital activist campaign — cost rationalization and product-focus outcome",
+      "impact": "MEDIUM",
       "iso_date": "2026"
     }
   ],
   "key_risks": [
-    "AI disruption risk — AI-native design tools could commoditize Figma's core value proposition",
-    "No GAAP profitability with -$1.29B operating loss; path to earnings uncertain",
-    "Gross margin compression from 91% (2023) to 82% (2025) — trend direction matters",
-    "Massive SBC dilution: shares outstanding increased 72% YoY to 337M diluted",
-    "High short interest (26.5% of float) creates volatility but also squeeze potential",
-    "Recent IPO with limited trading history; lockup overhang may pressure stock further",
+    "AI disruption risk — AI-native design tools (Claude Design, v0) could commoditize Figma's core value proposition",
+    "No GAAP profitability with a -$1.40B TTM net loss; path to earnings remains uncertain",
+    "Gross margin compression from 91% (2023) to 82% (2025) — AI compute costs could pressure it further",
+    "Heavy stock-based-compensation dilution: diluted shares outstanding have climbed toward ~528M",
+    "Activist pressure (Findell Capital) signals investor frustration with cost structure and product focus",
+    "Recent IPO with limited trading history; lockup and insider-selling overhang may pressure the stock",
     "SaaS sector multiple compression could persist if rates rise or recession fears intensify"
   ],
   "analyst_targets": {
-    "count": 8,
+    "count": 16,
     "consensus": "Hold / Moderate Buy",
-    "high": 60.0,
-    "low": 30.0,
-    "mean": 40.25,
-    "median": 38.5
+    "high": 42.0,
+    "low": 22.0,
+    "mean": 32.56,
+    "median": 32.0
   },
   "technical": {
-    "rsi_14": 47.55,
-    "rsi_date": "2026-04-30",
+    "rsi_14": 55.0,
+    "rsi_date": "2026-08-03",
     "fifty_two_week_low": 16.6,
-    "fifty_two_week_high": 142.92,
-    "short_percent_float": 0.265,
-    "short_ratio": 3.57
+    "fifty_two_week_high": 114.29,
+    "short_percent_float": 0.24,
+    "short_ratio": 3.5
   },
   "theme": "Software",
-  "sub_theme": "UX",
-  "price_date": "2026-05-01"
+  "sub_theme": "UX"
 }

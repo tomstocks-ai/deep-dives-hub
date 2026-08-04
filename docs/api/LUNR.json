@@ -1,0 +1,86 @@
+{
+  "ticker": "LUNR",
+  "company": "Intuitive Machines, Inc.",
+  "sector": "Industrials",
+  "theme": "Space Economy",
+  "sub_theme": "Lunar / Deep Space",
+  "industry": "Aerospace & Defense / Lunar Services",
+  "exchange": "NASDAQ",
+  "price": 13.1,
+  "price_date": "2026-08-04",
+  "market_cap": "~$2.84B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "Intuitive Machines is the leading pure-play on the commercial cislunar economy, anchored by NASA's Commercial Lunar Payload Services (CLPS) program. It became the first commercial company to soft-land on the Moon (IM-1 Odysseus, Feb 2024), though both IM-1 and IM-2 (Athena, March 2025) tipped over on touchdown, exposing real landing-execution risk. The investment case is diversifying beyond binary lander missions: a sixth CLPS award (June 2026) plus a ~$148M share of NASA's $590M late-2028 Moon lander tranche, a position on NASA's multi-award Near Space Network (NSN) services contract worth up to $4.82B, and a nascent lunar data-relay constellation give the company a recurring communications-and-services revenue base. TTM revenue reached ~$334M (+53.8%), but the company remains unprofitable with thin fixed-price margins and has repeatedly raised equity. At $13.10 — down from a $46.75 52-week high — the risk/reward has reset for speculative investors who can tolerate another possible landing failure through IM-3 and beyond.",
+  "financials": {
+    "fiscal_year": "FY2025 / TTM Q1 2026",
+    "revenue": "$210.1M (FY2025); ~$334.3M TTM",
+    "revenue_growth": "-7.9% FY2025; +53.8% TTM",
+    "gross_margin": "~10% (thin fixed-price CLPS/services margins)",
+    "net_income": "-$83.9M (FY2025); -$109.9M TTM",
+    "eps_diluted": "-$0.87 (TTM)",
+    "cash": "~$370M (post-2025 equity raises, pre-Goonhilly/COMSAT close)",
+    "fcf": "Negative (mission-development and acquisition investment phase)"
+  },
+  "bull_case": {
+    "target": "$28–40",
+    "drivers": [
+      "IM-3 achieves a fully upright, fully operational lunar landing, ending the tip-over narrative and re-rating the stock",
+      "Near Space Network services and lunar data-relay contracts ramp into a recurring, higher-margin revenue stream",
+      "Late-2028 CLPS tranche win (~$148M) plus the sixth CLPS award build a multi-mission backlog with revenue visibility",
+      "Goonhilly Earth Station and COMSAT acquisition expands ground-station and space data-services footprint",
+      "Path to positive Adjusted EBITDA as services mix rises and fixed-price lander margins improve",
+      "Analyst consensus Buy with a 12-month target near $39 implies large upside if execution holds"
+    ]
+  },
+  "base_case": {
+    "target": "$16–22",
+    "assumptions": "IM-3 launches with mixed-to-successful results and CLPS cadence continues. Near Space Network and data-relay revenue grows steadily but remains early. TTM revenue sustains double-digit growth toward $400M+. The company narrows losses and approaches Adjusted EBITDA breakeven by 2027 without a large dilutive raise. Stock trades at a modest forward revenue multiple reflecting solid but not flawless execution."
+  },
+  "bear_case": {
+    "target": "$6–9",
+    "risks": [
+      "IM-3 or a subsequent lander suffers another tip-over or anomaly, undermining the commercial-lander thesis",
+      "Cash burn and acquisition spend force another dilutive equity raise at depressed prices",
+      "Fixed-price CLPS contracts produce persistent negative-to-thin gross margins",
+      "NASA budget pressure or Artemis re-scoping slows CLPS and Near Space Network funding",
+      "Competition from Firefly Aerospace and Astrobotic erodes IM's CLPS award share",
+      "Customer and program concentration leaves revenue exposed to a few large government contracts"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 13, 2026",
+      "iso_date": "2026-08-13",
+      "event": "Q2 2026 earnings — revenue trajectory, margin progress, cash runway, and updated IM-3 / NSN commentary"
+    },
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-09",
+      "event": "Integration of the Goonhilly Earth Station and COMSAT acquisition into a broader lunar/deep-space data-services offering"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "IM-3 lunar mission — the next Nova-C landing attempt and key test of whether IM can land fully upright and operational"
+    },
+    {
+      "date": "Ongoing 2026–2027",
+      "iso_date": null,
+      "event": "Near Space Network services task orders and lunar data-relay (Khon) satellite deployments building recurring communications revenue"
+    },
+    {
+      "date": "Late 2028",
+      "iso_date": "2028",
+      "event": "NASA CLPS tranche mission (~$148M IM share of the $590M late-2028 award) plus the sixth CLPS lunar-utility award execution"
+    }
+  ],
+  "key_risks": [
+    "Landing-execution risk — IM-1 and IM-2 both tipped over on touchdown; another failure on IM-3 would damage credibility and the stock",
+    "Profitability and margins — thin-to-negative fixed-price CLPS margins and persistent net losses (-$109.9M TTM)",
+    "Dilution — repeated equity raises and acquisition spending pressure the share count and per-share value",
+    "Government dependency — heavy reliance on NASA CLPS, OMES III, and Near Space Network contracts subject to budget and Artemis-program risk",
+    "Competition — Firefly Aerospace and Astrobotic compete directly for CLPS awards and lunar-services share",
+    "Concentration and macro — a few large contracts drive revenue, and the stock is a high-beta (1.83) name vulnerable to space-sector risk-off moves"
+  ]
+}

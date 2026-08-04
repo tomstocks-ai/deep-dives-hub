@@ -1,0 +1,77 @@
+{
+  "ticker": "COHR",
+  "company": "Coherent Corp.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Photonics & Optical Interconnects",
+  "industry": "Photonics / Optical Communications & Engineered Materials",
+  "exchange": "NYSE",
+  "price": 288.14,
+  "price_date": "2026-08-04",
+  "market_cap": "$56.4B",
+  "rating": "HOLD",
+  "last_updated": "2026-08-04",
+  "thesis": "Coherent is a scaled, vertically integrated photonics leader and one of the primary beneficiaries of the AI datacenter interconnect boom, supplying 800G and emerging 1.6T optical transceivers, indium phosphide lasers, and engineered materials (including silicon carbide) to hyperscalers and network OEMs. The Networking segment is compounding rapidly on AI datacom demand while the Materials and Lasers segments provide diversification and a margin-expansion story as the company divests non-core assets and pays down debt. After a roughly 3x run off its 52-week low to a $56B market cap at 120x trailing GAAP earnings, the risk/reward is balanced: the AI datacom thesis is intact and analyst targets sit above the current price, but valuation is stretched, the stock carries a 2.0 beta, and co-packaged optics and hyperscaler capex cyclicality are real overhangs.",
+  "financials": {
+    "fiscal_year": "FY2026E",
+    "revenue": "$6.6B",
+    "revenue_growth": "+18% (TTM)",
+    "gross_margin": "~38% (non-GAAP)",
+    "net_income": "$400.6M (TTM GAAP)",
+    "eps_diluted": "$2.40 (TTM GAAP)",
+    "cash": "~$900M",
+    "fcf": "~$500M"
+  },
+  "bull_case": {
+    "target": "$430–500",
+    "drivers": [
+      "800G ramps to full scale and 1.6T transceivers reach volume shipments across multiple hyperscalers",
+      "Datacom pricing stays healthy with demand continuing to exceed supply through 2027",
+      "Silicon carbide and engineered-materials recovery adds a second growth engine as EV and power markets rebound",
+      "Continued deleveraging and non-core divestitures re-rate the multiple as margins and FCF expand"
+    ]
+  },
+  "bear_case": {
+    "target": "$150–200",
+    "risks": [
+      "Hyperscaler AI capex cycle peaks and datacom transceiver demand decelerates sharply",
+      "Co-packaged optics (CPO) and linear pluggable optics erode the pluggable transceiver TAM faster than expected",
+      "Multiple compresses from ~120x trailing earnings toward peer/historical levels",
+      "Materials and Lasers segments stay weak, dragging consolidated growth and margins"
+    ]
+  },
+  "base_case": {
+    "target": "$300–360",
+    "assumptions": "Networking revenue keeps compounding on 800G volume and early 1.6T contribution while Materials and Lasers stabilize. Consolidated revenue grows mid-teens toward ~$7.5B in FY2027 with non-GAAP gross margin drifting toward 40% and continued debt paydown. The stock holds a premium AI-datacom multiple but broadly tracks the ~$390 analyst consensus target over a 12-month horizon."
+  },
+  "catalysts": [
+    {
+      "date": "August 12, 2026",
+      "iso_date": "2026-08-12",
+      "event": "FY2026 Q4 and full-year earnings release: datacom transceiver growth, gross-margin trajectory, and FY2027 outlook"
+    },
+    {
+      "date": "Q1 FY2027 (Nov 2026)",
+      "iso_date": "2026-11",
+      "event": "FY2027 Q1 earnings: 800G volume progression and initial 1.6T customer qualification updates"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "1.6T transceiver volume ramp and silicon carbide / engineered-materials demand recovery"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "CHIPS Act funding (up to $50M LOI) execution for the Sherman, Texas facility expansion and further non-core divestitures / deleveraging"
+    }
+  ],
+  "key_risks": [
+    "Stretched valuation: ~120x trailing GAAP earnings and a ~3x run off the 52-week low",
+    "High beta (~2.0) and extreme share-price volatility tied to the AI trade",
+    "Customer concentration among a small set of hyperscalers and network OEMs",
+    "Co-packaged optics and linear pluggable optics could disrupt the pluggable transceiver franchise",
+    "AI datacenter capex cyclicality could reverse datacom demand abruptly",
+    "Cyclical Materials and Lasers segments (EV/SiC, industrial) remain a drag if end markets stay soft"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "ticker": "ARM",
+  "company": "Arm Holdings plc",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "AI Compute",
+  "industry": "Semiconductor IP / CPU Architecture Licensing",
+  "exchange": "NASDAQ",
+  "price": 239.06,
+  "price_date": "2026-08-04",
+  "market_cap": "$252B",
+  "rating": "HOLD",
+  "last_updated": "2026-08-04",
+  "thesis": "Arm designs the CPU architecture and IP at the heart of nearly every smartphone and a fast-growing share of data-center, automotive, and AI silicon, monetizing through upfront licenses plus per-chip royalties. FY2026 revenue rose ~23% to $4.92B at a ~97% gross margin, with royalty growth driven by Armv9 adoption and Compute Subsystems (CSS), and data-center royalties more than doubling in Q1 FYE27. The long-term bull case rests on rising royalty rates, CSS attach, and a pivot toward selling Arm's own chips, targeting ~$25B revenue by fiscal 2031. At ~244x trailing and ~100x forward earnings the valuation prices in flawless execution, leaving little margin for error — hence a HOLD pending a better entry or clearer proof of the silicon strategy.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$4.92B",
+    "revenue_growth": "+23% YoY",
+    "gross_margin": "97.5%",
+    "net_income": "$904M (GAAP)",
+    "eps_diluted": "$0.85 (GAAP)",
+    "cash": "$3.6B (net cash ~$3.2B)",
+    "fcf": "$979M"
+  },
+  "bull_case": {
+    "target": "$320–380",
+    "drivers": [
+      "Armv9 and Compute Subsystems (CSS) drive rising royalty rates and per-chip value across mobile, data center, and automotive",
+      "Data-center royalties keep compounding as Arm-based server CPUs (Nvidia Grace, AWS Graviton, Microsoft Cobalt, Google Axion) gain share; $1B server-CPU revenue targeted across FY2027–FY2028",
+      "First-party silicon strategy expands the addressable market and lifts blended monetization toward the ~$25B fiscal-2031 revenue ambition",
+      "AI at the edge and in the data center broadens Arm's licensing pipeline and sustains 20%+ top-line growth"
+    ]
+  },
+  "base_case": {
+    "target": "$240–290",
+    "assumptions": "Revenue compounds in the low-to-mid 20s% toward ~$6–7B over the next two fiscal years; gross margins stay near 97%; royalty mix improves with Armv9 and CSS; the market keeps a premium ~70–90x forward multiple on strong secular growth but trims it as growth normalizes and the chip pivot is de-risked gradually."
+  },
+  "bear_case": {
+    "target": "$150–190",
+    "risks": [
+      "The ~244x trailing / ~100x forward multiple compresses sharply if royalty or licensing growth decelerates",
+      "RISC-V open-standard adoption and in-house architectures erode Arm's licensing moat over time",
+      "Smartphone-unit softness and China exposure weigh on the core royalty base",
+      "Direct chip ambitions strain margins, invite conflict with licensees, and disappoint on execution"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q2 FYE27 earnings — guidance calls for $1.33B–$1.43B revenue and $0.43–$0.51 adjusted EPS; watch data-center royalty momentum"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "Compute Subsystems (CSS) and Armv9 adoption ramp; progress toward the $1B server-CPU revenue target across FY2027–FY2028"
+    },
+    {
+      "date": "Q4 FYE27",
+      "iso_date": "2027-02",
+      "event": "Q3 FYE27 earnings and updated full-year outlook; read on royalty-rate expansion and AI-driven licensing"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": null,
+      "event": "First-party silicon strategy milestones — any formal launch of Arm-branded chips would reshape the revenue model and licensee relationships"
+    }
+  ],
+  "key_risks": [
+    "Extreme valuation: ~244x trailing and ~100x forward earnings price in near-flawless execution",
+    "RISC-V and in-house architectures threaten the long-term licensing moat",
+    "Smartphone cyclicality and China exposure pressure the core royalty base",
+    "Direct chip strategy risks channel conflict with licensees and margin dilution",
+    "SoftBank's controlling stake and limited public float amplify volatility and governance risk"
+  ]
+}

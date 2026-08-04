@@ -1,0 +1,81 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle Corporation",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Enterprise Software",
+  "industry": "Cloud & Enterprise Software",
+  "exchange": "NYSE",
+  "price": 141.85,
+  "price_date": "2026-08-04",
+  "market_cap": "$395B",
+  "rating": "BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "Oracle has transformed from a mature database licensing company into one of the fastest-growing hyperscale cloud providers, with Oracle Cloud Infrastructure (OCI) capacity now the binding constraint on revenue rather than demand. A record remaining performance obligation (RPO) backlog exceeding $450B — driven by multi-year AI training and inference contracts including Stargate-related capacity — provides multi-year revenue visibility that is unmatched in enterprise software. The core question is execution: whether Oracle can build data-center capacity fast enough, fund the capex, and convert backlog into margin-accretive revenue. At ~$142 the stock offers a positive risk/reward for investors who believe OCI backlog conversion is durable, tempered by heavy capex compressing near-term free cash flow.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended May 31, 2026)",
+    "revenue": "$67B",
+    "revenue_growth": "+16% YoY",
+    "gross_margin": "~70%",
+    "net_income": "$13.5B",
+    "eps_diluted": "$4.65",
+    "cash": "$11B",
+    "fcf": "~$5B (pressured by data-center capex)"
+  },
+  "bull_case": {
+    "target": "$210–$250",
+    "drivers": [
+      "OCI revenue sustains 50%+ growth as record RPO backlog above $450B converts on schedule and capacity constraints ease",
+      "AI training and inference demand (OpenAI/Stargate-class contracts, multicloud database deals with AWS, Azure and Google) keeps the backlog compounding faster than it is recognized",
+      "Total revenue reaches a $100B+ run rate by FY2028 with cloud crossing 50% of the mix, driving operating-margin expansion",
+      "Free cash flow inflects sharply higher as capex intensity normalizes and high-margin cloud consumption scales"
+    ]
+  },
+  "bear_case": {
+    "target": "$95–$115",
+    "risks": [
+      "Data-center capex balloons past $40B annually, keeping free cash flow depressed and forcing incremental debt issuance",
+      "RPO backlog conversion slips as power, GPU supply, and construction bottlenecks delay capacity coming online",
+      "Customer concentration in a handful of mega AI contracts creates renewal and counterparty risk if AI capex cools",
+      "Hyperscaler price competition (AWS, Azure, Google) compresses OCI margins before scale benefits are realized"
+    ]
+  },
+  "base_case": {
+    "target": "$160–$185",
+    "assumptions": "OCI grows 40-50% and total revenue compounds mid-teens to high-teens through FY2028, RPO backlog converts steadily but with some timing slippage, capex remains elevated (~$35B/yr) keeping FCF muted near term, and the market assigns a premium cloud-growth multiple that partially normalizes as free cash flow recovers."
+  },
+  "catalysts": [
+    {
+      "date": "September 2026",
+      "iso_date": "2026-09",
+      "event": "FY2027 Q1 earnings — first read on RPO backlog trajectory, OCI revenue growth, and capex guidance"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Oracle CloudWorld — OCI capacity roadmap, new AI/multicloud database partnerships, and product announcements"
+    },
+    {
+      "date": "December 2026",
+      "iso_date": "2026-12",
+      "event": "FY2027 Q2 earnings — cloud revenue mix, data-center bring-up cadence, and free cash flow trend"
+    },
+    {
+      "date": "March 2027",
+      "iso_date": "2027-03",
+      "event": "FY2027 Q3 earnings — backlog conversion progress and updated FY2027 cloud growth outlook"
+    },
+    {
+      "date": "FY2026-2028",
+      "iso_date": "2026",
+      "event": "OCI data-center capacity build-out and Stargate-related capacity coming online, converting RPO into recognized revenue"
+    }
+  ],
+  "key_risks": [
+    "Execution risk on data-center build-out: power availability, GPU supply, and construction timelines could delay backlog conversion",
+    "Heavy capex (~$35B+/yr) compresses free cash flow and may require additional debt, raising balance-sheet leverage",
+    "Customer concentration in a small number of very large AI contracts creates counterparty and renewal risk",
+    "Intense hyperscaler competition from AWS, Microsoft Azure, and Google Cloud could pressure OCI pricing and margins",
+    "A broad slowdown in AI infrastructure spending would undermine the growth premium embedded in the valuation"
+  ]
+}

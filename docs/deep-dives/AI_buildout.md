@@ -8,15 +8,15 @@
 || Ticker | Company | Rating | Last Updated | Full DD |
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:SONY" hide-background></tv-ticker-tag> | Sony Group Corporation | <span class="rating-buy">BUY</span> | 2026-07-18 | [:material-file-document: Read](SONY.md) |
-| <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-13 | [:material-file-document: Read](WOLF.md) |
+| <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-08-04 | [:material-file-document: Read](WOLF.md) |
 
 ### Analog / Power
 
-**WOLF — Wolfspeed, Inc. · <span class="rating-hold">HOLD</span>**
+**WOLF — Wolfspeed, Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
-Pure-play silicon carbide (SiC) semiconductor company with vertical integration from crystal growth to power devices. Recent \$476M capital raise and 25% debt reduction improved balance sheet and extended runway. Revenue still declining (-18.9% YoY), gross margins deeply negative, and stock has risen 560%+ from lows in what appears to be a short-squeeze dynamic (RSI 83+). AI/data center power opportunity is real but current price embeds flawless execution.
+Wolfspeed is the world's leading pure-play silicon carbide (SiC) semiconductor maker, but the investable story reset completely when it emerged from a prepackaged Chapter 11 on September 29, 2025 — cancelling ~156M legacy shares, issuing ~43.6M new shares, cutting debt ~70% (~\$4.6B) and pushing maturities to 2030. On pro forma FY2025 revenue of ~\$757.6M it still ran negative gross margins and a -\$1.21B net loss, and it raised another ~\$475M (convertibles plus equity at \$18.458) in March 2026, so dilution and cash burn remain live risks. The AI data center, industrial/energy and automotive SiC opportunity is real, and residual \$2.15B debt plus a ~52M-share float make the new equity a leveraged turnaround bet — speculative hold, not a core position.
 
-**Bull:** \$65–\$75 · **Base:** \$35–\$45 · **Bear:** \$12–\$18
+**Bull:** \$35–\$50 · **Base:** \$18–\$26 · **Bear:** \$8–\$14
 
 [:material-arrow-right: Full Deep Dive](WOLF.md)
 
@@ -41,6 +41,7 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 | <tv-ticker-tag symbol="NASDAQ:AEHR" hide-background></tv-ticker-tag> | Aehr Test Systems | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](AEHR.md) |
 | <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASML" hide-background></tv-ticker-tag> | ASML Holding N.V. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](ASML.md) |
+| <tv-ticker-tag symbol="NASDAQ:AMAT" hide-background></tv-ticker-tag> | Applied Materials, Inc. | <span class="rating-buy">BUY</span> | 2026-08-04 | [:material-file-document: Read](AMAT.md) |
 
 ---
 
@@ -74,11 +75,22 @@ ASML is the world's sole supplier of EUV lithography — the one un-substitutabl
 
 ---
 
+**AMAT — Applied Materials, Inc. · <span class="rating-buy">BUY</span>**
+
+Applied Materials is the largest and most diversified maker of wafer-fabrication equipment, spanning deposition, etch, CMP, ion implantation, and metrology. It is a foundational AI-buildout beneficiary: the transistor and packaging inflections AI chips demand — gate-all-around (GAA), backside power delivery, advanced 3D packaging, and HBM/DRAM — are the most materials-intensive steps, and precisely where Applied is share-leading and its served market grows fastest. FY2025 revenue was ~\$28.4B (+4.4%), trailing net income is up ~26%, and the sell-side is Strong Buy (~\$628 target). At ~\$518 (34x forward earnings) it is a fair-to-attractive price for the WFE leader — a BUY, with WFE cyclicality, heavy China exposure under tightening export controls, and customer concentration as the key risks.
+
+**Bull:** \$700–\$780 · **Base:** \$600–\$680 · **Bear:** \$360–\$430
+
+[:material-arrow-right: Full Deep Dive](AMAT.md)
+
+---
+
 ## Photonics & Optical Interconnects
 
 || Ticker | Company | Rating | Last Updated | Full DD |
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
+| <tv-ticker-tag symbol="NYSE:COHR" hide-background></tv-ticker-tag> | Coherent Corp. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](COHR.md) |
 
 ---
 
@@ -89,6 +101,16 @@ Vertically integrated optical transceiver manufacturer riding the AI data center
 **Bull:** \$150–180 · **Base:** \$90–110 · **Bear:** \$50–65
 
 [:material-arrow-right: Full Deep Dive](AAOI.md)
+
+---
+
+**COHR — Coherent Corp. · <span class="rating-hold">HOLD</span>**
+
+Coherent is a scaled, vertically integrated photonics leader and a primary beneficiary of the AI datacenter interconnect boom, supplying 800G and emerging 1.6T optical transceivers, indium phosphide lasers, and engineered materials (including silicon carbide) to hyperscalers and network OEMs. The Networking segment is compounding on AI datacom demand (~\$6.6B revenue, +18% TTM, ~38% non-GAAP gross margin, ~\$500M FCF) while Materials and Lasers add diversification and a deleveraging-driven margin story. After a ~3x run off its 52-week low to a \$56.4B market cap at ~120x trailing GAAP earnings, the thesis is intact and the ~\$390 consensus sits above the \$288.14 price, but a stretched multiple, ~2.0 beta, and co-packaged-optics / capex-cyclicality overhangs balance the risk/reward — hence HOLD.
+
+**Bull:** \$430–500 · **Base:** \$300–360 · **Bear:** \$150–200
+
+[:material-arrow-right: Full Deep Dive](COHR.md)
 
 ---
 
@@ -206,6 +228,7 @@ Arista is the merchant-silicon leader in high-speed data center Ethernet and a p
 | <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
 | <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
 | <tv-ticker-tag symbol="NYSE:TSM" hide-background></tv-ticker-tag> | Taiwan Semiconductor Manufacturing Company Limited | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](TSM.md) |
+| <tv-ticker-tag symbol="NASDAQ:ARM" hide-background></tv-ticker-tag> | Arm Holdings plc | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](ARM.md) |
 
 ---
 
@@ -266,12 +289,22 @@ TSMC is the world's dominant pure-play foundry and the indispensable manufacturi
 
 [:material-arrow-right: Full Deep Dive](TSM.md)
 
+---
+
+**ARM — Arm Holdings plc · <span class="rating-hold">HOLD</span>**
+
+Arm designs the CPU architecture and IP behind ~99% of smartphones and a fast-growing share of data-center, automotive, and AI silicon, monetizing via upfront licenses plus per-chip royalties at a ~97% gross margin. FY2026 revenue rose ~23% to \$4.92B, and Q1 FYE27 hit a record \$1.29B (+22%) as data-center royalties more than doubled; management targets ~\$25B revenue by fiscal 2031 on Armv9/CSS royalty expansion and a first-party silicon pivot. At ~\$239.06 the stock trades at ~244x trailing and ~100x forward earnings — a premier franchise priced for flawless execution, with the long-dated RISC-V threat and rich multiple the key risks.
+
+**Bull:** \$320–380 · **Base:** \$240–290 · **Bear:** \$150–190
+
+[:material-arrow-right: Full Deep Dive](ARM.md)
+
 
 ## Memory & Storage
 
 || Ticker | Company | Rating | Last Updated | Full DD |
 ||--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
+| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 | <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
 
@@ -347,7 +380,7 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:DELL" hide-background></tv-ticker-tag> | Dell Technologies Inc. | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](DELL.md) |
 | <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
-| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-05-12 | [:material-file-document: Read](P.md) |
+| <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
 | <tv-ticker-tag symbol="NASDAQ:SMCI" hide-background></tv-ticker-tag> | Super Micro Computer, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](SMCI.md) |
@@ -369,7 +402,7 @@ AI infrastructure/data center pure-play specializing in AI server rack integrati
 
 **P — Everpure, Inc. · <span class="rating-hold">HOLD</span>**
 
-All-flash data storage leader formerly known as Pure Storage, now expanding beyond storage into AI-ready data management. FY2026 revenue of \$3.66B (+15.6% YoY) with exceptional 70.4% gross margins and \$690.6M free cash flow. Strong competitive moat via 50%+ lower TCO than legacy storage. Rebrand to Everpure and 1touch acquisition signal platform ambitions. Premium valuation (151x TTM P/E, 6.3x P/S) and overbought RSI.
+Everpure (formerly Pure Storage, NYSE ticker changed to "P" in April 2026) is a leading all-flash enterprise storage vendor. FY2026 delivered \$3.66B revenue (+15.6% YoY), gross margin of 70.4%, its first full year of GAAP profitability (\$188.2M net income), and \$690.6M free cash flow against a \$2.39B cash balance. The Evergreen//One subscription model, FlashBlade AI data-pipeline positioning, and the 1touch data-intelligence acquisition drive durable growth. After the post-rebrand spike faded, the stock has settled to ~\$80 — inside the base-case range and roughly fair value. Key risks: ~\$482M annual stock-based-comp dilution and a \$2.78B convertible-note overhang. HOLD; accumulate on weakness toward the mid-\$70s.
 
 **Bull:** \$108–\$116 · **Base:** \$76–\$82 · **Bear:** \$51–\$56
 
@@ -489,7 +522,7 @@ AI-dedicated GPU cloud operator leasing high-performance NVIDIA GPU clusters to 
 | <tv-ticker-tag symbol="NASDAQ:CCXI" hide-background></tv-ticker-tag> | Churchill Capital XI / Agility Robotics | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](CCXI.md) |
 | <tv-ticker-tag symbol="NYSE:TKR" hide-background></tv-ticker-tag> | The Timken Company | <span class="rating-hold">HOLD</span> | 2026-07-14 | [:material-file-document: Read](TKR.md) |
 | <tv-ticker-tag symbol="NASDAQ:VELO" hide-background></tv-ticker-tag> | Velo3D, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](VELO.md) |
-| <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-02 | [:material-file-document: Read](DDD.md) |
+| <tv-ticker-tag symbol="NYSE:DDD" hide-background></tv-ticker-tag> | 3D Systems Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](DDD.md) |
 | <tv-ticker-tag symbol="NYSE:ROK" hide-background></tv-ticker-tag> | Rockwell Automation, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](ROK.md) |
 | <tv-ticker-tag symbol="NASDAQ:NOVT" hide-background></tv-ticker-tag> | Novanta Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](NOVT.md) |
 | <tv-ticker-tag symbol="NYSE:RRX" hide-background></tv-ticker-tag> | Regal Rexnord Corporation | <span class="rating-buy">BUY</span> | 2026-07-19 | [:material-file-document: Read](RRX.md) |
@@ -509,9 +542,9 @@ Recapitalized metal additive manufacturing for mission-critical aerospace, space
 
 **DDD — 3D Systems Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Legacy additive manufacturing pioneer executing a multi-year turnaround. Q1 2026 revenue grew 11% YoY to \$95.5M with gross margin of 35.9% and adjusted EBITDA turning positive at \$2.1M (vs. -\$23.9M prior year). Healthcare segment is the growth engine (+21% YoY), while \$55M in cost savings is reshaping the cost base. At <1x sales, the risk/reward is asymmetric — but only on a pullback.
+3D Systems is a legacy additive-manufacturing pioneer in a slow, non-linear turnaround. Q2 2026 (reported Aug 3) beat lowered expectations — revenue \$94.6M (-0.3% YoY) and an adjusted loss of \$0.04 vs. a \$0.05 consensus loss — but adjusted EBITDA relapsed to -\$0.8M after Q1's brief +\$2.1M print, so the inflection is unproven. Management guided Q3 revenue to \$96M–\$99M (above consensus), pointing to a return to growth led by healthcare and defense metal AM. A \$50M June raise (16.4M shares at \$3.05) shored up liquidity but diluted holders, and an Aug 4 CEO transition plan for Dr. Jeffrey Graves adds leadership uncertainty. At ~1.2x sales, near the 200-day average and below the offering price, the risk/reward is asymmetric for speculative capital — but it remains a show-me story; the main risk is continued cash burn and further dilution.
 
-**Bull:** \$6.50–\$8.00 · **Base:** \$4.00–\$5.00 · **Bear:** \$1.50–\$2.50
+**Bull:** \$5.00–\$6.00 · **Base:** \$3.50–\$4.25 · **Bear:** \$1.75–\$2.25
 
 [:material-arrow-right: Full Deep Dive](DDD.md)
 

@@ -1,0 +1,84 @@
+{
+  "ticker": "AVAV",
+  "company": "AeroVironment, Inc.",
+  "sector": "Industrials",
+  "theme": "Defense",
+  "sub_theme": "Drones",
+  "industry": "Unmanned Aircraft Systems and Loitering Munitions",
+  "exchange": "NASDAQ",
+  "price": 159.18,
+  "price_date": "2026-08-04",
+  "market_cap": "$8.1B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "AeroVironment is the U.S. leader in small unmanned aircraft systems (Puma, JUMP 20) and Switchblade loitering munitions, and the transformational $4B+ BlueHalo acquisition (closed May 2025) added space, counter-UAS, directed energy, and cyber to build a diversified next-generation defense technology company. FY2026 revenue jumped 141% to a record $1.98B with a $1.2B funded backlog and $2.7B of bookings, but heavy purchase-accounting amortization, a $241M goodwill impairment, and share dilution drove a GAAP net loss. With drone and loitering-munition demand accelerating globally, the thesis is compelling, but integration execution, negative free cash flow, and a premium valuation on adjusted earnings warrant a SPEC. BUY.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$1.98B",
+    "revenue_growth": "+141% YoY",
+    "gross_margin": "~25%",
+    "net_income": "-$265.1M",
+    "eps_diluted": "-$5.40",
+    "cash": "$377M",
+    "fcf": "-$141M"
+  },
+  "bull_case": {
+    "target": "$250–$290",
+    "drivers": [
+      "Global loitering-munition demand surges as Switchblade 300/600 becomes a standard tactical strike weapon for the U.S. Army and allied militaries",
+      "Puma, JUMP 20, and P550 small UAS win large multi-year procurement and foreign military sales programs",
+      "BlueHalo integration unlocks cross-selling across counter-UAS, directed energy, space, and cyber, lifting SCDE-segment margins",
+      "Capacity investments convert the $1.2B funded backlog and $2.7B bookings into rapid revenue growth toward and beyond $2.5B",
+      "Purchase-accounting amortization and one-time charges roll off, driving GAAP profitability and a re-rating toward peer multiples"
+    ]
+  },
+  "base_case": {
+    "target": "$185–$225",
+    "assumptions": "FY2027 revenue grows to $2.125B–$2.225B (per guidance) with adjusted EBITDA of $305M–$325M and non-GAAP EPS of $3.02–$3.34. BlueHalo integration proceeds on plan, funded backlog stays above $1B, and the drone and counter-UAS demand cycle remains strong, but heavy intangible amortization keeps GAAP earnings thin. The stock trades on an EV/EBITDA and forward adjusted-EPS multiple consistent with a high-growth defense-technology franchise."
+  },
+  "bear_case": {
+    "target": "$110–$140",
+    "risks": [
+      "BlueHalo integration stumbles, synergies disappoint, or further goodwill impairments follow the $241M FY2026 charge",
+      "U.S. defense budget delays, continuing resolutions, or program reprioritization slow procurement of Switchblade and UAS",
+      "Persistent negative free cash flow and additional equity or convertible issuance dilute shareholders",
+      "Low-cost drone and loitering-munition competition compresses pricing and margins",
+      "Valuation compresses sharply as high-multiple growth names de-rate on any execution or funding disappointment"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "September 2026",
+      "event": "Q1 FY2027 earnings — first full-year comparison lapping the BlueHalo close and margin trajectory",
+      "iso_date": "2026-09"
+    },
+    {
+      "date": "Q3 2026",
+      "event": "Switchblade and loitering-munition contract awards (U.S. Army LMAMS/Replicator and allied FMS)",
+      "iso_date": "2026-10"
+    },
+    {
+      "date": "December 2026",
+      "event": "BlueHalo integration and SCDE-segment margin progress; counter-UAS and directed-energy program updates",
+      "iso_date": "2026-12"
+    },
+    {
+      "date": "FY2027",
+      "event": "Revenue ramp toward $2.125B–$2.225B guidance and return to GAAP net income",
+      "iso_date": "2027"
+    },
+    {
+      "date": "Q2 FY2027",
+      "event": "Manufacturing-capacity expansion milestones for Switchblade and small UAS production",
+      "iso_date": "2026-12"
+    }
+  ],
+  "key_risks": [
+    "Integration risk from the transformational BlueHalo acquisition, including large goodwill and intangible balances subject to impairment",
+    "Heavy dependence on U.S. government funding exposes revenue to budget cycles, continuing resolutions, and shifting priorities",
+    "Negative free cash flow and elevated debt and convertible notes after the acquisition and capacity buildout",
+    "Share dilution — diluted share count roughly doubled to fund the BlueHalo deal",
+    "Premium valuation on adjusted (non-GAAP) earnings leaves little room for execution missteps",
+    "Growing low-cost competition in drones and loitering munitions could pressure pricing and market share"
+  ]
+}

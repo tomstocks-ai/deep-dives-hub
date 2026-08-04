@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-07-31",
-  "count": 124,
+  "last_updated": "2026-08-04",
+  "count": 132,
   "tickers": [
     {
       "ticker": "000660",
@@ -125,6 +125,21 @@
       "price_date": "2026-06-25"
     },
     {
+      "ticker": "AMAT",
+      "company": "Applied Materials, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductor Wafer Fabrication Equipment (Deposition, Etch, CMP, Metrology)",
+      "rating": "BUY",
+      "price": 518.21,
+      "market_cap": "~$411B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/AMAT/",
+      "api_url": "/api/AMAT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-08-04"
+    },
+    {
       "ticker": "AMD",
       "company": "Advanced Micro Devices, Inc.",
       "sector": "Technology",
@@ -153,6 +168,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-07-29"
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings plc",
+      "sector": "Technology",
+      "industry": "Semiconductor IP / CPU Architecture Licensing",
+      "rating": "HOLD",
+      "price": 239.06,
+      "market_cap": "$252B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/ARM/",
+      "api_url": "/api/ARM.json",
+      "theme": "AI Buildout",
+      "sub_theme": "AI Compute",
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "ASML",
@@ -213,6 +243,21 @@
       "theme": "Biotechnology & Health Technology",
       "sub_theme": "Medical Devices",
       "price_date": "2026-07-31"
+    },
+    {
+      "ticker": "AVAV",
+      "company": "AeroVironment, Inc.",
+      "sector": "Industrials",
+      "industry": "Unmanned Aircraft Systems and Loitering Munitions",
+      "rating": "SPEC. BUY",
+      "price": 159.18,
+      "market_cap": "$8.1B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/AVAV/",
+      "api_url": "/api/AVAV.json",
+      "theme": "Defense",
+      "sub_theme": "Drones",
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "AVGO",
@@ -363,6 +408,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-06-15"
+    },
+    {
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "sector": "Technology",
+      "industry": "Photonics / Optical Communications & Engineered Materials",
+      "rating": "HOLD",
+      "price": 288.14,
+      "market_cap": "$56.4B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/COHR/",
+      "api_url": "/api/COHR.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Photonics & Optical Interconnects",
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "COIN",
@@ -535,14 +595,14 @@
       "sector": "Technology",
       "industry": "3D Printing / Additive Manufacturing",
       "rating": "SPEC. BUY",
-      "price": 3.88,
-      "market_cap": "$355M",
-      "last_updated": "2026-06-02",
+      "price": 2.83,
+      "market_cap": "$460M",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/DDD/",
       "api_url": "/api/DDD.json",
       "theme": "AI Buildout",
       "sub_theme": "Robotics & Automation",
-      "price_date": "2026-06-02"
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "DDOG",
@@ -625,14 +685,14 @@
       "sector": "Technology",
       "industry": "Software — Collaborative Design Platform",
       "rating": "SPEC. BUY",
-      "price": 17.7,
-      "market_cap": "$9.33B",
-      "last_updated": "2026-05-01",
+      "price": 24.92,
+      "market_cap": "$13.17B",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/FIG/",
       "api_url": "/api/FIG.json",
       "theme": "Software",
       "sub_theme": "UX",
-      "price_date": "2026-05-01"
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "FIGR",
@@ -935,6 +995,21 @@
       "price_date": "2026-07-29"
     },
     {
+      "ticker": "LUNR",
+      "company": "Intuitive Machines, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense / Lunar Services",
+      "rating": "SPEC. BUY",
+      "price": 13.1,
+      "market_cap": "~$2.84B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/LUNR/",
+      "api_url": "/api/LUNR.json",
+      "theme": "Space Economy",
+      "sub_theme": "Lunar / Deep Space",
+      "price_date": "2026-08-04"
+    },
+    {
       "ticker": "MARA",
       "company": "MARA Holdings, Inc.",
       "sector": "Fintech",
@@ -1205,6 +1280,21 @@
       "price_date": "2026-07-08"
     },
     {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "sector": "Technology",
+      "industry": "Cloud & Enterprise Software",
+      "rating": "BUY",
+      "price": 141.85,
+      "market_cap": "$395B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/ORCL/",
+      "api_url": "/api/ORCL.json",
+      "theme": "Software",
+      "sub_theme": "Enterprise Software",
+      "price_date": "2026-08-04"
+    },
+    {
       "ticker": "OSS",
       "company": "One Stop Systems, Inc.",
       "sector": "Technology",
@@ -1240,14 +1330,14 @@
       "sector": "Technology",
       "industry": "Computer Hardware / Data Storage",
       "rating": "HOLD",
-      "price": 83.33,
-      "market_cap": "$27.68B",
-      "last_updated": "2026-05-12",
+      "price": 80.14,
+      "market_cap": "$26.6B",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/P/",
       "api_url": "/api/P.json",
       "theme": "AI Buildout",
       "sub_theme": "Memory & Storage",
-      "price_date": "2026-05-12"
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "PAAS",
@@ -1509,15 +1599,15 @@
       "company": "EchoStar Corporation",
       "sector": "Technology",
       "industry": "Satellite Communications / Telecom",
-      "rating": "BUY",
-      "price": 128.68,
-      "market_cap": "$37.2B",
-      "last_updated": "2026-04-04",
+      "rating": "SPEC. BUY",
+      "price": 84.09,
+      "market_cap": "$24.4B",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/SATS/",
       "api_url": "/api/SATS.json",
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
-      "price_date": "2026-04-04"
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "SIVE",
@@ -1580,6 +1670,21 @@
       "price_date": "2026-07-29"
     },
     {
+      "ticker": "SMR",
+      "company": "NuScale Power Corporation",
+      "sector": "Energy",
+      "industry": "Small Modular Nuclear Reactors",
+      "rating": "SPEC. BUY",
+      "price": 9.01,
+      "market_cap": "$3.29B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/SMR/",
+      "api_url": "/api/SMR.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-08-04"
+    },
+    {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
       "sector": "Technology",
@@ -1627,17 +1732,17 @@
     {
       "ticker": "SPCE",
       "company": "Virgin Galactic Holdings, Inc.",
-      "sector": "Space",
+      "sector": "Industrials",
       "industry": "Aerospace / Commercial Spaceflight",
       "rating": "SPECULATIVE",
-      "price": 4.53,
-      "market_cap": "$2.10B",
-      "last_updated": "2026-05-29",
+      "price": 2.82,
+      "market_cap": "$378M",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/SPCE/",
       "api_url": "/api/SPCE.json",
       "theme": "Space Economy",
       "sub_theme": "Lunar / Deep Space",
-      "price_date": "2026-05-29"
+      "price_date": "2026-08-04"
     },
     {
       "ticker": "STAA",
@@ -1854,15 +1959,30 @@
       "company": "Wolfspeed, Inc.",
       "sector": "Technology",
       "industry": "Semiconductors / Silicon Carbide Power Devices",
-      "rating": "HOLD",
-      "price": 53.72,
-      "market_cap": "$2.60B",
-      "last_updated": "2026-05-13",
+      "rating": "HOLD / SPEC.",
+      "price": 24.35,
+      "market_cap": "$1.25B",
+      "last_updated": "2026-08-04",
       "deep_dive_url": "/deep-dives/WOLF/",
       "api_url": "/api/WOLF.json",
       "theme": "AI Buildout",
       "sub_theme": "Analog / Power",
-      "price_date": "2026-05-13"
+      "price_date": "2026-08-04"
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "sector": "Technology",
+      "industry": "Cloud Security / Zero Trust / SASE",
+      "rating": "BUY",
+      "price": 154.46,
+      "market_cap": "~$25.0B",
+      "last_updated": "2026-08-04",
+      "deep_dive_url": "/deep-dives/ZS/",
+      "api_url": "/api/ZS.json",
+      "theme": "Software",
+      "sub_theme": "Cybersecurity",
+      "price_date": "2026-08-04"
     }
   ]
 }

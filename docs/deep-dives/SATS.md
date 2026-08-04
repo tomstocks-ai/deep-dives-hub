@@ -1,5 +1,5 @@
 ---
-title: "SATS — EchoStar"
+title: "SATS / ECHO — EchoStar Corporation"
 hide:
   - navigation
 ---
@@ -9,7 +9,7 @@ hide:
 
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-SATS/" rel="noopener nofollow" target="_blank"><span class="blue-text">SATS stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-ECHO/" rel="noopener nofollow" target="_blank"><span class="blue-text">ECHO stock chart</span></a><span class="trademark"> by TradingView</span></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
     "allow_symbol_change": true,
@@ -24,7 +24,7 @@ hide:
     "locale": "en",
     "save_image": true,
     "style": "1",
-    "symbol": "NASDAQ:SATS",
+    "symbol": "NASDAQ:ECHO",
     "theme": "dark",
     "timezone": "Etc/UTC",
     "backgroundColor": "#0F0F0F",
@@ -43,577 +43,200 @@ hide:
 </div>
 
 
-# EchoStar Corporation (SATS) - Investment-Grade Deep Dive Analysis
+# SATS / ECHO — EchoStar Corporation
 
-**Report Date:** April 4, 2026  
-**Current Price:** \$128.68 (April 2, 2026 close)  
-**Exchange:** NASDAQ  
-**Market Cap:** ~\$37.2 billion  
-**Sector:** Telecommunications / Satellite Communications  
-**Analyst Rating:** BUY (Consensus)
+**Report Date:** August 4, 2026  
+**Current Price:** \$84.09 (August 3, 2026 close, VERIFIED)  
+**Exchange:** NASDAQ — **ticker changed from SATS to ECHO effective June 24, 2026** (CUSIP, legal name and share rights unchanged)  
+**Market Cap:** ~\$24.4 billion  
+**Sector:** Technology · Satellite Communications / Telecom  
+**Analyst Rating:** SPEC. BUY
+
+> **Ticker note:** This deep dive is filed under the legacy symbol **SATS**. EchoStar Corporation now trades on Nasdaq as **ECHO** (effective June 24, 2026). The company, CUSIP and capital structure are unchanged — only the trading symbol changed. Live quotes and the chart above use **ECHO**.
 
 ---
 
 ## Executive Summary
 
-EchoStar Corporation (SATS) is undergoing one of the most dramatic corporate transformations in recent telecommunications history. Following the December 2023 merger with DISH Network, the company has pivoted from a distressed wireless carrier facing a 2026 "debt maturity wall" to a spectrum monetization entity with approximately **\$42.6 billion** in strategic asset sales to AT&T and SpaceX.
+EchoStar has now executed the bulk of the transformation that defined the bull thesis a year ago. On **June 30, 2026** the company **deconsolidated its Pay-TV segment** (DISH TV plus Sling) and substantially all of its "Other" segment, booking a **\$9.7 billion gain** that pushed Q2 FY2026 net income to **\$8.5 billion** (versus a \$306 million loss a year earlier). At the same time, total debt fell **34% year-over-year to \$17.4 billion**, and management said it emerged from the restructuring with roughly **\$14–15 billion of pro-forma cash**.
 
-The company's 2025 financial results reflect this transformation: a reported net loss of **\$14.50 billion** (including \$17.63 billion in non-cash asset impairments), masking an underlying Adjusted OIBDA of **\$1.49 billion**. The stock has surged **497%** over the past year, driven by the transformative spectrum deals.
+What remains is a very different company: a deleveraged holder of mid-band spectrum, a **roughly 2% equity stake in SpaceX**, and two shrinking operating businesses — Boost Mobile wireless and Hughes satellite broadband. The stock has fallen from ~\$128 in April to **~\$84** as investors look past the one-time accounting gain to persistent revenue declines and subscriber losses.
 
-**Investment Thesis:** The "SpaceX Pivot" creates a unique asymmetric opportunity—SATS offers exposure to SpaceX (via ~2% equity stake worth ~\$11 billion) alongside a deleveraging telecom business with substantial remaining spectrum assets.
-
----
-
-## 1. Company Overview
-
-### 1.1 Business Model
-
-EchoStar Corporation operates as a diversified satellite and telecommunications company with four primary business segments:
-
-| Segment | 2025 Revenue | % of Total | Subscribers |
-|---------|-------------|------------|-------------|
-| Pay-TV | \$9.70B | 65% | 7.00M |
-| Wireless (Boost Mobile) | \$3.80B | 25% | 7.51M |
-| Broadband & Satellite | \$1.46B | 10% | 739K |
-| Other/Eliminations | \$53M | 0% | N/A |
-| **Total** | **\$15.00B** | **100%** | **15.25M** |
-
-### 1.2 Business Segment Details
-
-**Pay-TV Segment** (\$9.70B Revenue, \$2.69B Adjusted OIBDA)
-- DISH TV: 5.02 million satellite subscribers
-- Sling TV: 1.98 million OTT streaming subscribers
-- Declining subscriber base: -168K net loss in Q4 2025
-- High-margin, cash-generative but structurally challenged
-
-**Wireless Segment** (\$3.80B Revenue, -\$378M Adjusted OIBDA)
-- Boost Mobile: 7.51 million retail wireless subscribers
-- Lost 9K subscribers in Q4 2025 (vs. +90K gain in Q4 2024)
-- Strategic pivot: Transitioning from standalone 5G network to "hybrid MNO" using AT&T infrastructure
-- Rated #1 in 5G reliability and coverage in 15 major U.S. cities (Opensignal, May 2025)
-
-**Broadband & Satellite Services** (\$1.46B Revenue, \$327M Adjusted OIBDA)
-- HughesNet: 739,000 broadband subscribers
-- Lost 44K subscribers in Q4 2025
-- Facing intense competition from Starlink in satellite broadband
-
-### 1.3 Industry Position
-
-| Metric | EchoStar | Major Competitors |
-|--------|----------|-------------------|
-| Pay-TV Rank | #2 (satellite) | Comcast, Charter |
-| Wireless Rank | #4 | Verizon, AT&T, T-Mobile |
-| Satellite Broadband | #3 | Starlink (dominant), Viasat |
-
-### 1.4 Management Team
-
-| Executive | Role | Background |
-|-----------|------|------------|
-| **Charlie Ergen** | Chairman & CEO (returned Nov 2025) | Co-founder, legendary dealmaker, architect of DISH/EchoStar mergers |
-| **Hamid Akhavan** | CEO, EchoStar Capital | Former T-Mobile executive, led spectrum strategy |
-| **Eben Albertyn** | EVP & CTO, Boost Mobile | 5G network architect |
-| **Sean Lee** | SVP Consumer Product & Marketing | Boost Mobile leadership |
-
-**Key Management Update (November 2025):** Charlie Ergen returned as CEO following the formation of EchoStar Capital, the company's new investment division focused on managing the SpaceX equity stake and evaluating space economy M&A opportunities.
+**Investment view:** The going-concern risk that once dominated the story is largely resolved, and the sell-side consensus (Moderate Buy, ~\$136 target) still implies meaningful upside. But value now hinges on the mark applied to the SpaceX stake, the close of the final SpaceX transaction, and FCC-mandated Boost shutdown liabilities of \$5–7 billion. That binary, sum-of-parts profile warrants a **SPEC. BUY**, not a clean BUY.
 
 ---
 
-## 2. Financial Analysis
+## Company Overview
 
-### 2.1 Income Statement Summary
+### Business Model
 
-| Metric | FY2023 | FY2024 | FY2025 | Change YoY |
-|--------|--------|--------|--------|------------|
-| Revenue | \$17.02B | \$15.83B | \$15.00B | -5.2% |
-| Gross Profit | \$4.32B | \$4.18B | \$3.87B | -7.4% |
-| Operating Income | -\$1.91B | -\$304M | -\$17.72B | NM |
-| Net Income | -\$6.28B | -\$120M | -\$14.50B | NM |
-| Diluted EPS | -\$21.80 | -\$0.44 | -\$50.41 | NM |
+Following the June 30, 2026 deconsolidation, EchoStar is best understood as three distinct value pools plus a legacy operating stub:
 
-**Note:** FY2025 results include \$17.63 billion in non-cash asset impairments and other one-time charges. Excluding these, normalized net loss was approximately \$1.05 billion.
+| Value pool | What it is | Status |
+|-----------|-----------|--------|
+| SpaceX equity stake | ~2% of SpaceX, received in the spectrum-for-equity deal | Held; marked privately |
+| Spectrum portfolio | Remaining mid-band and other FCC licenses after AT&T and SpaceX sales | Retained / monetizable |
+| Boost Mobile | Retail wireless, transitioning to a capital-light hybrid MNO on AT&T | Shrinking |
+| Hughes | HughesNet satellite broadband and enterprise services | Shrinking rapidly |
 
-### 2.2 Segment Profitability (Adjusted OIBDA)
+The Pay-TV business (DISH TV and Sling) still contributed to results through June 30 but is **no longer consolidated** going forward — a structural break that makes prior-year comparisons misleading.
 
-| Segment | FY2024 | FY2025 | Change |
-|---------|--------|--------|--------|
-| Pay-TV | \$2.99B | \$2.69B | -10.0% |
-| Wireless | -\$325M | -\$378M | Worse |
-| Broadband/Satellite | \$342M | \$327M | -4.4% |
-| Other | -\$1.31B | -\$1.10B | Improved |
-| **Total Adjusted OIBDA** | **\$1.63B** | **\$1.49B** | **-8.6%** |
+### Q2 FY2026 Segment Snapshot
 
-**Key Insights:**
+| Segment | Q2 2026 Revenue | Trend |
+|---------|-----------------|-------|
+| Pay-TV (deconsolidated 6/30) | \$2,149M | Declining; removed going forward |
+| Wireless (Boost Mobile) | \$929M | ARPU up, subscribers down |
+| Broadband and Satellite (Hughes) | \$317M | Sharp subscriber losses |
+| Other / Eliminations | \$56M | Restructured lower |
+| **Total** | **~\$3.3B** | **-4.0% YoY** |
 
-- Pay-TV remains the cash cow, generating \$2.69B in Adjusted OIBDA (180% of total)
-- Wireless losses widened due to network buildout costs (now reversing with AT&T deal)
-- Consolidated Adjusted OIBDA margin: ~10%
+### Management
 
-### 2.3 Balance Sheet Highlights
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| Total Debt | ~\$26.3B | As of Q3 2025 |
-| Debt/Equity | 446% | High leverage |
-| Cash & Equivalents | Limited | Liquidity constrained pre-deal close |
-| Total Assets | Impaired | \$17.6B in write-downs in 2025 |
-
-### 2.4 Cash Flow Analysis
-
-| Metric | FY2024 | FY2025 | Commentary |
-|--------|--------|--------|------------|
-| CapEx | \$2.50B | \$1.64B | Reduced wireless network spending |
-| Free Cash Flow | Negative | Negative | Ongoing burn |
-| Interest Expense | High | Very High | 11.75% notes weighing on finances |
-
-### 2.5 The "Going Concern" Resolution
-
-The \$42.6 billion in spectrum monetization deals resolves the immediate liquidity crisis:
-
-- **AT&T Deal:** \$22.65 billion cash for 3.45-3.55 GHz and 600 MHz spectrum
-- **SpaceX Deal:** ~\$20 billion total (\$8.5B cash + \$11B equity + \$2B assumed interest payments)
-- **Total Proceeds:** Sufficient to retire all 2026-2027 debt maturities
+Founder-chairman **Charlie Ergen** remains the central figure and controlling shareholder, having architected the DISH/EchoStar merger and the subsequent AT&T and SpaceX spectrum transactions. The **EchoStar Capital** division manages the SpaceX equity stake and evaluates space-economy investments. Management's stated capital-allocation priorities are, in order: investing in the core businesses, EchoStar Capital investments, share repurchases, and dividends.
 
 ---
 
-## 3. Valuation
+## Financial Analysis
 
-### 3.1 Current Valuation Metrics
+### Q2 FY2026 Results (quarter ended June 30, 2026)
 
-| Metric | Value | Industry Avg | Commentary |
-|--------|-------|--------------|------------|
-| Market Cap | \$37.17B | N/A | Post-transformation value |
-| Price/Sales | 2.5x | 1.2x | Premium to peers |
-| Price/Book | N/A | 2.0x | Negative book value post-impairments |
-| EV/Revenue | ~2.0x | 1.5x | Adjusted for net debt |
+| Metric | Q2 2026 | Prior-year Q2 | Commentary |
+|--------|---------|---------------|------------|
+| Total revenue | ~\$3.3B | ~\$3.45B | -4.0% YoY on core declines |
+| Adjusted OIBDA | \$681M | ~\$279M | 19.0% margin; +\$402M YoY |
+| Net income (to EchoStar) | \$8.5B | -\$306M | Driven by \$9.7B deconsolidation gain |
+| Free cash flow | -\$103M | -\$739M | Improved on lower capex and SpaceX interim interest |
+| Capital expenditures | \$92M | ~\$293M | Down 68.5% YoY |
 
-### 3.2 Sum-of-the-Parts (SOTP) Valuation
+The headline \$8.5 billion profit is almost entirely a **non-cash accounting gain** from removing the Pay-TV segment; underlying operations remain cash-consumptive, with Q2 free cash flow of **-\$103 million** and operating cash flow of roughly -\$10 million.
 
-| Component | Estimated Value | Methodology |
-|-----------|-----------------|-------------|
-| **SpaceX Equity Stake** | \$11.0B | ~2% of SpaceX at ~\$550B valuation |
-| **Remaining Spectrum** | \$10-15B | FCC license valuations |
-| **Pay-TV Business** | \$8-12B | 4-5x Adjusted OIBDA |
-| **Hughes Satellite** | \$3-5B | Strategic asset value |
-| **Boost Mobile** | \$2-3B | Subscriber value |
-| **Less: Net Debt** | -\$5B | Post-monetization |
-| **Implied Equity Value** | **\$29-41B** | Range |
-| **Per Share Value** | **\$100-145** | ~290M shares outstanding |
+### Balance Sheet Transformation
 
-### 3.3 DCF Scenarios
+| Metric | Q2 2026 | Prior quarter | YoY |
+|--------|---------|---------------|-----|
+| Total debt | \$17.4B | \$24.3B | -34.1% |
+| Cash and marketable securities | \$1.6B | \$1.7B | -58.0% |
+| Cash interest paid (Q2) | \$506M | — | -34.8% YoY |
 
-**Base Case:**
+The **\$6.8 billion sequential debt reduction** came mainly from the deconsolidation, which removed \$9.75 billion of DDBS notes (partially offset by adding back a \$2.84 billion intercompany loan). Management framed pro-forma liquidity at **\$14–15 billion of cash** after the restructuring and expects a **further ~\$5 billion of debt reduction** when the final SpaceX transaction closes. SpaceX paid \$414 million of EchoStar's interim debt service during the quarter.
 
-- Revenue CAGR: -2% (2025-2030)
-- EBITDA Margin: 12% (stabilized)
-- WACC: 12%
-- Terminal Growth: 1%
-- **Implied Value: \$125-135/share**
+### Segment Operating Detail
 
-**Bull Case:**
-
-- SpaceX IPO at \$200B+ valuation (2x current)
-- Successful Boost Mobile turnaround on AT&T network
-- Spectrum monetization exceeds expectations
-- **Implied Value: \$180-220/share**
-
-**Bear Case:**
-
-- AT&T/SpaceX deals fail regulatory approval
-- Pay-TV acceleration faster than expected
-- Continued wireless subscriber losses
-- **Implied Value: \$60-80/share**
-
-### 3.4 Analyst Price Targets
-
-| Analyst | Firm | Rating | Price Target | Date |
-|---------|------|--------|--------------|------|
-| Gregory Williams | TD Cowen | Strong Buy | \$158 | Jan 2026 |
-| John Hodulik | UBS | Hold | \$127 | Mar 2026 |
-| Michael Rollins | Citi | Hold | \$121 | Feb 2026 |
-| **Consensus** | **5 Analysts** | **Buy** | **\$129.40** | Mar 2026 |
-
-**Target Range:** \$110 (Low) to \$158 (High)
+- **Boost Mobile:** 7.375M subscribers, down 118K in the quarter; churn 2.88%; ARPU up 3.2% YoY to \$38.60 as the mix shifts to higher-value plans.
+- **Pay-TV (deconsolidated):** 6.391M total (DISH TV 4.684M, Sling 1.707M); DISH TV down 12.0% YoY.
+- **Hughes:** 622K subscribers, down 59K in the quarter and **-24.1% YoY**, pressured by Starlink and terrestrial broadband; enterprise backlog steady at \$1.4B.
 
 ---
 
-## 4. Growth Catalysts
+## Valuation
 
-### 4.1 SpaceX Equity Upside
+### Sum-of-the-Parts Framework
 
-The most significant catalyst is EchoStar's ~2% equity stake in SpaceX, valued at approximately \$11 billion:
+With Pay-TV deconsolidated, EchoStar is a classic sum-of-parts case. The dominant swing factor is the **SpaceX equity stake** — a roughly 2% interest whose value scales directly with SpaceX's private mark. At mid-2026 SpaceX valuations, that stake is plausibly worth well into the tens of billions, potentially rivaling EchoStar's entire ~\$24 billion market cap on its own. The remaining spectrum, a deleveraged balance sheet, and the shrinking Boost and Hughes operations round out the estimate, against the offset of FCC Boost-shutdown and tax liabilities of \$5–7 billion.
 
-| Scenario | SpaceX Valuation | SATS Stake Value | SATS Per Share |
-|----------|------------------|------------------|----------------|
-| Current (Private) | \$550B | \$11.0B | ~\$38 |
-| IPO at \$200B | \$200B | \$4.0B | ~\$14 |
-| IPO at \$400B | \$400B | \$8.0B | ~\$28 |
-| IPO at \$600B | \$600B | \$12.0B | ~\$41 |
-| IPO at \$1T | \$1,000B | \$20.0B | ~\$69 |
+### Scenario Targets
 
-**Key Point:** SpaceX is widely expected to IPO Starlink in 2026-2027, which could unlock substantial value for SATS shareholders.
+| Scenario | Price Target | Core assumption |
+|----------|--------------|-----------------|
+| **Bull** | \$150–190 | SpaceX mark climbs toward \$1T+; spectrum monetized at a premium; final SpaceX deal closes; clean sum-of-parts re-rates |
+| **Base** | \$110–140 | Near the ~\$136 consensus; SpaceX stake holds; Pay-TV drag removed; Boost/Hughes decline manageably; liabilities land within guidance |
+| **Bear** | \$55–75 | SpaceX mark falls or IPO disappoints; subscriber losses accelerate; shutdown costs exceed \$5–7B; buybacks stay blocked |
 
-### 4.2 Deleveraging Transformation
+### Analyst Consensus
 
-| Metric | Pre-Deal | Post-Deal (Est.) |
-|--------|----------|------------------|
-| Total Debt | ~\$26B | ~\$5-8B |
-| Debt/EBITDA | ~16x | ~3-4x |
-| Interest Expense | ~\$2.5B | ~\$500M |
-| Free Cash Flow | Negative | Positive |
-
-### 4.3 Boost Mobile "Hybrid MNO" Model
-
-The transition to AT&T's network infrastructure provides:
-
-- Elimination of \$1B+ annual network CapEx
-- Access to nationwide coverage immediately
-- Focus on core competencies: customer acquisition, branding, distribution
-- Path to profitability: Targeting positive EBITDA by 2027
-
-### 4.4 Remaining Spectrum Portfolio
-
-Post-transactions, EchoStar retains significant spectrum assets:
-
-- AWS-3 licenses (partial)
-- H-Block licenses (partial)
-- Additional mid-band holdings
-- Estimated value: \$10-15 billion
-
-### 4.5 Regulatory Tailwinds
-
-- FCC approval of AT&T/SpaceX transactions expected mid-2026
-- Government support for rural connectivity (HughesNet positioning)
-- Potential spectrum auction participation with strengthened balance sheet
+The sell-side rates EchoStar a **Moderate Buy** with a consensus price target of roughly **\$136**, implying about **59% upside** from the ~\$84 level. That gap reflects the market's discount for execution and SpaceX-mark uncertainty rather than doubt about the deleveraged balance sheet.
 
 ---
 
-## 5. Risk Factors
+## Growth Catalysts
 
-### 5.1 Transaction/Regulatory Risks (CRITICAL)
-
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| FCC rejects AT&T deal | Low | Catastrophic | Strong precedent for spectrum transfers |
-| DOJ antitrust concerns | Low-Medium | High | AT&T already owns adjacent spectrum |
-| Infrastructure creditor protests | Medium | Medium | Negotiated settlements likely |
-
-**Infrastructure Creditor Protests:** American Tower and Crown Castle have filed FCC protests (Docket 25-302) arguing EchoStar should not divest "crown jewel" assets while allegedly defaulting on tower lease obligations. This could delay but likely won't block transactions.
-
-### 5.2 Business Risks
-
-| Risk | Severity | Description |
-|------|----------|-------------|
-| Pay-TV Acceleration | High | Cord-cutting continues; DISH TV -168K subs in Q4 2025 |
-| Starlink Competition | High | HughesNet losing market share rapidly; Starlink has 97% of speed tests |
-| Wireless Churn | Medium | Boost lost subscribers in Q4; competitive pressure intense |
-| Integration Execution | Medium | Complex hybrid MNO transition carries operational risks |
-
-### 5.3 Financial Risks
-
-| Risk | Description |
-|------|-------------|
-| Continuing Losses | FY2025 normalized net loss of \$1.05B; path to profitability unclear |
-| Dividend Risk | No dividend; unlikely until debt reduction complete |
-| Dilution Risk | Potential equity issuance if deals falter |
-
-### 5.4 Macro Risks
-
-- **Interest Rate Sensitivity:** High leverage makes SATS sensitive to rate changes (though mitigated by deleveraging)
-- **Economic Downturn:** Pay-TV and wireless are economically sensitive
-- **Competitive Intensity:** Wireless and pay-TV are mature, competitive markets
-
-## 6. Sentiment & Flows
-
-### 6.1 Analyst Sentiment
-
-| Rating | Count | % |
-|--------|-------|---|
-| Strong Buy | 2 | 40% |
-| Buy | 1 | 20% |
-| Hold | 2 | 40% |
-| Sell | 0 | 0% |
-| Strong Sell | 0 | 0% |
-
-**Consensus:** BUY (Average Price Target: \$129.40)
-
-### 6.2 Recent Analyst Actions
-
-| Date | Analyst | Firm | Action | Target |
-|------|---------|------|--------|--------|
-| Mar 3, 2026 | John Hodulik | UBS | Maintains Hold | \$125→\$127 |
-| Feb 4, 2026 | Michael Rollins | Citi | Maintains Hold | \$111→\$121 |
-| Jan 7, 2026 | Gregory Williams | TD Cowen | Maintains Strong Buy | \$100→\$158 |
-| Dec 23, 2025 | Michael Rollins | Citi | Maintains Hold | \$87→\$111 |
-| Dec 23, 2025 | John Hodulik | UBS | Maintains Hold | \$28→\$125 |
-
-**Trend:** Analysts significantly upgraded price targets following the AT&T/SpaceX deal announcements (Q4 2025 - Q1 2026).
-
-### 6.3 Institutional Ownership
-
-- **Major Holders:** Charles Ergen (significant insider ownership), institutional investors
-- **Recent Activity:** Likely accumulation by value/event-driven funds post-transformation
-- **Float:** Limited due to concentrated insider ownership
-
-### 6.4 Short Interest
-
-- Previously elevated during distress period
-- Likely declined significantly post-deal announcements
-- Short covering may have contributed to rapid price appreciation
-
-### 6.5 Social/Media Sentiment
-
-- **Reddit/Retail:** Mixed—bullish on SpaceX angle, bearish on legacy business
-- **Twitter/X:** Positive on transformation narrative
-- **Seeking Alpha:** Bullish articles on sum-of-parts valuation
+- **Final SpaceX transaction close (2H 2026):** expected to remove a further ~\$5 billion of debt and formalize the equity relationship.
+- **SpaceX / Starlink valuation and IPO developments (2026–2027):** the single largest driver of EchoStar's sum-of-parts value.
+- **Spectrum monetization:** remaining mid-band licenses can be leased or sold from a position of balance-sheet strength.
+- **Boost hybrid-MNO economics:** running on AT&T's network eliminates roughly \$1 billion of annual network capex and provides a path toward positive segment economics.
+- **Capital returns:** a \$5 billion buyback is authorized; management could initiate repurchases or a dividend once covenant and valuation constraints ease.
 
 ---
 
-## 7. Substack & News Scan
+## Risk Factors
 
-### 7.1 Recent Developments (March-April 2026)
+### Valuation and Structural Risks
 
-| Date | Development | Impact |
-|------|-------------|--------|
-| Mar 2, 2026 | Q4/FY2025 earnings; confirmed \$42.6B deals | Positive - validated transaction structure |
-| Mar 3, 2026 | Detailed transaction breakdown released | Positive - clarity on SpaceX equity component |
-| Mar 19, 2026 | Major debt restructuring announced | Positive - formalized deleveraging plan |
-| Late Mar 2026 | Stock crossed above avg. analyst target (\$120.50) | Neutral - now trading above consensus |
+- **SpaceX-mark dependency:** a large share of EchoStar's equity value is a private, illiquid stake whose mark can move sharply with SpaceX financings or an IPO price.
+- **Transaction completion:** the ~\$5 billion of further deleveraging depends on the final SpaceX transaction closing on schedule.
 
-### 7.2 Key News Themes
+### Business Risks
 
-**Positive:**
+- **Secular decline:** Hughes subscribers fell 24% YoY and Boost lost 118K in the quarter; the deconsolidated Pay-TV base also continues to erode.
+- **Competitive pressure:** Starlink and other LEO and fiber providers are structurally advantaged against HughesNet, while Boost faces aggressive carrier promotions.
 
-- "EchoStar Details \$42 Billion Strategic Shift via SpaceX and AT&T Asset Divestitures" (SatNews, Mar 2026)
-- "Boost Mobile Rated No. 1 in 5G Reliability and Coverage" (EchoStar PR, May 2025)
-- "EchoStar Liquidity Injections Shift 2026 Debt Outlook" (SatNews, Dec 2025)
+### Financial and Regulatory Risks
 
-**Negative/Cautionary:**
-
-- Infrastructure creditor protests (American Tower, Crown Castle)
-- Subscriber losses across all segments
-- "2025 in Review: EchoStar Navigates a Series of Storms" (Light Reading, Jan 2026)
-
-### 7.3 Competitive Landscape News
-
-**Starlink Dominance:**
-
-- Starlink ended Q2 2025 with 72% market share of satellite internet households (S&P Global)
-- Over 9 million global subscribers as of December 2025
-- Starlink Direct-to-Cell service launching (competitive threat to Boost)
-
-**HughesNet Challenges:**
-
-- Ranked 3rd globally with only 1.0% of speed tests (Ookla, Q3 2025)
-- Subscriber base declining (-44K in Q4 2025)
-
-### 7.4 Sector Trends
-
-- **Satellite Internet Market:** \$10.4B (2024) → \$22.6B (2030) at 13.9% CAGR
-- **5G Deployment:** Mature in urban areas; focus shifting to rural coverage
-- **MVNO Market:** Growing as infrastructure sharing increases
+- **FCC Boost shutdown liabilities:** management set aside \$2.4 billion in escrow and estimates total tax-and-shutdown liability at **\$5–7 billion**.
+- **Cash burn and covenants:** Q2 free cash flow was -\$103 million, and management says high valuations and debt covenants currently limit the \$5 billion buyback.
 
 ---
 
-## 8. Investment Thesis
+## Recommendation
 
-### 8.1 Bull Case (40% Probability) - Target: \$180-220
-
-**Thesis:** The "SpaceX Arbitrage" Play
-
-1. **SpaceX IPO Catalyst:** If SpaceX IPOs at \$200B+ valuation, SATS's ~2% stake becomes worth \$20B+ (\$69/share)
-2. **Successful Transformation:** EchoStar becomes a debt-free spectrum holding company generating \$1B+ annual FCF
-3. **Boost Turnaround:** Hybrid MNO model achieves profitability on AT&T infrastructure
-4. **Spectrum Appreciation:** Remaining spectrum assets increase in value as 5G/6G demand grows
-5. **Multiple Expansion:** Market recognizes "sum-of-parts" value; valuation re-rates to 3-4x EBITDA
-
-**Price Target:** \$180-220 (40-70% upside)
-
-### 8.2 Base Case (45% Probability) - Target: \$125-145
-
-**Thesis:** The "Fair Value" Transformation
-
-1. **Deals Close as Planned:** AT&T and SpaceX transactions complete by mid-2026
-2. **Debt Reduction:** Successful deleveraging to 3-4x EBITDA
-3. **Stabilization:** Pay-TV decline moderates; Boost stabilizes on AT&T network
-4. **SpaceX Value:** Stake maintains current ~\$11B value; partial monetization possible
-5. **Dividend Potential:** Company initiates modest dividend by 2027-2028
-
-**Price Target:** \$125-145 (-3% to +13% from current)
-
-### 8.3 Bear Case (15% Probability) - Target: \$60-80
-
-**Thesis:** The "Broken Transformation"
-
-1. **Regulatory Block:** FCC or DOJ blocks major transaction (low probability but high impact)
-2. **Deal Delays:** Prolonged regulatory review strains liquidity
-3. **Business Deterioration:** Accelerated pay-TV decline; Boost continues bleeding subscribers
-4. **Creditor Litigation:** Infrastructure lawsuits delay/dilute recovery
-5. **Forced Asset Sales:** Distress sales at unfavorable prices
-
-**Price Target:** \$60-80 (-38% to -53% downside)
-
-### 8.4 Expected Value Calculation
-
-| Scenario | Probability | Target | Weighted Value |
-|----------|-------------|--------|----------------|
-| Bull | 40% | \$200 | \$80.00 |
-| Base | 45% | \$135 | \$60.75 |
-| Bear | 15% | \$70 | \$10.50 |
-| **Expected Value** | **100%** | | **\$151.25** |
-
-**Implied Upside:** ~17% to expected value of ~\$151
-
----
-
-## 9. Recommendation
-
-### 9.1 Investment Rating: **ACCUMULATE / SPECULATIVE BUY**
+**Rating: SPEC. BUY.** EchoStar has de-risked dramatically — the debt maturity wall is gone, leverage is down by a third, and pro-forma cash is substantial. Yet the equity is now a leveraged bet on the SpaceX mark and on management's ability to monetize spectrum while the legacy operating businesses shrink. That is an attractive but genuinely binary setup.
 
 | Factor | Assessment |
 |--------|------------|
-| Valuation | Fair to Slightly Rich at current levels |
-| Growth | High (transformation-driven) |
-| Risk | High (execution, regulatory) |
-| Quality | Medium (improving with deleveraging) |
-| Timing | Post-major-announcement; wait for pullback |
+| Balance sheet | Much improved; going-concern risk resolved |
+| Growth | Legacy revenue declining; upside is asset-value, not operating |
+| Risk | High — SpaceX-mark and shutdown-liability dependent |
+| Timing | Below consensus; attractive for risk-tolerant, event-driven capital |
 
-### 9.2 Position Sizing Guidelines
+**Position sizing:** treat as a small, speculative sum-of-parts holding (roughly 1–3% for most portfolios; more only for event-driven mandates). 
 
-| Portfolio Type | Suggested Allocation | Rationale |
-|----------------|---------------------|-----------|
-| Conservative | 0-1% | Too speculative; binary outcome risk |
-| Moderate | 1-3% | Small position for SpaceX optionality |
-| Aggressive/Growth | 3-5% | Core speculative holding |
-| Event-Driven | 5-10% | High conviction on deal completion |
+**Entry / risk management:** accumulate on weakness toward the mid-\$70s and below; scale out into the \$130s–\$150s as the SpaceX close and spectrum monetization play out. A break below the mid-\$50s would invalidate the sum-of-parts thesis and warrant an exit. On the technical picture, the stock trades well below its early-2026 highs; watch the 50- and 200-day moving averages and RSI on the chart above for confirmation of a base rather than relying on any single indicator.
 
-### 9.3 Entry Strategy
-
-**Immediate Action:** Wait for pullback to \$115-120 range
-
-| Entry Zone | Action | Rationale |
-|------------|--------|-----------|
-| \$132+ | Avoid | Extended; limited near-term upside |
-| \$120-130 | Start Position | Small initial position (1/3 size) |
-| \$110-120 | Add Aggressively | Core position zone |
-| \$100-110 | Full Position | Rare opportunity if reached |
-| <\$100 | Back Up the Truck | Significant margin of safety |
-
-### 9.4 Exit Strategy
-
-**Stop Loss:** \$95 (hard stop - below major support)
-
-**Take Profit Levels:**
-
-- 1/3 position at \$155 (+20%)
-- 1/3 position at \$185 (+44%)
-- Hold 1/3 for SpaceX IPO upside (\$200+)
-
-### 9.5 Catalyst Calendar
-
-| Date | Catalyst | Bullish/Bearish |
-|------|----------|-----------------|
-| Mid-2026 | AT&T deal FCC approval | Bullish if approved |
-| Mid-2026 | SpaceX deal close | Bullish |
-| 2026 | Q1-Q2 earnings | Neutral-watch execution |
-| 2026-2027 | SpaceX/Starlink IPO | Potentially very bullish |
-| Ongoing | Debt paydown announcements | Bullish |
-| Ongoing | Boost Mobile subscriber reports | Watch closely |
-
-### 9.6 Key Metrics to Monitor
-
-1. **FCC Transaction Approval Status** (Critical)
-2. **SpaceX Valuation/IPO News** (Major catalyst)
-3. **Boost Mobile Subscriber Trends** (Business health)
-4. **Pay-TV Churn Rate** (Cash flow stability)
-5. **Debt Retirement Progress** (Deleveraging confirmation)
-6. **HughesNet Subscriber Trends** (Competitive position)
+**Scenario targets:** Bull \$150–190 · Base \$110–140 · Bear \$55–75.
 
 ---
 
-## 10. Readability Pass: Jargon Explained
+## Sentiment Analysis
 
-### 10.1 Financial Terms
-
-| Term | Plain English Explanation |
-|------|--------------------------|
-| **OIBDA** | "Operating Income Before Depreciation and Amortization"—a measure of profit that ignores accounting charges for equipment aging. Think of it as cash the business generates before wear-and-tear costs. |
-| **Adjusted OIBDA** | OIBDA excluding one-time unusual items (like the \$17.6B asset write-down). Shows the "normal" profitability of the business. |
-| **Debt Maturity Wall** | When large amounts of debt come due at the same time. Like having multiple credit card bills all due on the same day—dangerous if you don't have the cash. |
-| **Non-Cash Impairment** | When a company admits assets (like spectrum licenses) are worth less than they thought. It's an accounting loss, not actual cash leaving the company. |
-| **CapEx** | "Capital Expenditure"—money spent on big items like cell towers, satellites, or equipment. |
-
-### 10.2 Industry Terms
-
-| Term | Plain English Explanation |
-|------|--------------------------|
-| **Spectrum** | Radio frequencies the government licenses to companies for wireless communication. Like owning a specific lane on a highway—valuable because only you can use it. |
-| **MVNO** | "Mobile Virtual Network Operator"—a wireless carrier that doesn't own cell towers. They rent network space from companies like AT&T and resell it to customers (like Boost Mobile does). |
-| **Hybrid MNO** | A mix between owning your own network and renting. Boost will use its own "brain" (core network) but AT&T's "body" (cell towers). |
-| **Open RAN** | A new way to build cell networks using standardized, interchangeable parts instead of proprietary equipment. Like building with LEGO instead of custom-molded pieces. |
-| **Direct-to-Device (D2D)** | Technology that lets satellites send signals directly to regular cell phones (no special equipment needed). SpaceX's Starlink is pioneering this. |
-| **Cord-Cutting** | People canceling traditional cable/satellite TV in favor of streaming services like Netflix. |
-
-### 10.3 Transaction Terms
-
-| Term | Plain English Explanation |
-|------|--------------------------|
-| **Spectrum Monetization** | Selling or leasing radio frequency licenses to generate cash. Like renting out land you own but aren't using. |
-| **Deleveraging** | Paying down debt to reduce risk. Like paying off credit cards to lower your monthly bills. |
-| **Sum-of-the-Parts (SOTP)** | Valuing a company by adding up what each piece would be worth if sold separately, rather than looking at the whole company as one unit. |
-| **Going Concern** | An auditor's warning that a company might not survive without major changes. Like a doctor saying "this patient needs surgery." |
+- **Sell-side:** Moderate Buy consensus, ~\$136 target (~59% implied upside), reflecting confidence in the balance-sheet repair tempered by operating-decline caution.
+- **Market reaction:** shares were roughly flat on the Q2 print (~\$84), as investors discounted the \$9.7 billion accounting gain and focused on subscriber trends.
+- **Retail / social:** narrative remains split — bullish on the SpaceX-optionality and deleveraging angle, bearish on Hughes and Boost fundamentals.
+- **Options / flow:** elevated interest around SpaceX valuation headlines and the final transaction close; the ticker change to ECHO has been absorbed without disruption (CUSIP unchanged).
 
 ---
 
-## 11. Appendix: Key Data Tables
+## Readability Pass
 
-### 11.1 Quarterly Subscriber Trends
+In plain English: EchoStar spent the last two years digging out of a debt hole by selling airwaves (spectrum) to AT&T and SpaceX. In June 2026 it pushed its satellite-TV business (DISH and Sling) off its own books, which created a huge one-time accounting profit but did not put much cash in the door. What is left is a much less indebted company that owns valuable airwaves and a small slice of SpaceX, plus two businesses (Boost phones and Hughes internet) that are steadily losing customers.
 
-| Segment | Q4 2024 | Q4 2025 | Change |
-|---------|---------|---------|--------|
-| DISH TV | 5.22M | 5.02M | -200K |
-| Sling TV | 2.02M | 1.98M | -40K |
-| Total Pay-TV | 7.24M | 7.00M | -168K |
-| Boost Wireless | 7.52M | 7.51M | -9K |
-| HughesNet | 783K | 739K | -44K |
-
-### 11.2 Debt Profile (Pre-Restructuring)
-
-| Debt Type | Amount | Maturity | Rate |
-|-----------|--------|----------|------|
-| Senior Secured Notes | \$3.5B | 2027 | 11.75% |
-| Hughes Debt | \$1.5B | Aug 2026 | Various |
-| Other Debt | ~\$21B | Various | 7-12% |
-| **Total** | **~\$26B** | | |
-
-### 11.3 Comparable Company Multiples
-
-| Company | EV/Revenue | EV/EBITDA | Market Cap |
-|---------|------------|-----------|------------|
-| EchoStar (SATS) | ~2.0x | ~15x | \$37B |
-| AT&T (T) | 2.3x | 7.5x | \$158B |
-| Verizon (VZ) | 2.7x | 8.0x | \$170B |
-| T-Mobile (TMUS) | 4.5x | 11.0x | \$250B |
-| Comcast (CMCSA) | 2.0x | 7.0x | \$140B |
+The stock is really a bet on two things: how much that SpaceX slice is worth, and whether management can turn its airwaves and cash into shareholder value before the shrinking businesses matter. It is cheaper than what analysts think it is worth, but the outcome is lumpy and uncertain — hence a speculative buy rather than a slam-dunk. Note the trading symbol is now **ECHO**, not SATS; nothing else about the shares changed.
 
 ---
 
-## Disclaimer
+## Appendix — Quick Reference
 
-This report is for informational purposes only and does not constitute investment advice. The analysis contained herein represents the author's interpretation of publicly available information. All investments carry risk, including the potential loss of principal. EchoStar Corporation (SATS) is a highly speculative investment with significant regulatory, operational, and market risks. Past performance does not guarantee future results. Readers should conduct their own due diligence and consult with qualified financial advisors before making investment decisions.
-
-**Data Sources:** EchoStar Corporation SEC filings, investor relations materials, Bloomberg, Yahoo Finance, MarketBeat, StockAnalysis.com, Simply Wall St, SatNews, S&P Global, Ookla, Opensignal, and various financial news outlets. Data as of April 4, 2026.
-
----
-
-*Report Generated: April 4, 2026*  
-*Next Update: Following Q1 2026 Earnings (Expected May 2026)*
+| Item | Value |
+|------|-------|
+| Ticker (current) | ECHO (was SATS until June 24, 2026) |
+| Price / date | \$84.09 · 2026-08-03 close |
+| Market cap | ~\$24.4B |
+| Q2 revenue / growth | ~\$3.3B · -4.0% YoY |
+| Q2 net income | \$8.5B (incl. \$9.7B deconsolidation gain) |
+| Adjusted OIBDA | \$681M (19.0% margin) |
+| Total debt | \$17.4B (-34% YoY) |
+| Cash (Q2-end) | \$1.6B (~\$14–15B pro-forma per mgmt) |
+| Rating | SPEC. BUY |
+| Bull / Base / Bear | \$150–190 · \$110–140 · \$55–75 |
 
 ---
 
 ## Sources Consulted
 
-1. [Yahoo Finance - SATS](https://finance.yahoo.com/quote/SATS)
-2. [SEC EDGAR - SATS Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SATS)
-3. [MarketBeat - SATS Analysis](https://www.marketbeat.com/stocks/NASDAQ/SATS)
-4. [TipRanks - SATS Stock](https://www.tipranks.com/stocks/sats)
-5. [Finviz - SATS](https://finviz.com/quote.ashx?t=SATS)
+1. [Investing.com — EchoStar Q2 2026 slides: deconsolidation drives profit surge](https://in.investing.com/news/company-news/echostar-q2-2026-slides-deconsolidation-drives-profit-surge-93CH-5531222)
+2. [Nasdaq / GlobeNewswire — EchoStar Changing Stock Ticker SATS to ECHO](https://www.nasdaq.com/press-release/echostar-changing-stocker-ticker-sats-echo-marking-companys-next-era-earth-and-space)
+3. [Light Reading — EchoStar to change stock ticker to 'ECHO'](https://www.lightreading.com/satellite/echostar-to-change-stock-ticker-to-echo-)
+4. [MarketBeat — EchoStar (ECHO) forecast and price target](https://www.marketbeat.com/stocks/NASDAQ/SATS/forecast/)
+5. [MarketBeat — ECHO Q2 2026 earnings report (8/3/2026)](https://www.marketbeat.com/earnings/reports/2026-8-3-echostar-corp-stock/)
+6. [StockAnalysis.com — EchoStar (SATS/ECHO) price history](https://stockanalysis.com/stocks/sats/history/)
+7. [SEC EDGAR — EchoStar Corporation filings (Form 10-Q filed 2026-08-03)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SATS)
