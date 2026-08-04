@@ -2,70 +2,70 @@
   "ticker": "DDD",
   "company": "3D Systems Corporation",
   "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Robotics & Automation",
   "industry": "3D Printing / Additive Manufacturing",
   "exchange": "NYSE",
-  "price": 3.88,
-  "market_cap": "$355M",
+  "price": 2.83,
+  "price_date": "2026-08-04",
+  "market_cap": "$460M",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-02",
-  "thesis": "3D Systems is a legacy additive manufacturing pioneer executing a multi-year turnaround under CEO Jeffrey Graves. After years of revenue decline, Q1 2026 showed 11% YoY growth and positive adjusted EBITDA ($2.1M vs. -$23.9M prior year), driven by healthcare momentum and $55M in cost savings. The stock has rallied 45% in two weeks on turnaround optimism and is now overbought (RSI 75). The bull case hinges on sustained healthcare growth, industrial stabilization, and operating leverage from a leaner cost base. The bear case is that Q1 was a head-fake and the 3D printing winter continues. At <1x sales, the risk/reward is asymmetric — but only on a pullback.",
+  "last_updated": "2026-08-04",
+  "thesis": "3D Systems is a legacy additive-manufacturing pioneer midway through a slow, non-linear turnaround. Q2 2026 (reported Aug 3) beat lowered expectations — revenue $94.6M (-0.3% YoY) and an adjusted loss of $0.04 vs. a $0.05 consensus loss — but adjusted EBITDA slipped back to -$0.8M after Q1's brief +$2.1M print, underlining that profitability is not yet durable. Management guided Q3 revenue to $96M–$99M (above the $93.8M consensus), pointing to a return to growth led by healthcare and defense. A $50M June equity raise (16.4M shares at $3.05) shored up liquidity but diluted holders, and an August 4 CEO transition plan for Dr. Jeffrey Graves adds leadership uncertainty. At roughly 1.2x sales with the stock near its 200-day average and below the offering price, the risk/reward is asymmetric for speculative capital — but this remains a show-me story.",
   "financials": {
-    "fiscal_year": "FY2025 / Q1 2026",
-    "revenue": "$386.9M (FY2025); $95.5M (Q1 2026)",
-    "revenue_growth": "-12.1% (FY2025); +11.0% (Q1 2026 YoY)",
-    "gross_margin": "35.9% (Q1 2026)",
-    "net_income": "$29.9M (FY2025, incl. one-time gains)",
-    "eps_diluted": "N/A (ongoing losses, one-time gains distort)",
-    "cash": "Improved post-Geomagic sale; exact figure not disclosed in recent filings",
-    "fcf": "Negative historically; path to breakeven visible"
+    "fiscal_year": "FY2025 / Q2 2026",
+    "revenue": "$387.6M (TTM); $94.6M (Q2 2026)",
+    "revenue_growth": "-6.2% (TTM); -0.3% (Q2 2026 YoY)",
+    "gross_margin": "36.7% (Q2 2026, adjusted)",
+    "net_income": "-$54.9M (TTM); -$12.9M (Q2 2026 GAAP net loss)",
+    "eps_diluted": "-$0.40 (TTM); -$0.04 (Q2 2026 adjusted)",
+    "cash": "Bolstered by $50M June 2026 equity raise; current ratio 2.76, debt/equity 0.37",
+    "fcf": "Negative; Q2 2026 adjusted EBITDA -$0.8M"
   },
   "bull_case": {
-    "target": "$6.50–$8.00",
+    "target": "$5.00–$6.00",
     "drivers": [
-      "Healthcare revenue sustains 20%+ annual growth with high margins",
-      "Industrial segment stabilizes and resumes modest growth",
-      "Cost savings program delivers permanent EBITDA margin expansion to 10%+",
-      "Strategic acquirer acquires DDD for IP and healthcare platform at a premium"
-    ]
-  },
-  "bear_case": {
-    "target": "$1.50–$2.50",
-    "risks": [
-      "Q1 2026 results prove to be a head-fake; revenue resumes declining",
-      "Cost savings are exhausted and operating losses return",
-      "Dilutive capital raise required within 12 months",
-      "3D printing industry downturn persists, crushing hardware demand"
+      "Q3 guidance ($96M–$99M) proves the return to growth is real and healthcare compounds 20%+",
+      "Adjusted EBITDA re-inflects positive and holds, expanding toward high-single-digit margins",
+      "Defense and aerospace metal AM wins (e.g. hypersonics, DHA/Walter Reed) scale into recurring revenue",
+      "New CEO executes cleanly and a strategic acquirer bids for the IP and healthcare platform at a premium"
     ]
   },
   "base_case": {
-    "target": "$4.00–$5.00",
-    "assumptions": "Revenue stabilizes around $400M annually with low-single-digit growth. Adjusted EBITDA remains slightly positive (2–5% margin) but does not inflect dramatically. Market values DDD at 1.0–1.2x sales, consistent with slow-growth industrial tech peers. No strategic buyer emerges."
+    "target": "$3.50–$4.25",
+    "assumptions": "Revenue stabilizes near $390M–$410M with low-single-digit growth. Adjusted EBITDA oscillates around breakeven rather than inflecting sharply. The market values DDD at roughly 1.4–1.7x sales on ~163M shares, in line with the $4.00 analyst consensus. CEO transition completes without disruption and no strategic buyer emerges."
+  },
+  "bear_case": {
+    "target": "$1.75–$2.25",
+    "risks": [
+      "Q3 revenue misses the guided range and the top line resumes declining",
+      "Adjusted EBITDA stays negative, cash burn continues and a further dilutive raise is required",
+      "CEO transition triggers strategy drift or key-talent departures",
+      "3D-printing industry downturn persists, crushing discretionary hardware demand"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-06-15",
-      "event": "$55M cost savings program completion — margin impact visibility",
-      "iso_date": "2026-06-15"
+      "date": "August 4, 2026",
+      "event": "CEO transition plan announced — Dr. Jeffrey Graves to step down; succession and strategy continuity in focus",
+      "iso_date": "2026-08-04"
     },
     {
-      "date": "2026-08-06",
-      "event": "Q2 2026 Earnings — critical test of EBITDA sustainability and revenue trend",
-      "iso_date": "2026-08-06"
+      "date": "Q3 2026",
+      "event": "Q3 2026 earnings — test of guided $96M–$99M revenue (return to growth) and EBITDA re-inflection",
+      "iso_date": "2026-11"
     },
     {
-      "date": "2026-11-05",
-      "event": "Q3 2026 Earnings — full-year guidance update and 2027 outlook",
-      "iso_date": "2026-11-05"
+      "date": "Q4 / FY2026",
+      "event": "Q4 and full-year 2026 results — durability of healthcare growth, cost discipline and 2027 outlook",
+      "iso_date": "2027-02"
     }
   ],
   "key_risks": [
-    "Turnaround execution risk — Q1 2026 may not be repeatable",
-    "Continued cash burn and potential dilutive capital raises",
-    "Intense competition from Stratasys, Desktop Metal, and Chinese AM vendors",
-    "Macro/industrial capex weakness crushes discretionary AM spending",
-    "Overbought technical condition (RSI 75) creates near-term pullback risk"
-  ],
-  "theme": "AI Buildout",
-  "sub_theme": "Robotics & Automation",
-  "price_date": "2026-06-02"
+    "Turnaround is non-linear — Q2 adjusted EBITDA relapsed to -$0.8M after Q1's positive print",
+    "Continued cash burn and further dilution risk after the June 2026 $50M raise",
+    "CEO transition (Dr. Jeffrey Graves stepping down) creates leadership and execution uncertainty",
+    "Intense competition from Stratasys, Nano Dimension / Desktop Metal and Chinese AM vendors",
+    "Macro and industrial capex weakness crushes discretionary additive-manufacturing spending"
+  ]
 }

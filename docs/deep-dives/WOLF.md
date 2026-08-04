@@ -44,210 +44,214 @@ hide:
 
 # WOLF — Wolfspeed, Inc.
 
-**Price:** \$53.72 | **Market Cap:** ~\$2.6B | **Sector:** Technology / Semiconductors | **Rating:** <span class="rating-hold">HOLD</span>
+**Price:** \$24.35 (2026-08-04) | **Market Cap:** ~\$1.25B | **Sector:** Technology / Semiconductors | **Theme:** AI Buildout · Analog / Power | **Rating:** <span class="rating-spec-hold">HOLD / SPEC.</span>
+
+Wolfspeed is the world's leading pure-play silicon carbide (SiC) semiconductor company. On September 29, 2025 it emerged from a prepackaged Chapter 11 that cancelled roughly 156 million legacy shares, issued about 43.6 million new shares, cut total debt by ~70% and reset the capital structure through fresh-start accounting. This deep dive covers the post-emergence company — a genuinely better balance sheet wrapped around a business that still burns cash — and why the new equity is best treated as a speculative turnaround bet rather than a core holding.
 
 ---
 
-## 1. COMPANY OVERVIEW
+## 1. Company Overview
 
-Wolfspeed, Inc. (NYSE: WOLF) is a pure-play silicon carbide (SiC) and gallium nitride (GaN) semiconductor company headquartered in Durham, North Carolina. Formerly known as Cree, Inc., the company rebranded in October 2021 to reflect its strategic pivot away from LED lighting toward wide-bandgap power and RF semiconductors.
+Wolfspeed, Inc. (NYSE: WOLF), headquartered in Durham, North Carolina, is the successor to Cree, Inc., which rebranded in October 2021 to focus exclusively on wide-bandgap silicon carbide (SiC) and gallium nitride (GaN) power and RF semiconductors after exiting LED lighting.
 
-**Business Model:**
-Wolfspeed operates an integrated materials-to-devices model:
+**Business model.** Wolfspeed runs an integrated materials-to-devices operation:
 
-- **Materials:** SiC bare wafers, epitaxial wafers, and GaN epitaxial layers sold to external customers and used internally
-- **Power Devices:** SiC MOSFETs, Schottky diodes, and power modules for EVs, charging infrastructure, solar inverters, server power supplies, and industrial applications
-- **RF Devices:** GaN-on-SiC products for 5G base stations, radar, and satellite communications
+- **Materials:** SiC bare and epitaxial wafers (and GaN epi layers) sold externally and consumed internally. Wolfspeed operates the world's first 200mm SiC wafer fab (Mohawk Valley, Marcy, New York) and a large materials campus in North Carolina.
+- **Power devices:** SiC MOSFETs, Schottky diodes and power modules for EVs and charging, solar and energy storage inverters, industrial supplies, server/AI data center power, and aerospace/defense.
 
-**Revenue Exposure:**
-The company's end markets are heavily tilted toward electrification and clean energy:
+**End markets.** Revenue is tilted toward electrification: electric vehicles and charging, renewable energy and grid, industrial power, and a fast-growing AI data center / high-voltage power segment. In June 2026 the company launched a new technology generation of its lowest-RDS(on) SiC MOSFETs, aimed squarely at high-efficiency power conversion for these markets.
 
-- Electric vehicles (EVs) and charging infrastructure: largest revenue driver
-- Renewable energy (solar inverters): significant exposure
-- Data center / AI power infrastructure: fastest-growing segment
-- Industrial power supplies and defense/aerospace: stable baseline
+**Competitive moat.** Vertical integration from crystal growth through device fabrication and the industry's largest SiC materials capacity remain genuine differentiators versus fabless or wafer-dependent competitors. The trade-off is enormous capital intensity, which is precisely what pushed the pre-bankruptcy company into distress.
 
-**Competitive Moat:**
-Wolfspeed claims the industry's largest SiC materials capacity, with its Mohawk Valley Fab (New York) being the world's first 200mm SiC wafer fab. Vertical integration from crystal growth through device fabrication is a genuine differentiator vs. fabless competitors like Onsemi and Infineon, who rely on external wafer supply. However, this integration comes with massive capital intensity.
-
-**Management & Governance:**
-The company has experienced significant leadership turnover in recent years. The current executive team is focused on operational restructuring, cost reduction, and monetizing the AI/data center power opportunity. The board includes semiconductor industry veterans with experience in capital-intensive manufacturing turnarounds.
+**Ownership and governance.** Following emergence, former creditors own the overwhelming majority of the equity. Renesas Electronics America — which received about 16.85 million shares plus warrants and second-lien convertible notes — is a large shareholder and creditor with governance rights. The board has been refreshed (including the July 2026 appointment of semiconductor executive Andy Mattes), reflecting the post-reorganization reset.
 
 ---
 
-## 2. FINANCIAL ANALYSIS
+## 2. The 2025 Chapter 11 Restructuring
 
-### Income Statement (Q3 FY26 — quarter ended March 2026)
+This is the single most important fact about WOLF today, and it is why any pre-September-2025 analysis of the stock is obsolete.
 
-| Metric | Value |
-|--------|-------|
-| Revenue | \$150.2M |
-| YoY Revenue Growth | -18.9% |
-| Gross Profit | Negative (~€46M inventory charge impact) |
-| Operating Income | -\$137.1M (estimated) |
-| Net Income | -\$119.9M |
-| EPS (Diluted) | ~-\$4.38 |
+- **Timeline.** Wolfspeed filed a prepackaged plan of reorganization; the plan was confirmed by the bankruptcy court on September 8, 2025 and became effective on September 29, 2025. Required regulatory approvals (CFIUS, antitrust and foreign-investment clearances tied to Renesas) were obtained on January 29, 2026.
+- **Equity wipeout.** All old common stock was cancelled. Roughly 156 million legacy shares (about 141 million weighted-average) were extinguished. Existing equity holders received only about 1.31 million new shares plus a pro-rata portion of 871,287 contingent shares — a sliver of the reorganized company.
+- **New share base.** The company issued approximately **43.56 million** new common shares in total: about 24.5 million to convertible-note claimholders, 16.85 million to Renesas, and the remainder to old equity and others. Subsequent 2026 issuances have pushed shares outstanding to roughly 52 million.
+- **Debt reduction.** Total debt fell by approximately **70% (~\$4.6B)**, annual cash interest expense dropped by roughly **60%**, and maturities were extended to **2030**. New structure includes \$1.3B of New Senior Secured Notes due 2030 plus several tranches of second-lien and convertible notes.
+- **Fresh-start accounting.** Under ASC 852, Wolfspeed adopted fresh-start accounting at emergence, estimating enterprise value at **\$2,600M**, implied common equity value of **\$569.1M**, and total stockholders' equity of **\$757.1M**. Reported results after September 29, 2025 are not comparable to prior periods.
 
-**Key Observations:**
+The net effect: a dramatically de-levered company, but one whose legacy shareholders were almost entirely wiped out and whose new equity carries the risks of an unproven turnaround.
 
-- Revenue continues to decline year-over-year, reflecting weakness in automotive demand and pricing pressure in SiC devices
-- Gross margins remain deeply negative due to underutilization charges, inventory write-downs (~€46M), and aggressive pricing to secure long-term design wins
-- The Q3 FY26 loss of \$119.9M represents a 58% improvement from prior-year quarters, driven by cost-cutting and operational restructuring
-- R&D spending has been reduced to ~\$25M/quarter from \$44M year-ago, reflecting tightened capital allocation
+---
 
-### Balance Sheet (as of December 2025)
+## 3. Financial Analysis
+
+Because of fresh-start accounting, the cleanest full-year reference is the company's **pro forma FY2025** statement (fiscal year ended June 29, 2025), which restates results as if the plan and approvals had been effective from the start of the year.
+
+### Pro Forma Income Statement (FY2025)
 
 | Metric | Value |
 |--------|-------|
-| Cash & Short-Term Investments | ~\$1.29B |
-| Total Debt | ~\$2.07B |
-| Net Debt | ~\$935M |
-| Stockholders' Equity | ~\$627M |
-| Debt-to-Equity | ~169% |
-| Current Ratio | 7.03 |
-| Quick Ratio | 5.48 |
+| Revenue | \$757.6M |
+| YoY Revenue Growth | ~-6% |
+| Gross Profit / (Loss) | -\$101.7M (~-13% margin) |
+| Operating Loss | -\$1,206.2M (incl. \$359.2M goodwill impairment, \$420.1M restructuring) |
+| Net Loss | -\$1,213.4M |
+| EPS (diluted, pro forma) | -\$27.85 |
+| Pro forma weighted shares | ~43.6M |
 
-**Key Observations:**
+For the **six months ended December 28, 2025**, pro forma revenue was \$365.3M with a net loss of \$372.0M (-\$8.52 per share) — still deeply unprofitable, but with the goodwill and pre-petition charges behind it and interest expense sharply reduced.
 
-- Liquidity position improved dramatically following Q3 FY26 capital raises (~\$476M via convertible 1.5-lien notes and equity)
-- Debt reduced by \$97M (25%) in Q3, with ~\$62M in annual interest expense savings expected
-- Current ratio of 7.03 is artificially inflated by cash reserves; underlying operational working capital remains strained
-- Tangible book value of ~\$200M is thin relative to market cap, implying the market is pricing significant future earnings power
+### Balance Sheet and Liquidity
+
+| Metric | Value |
+|--------|-------|
+| Cash and investments (at emergence) | ~\$835M (incl. restricted) |
+| Total debt (post-emergence) | ~\$2.15B (fair value of issued notes) |
+| Total stockholders' equity (fresh-start) | ~\$757M |
+| Enterprise value (fresh-start estimate) | ~\$2.6B |
+
+In **March 2026** Wolfspeed further shored up liquidity, issuing \$379M of 3.5% Convertible 1.5-Lien Senior Secured Notes due 2031 plus about \$96.9M of common stock and pre-funded warrants at \$18.458 per share (a 10% premium to the March 18, 2026 close). This confirms the company is not yet self-funding.
 
 ### Cash Flow
 
-| Metric | Value |
-|--------|-------|
-| Operating Cash Flow (Q3 FY26) | -\$42.6M |
-| Free Cash Flow (Q3 FY26) | -\$42.6M (capex minimal) |
-| Capital Expenditure (TTM) | Significantly reduced from peak |
-
-**Key Observations:**
-
-- Cash burn has improved from ~\$100M+/quarter peaks but remains negative
-- The company has pulled back on capex to preserve liquidity, slowing Mohawk Valley ramp
-- Operating cash flow improvement is driven by working capital management and cost cuts, not operational profitability
+Wolfspeed remained free-cash-flow negative through FY2025 and into FY2026. Interest expense fell materially post-emergence (pro forma FY2025 interest of ~\$52M versus ~\$315M historical), which lengthens runway, but underutilization and the Mohawk Valley ramp keep operating cash flow negative near term.
 
 ---
 
-## 3. VALUATION
+## 4. Valuation
 
-Wolfspeed is currently unprofitable with negative gross margins, making traditional P/E and EV/EBITDA multiples meaningless or misleading.
+With negative gross margins and fresh-start distortions, traditional P/E and EV/EBITDA multiples are not meaningful. A scenario framework on the new ~52M-share base is more useful. Note all targets below are quoted on the post-emergence share count and are not comparable to pre-bankruptcy price history.
 
-| Multiple | Value | Context |
-|----------|-------|---------|
-| Price-to-Book | 2.3x | Thin equity base; not meaningful for a manufacturing company |
-| EV/Revenue | 3.7x | Reasonable for a growth semiconductor, but revenue is declining |
-| Forward P/E | -10.7x | Expected losses continue; profitability timeline unclear |
+**Bull Case (\$35–\$50):**
 
-**DCF / Scenario Analysis:**
-Given the uncertainty, a scenario-based approach is more appropriate than a precise DCF:
+- Mohawk Valley 200mm utilization climbs, pulling gross margin back toward positive by FY28.
+- AI data center high-voltage power and industrial/energy demand becomes a meaningful share of the mix.
+- Automotive SiC design wins convert to volume as EV platforms launch.
+- Lower interest expense and 2030 maturities allow a path to EBITDA breakeven without further dilution.
 
-**Bull Case (\$65–75):**
+**Base Case (\$18–\$26):**
 
-- AI/data center power revenue grows to 30%+ of mix by FY28
-- Mohawk Valley reaches 50%+ utilization, driving positive gross margins by FY27
-- Automotive SiC adoption accelerates with Chinese EV makers and Tier-1 partnerships
-- Debt continues to be paid down; path to profitability by FY28
+- Revenue stabilizes around \$750M–\$900M with modest growth as the fab ramps.
+- Gross margin approaches breakeven by FY28 but the company stays cash-flow negative near term, implying at least one more raise.
+- EV/revenue normalizes toward peer power-semiconductor multiples; the price hovers near the March 2026 raise level of ~\$18.46 with upside into the mid-\$20s.
 
-**Base Case (\$35–45):**
+**Bear Case (\$8–\$14):**
 
-- Revenue stabilizes at \$600–700M annually with modest growth
-- Gross margins turn slightly positive by late FY27
-- Continued cash burn requires additional capital raises (dilution)
-- Company achieves EBITDA breakeven by FY29
-- Valuation converges toward analyst consensus (~\$40 target)
+- SiC pricing pressure and competition keep gross margins negative.
+- Automotive/EV demand stays soft and revenue resumes declining.
+- Continued cash burn forces additional dilutive raises or a second-lien conversion wave.
+- Thin float and volatility drive a sharp reversal toward the ~\$8 post-emergence low.
 
-**Bear Case (\$12–18):**
-
-- Revenue continues declining as SiC commoditizes and competitors gain share
-- Gross margins remain negative; cash burn resumes at \$100M+/quarter
-- Additional dilutive capital raises or debt restructuring required
-- Strategic value as an acquisition target at \$10–15/share
-
-**Current Implied Expectations:**
-At \$53.72, the market is pricing in a near-flawless execution of the bull case — a remarkable leap of faith for a company with declining revenue, negative gross margins, and \$2B in debt. The stock trades 34% above the sole analyst price target of \$40.
+**Current read.** At \$24.35 the market cap is ~\$1.25B and enterprise value (with ~\$2.15B debt) is roughly \$3.4B on ~\$760M of revenue — about 4–5x EV/revenue with negative margins. That sits in the upper half of the base-case range and already prices in a credible ramp. The equity is a leveraged call option on the SiC turnaround.
 
 ---
 
-## 4. GROWTH CATALYSTS
+## 5. Growth Catalysts
 
-1. **AI Data Center Power (Near-Term):** The fastest-growing segment. AI servers require more efficient power conversion; SiC MOSFETs reduce energy loss in server power supplies. Management has highlighted "AI revenue surges" in recent quarters.
-
-2. **Debt Restructuring Completion (Q3 FY26):** The \$476M capital raise and 25% debt reduction materially improve the balance sheet. Lower interest expense (~\$62M annual savings) extends runway and reduces bankruptcy risk.
-
-3. **Mohawk Valley Fab Ramp (2026–2027):** 200mm SiC wafers offer ~2x die-per-wafer advantage over 150mm. Successful ramp to target utilization would transform unit economics.
-
-4. **Automotive Design Wins (Ongoing):** Long-term supply agreements with EV OEMs and Tier-1s (not fully disclosed due to NDAs) could drive revenue inflection as platforms launch.
-
-5. **RF/GaN Recovery (2026+):** 5G infrastructure spending and defense radar programs could recover from current trough levels.
+1. **AI data center and high-voltage power.** SiC MOSFETs cut conversion losses in server and data center power delivery. Wolfspeed's June 2026 lowest-RDS(on) generation targets exactly this demand, alongside industrial/energy and aerospace/defense.
+2. **Mohawk Valley 200mm ramp (2026–2028).** 200mm wafers offer roughly 2x die-per-wafer versus 150mm. Rising utilization is the central lever for turning gross margin positive.
+3. **De-levered balance sheet.** ~70% less debt, ~60% lower cash interest and 2030 maturities materially reduce near-term bankruptcy risk and free cash for operations.
+4. **Renesas relationship.** As both a strategic shareholder and a long-term SiC supply customer, Renesas anchors a portion of future materials/device demand.
+5. **Automotive design wins.** Long-term supply agreements with EV OEMs and Tier-1s can drive a revenue inflection as platforms launch, if EV demand recovers.
+6. **IP enforcement.** The July 2026 patent-infringement suit against Navitas signals Wolfspeed will defend its SiC/GaN IP position.
 
 ---
 
-## 5. RISKS
+## 6. Risk Factors
 
-1. **Cash Burn & Dilution:** Despite improved liquidity, the company is not self-sustaining. Additional capital raises are likely, diluting existing shareholders.
+1. **Residual leverage.** Even after the ~70% cut, ~\$2.15B of new notes remain; refinancing and covenant risk persist into the 2030 maturities.
+2. **Negative margins and cash burn.** Gross margins are still negative and free cash flow is negative; the March 2026 raise shows further dilution is likely.
+3. **Competition and commoditization.** Onsemi, Infineon, STMicro, Navitas and Chinese vendors are expanding SiC capacity, pressuring price.
+4. **Automotive/EV demand.** Softening EV adoption weighs on Wolfspeed's largest end market.
+5. **Execution at Mohawk Valley.** The 200mm ramp has a history of delays and yield challenges; further setbacks would undermine the margin thesis.
+6. **Equity volatility and thin float.** With ~48M float and post-emergence uncertainty, shares have swung between roughly \$8 and \$81 over the trailing year and can reverse violently.
+7. **Renesas concentration.** A single large shareholder/creditor with governance rights, warrants (exercise price \$23.95) and convertible notes concentrates control and potential future dilution.
 
-2. **SiC Commoditization:** Competitors (Onsemi, Infineon, STMicro, Chinese vendors) are rapidly expanding SiC capacity. Pricing pressure is already evident in negative gross margins.
+---
 
-3. **Automotive Demand Weakness:** EV adoption curves have softened globally. Wolfspeed's largest end market faces near-term headwinds.
+## 7. Recommendation
 
-4. **Execution Risk at Mohawk Valley:** The 200mm ramp has faced repeated delays and yield challenges. Further setbacks would crush investor confidence.
+**Rating:** <span class="rating-spec-hold">HOLD / SPEC.</span>
 
-5. **Massive Short Squeeze Reversal:** Short ratio of 6.51 and RSI of 83+ suggest a significant portion of the recent move is technical/short-covering driven. Reversal could be violent.
+**Position sizing:** 0–2% of portfolio — speculative only. Size it like an option, because that is effectively what post-emergence equity is.
 
-6. **Debt Overhang:** Even after restructuring, ~\$2B in debt on a ~\$600M equity base is precarious. Covenant compliance remains a risk if operations don't improve.
+**Entry strategy:**
 
-## 6. RECOMMENDATION
+- The March 2026 institutional raise at ~\$18.46 is a useful anchor. Accumulating below the low-\$20s offers a better risk/reward than chasing strength.
+- Consider scaling: partial position in the high-teens, adding only on confirmed gross-margin improvement rather than on price momentum.
 
-**Rating:** <span class="rating-hold">HOLD</span>
+**Stop / risk management:** A break and hold below ~\$14 would invalidate the base case and point toward the bear range; the ~\$8 post-emergence low is the last major support.
 
-**Position Sizing:** 0–2% of portfolio (speculative position only)
+**Technical context:** Shares trade well below their 50-day moving average (~\$43 earlier in 2026) after fading from post-emergence highs, with a wide \$8–\$81 trailing-year range. Treat any RSI-driven spikes as liquidity events, not fundamental confirmation.
 
-**Entry Strategy:**
-
-- **Do NOT chase at \$53+.** If you believe in the turnaround thesis, wait for a pullback to the \$30–35 range or lower
-- Alternatively, scale in on weakness: 25% position at \$35, 25% at \$28, 50% at \$22
-- The current price embeds flawless execution; the market rarely rewards that bet
-
-**Stop Loss:** \$20 (below 200-day MA and prior support cluster)
-
-**Catalyst Calendar:**
+**Catalyst calendar:**
 
 | Date | Event |
 |------|-------|
-| Late May 2026 | Q4 FY26 Earnings (expect revenue guidance for FY27) |
-| June 2026 | Analyst/investor day (potential Mohawk Valley update) |
-| August 2026 | Q1 FY27 Earnings (first post-restructuring clean quarter) |
-| Ongoing | EV platform launch announcements (design win disclosures) |
+| August 2026 | Q4 and full-year FY2026 earnings — first clean post-emergence annual report and FY2027 guidance |
+| Q2 FY2027 (Oct 2026) | Mohawk Valley 200mm utilization and gross-margin progress update |
+| FY2027 | AI data center / industrial design-win ramp; Renesas supply milestones |
+| Ongoing | Navitas litigation; potential Renesas note conversion / warrant exercise (\$23.95 strike) |
 
-**Bottom Line:** Wolfspeed is a real company with real technology in a structurally growing market (SiC power semiconductors). The recent debt restructuring is genuinely positive. However, the stock price has disconnected from fundamentals due to short-squeeze dynamics. Existing holders should consider taking partial profits above \$50. New capital should wait for a significant pullback or a confirmed operational inflection in gross margins.
-
----
-
-## 7. READABILITY PASS
-
-**Silicon Carbide (SiC):** A compound semiconductor material that handles higher voltages, temperatures, and frequencies than traditional silicon. Essential for efficient power conversion in EVs, renewable energy, and data centers.
-
-**Gallium Nitride (GaN):** Another wide-bandgap semiconductor used primarily for RF applications (5G, radar) and some power applications.
-
-**200mm vs. 150mm Wafers:** Larger wafers mean more chips per wafer, reducing cost per chip. 200mm is the next-generation standard for SiC.
-
-**Short Squeeze:** When a heavily shorted stock rises rapidly, short sellers are forced to buy shares to cover their positions, accelerating the price move — often beyond what fundamentals justify.
-
-**Convertible Notes:** Debt that can be converted into equity. Dilutive to existing shareholders but typically carries lower interest rates.
-
-**Mohawk Valley Fab:** Wolfspeed's flagship 200mm SiC fabrication facility in Marcy, New York. Critical to the company's cost-reduction strategy.
+**Bottom line.** Wolfspeed is a real technology leader in a structurally growing market, and the restructuring genuinely lowered the odds of a near-term wipeout. But the equity is a diluted, still-cash-burning turnaround with residual leverage. Bull \$35–\$50, base \$18–\$26, bear \$8–\$14. Speculative hold; do not treat it as a core semiconductor position.
 
 ---
 
-## 8. SOURCES CONSULTED
+## 8. Sentiment Analysis
 
-1. [Yahoo Finance - WOLF](https://finance.yahoo.com/quote/WOLF/)
-2. [Wolfspeed Investor Relations - Q3 FY26 Earnings Release](https://investor.wolfspeed.com/)
-3. [Wolfspeed Q3 FY26 Earnings Transcript - AOL](https://www.aol.com/articles/wolfspeed-wolf-q3-2026-earnings-221226959.html)
-4. [StockTitan - WOLF SEC Filings & 8-K](https://www.stocktitan.net/sec-filings/WOLF/)
-5. [MarketBeat - WOLF Analyst Forecasts](https://www.marketbeat.com/stocks/NYSE/WOLF/forecast/)
-6. [Benzinga - WOLF Stock Quote & News](https://www.benzinga.com/quote/WOLF)
-7. [Seeking Alpha - WOLF Overview](https://seekingalpha.com/symbol/WOLF)
-8. [Investing.com - Wolfspeed Q3 FY26 Analysis](https://www.investing.com/news/company-news/wolfspeed-q3-fy26-slides-debt-cut-25-ai-revenue-surges-amid-losses-93CH-4661363)
+- **Retail / social (X, Reddit):** Highly polarized. Post-bankruptcy the ticker attracts event-driven and momentum traders; discussion is dominated by the dilution story and violent single-day moves rather than fundamentals.
+- **News flow:** Recent headlines are mixed-to-constructive — a new SiC MOSFET generation (June 2026), board strengthening (July 2026), an IR leadership hire, and IP enforcement against Navitas — against a backdrop of ~-19% year-over-year revenue in the latest quarter.
+- **Institutional:** Filings show new and adjusting positions (e.g., a new Lazard Asset Management stake disclosed August 2026), consistent with distressed/special-situation funds sizing the reorganized equity.
+- **Options:** Elevated call-buying activity reported in early August 2026 signals speculative positioning around catalysts.
+- **Composite:** Neutral-to-cautious. Sentiment is driven by the turnaround narrative and technical swings, not by demonstrated profitability.
+
+---
+
+## 9. Readability Pass
+
+**Silicon carbide (SiC):** A wide-bandgap semiconductor material that handles higher voltages, temperatures and switching frequencies than plain silicon — ideal for efficient power conversion in EVs, renewables and data centers.
+
+**Prepackaged Chapter 11:** A bankruptcy where the reorganization plan is negotiated with creditors before filing, so the company can move through court quickly. Wolfspeed's became effective September 29, 2025.
+
+**Fresh-start accounting:** After emergence, assets and liabilities are re-measured to fair value, so post-emergence financials are not comparable to earlier periods.
+
+**Dilution / share cancellation:** Old shareholders were essentially wiped out (~156M shares cancelled); creditors received most of the ~43.6M new shares. This is why the old stock chart and old price targets no longer apply.
+
+**200mm vs. 150mm wafers:** Bigger wafers yield more chips each, lowering cost per chip. Mohawk Valley is the first 200mm SiC fab and is central to Wolfspeed's cost story.
+
+**Plain-English thesis:** Wolfspeed fixed its debt problem by going through bankruptcy, but it still loses money making SiC chips. If the New York fab fills up and margins turn positive, the new shares could be worth much more; if not, more dilution or another slump is likely. It is a bet, not a bond.
+
+---
+
+## 10. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Ticker / Exchange | WOLF / NYSE |
+| Emergence date | September 29, 2025 (regulatory approvals January 29, 2026) |
+| Old shares cancelled | ~156M (legacy holders received ~1.31M new shares) |
+| New shares issued | ~43.6M (now ~52M outstanding) |
+| Debt reduction | ~70% (~\$4.6B); maturities to 2030; cash interest ~60% lower |
+| Residual debt | ~\$2.15B |
+| Pro forma FY2025 revenue | \$757.6M |
+| Pro forma FY2025 net loss | -\$1.21B (-\$27.85 EPS) |
+| Cash at emergence | ~\$835M |
+| March 2026 raise | \$379M convertibles + ~\$96.9M equity at \$18.458 |
+| Price (2026-08-04) | \$24.35 |
+| Market cap | ~\$1.25B |
+| Rating | HOLD / SPEC. |
+| Bull / Base / Bear | \$35–\$50 / \$18–\$26 / \$8–\$14 |
+
+---
+
+## 11. Sources Consulted
+
+1. [Wolfspeed IR — Successfully Completes Financial Restructuring, Emerges from Chapter 11 (Sept 29, 2025)](https://investor.wolfspeed.com/news/news-details/2025/Wolfspeed-Successfully-Completes-Financial-Restructuring-Emerges-as-Financially-Stronger-Company-Well-Positioned-in-Silicon-Carbide-Market/default.aspx)
+2. [SEC / Wolfspeed EX-99.1 — Emergence press release (Sept 29, 2025)](https://www.sec.gov/Archives/edgar/data/895419/000119312525224251/d22768dex991.htm)
+3. [SEC / Wolfspeed 8-K — Unaudited Pro Forma Consolidated Financial Information (fresh-start, filed March 2026)](https://www.stocktitan.net/sec-filings/WOLF/8-k-wolfspeed-inc-reports-material-event-637a091b968a.html)
+4. [Wolfspeed IR — \$379M Convertible Notes and \$96.9M Common Stock and Pre-Funded Warrants (March 2026)](https://www.wolfspeed.com/company/news-events/news/wolfspeed-announces-subscriptions-for-379-million-of-convertible-notes-and-96-9-million-of-common-stock-and-pre-funded-warrants/)
+5. [MoneyCheck — Wolfspeed Exits Bankruptcy With 70% Debt Cut (Sept 2025)](https://moneycheck.com/wolfspeed-wolf-stock-chip-supplier-exits-bankruptcy-with-70-debt-cut-whats-next/)
+6. [Motley Fool — Why Did Wolfspeed Stock Skyrocket (Sept 29, 2025)](https://www.fool.com/investing/2025/09/29/why-did-wolfspeed-stock-skyrocket-168678-today/)
+7. [Morningstar — WOLF Stock Price Quote](https://www.morningstar.com/stocks/xnys/wolf/quote)
+8. [MarketBeat — WOLF quote, options and institutional filings (Aug 2026)](https://www.marketbeat.com/stocks/NYSE/WOLF/forecast/)
+9. [StockAnalysis — WOLF Statistics and Market Cap](https://stockanalysis.com/stocks/wolf/statistics/)
+10. [Investing.com — WOLF live quote](https://www.investing.com/equities/cree-inc.)
+11. Google Finance — WOLF:NYSE last price (scraped 2026-08-04)

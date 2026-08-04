@@ -9,11 +9,12 @@
 | <tv-ticker-tag symbol="NYSE:SNOW" hide-background></tv-ticker-tag> | Snowflake Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](SNOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:DDOG" hide-background></tv-ticker-tag> | Datadog, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-14 | [:material-file-document: Read](DDOG.md) |
 | <tv-ticker-tag symbol="NYSE:U" hide-background></tv-ticker-tag> | Unity Software Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](U.md) |
-| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-05-01 | [:material-file-document: Read](FIG.md) |
+| <tv-ticker-tag symbol="NYSE:FIG" hide-background></tv-ticker-tag> | Figma, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](FIG.md) |
 | <tv-ticker-tag symbol="NASDAQ:BLZE" hide-background></tv-ticker-tag> | Backblaze, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BLZE.md) |
 | <tv-ticker-tag symbol="NASDAQ:CVLT" hide-background></tv-ticker-tag> | Commvault Systems, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-20 | [:material-file-document: Read](CVLT.md) |
 | <tv-ticker-tag symbol="NYSE:NOW" hide-background></tv-ticker-tag> | ServiceNow, Inc. | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](NOW.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSFT" hide-background></tv-ticker-tag> | Microsoft Corporation | <span class="rating-buy">BUY</span> | 2026-06-25 | [:material-file-document: Read](MSFT.md) |
+| <tv-ticker-tag symbol="NYSE:ORCL" hide-background></tv-ticker-tag> | Oracle Corporation | <span class="rating-buy">BUY</span> | 2026-08-04 | [:material-file-document: Read](ORCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:ADBE" hide-background></tv-ticker-tag> | Adobe Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](ADBE.md) |
 | <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
 | <tv-ticker-tag symbol="NASDAQ:FRSH" hide-background></tv-ticker-tag> | Freshworks Inc. | <span class="rating-buy">BUY</span> | 2026-07-14 | [:material-file-document: Read](FRSH.md) |
@@ -54,6 +55,18 @@ Global technology leader and dominant enterprise cloud platform. FY26 Q3 revenue
 **Bull:** \$520–\$560 · **Base:** \$440–\$480 · **Bear:** \$320–\$360
 
 [:material-arrow-right: Full Deep Dive](MSFT.md)
+
+---
+
+### Enterprise Software
+
+**ORCL — Oracle Corporation · <span class="rating-buy">BUY</span>**
+
+Oracle has transformed from a mature database and applications vendor into one of the fastest-growing hyperscale cloud providers, with Oracle Cloud Infrastructure (OCI) now capacity-constrained rather than demand-constrained. A record remaining performance obligation (RPO) backlog above \$450B — driven by multi-year AI training and inference contracts including Stargate-class capacity — gives Oracle unmatched revenue visibility. FY2026 revenue reached ~\$67B (+16%), but heavy data-center capex (~\$35B+/yr) has compressed free cash flow to ~\$5B, the crux of the bull/bear debate. The thesis is execution: converting an extraordinary backlog into margin-accretive revenue on a leveraged balance sheet. Primary risk is capex overruns and backlog-conversion slippage from power, GPU, and construction bottlenecks.
+
+**Bull:** \$210–\$250 · **Base:** \$160–\$185 · **Bear:** \$95–\$115
+
+[:material-arrow-right: Full Deep Dive](ORCL.md)
 
 ---
 
@@ -157,9 +170,9 @@ Leading 3D content creation platform with ~70% mobile game market share, now in 
 
 **FIG — Figma, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Dominant collaborative design platform with ~80-90% UI/UX market share, growing revenue at 40%+ with positive free cash flow ($246M, 23% margin) and 136% net revenue retention. Stock has cratered 88% from post-IPO highs due to SaaS multiple compression and AI anxiety, creating a disconnect between fundamentals and valuation. At ~7.2x EV/Revenue with \$1.66B cash and minimal debt, Figma trades at a discount to peers despite superior growth. High short interest (26.5%) adds squeeze potential.
+Figma is the dominant collaborative design platform (~80-90% UI/UX share), growing TTM revenue 41.4% to \$1.16B with 23% FCF margins and 130%+ net revenue retention. After crashing ~78% from its post-IPO high on "SaaSpocalypse" and AI-disruption fears, the stock rebounded off a \$16.60 low to ~\$24.92 as a Q1 2026 beat (+46% revenue, raised outlook) showed AI is proving a tailwind — via paid AI credits and Config 2026 launches — rather than an existential threat. Fortress balance sheet (~\$1.66B cash, minimal debt); main risks are AI competition (Claude Design, v0), no GAAP profitability (-\$1.40B TTM loss), heavy SBC dilution, and an activist (Findell) pressing for cost discipline.
 
-**Bull:** \$55–65 · **Base:** \$30–40 · **Bear:** \$10–15
+**Bull:** \$45–55 · **Base:** \$30–38 · **Bear:** \$15–20
 
 [:material-arrow-right: Full Deep Dive](FIG.md)
 
@@ -173,6 +186,7 @@ Dominant collaborative design platform with ~80-90% UI/UX market share, growing 
 | <tv-ticker-tag symbol="NASDAQ:PANW" hide-background></tv-ticker-tag> | Palo Alto Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-06-14 | [:material-file-document: Read](PANW.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRWD" hide-background></tv-ticker-tag> | CrowdStrike Holdings, Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](CRWD.md) |
 | <tv-ticker-tag symbol="NYSE:BB" hide-background></tv-ticker-tag> | BlackBerry Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](BB.md) |
+| <tv-ticker-tag symbol="NASDAQ:ZS" hide-background></tv-ticker-tag> | Zscaler, Inc. | <span class="rating-buy">BUY</span> | 2026-08-04 | [:material-file-document: Read](ZS.md) |
 
 ---
 
@@ -213,5 +227,15 @@ Cybersecurity and IoT/embedded software company pivoting from legacy handset bra
 **Bull:** \$14–\$16 · **Base:** \$10–\$12 · **Bear:** \$5–\$7
 
 [:material-arrow-right: Full Deep Dive](BB.md)
+
+---
+
+**ZS — Zscaler, Inc. · <span class="rating-buy">BUY</span>**
+
+Zscaler is the pure-play leader in cloud-delivered zero trust security, routing enterprise traffic through its Zero Trust Exchange to replace legacy network and VPN architectures. FY2025 revenue was \$2.67B (+23%) with ~80% gross margins, record non-GAAP operating margins near 23%, and ~30% free cash flow margins, and the platform is extending into securing agentic AI, machine identities, and data (Zero Trust for AI Agents, AI Protect, plus the Red Canary and Symmetry Systems acquisitions). After a sharp selloff from its 52-week high on FY2027 guidance caution and leadership-transition worries, the stock trades near 34x forward earnings at ~\$154.46 with the consensus target (~\$192) well above the current price. Key risks are guidance disappointment, competition from CrowdStrike, Palo Alto Networks, and Microsoft, and persistent GAAP losses from heavy stock-based compensation.
+
+**Bull:** \$220–\$260 · **Base:** \$180–\$200 · **Bear:** \$110–\$130
+
+[:material-arrow-right: Full Deep Dive](ZS.md)
 
 ---

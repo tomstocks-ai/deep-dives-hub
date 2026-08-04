@@ -1,0 +1,64 @@
+{
+  "ticker": "AMAT",
+  "company": "Applied Materials, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Semiconductor Wafer Fabrication Equipment (Deposition, Etch, CMP, Metrology)",
+  "exchange": "NASDAQ",
+  "price": 518.21,
+  "price_date": "2026-08-04",
+  "market_cap": "~$411B",
+  "rating": "BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "Applied Materials is the world's largest and most diversified semiconductor wafer-fabrication-equipment (WFE) maker, with the broadest materials-engineering portfolio across deposition, etch, CMP, ion implantation, and metrology. It is a foundational picks-and-shovels beneficiary of the AI buildout: the transistor architecture inflections that AI chips demand — gate-all-around (GAA) transistors, backside power delivery, advanced (3D) packaging, and high-bandwidth-memory DRAM — are precisely the materials-intensive steps where Applied is share-leading and where its served market expands fastest. FY2025 revenue was ~$28.4B (+4.4%) and momentum has re-accelerated on AI capex, with trailing-twelve-month net income up ~26% and a Strong Buy sell-side consensus (~$628 target). At ~518 the stock trades near 34x forward earnings after a sharp mid-2026 pullback and recovery — a fair-to-attractive price for the AI-exposed WFE leader, hence BUY. Key risks are WFE cyclicality, heavy China revenue exposure under tightening export controls, and customer concentration.",
+  "financials": {
+    "fiscal_year": "FY2025 (ended Oct 2025)",
+    "revenue": "$28.4B",
+    "revenue_growth": "+4.4%",
+    "gross_margin": "~48.5%",
+    "net_income": "$7.0B",
+    "eps_diluted": "~$8.61",
+    "cash": "~$10.6B (cash and investments)",
+    "fcf": "~$7.5B"
+  },
+  "bull_case": {
+    "target": "$700–$780",
+    "drivers": [
+      "The AI-driven WFE super-cycle proves structural: the industry transitions to gate-all-around (GAA) transistors and backside power delivery, both of which sharply raise the number of deposition, etch, and materials-modification steps Applied leads",
+      "Advanced (3D heterogeneous) packaging becomes a mainstream, high-value served market where Applied is expanding fastest, adding a durable new growth vector on top of front-end tools",
+      "AI memory demand (HBM and advanced DRAM) drives a multi-year DRAM capex up-cycle, lifting Applied's memory-equipment sales and its new DRAM-optimized epitaxy systems",
+      "Applied Global Services (AGS) recurring, high-margin service and subscription revenue compounds on a growing installed base, smoothing the equipment cycle",
+      "Analyst price targets in the $650–$710 range (Stifel, HSBC, UBS, Citi) prove conservative as FY2027 estimates rise and the forward multiple holds"
+    ]
+  },
+  "base_case": {
+    "target": "$600–$680",
+    "assumptions": "Applied delivers steady mid-to-high-single-digit revenue growth as AI-driven leading-edge logic (GAA), advanced packaging, and DRAM/HBM capex offset softer trailing-edge and China demand. Gross margins hold in the high-40s, AGS recurring revenue keeps compounding, and the ~34x forward multiple is largely maintained as the stock converges toward the ~$628 analyst consensus over the next year."
+  },
+  "bear_case": {
+    "target": "$360–$430",
+    "risks": [
+      "A WFE cyclical downturn: AI capex digestion in 2027 combined with weak trailing-edge and mature-node spending rolls the equipment cycle over from a peak",
+      "China revenue — historically a large share of sales — falls sharply as US export controls tighten further and domestic Chinese tool-makers substitute Applied's mature-node systems",
+      "The premium ~48x trailing / ~34x forward multiple compresses toward the historical low-20s on any growth wobble or AI-trade de-rating",
+      "Customer concentration (TSMC, Samsung, Intel, SK Hynix, Micron) makes bookings lumpy and exposes Applied to a single customer's capex pause",
+      "Gross-margin pressure from mix shift, tariffs, or pricing as competition from Lam Research, KLA, Tokyo Electron, and ASML intensifies in overlapping segments"
+    ]
+  },
+  "catalysts": [
+    {"date": "August 13, 2026", "iso_date": "2026-08-13", "event": "Fiscal Q3 2026 earnings — read on AI-driven leading-edge, DRAM/HBM, and advanced-packaging demand plus China exposure trend"},
+    {"date": "August 20, 2026", "iso_date": "2026-08-20", "event": "Ex-dividend date for the quarterly dividend (annualized ~$2.12/share)"},
+    {"date": "Q4 / FY2026 results (November 2026)", "iso_date": "2026-11", "event": "Fiscal Q4 and full-year FY2026 results and initial FY2027 WFE outlook"},
+    {"date": "2026–2027", "iso_date": "2026", "event": "Gate-all-around (GAA), backside power delivery, and advanced-packaging ramps expanding Applied's served market"},
+    {"date": "2026–2027", "iso_date": "2026", "event": "US/China semiconductor export-control developments and their effect on Applied's China revenue"}
+  ],
+  "key_risks": [
+    "Cyclicality: wafer-fab equipment is historically boom-bust; an AI capex digestion or trailing-edge downturn in 2027 could pressure orders and earnings from a peak",
+    "China exposure: China has been a large share of revenue; tightening US export controls and domestic substitution can materially cut sales and bookings",
+    "Customer concentration: a handful of leading-edge foundry and memory customers (TSMC, Samsung, Intel, SK Hynix, Micron) drive demand, making orders lumpy",
+    "Valuation: ~48x trailing and ~34x forward earnings leave limited room for disappointment despite the AI narrative",
+    "Competition: Lam Research, KLA, Tokyo Electron, and ASML compete in overlapping deposition, etch, and metrology segments and can pressure share and pricing",
+    "Macro and geopolitical: tariffs, a broad AI-capex de-rating, and a high beta (~1.6) amplify downside in a risk-off tape"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "SMR",
+  "company": "NuScale Power Corporation",
+  "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
+  "industry": "Small Modular Nuclear Reactors",
+  "exchange": "NYSE",
+  "price": 9.01,
+  "price_date": "2026-08-04",
+  "market_cap": "$3.29B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "NuScale Power is the developer of the NuScale Power Module (NPM), a 77 MWe light-water small modular reactor and the only SMR design to receive U.S. Nuclear Regulatory Commission design certification, giving it a multi-year regulatory head start over rivals. Deployment now runs through ENTRA1 Energy, its exclusive global partner to develop, own and operate NuScale plants, with the RoPower six-module project in Romania and a growing U.S. data-center pipeline as the near-term commercialization test. The company ended Q1 2026 with roughly $1.0B in cash and essentially no debt, funding the plan for years, but revenue is tiny and declining (~$31.5M in FY2025), losses are large, and the RoPower final investment decision has slipped to late 2026. At $9.01 the stock trades far below the ~$14.57 consensus target but the outcome is binary and execution-dependent.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$31.5M",
+    "revenue_growth": "-15%",
+    "gross_margin": "N/A (gross loss)",
+    "net_income": "-$355.8M",
+    "eps_diluted": "-$1.82",
+    "cash": "~$1.0B",
+    "fcf": "negative"
+  },
+  "bull_case": {
+    "target": "$20–25",
+    "drivers": [
+      "RoPower six-module Romania project reaches a positive final investment decision and moves toward construction",
+      "ENTRA1 Energy converts its pipeline into firm, financeable U.S. and international orders, including AI data-center off-takers",
+      "NRC standard design approval for the uprated 77 MWe NuScale Power Module clears, cementing the regulatory lead",
+      "Structural AI and data-center power demand accelerates SMR procurement and policy support",
+      "Only NRC-certified SMR design status translates into first-mover deployment and re-rating toward the ~$25 street high"
+    ]
+  },
+  "bear_case": {
+    "target": "$5–7",
+    "risks": [
+      "RoPower FID slips again and no binding, revenue-generating orders materialize",
+      "Continued heavy cash burn forces dilutive equity raises",
+      "Cost overruns and supply-chain or fuel constraints delay first commercial deployment",
+      "Nuclear-sector profit-taking and a 2.25 beta drive the stock below its $7.21 52-week low",
+      "Competing SMR and advanced-reactor designs erode NuScale's first-mover advantage"
+    ]
+  },
+  "base_case": {
+    "target": "$12–15",
+    "assumptions": "RoPower advances toward FID with modest slippage and ENTRA1 signs initial firm orders while NuScale's ~$1.0B cash funds operations without near-term forced dilution; revenue stays small near-term but the NRC-certified design underpins a multi-year commercialization ramp. Stock trades toward the ~$14.57 consensus (18-analyst Hold) target, roughly 60% above current levels."
+  },
+  "catalysts": [
+    {
+      "date": "August 5, 2026",
+      "iso_date": "2026-08-05",
+      "event": "Q2 2026 earnings — revenue, liquidity/cash runway, ENTRA1 pipeline and RoPower FID timing updates"
+    },
+    {
+      "date": "Late 2026",
+      "iso_date": "2026-12",
+      "event": "RoPower (Romania) six-module VOYGR plant final investment decision — key commercialization milestone"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "NRC standard design approval for the uprated 77 MWe NuScale Power Module"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "ENTRA1 Energy conversion of pipeline into firm U.S. data-center and international orders"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "U.S. Department of Energy nuclear financing and policy support for SMR deployment"
+    }
+  ],
+  "key_risks": [
+    "Pre-commercial with tiny, declining revenue (~$31.5M FY2025) and large net losses; profitability years away",
+    "RoPower final investment decision has slipped to late 2026 and no binding commercial plant orders are yet secured",
+    "Heavy cash burn could require dilutive capital raises despite ~$1.0B liquidity",
+    "Extreme volatility and sentiment risk — beta 2.25, stock has fallen from a $57.42 52-week high toward $7.21",
+    "Intensifying competition from other SMR and advanced-reactor developers (BWXT, X-energy, Oklo, TerraPower)"
+  ]
+}

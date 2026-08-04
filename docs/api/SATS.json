@@ -2,82 +2,85 @@
   "ticker": "SATS",
   "company": "EchoStar Corporation",
   "sector": "Technology",
+  "theme": "Space Economy",
+  "sub_theme": "Satellite Connectivity",
   "industry": "Satellite Communications / Telecom",
   "exchange": "NASDAQ",
-  "price": 128.68,
-  "market_cap": "$37.2B",
-  "rating": "BUY",
-  "last_updated": "2026-04-04",
-  "thesis": "Undergoing dramatic transformation from distressed wireless carrier to spectrum monetization entity. $42.6B in strategic asset sales to AT&T ($22.65B) and SpaceX (~$20B) resolves 2026 debt maturity wall. Retains ~2% SpaceX equity stake worth ~$11B. EchoStar Capital division formed to manage space economy M&A. Pay-TV (DISH TV + Sling: 7M subscribers) generates $2.69B Adjusted OIBDA but declining. Boost Mobile transitioning to 'hybrid MNO' on AT&T network.",
+  "price": 84.09,
+  "price_date": "2026-08-04",
+  "market_cap": "$24.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-04",
+  "thesis": "EchoStar (Nasdaq ticker changed from SATS to ECHO on June 24, 2026) has completed the bulk of its transformation from a distressed carrier into a deleveraged spectrum-and-SpaceX-optionality vehicle. On June 30, 2026 it deconsolidated its Pay-TV segment, booking a $9.7B gain that drove Q2 net income to $8.5B, while total debt fell 34% YoY to $17.4B and management pro-forma cash stands near $14-15B. The residual thesis is a sum-of-parts of remaining spectrum, a roughly 2% SpaceX equity stake, and shrinking Boost Mobile and Hughes operations. It is speculative because value hinges on SpaceX marks, the final SpaceX transaction close, and FCC-mandated Boost shutdown liabilities of $5-7B.",
   "financials": {
-    "fiscal_year": "FY2025",
-    "revenue": "$15.0B",
-    "revenue_growth": "-5.2% YoY",
-    "adjusted_oibda": "$1.49B",
-    "net_loss": "-$14.5B (includes $17.6B non-cash impairments)",
-    "normalized_net_loss": "-$1.05B (ex-impairments)",
-    "debt": "~$26B (pre-deal); ~$5-8B (post-deal est.)",
-    "spacex_stake_value": "~$11B (~2% of SpaceX)",
+    "fiscal_year": "Q2 FY2026",
+    "revenue": "$3.3B (Q2)",
+    "revenue_growth": "-4.0% YoY",
     "gross_margin": "N/A",
-    "net_income": "N/A",
+    "net_income": "$8.5B (incl. $9.7B deconsolidation gain)",
     "eps_diluted": "N/A",
-    "cash": "N/A",
-    "fcf": "N/A"
+    "cash": "$1.6B (Q2-end)",
+    "fcf": "-$103M (Q2)",
+    "adjusted_oibda": "$681M (19.0% margin)",
+    "total_debt": "$17.4B",
+    "spacex_stake": "~2% equity stake in SpaceX"
   },
   "bull_case": {
-    "target": "$180–220",
+    "target": "$150–190",
     "drivers": [
-      "SpaceX IPO at $200B+ valuation (2x current) — stake worth $20B+",
-      "Successful Boost Mobile turnaround on AT&T network",
-      "Spectrum monetization exceeds expectations",
-      "Deleveraging complete — debt-free spectrum holding company",
-      "Multiple expansion to 3-4x EBITDA on clean balance sheet"
-    ]
-  },
-  "bear_case": {
-    "target": "$60–80",
-    "risks": [
-      "FCC or DOJ blocks major transaction (low probability, high impact)",
-      "Pay-TV decline accelerates faster than expected",
-      "Boost Mobile continues bleeding subscribers",
-      "Creditor litigation delays/dilutes recovery",
-      "Forced asset sales at unfavorable prices"
+      "SpaceX equity stake re-rates as SpaceX/Starlink valuation climbs toward $1T+",
+      "Remaining mid-band spectrum monetized at premium valuations",
+      "Final SpaceX transaction closes, cutting debt a further ~$5B",
+      "Boost Mobile stabilizes as a capital-light hybrid MNO on AT&T",
+      "Market re-rates clean, deleveraged sum-of-parts to a higher multiple"
     ]
   },
   "base_case": {
-    "target": "$125–145",
-    "assumptions": "Deals close as planned by mid-2026; Debt reduced to $5-8B; Pay-TV decline moderates; Boost stabilizes on AT&T network; SpaceX stake maintains current $11B value; Modest dividend potential by 2027-2028."
+    "target": "$110–140",
+    "assumptions": "Sits near the ~$136 analyst consensus. SpaceX stake holds value; remaining spectrum retains strategic worth; deconsolidated Pay-TV no longer drags results; Boost and Hughes keep shrinking but at a manageable pace; FCC Boost-shutdown and tax liabilities land within the guided $5-7B; buybacks stay constrained by covenants near-term."
+  },
+  "bear_case": {
+    "target": "$55–75",
+    "risks": [
+      "SpaceX private marks fall or an IPO prices below expectations",
+      "Hughes and Boost subscriber losses accelerate further",
+      "FCC-mandated Boost network shutdown costs exceed the $5-7B estimate",
+      "Final SpaceX transaction is delayed, deferring the ~$5B debt reduction",
+      "Persistent negative free cash flow with buybacks blocked by debt covenants"
+    ]
   },
   "catalysts": [
     {
-      "date": "Mid-2026",
-      "event": "AT&T Deal FCC Approval — Critical regulatory milestone",
-      "iso_date": "2026-06"
+      "date": "2H 2026",
+      "iso_date": "2026",
+      "event": "Final SpaceX transaction close — expected further ~$5B debt reduction"
     },
     {
-      "date": "Mid-2026",
-      "event": "SpaceX Deal Close — $11B+ equity stake formalized",
-      "iso_date": "2026-06"
+      "date": "Q3 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 FY2026 earnings — first fully deconsolidated quarter"
     },
     {
       "date": "2026-2027",
-      "event": "SpaceX/Starlink IPO — Potentially very bullish",
-      "iso_date": "2026"
+      "iso_date": "2026",
+      "event": "SpaceX / Starlink valuation and IPO developments — key sum-of-parts driver"
     },
     {
       "date": "Ongoing",
-      "event": "Debt Paydown Announcements — Deleveraging confirmation",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Boost network shutdown execution and FCC milestones ($2.4B escrow set aside)"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Further deleveraging and potential share-repurchase / dividend initiation"
     }
   ],
   "key_risks": [
-    "Regulatory approval risk for $42.6B spectrum deals",
-    "Infrastructure creditor protests from American Tower, Crown Castle",
-    "Pay-TV acceleration — DISH TV lost 168K subs in Q4 2025",
-    "Starlink competition crushing HughesNet (97% of speed tests)",
-    "Complex 'sum-of-parts' valuation dependent on SpaceX IPO timing"
-  ],
-  "theme": "Space Economy",
-  "sub_theme": "Satellite Connectivity",
-  "price_date": "2026-04-04"
+    "Valuation is heavily dependent on the mark on EchoStar's ~2% SpaceX equity stake",
+    "Legacy businesses in secular decline — Hughes subscribers fell 24% YoY, Boost lost 118K in Q2",
+    "FCC-mandated Boost network shutdown plus tax liabilities estimated at $5-7B",
+    "Final SpaceX transaction must close to realize the further ~$5B debt reduction",
+    "Negative free cash flow and debt covenants currently limit the $5B buyback authorization"
+  ]
 }

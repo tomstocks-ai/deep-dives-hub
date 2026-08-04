@@ -13,6 +13,7 @@ title: Defense
 | <tv-ticker-tag symbol="NYSE:RTX" hide-background></tv-ticker-tag> | RTX Corporation | <span class="rating-buy">BUY</span> | 2026-06-24 | [:material-file-document: Read](RTX.md) |
 | <tv-ticker-tag symbol="NYSE:LMT" hide-background></tv-ticker-tag> | Lockheed Martin Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LMT.md) |
 | <tv-ticker-tag symbol="NYSE:NOC" hide-background></tv-ticker-tag> | Northrop Grumman Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](NOC.md) |
+| <tv-ticker-tag symbol="NASDAQ:AVAV" hide-background></tv-ticker-tag> | AeroVironment, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](AVAV.md) |
 
 ### Prime Contractors
 
@@ -55,5 +56,15 @@ AI edge compute pure-play pivoting from low-margin media OEM to ruggedized GPU-a
 **Bull:** \$24–\$28 · **Base:** \$16–\$19 · **Bear:** \$8–\$10
 
 [:material-arrow-right: Full Deep Dive](OSS.md)
+
+---
+
+**AVAV — AeroVironment, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+AeroVironment is the U.S. leader in small unmanned aircraft systems (Puma, JUMP 20) and Switchblade loitering munitions, and the transformational \$4B-plus BlueHalo acquisition (closed May 2025) reinvented it as a diversified next-generation defense-technology company spanning counter-UAS, directed energy, space, and cyber. FY2026 revenue surged 141% to a record \$1.98B with a \$1.2B funded backlog and \$2.7B of bookings, but heavy purchase-accounting amortization, a \$241M goodwill impairment, and near-doubled shares drove a \$265M GAAP loss (adjusted EPS \$3.31). Booming drone and loitering-munition demand makes the thesis compelling, though integration execution, negative free cash flow, and a ~48x adjusted-earnings multiple warrant a SPEC. BUY.
+
+**Bull:** \$250–\$290 · **Base:** \$185–\$225 · **Bear:** \$110–\$140
+
+[:material-arrow-right: Full Deep Dive](AVAV.md)
 
 ---
