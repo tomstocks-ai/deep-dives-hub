@@ -152,6 +152,7 @@ Marine renewable energy company commercializing the PowerBuoy wave-energy platfo
 | <tv-ticker-tag symbol="NYSE:BE" hide-background></tv-ticker-tag> | Bloom Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-15 | [:material-file-document: Read](BE.md) |
 | <tv-ticker-tag symbol="NASDAQ:FCEL" hide-background></tv-ticker-tag> | FuelCell Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](FCEL.md) |
 | <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
+| <tv-ticker-tag symbol="NASDAQ:BWEN" hide-background></tv-ticker-tag> | Broadwind, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-06 | [:material-file-document: Read](BWEN.md) |
 
 ---
 
@@ -192,6 +193,16 @@ Power equipment and grid infrastructure giant spun off from General Electric in 
 **Bull:** \$1400–1500 · **Base:** \$1150–1250 · **Bear:** \$850–950
 
 [:material-arrow-right: Full Deep Dive](GEV.md)
+
+---
+
+**BWEN — Broadwind, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Diversified precision manufacturer based in Cicero, Illinois, serving the combined-cycle natural gas turbine supply chain, wind towers, heavy fabrications, and industrial gearing. Q1 2026 orders rose 23% YoY, with Gearing up 66% and Industrial Solutions up 44%, and FY2025 returned to GAAP profitability (\$5.2M net income on \$158.1M revenue). The micro-cap (~\$91M market cap) trades near \$4.51 with a consensus price target of ~\$6.00, but thin margins, customer concentration, and leverage keep the thesis speculative.
+
+**Bull:** \$6.50–\$7.00 · **Base:** \$5.00–\$6.00 · **Bear:** \$2.50–\$3.00
+
+[:material-arrow-right: Full Deep Dive](BWEN.md)
 
 *Watchlist: EQT, LNG, KMI, WMB.*
 

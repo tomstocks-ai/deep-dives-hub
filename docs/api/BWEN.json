@@ -1,0 +1,78 @@
+{
+  "ticker": "BWEN",
+  "company": "Broadwind, Inc.",
+  "sector": "Industrials",
+  "theme": "Energy",
+  "sub_theme": "Natural Gas & AI Power Demand",
+  "industry": "Diversified Precision Manufacturing / Industrial Components",
+  "exchange": "NASDAQ",
+  "price": 4.51,
+  "price_date": "2026-08-06",
+  "market_cap": "~$91M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-06",
+  "thesis": "Broadwind is a micro-cap diversified precision manufacturer levered to U.S. power-generation infrastructure, particularly the combined-cycle natural gas turbine supply chain (Industrial Solutions) and wind/heavy industrial fabrications. Q1 2026 orders grew 23% YoY with Gearing up 66% and Industrial Solutions up 44%, while FY2025 returned to GAAP profitability and record Industrial Solutions backlog. The asymmetric bull case rests on sustained gas-turbine/AI-power demand, margin operating leverage, and a low valuation versus the ~$6 analyst consensus target; risks are customer concentration, thin margins, cyclical wind exposure, and leverage.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$158.1M",
+    "revenue_growth": "10.4%",
+    "gross_margin": "~15%",
+    "ebitda_margin": "~5.5%",
+    "net_income": "$5.2M",
+    "eps_diluted": "$0.23",
+    "cash": "~$25M cash and availability under credit facility",
+    "debt": "net debt / TTM EBITDA 1.6x",
+    "backlog": "$38.1M (Industrial Solutions record at end of FY2025)",
+    "fcf": "lumpy / working-capital dependent"
+  },
+  "bull_case": {
+    "target": "$6.50–$7.00",
+    "drivers": [
+      "Industrial Solutions and Gearing orders sustain 20%+ YoY growth on gas-turbine and industrial replacement cycles",
+      "Heavy Fabrications stabilizes, removing a drag on consolidated revenue and sentiment",
+      "EBITDA margins expand toward 7–8% as revenue scales toward the $150M+ guided range",
+      "Debt paydown continues and micro-cap re-rates toward the upper end of sell-side targets"
+    ]
+  },
+  "base_case": {
+    "target": "$5.00–$6.00",
+    "assumptions": "Revenue lands in the guided $140–150M range, Adjusted EBITDA holds around $8–10M, and the company stays mildly profitable. The $6.00 analyst consensus acts as the anchor as H2 2026 orders convert."
+  },
+  "bear_case": {
+    "target": "$2.50–$3.00",
+    "risks": [
+      "Wind capex collapses further and Heavy Fabrications orders continue to decline",
+      "Steel/input costs spike and fixed-price contracts compress margins",
+      "A key gas-turbine OEM customer pushes out orders, hurting Industrial Solutions backlog",
+      "EBITDA contracts toward breakeven, net debt/EBITDA rises above 3x, and an equity raise is required"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings (expected August 2026)",
+      "iso_date": "2026-08",
+      "event": "Report Q2 revenue (~$36.3M est.), Adjusted EBITDA margin, total orders, and any FY2026 guidance update or debt-paydown commentary",
+      "sector": "Industrials",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-08-06"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-07",
+      "event": "Conversion of Q1 order momentum into shipments and revenue; potential FY2026 guidance raise if Industrial Solutions backlog remains strong",
+      "sector": "Industrials",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-08-06"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration / OEM exposure in Industrial Solutions",
+    "Commodity and steel cost volatility pressuring fixed-price contract margins",
+    "Cyclical wind capex and production tax credit (PTC) uncertainty in Heavy Fabrications",
+    "Thin margins and small scale leave little room for execution error",
+    "Leverage and liquidity constraints if EBITDA contracts",
+    "Micro-cap liquidity and volatility amplifying price swings"
+  ]
+}
