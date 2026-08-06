@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-04",
-  "count": 132,
+  "last_updated": "2026-08-06",
+  "count": 133,
   "tickers": [
     {
       "ticker": "000660",
@@ -348,6 +348,21 @@
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Stablecoins / Crypto Finance",
       "price_date": "2026-06-20"
+    },
+    {
+      "ticker": "BWEN",
+      "company": "Broadwind, Inc.",
+      "sector": "Industrials",
+      "industry": "Diversified Precision Manufacturing / Industrial Components",
+      "rating": "SPEC. BUY",
+      "price": 4.51,
+      "market_cap": "~$91M",
+      "last_updated": "2026-08-06",
+      "deep_dive_url": "/deep-dives/BWEN/",
+      "api_url": "/api/BWEN.json",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-08-06"
     },
     {
       "ticker": "CBRS",
