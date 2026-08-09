@@ -21,6 +21,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:SOFI" hide-background></tv-ticker-tag> | SoFi Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](SOFI.md) |
 | <tv-ticker-tag symbol="NASDAQ:MSTR" hide-background></tv-ticker-tag> | Strategy Inc | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MSTR.md) |
 | <tv-ticker-tag symbol="NASDAQ:MARA" hide-background></tv-ticker-tag> | MARA Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-04 | [:material-file-document: Read](MARA.md) |
+| <tv-ticker-tag symbol="NASDAQ:DOMH" hide-background></tv-ticker-tag> | Dominari Holdings Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-08-09 | [:material-file-document: Read](DOMH.md) |
 | <tv-ticker-tag symbol="NYSE:RY" hide-background></tv-ticker-tag> | Royal Bank of Canada | <span class="rating-hold">HOLD</span> | 2026-07-13 | [:material-file-document: Read](RY.md) |
 | <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
 | <tv-ticker-tag symbol="NYSE:V" hide-background></tv-ticker-tag> | Visa Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](V.md) |
@@ -154,6 +155,16 @@ SoFi is a digital personal finance platform with three segments: lending (studen
 ---
 
 ### Banking / Diversified Financials
+
+**DOMH — Dominari Holdings Inc. · <span class="rating-spec">SPECULATIVE</span>**
+
+Dominari Holdings is a micro-cap financial holding company built around wealth management, broker-dealer, investment banking, and asset management subsidiaries. Revenue grew roughly 487% in FY2025 to $123.1M, but the company is still loss-making on a GAAP basis and carries an accumulated deficit of about $325M. The stock trades at $2.45, below both 50-day and 200-day moving averages, with minimal analyst coverage and no real options market. This is a speculative turnaround/restructuring story with a heavily dilution-prone capital structure and a recent dividend track record. It is suitable only for highly risk-tolerant capital.
+
+**Bull:** \$4.50–\$5.50 · **Base:** \$2.75–\$3.50 · **Bear:** \$1.50–\$2.00
+
+[:material-arrow-right: Full Deep Dive](DOMH.md)
+
+---
 
 **RY — Royal Bank of Canada · <span class="rating-hold">HOLD</span>**
 

@@ -1,0 +1,79 @@
+{
+  "ticker": "DOMH",
+  "company": "Dominari Holdings Inc.",
+  "sector": "Financial Services",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Banking / Diversified Financials",
+  "industry": "Capital Markets",
+  "exchange": "NASDAQ",
+  "price": 2.45,
+  "price_date": "2026-08-07",
+  "market_cap": "$55M",
+  "rating": "SPECULATIVE",
+  "last_updated": "2026-08-09",
+  "thesis": "Dominari Holdings is a micro-cap financial holding company built around wealth management, broker-dealer, investment banking, and asset management subsidiaries. Revenue grew roughly 487% in FY2025 to $$123.1M, but the company is still loss-making on a GAAP basis and carries an accumulated deficit of about $325M. The stock trades at a low single-digit price, below both 50-day and 200-day moving averages, with minimal analyst coverage and no real options market. This is a speculative turnaround / restructuring story with a heavily dilution-prone capital structure and a recent dividend track record. It is suitable only for highly risk-tolerant capital.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$123.1M",
+    "revenue_growth": "487.0%",
+    "gross_margin": "100.0%",
+    "net_income": "-$22.4M",
+    "eps_diluted": "-$1.72",
+    "cash": "$27.5M",
+    "fcf": "negative"
+  },
+  "bull_case": {
+    "target": "$4.50–$5.50",
+    "drivers": [
+      "Wealth management and broker-dealer subsidiaries continue scaling; FY2026 revenue approaches $180–$200M with improved operating leverage",
+      "Asset management and sales & trading segments generate consistent quarterly profitability, validating the holding-company model",
+      "Strategic asset sales (e.g., American Bitcoin Corp stake) and special dividends sustain investor interest and provide cash flexibility",
+      "Drone/defense advisory contracts (Powerus/Tandem) evolve into a recurring revenue stream or spin-off event",
+      "Market re-rates the stock to 1.0–1.2x book value or a modest forward revenue multiple on 10–12M shares"
+    ]
+  },
+  "base_case": {
+    "target": "$2.75–$3.50",
+    "assumptions": "Revenue grows 50% in FY2026 to ~$185M, with operating losses narrowing but GAAP net income still negative or break-even due to stock-based compensation and acquisition integration. The stock continues to trade around current price-to-book (~1.75x) and a low enterprise-value-to-revenue multiple as investors wait for sustained profitability. The base case implies a slow grind higher with high volatility, capped by the micro-cap float and ongoing capital needs."
+  },
+  "bear_case": {
+    "target": "$1.50–$2.00",
+    "risks": [
+      "Revenue growth stalls as legacy pharmaceutical licensing revenue (AIkido era) fades faster than financial services revenue scales",
+      "Ongoing GAAP losses burn the $27.5M cash balance within 12–18 months, forcing dilutive equity raises at depressed prices",
+      "Stock compensation and convertible instruments continue to dilute shareholders; accumulated deficit keeps expanding",
+      "Special dividends are suspended, removing the main catalyst that has attracted retail/speculative interest",
+      "Weak liquidity and no options market make exit difficult during a risk-off rotation or broad small-cap selloff"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q2 2026 earnings / Aug 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings release and management update on revenue mix and segment profitability"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-09",
+      "event": "Potential additional special dividend announcements or strategic asset monetization updates"
+    },
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-10",
+      "event": "Drone/defense advisory contract milestones (Powerus/Tandem) and any new M&A or spin-off updates"
+    },
+    {
+      "date": "FY2026 annual report",
+      "iso_date": "2027-03",
+      "event": "Annual 10-K filing showing FY2026 full-year revenue, net loss, and audited segment breakdown"
+    }
+  ],
+  "key_risks": [
+    "Micro-cap float (7.7M shares) and low average daily volume make the stock illiquid and prone to sharp moves",
+    "GAAP losses and accumulated deficit of ~$325M; path to sustainable profitability is unproven",
+    "Capital structure includes preferred stock, convertible notes, and warrants that can dilute common shareholders",
+    "Limited analyst coverage, no options market, and minimal institutional ownership reduce price discovery",
+    "Dependence on market/trading activity and M&A fee revenue makes results cyclical",
+    "Special dividends are non-recurring and may not continue; the recent yield has been a return of capital rather than earnings-based"
+  ]
+}
