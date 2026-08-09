@@ -6,7 +6,7 @@
   "sub_theme": "Enterprise Software",
   "industry": "Cloud & Enterprise Software",
   "exchange": "NASDAQ",
-  "price": 365.46,
+  "price": 499.99,
   "market_cap": "$2.7T",
   "rating": "BUY",
   "last_updated": "2026-06-25",
@@ -77,5 +77,5 @@
     "Macro IT spending slowdown in a recessionary environment could compress growth and margins",
     "OpenAI partnership dynamics could shift unfavorably, impacting Azure's AI differentiation"
   ],
-  "price_date": "2026-06-25"
+  "price_date": "2026-08-07"
 }

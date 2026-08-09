@@ -6,7 +6,7 @@
   "industry": "Bitcoin Mining / Digital Asset Infrastructure / AI Data Center",
   "sector": "Fintech",
   "exchange": "NASDAQ",
-  "price": 43.91,
+  "price": 41.23,
   "market_cap": "$5.5B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-07",
@@ -87,5 +87,5 @@
     "Long-term renewable power contracts may not remain cost-competitive if grid prices fall or competition increases",
     "Regulatory risk around Bitcoin mining energy use and environmental policy in Australia or Canada"
   ],
-  "price_date": "2026-07-07"
+  "price_date": "2026-08-07"
 }

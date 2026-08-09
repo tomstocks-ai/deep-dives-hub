@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Semiconductors / RF & Photonics",
   "exchange": "OMXSTO",
-  "price": 86.35,
+  "price": 40.4,
   "market_cap": "$520M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
@@ -72,5 +72,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Photonics & Optical Interconnects",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

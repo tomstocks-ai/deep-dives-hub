@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Power Generation & Grid Infrastructure",
   "rating": "BUY",
-  "price": 1109.73,
+  "price": 990.32,
   "market_cap": "$122B",
   "exchange": "NYSE",
   "theme": "Grid & Power",
@@ -124,5 +124,5 @@
   },
   "incorporated": 2023,
   "headquarters": "Cambridge, MA",
-  "price_date": "2026-06-20"
+  "price_date": "2026-08-07"
 }

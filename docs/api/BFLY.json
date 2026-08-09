@@ -6,7 +6,7 @@
   "sub_theme": "Medical Devices",
   "industry": "Point-of-Care Ultrasound (POCUS)",
   "exchange": "NYSE",
-  "price": 8.9,
+  "price": 8.83,
   "market_cap": "~$1.6B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-20",
@@ -94,5 +94,5 @@
   },
   "deep_dive_url": "/deep-dives/BFLY/",
   "api_url": "/api/BFLY.json",
-  "price_date": "2026-06-20"
+  "price_date": "2026-08-07"
 }

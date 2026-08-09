@@ -55,3 +55,43 @@
   opacity: 0.7;
 }
 .back-link:hover { opacity: 1; }
+
+/* Back-nav button row on thematic pages
+   ("Back to Tables" + "Back to Home"). */
+.back-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 1.5rem;
+}
+/* md_in_html wraps the links in a <p>; neutralise its spacing. */
+.back-nav p {
+  display: contents;
+  margin: 0;
+}
+.back-nav .back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.35em 0.9em;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 0.4rem;
+  color: var(--md-primary-fg-color);
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s;
+}
+.back-nav .back-btn:hover,
+.back-nav .back-btn:focus {
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+.back-nav .back-btn .twemoji,
+.back-nav .back-btn svg {
+  height: 1.05em;
+  width: 1.05em;
+  fill: currentColor;
+}

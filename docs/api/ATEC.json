@@ -6,7 +6,7 @@
   "sub_theme": "Medical Devices",
   "industry": "Medical Devices / Spine Surgery",
   "exchange": "NASDAQ",
-  "price": 9.55,
+  "price": 9.31,
   "market_cap": "$1.4B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-31",
@@ -110,5 +110,5 @@
     "52_week_low": 6.82,
     "52_week_high": 23.29
   },
-  "price_date": "2026-07-31"
+  "price_date": "2026-08-07"
 }

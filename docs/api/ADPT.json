@@ -4,7 +4,7 @@
   "sector": "Health",
   "industry": "Biotechnology / Immune-Based Diagnostics",
   "exchange": "NASDAQ",
-  "price": 18.78,
+  "price": 24.93,
   "market_cap": "$2.8B",
   "rating": "HOLD / SPEC.",
   "last_updated": "2026-06-11",
@@ -65,5 +65,5 @@
   ],
   "theme": "Biotechnology & Health Technology",
   "sub_theme": "Precision Medicine & Diagnostics",
-  "price_date": "2026-06-11"
+  "price_date": "2026-08-07"
 }

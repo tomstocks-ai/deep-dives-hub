@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Copper Mining",
   "exchange": "NYSE Arca",
-  "price": 80.64,
+  "price": 88.03,
   "market_cap": "$1.5B",
   "rating": "BUY",
   "last_updated": "2026-06-07",
@@ -71,5 +71,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Copper",
-  "price_date": "2026-06-07"
+  "price_date": "2026-08-07"
 }

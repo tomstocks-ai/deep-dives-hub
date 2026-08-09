@@ -6,7 +6,7 @@
   "sub_theme": "Consumer Finance",
   "industry": "Digital Personal Finance / Lending & Financial Services",
   "exchange": "NASDAQ",
-  "price": 17.88,
+  "price": 18.38,
   "market_cap": "$18.2B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-28",
@@ -98,5 +98,5 @@
     "Interest rate risk and refinancing demand sensitivity",
     "M&A execution risk (Composer integration and future deals)"
   ],
-  "price_date": "2026-06-28"
+  "price_date": "2026-08-07"
 }

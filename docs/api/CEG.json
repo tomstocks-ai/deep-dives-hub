@@ -6,7 +6,7 @@
   "sector": "Energy",
   "industry": "Nuclear Power / Utilities",
   "exchange": "NASDAQ",
-  "price": 288.0,
+  "price": 269.89,
   "market_cap": "$88.7B",
   "rating": "BUY",
   "last_updated": "2026-06-19",
@@ -67,5 +67,5 @@
     "Nuclear waste and decommissioning liabilities — long-term off-balance-sheet obligations",
     "Competition from renewables + storage — falling costs of solar, wind, battery storage"
   ],
-  "price_date": "2026-06-19"
+  "price_date": "2026-08-07"
 }

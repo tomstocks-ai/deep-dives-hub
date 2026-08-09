@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Semiconductor Connectivity / High-Speed Interconnects",
   "exchange": "NASDAQ",
-  "price": 256.65,
+  "price": 249.89,
   "market_cap": "$43.5B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
@@ -66,5 +66,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Networking & Connectivity",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

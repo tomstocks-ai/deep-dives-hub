@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Cybersecurity / Network & Cloud Security",
   "exchange": "NASDAQ",
-  "price": 279.62,
+  "price": 363.86,
   "market_cap": "$93.5B",
   "rating": "BUY",
   "last_updated": "2026-06-14",
@@ -58,5 +58,5 @@
   ],
   "theme": "Software",
   "sub_theme": "Cybersecurity",
-  "price_date": "2026-06-14"
+  "price_date": "2026-08-07"
 }

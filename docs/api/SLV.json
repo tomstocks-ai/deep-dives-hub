@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Precious Metals / Silver",
   "exchange": "NYSE Arca",
-  "price": 61.57,
+  "price": 57.5,
   "market_cap": "$12.1B",
   "rating": "BUY",
   "last_updated": "2026-06-07",
@@ -71,5 +71,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Specialty Metals (Silver)",
-  "price_date": "2026-06-07"
+  "price_date": "2026-08-07"
 }

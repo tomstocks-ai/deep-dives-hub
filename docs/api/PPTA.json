@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Precious Metals & Critical Minerals Mining",
   "exchange": "NASDAQ / TSX",
-  "price": 18.24,
+  "price": 24.72,
   "market_cap": "$2.29B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-28",
@@ -79,5 +79,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Gold",
-  "price_date": "2026-07-28"
+  "price_date": "2026-08-07"
 }

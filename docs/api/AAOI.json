@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Optical Communications / Data Center Transceivers",
   "exchange": "NASDAQ",
-  "price": 191.55,
+  "price": 135.63,
   "market_cap": "$8.5B",
   "rating": "HOLD / SPEC.",
   "last_updated": "2026-06-15",
@@ -73,5 +73,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Photonics & Optical Interconnects",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

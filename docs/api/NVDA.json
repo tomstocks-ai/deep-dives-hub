@@ -6,7 +6,7 @@
   "sector": "Technology",
   "industry": "Semiconductors / AI Compute",
   "exchange": "NASDAQ",
-  "price": 202.64,
+  "price": 223.96,
   "market_cap": "~$5.0T",
   "rating": "BUY",
   "last_updated": "2026-06-23",
@@ -74,5 +74,5 @@
     "TSMC supply chain dependency; any disruption to Taiwan production would halt NVIDIA manufacturing",
     "AI capex cycle maturation; if AI ROI disappoints, hyperscaler spending could slow abruptly"
   ],
-  "price_date": "2026-06-23"
+  "price_date": "2026-08-07"
 }

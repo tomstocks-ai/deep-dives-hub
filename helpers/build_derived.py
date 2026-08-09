@@ -5,7 +5,8 @@ The per-ticker files ``docs/api/{TICKER}.json`` are the single source of
 truth. Everything mechanical is (re)generated from them:
 
   1. ``docs/api/tickers.json``      — fully generated master index
-  2. ``docs/table.md``              — master table, generated between markers
+  2. ``docs/table.md``              — master table and the live-prices
+                                      widget, generated between markers
   3. thematic pages                 — summary-table rows and the mechanical
                                       parts of each gist (rating span,
                                       Bull/Base/Bear line) are rewritten
@@ -154,6 +155,7 @@ GIST_HEADER_RE = re.compile(r"^\*\*([A-Z0-9]{1,7}) — .*\*\*\s*$", re.M)
 TARGETS_LINE_RE = re.compile(r"^\*\*Bull:\*\* .*\*\*Bear:\*\* .*$", re.M)
 SUMMARY_HEADER_RE = re.compile(r"^\|\s*Ticker\s*\|\s*Company\s*\|", re.M)
 ROW_TICKER_RE = re.compile(r'symbol="[^":]+:([A-Z0-9]{1,7})"')
+PRICES_WIDGET_RE = re.compile(r"^<tv-market-data\b", re.M)
 
 
 class Reporter:
@@ -312,6 +314,44 @@ def gen_master_table(data: dict[str, dict], member: dict[str, str], rep: Reporte
     return "\n".join(lines)
 
 
+def prices_section_name(t: str, data: dict, member: dict, rep: Reporter) -> str:
+    """Section label for the live-prices widget: ``Page — Badge``.
+
+    Collapses to just the page label when the badge is the same, so we don't
+    emit redundant names like ``Defense — Defense``.
+    """
+    d = data[t]
+    stem = member.get(t)
+    page_label = next((label for s, label, _ in THEME_PAGES if s == stem), None) \
+        or d.get("theme") or "Other"
+    badge_label = badge(d, member, rep)[0]
+    return page_label if badge_label == page_label else f"{page_label} — {badge_label}"
+
+
+def gen_prices_widget(data: dict[str, dict], member: dict[str, str], rep: Reporter) -> str:
+    """Build the ``<tv-market-data>`` element listing every ticker.
+
+    Every ticker with a ``docs/api/{T}.json`` file is included, grouped into
+    sections by its theme page and badge, ordered like the master table.
+    """
+    page_order = {stem: i for i, (stem, _, _) in enumerate(THEME_PAGES)}
+    info = {t: (prices_section_name(t, data, member, rep), tv_symbol(data[t], rep))
+            for t in data}
+
+    def key(t: str) -> tuple:
+        return (page_order.get(member.get(t), len(page_order)), info[t][0], t)
+
+    sections: list[dict] = []
+    for t in sorted(data, key=key):
+        name, sym = info[t]
+        if not sections or sections[-1]["sectionName"] != name:
+            sections.append({"sectionName": name, "symbols": []})
+        sections[-1]["symbols"].append(sym)
+
+    body = json.dumps(sections, separators=(",", ":"), ensure_ascii=False)
+    return f"<tv-market-data symbol-sectors='{body}'></tv-market-data>"
+
+
 def splice_generated(text: str, name: str, body: str, locate: re.Pattern, path: Path) -> str:
     begin, end = BEGIN.format(name=name), END.format(name=name)
     block = f"{begin}\n{body}\n{end}"
@@ -331,8 +371,11 @@ def splice_generated(text: str, name: str, body: str, locate: re.Pattern, path: 
 
 def gen_table_md(data: dict, member: dict, rep: Reporter) -> str:
     text = TABLE_MD.read_text(encoding="utf-8")
-    return splice_generated(text, "all-stocks-table", gen_master_table(data, member, rep),
+    text = splice_generated(text, "all-stocks-table", gen_master_table(data, member, rep),
                             SUMMARY_HEADER_RE, TABLE_MD)
+    text = splice_generated(text, "prices-widget", gen_prices_widget(data, member, rep),
+                            PRICES_WIDGET_RE, TABLE_MD)
+    return text
 
 
 def regen_theme_page(page: Path, data: dict, member: dict, rep: Reporter) -> str:

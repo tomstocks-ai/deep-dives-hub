@@ -3,14 +3,16 @@ title: Critical Minerals & Strategic Materials
 ---
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
-[← Back to Summary](../index.md)
+<div class="back-nav" markdown>
+[:material-table: Back to Tables](../table.md){ .back-btn }
+[:material-home: Back to Home](../index.md){ .back-btn }
+</div>
 
 ## Critical Minerals & Strategic Materials
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
-
 | <tv-ticker-tag symbol="NASDAQ:CRML" hide-background></tv-ticker-tag> | Critical Metals Corp | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](CRML.md) |
 | <tv-ticker-tag symbol="NYSE:MP" hide-background></tv-ticker-tag> | MP Materials Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](MP.md) |
 | <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](FCX.md) |

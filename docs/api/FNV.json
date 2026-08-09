@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Gold Royalty & Streaming",
   "exchange": "NYSE",
-  "price": 218.74,
+  "price": 238.65,
   "market_cap": "$45.7B",
   "rating": "BUY",
   "last_updated": "2026-06-08",
@@ -66,5 +66,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Gold",
-  "price_date": "2026-06-08"
+  "price_date": "2026-08-07"
 }

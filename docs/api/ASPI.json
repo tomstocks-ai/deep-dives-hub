@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Enriched Isotopes / Critical Materials",
   "exchange": "NasdaqCM",
-  "price": 6.4,
+  "price": 4.43,
   "market_cap": "$664M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-10",
@@ -73,5 +73,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Specialty Metals",
-  "price_date": "2026-06-10"
+  "price_date": "2026-08-07"
 }

@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Quantum Computing / Quantum Sensing",
   "exchange": "NYSE",
-  "price": 9.76,
+  "price": 11.91,
   "market_cap": "$2.13B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-28",
@@ -77,5 +77,5 @@
   ],
   "theme": "Quantum Computing",
   "sub_theme": "Pure Plays",
-  "price_date": "2026-07-28"
+  "price_date": "2026-08-07"
 }

@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Infrastructure Contracting / Grid Modernization",
   "exchange": "NYSE",
-  "price": 707.74,
+  "price": 671.86,
   "market_cap": "$94.3B",
   "rating": "BUY",
   "last_updated": "2026-06-13",
@@ -72,5 +72,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Electrical Contractors",
-  "price_date": "2026-06-13"
+  "price_date": "2026-08-07"
 }

@@ -6,7 +6,7 @@
   "sub_theme": "Specialty Metals (Silver)",
   "industry": "Silver Mining",
   "exchange": "NASDAQ",
-  "price": 44.39,
+  "price": 51.22,
   "market_cap": "$19.5B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-25",
@@ -86,5 +86,5 @@
     "Environmental incidents — tailings or water disputes can halt operations",
     "FX risk — stronger local currencies vs. USD raise operating costs"
   ],
-  "price_date": "2026-06-25"
+  "price_date": "2026-08-07"
 }

@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "exchange": "NASDAQ",
-  "price": 184.79,
+  "price": 167.86,
   "market_cap": "$205B",
   "rating": "HOLD",
   "last_updated": "2026-07-01",
@@ -90,5 +90,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "AI Compute",
-  "price_date": "2026-07-01"
+  "price_date": "2026-08-07"
 }

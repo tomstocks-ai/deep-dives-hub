@@ -6,7 +6,7 @@
   "sub_theme": "AI Compute",
   "industry": "Semiconductors / AI Compute",
   "exchange": "NASDAQ",
-  "price": 234.71,
+  "price": 226.73,
   "market_cap": "$52B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-21",
@@ -74,5 +74,5 @@
     "Competition from NVIDIA GPUs and custom silicon (Broadcom, Marvell)",
     "TSMC supply chain and geopolitical risk for wafer-scale fabrication"
   ],
-  "price_date": "2026-06-21"
+  "price_date": "2026-08-07"
 }
