@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Battery Energy Storage Systems (BESS)",
   "exchange": "NASDAQ",
-  "price": 24.18,
+  "price": 13.2,
   "market_cap": "$4.4B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
@@ -67,5 +67,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Grid-Scale Energy Storage",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

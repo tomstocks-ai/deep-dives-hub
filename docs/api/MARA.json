@@ -6,7 +6,7 @@
   "industry": "Bitcoin Mining / Digital Asset Infrastructure",
   "sector": "Fintech",
   "exchange": "NASDAQ",
-  "price": 12.40,
+  "price": 10.09,
   "market_cap": "$4.5B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-04",
@@ -87,5 +87,5 @@
     "Regulatory risk (SEC, environmental, energy policy) and potential crypto crackdowns",
     "Fleet obsolescence requiring continuous capex"
   ],
-  "price_date": "2026-07-04"
+  "price_date": "2026-08-07"
 }

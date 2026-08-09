@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "AI Edge Compute / Rugged Transportable Systems",
   "exchange": "NASDAQ",
-  "price": 15.71,
+  "price": 13.24,
   "market_cap": "$350M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-10",
@@ -64,5 +64,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Servers & Systems",
-  "price_date": "2026-06-10"
+  "price_date": "2026-08-07"
 }

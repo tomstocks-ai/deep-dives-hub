@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "industry": "Stablecoin / Digital Payments",
   "exchange": "NYSE",
-  "price": 80.23,
+  "price": 66.67,
   "market_cap": "$19.9B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-20",
@@ -88,5 +88,5 @@
   ],
   "theme": "Fintech & Digital Payments",
   "sub_theme": "Stablecoins / Crypto Finance",
-  "price_date": "2026-06-20"
+  "price_date": "2026-08-07"
 }

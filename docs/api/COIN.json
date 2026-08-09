@@ -6,7 +6,7 @@
   "sub_theme": "Brokerage / Trading",
   "industry": "Cryptocurrency Exchange / Digital Asset Infrastructure",
   "exchange": "NASDAQ",
-  "price": 158.18,
+  "price": 153.6,
   "market_cap": "$42B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-24",
@@ -60,5 +60,5 @@
     "Stablecoin revenue concentration sensitive to Federal Reserve interest rates",
     "Security and operational risk from exchange custody"
   ],
-  "price_date": "2026-06-24"
+  "price_date": "2026-08-07"
 }

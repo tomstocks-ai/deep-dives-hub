@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "AI Infrastructure / GPU Cloud",
   "exchange": "NASDAQ",
-  "price": 187.88,
+  "price": 187.97,
   "market_cap": "$48.1B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-28",
@@ -72,5 +72,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "AI / HPC Operators",
-  "price_date": "2026-07-28"
+  "price_date": "2026-08-07"
 }

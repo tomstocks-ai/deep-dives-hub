@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Infrastructure Construction / Energy & Utilities",
   "exchange": "NYSE",
-  "price": 362.97,
+  "price": 272.46,
   "market_cap": "$28.3B",
   "rating": "HOLD",
   "last_updated": "2026-06-13",
@@ -72,5 +72,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Electrical Contractors",
-  "price_date": "2026-06-13"
+  "price_date": "2026-08-07"
 }

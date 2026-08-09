@@ -6,7 +6,7 @@
   "sub_theme": "Satellite Connectivity / Geospatial Intelligence",
   "industry": "Positioning, Navigation, and Timing (PNT)",
   "exchange": "NASDAQ",
-  "price": 16.67,
+  "price": 16.31,
   "market_cap": "$1.2B",
   "rating": "HOLD / SPEC.",
   "last_updated": "2026-06-26",
@@ -77,5 +77,5 @@
     "High volatility and speculative sentiment risk",
     "Oppenheimer upgrade and analyst targets may not materialize"
   ],
-  "price_date": "2026-06-26"
+  "price_date": "2026-08-07"
 }

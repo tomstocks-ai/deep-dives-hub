@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Digital Infrastructure / Bitcoin Mining & AI Data Centers",
   "exchange": "NASDAQ",
-  "price": 120.18,
+  "price": 88.59,
   "market_cap": "$7.33B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-16",
@@ -72,5 +72,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "AI / HPC Operators",
-  "price_date": "2026-06-16"
+  "price_date": "2026-08-07"
 }

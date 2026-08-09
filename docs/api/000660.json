@@ -6,7 +6,7 @@
   "sector": "Technology",
   "industry": "Semiconductor Memory (DRAM, NAND, HBM)",
   "exchange": "KRX",
-  "price": 2764000,
+  "price": 1.422e+06,
   "market_cap": "KRW 1,902T (~$1.38T)",
   "rating": "BUY",
   "last_updated": "2026-06-19",
@@ -72,5 +72,5 @@
     "China export controls and geopolitical risk",
     "KRW/USD currency risk for foreign investors"
   ],
-  "price_date": "2026-06-19"
+  "price_date": "2026-08-07"
 }

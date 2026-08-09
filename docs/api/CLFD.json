@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Fiber Connectivity / Broadband Infrastructure",
   "exchange": "NASDAQ",
-  "price": 39.96,
+  "price": 27.48,
   "market_cap": "$650M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
@@ -67,5 +67,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Networking & Connectivity",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

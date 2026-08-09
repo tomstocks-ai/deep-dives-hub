@@ -5,7 +5,7 @@
   "sub_theme": "Memory & Storage",
   "industry": "Semiconductor Memory (DRAM, NAND, HBM)",
   "exchange": "NASDAQ",
-  "price": 1133.99,
+  "price": 877.57,
   "market_cap": "$1.25T",
   "rating": "HOLD",
   "last_updated": "2026-06-19",
@@ -64,5 +64,5 @@
     "High valuation leaves little margin for error"
   ],
   "sector": "Technology",
-  "price_date": "2026-06-19"
+  "price_date": "2026-08-07"
 }

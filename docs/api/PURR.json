@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Digital Asset Treasury",
   "exchange": "NASDAQ",
-  "price": 10.97,
+  "price": 6.81,
   "market_cap": "$1.5B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-03",
@@ -65,5 +65,5 @@
   ],
   "theme": "Fintech & Digital Payments",
   "sub_theme": "Stablecoins / Crypto Finance",
-  "price_date": "2026-06-03"
+  "price_date": "2026-08-07"
 }

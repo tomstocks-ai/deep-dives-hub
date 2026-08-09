@@ -6,7 +6,7 @@
   "sub_theme": "Brokerage / Trading",
   "industry": "Brokerage / Trading Platforms",
   "exchange": "NASDAQ",
-  "price": 89.84,
+  "price": 93.29,
   "market_cap": "$83B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-07-29",
@@ -124,5 +124,5 @@
     "52_week_low": 63.52,
     "52_week_high": 153.86
   },
-  "price_date": "2026-07-29"
+  "price_date": "2026-08-07"
 }

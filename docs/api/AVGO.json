@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Semiconductors / Infrastructure Software",
   "exchange": "NASDAQ",
-  "price": 411.35,
+  "price": 427.76,
   "market_cap": "$1.9T",
   "rating": "BUY",
   "last_updated": "2026-06-19",
@@ -67,5 +67,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "AI Compute",
-  "price_date": "2026-06-19"
+  "price_date": "2026-08-07"
 }

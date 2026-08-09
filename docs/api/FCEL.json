@@ -6,7 +6,7 @@
   "sector": "Energy",
   "industry": "Fuel Cell Power Generation",
   "exchange": "NASDAQ",
-  "price": 23.45,
+  "price": 20.43,
   "market_cap": "$1.4B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-26",
@@ -73,5 +73,5 @@
     "Dilution risk from history of secondary offerings",
     "Execution risk on data center pivot against Bloom Energy and traditional power"
   ],
-  "price_date": "2026-06-26"
+  "price_date": "2026-08-07"
 }

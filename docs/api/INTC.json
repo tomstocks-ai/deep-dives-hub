@@ -6,7 +6,7 @@
   "sector": "Technology",
   "industry": "Semiconductors / AI Compute",
   "exchange": "NASDAQ",
-  "price": 131.65,
+  "price": 101.65,
   "market_cap": "$665B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-25",
@@ -63,5 +63,5 @@
     "Valuation risk: stock has surged ~600% from lows and trades well above analyst consensus targets",
     "Debt burden: ~$46.6B debt load with negative free cash flow limits strategic flexibility"
   ],
-  "price_date": "2026-06-25"
+  "price_date": "2026-08-07"
 }

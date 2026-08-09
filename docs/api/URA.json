@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Uranium Mining",
   "exchange": "NYSE Arca",
-  "price": 45.31,
+  "price": 44.91,
   "market_cap": "$2.5B",
   "rating": "BUY",
   "last_updated": "2026-06-07",
@@ -71,5 +71,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Uranium & Nuclear Fuel",
-  "price_date": "2026-06-07"
+  "price_date": "2026-08-07"
 }

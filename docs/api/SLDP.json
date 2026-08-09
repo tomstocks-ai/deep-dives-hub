@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Solid-State Batteries",
   "exchange": "NASDAQ",
-  "price": 2.14,
+  "price": 2.33,
   "market_cap": "$481M",
   "rating": "HOLD / SPEC.",
   "last_updated": "2026-07-28",
@@ -111,5 +111,5 @@
   },
   "theme": "AI Buildout",
   "sub_theme": "Solid-State Batteries",
-  "price_date": "2026-07-28"
+  "price_date": "2026-08-07"
 }

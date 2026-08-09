@@ -6,7 +6,7 @@
   "sub_theme": "AI Compute",
   "industry": "Data Infrastructure Semiconductors / Custom AI Silicon",
   "exchange": "NASDAQ",
-  "price": 310.58,
+  "price": 218.72,
   "market_cap": "$270B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-19",
@@ -66,5 +66,5 @@
     "Competition from Broadcom (AVGO) with deeper resources and larger installed base",
     "AI capex cycle sensitivity"
   ],
-  "price_date": "2026-06-19"
+  "price_date": "2026-08-07"
 }

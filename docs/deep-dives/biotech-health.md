@@ -3,7 +3,10 @@ title: Biotechnology & Health Technology
 ---
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
-[← Back to Summary](../index.md)
+<div class="back-nav" markdown>
+[:material-table: Back to Tables](../table.md){ .back-btn }
+[:material-home: Back to Home](../index.md){ .back-btn }
+</div>
 
 ## Biotechnology & Health Technology
 

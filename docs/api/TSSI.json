@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Data Center Infrastructure / AI Server Integration",
   "exchange": "NASDAQ",
-  "price": 11.32,
+  "price": 11.26,
   "market_cap": "$330M",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-28",
@@ -102,5 +102,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Servers & Systems",
-  "price_date": "2026-06-28"
+  "price_date": "2026-08-07"
 }

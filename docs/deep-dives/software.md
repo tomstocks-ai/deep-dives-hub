@@ -1,6 +1,9 @@
 <script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
-[← Back to Summary](../index.md)
+<div class="back-nav" markdown>
+[:material-table: Back to Tables](../table.md){ .back-btn }
+[:material-home: Back to Home](../index.md){ .back-btn }
+</div>
 
 ## Cloud & Enterprise Software
 
@@ -34,8 +37,6 @@ Global creative software leader and dominant digital experience platform. Q2 FY2
 
 ---
 
-### Enterprise Software
-
 **NOW — ServiceNow, Inc. · <span class="rating-buy">BUY</span>**
 
 Leading enterprise cloud workflow platform with ~50% ITSM market share and expanding into ITOM, HRSD, CSM, and Creator workflows. FY2025 revenue hit ~$13.3B with ~77.5% gross margins and ~28% non-GAAP operating margins. Q1 2026 subscription revenue grew 22% YoY to \$3.67B, and FY2026 guidance was raised to \$15.735B–\$15.775B. Now Assist (embedded AI) target was raised to \$1.5B for FY2026, with deals containing 3+ AI products growing ~70% YoY. Free cash flow margins are best-in-class at ~35–44%, and the Board authorized an additional \$5B share repurchase. At ~12x EV/Revenue with durable 20%+ growth and expanding margins, NOW offers an attractive risk/reward for a dominant SaaS platform.
@@ -45,8 +46,6 @@ Leading enterprise cloud workflow platform with ~50% ITSM market share and expan
 [:material-arrow-right: Full Deep Dive](NOW.md)
 
 ---
-
-### Enterprise Software
 
 **MSFT — Microsoft Corporation · <span class="rating-buy">BUY</span>**
 
@@ -58,8 +57,6 @@ Global technology leader and dominant enterprise cloud platform. FY26 Q3 revenue
 
 ---
 
-### Enterprise Software
-
 **ORCL — Oracle Corporation · <span class="rating-buy">BUY</span>**
 
 Oracle has transformed from a mature database and applications vendor into one of the fastest-growing hyperscale cloud providers, with Oracle Cloud Infrastructure (OCI) now capacity-constrained rather than demand-constrained. A record remaining performance obligation (RPO) backlog above \$450B — driven by multi-year AI training and inference contracts including Stargate-class capacity — gives Oracle unmatched revenue visibility. FY2026 revenue reached ~\$67B (+16%), but heavy data-center capex (~\$35B+/yr) has compressed free cash flow to ~\$5B, the crux of the bull/bear debate. The thesis is execution: converting an extraordinary backlog into margin-accretive revenue on a leveraged balance sheet. Primary risk is capex overruns and backlog-conversion slippage from power, GPU, and construction bottlenecks.
@@ -69,8 +66,6 @@ Oracle has transformed from a mature database and applications vendor into one o
 [:material-arrow-right: Full Deep Dive](ORCL.md)
 
 ---
-
-### Enterprise Software
 
 **CVLT — Commvault Systems, Inc. · <span class="rating-hold">HOLD</span>**
 
@@ -82,7 +77,6 @@ Enterprise data protection and cyber resilience platform that has successfully t
 
 ---
 
-### Enterprise Software
 
 **CRM — Salesforce, Inc. · <span class="rating-buy">BUY</span>**
 
@@ -94,7 +88,6 @@ The world's #1 CRM platform, repositioning as the "operating system for the Agen
 
 ---
 
-### Enterprise Software
 
 **FRSH — Freshworks Inc. · <span class="rating-buy">BUY</span>**
 
@@ -118,8 +111,6 @@ Cloud storage and backup provider with two segments: B2 Cloud Storage (object st
 
 ---
 
-### Enterprise Software
-
 **SNOW — Snowflake Inc. · <span class="rating-buy">BUY</span>**
 
 Leading cloud-agnostic data platform whose deeply-oversold recovery thesis has fully played out — shares have roughly doubled from ~\$119 (RSI ~16) to ~\$273 on sustained 30%+ growth. FY2026 total revenue rose 29.2% to \$4.68B, TTM revenue is ~\$5.03B (+31%), NRR is ~125%, RPO is ~\$9.8B, and free cash flow runs ~\$1.2B+ at a ~25% margin — a profitable-cash-flow quality leader rather than a speculative bounce. Cortex AI and Snowflake Intelligence are the core growth engines, and a 51-analyst Strong Buy consensus (avg target ~\$297.60; BofA \$330, KeyBanc \$325, Jefferies \$310) backs the upgrade to BUY. Databricks' ~\$188B private raise reframes public SNOW as relatively cheap, though a full ~129x forward-earnings multiple, consumption-model volatility, and heavy stock-based comp cap near-term upside.
@@ -141,8 +132,6 @@ Cloud-native observability and security platform with best-in-class fundamentals
 [:material-arrow-right: Full Deep Dive](DDOG.md)
 
 ---
-
-### Data & Analytics
 
 **PLTR — Palantir Technologies Inc. · <span class="rating-hold">HOLD</span>**
 

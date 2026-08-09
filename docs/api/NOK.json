@@ -6,7 +6,7 @@
   "sub_theme": "Networking & Connectivity",
   "industry": "Telecommunications Equipment / Networking Infrastructure",
   "exchange": "NYSE",
-  "price": 13.49,
+  "price": 9.36,
   "market_cap": "$75B",
   "rating": "HOLD",
   "last_updated": "2026-06-21",
@@ -80,5 +80,5 @@
     "5G capex cycle maturation in developed markets before 5G-Advanced upgrade cycle begins",
     "Open RAN and network virtualization trends eroding incumbent vendor margins over time"
   ],
-  "price_date": "2026-06-21"
+  "price_date": "2026-08-07"
 }

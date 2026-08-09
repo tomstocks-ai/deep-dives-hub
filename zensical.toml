@@ -11,20 +11,24 @@ extra_javascript = [
     "javascripts/tablesort.js"
 ]
 
+# Top-level tabs are kept short and scannable. The 10 investment themes are
+# grouped under a single "Themes" tab (a dropdown/section) so the header no
+# longer overflows with a dozen crowded tabs.
 nav = [
   { "Home" = "index.md" },
-  { "All" = "table.md" },
-
-  { "AI Buildout" = "deep-dives/AI_buildout.md" },
-  { "Software" = "deep-dives/software.md" },
-  { "Energy" = "deep-dives/energy.md" },
-  { "Defense" = "deep-dives/defense.md" },
-  { "Space" = "deep-dives/space.md" },
-  { "Quantum" = "deep-dives/quantum-computing.md" },
-  { "Minerals" = "deep-dives/critical-minerals.md" },
-  { "Biotech & Health" = "deep-dives/biotech-health.md" },
-  { "Fintech" = "deep-dives/fintech.md" },
-  { "eVTOL" = "deep-dives/evtol.md" },
+  { "All Stocks" = "table.md" },
+  { "Themes" = [
+    { "AI Buildout" = "deep-dives/AI_buildout.md" },
+    { "Software & Cybersecurity" = "deep-dives/software.md" },
+    { "Energy & Power" = "deep-dives/energy.md" },
+    { "Defense" = "deep-dives/defense.md" },
+    { "Space" = "deep-dives/space.md" },
+    { "Quantum Computing" = "deep-dives/quantum-computing.md" },
+    { "Critical Minerals" = "deep-dives/critical-minerals.md" },
+    { "Biotech & Health" = "deep-dives/biotech-health.md" },
+    { "Fintech" = "deep-dives/fintech.md" },
+    { "eVTOL & Air Mobility" = "deep-dives/evtol.md" },
+  ] },
   { "API Reference" = "api-docs.md" },
 ]
 

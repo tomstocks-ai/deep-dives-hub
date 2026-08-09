@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Uranium Enrichment / Nuclear Fuel",
   "exchange": "NYSE",
-  "price": 161.78,
+  "price": 191.37,
   "market_cap": "$3.18B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-07",
@@ -74,5 +74,5 @@
   ],
   "theme": "Energy",
   "sub_theme": "Enrichment",
-  "price_date": "2026-06-07"
+  "price_date": "2026-08-07"
 }

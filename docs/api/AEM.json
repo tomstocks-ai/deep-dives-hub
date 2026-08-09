@@ -4,7 +4,7 @@
   "sector": "Materials",
   "industry": "Gold Mining",
   "exchange": "NYSE",
-  "price": 163.66,
+  "price": 178.82,
   "market_cap": "$98.2B",
   "rating": "BUY",
   "last_updated": "2026-06-07",
@@ -71,5 +71,5 @@
   ],
   "theme": "Critical Minerals",
   "sub_theme": "Gold",
-  "price_date": "2026-06-07"
+  "price_date": "2026-08-07"
 }

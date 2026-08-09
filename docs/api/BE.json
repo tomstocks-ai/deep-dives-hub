@@ -4,7 +4,7 @@
   "sector": "Energy",
   "industry": "Fuel Cells / Clean Power Generation",
   "exchange": "NYSE",
-  "price": 274.5,
+  "price": 219.34,
   "market_cap": "$41.1B",
   "rating": "SPEC. BUY",
   "last_updated": "2026-06-15",
@@ -72,5 +72,5 @@
   ],
   "theme": "Energy",
   "sub_theme": "Natural Gas & AI Power Demand",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }

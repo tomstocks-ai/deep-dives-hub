@@ -4,7 +4,7 @@
   "sector": "Technology",
   "industry": "Broadband Infrastructure / Telecom Equipment",
   "exchange": "NASDAQ",
-  "price": 15.2,
+  "price": 11.84,
   "market_cap": "$1.68B",
   "rating": "BUY",
   "last_updated": "2026-06-15",
@@ -67,5 +67,5 @@
   ],
   "theme": "AI Buildout",
   "sub_theme": "Networking & Connectivity",
-  "price_date": "2026-06-15"
+  "price_date": "2026-08-07"
 }
