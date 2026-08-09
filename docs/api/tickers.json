@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-08-09",
-  "count": 133,
+  "count": 134,
   "tickers": [
     {
       "ticker": "000660",
@@ -647,6 +647,21 @@
       "api_url": "/api/DELL.json",
       "theme": "AI Buildout",
       "sub_theme": "Data Center Infrastructure",
+      "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "DOMH",
+      "company": "Dominari Holdings Inc.",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "rating": "SPECULATIVE",
+      "price": 2.45,
+      "market_cap": "$55M",
+      "last_updated": "2026-08-09",
+      "deep_dive_url": "/deep-dives/DOMH/",
+      "api_url": "/api/DOMH.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Banking / Diversified Financials",
       "price_date": "2026-08-07"
     },
     {
