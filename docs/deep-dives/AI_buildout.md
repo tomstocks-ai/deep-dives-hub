@@ -125,7 +125,7 @@ Coherent is a scaled, vertically integrated photonics leader and a primary benef
 | <tv-ticker-tag symbol="NASDAQ:AVGO" hide-background></tv-ticker-tag> | Broadcom Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](AVGO.md) |
 | <tv-ticker-tag symbol="NYSE:NOK" hide-background></tv-ticker-tag> | Nokia Corporation | <span class="rating-hold">HOLD</span> | 2026-06-21 | [:material-file-document: Read](NOK.md) |
 | <tv-ticker-tag symbol="NYSE:GLW" hide-background></tv-ticker-tag> | Corning Incorporated | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](GLW.md) |
-| <tv-ticker-tag symbol="NYSE:ANET" hide-background></tv-ticker-tag> | Arista Networks, Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](ANET.md) |
+| <tv-ticker-tag symbol="NYSE:ANET" hide-background></tv-ticker-tag> | Arista Networks, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-09 | [:material-file-document: Read](ANET.md) |
 
 
 **GLW — Corning Incorporated · <span class="rating-buy">BUY</span>**
@@ -208,11 +208,11 @@ Swedish semiconductor pure-play specializing in mmWave beamforming chips for LEO
 
 ---
 
-**ANET — Arista Networks, Inc. · <span class="rating-buy">BUY</span>**
+**ANET — Arista Networks, Inc. · <span class="rating-hold">HOLD</span>**
 
-Arista is the merchant-silicon leader in high-speed data center Ethernet and a prime beneficiary of AI back-end networking as hyperscalers standardize on Ethernet over InfiniBand. FY2025 revenue grew 28.6% to \$9.0B with 64% gross margins, ~43% operating margins, and ~\$4B free cash flow on a debt-free balance sheet; Q1 2026 accelerated to +35% YoY and management targets \$11.5B revenue with \$3.5B of AI networking revenue in 2026. At ~58x trailing earnings the multiple is full but supported by durable growth and elite profitability. The key risk is customer concentration (Microsoft ~26%, Meta ~16%).
+Arista is the leading merchant-silicon data-center Ethernet switching vendor and a core beneficiary of AI back-end networking as hyperscalers build Ethernet-based AI clusters. Q2 2026 revenue came in around \$3.04B with Q3 guidance near \$3.3B and FY2026 revenue guidance lifted to ~\$12.6B (~40% YoY). TTM EPS is roughly \$3.50, implying a ~54x P/E at \$188.67 — a full multiple near 52-week highs. The long-term AI networking tailwind is intact, but the risk/reward is balanced at these levels. Customer concentration (Microsoft/Meta historically), competition from Cisco/Nvidia/InfiniBand, and white-box alternatives remain the key risks.
 
-**Bull:** \$245–285 · **Base:** \$185–215 · **Bear:** \$120–145
+**Bull:** \$240 · **Base:** \$190 · **Bear:** \$140
 
 [:material-arrow-right: Full Deep Dive](ANET.md)
 
