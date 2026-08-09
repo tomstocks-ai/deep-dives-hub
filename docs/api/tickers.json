@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-09",
   "count": 133,
   "tickers": [
     {
@@ -159,15 +159,15 @@
       "company": "Arista Networks, Inc.",
       "sector": "Technology",
       "industry": "Data Center Networking / Ethernet Switching",
-      "rating": "BUY",
-      "price": 169.71,
-      "market_cap": "$214B",
-      "last_updated": "2026-07-29",
+      "rating": "HOLD",
+      "price": 188.67,
+      "market_cap": "~$238B",
+      "last_updated": "2026-08-09",
       "deep_dive_url": "/deep-dives/ANET/",
       "api_url": "/api/ANET.json",
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
-      "price_date": "2026-07-29"
+      "price_date": "2026-08-09"
     },
     {
       "ticker": "ARM",
