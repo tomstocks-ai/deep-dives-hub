@@ -10,7 +10,7 @@
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](OKLO.md) |
+| <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-12 | [:material-file-document: Read](OKLO.md) |
 | <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](IMSR.md) |
 | <tv-ticker-tag symbol="NYSE:SMR" hide-background></tv-ticker-tag> | NuScale Power Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](SMR.md) |
 | <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
@@ -24,7 +24,7 @@
 
 **OKLO — Oklo Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Building small, factory-built Aurora Powerhouse fast reactors (15–75 MW) on a build-own-operate model with long-term PPAs, targeting AI data centers. Just received DOE startup authorization for its Groves Isotope Test Reactor, clearing the way for fuel loading and first criticality — a major near-term de-risking milestone — and joined a Trump-administration-backed ~\$200M initiative (with Microsoft, Nvidia and X-energy) to accelerate advanced nuclear for AI. Pre-revenue with over \$1B cash and essentially no debt; Meta 1.2 GW Ohio campus anchors demand and first commercial operation is targeted for late 2027/2028. The stock round-tripped from a ~\$194 high to near its 52-week low on nuclear-sector profit-taking; NRC licensing and HALEU fuel supply remain key risks. Consensus Buy, avg target ~\$84 (~2x upside).
+Building small, factory-built Aurora Powerhouse fast reactors (15–75 MW) on a build-own-operate model with long-term PPAs, targeting AI data centers. Q2 2026 delivered first reported revenue (\$1.2M vs ~\$72K est) and confirmed the Groves Isotope Test Reactor achieved first criticality following DOE startup authorization — a major near-term de-risking milestone now completed. Pre-revenue at scale with ~\$3.0B total liquidity (\$1.6B cash + \$1.4B marketable securities) after \$1.9B in ATM equity raised in 2026; Meta 1.2 GW Ohio campus anchors demand and first commercial operation is targeted for late 2027/2028. The stock round-tripped from a ~\$193.84 high to ~\$47 on nuclear-sector profit-taking; NRC licensing (Aurora-INL), HALEU fuel supply, and high beta (1.20) remain key risks. Consensus Buy across ~20 analysts, mean target ~\$79.88 (~70% upside).
 
 **Bull:** \$90–120 · **Base:** \$65–80 · **Bear:** \$25–35
 
