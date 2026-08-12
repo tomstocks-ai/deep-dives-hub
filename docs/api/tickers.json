@@ -1,7 +1,7 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-12",
   "count": 133,
   "tickers": [
     {
@@ -1270,14 +1270,14 @@
       "sector": "Energy",
       "industry": "Advanced Nuclear / Fast Reactor",
       "rating": "SPEC. BUY",
-      "price": 48.42,
-      "market_cap": "$7.27B",
-      "last_updated": "2026-07-28",
+      "price": 47.01,
+      "market_cap": "$8.74B",
+      "last_updated": "2026-08-12",
       "deep_dive_url": "/deep-dives/OKLO/",
       "api_url": "/api/OKLO.json",
       "theme": "Energy",
       "sub_theme": "Reactor Developers",
-      "price_date": "2026-08-07"
+      "price_date": "2026-08-11"
     },
     {
       "ticker": "OPTT",

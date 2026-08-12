@@ -6,26 +6,26 @@
   "sub_theme": "Reactor Developers",
   "industry": "Advanced Nuclear / Fast Reactor",
   "exchange": "NYSE",
-  "price": 48.42,
-  "price_date": "2026-08-07",
-  "market_cap": "$7.27B",
+  "price": 47.01,
+  "price_date": "2026-08-11",
+  "market_cap": "$8.74B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-07-28",
-  "thesis": "Oklo builds compact 15-75 MW factory-built Aurora Powerhouse fast reactors on a 'build, own, operate' model with long-term PPAs, targeting AI data centers and industrial off-takers. A DOE startup authorization for its Groves Isotope Test Reactor clears the way for fuel loading and first criticality, a major near-term de-risking milestone, while a Meta 1.2 GW Ohio campus partnership and a Trump-administration-backed ~$200M advanced-nuclear initiative (with Microsoft, Nvidia and X-energy) validate demand. Pre-revenue with over $1B cash and essentially no debt, but the stock has round-tripped from a ~$194 high to near its 52-week low, and HALEU fuel supply plus NRC licensing remain key risks ahead of first commercial operation targeted for late 2027/2028.",
+  "last_updated": "2026-08-12",
+  "thesis": "Oklo builds compact 15-75 MW factory-built Aurora Powerhouse fast reactors on a 'build, own, operate' model with long-term PPAs, targeting AI data centers and industrial off-takers. Q2 2026 marked the company's first reported revenue ($1.2M), while the Groves Isotope Test Reactor achieved first criticality following DOE startup authorization, a major de-risking milestone. A Trump-administration-backed ~$200M advanced-nuclear-for-AI initiative alongside Microsoft, Nvidia and X-energy validates demand, and the Meta 1.2 GW Ohio campus remains an anchor contract. With ~$3.0B in total liquidity ($1.6B cash and equivalents + $1.4B marketable securities) after raising $1.9B via ATM equity in 2026, Oklo is funded through late-2027/2028 first commercial operation, but NRC licensing risk (Aurora-INL), HALEU fuel supply scarcity, and extreme volatility/beta remain the key risks.",
   "financials": {
-    "fiscal_year": "Pre-revenue (TTM)",
-    "revenue": "$0",
+    "fiscal_year": "2026 YTD / Q2 2026",
+    "revenue": "$1.2M (Q2 2026; first reported revenue)",
     "revenue_growth": "N/A",
     "gross_margin": "N/A",
-    "net_income": "-$128.9M (TTM)",
-    "eps_diluted": "-$0.83",
-    "cash": "over $1B",
+    "net_income": "-$81.6M (YTD 2026 net loss)",
+    "eps_diluted": "-$0.28 adjusted loss per share (Q2 2026)",
+    "cash": "$3.0B total liquidity ($1.6B cash and equivalents + $1.4B marketable securities)",
     "fcf": "N/A"
   },
   "bull_case": {
     "target": "$90–120",
     "drivers": [
-      "Groves Isotope Test Reactor reaches first criticality on schedule, proving the fuel and licensing pathway",
+      "Groves Isotope Test Reactor first criticality already achieved, validating the fuel and licensing pathway",
       "Aurora-INL progresses through NRC licensing without major delays",
       "Meta Ohio 1.2 GW campus proceeds and additional LOIs convert to binding PPAs",
       "Trump-administration ~$200M advanced-nuclear-for-AI initiative accelerates deployment and policy tailwinds",
@@ -44,18 +44,18 @@
   },
   "base_case": {
     "target": "$65–80",
-    "assumptions": "Groves reaches criticality and Aurora-INL advances through NRC licensing with modest slippage; Meta Ohio Phase 1 and initial PPA conversions proceed; over $1B cash funds the plan without near-term dilution; stock trades on execution milestones between its 52-week low and prior highs. Consensus avg target ~$84 implies roughly 2x upside from current levels."
+    "assumptions": "Groves first criticality achieved and Aurora-INL advances through NRC licensing with modest slippage; Meta Ohio Phase 1 and initial PPA conversions proceed; ~$3.0B liquidity funds the plan without near-term dilution; stock trades on execution milestones between its 52-week low and prior highs. Consensus avg target ~$79.88 implies roughly 70% upside from current levels."
   },
   "catalysts": [
     {
       "date": "August 7, 2026",
-      "iso_date": "2026-08",
-      "event": "Q2 2026 earnings — cash burn, runway, and milestone updates"
+      "iso_date": "2026-08-07",
+      "event": "Q2 2026 earnings reported — first revenue ($1.2M vs ~$72K est), adjusted loss $0.28/share, ~$3.0B liquidity"
     },
     {
       "date": "2026",
       "iso_date": "2026",
-      "event": "Groves Isotope Test Reactor fuel loading and first criticality following DOE startup authorization — major near-term de-risking milestone"
+      "event": "Groves Isotope Test Reactor achieved first criticality following DOE startup authorization — major de-risking milestone completed"
     },
     {
       "date": "Ongoing",
@@ -77,7 +77,7 @@
     "NRC licensing risk — no non-water-cooled commercial reactor has yet been licensed; delays push out first revenue",
     "HALEU fuel supply scarcity constrains deployment (Russia banned as supplier)",
     "First-of-a-kind technology execution risk at Groves and Aurora-INL commercial scale",
-    "Extreme valuation and sentiment volatility — stock round-tripped from ~$194 to near its 52-week low on nuclear-sector profit-taking (beta 1.16)",
-    "Pre-revenue; first commercial operation is ~2 years out, testing investor patience"
+    "Extreme valuation and sentiment volatility — stock round-tripped from ~$194 to ~$47 with a beta of 1.20; drawdowns can be sharp and sentiment-led",
+    "Pre-revenue duration until late 2027/2028; first commercial operation is ~2 years out, testing investor patience"
   ]
 }
