@@ -1,0 +1,79 @@
+{
+  "ticker": "TT",
+  "company": "Trane Technologies plc",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Servers & Systems",
+  "industry": "HVAC, Climate Control and Data Center Cooling",
+  "exchange": "NYSE",
+  "price": 484.0,
+  "price_date": "2026-08-14",
+  "market_cap": "$106.0B",
+  "rating": "HOLD",
+  "last_updated": "2026-08-14",
+  "thesis": "Trane Technologies is a high-quality, global HVAC and climate-control leader whose commercial applied-equipment and data-center cooling franchises are seeing exceptional demand from AI buildouts, electrification and efficiency upgrades. The company delivered strong Q2 2026 results — revenue up 11%, adjusted EPS up 11% to $4.31, and record enterprise backlog of $12.1B (+70% YoY, book-to-bill 123%) — while raising full-year 2026 adjusted EPS guidance to $15.20-$15.30. Americas commercial HVAC and applied bookings continue to surge, with applied orders up 130% for the fourth consecutive quarter. However, the stock trades at ~34-37x trailing earnings and near the top of its 52-week range ($348.06-$505.87), with Q2 margins already compressing modestly on mix and investment. The risk/reward is balanced at current prices, so the rating is HOLD: wait for a pullback toward $430-450 for a better entry.",
+  "financials": {
+    "fiscal_year": "FY2025 / TTM through Q2 2026",
+    "revenue": "$21.3B (FY2025); $6.35B (Q2 2026)",
+    "revenue_growth": "+7% reported, +6% organic (FY2025); +11% reported, +9% organic (Q2 2026)",
+    "gross_margin": "~35-36% (Q2 2026), down from 37.6% YoY on mix/investment",
+    "net_income": "$2.9B+ adjusted net earnings implied; GAAP continuing EPS $13.14 (FY2025)",
+    "eps_diluted": "$13.14 GAAP continuing EPS; $13.06 adjusted continuing EPS (FY2025); $4.31 adjusted continuing EPS (Q2 2026)",
+    "cash": "~$1.8B cash and equivalents; undrawn $2.0B commercial paper program",
+    "fcf": "$2.9B (FY2025, 98% of adjusted net earnings); $1.6B (first-half 2026)"
+  },
+  "bull_case": {
+    "target": "$620-680",
+    "drivers": [
+      "AI data center cooling and applied commercial HVAC orders sustain 100%+ growth and expand backlog beyond $12B",
+      "Operating leverage returns as price/cost tailwinds and mix normalize, driving 100+ bps margin expansion in 2027",
+      "2026 adjusted EPS reaches the high end of $15.30 or beats, and 2027 consensus moves toward $17-18+",
+      "Capital return remains aggressive: dividend growth, buybacks and disciplined M&A continue to compound per-share value",
+      "Stock rerates to a premium industrial multiple (>30x forward) on sustained double-digit EPS growth and backlog visibility"
+    ]
+  },
+  "base_case": {
+    "target": "$510-560",
+    "assumptions": "Trane executes on its raised 2026 guidance: ~9% organic revenue growth and adjusted EPS of $15.20-$15.30. Margins are flat to modestly down in 2026 due to capacity investments and mix, but recover into 2027. Backlog provides strong visibility; the stock trades near the analyst consensus target of ~$520, reflecting fair value for a 13-16% EPS grower at ~28-30x forward earnings. Dividend grows in line with earnings."
+  },
+  "bear_case": {
+    "target": "$380-430",
+    "risks": [
+      "Residential HVAC remains soft and commercial orders decelerate as AI data center capex cycle pauses",
+      "Margin compression worsens due to copper/aluminum/steel input costs, tariff exposure, and mix shift toward large applied equipment",
+      "Higher-for-longer rates pressure construction and retrofit activity, lengthening the backlog conversion cycle",
+      "Valuation mean reverts to 25x forward earnings on a growth scare, sending shares toward 52-week lows",
+      "International weakness (EMEA down in Q2, FX headwinds) persists and offsets Americas strength"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026 earnings",
+      "iso_date": "2026-10",
+      "event": "Expected report in late October 2026; management guided ~10% organic revenue growth and adjusted EPS of ~$4.70, with margin expansion of ~50 bps"
+    },
+    {
+      "date": "Q4 2026 / FY2026 results",
+      "iso_date": "2026-01",
+      "event": "Full-year 2026 results and 2027 initial guidance; will test whether backlog strength converts to sustained margin recovery and double-digit EPS growth"
+    },
+    {
+      "date": "Data center cooling announcements",
+      "iso_date": "2026",
+      "event": "Trane is expanding data center cooling and controls capabilities; partnership or product updates with hyperscalers/NVIDIA could re-rate the AI infrastructure angle"
+    },
+    {
+      "date": "Dividend increase",
+      "iso_date": "2026-02",
+      "event": "Annual dividend review typically in early calendar year; Trane has a history of consistent dividend growth and strong free cash flow conversion"
+    }
+  ],
+  "key_risks": [
+    "Premium valuation: ~34-37x trailing P/E and ~29x forward P/E leaves little room for execution misses",
+    "Margin pressure: gross margin contracted in Q2 2026 and capacity investments may keep EBITDA margins flat in the near term",
+    "Cyclical exposure: commercial construction, residential HVAC, and data center capex are all cyclical and rate-sensitive",
+    "Input costs and tariffs: commodities and potential tariff actions on HVAC imports could compress margins",
+    "FX and EMEA softness: EMEA revenue declined in Q2 2026; dollar strength would further pressure international results",
+    "Competition: Carrier, Johnson Controls, Lennox and emerging data-center cooling specialists compete for AI buildout share"
+  ]
+}

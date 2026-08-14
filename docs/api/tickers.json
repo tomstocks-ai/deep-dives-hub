@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-12",
-  "count": 133,
+  "last_updated": "2026-08-14",
+  "count": 134,
   "tickers": [
     {
       "ticker": "000660",
@@ -1863,6 +1863,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Servers & Systems",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "TT",
+      "company": "Trane Technologies plc",
+      "sector": "Industrials",
+      "industry": "HVAC, Climate Control and Data Center Cooling",
+      "rating": "HOLD",
+      "price": 484.0,
+      "market_cap": "$106.0B",
+      "last_updated": "2026-08-14",
+      "deep_dive_url": "/deep-dives/TT/",
+      "api_url": "/api/TT.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Servers & Systems",
+      "price_date": "2026-08-14"
     },
     {
       "ticker": "U",

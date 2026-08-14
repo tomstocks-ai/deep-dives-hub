@@ -388,6 +388,7 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 | <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
 | <tv-ticker-tag symbol="NASDAQ:SMCI" hide-background></tv-ticker-tag> | Super Micro Computer, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](SMCI.md) |
 | <tv-ticker-tag symbol="NYSE:VRT" hide-background></tv-ticker-tag> | Vertiv Holdings Co | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](VRT.md) |
+| <tv-ticker-tag symbol="NYSE:TT" hide-background></tv-ticker-tag> | Trane Technologies plc | <span class="rating-hold">HOLD</span> | 2026-08-14 | [:material-file-document: Read](TT.md) |
 
 ---
 
@@ -441,6 +442,16 @@ Vertiv is the closest large-cap pure-play on the physical layer of the AI data c
 **Bull:** \$400–440 · **Base:** \$340–380 · **Bear:** \$200–230
 
 [:material-arrow-right: Full Deep Dive](VRT.md)
+
+---
+
+**TT — Trane Technologies plc · <span class="rating-hold">HOLD</span>**
+
+Trane Technologies is a premium global HVAC and data-center cooling leader. Q2 2026 revenue rose 11% to \$6.35B, adjusted EPS grew 11% to \$4.31, and enterprise backlog hit a record \$12.1B (+70% YoY) with a 123% book-to-bill. Applied commercial bookings surged 130% for the fourth consecutive quarter, driven by AI data-center demand and building-efficiency upgrades. The company raised full-year 2026 adjusted EPS guidance to \$15.20–\$15.30. However, the stock at ~\$484 trades near the upper third of its 52-week range and at ~34–37x trailing earnings, while Q2 margins compressed modestly on mix and capacity investment. High-quality business, full price — HOLD; better entry near \$430–450.
+
+**Bull:** \$620-680 · **Base:** \$510-560 · **Bear:** \$380-430
+
+[:material-arrow-right: Full Deep Dive](TT.md)
 
 ---
 ### Electrical Contractors
