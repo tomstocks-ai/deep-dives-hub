@@ -1,0 +1,71 @@
+{
+  "ticker": "SNDK",
+  "company": "SanDisk Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Memory & Storage",
+  "industry": "NAND Flash Memory & Storage Solutions",
+  "exchange": "NASDAQ",
+  "price": 1484.98,
+  "price_date": "2026-08-29",
+  "market_cap": "~$219B",
+  "rating": "HOLD",
+  "last_updated": "2026-08-30",
+  "thesis": "SanDisk, spun off from Western Digital in February 2026, is a pure-play NAND flash memory leader serving enterprise SSD, client, and consumer storage markets. Q4 FY2026 delivered record revenue of $8.97B with non-GAAP EPS of $39.25 (beat by 13%), driven by AI-fueled enterprise SSD demand and NAND pricing recovery. TTM revenue stands at ~$20.3B with strong margins. However, the stock has been volatile since spinoff — trading from ~$38 post-separation to a 52-week high of $2,354 before pulling back to ~$1,485. The cyclical NAND market, capital intensity, and potential oversupply remain risks. HOLD at current levels; accumulate on pullbacks toward $1,100–1,200.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "~$20.3B (TTM)",
+    "revenue_growth": "+175% YoY (TTM)",
+    "gross_margin": "~50% (non-GAAP est.)",
+    "net_income": "~$5.5B (est.)",
+    "eps_diluted": "$39.25 (Q4 non-GAAP)",
+    "cash": "~$3.0B (est.)",
+    "fcf": "strong positive"
+  },
+  "bull_case": {
+    "target": "$2,000–2,400",
+    "drivers": [
+      "Enterprise SSD demand from AI training and inference workloads sustains multi-year growth",
+      "NAND pricing power continues as supply discipline holds and demand outstrips capacity",
+      "Pure-play flash story attracts dedicated semiconductor investors post-spinoff",
+      "Next-gen QLC and high-layer 3D NAND technology transitions improve cost per bit"
+    ]
+  },
+  "base_case": {
+    "target": "$1,400–1,600",
+    "assumptions": "Revenue grows 15–25% YoY as NAND pricing stabilizes at healthy levels, enterprise SSD mix stays elevated, and EPS reaches ~$120–140 annualized. Market applies a 12–14x forward P/E appropriate for a cyclical memory company near peak margins."
+  },
+  "bear_case": {
+    "target": "$700–900",
+    "risks": [
+      "NAND oversupply cycle re-emerges as Samsung, SK hynix, and Kioxia expand capacity",
+      "NAND ASP declines accelerate, compressing margins from peak levels",
+      "Enterprise SSD demand normalizes after the initial AI infrastructure buildout",
+      "Post-spinoff execution risks and capital allocation missteps"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q4 FY2026 results — record revenue $8.97B, non-GAAP EPS $39.25"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Q1 FY2027 earnings — post-spinoff capital allocation and NAND pricing outlook"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Next-gen enterprise SSD qualifications at hyperscalers for AI workloads"
+    }
+  ],
+  "key_risks": [
+    "NAND flash is deeply cyclical; current elevated margins may represent a near-peak",
+    "Newly independent company — limited track record as a standalone public entity",
+    "Intense competition from Samsung, SK hynix/Solidigm, and Kioxia",
+    "Capital intensity of NAND manufacturing requires heavy ongoing investment",
+    "Post-spinoff stock price volatility and limited institutional ownership history"
+  ]
+}

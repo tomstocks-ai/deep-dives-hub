@@ -1,0 +1,71 @@
+{
+  "ticker": "KLAC",
+  "company": "KLA Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Process Control & Yield Management / Inspection & Metrology",
+  "exchange": "NASDAQ",
+  "price": 192.80,
+  "price_date": "2026-08-29",
+  "market_cap": "~$252B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "KLA Corporation is the dominant global supplier of semiconductor process control and yield management equipment — inspection, metrology, and data analytics tools that are essential for manufacturing defect-free chips at every node. FY2026 revenue grew 12% to $13.6B with Q4 revenue of $3.66B (+15.2% YoY) and GAAP EPS of $1.04. Advanced packaging process control revenues are expected to reach ~$1.1B in calendar 2026 as AI accelerator and HBM packaging complexity drives rising inspection intensity. At ~48x trailing P/E and ~$252B market cap, the stock is moderately valued for a high-quality WFE company with 60%+ gross margins and best-in-class capital returns ($4.9B cash). BUY — process control is the least cyclical WFE segment and KLA is the monopoly-like leader.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended June 2026)",
+    "revenue": "$13.6B",
+    "revenue_growth": "+12% YoY",
+    "gross_margin": "~63% (est.)",
+    "net_income": "$4.83B",
+    "eps_diluted": "$1.04 (Q4 GAAP); ~$3.67 TTM",
+    "cash": "$4.9B",
+    "fcf": "~$4.5B (est.)"
+  },
+  "bull_case": {
+    "target": "$260–310",
+    "drivers": [
+      "Advanced packaging inspection revenue reaches $1.1B+ as HBM and chiplet packaging complexity grows",
+      "Rising process control intensity at GAA and EUV nodes increases KLA's content per wafer",
+      "FY2027 revenue accelerates as AI-driven WFE spending continues and China remains elevated",
+      "Capital return program (dividends + buybacks) provides downside protection and shareholder value"
+    ]
+  },
+  "base_case": {
+    "target": "$190–230",
+    "assumptions": "FY2027 revenue grows 10–15% to ~$15–16B as process control spending tracks broader WFE expansion. Gross margins hold above 60%. EPS reaches ~$4.20–4.60. Market applies a 50–55x P/E for the quality premium, keeping the stock near current levels."
+  },
+  "bear_case": {
+    "target": "$110–140",
+    "risks": [
+      "WFE cyclical correction compresses process control spending and multiples",
+      "China export controls escalate, restricting KLA's access to Chinese fabs",
+      "Advanced packaging process control growth disappoints as chiplet adoption slows",
+      "Broad semiconductor de-rating event driven by AI capex concerns"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "July 2026",
+      "iso_date": "2026-07",
+      "event": "Q4 FY2026 results — revenue $3.66B (+15.2%), advanced packaging process control update"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Q1 FY2027 earnings (expected late October) — FY2027 demand outlook"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Advanced packaging and EUV inspection tool adoption at leading-edge fabs"
+    }
+  ],
+  "key_risks": [
+    "WFE cyclicality: even process control (the least cyclical segment) can see 10–15% revenue declines in downturns",
+    "China exposure: tightening export controls could restrict sales to Chinese semiconductor fabs",
+    "Rich valuation at ~48x P/E; any growth deceleration could trigger multiple compression",
+    "Customer concentration: TSMC, Samsung, Intel/IFS represent the bulk of capex",
+    "Stock fell sharply after Q4 beat (~21% from 52-week high of $307 to ~$193), signaling elevated sentiment risk"
+  ]
+}

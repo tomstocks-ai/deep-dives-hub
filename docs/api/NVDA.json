@@ -6,73 +6,83 @@
   "sector": "Technology",
   "industry": "Semiconductors / AI Compute",
   "exchange": "NASDAQ",
-  "price": 223.96,
-  "market_cap": "~$5.0T",
+  "price": 217.55,
+  "market_cap": "~$5.2T",
   "rating": "BUY",
-  "last_updated": "2026-06-23",
-  "thesis": "NVIDIA is the dominant designer of GPUs and AI accelerators, and the foundational enabler of the generative AI revolution. FY2025 revenue of $130.5B (+114% YoY) and Q1 FY2027 revenue of $81.6B (+85% YoY) demonstrate sustained hypergrowth. The CUDA software ecosystem creates deep developer lock-in, while the Blackwell architecture ramp and agentic AI positioning extend the moat. At ~$5T market cap and ~35x TTM P/E, valuation is elevated but justified by 75% gross margins, $60B+ annual free cash flow, and a structurally expanding AI TAM.",
+  "last_updated": "2026-08-30",
+  "thesis": "NVIDIA remains the dominant designer of AI accelerators and the foundational enabler of the generative AI revolution. Q2 FY2027 revenue of $96.2B (+106% YoY) and Q3 guidance of ~$108B confirm sustained hypergrowth driven by Blackwell Ultra and Vera Rubin architecture ramps. The CUDA ecosystem, $500B+ third-party AI infrastructure financing partnerships, the reported $12.9B Hugging Face acquisition to control the model distribution layer, and $279B in locked-in supplier commitments collectively extend the moat. At ~$5.2T market cap and ~27x TTM P/E, valuation has actually moderated relative to earnings growth, supported by 75% gross margins, ~$140B annualized FCF run rate, and a structurally expanding AI TAM.",
   "financials": {
-    "fiscal_year": "FY2025 (ended Jan 2025)",
-    "revenue": "$130.5B",
-    "revenue_growth": "+114%",
-    "gross_margin": "~75% (GAAP)",
-    "net_income": "$72.88B",
-    "eps_diluted": "$2.94",
-    "cash": "~$35B",
-    "fcf": "$60.85B (FY2025)"
+    "fiscal_year": "FY2027 H1 (ended Jul 2026)",
+    "revenue": "$177.8B (H1); $96.2B (Q2)",
+    "revenue_growth": "+106% YoY (Q2)",
+    "gross_margin": "75.0% (GAAP, Q2)",
+    "net_income": "$59.7B GAAP / $54.0B non-GAAP (Q2)",
+    "eps_diluted": "$2.46 GAAP / $2.22 non-GAAP (Q2)",
+    "cash": "$56.6B (cash + marketable debt securities)",
+    "fcf": "$69.9B (H1 FY2027); $21.3B (Q2)"
   },
   "bull_case": {
-    "target": "$280–300",
+    "target": "$300–340",
     "drivers": [
-      "Blackwell demand exceeds supply through 2027; agentic AI and sovereign AI drive new TAM",
-      "Gross margins expand to 78% on software mix and pricing power",
-      "Stock re-rates to 35x forward earnings on sustained 50%+ growth",
-      "Automotive and robotics become meaningful revenue contributors by 2028"
+      "Vera Rubin ramp extends demand visibility through 2028; agentic AI, sovereign AI, and physical AI open new multi-hundred-billion TAMs",
+      "$500B+ third-party financing platforms accelerate AI factory buildouts globally, expanding addressable customer base beyond hyperscalers",
+      "Hugging Face acquisition secures the model distribution layer and deepens NVIDIA's software moat",
+      "Gross margins stabilize at 74–75% on mix normalization; stock re-rates to 30x+ forward earnings on sustained 70%+ revenue growth",
+      "Automotive (DRIVE Hyperion) and robotics (Isaac GR00T) become meaningful revenue contributors by 2028"
     ]
   },
   "bear_case": {
-    "target": "$180–200",
+    "target": "$160–185",
     "risks": [
-      "AI capex cycle peaks in 2026; hyperscaler demand decelerates sharply",
-      "Competition from AMD MI350X, custom ASICs (AVGO, MRVL), and Cerebras gains share",
-      "Margins compress to 65% on mix shift or pricing pressure",
-      "Geopolitical export controls expand beyond China to constrain TAM",
-      "Multiple contracts to 20x on cyclical normalization"
+      "AI capex cycle peaks in 2027; hyperscaler demand decelerates as ROI scrutiny intensifies",
+      "Gross margins compress below 72% on Vera Rubin ramp costs, memory mix shift, and competitive pricing pressure",
+      "Competition from AMD MI350X/MI400, Broadcom/Marvell custom ASICs, and Cerebras intensifies, eroding market share",
+      "Geopolitical export controls expand beyond China; Q3 guide assumes zero China data center compute revenue",
+      "$279B in supplier commitments become a liability if demand softens, creating inventory overhang",
+      "Multiple contracts to 18–20x on cyclical normalization and law of large numbers"
     ]
   },
   "base_case": {
-    "target": "$240–260",
-    "assumptions": "Data center growth moderates to 50–60% YoY; gaming and automotive contribute modestly; margins stable at 75%; stock trades at 28–30x forward earnings. FY2027 revenue of $240–260B with EPS of $7.50–8.50."
+    "target": "$260–290",
+    "assumptions": "FY2027 revenue of $370–390B driven by Blackwell Ultra and early Vera Rubin; gross margins moderate to 73–74%; FY2027 non-GAAP EPS of $9.00–10.00; stock trades at 28–30x forward earnings. FY2028 revenue growth guided at ~70%, sustaining premium valuation."
   },
   "catalysts": [
     {
-      "date": "2026-08",
-      "event": "Q2 FY2027 earnings — Blackwell ramp and guidance critical",
-      "iso_date": "2026-08"
-    },
-    {
       "date": "2026-09",
-      "event": "NVIDIA GTC 2026 — new product announcements and roadmap updates",
+      "event": "NVIDIA GTC 2026 — Vera Rubin architecture deep dive, new product announcements, and roadmap updates",
       "iso_date": "2026-09"
     },
     {
       "date": "2026-11",
-      "event": "Q3 FY2027 earnings — holiday gaming season + data center update",
+      "event": "Q3 FY2027 earnings — $108B revenue guide validation, gross margin trajectory, and Vera Rubin production update",
       "iso_date": "2026-11"
     },
     {
+      "date": "2026-H2",
+      "event": "Hugging Face acquisition regulatory approval and closing — antitrust review outcome",
+      "iso_date": null
+    },
+    {
       "date": "2027-01",
-      "event": "CES 2027 — automotive and consumer AI announcements",
+      "event": "CES 2027 — Automotive DRIVE Hyperion and consumer AI announcements",
       "iso_date": "2027-01"
+    },
+    {
+      "date": "2027-02",
+      "event": "Q4 FY2027 / full-year earnings — first full year with Blackwell at scale; FY2028 guidance",
+      "iso_date": "2027-02"
     }
   ],
   "key_risks": [
-    "Customer concentration: hyperscalers (Microsoft, Meta, Google, Amazon, Oracle) drive majority of data center revenue",
-    "Competition from AMD, custom ASICs (Broadcom, Marvell), and Cerebras wafer-scale chips",
-    "Valuation risk at ~$5T market cap and ~35x TTM P/E; law of large numbers makes sustained hypergrowth harder",
-    "Geopolitical export controls on advanced AI chips could expand beyond China",
-    "TSMC supply chain dependency; any disruption to Taiwan production would halt NVIDIA manufacturing",
-    "AI capex cycle maturation; if AI ROI disappoints, hyperscaler spending could slow abruptly"
+    "Customer concentration: hyperscalers (Microsoft, Meta, Google, Amazon, Oracle, AWS) drive >90% of data center revenue; any capex pause would be material",
+    "Gross margin compression: Q3 guided at 74% midpoint (−100 bps QoQ); Vera Rubin ramp and memory cost inflation could pressure margins further",
+    "Competition from AMD MI350X/MI400, custom ASICs (Broadcom, Marvell), Cerebras wafer-scale, and in-house hyperscaler chips (Google TPU, Amazon Trainium)",
+    "Geopolitical export controls: Q3 guide assumes zero China data center compute revenue; further restrictions could expand to other regions",
+    "$279B in multi-year supplier commitments create execution risk if demand softens or architecture transitions accelerate",
+    "Valuation risk at ~$5.2T market cap; law of large numbers makes sustaining 100%+ growth increasingly difficult",
+    "TSMC supply chain dependency: CoWoS advanced packaging remains a critical bottleneck; Taiwan disruption would halt production",
+    "Hugging Face acquisition: regulatory risk from FTC/EU antitrust review; integration risk in managing open-source community",
+    "AI capex cycle maturation: if enterprise AI ROI disappoints, hyperscaler and sovereign AI spending could decelerate"
   ],
-  "price_date": "2026-08-07"
+  "price_date": "2026-08-29"
 }

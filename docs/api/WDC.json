@@ -1,0 +1,71 @@
+{
+  "ticker": "WDC",
+  "company": "Western Digital Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Memory & Storage",
+  "industry": "Data Storage / Hard Disk Drives",
+  "exchange": "NASDAQ",
+  "price": 469.03,
+  "price_date": "2026-08-29",
+  "market_cap": "~$160B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Western Digital (now WD) is a leading HDD manufacturer and a prime beneficiary of the AI data center storage buildout following its February 2026 separation from SanDisk (NAND flash). FY2026 revenue rose 36% to $12.9B with gross margin expanding to 49.1% and EPS more than doubling to $10.22. Q4 FY2026 delivered $3.75B revenue (+44% YoY) with non-GAAP gross margin of 54.4% and free cash flow of $1.3B. The company is the pure-play HDD leader as AI data lakes and cloud nearline storage demand surge. At ~31x P/E the stock is fairly valued for a cyclical that is now in a structural up-cycle, but capacity-driven pricing power and AI demand visibility support a BUY rating.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$12.9B",
+    "revenue_growth": "+36% YoY",
+    "gross_margin": "49.1% (GAAP); 54.4% Q4 (non-GAAP)",
+    "net_income": "~$3.5B (est.)",
+    "eps_diluted": "$10.22 (non-GAAP)",
+    "cash": "~$2.5B (est.)",
+    "fcf": "$3.5B (FY2026)"
+  },
+  "bull_case": {
+    "target": "$650–750",
+    "drivers": [
+      "AI data lake and cloud nearline HDD demand drives multi-year volume and pricing upcycle",
+      "Capacity HDD technology leadership (HAMR/ePMR) sustains premium margins",
+      "Post-SanDisk separation refocuses capital allocation and simplifies the equity story",
+      "FY2027 revenue and margin expansion as AI infrastructure buildout accelerates"
+    ]
+  },
+  "base_case": {
+    "target": "$450–530",
+    "assumptions": "FY2027 revenue grows 15–20% as nearline HDD demand stays strong, gross margins hold near 50%, and EPS reaches $12–14. Market applies a 35–40x multiple on moderate cyclical growth, keeping the stock near current levels."
+  },
+  "bear_case": {
+    "target": "$250–320",
+    "risks": [
+      "HDD demand cyclicality reasserts as cloud capex normalizes or NAND flash pricing improves",
+      "Seagate gains share in nearline HDDs or HAMR technology narrows WDC's lead",
+      "AI storage demand shifts more toward SSD/flash at the expense of HDD",
+      "Macro-driven enterprise IT spending slowdown compresses multiples"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q4 FY2026 earnings reported — revenue $3.75B (+44% YoY), non-GAAP EPS $3.56, gross margin 54.4%"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Q1 FY2027 earnings — demand visibility and pricing trends for nearline HDDs"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Next-gen HAMR and ePMR capacity HDD ramps for hyperscaler data centers"
+    }
+  ],
+  "key_risks": [
+    "HDD is inherently cyclical; a demand downturn could compress margins sharply",
+    "Post-separation, WDC is a single-segment company with limited product diversification",
+    "Competition from Seagate in nearline HDDs and from SSDs in enterprise storage",
+    "Macro or cloud capex deceleration could slow AI data lake spending",
+    "Stock has rallied significantly from 52-week lows (~$73), limiting near-term upside potential"
+  ]
+}

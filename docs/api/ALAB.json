@@ -1,0 +1,71 @@
+{
+  "ticker": "ALAB",
+  "company": "Astera Labs, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "industry": "Semiconductor Connectivity / Data Center Interconnects",
+  "exchange": "NASDAQ",
+  "price": 277.53,
+  "price_date": "2026-08-29",
+  "market_cap": "~$48B",
+  "rating": "HOLD",
+  "last_updated": "2026-08-30",
+  "thesis": "Astera Labs is a fabless semiconductor company developing connectivity solutions for AI data centers, including PCIe/CXL retimers, smart cable modules, and Fabric switches that address signal integrity and bandwidth bottlenecks in GPU/accelerator clusters. Q2 2026 revenue surged 104% YoY to $392.4M with $0.80 EPS (beat by 16%), and Q3 guidance of $1.16–$1.21 EPS implies continued hypergrowth. However, at ~184x trailing P/E and ~$48B market cap on ~$1.2B TTM revenue, the stock prices in near-perfect execution. Beta of 3.84 and heavy hyperscaler concentration create significant downside risk. HOLD — wait for a pullback toward $200–220 for better risk/reward.",
+  "financials": {
+    "fiscal_year": "FY2026 (calendar, latest Q2 2026)",
+    "revenue": "~$1.2B (TTM)",
+    "revenue_growth": "+98% YoY (TTM); +104% Q2 2026 YoY",
+    "gross_margin": "~75% (non-GAAP est.)",
+    "net_income": "~$260M (TTM est.)",
+    "eps_diluted": "~$2.02 (TTM)",
+    "cash": "~$1.5B (est.)",
+    "fcf": "strong positive"
+  },
+  "bull_case": {
+    "target": "$390–450",
+    "drivers": [
+      "PCIe 6.0 and CXL 3.0 product cycles drive hyperscaler adoption beyond current design wins",
+      "Fabric switch and smart cable module ramps diversify revenue beyond retimers",
+      "AI cluster scaling requires more connectivity silicon per GPU, expanding Astera's SAM",
+      "Customer diversification beyond top hyperscalers into enterprise and sovereign AI builds"
+    ]
+  },
+  "base_case": {
+    "target": "$260–300",
+    "assumptions": "Revenue grows ~60–80% YoY in FY2026 to ~$1.5B, gross margins hold above 70%, and the market applies a 50–60x forward earnings multiple on ~$4.50–$5.00 EPS. Stock trades sideways near current levels as hypergrowth is already priced in."
+  },
+  "bear_case": {
+    "target": "$120–160",
+    "risks": [
+      "Hyperscaler AI capex pause or digestion compresses the premium multiple",
+      "Broadcom, Marvell, or in-house hyperscaler designs displace Astera's retimer/switch sockets",
+      "PCIe/CXL product cycle delays or standards fragmentation slow adoption",
+      "A broad AI/semiconductor de-rating event hits high-beta names hardest"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 earnings reported — revenue $392.4M (+104% YoY), EPS $0.80, Q3 guidance $1.16–$1.21 EPS"
+    },
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 earnings — PCIe 6.0 and CXL design win updates"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Fabric switch and smart cable module ramps at hyperscaler customers"
+    }
+  ],
+  "key_risks": [
+    "Extreme valuation: ~184x trailing P/E on a ~$1.2B TTM revenue base leaves no room for execution misses",
+    "High beta (3.84) amplifies drawdowns in any AI/semiconductor sector rotation",
+    "Customer concentration: top hyperscalers likely represent the majority of revenue",
+    "Competition from Broadcom, Marvell, and in-house ASIC teams at hyperscalers",
+    "Nascent CXL market adoption could disappoint if memory pooling use cases take longer to materialize"
+  ]
+}

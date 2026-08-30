@@ -1,0 +1,78 @@
+{
+  "ticker": "TLN",
+  "company": "Talen Energy Corporation",
+  "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
+  "industry": "Independent Power Producer / Nuclear & Fossil Generation",
+  "exchange": "NASDAQ",
+  "price": 306.29,
+  "price_date": "2026-08-29",
+  "market_cap": "~$15B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Talen Energy is an independent power producer with ~13 GW of generation capacity, anchored by the 2.5 GW Susquehanna nuclear plant — the largest single nuclear facility in the PJM interconnection. The company emerged from Chapter 11 in 2023 with a clean balance sheet and is now a prime beneficiary of the AI data center power demand surge, having signed a landmark co-location deal with Amazon/AWS at Susquehanna. Q2 2026 adjusted EBITDA was $374M, and the company raised FY2026 guidance to $2.03–2.23B adjusted EBITDA and $1.20–1.35B adjusted FCF after completing the Cornerstone Acquisition (Waterford, Darby, Lawrenceburg gas plants). PJM capacity auction prices surging from $29/MW-day to $330/MW-day provide a powerful structural tailwind. The stock is down ~23% YTD from its highs, creating an attractive entry. Key risks are regulatory challenges to nuclear co-location, GAAP losses from Cornerstone integration, and generation concentration in PJM.",
+  "financials": {
+    "fiscal_year": "FY2026 (guidance)",
+    "revenue": "~$2.8B (est. based on H1 run-rate)",
+    "revenue_growth": "+18% YoY (est.)",
+    "gross_margin": "N/A (utility accounting)",
+    "net_income": "-$2.00/share Q2 GAAP (integration charges); adj. EBITDA $374M Q2",
+    "eps_diluted": "negative GAAP (due to Cornerstone charges)",
+    "cash": "~$1.9B liquidity",
+    "fcf": "$1.20–1.35B adj. FCF (FY2026 guidance)"
+  },
+  "bull_case": {
+    "target": "$450–550",
+    "drivers": [
+      "AI data center power demand drives premium pricing for nuclear baseload at Susquehanna",
+      "PJM capacity auction prices at $330/MW-day create a multi-year earnings tailwind",
+      "Cornerstone Acquisition gas plants provide incremental EBITDA and geographic diversification",
+      "Additional co-location or behind-the-meter data center deals at nuclear/gas sites",
+      "Potential nuclear premium re-rating as clean energy scarcity drives utility multiples higher"
+    ]
+  },
+  "base_case": {
+    "target": "$320–400",
+    "assumptions": "FY2026 adjusted EBITDA near the midpoint of the $2.03–2.23B guidance range, with FY2027 growth from Cornerstone and capacity revenue escalation. Market applies an 8–10x EV/EBITDA multiple, reflecting IPP status with nuclear premium. Stock recovers modestly from recent pullback."
+  },
+  "bear_case": {
+    "target": "$180–240",
+    "risks": [
+      "FERC or PJM regulatory actions restrict nuclear co-location or behind-the-meter data center arrangements",
+      "PJM capacity auction pricing normalizes lower than the current $330/MW-day peak",
+      "Susquehanna nuclear outage or operational disruption materially impacts earnings",
+      "Natural gas price decline compresses margins at Cornerstone gas plants",
+      "Macro or power market downturn reduces demand and pricing for merchant generation"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 results — adjusted EBITDA $374M, FY2026 guidance raised to $2.03–2.23B EBITDA"
+    },
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 earnings — first full quarter of Cornerstone contribution, capacity revenue ramp"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Additional AI data center co-location announcements at nuclear/gas sites"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "PJM capacity auction results and FERC regulatory developments on nuclear co-location"
+    }
+  ],
+  "key_risks": [
+    "Regulatory risk: FERC and PJM rules on co-location could limit or restrict Susquehanna data center deal economics",
+    "GAAP losses from Cornerstone integration obscure underlying profitability; adjustment-heavy reporting",
+    "Concentration: Susquehanna nuclear plant represents a large share of total EBITDA",
+    "Post-bankruptcy governance and capital allocation track record is limited",
+    "Power market cyclicality and natural gas price volatility impact gas fleet margins"
+  ]
+}

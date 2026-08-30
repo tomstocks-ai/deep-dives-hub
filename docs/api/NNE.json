@@ -1,0 +1,72 @@
+{
+  "ticker": "NNE",
+  "company": "NANO Nuclear Energy Inc.",
+  "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
+  "industry": "Advanced Nuclear Microreactors",
+  "exchange": "NASDAQ",
+  "price": 18.27,
+  "price_date": "2026-08-29",
+  "market_cap": "~$900M",
+  "rating": "SPECULATIVE",
+  "last_updated": "2026-08-30",
+  "thesis": "NANO Nuclear Energy is developing two portable microreactor designs — ZEUS (a solid-core battery reactor) and ODIN (a low-pressure coolant reactor) — targeting remote power, military, and off-grid applications. The company is pre-revenue at scale, reporting just $0.21M in Q3 FY2026 revenue with a $10.1M net loss. At ~$900M market cap the stock is a speculative bet on the emerging microreactor market. The company has an NRC pre-application engagement and a HALEU fuel transportation subsidiary (HALEU Energy Fuel Inc.), providing vertical integration optionality. With a 52-week range of $14.71–$60.87 and analyst targets averaging ~$41, the asymmetry is appealing but the binary risk is extreme — years from commercial revenue and facing well-funded competitors.",
+  "financials": {
+    "fiscal_year": "FY2026 (fiscal year ending March)",
+    "revenue": "$0.21M (Q3 FY2026)",
+    "revenue_growth": "N/M (pre-revenue)",
+    "gross_margin": "N/A",
+    "net_income": "-$10.1M (Q3 FY2026)",
+    "eps_diluted": "-$0.19 (Q3 FY2026)",
+    "cash": "~$150M (est.)",
+    "fcf": "negative"
+  },
+  "bull_case": {
+    "target": "$40–55",
+    "drivers": [
+      "ZEUS or ODIN microreactor achieves NRC licensing milestones, de-risking the development timeline",
+      "Military and Department of Defense contracts for portable nuclear power accelerate revenue",
+      "HALEU fuel transportation subsidiary captures value from the fuel supply chain",
+      "Strategic partnership or acquisition by a larger nuclear/defense company provides validation"
+    ]
+  },
+  "base_case": {
+    "target": "$18–25",
+    "assumptions": "NRC engagement progresses steadily but commercial deployment remains beyond 2030. Cash runway extends 3–4 years. Stock trades near current levels as investors weigh long-term potential against near-term cash burn."
+  },
+  "bear_case": {
+    "target": "$5–10",
+    "risks": [
+      "NRC licensing process encounters significant delays or technical setbacks",
+      "Cash burn accelerates and forces dilutive capital raises",
+      "Competing microreactor designs from better-funded players (BWXT, X-energy) capture the market",
+      "Nuclear sentiment reversal or policy changes reduce funding support"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 FY2026 (reported August 2026)",
+      "iso_date": "2026-08",
+      "event": "Q3 FY2026 results — net loss $10.1M, EPS -$0.19, business development update"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "NRC pre-application milestones for ZEUS and ODIN microreactor designs"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "DOD and remote power customer engagement and potential prototype contracts"
+    }
+  ],
+  "key_risks": [
+    "Pre-revenue with minimal revenue and significant cash burn — years from commercialization",
+    "NRC licensing for novel microreactor designs is lengthy, uncertain, and expensive",
+    "Small market cap (~$900M) and high volatility (52-week range $14.71–$60.87)",
+    "Competition from established nuclear companies with deeper resources",
+    "Technology risk: microreactor designs are unproven at commercial scale",
+    "Potential for significant dilution to fund development through commercialization"
+  ]
+}

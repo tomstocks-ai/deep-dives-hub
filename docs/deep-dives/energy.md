@@ -17,6 +17,8 @@
 | <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
 | <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
 | <tv-ticker-tag symbol="NASDAQ:PESI" hide-background></tv-ticker-tag> | Perma-Fix Environmental Services, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-17 | [:material-file-document: Read](PESI.md) |
+| <tv-ticker-tag symbol="NASDAQ:TLN" hide-background></tv-ticker-tag> | Talen Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-30 | [:material-file-document: Read](TLN.md) |
+| <tv-ticker-tag symbol="NASDAQ:NNE" hide-background></tv-ticker-tag> | NANO Nuclear Energy Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-08-30 | [:material-file-document: Read](NNE.md) |
 
 ---
 
@@ -49,6 +51,26 @@ NuScale develops the 77 MWe NuScale Power Module, the only small modular reactor
 **Bull:** \$20–25 · **Base:** \$12–15 · **Bear:** \$5–7
 
 [:material-arrow-right: Full Deep Dive](SMR.md)
+
+---
+
+**TLN — Talen Energy Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Talen Energy is an independent power producer with ~13 GW of generation capacity, anchored by the 2.5 GW Susquehanna nuclear plant — the largest single nuclear facility in PJM. The company emerged from Chapter 11 in 2023 and is now a prime beneficiary of AI data center power demand, having signed a landmark co-location deal with Amazon/AWS at Susquehanna. Q2 2026 adjusted EBITDA was \$374M, and FY2026 guidance was raised to \$2.03–2.23B adjusted EBITDA and \$1.20–1.35B adjusted FCF after the Cornerstone Acquisition. PJM capacity auction prices surging from \$29 to \$330/MW-day provide a structural tailwind. The stock is down ~23% YTD, creating an attractive entry for exposure to the nuclear + AI power thesis.
+
+**Bull:** \$450–550 · **Base:** \$320–400 · **Bear:** \$180–240
+
+[:material-arrow-right: Full Deep Dive](TLN.md)
+
+---
+
+**NNE — NANO Nuclear Energy Inc. · <span class="rating-spec">SPECULATIVE</span>**
+
+NANO Nuclear Energy is developing two portable microreactor designs — ZEUS (solid-core battery reactor) and ODIN (low-pressure coolant reactor) — targeting remote power, military, and off-grid applications. Pre-revenue at scale with just \$0.21M in Q3 FY2026 revenue and a \$10.1M net loss. The company has NRC pre-application engagement and a HALEU fuel transportation subsidiary providing vertical integration optionality. At ~\$900M market cap the stock is a binary bet on the emerging microreactor market — appealing asymmetry but years from commercial revenue and facing well-funded competitors.
+
+**Bull:** \$40–55 · **Base:** \$18–25 · **Bear:** \$5–10
+
+[:material-arrow-right: Full Deep Dive](NNE.md)
 
 ---
 
