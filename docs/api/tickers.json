@@ -2,7 +2,7 @@
   "$schema": "/api/schema.json",
   "api_version": "1",
   "last_updated": "2026-08-30",
-  "count": 135,
+  "count": 144,
   "tickers": [
     {
       "ticker": "000660",
@@ -125,6 +125,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "ALAB",
+      "company": "Astera Labs, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductor Connectivity / Data Center Interconnects",
+      "rating": "HOLD",
+      "price": 277.53,
+      "market_cap": "~$48B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/ALAB/",
+      "api_url": "/api/ALAB.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-08-29"
+    },
+    {
       "ticker": "AMAT",
       "company": "Applied Materials, Inc.",
       "sector": "Technology",
@@ -168,6 +183,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "APO",
+      "company": "Apollo Global Management, Inc.",
+      "sector": "Financials",
+      "industry": "Alternative Asset Management / Private Equity & Credit",
+      "rating": "BUY",
+      "price": 135.39,
+      "market_cap": "~$80B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/APO/",
+      "api_url": "/api/APO.json",
+      "theme": "Fintech",
+      "sub_theme": "Alternative Asset Management",
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "ARM",
@@ -423,6 +453,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "CLS",
+      "company": "Celestica Inc.",
+      "sector": "Technology",
+      "industry": "Electronic Manufacturing Services / Data Center Infrastructure",
+      "rating": "BUY",
+      "price": 407.67,
+      "market_cap": "~$51B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/CLS/",
+      "api_url": "/api/CLS.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Data Center Infrastructure",
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "COHR",
@@ -965,6 +1010,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "sector": "Technology",
+      "industry": "Process Control & Yield Management / Inspection & Metrology",
+      "rating": "BUY",
+      "price": 192.8,
+      "market_cap": "~$252B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/KLAC/",
+      "api_url": "/api/KLAC.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-08-29"
+    },
+    {
       "ticker": "LEU",
       "company": "Centrus Energy Corp.",
       "sector": "Energy",
@@ -1008,6 +1068,21 @@
       "theme": "Defense",
       "sub_theme": "Prime Contractors",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research Corporation",
+      "sector": "Technology",
+      "industry": "Wafer Fabrication Equipment / Etch & Deposition",
+      "rating": "BUY",
+      "price": 500.0,
+      "market_cap": "~$65B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/LRCX/",
+      "api_url": "/api/LRCX.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "LUNR",
@@ -1190,6 +1265,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "NNE",
+      "company": "NANO Nuclear Energy Inc.",
+      "sector": "Energy",
+      "industry": "Advanced Nuclear Microreactors",
+      "rating": "SPECULATIVE",
+      "price": 18.27,
+      "market_cap": "~$900M",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/NNE/",
+      "api_url": "/api/NNE.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-08-29"
+    },
+    {
       "ticker": "NOC",
       "company": "Northrop Grumman Corporation",
       "sector": "Defense",
@@ -1255,14 +1345,14 @@
       "sector": "Technology",
       "industry": "Semiconductors / AI Compute",
       "rating": "BUY",
-      "price": 223.96,
-      "market_cap": "~$5.0T",
-      "last_updated": "2026-06-23",
+      "price": 217.55,
+      "market_cap": "~$5.2T",
+      "last_updated": "2026-08-30",
       "deep_dive_url": "/deep-dives/NVDA/",
       "api_url": "/api/NVDA.json",
       "theme": "AI Buildout",
       "sub_theme": "AI Compute",
-      "price_date": "2026-08-07"
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "OKLO",
@@ -1700,6 +1790,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "sector": "Technology",
+      "industry": "NAND Flash Memory & Storage Solutions",
+      "rating": "HOLD",
+      "price": 1484.98,
+      "market_cap": "~$219B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/SNDK/",
+      "api_url": "/api/SNDK.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Memory & Storage",
+      "price_date": "2026-08-29"
+    },
+    {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
       "sector": "Technology",
@@ -1833,6 +1938,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Robotics & Automation",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "TLN",
+      "company": "Talen Energy Corporation",
+      "sector": "Energy",
+      "industry": "Independent Power Producer / Nuclear & Fossil Generation",
+      "rating": "SPEC. BUY",
+      "price": 306.29,
+      "market_cap": "~$15B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/TLN/",
+      "api_url": "/api/TLN.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "TSM",
@@ -1998,6 +2118,21 @@
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Payments / Digital Banking",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital Corporation",
+      "sector": "Technology",
+      "industry": "Data Storage / Hard Disk Drives",
+      "rating": "BUY",
+      "price": 469.03,
+      "market_cap": "~$160B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/WDC/",
+      "api_url": "/api/WDC.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Memory & Storage",
+      "price_date": "2026-08-29"
     },
     {
       "ticker": "WOLF",

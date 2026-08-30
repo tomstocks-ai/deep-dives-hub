@@ -1,0 +1,71 @@
+{
+  "ticker": "APO",
+  "company": "Apollo Global Management, Inc.",
+  "sector": "Financials",
+  "theme": "Fintech",
+  "sub_theme": "Alternative Asset Management",
+  "industry": "Alternative Asset Management / Private Equity & Credit",
+  "exchange": "NYSE",
+  "price": 135.39,
+  "price_date": "2026-08-29",
+  "market_cap": "~$80B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Apollo Global Management is a leading global alternative asset manager with $858B in fee-earning assets under management (up 34% YoY), anchored by its dominant credit franchise and the strategic Athene retirement services platform. Q2 2026 fee-related earnings grew 25% YoY to $785M, with adjusted net income of $1.3B (+11.5%). FY2025 revenue was $31.8B (+23%). Apollo's structural advantage is the convergence of private credit with insurance/retirement capital through Athene — a sticky, permanent capital base that generates predictable management fees. At ~$135 the stock is down from its 52-week highs and trades at a modest premium to traditional asset managers despite superior growth and capital-light fee economics. The $153 average analyst target implies ~13% near-term upside.",
+  "financials": {
+    "fiscal_year": "FY2025 (calendar; latest Q2 2026)",
+    "revenue": "$31.8B (FY2025)",
+    "revenue_growth": "+23% YoY (FY2025)",
+    "gross_margin": "N/A (asset management)",
+    "net_income": "~$5.2B (est. TTM adjusted)",
+    "eps_diluted": "$2.11 (Q2 2026 adjusted)",
+    "cash": "~$8B (est.)",
+    "fcf": "strong positive (fee-based)"
+  },
+  "bull_case": {
+    "target": "$180–210",
+    "drivers": [
+      "Private credit origination market grows as banks retreat, expanding Apollo's addressable opportunity",
+      "Athene AUM growth and retirement services platform provide sticky, permanent capital with predictable fees",
+      "Fee-earning AUM trajectory toward $1T+ drives fee-related earnings expansion",
+      "Capital solutions and infrastructure credit (data centers, energy transition) open new high-margin verticals"
+    ]
+  },
+  "base_case": {
+    "target": "$140–160",
+    "assumptions": "Fee-earning AUM grows 15–20% annually, fee-related earnings expand at a similar rate, and the market applies a 15–18x FRE multiple. Stock appreciates modestly from current levels as the alternative asset management sector re-rates."
+  },
+  "bear_case": {
+    "target": "$85–105",
+    "risks": [
+      "Credit cycle deterioration causes losses in private credit portfolios and Athene's balance sheet",
+      "Regulatory scrutiny of private equity/credit expands, restricting fundraising or fee structures",
+      "Rising interest rates compress fixed-income valuations, impacting Athene's insurance book",
+      "Competition from Blackstone, KKR, and others for private credit deals compresses returns"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q2 2026 results — FRE $785M (+25% YoY), fee-earning AUM $858B (+34% YoY)"
+    },
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 earnings — fundraising and deployment trends"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Infrastructure credit and capital solutions growth; potential fee-earning AUM milestones toward $1T"
+    }
+  ],
+  "key_risks": [
+    "Credit cycle risk: private credit portfolio losses could impact fee income and Athene's balance sheet",
+    "Regulatory risk: increased scrutiny of alternative asset managers and private credit markets",
+    "Key-person risk: Apollo's strategy is closely tied to CEO Marc Rowan's vision",
+    "Competition from Blackstone, KKR, Carlyle, and Ares for institutional capital and deal flow",
+    "Complex corporate structure with Athene consolidation makes GAAP financials difficult to parse"
+  ]
+}

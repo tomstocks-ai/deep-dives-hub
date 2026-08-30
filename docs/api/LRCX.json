@@ -1,0 +1,71 @@
+{
+  "ticker": "LRCX",
+  "company": "Lam Research Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Wafer Fabrication Equipment / Etch & Deposition",
+  "exchange": "NASDAQ",
+  "price": 500.00,
+  "price_date": "2026-08-29",
+  "market_cap": "~$65B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Lam Research is the #2 global wafer fabrication equipment maker (after Applied Materials) and the dominant supplier of etch and deposition tools — the two most critical process steps for 3D NAND, advanced DRAM/HBM, and gate-all-around (GAA) logic. FY2026 revenue grew 26% to $23.2B with Q4 reaching $6.72B (+30% YoY) and non-GAAP EPS of $1.82 (+37% YoY). The AI buildout structurally favors Lam: every additional 3D NAND layer, every HBM stack, and the GAA transistor transition require more etch and deposition steps. The board approved a 27% dividend increase. At ~48x trailing P/E, the stock is moderately valued for a WFE leader in a cyclical upcycle. Key risks are WFE cyclicality, China export controls (~30% of revenue historically), and customer concentration.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended June 2026)",
+    "revenue": "$23.2B",
+    "revenue_growth": "+26% YoY",
+    "gross_margin": "~48% (non-GAAP est.)",
+    "net_income": "~$6.0B (est.)",
+    "eps_diluted": "$1.82 (Q4 non-GAAP); ~$6.20 FY (non-GAAP est.)",
+    "cash": "~$6.0B (est.)",
+    "fcf": "~$5.5B (est.)"
+  },
+  "bull_case": {
+    "target": "$700–800",
+    "drivers": [
+      "3D NAND layer count increases (300+ layers) require proportionally more etch/dep steps, expanding Lam's SAM",
+      "HBM and advanced DRAM packaging drive incremental WFE spending at TSMC, Samsung, SK hynix",
+      "GAA transistor transition at leading-edge foundries increases etch complexity and Lam's content per wafer",
+      "FY2027 guidance reflects continued WFE upcycle with potential re-acceleration from AI capex"
+    ]
+  },
+  "base_case": {
+    "target": "$480–550",
+    "assumptions": "FY2027 revenue grows 10–15% as WFE spending normalizes from peak growth rates. Gross margins stabilize near 48–50%. EPS reaches ~$7.00–7.50. Market applies 65–75x trailing P/E, reflecting cyclical premium at mid-cycle."
+  },
+  "bear_case": {
+    "target": "$280–350",
+    "risks": [
+      "WFE cyclical downturn as memory and logic fabs complete current investment wave",
+      "Tightening China export controls further restrict ~30% of Lam's addressable market",
+      "TSMC or Samsung capex cuts in response to demand normalization",
+      "Broad semiconductor de-rating driven by AI investment ROI concerns"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "August 2026",
+      "iso_date": "2026-08",
+      "event": "Q4 FY2026 results — revenue $6.72B (+30%), non-GAAP EPS $1.82 (+37%), 27% dividend increase"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Q1 FY2027 earnings and initial FY2027 outlook"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "300+ layer 3D NAND and GAA logic transitions at leading fabs"
+    }
+  ],
+  "key_risks": [
+    "WFE spending is highly cyclical; current upcycle may peak in FY2026–2027",
+    "China export controls: ~30% of revenue historically exposed to China restrictions",
+    "Customer concentration: TSMC, Samsung, and SK hynix represent the bulk of orders",
+    "Competition from Applied Materials, Tokyo Electron, and KLA in adjacent process steps",
+    "Stock has run from 52-week lows; valuation leaves limited margin of safety at ~48x P/E"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "CLS",
+  "company": "Celestica Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Data Center Infrastructure",
+  "industry": "Electronic Manufacturing Services / Data Center Infrastructure",
+  "exchange": "NYSE",
+  "price": 407.67,
+  "price_date": "2026-08-29",
+  "market_cap": "~$51B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Celestica is a technology manufacturing leader whose Connectivity & Cloud Solutions segment is rapidly becoming a pure-play AI data center infrastructure company. Q2 2026 revenue surged 62% YoY to $4.70B with GAAP EPS of $3.17 and adjusted EPS of $2.54, both exceeding guidance. FY2025 revenue was $12.39B (+28.5%) with FY2026 TTM run-rate now at ~$15.6B. The company's deep engineering expertise in 400G/800G networking switches, AI server rack integration, and high-power compute platforms has made it a critical partner for hyperscalers. At ~41x P/E the stock is richly valued, but revenue momentum and margin expansion justify a BUY. The one-year target of ~$678 from analysts implies significant upside.",
+  "financials": {
+    "fiscal_year": "FY2026 (calendar, latest Q2 2026)",
+    "revenue": "~$15.6B (TTM)",
+    "revenue_growth": "+47% YoY (TTM); +62% Q2 2026 YoY",
+    "gross_margin": "~13% (GAAP)",
+    "net_income": "~$1.2B (TTM est.)",
+    "eps_diluted": "$3.17 GAAP / $2.54 adj. (Q2 2026)",
+    "cash": "~$500M (est.)",
+    "fcf": "strong positive"
+  },
+  "bull_case": {
+    "target": "$550–650",
+    "drivers": [
+      "AI server and networking switch demand accelerates as hyperscaler capex continues to grow",
+      "Margin expansion from higher-value AI compute and networking content mix",
+      "800G/1.6T networking switch manufacturing ramps expand Celestica's wallet share",
+      "Enterprise AI adoption creates a second demand wave beyond hyperscalers"
+    ]
+  },
+  "base_case": {
+    "target": "$380–450",
+    "assumptions": "FY2026 revenue reaches ~$18–19B with adjusted operating margin near 8%, and adjusted EPS of ~$10–11. Market applies a 40–45x multiple, reflecting strong but decelerating growth. Stock trades near current levels."
+  },
+  "bear_case": {
+    "target": "$200–260",
+    "risks": [
+      "Hyperscaler AI capex pause compresses order visibility and revenue growth",
+      "Customer concentration risk — loss of a major hyperscaler customer would be material",
+      "EMS/ODM industry margin compression from competition with Foxconn and Quanta",
+      "Macro slowdown or tariff disruptions impact global supply chain operations"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "July 2026",
+      "iso_date": "2026-07",
+      "event": "Q2 2026 earnings — revenue $4.70B (+62% YoY), adjusted EPS $2.54, guidance beat"
+    },
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings — AI compute and networking mix trends"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "800G/1.6T networking switch and next-gen AI server platform ramps"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: hyperscaler customers represent a dominant share of Connectivity & Cloud revenue",
+    "EMS/ODM margins are structurally thin; margin expansion depends on mix shift to higher-value AI content",
+    "Cyclical exposure to hyperscaler capex cycles — any spending pause would hit revenue hard",
+    "Competition from larger ODMs (Foxconn, Quanta, Wistron) could limit pricing power",
+    "Stock has rallied ~60% over the last year, limiting near-term risk/reward from current levels"
+  ]
+}

@@ -45,6 +45,8 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 | <tv-ticker-tag symbol="NASDAQ:TER" hide-background></tv-ticker-tag> | Teradyne, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](TER.md) |
 | <tv-ticker-tag symbol="NASDAQ:ASML" hide-background></tv-ticker-tag> | ASML Holding N.V. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](ASML.md) |
 | <tv-ticker-tag symbol="NASDAQ:AMAT" hide-background></tv-ticker-tag> | Applied Materials, Inc. | <span class="rating-buy">BUY</span> | 2026-08-04 | [:material-file-document: Read](AMAT.md) |
+| <tv-ticker-tag symbol="NASDAQ:LRCX" hide-background></tv-ticker-tag> | Lam Research Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](LRCX.md) |
+| <tv-ticker-tag symbol="NASDAQ:KLAC" hide-background></tv-ticker-tag> | KLA Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](KLAC.md) |
 
 ---
 
@@ -85,6 +87,26 @@ Applied Materials is the largest and most diversified maker of wafer-fabrication
 **Bull:** \$700–\$780 · **Base:** \$600–\$680 · **Bear:** \$360–\$430
 
 [:material-arrow-right: Full Deep Dive](AMAT.md)
+
+---
+
+**LRCX — Lam Research Corporation · <span class="rating-buy">BUY</span>**
+
+Lam Research is the #2 global wafer fabrication equipment maker and the dominant supplier of etch and deposition tools — the two most critical and frequently used process steps for 3D NAND, advanced DRAM/HBM, and gate-all-around logic. FY2026 revenue grew 26% to \$23.2B with Q4 reaching \$6.72B (+30% YoY) and non-GAAP EPS of \$1.82 (+37% YoY). Every additional 3D NAND layer, HBM stack, and GAA transistor requires more etch and deposition steps, structurally expanding Lam's SAM. The board approved a 27% dividend increase. At ~48x trailing P/E the stock is moderately valued for a WFE leader in a cyclical upcycle. Key risks are WFE cyclicality, China export controls (~30% of revenue historically), and customer concentration.
+
+**Bull:** \$700–800 · **Base:** \$480–550 · **Bear:** \$280–350
+
+[:material-arrow-right: Full Deep Dive](LRCX.md)
+
+---
+
+**KLAC — KLA Corporation · <span class="rating-buy">BUY</span>**
+
+KLA is the dominant global supplier of semiconductor process control and yield management equipment — inspection, metrology, and data analytics tools essential for manufacturing defect-free chips at every node. FY2026 revenue grew 12% to \$13.6B with Q4 revenue of \$3.66B (+15.2% YoY) and net income of \$4.83B (+19%). Advanced packaging process control revenues are expected to reach ~\$1.1B in calendar 2026 as AI accelerator and HBM packaging complexity drives rising inspection intensity. At ~48x trailing P/E and ~\$252B market cap, the stock is moderately valued for a high-quality WFE company with 63% gross margins and \$4.9B cash. BUY — process control is the least cyclical WFE segment and KLA is the near-monopoly leader.
+
+**Bull:** \$260–310 · **Base:** \$190–230 · **Bear:** \$110–140
+
+[:material-arrow-right: Full Deep Dive](KLAC.md)
 
 ---
 
@@ -129,6 +151,7 @@ Coherent is a scaled, vertically integrated photonics leader and a primary benef
 | <tv-ticker-tag symbol="NYSE:NOK" hide-background></tv-ticker-tag> | Nokia Corporation | <span class="rating-hold">HOLD</span> | 2026-06-21 | [:material-file-document: Read](NOK.md) |
 | <tv-ticker-tag symbol="NYSE:GLW" hide-background></tv-ticker-tag> | Corning Incorporated | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](GLW.md) |
 | <tv-ticker-tag symbol="NYSE:ANET" hide-background></tv-ticker-tag> | Arista Networks, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-09 | [:material-file-document: Read](ANET.md) |
+| <tv-ticker-tag symbol="NASDAQ:ALAB" hide-background></tv-ticker-tag> | Astera Labs, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-30 | [:material-file-document: Read](ALAB.md) |
 
 
 **GLW — Corning Incorporated · <span class="rating-buy">BUY</span>**
@@ -221,6 +244,16 @@ Arista is the leading merchant-silicon data-center Ethernet switching vendor and
 
 ---
 
+**ALAB — Astera Labs, Inc. · <span class="rating-hold">HOLD</span>**
+
+Astera Labs is a fabless semiconductor company developing connectivity solutions for AI data centers — PCIe/CXL retimers, smart cable modules, and Fabric switches that address signal integrity and bandwidth bottlenecks in GPU/accelerator clusters. Q2 2026 revenue surged 104% YoY to \$392.4M with \$0.80 EPS (beat by 16%), and Q3 guidance of \$1.16–\$1.21 EPS implies continued hypergrowth. However, at ~184x trailing P/E and ~\$48B market cap on ~\$1.2B TTM revenue, the stock prices in near-perfect execution. Beta of 3.84 and heavy hyperscaler concentration create significant downside risk. HOLD — wait for a pullback toward \$200–220 for better risk/reward.
+
+**Bull:** \$390–450 · **Base:** \$260–300 · **Bear:** \$120–160
+
+[:material-arrow-right: Full Deep Dive](ALAB.md)
+
+---
+
 ## AI Compute
 
 || Ticker | Company | Rating | Last Updated | Full DD |
@@ -228,7 +261,7 @@ Arista is the leading merchant-silicon data-center Ethernet switching vendor and
 | <tv-ticker-tag symbol="NASDAQ:AMD" hide-background></tv-ticker-tag> | Advanced Micro Devices, Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](AMD.md) |
 | <tv-ticker-tag symbol="NASDAQ:CBRS" hide-background></tv-ticker-tag> | Cerebras Systems Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-21 | [:material-file-document: Read](CBRS.md) |
 | <tv-ticker-tag symbol="NASDAQ:INTC" hide-background></tv-ticker-tag> | Intel Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](INTC.md) |
-| <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-06-23 | [:material-file-document: Read](NVDA.md) |
+| <tv-ticker-tag symbol="NASDAQ:NVDA" hide-background></tv-ticker-tag> | NVIDIA Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](NVDA.md) |
 | <tv-ticker-tag symbol="NASDAQ:QCOM" hide-background></tv-ticker-tag> | Qualcomm Incorporated | <span class="rating-hold">HOLD</span> | 2026-07-01 | [:material-file-document: Read](QCOM.md) |
 | <tv-ticker-tag symbol="NYSE:TSM" hide-background></tv-ticker-tag> | Taiwan Semiconductor Manufacturing Company Limited | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](TSM.md) |
 | <tv-ticker-tag symbol="NASDAQ:ARM" hide-background></tv-ticker-tag> | Arm Holdings plc | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](ARM.md) |
@@ -259,7 +292,7 @@ AI infrastructure company designing and manufacturing wafer-scale AI compute chi
 
 The dominant designer of GPUs and AI accelerators, and the foundational enabler of the generative AI revolution. FY2025 revenue of \$130.5B (+114% YoY) and Q1 FY2027 revenue of \$81.6B (+85% YoY) demonstrate sustained hypergrowth. The CUDA software ecosystem creates deep developer lock-in, while the Blackwell architecture ramp and agentic AI positioning extend the moat. At ~\$5T market cap and ~35x TTM P/E, valuation is elevated but justified by 75% gross margins, \$60B+ annual free cash flow, and a structurally expanding AI TAM.
 
-**Bull:** \$280–300 · **Base:** \$240–260 · **Bear:** \$180–200
+**Bull:** \$300–340 · **Base:** \$260–290 · **Bear:** \$160–185
 
 [:material-arrow-right: Full Deep Dive](NVDA.md)
 
@@ -310,6 +343,8 @@ Arm designs the CPU architecture and IP behind ~99% of smartphones and a fast-gr
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="KRX:000660" hide-background></tv-ticker-tag> | SK hynix Inc. | <span class="rating-buy">BUY</span> | 2026-06-19 | [:material-file-document: Read](000660.md) |
 | <tv-ticker-tag symbol="NASDAQ:MU" hide-background></tv-ticker-tag> | Micron Technology, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-19 | [:material-file-document: Read](MU.md) |
+| <tv-ticker-tag symbol="NASDAQ:WDC" hide-background></tv-ticker-tag> | Western Digital Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](WDC.md) |
+| <tv-ticker-tag symbol="NASDAQ:SNDK" hide-background></tv-ticker-tag> | SanDisk Corporation | <span class="rating-hold">HOLD</span> | 2026-08-30 | [:material-file-document: Read](SNDK.md) |
 
 ---
 
@@ -330,6 +365,26 @@ One of the "Big Three" global memory manufacturers and the only U.S.-based memor
 **Bull:** \$1,400–1,600 · **Base:** \$1,100–1,300 · **Bear:** \$600–800
 
 [:material-arrow-right: Full Deep Dive](MU.md)
+
+---
+
+**WDC — Western Digital Corporation · <span class="rating-buy">BUY</span>**
+
+Western Digital (now WD) is the world's largest HDD manufacturer and a prime beneficiary of the AI data center storage buildout following its February 2026 separation from SanDisk. FY2026 revenue rose 36% to \$12.9B with gross margin expanding to 49.1% and EPS more than doubling to \$10.22. Q4 FY2026 delivered \$3.75B revenue (+44% YoY) with non-GAAP gross margin of 54.4% and free cash flow of \$1.3B. The pure-play HDD leader as AI data lakes and cloud nearline storage demand surge. At ~31x P/E, fairly valued for a cyclical in a structural up-cycle, with capacity-driven pricing power supporting a BUY.
+
+**Bull:** \$650–750 · **Base:** \$450–530 · **Bear:** \$250–320
+
+[:material-arrow-right: Full Deep Dive](WDC.md)
+
+---
+
+**SNDK — SanDisk Corporation · <span class="rating-hold">HOLD</span>**
+
+SanDisk, spun off from Western Digital in February 2026, is a pure-play NAND flash memory leader serving enterprise SSD, client, and consumer storage markets. Q4 FY2026 delivered record revenue of \$8.97B with non-GAAP EPS of \$39.25 (beat by 13%), driven by AI-fueled enterprise SSD demand and NAND pricing recovery. TTM revenue stands at ~\$20.3B. However, the stock has been extremely volatile since spinoff — trading from ~\$38 post-separation to a \$2,354 high before pulling back to ~\$1,485. The deeply cyclical NAND market and potential oversupply risk keep this a HOLD — accumulate on pullbacks toward \$1,100–1,200.
+
+**Bull:** \$2,000–2,400 · **Base:** \$1,400–1,600 · **Bear:** \$700–900
+
+[:material-arrow-right: Full Deep Dive](SNDK.md)
 
 ---
 
@@ -389,6 +444,7 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 | <tv-ticker-tag symbol="NASDAQ:SMCI" hide-background></tv-ticker-tag> | Super Micro Computer, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](SMCI.md) |
 | <tv-ticker-tag symbol="NYSE:VRT" hide-background></tv-ticker-tag> | Vertiv Holdings Co | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](VRT.md) |
 | <tv-ticker-tag symbol="NYSE:TT" hide-background></tv-ticker-tag> | Trane Technologies plc | <span class="rating-hold">HOLD</span> | 2026-08-14 | [:material-file-document: Read](TT.md) |
+| <tv-ticker-tag symbol="NYSE:CLS" hide-background></tv-ticker-tag> | Celestica Inc. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](CLS.md) |
 
 ---
 
@@ -452,6 +508,16 @@ Trane Technologies is a premium global HVAC and data-center cooling leader. Q2 2
 **Bull:** \$620-680 · **Base:** \$510-560 · **Bear:** \$380-430
 
 [:material-arrow-right: Full Deep Dive](TT.md)
+
+---
+
+**CLS — Celestica Inc. · <span class="rating-buy">BUY</span>**
+
+Celestica is a technology manufacturing leader whose Connectivity & Cloud Solutions segment is rapidly becoming a pure-play AI data center infrastructure company. Q2 2026 revenue surged 62% YoY to \$4.70B with GAAP EPS of \$3.17 and adjusted EPS of \$2.54, both exceeding guidance. TTM revenue run-rate now at ~\$15.6B. The company's deep engineering expertise in 400G/800G networking switches, AI server rack integration, and high-power compute platforms has made it a critical hyperscaler partner. At ~41x P/E the stock is richly valued, but revenue momentum and margin expansion justify a BUY. The one-year analyst target of ~\$678 implies significant upside.
+
+**Bull:** \$550–650 · **Base:** \$380–450 · **Bear:** \$200–260
+
+[:material-arrow-right: Full Deep Dive](CLS.md)
 
 ---
 ### Electrical Contractors

@@ -24,6 +24,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NYSE:RY" hide-background></tv-ticker-tag> | Royal Bank of Canada | <span class="rating-hold">HOLD</span> | 2026-07-13 | [:material-file-document: Read](RY.md) |
 | <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
 | <tv-ticker-tag symbol="NYSE:V" hide-background></tv-ticker-tag> | Visa Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](V.md) |
+| <tv-ticker-tag symbol="NYSE:APO" hide-background></tv-ticker-tag> | Apollo Global Management, Inc. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](APO.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -162,6 +163,18 @@ Royal Bank of Canada is the largest bank in Canada by market cap and one of the 
 **Bull:** \$230–\$250 · **Base:** \$200–\$220 · **Bear:** \$170–\$190
 
 [:material-arrow-right: Full Deep Dive](RY.md)
+
+---
+
+### Alternative Asset Management
+
+**APO — Apollo Global Management, Inc. · <span class="rating-buy">BUY</span>**
+
+Apollo Global Management is a leading global alternative asset manager with \$858B in fee-earning AUM (up 34% YoY), anchored by its dominant credit franchise and the strategic Athene retirement services platform. Q2 2026 fee-related earnings grew 25% YoY to \$785M, with adjusted net income of \$1.3B. Apollo's structural advantage is the convergence of private credit with insurance/retirement capital through Athene — a sticky, permanent capital base generating predictable management fees. At ~\$135 the stock is down from highs and trades at a modest premium despite superior growth and capital-light fee economics. The \$153 average analyst target implies ~13% near-term upside.
+
+**Bull:** \$180–210 · **Base:** \$140–160 · **Bear:** \$85–105
+
+[:material-arrow-right: Full Deep Dive](APO.md)
 
 ---
 ---
