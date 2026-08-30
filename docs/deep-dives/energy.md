@@ -156,6 +156,7 @@ Marine renewable energy company commercializing the PowerBuoy wave-energy platfo
 | <tv-ticker-tag symbol="NASDAQ:FCEL" hide-background></tv-ticker-tag> | FuelCell Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-26 | [:material-file-document: Read](FCEL.md) |
 | <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
 | <tv-ticker-tag symbol="NASDAQ:BWEN" hide-background></tv-ticker-tag> | Broadwind, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-06 | [:material-file-document: Read](BWEN.md) |
+| <tv-ticker-tag symbol="NYSE:VST" hide-background></tv-ticker-tag> | Vistra Corp. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](VST.md) |
 
 ---
 
@@ -206,6 +207,16 @@ Diversified precision manufacturer based in Cicero, Illinois, serving the combin
 **Bull:** \$6.50–\$7.00 · **Base:** \$5.00–\$6.00 · **Bear:** \$2.50–\$3.00
 
 [:material-arrow-right: Full Deep Dive](BWEN.md)
+
+---
+
+**VST — Vistra Corp. · <span class="rating-buy">BUY</span>**
+
+Vistra Corp. is the largest competitive integrated retail electricity and power generation platform in the U.S., with ~44,000 MW of capacity across natural gas, nuclear, coal, solar, and battery storage serving ~5 million customers. Q2 2026 ongoing operations adjusted EBITDA rose 31% YoY to ~\$1.77B, and management reaffirmed 2026 guidance of \$6.8B–\$7.6B while targeting a 2027 midpoint opportunity of \$7.4B–\$7.8B. The company is a direct beneficiary of AI data center load growth in ERCOT and PJM, with long-term PPAs including Meta, the pending Cogentrix acquisition, and the new Helix Digital Infrastructure partnership (KKR, NVIDIA, Kuwait Investment Authority) bolstering the growth story. High leverage (D/E ~373%, net debt ~\$19.5B) and regulatory uncertainty in Texas and PJM are the main risks. Analyst consensus is Strong Buy with a mean target ~\$217, implying ~58% upside from ~\$137.
+
+**Bull:** \$230–260 · **Base:** \$180–210 · **Bear:** \$100–120
+
+[:material-arrow-right: Full Deep Dive](VST.md)
 
 *Watchlist: EQT, LNG, KMI, WMB.*
 

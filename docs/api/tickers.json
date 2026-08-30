@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-14",
-  "count": 134,
+  "last_updated": "2026-08-30",
+  "count": 135,
   "tickers": [
     {
       "ticker": "000660",
@@ -1968,6 +1968,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Data Center Infrastructure",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra Corp.",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "rating": "BUY",
+      "price": 137.09,
+      "market_cap": "$46.0B",
+      "last_updated": "2026-08-30",
+      "deep_dive_url": "/deep-dives/VST/",
+      "api_url": "/api/VST.json",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-08-30"
     },
     {
       "ticker": "VYX",

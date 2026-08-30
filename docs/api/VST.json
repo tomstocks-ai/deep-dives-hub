@@ -1,0 +1,84 @@
+{
+  "ticker": "VST",
+  "company": "Vistra Corp.",
+  "sector": "Utilities",
+  "theme": "Energy",
+  "sub_theme": "Natural Gas & AI Power Demand",
+  "industry": "Utilities - Independent Power Producers",
+  "exchange": "NYSE",
+  "price": 137.09,
+  "price_date": "2026-08-30",
+  "market_cap": "$46.0B",
+  "rating": "BUY",
+  "last_updated": "2026-08-30",
+  "thesis": "Vistra is the largest competitive integrated retail electricity and power generation platform in the U.S., with ~44,000 MW of capacity across natural gas, nuclear, coal, solar, and battery storage serving ~5 million retail customers. The company is a direct beneficiary of the AI-driven surge in power demand: data center load growth, grid reliability concerns, and a renaissance in baseload power economics are tightening power markets and lifting forward prices in its core ERCOT and PJM footprints. Q2 2026 ongoing operations adjusted EBITDA rose 31% YoY to $1.77B, and management reaffirmed 2026 guidance of $6.8B–$7.6B with a 2027 midpoint opportunity of $7.4B–$7.8B. The balance sheet is leveraged (D/E ~373%, net debt ~$19.5B) and the stock is not cheap on book value, but a 13.2x forward P/E, a 0.4x PEG, and a ~$217 analyst consensus target support a BUY rating for investors comfortable with utility-style leverage and regulatory exposure.",
+  "financials": {
+    "fiscal_year": "TTM (2026-08-30)",
+    "revenue": "$19.21B",
+    "revenue_growth": "~12% YoY",
+    "gross_margin": "~26%",
+    "net_income": "$2.027B",
+    "eps_diluted": "$6.00",
+    "cash": "$435M",
+    "fcf": "~$4.3B"
+  },
+  "bull_case": {
+    "target": "$230–260",
+    "drivers": [
+      "AI power demand accelerates faster than grid planners expect, lifting ERCOT and PJM forward power prices and capacity values",
+      "PJM capacity market reforms and IRAS resolution firm new-build economics for Vistra's existing and development fleet",
+      "Cogentrix gas-generation acquisition closes and layers in accretive EBITDA and data-center-adjacent capacity",
+      "Meta and other long-term PPAs ramp, de-risking future cash flows and supporting valuation multiple expansion",
+      "Free cash flow funds continued buybacks and deleveraging, reducing the leverage premium and rerating the stock toward large-cap IPP peers"
+    ]
+  },
+  "base_case": {
+    "target": "$180–210",
+    "assumptions": "Vistra executes against 2026–2027 EBITDA guidance at or near the midpoint, converts EBITDA to FCF, and returns capital via buybacks while modestly deleveraging. Forward P/E stays in the 13–15x range, supported by durable power demand and a constructive but not euphoric ERCOT/PJM price environment. The ~$217 analyst consensus target is consistent with this case."
+  },
+  "bear_case": {
+    "target": "$100–120",
+    "risks": [
+      "ERCOT interconnection queue audit or transmission constraints materially delay new data center load and suppress forward power prices",
+      "PJM regulatory uncertainty (IRAS, RBP appeals, capacity market changes) undermines new-build returns and existing asset valuations",
+      "Natural gas prices collapse or a recession cuts power demand, shrinking EBITDA and FCF and forcing deleveraging over buybacks",
+      "High leverage becomes a constraint: refinancing costs rise and the balance sheet limits financial flexibility",
+      "Competition from tech-owned energy projects and subsidized renewables/capture squeezes dispatch margins"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings (Nov 5, 2026) — consensus EPS $2.86 on revenue $7.58B; update on ERCOT/PJM pricing, hedges, and Helix progress"
+    },
+    {
+      "date": "2026-2027",
+      "iso_date": "2026",
+      "event": "Helix Digital Infrastructure ramp with KKR, NVIDIA, and Kuwait Investment Authority; up to $1.0B committed for integrated power + data center infrastructure"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026",
+      "event": "Pending Cogentrix acquisition expected to close, adding gas-generation assets and incremental EBITDA"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Long-term PPAs with hyperscalers (including Meta) ratchet and new data center power contracts are announced"
+    },
+    {
+      "date": "End 2027",
+      "iso_date": "2027-12",
+      "event": "Remaining ~$1.2B share repurchase authorization expected to be completed; board may add more"
+    }
+  ],
+  "key_risks": [
+    "High leverage — D/E ~373% and negative tangible book value make Vistra sensitive to refinancing costs and downturns",
+    "ERCOT / Texas regulatory risk — data center interconnection queue audit and potential delays to load growth",
+    "PJM regulatory uncertainty — IRAS proposal, capacity market changes, and RBP/appeals could impact asset economics",
+    "Natural gas and power price volatility — forward curves and hedge marks create GAAP noise and can compress margins",
+    "Competition from tech-owned energy projects, renewables, and battery storage",
+    "Utility/IPPs are capital-intensive and carry environmental, safety, and relicensing obligations"
+  ]
+}
