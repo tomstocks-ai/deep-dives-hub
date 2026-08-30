@@ -110,6 +110,33 @@ Talen Energy is an independent power producer (IPP) operating ~13 GW of generati
 
 ---
 
+## 7. Catalyst Calendar
+
+| Date / Window | Event | Why It Matters |
+|---|---|---|
+| November 2026 | Q3 2026 earnings | First full quarter of Cornerstone contribution |
+| 2026–2027 | AI data center co-location announcements | Revenue from nuclear/gas site partnerships |
+| Ongoing | PJM capacity auction results and FERC regulatory developments | Regulatory clarity on nuclear co-location |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Energy |
+| Industry | Independent Power Producer / Nuclear & Fossil Generation |
+| Theme | Energy |
+| Sub-Theme | Reactor Developers |
+| Market Cap | ~$15B |
+| Rating | SPEC. BUY |
+| Price | $306.29 |
+| Beta | ~1.8 (est.) |
+| Next Earnings | Q3 2026 (November 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q2 2026 earnings release

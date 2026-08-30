@@ -127,6 +127,33 @@ Apollo Global Management is one of the world's largest alternative asset manager
 
 ---
 
+## 7. Catalyst Calendar
+
+| Date | Event | Impact |
+|------|-------|--------|
+| **November 2026** | Q3 2026 earnings | Fundraising and deployment trends |
+| **2026–2027** | Fee-earning AUM milestones toward $1T | Validates long-term fee growth trajectory |
+| **Ongoing** | Infrastructure credit and capital solutions growth | New AUM sources beyond traditional PE |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| **Exchange** | NYSE |
+| **Sector** | Financials |
+| **Industry** | Alternative Asset Management / Private Equity & Credit |
+| **Theme** | Fintech |
+| **Sub-Theme** | Alternative Asset Management |
+| **Market Cap** | ~$80B |
+| **Rating** | BUY |
+| **Price** | $135.39 |
+| **Beta** | 1.65 |
+| **Next Earnings** | Q3 2026 (November 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q2 2026 earnings

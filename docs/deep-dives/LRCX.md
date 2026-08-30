@@ -111,6 +111,33 @@ Lam Research is a global supplier of wafer fabrication equipment and services to
 
 ---
 
+## 7. Catalyst Calendar
+
+| Timeframe | Event | Significance |
+|-----------|-------|--------------|
+| October 2026 | Q1 FY2027 earnings | Initial FY2027 outlook |
+| 2026–2027 | 300+ layer 3D NAND transitions | Etch & deposition content per wafer increases |
+| Ongoing | GAA logic transitions at leading fabs | New equipment pull-through at TSMC and Samsung |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Technology |
+| Industry | Wafer Fabrication Equipment / Etch & Deposition |
+| Theme | AI Buildout |
+| Sub-Theme | Semiconductor Equipment |
+| Market Cap | ~$65B |
+| Rating | BUY |
+| Price | $500.00 |
+| Beta | 1.87 |
+| Next Earnings | Q1 FY2027 (October 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q4 FY2026 earnings release

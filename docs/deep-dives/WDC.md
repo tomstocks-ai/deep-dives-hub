@@ -141,6 +141,33 @@ Western Digital (now WD) is the world's largest manufacturer of hard disk drives
 
 ---
 
+## 7. Catalyst Calendar
+
+| Date / Window | Event | Why It Matters |
+|---|---|---|
+| October 2026 | Q1 FY2027 earnings | Demand visibility and pricing trends for nearline HDDs |
+| 2026–2027 | Next-gen HAMR and ePMR HDD ramps | Hyperscaler data center capacity storage upgrades |
+| Ongoing | AI-driven storage demand growth | Revenue expansion from cloud infrastructure buildout |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Technology |
+| Industry | Data Storage / Hard Disk Drives |
+| Theme | AI Buildout |
+| Sub-Theme | Memory & Storage |
+| Market Cap | ~$160B |
+| Rating | BUY |
+| Price | $469.03 |
+| Beta | 1.87 |
+| Next Earnings | Q1 FY2027 (October 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Investor Relations (FY2026 Q4 earnings)

@@ -112,6 +112,33 @@ KLA Corporation is the world's leading supplier of process control and yield man
 
 ---
 
+## 7. Catalyst Calendar
+
+| Timeframe | Event | Significance |
+|-----------|-------|--------------|
+| October 2026 | Q1 FY2027 earnings | FY2027 demand outlook |
+| 2026–2027 | Advanced packaging inspection tool adoption | Revenue uplift from leading-edge fabs |
+| Ongoing | EUV process control expansion at TSMC, Samsung, Intel | Market share gains in next-gen lithography |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Technology |
+| Industry | Process Control & Yield Management / Inspection & Metrology |
+| Theme | AI Buildout |
+| Sub-Theme | Semiconductor Equipment |
+| Market Cap | ~$252B |
+| Rating | BUY |
+| Price | $192.80 |
+| Beta | 1.46 |
+| Next Earnings | Q1 FY2027 (October 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q4 FY2026 earnings release

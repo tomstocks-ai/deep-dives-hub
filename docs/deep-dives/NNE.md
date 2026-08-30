@@ -109,6 +109,33 @@ NANO Nuclear Energy is developing two portable microreactor designs — ZEUS (a 
 
 ---
 
+## 7. Catalyst Calendar
+
+| Timeframe | Event | Significance |
+|-----------|-------|--------------|
+| 2026–2027 | NRC pre-application milestones | Validates ZEUS and ODIN microreactor designs |
+| Ongoing | DOD and remote power customer engagement | Potential prototype contracts |
+| Q4 FY2026 | Next quarterly earnings | Burn rate and runway update |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Energy |
+| Industry | Advanced Nuclear Microreactors |
+| Theme | Energy |
+| Sub-Theme | Reactor Developers |
+| Market Cap | ~$900M |
+| Rating | SPECULATIVE |
+| Price | $18.27 |
+| Beta | ~3.0 (est.) |
+| Next Earnings | Q4 FY2026 |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q3 FY2026 earnings release

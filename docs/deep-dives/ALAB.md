@@ -140,12 +140,32 @@ Astera Labs is a fabless semiconductor company that designs and sells connectivi
 | Moderate | 1–2% | Wait for pullback to $200–220 range |
 | Conservative | 0–1% | Too volatile and richly valued for core positions |
 
-### Catalyst Calendar
+---
+
+## 7. Catalyst Calendar
 
 | Date | Event | Impact |
 |------|-------|--------|
 | **November 2026** | Q3 2026 earnings | PCIe 6.0/CXL design win updates |
 | **February 2027** | Q4 2026 / FY2026 results | Full-year revenue and FY2027 guidance framework |
+| **2026–2027** | Fabric switch and smart cable module ramps | Revenue diversification beyond retimers |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| **Exchange** | NASDAQ |
+| **Sector** | Technology |
+| **Industry** | Semiconductor Connectivity / Data Center Interconnects |
+| **Theme** | AI Buildout |
+| **Sub-Theme** | Networking & Connectivity |
+| **Market Cap** | ~$48B |
+| **Rating** | HOLD |
+| **Price** | $277.53 |
+| **Beta** | 3.84 |
+| **Next Earnings** | Q3 2026 (November 2026) |
 
 ---
 

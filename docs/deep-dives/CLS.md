@@ -112,6 +112,33 @@ Celestica is a Canadian-based technology manufacturing and supply chain solution
 
 ---
 
+## 7. Catalyst Calendar
+
+| Date | Event | Impact |
+|------|-------|--------|
+| **October 2026** | Q3 2026 earnings | AI compute and networking mix trends |
+| **2026–2027** | 800G/1.6T networking switch ramps | Next-gen platform revenue expansion |
+| **Ongoing** | New AI server platform wins at hyperscalers | Customer diversification progress |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| **Exchange** | NYSE |
+| **Sector** | Technology |
+| **Industry** | Electronic Manufacturing Services / Data Center Infrastructure |
+| **Theme** | AI Buildout |
+| **Sub-Theme** | Data Center Infrastructure |
+| **Market Cap** | ~$51B |
+| **Rating** | BUY |
+| **Price** | $407.67 |
+| **Beta** | 1.51 |
+| **Next Earnings** | Q3 2026 (October 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q2 2026 earnings reports

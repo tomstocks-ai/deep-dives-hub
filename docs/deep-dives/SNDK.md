@@ -111,6 +111,33 @@ SanDisk Corporation was spun off from Western Digital in February 2026 as a pure
 
 ---
 
+## 7. Catalyst Calendar
+
+| Date / Window | Event | Why It Matters |
+|---|---|---|
+| October 2026 | Q1 FY2027 earnings | Post-spinoff capital allocation and NAND pricing outlook |
+| 2026–2027 | Next-gen enterprise SSD qualifications | AI workload storage revenue at hyperscalers |
+| Ongoing | NAND market pricing trends | Margin recovery trajectory |
+
+---
+
+## 8. Appendix — Quick Reference
+
+| Item | Detail |
+|------|--------|
+| Exchange | NASDAQ |
+| Sector | Technology |
+| Industry | NAND Flash Memory & Storage Solutions |
+| Theme | AI Buildout |
+| Sub-Theme | Memory & Storage |
+| Market Cap | ~$219B |
+| Rating | HOLD |
+| Price | $1,484.98 |
+| Beta | ~2.5 (est.) |
+| Next Earnings | Q1 FY2027 (October 2026) |
+
+---
+
 ## SOURCES CONSULTED
 
 - [x] Company Q4 FY2026 earnings reports
