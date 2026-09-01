@@ -128,6 +128,7 @@ SUBTHEME_BADGE = {
     "Copper": ("Minerals", "badge-minerals"),
     "Gold": ("Minerals", "badge-minerals"),
     "Rare Earths": ("Minerals", "badge-minerals"),
+    "Graphite / Battery Materials": ("Minerals", "badge-minerals"),
     "Stablecoins / Crypto Finance": ("Fintech", "badge-fintech"),
     "Brokerage / Trading": ("Fintech", "badge-fintech"),
     "Payments / Digital Banking": ("Fintech", "badge-fintech"),
