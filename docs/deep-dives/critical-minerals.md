@@ -24,6 +24,19 @@ title: Critical Minerals & Strategic Materials
 | <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](PPTA.md) |
 | <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](GLD.md) |
 | <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](SLV.md) |
+| <tv-ticker-tag symbol="NASDAQ:NVX" hide-background></tv-ticker-tag> | NOVONIX Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-01 | [:material-file-document: Read](NVX.md) |
+
+---
+
+### Graphite / Battery Materials
+
+**NVX — NOVONIX Limited · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+NOVONIX is a pre-profitability battery-materials company trying to build a Western synthetic-graphite anode supply chain for lithium-ion batteries. The ADR has collapsed from a \$38.60 high to roughly \$3.10, leaving the equity priced near its \$79.9M cash balance. Binding offtake agreements with Panasonic and PowerCo, a conditional \$754M U.S. DOE loan for a second facility, and a pivot to industrial-grade graphite production in 2026 create a highly asymmetric, speculative bull case. The main risks are cash burn, dilution, battery-grade qualification delays, and dependence on the DOE loan closing.
+
+**Bull:** \$15–\$25 · **Base:** \$5–\$8 · **Bear:** \$1–\$2
+
+[:material-arrow-right: Full Deep Dive](NVX.md)
 
 ---
 

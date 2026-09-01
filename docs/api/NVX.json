@@ -1,0 +1,79 @@
+{
+  "ticker": "NVX",
+  "company": "NOVONIX Limited",
+  "sector": "Industrials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Graphite / Battery Materials",
+  "industry": "Battery Anode Materials",
+  "exchange": "NASDAQ",
+  "price": 3.10,
+  "price_date": "2026-09-01",
+  "market_cap": "$77M",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-01",
+  "thesis": "NOVONIX is a pre-profitability battery-materials company trying to build a Western synthetic-graphite anode supply chain for lithium-ion batteries. The ADR has collapsed from a $38.60 high to roughly $3.10, leaving the equity priced near its $79.9M cash balance. Binding offtake agreements with Panasonic and PowerCo, a conditional $754M U.S. DOE loan for a second facility, and a pivot to industrial-grade graphite production in 2026 create a highly asymmetric, speculative bull case. The main risks are cash burn, dilution, battery-grade qualification delays, and dependence on the DOE loan closing.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$5.6M",
+    "revenue_growth": "-4.0% YoY",
+    "gross_margin": "55.5%",
+    "net_income": "-$92.7M",
+    "eps_diluted": "-$2.40",
+    "cash": "$79.9M",
+    "fcf": "-$84.5M"
+  },
+  "bull_case": {
+    "target": "$15–$25",
+    "drivers": [
+      "Riverside industrial-grade graphite production ramps in 2026 and validates the process",
+      "Conditional $754M DOE loan closes and funds the Enterprise South expansion",
+      "Battery-grade anode qualification for Panasonic proceeds on schedule (H2 2027)",
+      "U.S. tariffs and trade policy make domestic anode supply more competitive versus Chinese graphite",
+      "Additional OEM offtake agreements commit the expanded capacity"
+    ]
+  },
+  "base_case": {
+    "target": "$5–$8",
+    "assumptions": "Industrial graphite generates modest revenue and validates the process, but battery-grade qualification slips toward 2028 and the company needs a dilutive capital raise to bridge the ramp. The stock re-rates off the 52-week low but remains a speculative, loss-making name."
+  },
+  "bear_case": {
+    "target": "$1–$2",
+    "risks": [
+      "Cash burn forces a highly dilutive equity raise or distressed financing",
+      "Battery-grade qualification fails or Panasonic/PowerCo offtakes are delayed",
+      "DOE loan stalls or is withdrawn",
+      "Chinese graphite producers undercut pricing and tariffs do not provide enough support",
+      "Micro-cap liquidity and volatility lead to a continued de-rating"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026",
+      "iso_date": "2026-07",
+      "event": "Q2 2026 earnings update: cash, Riverside production status, customer qualification progress"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Riverside industrial-grade graphite mass production begins"
+    },
+    {
+      "date": "H2 2027",
+      "iso_date": "2027-07",
+      "event": "Battery-grade anode material mass production targeted for Panasonic"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "DOE loan commitment and Enterprise South facility development milestones"
+    }
+  ],
+  "key_risks": [
+    "Funding and cash burn — free cash flow of -$84.5M on revenue of $5.6M implies limited runway without the DOE loan or another capital raise",
+    "Dilution risk from a capital raise at distressed prices",
+    "Customer concentration and battery-grade qualification with Panasonic and PowerCo",
+    "Execution risk on the $754M DOE conditional loan",
+    "Chinese graphite cost curve and tariff policy uncertainty",
+    "Micro-cap liquidity and extreme volatility (52-week range $3.00–$38.60)"
+  ]
+}

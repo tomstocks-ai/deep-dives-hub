@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-08-30",
-  "count": 144,
+  "last_updated": "2026-09-01",
+  "count": 145,
   "tickers": [
     {
       "ticker": "000660",
@@ -1353,6 +1353,21 @@
       "theme": "AI Buildout",
       "sub_theme": "AI Compute",
       "price_date": "2026-08-29"
+    },
+    {
+      "ticker": "NVX",
+      "company": "NOVONIX Limited",
+      "sector": "Industrials",
+      "industry": "Battery Anode Materials",
+      "rating": "SPEC. BUY",
+      "price": 3.1,
+      "market_cap": "$77M",
+      "last_updated": "2026-09-01",
+      "deep_dive_url": "/deep-dives/NVX/",
+      "api_url": "/api/NVX.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Graphite / Battery Materials",
+      "price_date": "2026-09-01"
     },
     {
       "ticker": "OKLO",
