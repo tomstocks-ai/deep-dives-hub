@@ -1,0 +1,57 @@
+{
+  "ticker": "SECZ",
+  "company": "Securitize Corp.",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
+  "industry": "Tokenization / Digital Asset Securities",
+  "exchange": "NYSE",
+  "price": 10.86,
+  "price_date": "2026-09-19",
+  "market_cap": "~$1.77B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-19",
+  "thesis": "Securitize is the leading regulated tokenization platform with ~$5B AUM, a strong regulatory moat, and ~$350M in post-SPAC cash. The company is positioned at the intersection of blockchain-based financial infrastructure and institutional adoption of tokenized real-world assets. However, the stock is loss-making, trades at an elevated ~30x annualized P/S, and faces significant regulatory and competitive uncertainty. The SPEC. BUY rating reflects the high-risk/high-reward nature of early-stage tokenization infrastructure plays.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$14.4M (Q2 2026)",
+    "revenue_growth": "-5% YoY",
+    "gross_margin": "73%",
+    "net_income": "$(21.7)M (Q2 2026)",
+    "eps_diluted": "$(2.37)",
+    "cash": "~$350M",
+    "fcf": "Negative"
+  },
+  "bull_case": {
+    "target": "$18–$22",
+    "drivers": [
+      "SEC regulatory clarity accelerates RWA adoption; AUM grows to $10B+ by 2027",
+      "Revenue inflects to 40%+ growth; path to EBITDA breakeven by 2027",
+      "Multiple re-rates to 15x forward P/S as tokenization TAM expands"
+    ]
+  },
+  "base_case": {
+    "target": "$11–$14",
+    "assumptions": "AUM grows to $7B by 2027; revenue growth 20-25%; EBITDA breakeven by 2028; trades at 8-10x forward P/S"
+  },
+  "bear_case": {
+    "target": "$6–$8",
+    "risks": [
+      "Regulatory delays slow adoption; competition compresses fees",
+      "Cash burn accelerates; dilutive raise required",
+      "Trades at 4-5x forward P/S on reduced growth expectations"
+    ]
+  },
+  "catalysts": [
+    {"date": "Q3 2026", "iso_date": "2026-11-11", "event": "Q3 2026 earnings — first full public quarter"},
+    {"date": "Q4 2026", "iso_date": "2026-12", "event": "SEC tokenized stock pilot program updates"},
+    {"date": "2027-H1", "iso_date": "2027-06", "event": "Potential BlackRock BUIDL expansion and new institutional tokenized fund launches"}
+  ],
+  "key_risks": [
+    "Regulatory uncertainty — SEC stance on tokenized securities could shift; five-year pilot is not permanent",
+    "Competition from traditional infrastructure providers (DTCC, Broadridge) and crypto-native platforms (Ondo, Centrifuge)",
+    "Customer concentration — BlackRock BUIDL represents significant portion of AUM",
+    "Cash burn — Adjusted EBITDA of $(5.5)M in Q2 2026; expansion could accelerate spending",
+    "Dilution risk — SPAC earnouts and lockup expirations could increase share count"
+  ]
+}

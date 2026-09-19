@@ -29,6 +29,16 @@ title: Fintech & Digital Payments
 ---
 ### Stablecoins / Crypto Finance
 
+**SECZ — Securitize Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Securitize Corp. is the leading regulated tokenization platform with ~\$5.0B in AUM onchain as of July 2026. The company provides end-to-end infrastructure for issuing, servicing, and trading tokenized real-world assets, holding SEC-registered broker-dealer, transfer agent, and ATS licenses — a significant regulatory moat. BlackRock's BUIDL fund is the flagship product (the first tokenized fund to surpass \$500M AUM), with Ethena Labs' USDe allocating \$250M. Q2 2026 revenue was \$14.4M (down 5% YoY) with a net loss of \$21.7M and negative \$5.5M Adjusted EBITDA. Post-SPAC, the company holds ~\$350M in cash with no debt, providing substantial runway. The stock trades at ~30x annualized P/S, reflecting scarcity value in regulated tokenization infrastructure, but remains speculative given regulatory uncertainty, customer concentration (BlackRock), and a 175% YoY widening in net loss. The September 2026 SEC five-year pilot program for tokenized stock trading is a major near-term catalyst.
+
+**Bull:** \$18–\$22 · **Base:** \$11–\$14 · **Bear:** \$6–\$8
+
+[:material-arrow-right: Full Deep Dive](SECZ.md)
+
+---
+
 **MSTR — Strategy Inc · <span class="rating-spec-buy">SPEC. BUY</span>**
 
 Strategy Inc, formerly MicroStrategy, is the largest public-company Bitcoin treasury vehicle, holding roughly 818,000 BTC. The stock trades as a leveraged, premium-exposed proxy for Bitcoin, with quarterly software revenue of ~\$124M funding only a fraction of the corporate structure. Management pursues "Bitcoin Yield" — growth in BTC per diluted share — and reached ~9.6% YTD in 2026 by issuing equity, convertible notes, and preferred stock to accumulate more BTC. The bull case depends on BTC appreciation and sustained premium; the bear case is a collapse in the premium combined with dilution and a BTC drawdown. At \$100.77, MSTR has retraced most of its 2025/2026 premium expansion, improving risk/reward for risk-tolerant BTC bulls.

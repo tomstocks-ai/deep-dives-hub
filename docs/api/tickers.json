@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-09-01",
-  "count": 145,
+  "last_updated": "2026-09-19",
+  "count": 146,
   "tickers": [
     {
       "ticker": "000660",
@@ -1728,6 +1728,21 @@
       "theme": "Space Economy",
       "sub_theme": "Satellite Connectivity",
       "price_date": "2026-06-23"
+    },
+    {
+      "ticker": "SECZ",
+      "company": "Securitize Corp.",
+      "sector": "Financials",
+      "industry": "Tokenization / Digital Asset Securities",
+      "rating": "SPEC. BUY",
+      "price": 10.86,
+      "market_cap": "~$1.77B",
+      "last_updated": "2026-09-19",
+      "deep_dive_url": "/deep-dives/SECZ/",
+      "api_url": "/api/SECZ.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Stablecoins / Crypto Finance",
+      "price_date": "2026-09-19"
     },
     {
       "ticker": "SIVE",
