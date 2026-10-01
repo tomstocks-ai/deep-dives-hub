@@ -1,0 +1,86 @@
+{
+  "ticker": "CIEN",
+  "company": "Ciena Corporation",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "industry": "Optical Networking Systems / Coherent Interconnects",
+  "exchange": "NYSE",
+  "price": 344.19,
+  "price_date": "2026-09-28",
+  "market_cap": "$48.8B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Ciena is the only large pure-play optical networking vendor and AI has made its gear scarce: fiscal Q3 2026 revenue grew 37% to a record $1.67B, adjusted operating margin hit a record 22.5%, adjusted EPS tripled to $2.11, and backlog jumped $800M to $8.5B with management guiding above $10B by fiscal year-end. FY2027 revenue is guided to at least $8.3-8.4B (described as a supply-constrained floor) with 25-27% adjusted operating margin, and the FY2029 framework targets a ~30% revenue CAGR, ~50% gross margin and ~20% FCF margin. Yet the stock sits ~46% below its June 2026 high of $637.51 on a sector-wide AI-optics de-rating, leaving a 30%+ grower at roughly 29x estimated FY2027 adjusted EPS. Primary risk is hyperscaler concentration - two customers were 41.7% of Q3 revenue - and the AI capex cycle behind that demand.",
+  "financials": {
+    "fiscal_year": "FY2026 (Q3, ended 2026-08-01)",
+    "revenue": "$1,671.1M (Q3); FY2026 guided $6.42B ±$50M",
+    "revenue_growth": "+37.0% YoY (Q3); +35% FY2026 guided",
+    "gross_margin": "46.4% adjusted / 45.4% GAAP (Q3)",
+    "net_income": "$307.7M adjusted / $266.4M GAAP (Q3)",
+    "eps_diluted": "$2.11 adjusted / $1.83 GAAP (Q3)",
+    "cash": "$2.84B cash and investments",
+    "fcf": "$116M (Q3); ~$489M 9M FY2026; $665M FY2025"
+  },
+  "bull_case": {
+    "target": "$560–660",
+    "drivers": [
+      "Component supply unlocks faster than the FY2028 rebalancing management assumes, lifting FY2027 well above the $8.3-8.4B floor",
+      "WaveLogic 6 Extreme holds its 1.6T lead and pulls attached line-system revenue with it",
+      "RLS Hyper-Rail standardizes by end of calendar 2026 and ramps to several hundred million dollars in FY2027 at step-function-better economics",
+      "Coherent optics move inside the data center at 3.2T, expanding TAM beyond DCI into intra-facility links",
+      "FY2029 framework delivers: ~30% revenue CAGR to roughly $14B, ~50% adjusted gross margin, 32-35% operating margin, ~20% FCF margin"
+    ]
+  },
+  "base_case": {
+    "target": "$420–480",
+    "assumptions": "FY2026 lands at the guided $6.42B and FY2027 delivers close to the $8.3-8.4B floor, producing estimated adjusted EPS of $11-12 (own calculation from guided revenue and 25-27% operating margin, ~20% tax, ~148M diluted shares). Adjusted gross margin normalises to 45-46% as the one-time tariff refund rolls off, pricing gains hold through FY2027, and the multiple stays near 35-40x forward earnings - closing most of the gap to the ~$493 sell-side consensus without needing the FY2029 targets fully de-risked."
+  },
+  "bear_case": {
+    "target": "$190–240",
+    "risks": [
+      "Hyperscaler optical orders digest in FY2027-28 and the $10B backlog is re-read as pull-forward rather than genuine lead-time demand",
+      "Customer concentration bites: two customers were 41.7% of Q3 revenue and DCOM revenue is explicitly lumpy",
+      "Supply normalisation in FY2028 reverses the high-single-digit to low-20s percent price increases customers accepted under scarcity",
+      "Multiple compresses from ~29x toward 18-20x on flat-to-lower earnings, retracing toward the $143.19 52-week low and the $185 low sell-side target",
+      "Canadian tariff regime costs ~$10M per quarter and working capital funding of long-term supply agreements suppresses free cash flow"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Early December 2026",
+      "iso_date": "2026-12",
+      "event": "Q4 and FY2026 results plus formal FY2027 guidance — confirms the $6.42B FY2026 landing, whether FY2027 is guided above the $8.3-8.4B floor, and whether backlog prints above $10B"
+    },
+    {
+      "date": "End of calendar 2026",
+      "iso_date": "2026-12",
+      "event": "RLS Hyper-Rail standardization — gates the several-hundred-million-dollar FY2027 ramp"
+    },
+    {
+      "date": "December 2026",
+      "iso_date": "2026-12",
+      "event": "FY2026 Form 10-K — updated customer concentration and long-term supply agreement disclosure"
+    },
+    {
+      "date": "Early March 2027",
+      "iso_date": "2027-03",
+      "event": "Q1 FY2027 results — first read on whether price increases and Hyper-Rail economics hold"
+    },
+    {
+      "date": "Through FY2027",
+      "iso_date": "2027",
+      "event": "Component supply capacity additions under the supply agreements locked through 2029 — the main source of upside to the guided floor"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: two customers each above 10% of revenue, 41.7% combined in Q3 FY2026",
+    "AI capex cyclicality — management claims a ~two-year buffer from connecting existing data centers and GPU refresh, not immunity",
+    "Supply constraints cap revenue: the FY2027 guide is a floor set by component availability, and funding supply agreements consumes working capital",
+    "Margin sustainability: ~70 bps of the 46.4% Q3 adjusted gross margin was a one-time tariff refund, and scarcity-driven pricing gains reverse if capacity catches up in FY2028",
+    "New Canadian tariff regime estimated at ~$10M per quarter",
+    "Competition from Nokia/Infinera, Cisco/Acacia, Marvell and Broadcom, plus hyperscaler in-sourcing of optical designs",
+    "Economic dilution above the warrant strike from the $2.875B convertible note issue if the shares move sharply higher",
+    "Stock trades below both its 50-day ($376.26) and 200-day ($388.43) moving averages with a 52-week range of $143.19-$637.51 — realised volatility is extreme"
+  ]
+}

@@ -1,93 +1,91 @@
 {
   "ticker": "FIGR",
   "company": "Figure Technology Solutions",
-  "sector": "Fintech",
+  "sector": "Financials",
   "theme": "Fintech & Digital Payments",
   "sub_theme": "Consumer Finance",
-  "industry": "Consumer Lending / Blockchain Financial Services",
+  "industry": "Blockchain Capital Marketplace / Consumer Lending",
   "exchange": "NASDAQ",
-  "price": 28.62,
-  "price_date": "2026-08-07",
-  "market_cap": "$5.94B",
+  "price": 29.33,
+  "price_date": "2026-09-28",
+  "market_cap": "$6.6B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-27",
-  "thesis": "Figure Technology Solutions is a profitable fintech combining a high-growth consumer loan marketplace ($2.9B Q1 volume) with blockchain-based loan origination and servicing via its Provenance blockchain. The company generates 49.6% adjusted EBITDA margins and trades at a deep discount to its January 2026 ATH of $78, offering asymmetric upside if origination growth continues and blockchain adoption expands. However, the stock is sensitive to the consumer credit cycle and blockchain sentiment, warranting a SPEC. BUY rating.",
+  "last_updated": "2026-09-29",
+  "thesis": "Figure runs a blockchain-native capital marketplace for consumer credit: partners originate on its loan origination system and sell loans through Figure Connect, a tokenized marketplace that reached 65% of Q2 2026 volume. Operating momentum is exceptional — Q2 2026 Consumer Loan Marketplace volume of $4.3B (+132% y/y), adjusted net revenue of $218M (+95%), GAAP net income of $87M and a 54.6% adjusted EBITDA margin — yet the stock is down ~62% from its January 2026 high of $78 after a short-seller report questioned the technology positioning and business model. At ~24x consensus FY2026 EPS of ~$1.20 and ~18x FY2027 ~$1.61, with the $590M Kiavi acquisition closed on 2026-09-01 adding a guided ~$100M of annual EBITDA, the setup is asymmetric but the credibility overhang, HELOC concentration and structural take-rate compression keep this speculative.",
   "financials": {
-    "fiscal_year": "FY2026E",
-    "revenue": "$514.6M (TTM)",
-    "revenue_growth": "+N/A (profitable early-stage)",
-    "gross_margin": "~49.6% adj. EBITDA margin",
-    "net_income": "$45M (Q1 2026)",
-    "eps_diluted": "$0.71 (TTM)",
-    "cash": "N/A",
-    "fcf": "N/A"
+    "fiscal_year": "FY2025",
+    "revenue": "$506.9M net revenue (adjusted net revenue $514.8M)",
+    "revenue_growth": "+48.7%",
+    "gross_margin": "48.8% adj. EBITDA margin (54.6% in Q2 2026)",
+    "net_income": "$134.3M",
+    "eps_diluted": "$0.44 (TTM ~$0.93 per MarketBeat)",
+    "cash": "$1.44B (2026-06-30, excl. restricted cash)",
+    "fcf": "N/A — operating cash flow distorted by loans held for sale ($597M at 2026-06-30)"
   },
   "bull_case": {
     "target": "$55–$65",
     "drivers": [
-      "Loan origination volumes accelerate to $15B+ annually, driving fee and servicing revenue well above consensus",
-      "Provenance blockchain adoption expands to third-party lenders and institutional DeFi, creating platform/network effects",
-      "Margin expansion to 55%+ EBITDA as scale economies and blockchain cost savings compound",
-      "Regulatory tailwinds for blockchain-based financial infrastructure accelerate institutional adoption"
+      "Consumer Loan Marketplace volume compounds past a $20B annual run rate as the partner network grows beyond the 489 active partners reported for Q2 2026",
+      "Figure Connect mix moves toward management's revised ~70% medium-term expectation, lifting fee-based ecosystem revenue and pushing adjusted EBITDA margin to the 60%+ medium-term target",
+      "Kiavi delivers the guided ~$100M of annual EBITDA and ~40% volume uplift, and its residential transition loan technology becomes a standard private-label offering",
+      "Democratized Prime third-party assets keep compounding from ~$170M (2026-08-06) as originators replace traditional warehouse lines, adding a second capital-light revenue engine",
+      "Short-seller allegations fail to dent reported results and the multiple re-rates toward the $52.88 consensus target"
     ]
   },
   "base_case": {
-    "target": "$45–$50",
-    "assumptions": "Steady $3B+ quarterly origination sustains TTM revenue above $700M; FY2026 revenue reaches $730M+; profitability proves durable through a mild credit cycle; multiple re-rates to ~35x forward P/E as execution consistency builds investor confidence."
+    "target": "$40–$46",
+    "assumptions": "Q3 2026 volume lands in the guided $4.8B–$5.2B range and volume growth decelerates from triple digits toward 50–70% through 2027; net take rate holds at the low end of the 3.5%–4.0% band as Connect mix rises; Kiavi is integrated without material surprises; FY2027 EPS approximates the ~$1.61 consensus and the stock re-rates to roughly 25–28x, partially closing the gap to the $52.88 consensus target."
   },
   "bear_case": {
-    "target": "$30–$35",
+    "target": "$20–$25",
     "risks": [
-      "Consumer credit cycle deterioration raises delinquencies and forces tighter underwriting, reducing origination volume",
-      "Blockchain / DeFi narrative fades, causing multiple compression regardless of core lending fundamentals",
-      "Higher-for-longer interest rates suppress consumer loan demand and increase funding costs",
-      "Competitive pressure from SoFi, Upstart, and traditional banks erodes market share and pricing power"
+      "Short-seller allegations gain traction or internal-control weaknesses resurface, forcing a lasting credibility discount on a blockchain-dependent narrative",
+      "HELOC demand rolls over with housing values or rates, exposing concentration in a single core product",
+      "Take rate compresses below 3.5% as the largest partners hit top volume tiers and first-lien mix grows, so revenue grows materially slower than volume",
+      "Credit normalisation raises delinquencies, widens securitization spreads from the ~135bps AAA level and impairs gain-on-sale economics",
+      "Kiavi integration disappoints while the $600M of 8.5% senior notes raised in July 2026 weighs on earnings"
     ]
   },
   "catalysts": [
     {
-      "date": "August 2026",
-      "event": "Q2 2026 earnings — watch for origination volume trends and margin sustainability",
-      "iso_date": "2026-08",
-      "sector": "Fintech",
-      "theme": "Fintech & Digital Payments",
-      "sub_theme": "Consumer Finance",
-      "price_date": "2026-06-27"
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 results — confirmation of the $4.8B–$5.2B volume guide, first Kiavi contribution, and the promised new contribution-margin / unit-economics disclosure"
     },
     {
-      "date": "Late 2026",
-      "event": "Potential Provenance blockchain partnership or product announcements",
+      "date": "Q4 2026",
       "iso_date": "2026-10",
-      "sector": "Fintech",
-      "theme": "Fintech & Digital Payments",
-      "sub_theme": "Consumer Finance",
-      "price_date": "2026-06-27"
+      "event": "First full quarter of Kiavi ownership after the 2026-09-01 close; management guided to ~$100M annual EBITDA and ~40% incremental volume"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Democratized Prime expansion — long-term takeout via whole-loan sales and securitization of non-Figure assets, plus scaling of the SMB pools launched in July 2026"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and expiry of the $200M share repurchase authorization on 2027-02-27; pace of buybacks at depressed prices is a signal on capital allocation"
     },
     {
       "date": "Ongoing",
-      "event": "Federal Reserve policy decisions impacting credit demand and consumer lending environment",
       "iso_date": null,
-      "sector": "Fintech",
-      "theme": "Fintech & Digital Payments",
-      "sub_theme": "Consumer Finance",
-      "price_date": "2026-06-27"
+      "event": "Federal Reserve rate path — rising rates hurt gain on sale and take rate, but also push consumers to tap home equity to refinance costlier debt"
     },
     {
       "date": "Ongoing",
-      "event": "Regulatory developments on blockchain-based loan servicing and tokenization",
       "iso_date": null,
-      "sector": "Fintech",
-      "theme": "Fintech & Digital Payments",
-      "sub_theme": "Consumer Finance",
-      "price_date": "2026-06-27"
+      "event": "Regulatory treatment of tokenized real-world assets, the $YLDS registered yield-bearing stablecoin, DART and the OPEN blockchain share class"
     }
   ],
   "key_risks": [
-    "Credit cycle sensitivity: consumer lending is inherently cyclical and a recession would raise delinquencies",
-    "Blockchain narrative risk: a significant portion of valuation premium is tied to crypto/DeFi sentiment",
-    "Interest rate environment: higher rates reduce loan demand and increase funding costs",
-    "Competition from SoFi, Upstart, LendingClub, and traditional banks in digital consumer lending",
-    "Regulatory uncertainty around blockchain-based financial services from SEC, CFPB, and state regulators",
-    "Concentration in origination fees: a large share of revenue depends on continued strong secondary market demand for loans"
+    "Credibility overhang from the 2026 short-seller report questioning Figure's technology positioning and business model; hedge fund holders fell from 51 to 32 over Q2 2026",
+    "HELOC concentration — the company's own filings flag reliance on HELOCs and exposure to the HELOC market and housing values",
+    "Structural take-rate compression: Figure Connect carries the lowest take rate of the three channels and reached 65% of volume, with management guiding to the low end of the 3.5%–4.0% range",
+    "Consumer credit cycle: delinquencies, securitization spreads and whole-loan demand all deteriorate together in a downturn",
+    "Integration and leverage risk from the Kiavi acquisition, funded with $600M of unsecured senior notes at 8.5%",
+    "Dual-class structure with concentrated voting control (37.9M Class B shares) plus previously identified material weaknesses in internal controls still being remediated",
+    "Digital-asset regulatory uncertainty across $YLDS, DART, Democratized Prime and the OPEN share class",
+    "Persistent insider selling — 67,650 shares worth ~$2.16M sold in the three months to late September 2026 under 10b5-1 plans"
   ]
 }

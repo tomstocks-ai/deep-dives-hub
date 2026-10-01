@@ -1,0 +1,89 @@
+{
+  "ticker": "META",
+  "company": "Meta Platforms, Inc.",
+  "sector": "Communication Services",
+  "theme": "Software",
+  "sub_theme": "Cloud & Enterprise Software",
+  "industry": "Social Media & Digital Advertising",
+  "exchange": "NASDAQ",
+  "price": 715.62,
+  "price_date": "2026-09-28",
+  "market_cap": "$1.83T",
+  "rating": "HOLD",
+  "last_updated": "2026-09-29",
+  "thesis": "Meta is converting the largest consumer distribution network on earth (3.60 billion daily users) into an AI franchise: Q2 2026 revenue grew 28% to $60.8 billion on AI-driven ad ranking, Advantage+ crossed a $75 billion annual run rate, and the September 8 launch of the Muse personal agent hit 3.4 million downloads and the #1 US App Store spot. The cost of that pivot is extreme — 2026 capex guidance of $130-145 billion (vs $72.2 billion in 2025), Q2 free cash flow of just $784 million (-91% YoY), operating margin down to 31% from 43%, and buybacks suspended in H1 2026 while $24.9 billion of new debt was issued. The stock rallied ~30% in September to a $779.82 peak before pulling back on OpenAI's competing always-on agent, which leaves risk/reward balanced rather than compelling: HOLD, with accumulation better done on weakness toward the $600s than after a parabolic month.",
+  "financials": {
+    "fiscal_year": "FY26 Q2 (Jun 2026)",
+    "revenue": "$60.80B (Q2); $117.11B H1 2026",
+    "revenue_growth": "+28% YoY (+27% constant currency)",
+    "gross_margin": "~81% (Q2)",
+    "net_income": "$15.85B (Q2, -14% YoY)",
+    "eps_diluted": "$6.18 (Q2, -13% YoY)",
+    "cash": "$90.26B cash and marketable securities (vs $83.66B long-term debt)",
+    "fcf": "$0.78B (Q2, -91% YoY); $13.17B H1 2026"
+  },
+  "bull_case": {
+    "target": "$900–$1,000",
+    "drivers": [
+      "Muse scales from launch hit to durable platform: the agent held the #1 US App Store rank with 3.4M+ downloads in three weeks, and Meta attaches commerce, travel and productivity monetization to a 3.6 billion-person funnel",
+      "Meta Enterprise Platform (launched September 28, 2026, led by ex-MongoDB CEO CJ Desai) turns internal AI capacity into third-party revenue; Zuckerberg says Meta is fielding compute-resale offers at a meaningful premium to cost and CFO Susan Li describes the company as demand constrained",
+      "Core advertising keeps compounding: Q2 impressions +14%, price per ad +12%, Advantage+ at a $75B annual run rate, 1M+ businesses using Meta Business Agents weekly",
+      "AI glasses become a real hardware franchise: 100+ styles across Ray-Ban, Oakley and Meta Glasses by end-2026, plus $1,299 Meta VR Glasses and the Muse Charm pendant, giving Meta an owned device channel for personal superintelligence",
+      "Custom MTIA silicon and the BlackRock El Paso 1GW venture lower the unit cost of the buildout — one sell-side estimate puts 2027 savings from in-house chips at ~$8.5B (bank estimate, not company-guided)"
+    ]
+  },
+  "base_case": {
+    "target": "$760–$820",
+    "assumptions": "Revenue growth decelerates from 28% toward the low-20s implied by the $61-64B Q3 2026 guide, full-year 2026 operating income finishes modestly above 2025's $83.3B as guided, capex lands in the middle of the $130-145B range and depreciation keeps margins near 30-35%, Muse monetization and the Enterprise Platform contribute revenue but not yet material profit, and the market pays roughly 7-8x forward revenue — consistent with the 57-analyst consensus target of ~$788-801"
+  },
+  "bear_case": {
+    "target": "$520–$580",
+    "risks": [
+      "OpenAI's 'o' always-on agent (unveiled at DevDay on September 29, 2026) commoditizes the Muse thesis that drove the entire September rally",
+      "Capex compounds into 2027 without proportional revenue: free cash flow stays near zero, buybacks remain suspended, and leverage rises from the current $83.7B of long-term debt",
+      "Depreciation and R&D (Q2 R&D was $21.7B, +67% YoY) keep operating margin in the low 30s or lower, so EPS declines even as revenue grows",
+      "Youth-safety litigation produces a material adverse judgment — Meta booked $2.40B of legal charges in Q2 and explicitly warns of possible material loss from US trials scheduled this year",
+      "Ad cycle turns or EU/US regulation constrains targeting, removing the growth that currently justifies the spend"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "September 29, 2026",
+      "iso_date": "2026-09-29",
+      "event": "OpenAI DevDay 2026 keynote — formal unveiling of the 'o' always-on cloud agent, the most direct competitive read-through for Muse"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 earnings — tests the $61-64B revenue guide, the first partial quarter of Muse engagement, and any monetization detail on the Meta Enterprise Platform"
+    },
+    {
+      "date": "Holiday 2026",
+      "iso_date": "2026-12",
+      "event": "Sell-through of the Connect 2026 hardware slate: 100+ AI glasses styles, $1,299 Meta VR Glasses, Muse Charm pendant"
+    },
+    {
+      "date": "Late January 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 and full-year 2026 results plus initial 2027 capex and expense guidance — the single largest swing factor for the free-cash-flow debate"
+    },
+    {
+      "date": "2026 (ongoing)",
+      "iso_date": "2026",
+      "event": "US youth-related trials and regulatory proceedings; Meta has guided that outcomes may result in a material loss"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "MTIA custom-silicon deployment at scale and first revenue disclosure from compute resale / enterprise AI, the proof points for capex ROI"
+    }
+  ],
+  "key_risks": [
+    "Capex of $130-145B in 2026 against Q2 free cash flow of $784M — the buildout has already consumed nearly all operating cash flow and buybacks were suspended in H1 2026",
+    "OpenAI's competing always-on assistant directly attacks the Muse-driven re-rating that produced the ~30% September move",
+    "Margin compression from depreciation and R&D: operating margin fell to 31% in Q2 2026 from 43% a year earlier and net income declined 14% despite 28% revenue growth",
+    "Legal and regulatory exposure, including $2.40B of Q2 legal charges and company-flagged risk of material loss from US youth-safety trials",
+    "Reality Labs still loses ~$4.6B per quarter with only $431M of quarterly revenue, so the new hardware slate is a cost centre for now",
+    "Entry timing: the stock trades ~8% below its $779.82 52-week high after a parabolic month and ~14% above its 200-day moving average of $626.77"
+  ]
+}

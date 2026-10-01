@@ -22,6 +22,11 @@
 | <tv-ticker-tag symbol="NYSE:CRM" hide-background></tv-ticker-tag> | Salesforce, Inc. | <span class="rating-buy">BUY</span> | 2026-07-03 | [:material-file-document: Read](CRM.md) |
 | <tv-ticker-tag symbol="NASDAQ:FRSH" hide-background></tv-ticker-tag> | Freshworks Inc. | <span class="rating-buy">BUY</span> | 2026-07-14 | [:material-file-document: Read](FRSH.md) |
 | <tv-ticker-tag symbol="NASDAQ:PLTR" hide-background></tv-ticker-tag> | Palantir Technologies Inc. | <span class="rating-hold">HOLD</span> | 2026-07-19 | [:material-file-document: Read](PLTR.md) |
+| <tv-ticker-tag symbol="NASDAQ:AMZN" hide-background></tv-ticker-tag> | Amazon.com, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](AMZN.md) |
+| <tv-ticker-tag symbol="NASDAQ:APP" hide-background></tv-ticker-tag> | AppLovin Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](APP.md) |
+| <tv-ticker-tag symbol="NASDAQ:GOOGL" hide-background></tv-ticker-tag> | Alphabet Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](GOOGL.md) |
+| <tv-ticker-tag symbol="NASDAQ:META" hide-background></tv-ticker-tag> | Meta Platforms, Inc. | <span class="rating-hold">HOLD</span> | 2026-09-29 | [:material-file-document: Read](META.md) |
+| <tv-ticker-tag symbol="NYSE:RDDT" hide-background></tv-ticker-tag> | Reddit, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](RDDT.md) |
 
 ---
 
@@ -99,6 +104,36 @@ Mid-market enterprise SaaS vendor with Employee Experience (Freshservice) becomi
 
 ---
 
+**AMZN — Amazon.com, Inc. · <span class="rating-buy">BUY</span>**
+
+Amazon runs the world's largest cloud platform alongside its retail, logistics, and advertising businesses — AWS is only 21% of sales but delivered 61% of Q2 2026 segment operating income. Q2 2026 net sales rose 20% to \$200.6B with AWS accelerating to 36.7% growth (\$42.2B, 39.4% margin) behind a \$496B contracted backlog, while FY2025 revenue was \$716.9B on \$7.17 diluted EPS. The thesis is that ~\$220B of 2026 capex is building capacity that is already sold, and that free cash flow inflects hard once the depreciation is absorbed. The primary risk is the timing of that inflection: trailing free cash flow is already an outflow of \$7.6B and consensus FY2027 EPS sits below FY2026, so a single quarter of AWS deceleration with capex still climbing would reprice the stock.
+
+**Bull:** \$340–\$380 · **Base:** \$285–\$315 · **Bear:** \$185–\$215
+
+[:material-arrow-right: Full Deep Dive](AMZN.md)
+
+---
+
+**GOOGL — Alphabet Inc. · <span class="rating-buy">BUY</span>**
+
+Alphabet is the only company that owns every layer of the AI stack it sells — Gemini models, custom TPU silicon, a hyperscale cloud, and the Search and YouTube attention platforms that still supply the bulk of a \$445.9B TTM revenue base growing 20%. Q2 2026 made the case: revenue up 24% to \$119.8B, operating margin expanding to 34.0%, and Google Cloud up 82% to \$24.8B with \$8.8B of segment operating income and a \$514B backlog, over half of which management expects to convert within 24 months. The thesis is that the market is expensing rather than capitalising the buildout — at ~25x forward earnings GOOGL is the cheapest mega-cap AI platform, ~16% off its high, with newly disclosed external TPU sales to Anthropic and Meta as an uncapitalised second silicon franchise. The primary risk is the price of that buildout: FY2026 capex guidance of \$195–205B pushed quarterly free cash flow to -\$5.9B, the first negative quarter since the 2004 IPO, and total debt nearly doubled to \$120.8B in six months to fund it.
+
+**Bull:** \$460–\$520 · **Base:** \$390–\$430 · **Bear:** \$240–\$280
+
+[:material-arrow-right: Full Deep Dive](GOOGL.md)
+
+---
+
+**META — Meta Platforms, Inc. · <span class="rating-hold">HOLD</span>**
+
+Meta monetises the largest consumer network on earth — 3.60 billion daily users across Facebook, Instagram, WhatsApp and Messenger — with advertising at 98 percent of revenue, and is now extending into enterprise AI via the Meta Enterprise Platform launched on September 28, 2026 under ex-MongoDB CEO CJ Desai. Q2 2026 revenue grew 28 percent to \$60.80 billion on AI-driven ad ranking (impressions +14 percent, price per ad +12 percent, Advantage+ at a \$75 billion run rate), but diluted EPS fell 13 percent to \$6.18 and free cash flow collapsed 91 percent to \$784 million as capex hit \$31.1 billion against 2026 guidance of \$130-145 billion. The September 8 launch of the Muse personal agent — 3.4 million downloads and the #1 US App Store spot — drove a roughly 30 percent monthly rally to a \$779.82 high and a wave of target hikes toward \$900. The primary risk is that the entire re-rating rests on that one product: OpenAI's competing always-on agent knocked 4.2 percent off the shares on September 28, and with buybacks suspended, \$83.7 billion of debt and \$2.40 billion of Q2 legal charges tied to youth-safety litigation, the capex bill arrives whether or not Muse holds its lead.
+
+**Bull:** \$900–\$1,000 · **Base:** \$760–\$820 · **Bear:** \$520–\$580
+
+[:material-arrow-right: Full Deep Dive](META.md)
+
+---
+
 ### Cloud Storage / Data Infrastructure
 
 **BLZE — Backblaze, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
@@ -143,6 +178,16 @@ The purest large-cap play on enterprise-AI deployment, pairing a decades-deep go
 
 ---
 
+**RDDT — Reddit, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Reddit monetises the internet's largest archive of authentic human discussion — 130.3 million daily active uniques and 26+ billion posts — almost entirely through advertising, with a small AI data-licensing line that carries outsized strategic weight. Q2 2026 revenue of \$805M grew 61% (the eighth straight quarter above 60%) at a 91.3% gross margin, 31% net margin, \$1.25 diluted EPS and \$261M of free cash flow, against \$2.79B of cash and securities and no debt. The thesis is that monetisation, not users, is now the engine — global ARPU rose 36% and US ARPU 51% — with 77.1 million international uniques at \$2.26 ARPU versus \$11.85 in the US as the long-duration reservoir, plus Google and OpenAI licensing renewals as free optionality at ~21x FY2027 consensus EPS. The primary risk is distribution: 77.7 million of those 130.3 million daily uniques are logged out and arrive largely via Google, US logged-in uniques grew just 1%, and management's warning that search referrals were choppy as Google pivots to AI answers is what took the stock down 41% in a year despite beating on every line.
+
+**Bull:** \$230–\$270 · **Base:** \$165–\$195 · **Bear:** \$95–\$120
+
+[:material-arrow-right: Full Deep Dive](RDDT.md)
+
+---
+
 ### Game Engines & Marketing
 
 **U — Unity Software Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
@@ -152,6 +197,16 @@ Leading 3D content creation platform with ~70% mobile game market share, now in 
 **Bull:** \$42–\$48 · **Base:** \$34–\$38 · **Bear:** \$18–\$22
 
 [:material-arrow-right: Full Deep Dive](U.md)
+
+---
+
+**APP — AppLovin Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+AppLovin is a pure-play AI advertising platform whose AXON bidding engine and MAX mediation stack match app and e-commerce advertisers to mobile inventory, earning the spread. FY2025 revenue was \$5.48B (+70%) with \$3.95B of free cash flow, and Q2 2026 delivered \$1.92B of revenue (+53%), \$3.76 diluted EPS and an 84% adjusted EBITDA margin. The stock has nonetheless fallen 57% in a year to \$308.24 after a narrow ~\$16M Q2 revenue miss ended a long beat-and-raise streak, leaving it at roughly 19x estimated FY2026 earnings — anomalously cheap for the growth and margin profile. The primary risk is that the discount is deserved: Edgewater channel checks suggest MAX has hit a functional supply ceiling and competition is compressing net revenue spreads, and a September 2026 securities class action adds an unresolved overhang ahead of the November Q3 print.
+
+**Bull:** \$520–\$600 · **Base:** \$390–\$450 · **Bear:** \$210–\$260
+
+[:material-arrow-right: Full Deep Dive](APP.md)
 
 ---
 

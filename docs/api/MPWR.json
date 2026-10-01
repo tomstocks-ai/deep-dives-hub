@@ -1,0 +1,93 @@
+{
+  "ticker": "MPWR",
+  "company": "Monolithic Power Systems, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Analog / Power",
+  "industry": "Semiconductors — Analog and Power Management",
+  "exchange": "NASDAQ",
+  "price": 1351.2,
+  "price_date": "2026-09-28",
+  "market_cap": "$66.4B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Monolithic Power Systems supplies the analog and power-management silicon and modules that deliver electricity inside AI servers, GPUs, memory, optical modules, switches and cars, and its growth is accelerating rather than decelerating: revenue rose 26.4% in FY2025 to $2.79B, then 47.6% year over year in Q2 2026 to a record $980.6M, with Q3 2026 guided to ~$1.15B, roughly 16% above consensus at the time. The thesis is content per socket as MPS shifts from selling chips to selling encapsulated power modules, backed by $1.39B net cash, 31.7% ROIC and a newly announced GlobalFoundries 300mm Singapore capacity agreement that addresses the supply ceiling from early 2027. The offset is price: 82x trailing GAAP earnings, 42x forward and 65x EV/EBITDA against a semiconductor peer median near 17x EV/EBITDA, so an AI digestion cycle would compress the multiple faster than earnings could offset. Both published Street consensus targets ($1,731 and $1,840) sit 28-36% above spot.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$2.79B",
+    "revenue_growth": "26.4%",
+    "gross_margin": "55.2%",
+    "net_income": "$615.9M",
+    "eps_diluted": "$12.75",
+    "cash": "$1.26B",
+    "fcf": "$666M"
+  },
+  "bull_case": {
+    "target": "$2,150–$2,500",
+    "drivers": [
+      "AI rack power density keeps climbing and Enterprise Data holds the raised full-year pace set in Q2 2026 (segment up 45% sequentially)",
+      "GlobalFoundries 300mm Singapore capacity lands on schedule in early 2027, lifting the supply ceiling management has extended significantly beyond $6B",
+      "Module and full-solution mix keeps raising content per socket and non-GAAP operating margin above the 37.5% printed in Q2 2026",
+      "800V AC-to-DC data center power and DDR5 memory-interface controllers convert from sampling to revenue in 2027, opening new addressable content",
+      "Automotive ramp from 1,500-plus new sockets across zonal, 48V, battery management and LiDAR adds a second growth engine independent of AI capex",
+      "FY2027 non-GAAP EPS of $40-45 (author estimate) capitalised at 50-58x"
+    ]
+  },
+  "base_case": {
+    "target": "$1,700–$1,900",
+    "assumptions": "Revenue grows ~45% in 2026 and ~25% in 2027, gross margin holds near 55% by management choice, non-GAAP operating margin settles at 37-38%, and the forward multiple compresses modestly to 50-55x. Band straddles the two published consensus targets: $1,839.80 average from 17 analysts polled by S&P Global and $1,731.42 from the 15 brokerages tracked by MarketBeat."
+  },
+  "bear_case": {
+    "target": "$850–$1,050",
+    "risks": [
+      "AI digestion cycle arrives before the Singapore capacity ships, leaving committed capex and rising inventory against plateauing Enterprise Data demand",
+      "Multiple resets from 42x forward toward 30x on flat-to-down earnings — at 82x trailing GAAP and 113x trailing FCF the valuation carries no support",
+      "China manufacturing concentration exposed to export controls, tariffs or retaliatory measures before the multi-partner supply strategy matures",
+      "Back-end module assembly and test capacity fails to scale with demand, by management's own description the harder half of the problem",
+      "Inventory turnover of 2.51x and 140 days of inventory unwind slowly in a demand air pocket",
+      "Lower bound approaches the 52-week low of $833.18; the lowest published Street target of $1,200 sits above this range"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Sep 30, 2026",
+      "iso_date": "2026-09-30",
+      "event": "Ex-dividend date for the Q3 2026 dividend of $2.00 per share, declared 10 September 2026 — eighth consecutive year of dividend growth"
+    },
+    {
+      "date": "Oct 29, 2026",
+      "iso_date": "2026-10-29",
+      "event": "Q3 2026 results after market close — guided to ~$1.15B revenue at the midpoint versus $986.8M consensus at the time of guidance, roughly 56% year-over-year growth"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Automotive production ramp from more than 1,500 new design-win sockets across zonal architectures, 48V systems, battery management and LiDAR"
+    },
+    {
+      "date": "Feb 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and full-year 2026 results with first framing of FY2027 — the test of whether ~45% 2026 growth extends or normalises"
+    },
+    {
+      "date": "Early 2027",
+      "iso_date": "2027-03",
+      "event": "GlobalFoundries 300mm Singapore capacity comes online under the 9 September 2026 manufacturing partnership, deploying MPS proprietary process technology for automotive power, industrial robotics and AI smart power stages (financial terms undisclosed)"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "First revenue from 800V AC-to-DC data center power solutions and DDR5 memory-interface controllers, both currently sampling"
+    }
+  ],
+  "key_risks": [
+    "Valuation: 82x trailing GAAP earnings, 42x forward, 65x EV/EBITDA and 113x trailing free cash flow against a semiconductor peer median near 17x EV/EBITDA — a single in-line quarter can cost 20%",
+    "AI capex cyclicality: Enterprise Data and Communications drive the acceleration and both ride hyperscaler spending, so a 2027 digestion cycle would hit after capex is committed",
+    "China manufacturing concentration plus tariff, export-control and cross-strait risk; the GlobalFoundries Singapore diversification does not help until 2027",
+    "Back-end execution: module assembly and test capacity is harder to scale than wafers by management's own account, the most plausible path to a demand-rich year disappointing",
+    "Working capital: 140 days of inventory and 2.51x turnover, with trailing free cash flow down 17% to $585.5M as capex and working capital absorb cash",
+    "Competition from Texas Instruments, Analog Devices, Infineon, Renesas, onsemi, Vicor and Navitas in AI power delivery, vertical power and 800V conversion",
+    "Governance optics: roughly $723M of insider selling over the trailing year with no reported buying against 3.53% insider ownership, plus an explicit management decision to cap gross margin near 55%",
+    "Beta of 1.66 and a 52-week range of $833.18-$1,714.09 — a 106% peak-to-trough spread demands position sizing discipline"
+  ]
+}

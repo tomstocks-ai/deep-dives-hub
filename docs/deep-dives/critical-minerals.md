@@ -17,13 +17,16 @@ title: Critical Minerals & Strategic Materials
 | <tv-ticker-tag symbol="NYSE:MP" hide-background></tv-ticker-tag> | MP Materials Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](MP.md) |
 | <tv-ticker-tag symbol="NYSE:FCX" hide-background></tv-ticker-tag> | Freeport-McMoRan Inc. | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](FCX.md) |
 | <tv-ticker-tag symbol="NYSE:TECK" hide-background></tv-ticker-tag> | Teck Resources Limited | <span class="rating-hold">HOLD</span> | 2026-07-28 | [:material-file-document: Read](TECK.md) |
-| <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](COPX.md) |
-| <tv-ticker-tag symbol="AMEX:URA" hide-background></tv-ticker-tag> | Global X Uranium ETF | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](URA.md) |
-| <tv-ticker-tag symbol="NYSE:AEM" hide-background></tv-ticker-tag> | Agnico Eagle Mines Limited | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](AEM.md) |
-| <tv-ticker-tag symbol="NYSE:FNV" hide-background></tv-ticker-tag> | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | 2026-06-08 | [:material-file-document: Read](FNV.md) |
+| <tv-ticker-tag symbol="AMEX:COPX" hide-background></tv-ticker-tag> | Global X Copper Miners ETF | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](COPX.md) |
+| <tv-ticker-tag symbol="AMEX:URA" hide-background></tv-ticker-tag> | Global X Uranium ETF | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](URA.md) |
+| <tv-ticker-tag symbol="NYSE:AEM" hide-background></tv-ticker-tag> | Agnico Eagle Mines Limited | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](AEM.md) |
+| <tv-ticker-tag symbol="NYSE:FNV" hide-background></tv-ticker-tag> | Franco-Nevada Corporation | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](FNV.md) |
 | <tv-ticker-tag symbol="NASDAQ:PPTA" hide-background></tv-ticker-tag> | Perpetua Resources Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](PPTA.md) |
-| <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](GLD.md) |
-| <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-buy">BUY</span> | 2026-06-07 | [:material-file-document: Read](SLV.md) |
+| <tv-ticker-tag symbol="AMEX:GLD" hide-background></tv-ticker-tag> | SPDR Gold Shares | <span class="rating-hold">HOLD</span> | 2026-09-29 | [:material-file-document: Read](GLD.md) |
+| <tv-ticker-tag symbol="AMEX:SLV" hide-background></tv-ticker-tag> | iShares Silver Trust | <span class="rating-hold">HOLD</span> | 2026-09-29 | [:material-file-document: Read](SLV.md) |
+| <tv-ticker-tag symbol="NYSE:CCJ" hide-background></tv-ticker-tag> | Cameco Corporation | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](CCJ.md) |
+| <tv-ticker-tag symbol="NYSE:NEM" hide-background></tv-ticker-tag> | Newmont Corporation | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](NEM.md) |
+| <tv-ticker-tag symbol="NASDAQ:USAR" hide-background></tv-ticker-tag> | USA Rare Earth, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](USAR.md) |
 | <tv-ticker-tag symbol="NASDAQ:NVX" hide-background></tv-ticker-tag> | NOVONIX Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-01 | [:material-file-document: Read](NVX.md) |
 
 ---
@@ -72,16 +75,36 @@ MP Materials owns Mountain Pass, the only integrated rare earth mine and process
 
 ---
 
+**USAR — USA Rare Earth, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+USA Rare Earth now owns the most complete non-China rare earth chain in the West: the Pela Ema heavy rare earth mine in Brazil (Serra Verde, closed 3 September 2026 for \$300M cash plus ~126.8M shares), LCM's metal and alloy plants in the UK and France, sintered NdFeB magnet lines in Stillwater, Oklahoma, a swarf-recycling and separation facility in Colorado, and the wholly owned Round Top deposit in Texas — backed by a January 2026 \$1.5B PIPE, up to \$1.6B of CHIPS Act grants and loans, and a \$1.55B U.S.-government-backed SPV that buys 100% of Pela Ema Phase 1 output at escalating price floors. None of it is commercial yet: trailing revenue is only ~\$13.2M at a gross loss, Q2 2026 revenue of \$5.8M missed consensus by ~25% with an adjusted loss of \$0.15 per share, and H1 2026 burned \$183.7M of free cash flow against \$1.53B of cash (~\$1.39B pro forma after the acquisition). The stock at \$14.41 sits 67% below its \$43.98 high versus an analyst consensus near \$33–36, which is the opportunity. The primary risk is that the thesis is geopolitical as much as operational — a durable U.S.-China rare earth detente would compress the non-China price premium long before Serra Verde declares commercial operations in 2027 or Round Top produces in late 2028, and the \$1.25B shelf plus a 126.48M-share resale overhang means dilution is still live.
+
+**Bull:** \$28–38 · **Base:** \$17–22 · **Bear:** \$8–11
+
+[:material-arrow-right: Full Deep Dive](USAR.md)
+
+---
+
 
 ### Uranium & Nuclear Fuel
 
 **URA — Global X Uranium ETF · <span class="rating-buy">BUY</span>**
 
-Exposure to global uranium miners (Cameco, Kazatomprom, NexGen, Denison). Nuclear power is experiencing a global renaissance — China building 25+ reactors, Japan restarting 14, U.S. SMR programs advancing. Uranium demand (~204M lbs) already exceeds mine supply (~173M lbs), creating a widening deficit. Citi base case \$100/lb by end of 2026.
+URA is the largest and most liquid uranium and nuclear-fuel-cycle ETF, with ~\$5.74B of net assets across 62 holdings at a 0.69% expense ratio, led by Cameco at 21.81%, Sprott Physical Uranium Trust at 6.76% and NexGen at 5.89%. A clear dislocation has opened up: the fund trades 36% below its 52-week high of \$62.28 and is down ~17.6% over twelve months, while spot U3O8 sits near \$89.50/lb (up ~7% year-on-year) and the UxC long-term contract price hit an all-time high of ~\$96/lb in August 2026, above the 2007 cycle peak. The structural case is intact — US utility uranium contract coverage falls from roughly 60% in 2030 to just 9% by 2033, new mines take 15 to 20 years, and the NNSA is assessing purchases of ~4M lbs/yr of US-origin material, roughly all current domestic production. The primary risk is composition rather than commodity: about a tenth of the fund is pre-revenue reactor developers (Oklo 5.75%, NuScale 2.92%) and the ~35x aggregate portfolio P/E can keep compressing independently of the uranium price, with URA still below both its 50-day and 200-day moving averages.
 
-**Bull:** \$70–85 · **Base:** \$55–65 · **Bear:** \$30–38
+**Bull:** \$58–70 · **Base:** \$46–54 · **Bear:** \$30–36
 
 [:material-arrow-right: Full Deep Dive](URA.md)
+
+---
+
+**CCJ — Cameco Corporation · <span class="rating-buy">BUY</span>**
+
+Cameco is the largest Western-listed uranium producer and the only company spanning the full non-Russian fuel cycle at scale — tier-one Saskatchewan mines, the world's largest commercial uranium refinery, Canada's only UF6 conversion plant, and 49% of Westinghouse. FY2025 delivered C\$3.48B revenue (+11.0%), 36.3% gross margin, C\$590M net income and C\$1.08B free cash flow, but 2026 has gone backwards on purpose: deliberately lower planned deliveries and a Westinghouse comparison lapping a one-off Dukovany project contribution drove Q2 adjusted EPS of C\$0.18 against a C\$0.38 consensus. The thesis is that a record \$96.50/lb long-term uranium price and a 28M lb per year contracted book have not yet reached the income statement, while the market pays almost nothing for a Westinghouse stake that Bloomberg reports is targeting a US listing above \$50B. The primary risk is that same stake: published marks span \$15B to \$50B, a registration statement could land in October 2026, and at 61x forward earnings there is no margin of safety if it prices at the low end.
+
+**Bull:** \$150–\$180 · **Base:** \$105–\$125 · **Bear:** \$62–\$75
+
+[:material-arrow-right: Full Deep Dive](CCJ.md)
 
 ---
 
@@ -109,9 +132,9 @@ Pure-play "green metals" copper/zinc producer after the 2024 steelmaking-coal di
 
 **COPX — Global X Copper Miners ETF · <span class="rating-buy">BUY</span>**
 
-Exposure to global copper miners (Freeport-McMoRan, Southern Copper, Antofagasta). Copper faces a structural supply deficit as electrification demand — EVs, renewables, AI data centers, grid modernization — outpaces constrained mine supply. S&P Global projects 19M tonne shortfall by 2050. Goldman Sachs sees deficit emerging in 2026.
+COPX is the largest pure-play copper equity ETF, holding 40 global producers (Hudbay, Teck, First Quantum, Southern Copper, Freeport, BHP) via the Solactive Global Copper Miners Total Return Index, with ~\$7.26B in net assets and a 0.65% expense ratio. The setup is a record metal price paired with discounted equities: LME copper hit an all-time ~\$14,875/tonne on 2026-09-10 and is up ~50% year on year while mined supply may fall for the first time since 2017 (Escondida suspended after a fatality, Grasberg still at reduced capacity), yet COPX trades ~15% below its \$99.99 high because the White House again deferred its Section 232 refined-copper tariff decision — miners fell 9.1% that session against copper's 1.8%. The portfolio's 19.8x 2026E P/E compresses further on 2027 estimates if Deutsche Bank's \$20,900/tonne 2027 average is close to right. The primary risk is unavoidable: this is a 2.32-beta cyclical bought at an all-time-high input price, and a tariff rejection that releases US-stockpiled metal back into the market would hit earnings and the multiple at the same time.
 
-**Bull:** \$110–125 · **Base:** \$90–100 · **Bear:** \$60–70
+**Bull:** \$125–145 · **Base:** \$100–115 · **Bear:** \$62–72
 
 [:material-arrow-right: Full Deep Dive](COPX.md)
 
@@ -121,9 +144,9 @@ Exposure to global copper miners (Freeport-McMoRan, Southern Copper, Antofagasta
 
 **AEM — Agnico Eagle Mines Limited · <span class="rating-buy">BUY</span>**
 
-World's third-largest gold producer with Tier-1 jurisdictional exposure across Canada, Australia, Finland, and Mexico. Q1 2026 delivered record operating margins: net income of \$1.7B (+113% YoY) on ~825k oz production. AISC of \$1,483/oz leaves massive margin cushion. Balance sheet is pristine (~\$2.9B cash, net debt/EBITDA <0.5x). Stock corrected 36% from \$255 highs — approaching oversold.
+Agnico Eagle is the world's second-largest gold producer and Canada's largest mining company, with roughly 70% of output from Canada and Australia across eleven mines in four countries. Q2 2026 delivered record free cash flow of \$1,335M and adjusted EPS of \$3.07 on a realized gold price of \$4,483/oz, with AISC of \$1,459/oz, and the balance sheet carries \$3.46B of cash against just \$197M of debt — a net cash position that earned a Fitch upgrade to A- in April 2026. The thesis is quality at a discount: the stock trades ~28% below its 52-week high, funding a pipeline (Hope Bay, Odyssey Shaft #1, Detour Lake underground, Upper Beaver, Ikkari) aimed at exceeding 4.0 million ounces a year by the early 2030s. The primary risk is gold itself, which has fallen from \$4,696/oz in late August 2026 to roughly \$4,150–\$4,300/oz as 30-year Treasury yields pushed above 5.5%, compounded by the July 2026 Barnat pit wall failure that cuts up to 150koz of production in each of 2027 and 2028.
 
-**Bull:** \$225–\$245 · **Base:** \$185–\$205 · **Bear:** \$130–\$150
+**Bull:** \$245–\$265 · **Base:** \$200–\$220 · **Bear:** \$135–\$155
 
 [:material-arrow-right: Full Deep Dive](AEM.md)
 
@@ -131,9 +154,9 @@ World's third-largest gold producer with Tier-1 jurisdictional exposure across C
 
 **FNV — Franco-Nevada Corporation · <span class="rating-buy">BUY</span>**
 
-World's largest gold-focused royalty and streaming company. Asset-light model — no mines, no debt, no operational risk. Record Q1 2026: \$650.7M revenue (+77% YoY), \$591.9M adjusted EBITDA (+84%). 400+ assets across 114 properties. Zero debt balance sheet with ~\$2B cash. Dividend raised 16% — 19 consecutive years of increases. Best-in-class gold exposure without operational risk.
+Franco-Nevada is the largest gold-focused royalty and streaming company in the world, and it is having the best stretch of financial results in its history. FY2025 revenue rose 64% to \$1.82B and adjusted net income rose 74% to \$1.08B (\$5.58/share); H1 2026 then set fresh half-year records with \$1,231.6M of revenue (+67%), \$1,121.6M of adjusted EBITDA at a 91.1% margin and \$807.5M of adjusted net income (\$4.19/share). The asset-light model carries no debt and \$4.3B of available capital, and the company is tracking toward the upper half of 2026 guidance of 510,000–570,000 gold equivalent ounces. The offset is valuation and commodity beta: at \$245.81 the stock trades at roughly 32x trailing earnings, and gold has corrected to around \$4,300/oz from 2026 record highs — below the \$4,500/oz assumption embedded in company guidance — while Cobre Panama remains unresolved with the arbitration suspended pending a ministerial-commission decision on restart.
 
-**Bull:** \$285–\$300 · **Base:** \$235–\$250 · **Bear:** \$165–\$180
+**Bull:** \$310–\$340 · **Base:** \$265–\$285 · **Bear:** \$185–\$205
 
 [:material-arrow-right: Full Deep Dive](FNV.md)
 
@@ -149,13 +172,23 @@ Development-stage miner advancing the Stibnite Gold Project in Idaho — one of 
 
 ---
 
-**GLD — SPDR Gold Shares · <span class="rating-buy">BUY</span>**
+**GLD — SPDR Gold Shares · <span class="rating-hold">HOLD</span>**
 
-World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is in a structural bull market driven by record central bank buying (>1,000 tonnes/year), fiscal debasement concerns, and geopolitical fragmentation. J.P. Morgan targets \$5,055 by Q4 2026. Fed rate cuts reduce the opportunity cost of holding non-yielding gold.
+SPDR Gold Shares is the world's largest physically backed gold ETF — \$141.0B of AUM, ~34.0M ounces (~1,059 tonnes) of London-vaulted bullion, and a 0.40% expense ratio that implies roughly \$564M of annual fee drag. The structural bid has never been stronger: central banks bought a record 289 tonnes in Q2 2026 and global gold-ETF holdings passed 4,250 tonnes for the first time ever, while every major bank's forecast still sits above the \$4,145/oz spot price. The cyclical driver has flipped, though — the Fed hiked 25bp to 3.75-4.00% on 2026-09-16, its first increase since 2023, with better-than-even odds of another in October and the 30-year Treasury yield at a 22-year high, leaving gold ~26% below its late-January record and GLD below a declining 50-day and 200-day average. The primary risk is that a hiking Fed and a stronger dollar extend the drawdown; the secondary one is fund-specific, since GLDM at 0.10% and IAUM at 0.09% deliver the identical exposure and are steadily taking GLD's share.
 
-**Bull:** \$5,000–5,500/oz · **Base:** \$4,000–4,500/oz · **Bear:** \$3,200–3,500/oz
+**Bull:** \$495–550 · **Base:** \$420–460 · **Bear:** \$320–360
 
 [:material-arrow-right: Full Deep Dive](GLD.md)
+
+---
+
+**NEM — Newmont Corporation · <span class="rating-buy">BUY</span>**
+
+Newmont is the world's largest gold producer and the only gold miner in the S&P 500, guiding 5.26 million attributable ounces for 2026 at by-product AISC of \$1,680/oz from a 13-mine core portfolio plus its 38.5% stake in Nevada Gold Mines. H1 2026 sales of \$13.4B (+30% YoY) produced \$5.46B of net income and record free cash flow of \$5.35B at a realised gold price of \$4,661/oz, funding a \$1.04 annualised dividend and \$3.5B of buybacks that have retired ~9% of the share count since early 2024. At \$116.05 the stock trades on ~12.8x FY2026 consensus EPS of ~\$9.09 and ~7x trailing adjusted EBITDA with \$3.4B of net cash — cheap for that cash generation, and the reason is macro rather than operational. Gold sits ~26% below its January 2026 peak of ~\$5,608/oz with the Fed hiking again and the 30-year Treasury at 5.53%, and every \$100/oz move swings roughly \$505M of pre-tax revenue.
+
+**Bull:** \$150–\$170 · **Base:** \$125–\$140 · **Bear:** \$85–\$100
+
+[:material-arrow-right: Full Deep Dive](NEM.md)
 
 ---
 
@@ -166,26 +199,26 @@ World's largest physically-backed gold ETF holding ~850 tonnes of gold. Gold is 
 |--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:NB" hide-background></tv-ticker-tag> | NioCorp Developments Ltd. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-14 | [:material-file-document: Read](NB.md) |
 
-| <tv-ticker-tag symbol="NASDAQ:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](PAAS.md) |
-| <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-25 | [:material-file-document: Read](AG.md) |
+| <tv-ticker-tag symbol="NYSE:PAAS" hide-background></tv-ticker-tag> | Pan American Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](PAAS.md) |
+| <tv-ticker-tag symbol="NYSE:AG" hide-background></tv-ticker-tag> | First Majestic Silver Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](AG.md) |
 
 ---
 
 **AG — First Majestic Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-World's largest primary silver producer with three high-grade mines in Mexico (San Dimas, Santa Elena, La Guitarra). Q1 2026 was transformational: revenue surged 95% YoY to \$476.7M, net income hit \$128.1M, and profit margins expanded to 27% from 0.9%. Silver production of 3.5M oz represented 26% of 2026 guidance. Recent sale of Del Toro Mine (up to \$60M) streamlines portfolio and strengthens balance sheet. Pure-play silver leverage with low AISC of \$14–16/oz and significant gold by-product credits. Silver is a critical mineral with structural supply deficit driven by solar, EV, and AI demand.
+First Majestic is the largest primary silver producer listed on a major U.S. exchange, running four underground mines in Mexico (Los Gatos, San Dimas, Santa Elena, La Encantada) plus its own Las Vegas bullion mint, with 63% of 2026 revenue from silver. The 2026 price spike rebuilt the balance sheet: Q2 2026 revenue rose 57% YoY to \$415.5M, free cash flow hit \$194.6M, treasury reached a record \$1.25B against 0.08 debt-to-equity, and FY2026 guidance was raised twice to 14.6-15.5M attributable silver ounces. At \$17.95 the stock sits 44% below its January high because silver retraced from a record \$121.62/oz to ~\$61/oz, leaving a debt-free producer at ~24x trailing earnings with the Jerritt Canyon gold restart and Santa Elena expansion funded. The risk is undiluted commodity beta — AISC inflation to \$25.68/AgEq oz is eating the margin cushion, and a slide back to \$35-40/oz silver takes the shares with it.
 
-**Bull:** \$24–28 · **Base:** \$18–22 · **Bear:** \$10–14
+**Bull:** \$28–34 · **Base:** \$21–25 · **Bear:** \$11–14
 
 [:material-arrow-right: Full Deep Dive](AG.md)
 
 ---
 
-**SLV — iShares Silver Trust · <span class="rating-buy">BUY</span>**
+**SLV — iShares Silver Trust · <span class="rating-hold">HOLD</span>**
 
-Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. Silver is in a 5+ year structural supply deficit with industrial demand (solar, EVs, AI chips) growing faster than mine supply. Gold/silver ratio near 80:1 is historically elevated — mean reversion to 55:1 implies 40–60% upside even if gold is flat.
+SLV is the largest physically-backed silver ETP — 493.98M ounces (15,364.6 tonnes) and ~\$30.3B of net assets as of 2026-09-28, or roughly 0.9034 oz of silver per share less a 0.50% annual sponsor fee. The physical case has strengthened, with the Silver Institute forecasting a sixth consecutive deficit of 46.3M oz in 2026 on top of 762.1M oz of cumulative above-ground drawdown since 2021, yet spot silver has halved from its 29 January 2026 record of \$121.62/oz to about \$61 because real yields, not scarcity, are setting the paper price. With the 10-year TIPS yield near 2.55%, the Fed hiking for the first time since 2023, and SLV below both its 50-day (\$57.55) and 200-day (\$65.95) averages, we downgrade to HOLD: the asymmetry is attractive but the rate cycle gates it. Primary risk is that real yields extend above 2.6% and the rebuilt speculative long base (25.2% of COMEX open interest, thin gross shorts) capitulates toward the \$41.66 52-week low.
 
-**Bull:** \$75–85/oz · **Base:** \$50–60/oz · **Bear:** \$32–38/oz
+**Bull:** \$72–81 · **Base:** \$60–67 · **Bear:** \$41–47
 
 [:material-arrow-right: Full Deep Dive](SLV.md)
 
@@ -193,9 +226,9 @@ Largest physically-backed silver ETF holding ~13,500 tonnes of silver bullion. S
 
 **PAAS — Pan American Silver Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-World's largest primary silver producer with 22.8M attributable oz in FY2025 (exceeded guidance). Juanicipio JV (56% with Fresnillo) is a world-class high-grade deposit that transformed the cost curve, lowering silver-segment AISC to \$14.50–\$16/oz. Record Q4 2025: \$1.18B revenue (+7.3% above consensus) and \$1.11 adjusted EPS (+30.6%). Escobal (Guatemala) remains suspended but is a transformative option if permits resolve. Silver is a critical mineral with structural supply deficit driven by solar, EV, and AI demand.
+Pan American Silver is the largest primary silver producer in the Americas and a mid-tier gold producer across seven countries, and since acquiring MAG Silver in September 2025 it owns 44% of the exceptionally high-grade Juanicipio mine in Mexico — the main reason H1 2026 Silver Segment AISC came in at \$12.64/oz against full-year guidance of \$15.75–\$18.25/oz. Q2 2026 revenue rose 38.4% to \$1.12B with \$344M of attributable free cash flow, H1 free cash flow reached \$832M, and the balance sheet holds \$1.8B of cash against \$841M of debt while management returns up to \$1B to shareholders in 2026 through a \$0.184 quarterly dividend and buybacks. At \$45.77 the stock trades at ~12x the \$3.81 FY2026 consensus and ~9x the \$5.00 FY2027 consensus, well below the ~\$67.71 average analyst target, after silver fell ~49% from its \$121.62/oz January 2026 peak to ~\$62/oz. The primary risks are that silver keeps mean-reverting and that gold — the larger revenue line — stays at the low end of guidance on Jacobina seismicity mitigation and weaker grade continuity at El Peñón.
 
-**Bull:** \$65–75 · **Base:** \$52–58 · **Bear:** \$32–38
+**Bull:** \$72–85 · **Base:** \$55–65 · **Bear:** \$30–38
 
 [:material-arrow-right: Full Deep Dive](PAAS.md)
 

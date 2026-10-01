@@ -1,230 +1,243 @@
 ---
 title: "AG — First Majestic Silver Corp."
+hide:
+  - navigation
 ---
-
-<script type="module" src="https://widgets.tradingview-widget.com/w/en/tv-ticker-tag.js"></script>
 
 [← Back to Summary](../index.md)
 
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NYSE-AG/" rel="noopener nofollow" target="_blank"><span class="blue-text">AG stock chart</span></a><span class="trademark"> by TradingView</span></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+    "allow_symbol_change": true,
+    "calendar": false,
+    "details": false,
+    "hide_side_toolbar": true,
+    "hide_top_toolbar": false,
+    "hide_legend": false,
+    "hide_volume": false,
+    "hotlist": false,
+    "interval": "D",
+    "locale": "en",
+    "save_image": true,
+    "style": "1",
+    "symbol": "NYSE:AG",
+    "theme": "dark",
+    "timezone": "Etc/UTC",
+    "backgroundColor": "#0F0F0F",
+    "gridColor": "rgba(242, 242, 242, 0.06)",
+    "watchlist": [],
+    "withdateranges": false,
+    "compareSymbols": [],
+    "studies": [
+      "STD;RSI",
+      "STD;EMA"
+    ],
+    "autosize": true,
+    "height": 500
+  }
+  </script>
+</div>
+
 # AG — First Majestic Silver Corp.
+
+First Majestic Silver is the largest primary silver producer listed on a major U.S. exchange, running four underground mines in Mexico plus the idled Jerritt Canyon gold mine in Nevada and its own bullion mint in Las Vegas. The 2026 silver spike transformed the company's finances — Q2 2026 revenue rose 57% YoY to \$415.5M, free cash flow hit \$194.6M, and treasury reached a record \$1.25B — but the stock has given back roughly 44% from its January high as silver retraced from a record \$121.62/oz to ~\$61/oz. At \$17.95 the setup is a cash-rich, dividend-paying silver producer with raised guidance trading on ~24x trailing earnings, where the entire return depends on where silver settles. We rate AG **SPEC. BUY** with a base case of \$21–25.
 
 | | |
 |:---|:---|
 | **Exchange** | NYSE |
 | **Sector** | Materials |
 | **Industry** | Silver Mining |
-| **Market Cap** | ~$8.3B |
+| **Market Cap** | ~\$8.4B |
+| **Price** | \$17.95 (2026-09-28) |
+| **52-Week Range** | \$10.19 – \$32.04 |
+| **50-day / 200-day MA** | \$18.86 / \$20.14 |
+| **1-Year Return** | +44.6% |
+| **Analyst Consensus** | Moderate Buy, ~\$23.83 avg target (MarketBeat, 9 analysts) |
 | **Rating** | <span class="rating-spec-buy">SPEC. BUY</span> |
-| **Price** | \$16.06 |
-| **52-Week Range** | \$5.49 – \$32.43 |
-| **Analyst Consensus** | \$25.25 (MarketBeat) |
-| **Last Updated** | 2026-06-25 |
+| **Last Updated** | 2026-09-29 |
 
 ---
 
-## 1. Executive Summary
+## Company Overview
 
-First Majestic Silver Corp. (NYSE: AG) is the world's largest primary silver producer, operating a portfolio of high-grade silver mines in Mexico. Under CEO Keith Neumeyer, AG has transformed from a single-mine developer into a multi-asset, mid-tier mining company with a clear path to producing 15+ million silver-equivalent ounces annually. The company is a pure-play silver levered to rising silver prices, with significant exposure to gold as a by-product credit that improves all-in sustaining costs (AISC).
+Founded in 2002 and headquartered in Vancouver, First Majestic (NYSE: AG · TSX: AG · FSE: FMV) explores for, develops and produces silver, gold, lead and zinc. Revenue comes from selling metal concentrates, doré bars and refined precious-metal products. Management disclosed at the Mining Forum Americas in late September 2026 that silver accounted for 63% of revenue year-to-date, gold roughly one third, with lead and zinc making up the remainder — the highest silver revenue concentration among large-cap producers, which is the core reason investors own AG rather than a diversified miner.
 
-Q1 2026 was a watershed quarter: revenue surged 95% YoY to \$476.7M, net income hit \$128.1M (vs. essentially break-even in Q1 2025), and profit margins expanded to 27% from 0.9%. Silver production of 3.5M oz represented 26% of the 2026 midpoint guidance, while gold production hit 28% of guidance — both tracking ahead of plan. The recent sale of the Del Toro Silver Mine to Sierra Madre for up to \$60M (closed June 22, 2026) streamlines the portfolio and strengthens the balance sheet.
+### Producing assets
 
-**Our View:** AG offers the cleanest leverage to silver price appreciation among large-cap miners. With silver in a structural supply deficit driven by solar, EV, and AI demand, AG's Mexican assets — San Dimas, Santa Elena, and La Guitarra — provide low-cost, high-margin exposure. The stock has pulled back ~50% from its 52-week high of \$32.43, creating an attractive entry point for patient investors. We rate AG **SPEC. BUY** with a base-case target of \$18–22 and bull-case target of \$24–28.
+| Mine | Location | Ownership | Q2 2026 silver oz | Q2 2026 AISC / AgEq oz | Notes |
+|---|---|---|---|---|---|
+| **Los Gatos** | Chihuahua, Mexico | 70% JV | 1,279,553 | \$16.82 | Acquired 2025; lowest-cost asset; 10-year mine life; 103,000-hectare land package |
+| **San Dimas** | Durango, Mexico | 100% | 1,062,203 | \$22.57 | Historic flagship; on-site hydroelectric dam caps energy costs; 117 km of 2026 drilling |
+| **Santa Elena** | Sonora, Mexico | 100% | 422,571 | \$27.36 | Largest gold contributor (21,468 oz); mill expanding to 3,500 tpd from ~3,100 tpd |
+| **La Encantada** | Coahuila, Mexico | 100% | 1,035,497 | \$26.25 | Smallest mine, nearly pure silver; tracking above initial guidance |
+| **Jerritt Canyon** | Nevada, USA | 100% | — | — | Gold mine suspended March 2023; restart targeted H2 2027; 7.8M oz resource |
 
----
+Consolidated Q2 2026 output was 3,799,823 silver ounces (+3% YoY) and 34,660 gold ounces (+2% YoY), plus base-metal by-products from Los Gatos (16.5M lbs zinc, 9.0M lbs lead, 253k lbs copper on a 70% attributable basis).
 
-## 2. Business Overview & Strategy
+### Business model nuances
 
-### Company Profile
+- **The mint.** First Mint LLC in Las Vegas — the only mining-company-owned and operated mint — takes roughly 10–15% of production and sells bars, coins and medallions direct, capturing 15–20% above spot on those sales. It is small in absolute dollars but a genuine differentiator versus peers who sell everything into concentrate or doré markets.
+- **Dividend tied to revenue, not earnings.** In January 2026 the policy moved from 1% to 2% of net quarterly revenue. This makes the payout a direct, mechanical function of metal prices — the Q2 2026 dividend of \$0.0152/share was nearly 4x the year-ago level, but sequentially lower than Q1's \$0.0171 because revenue fell with prices.
+- **Buybacks.** 1.2M shares were repurchased and cancelled in Q2 2026 for US\$22.7M at an average of CAD\$26.18.
 
-Founded in 2002 and headquartered in Vancouver, Canada, First Majestic Silver is a pure-play silver mining company with all operations located in Mexico — one of the world's most prolific silver-producing jurisdictions. The company operates three producing mines and holds exploration properties with significant upside potential.
+CEO Keith Neumeyer, a founder and one of the most vocal silver bulls in the industry, continues to lead. The portfolio has changed materially since the last version of this note: La Guitarra and Del Toro are gone, and Los Gatos — acquired in 2025 in what management calls its largest-ever transaction — is now the single biggest silver contributor.
 
-### Operating Assets
+## Financial Analysis
 
-| Mine | Location | Primary Metal | Status | Key Characteristics |
-|------|----------|---------------|--------|---------------------|
-| **San Dimas** | Durango, Mexico | Silver / Gold | Producing | Flagship asset; one of highest-grade silver mines globally; 5,000+ tpd capacity |
-| **Santa Elena** | Sonora, Mexico | Silver / Gold | Producing | Low-cost heap-leach operation; strong gold by-product credits |
-| **La Guitarra** | Mexico State, Mexico | Silver / Gold | Producing | Underground mine; high-grade narrow veins |
-| **Del Toro** | Zacatecas, Mexico | Silver | **Sold** | Divested to Sierra Madre (up to \$60M) — closed June 2026 |
+### Q2 2026 (quarter ended June 30, 2026)
 
-### Strategic Priorities
+| Metric | Q2 2026 | Q2 2025 | Change |
+|---|---|---|---|
+| Revenue | \$415.5M | \$264.2M | +57% |
+| Mine operating earnings | \$223.6M | \$49.4M | +353% |
+| EBITDA | \$252.3M | \$119.9M | +110% |
+| Adjusted EBITDA | \$257.1M | \$125.3M | +105% |
+| Net earnings (attributable) | \$109.4M | \$52.5M | +108% |
+| EPS (basic and diluted) | \$0.22 | \$0.11 | +100% |
+| Adjusted EPS | \$0.21 | \$0.04 | +455% |
+| Free cash flow | \$194.6M | \$77.9M | +150% |
+| Operating cash flow (pre-WC, pre-tax) | \$248.3M | \$114.9M | +116% |
+| Capital expenditures | \$65.1M | \$56.0M | +16% |
+| Cash costs / AgEq oz | \$18.06 | \$15.08 | +20% |
+| AISC / AgEq oz | \$25.68 | \$21.02 | +22% |
+| Realized silver price | \$63.98/oz | \$33.68/oz | +90% |
+| Realized gold price | \$4,347/oz | \$3,097/oz | +40% |
+| AISC margin | \$40.27/AgEq oz | \$13.60/AgEq oz | +\$26.67 |
 
-1. **Maximize Silver Production:** AG is the only large-cap miner that derives the majority of revenue from silver, making it the purest silver equity play available.
-2. **Cost Discipline:** Focus on reducing AISC through operational efficiencies, higher gold by-product credits, and grade optimization.
-3. **Balance Sheet Strength:** Reduce debt and improve liquidity. The Del Toro sale removes a non-core asset and provides cash.
-4. **Exploration Growth:** Brownfields exploration at San Dimas and Santa Elena to extend mine life and discover new high-grade zones.
+The quarter shows the two forces that matter for AG. Revenue nearly doubled on price, not volume — production was up only 3% — so essentially the whole gain flowed from a 90% higher realized silver price. And costs are rising: AISC climbed 22% YoY to \$25.68/AgEq oz. Management notes that on Q2 2025's 98:1 AgEq conversion ratio (versus 75:1 in Q2 2026) AISC would have been \$22.72, or 13% lower; the rest came from an 11% stronger Mexican peso, a rockfall on the main ramp at Los Gatos, labour disruption at San Dimas (both since resolved), and higher royalty, worker-participation and production-tax costs that scale with metal prices. The AISC margin of \$40.27/AgEq oz is still triple the year-ago level.
 
-### Management
+Two accounting items are worth holding in mind. Roughly \$40M of mark-to-market adjustments on open concentrate sales hit realized prices because quarter-end prices were below the average of the preceding months. And 1,007,450 silver ounces plus 4,730 gold ounces worth \$78.0M sat in finished-goods inventory at June 30 and were excluded from revenue — a timing tailwind for Q3 if prices hold.
 
-**CEO Keith Neumeyer** is a well-known silver bull and mining entrepreneur with over 30 years of experience. He founded First Majestic in 2002 and has grown it through acquisitions and organic development. Neumeyer is vocal about silver's structural supply deficit and has positioned AG as the go-to equity for silver exposure. His alignment with shareholders is strong — he owns a significant personal stake in the company.
+### Balance sheet
 
----
+| Metric | June 30, 2026 | Dec 31, 2025 |
+|---|---|---|
+| Cash and equivalents | \$1,093.3M | — |
+| Total treasury (incl. \$159.4M restricted) | \$1,252.7M | \$937.7M |
+| Working capital (ex-restricted cash) | \$876.0M | \$733.6M |
+| Total liquidity | \$1,035.8M | \$873.2M |
 
-## 3. Financial Analysis
+This is the cleanest balance sheet in First Majestic's history: treasury up 34% in six months, working capital at a record, debt-to-equity of 0.08, current ratio 2.57 and quick ratio 2.38 (MarketBeat). Management said in late September that it holds roughly \$1.2–1.3B in the bank, giving it room to fund the ~\$350M 2026 capital programme, the Jerritt Canyon restart, potential M&A and the dividend simultaneously. The debt-servicing concern that dominated the prior version of this note is no longer the issue.
 
-### Q1 2026 Results (Quarter Ended March 31, 2026)
+### Full-year context
 
-| Metric | Q1 2026 | Q1 2025 | Change |
-|--------|---------|---------|--------|
-| Revenue | \$476.7M | \$244.5M | +95% YoY |
-| Net Income | \$128.1M | \$1.3M | +9,746% YoY |
-| EPS (Diluted) | \$0.26 | \$0.005 | +5,100% YoY |
-| Profit Margin | 27% | 0.9% | +2,610 bps |
-| Silver Production | 3.5M oz | ~2.1M oz | +67% YoY |
-| Gold Production | ~28% of guidance | N/A | On track |
+FY2025 revenue was \$1.26B, up ~124% YoY, with an average realized silver price of \$41.52/oz and record Q4 2025 output of 4.2M silver ounces on record quarterly revenue of \$463.9M. FY2026 to date has run above that: Q1 2026 revenue of \$476.7M captured January's price spike, and Q2 came in at \$415.5M as prices normalised. Net margin over the trailing twelve months is ~21% and return on equity ~13% (MarketBeat).
 
-### Revenue & Profitability
+### Where consensus was disappointed
 
-The Q1 2026 results reflect the operational turnaround at AG. Revenue nearly doubled YoY, driven by higher silver and gold production, improved grades, and a supportive precious metals price environment. The profit margin expansion from 0.9% to 27% demonstrates the operating leverage inherent in mining — small increases in metal prices and production volumes flow disproportionately to the bottom line.
+Q2 2026 missed on both lines — \$0.21 adjusted EPS versus \$0.25 expected, and \$415.5M revenue versus a ~\$496M forecast. The revenue shortfall is largely explained by the inventory hold-back and concentrate mark-to-market rather than operational failure, but the market did not extend that benefit of the doubt: the print triggered a downgrade to hold at Wall Street Zen and a Scotiabank target trim.
 
-### Balance Sheet & Liquidity
+## Valuation
 
-| Metric | Amount |
-|--------|--------|
-| Convertible Debentures | \$297.4M (total facilities) |
-| Revolving Credit Facility | Included in above |
-| Cash Position | Improving post-Del Toro sale |
-| Working Capital | Positive and improving |
+At \$17.95 the market capitalisation is ~\$8.4B (MarketBeat showed \$8.88B at a \$19.01 price, implying roughly 467M shares). Trailing P/E is ~24x (MarketBeat reported 25.4x at \$19.01), implying trailing EPS of about \$0.75 — this is an implied figure derived from the reported multiple, not a company-disclosed number. Net of ~\$1.1B in cash, enterprise value is roughly \$7.3B.
 
-AG's debt load of ~$297.4M in convertible debentures and revolving credit is manageable for a company with a ~$8.3B market cap and strong cash flow generation. The Del Toro sale (up to \$60M) further de-risks the balance sheet. Management has indicated a focus on debt reduction in 2026.
+Valuing a silver producer is really valuing a silver price deck. AG produced slightly more than 15M silver ounces in its record year and guides to 14.6–15.5M attributable silver ounces plus 128,000–135,000 gold ounces for FY2026. With Q2 AISC at \$25.68/AgEq oz, each \$10/oz move in silver is worth on the order of \$150M+ of annualised pre-tax cash flow — the definition of operating leverage, in both directions.
 
-### Key Financial Metrics
+| Scenario | Silver assumption | Target | Implied move |
+|---|---|---|---|
+| **Bull** | \$80–100/oz | **\$28–34** | +56% to +89% |
+| **Base** | \$55–70/oz | **\$21–25** | +17% to +39% |
+| **Bear** | \$35–40/oz | **\$11–14** | -39% to -22% |
 
-| Metric | Value |
-|--------|-------|
-| Market Cap | ~$8.3B |
-| Enterprise Value | ~$8.5B (est.) |
-| P/E (TTM, est.) | ~15–18x |
-| EV/EBITDA (est.) | ~8–10x |
-| Debt / Market Cap | ~3.6% |
+**Bull case (\$28–34):** silver re-accelerates toward \$80–100/oz — UBS has published an \$80 target — as the six-year structural deficit management puts at 840M cumulative ounces reasserts itself. Production lands at the top of the 14.6–15.5M oz range, AISC normalises back toward \$22–23/AgEq oz as the peso eases and the Los Gatos and San Dimas disruptions stay resolved, EPS run-rate exceeds \$1.50, and the market pays a mid-20s multiple on a debt-free producer with a funded growth pipeline. Jerritt Canyon de-risking and the Santo Niño / Navidad resource additions supply the narrative.
 
-AG trades at a reasonable valuation for a miner with this level of production growth and margin expansion. The P/E multiple is compressed relative to historical averages for silver miners, reflecting market skepticism about silver price sustainability — which we view as a buying opportunity.
+**Base case (\$21–25):** silver holds a \$55–70/oz band around today's ~\$61/oz. AG delivers guidance, AISC stays in the \$25–27/AgEq oz range, EPS lands near \$0.90–1.10, and the stock trades at 22–25x. This range brackets the MarketBeat consensus target of ~\$23.83 and sits below TipRanks' ~\$25.41 average.
 
----
+**Bear case (\$11–14):** silver retraces to \$35–40/oz as the 2026 investment-demand surge unwinds. AISC inflation does not reverse, the peso stays strong, margins compress to a fraction of current levels, the revenue-linked dividend shrinks mechanically, and Jerritt Canyon capital gets spent into a weaker price environment. The stock retests the \$10.19 52-week low area on a 15–18x multiple against depressed earnings. The \$1.25B treasury is the floor under this case — it is roughly 15% of market cap and removes solvency risk from the discussion.
 
-## 4. Market & Competitive Landscape
+## Growth Catalysts
 
-### Silver Market Dynamics
+- **Guidance raised twice.** FY2026 attributable guidance went to 14.6–15.5M silver ounces and 128,000–135,000 gold ounces in July, increases of 10% and 7% versus the original plan. La Encantada is tracking above its initial guidance.
+- **~\$350M capital programme with ~300 km of drilling.** Most of the spend is exploration. San Dimas gets the largest share at 117 km of drilling. Management expects further exploration updates before year-end.
+- **Santa Elena expansion.** Mill capacity is going to 3,500 tpd from ~3,100 tpd on the back of the Santo Niño and Navidad discoveries, which added 90M ounces of incremental resources. Two ramps are under development after a construction portal permit; incremental growth could begin late 2027 or early 2028.
+- **Jerritt Canyon restart, H2 2027.** Suspended in March 2023 on low gold prices and contractor inefficiency, the mine gets \$75M of 2026 investment, a new owner-operated mining fleet, a modernised mill and a plan combining underground and permitted open pits against a recently reported 7.8M oz resource. With gold realised at \$4,347/oz in Q2, the economics look very different from 2023.
+- **Los Gatos exploration optionality.** A 103,000-hectare land package that management describes as largely unexplored, attached to the company's lowest-cost mine at \$16.82 AISC/AgEq oz.
+- **Capital returns scaling with price.** The 2% of revenue dividend policy plus an active buyback means shareholders get direct, automatic participation in higher metal prices.
+- **M&A capacity.** Roughly \$1.2–1.3B of cash in a sector where juniors are capital-constrained gives First Majestic a buyer's position.
 
-Silver is in a structural supply deficit with industrial demand (solar PV, EVs, AI chips, 5G) growing faster than mine supply. Key demand drivers:
+## Risk Factors
 
-- **Solar PV:** Silver is essential for photovoltaic cells. Global solar installations are growing 15–20% annually.
-- **Electric Vehicles:** EVs use 2–3x more silver than ICE vehicles.
-- **AI & Data Centers:** High-performance chips and interconnects require silver.
-- **Investment Demand:** Silver ETFs, coins, and bars see inflows during periods of monetary uncertainty.
+- **Silver price is the thesis.** Silver went from a record \$121.62/oz on 29 January 2026 to ~\$61/oz by late September — cut in half inside one calendar year, on the same metal. AG's earnings, dividend and multiple all move with it, and the stock is already 44% below its January high.
+- **Cost inflation is real and partly structural.** AISC rose 22% YoY to \$25.68/AgEq oz. The Mexican peso, royalty and production taxes, and worker-participation costs all rise with metal prices, so margins expand less than the price move implies.
+- **Consecutive consensus misses.** Q2 2026 missed on revenue and EPS. Concentrate mark-to-market and inventory timing make quarterly results noisy and hard for the sell side to model, which invites de-rating.
+- **Execution risk on Jerritt Canyon.** A restart of a mine suspended for over four years, with a new fleet and a self-perform mining model, is not a low-risk project. Slippage past H2 2027 or a capital overrun would hit sentiment and cash.
+- **Single-jurisdiction concentration.** All four producing mines are in Mexico. Mining-law reform, tax disputes (a \$10.1M one-time charge settled a historic dispute with the Mexican tax authority in Q2 2026), water permitting and community relations are live exposures.
+- **Operational fragility.** The Los Gatos main-ramp rockfall and San Dimas labour disruption in a single quarter show how quickly underground operations can lose ounces.
+- **Dividend is not a floor.** Because it is 2% of revenue, the payout falls automatically when prices fall. The Q2 declaration of \$0.0152 was already below Q1's \$0.0171. Yield is ~0.3% — this is not an income holding.
 
-The gold/silver ratio remains elevated (~80:1), suggesting silver is undervalued relative to gold. Mean reversion to a 55:1 ratio implies 40–60% upside even if gold prices are flat.
+## Recommendation
 
-### Competitive Positioning
+**Rating: <span class="rating-spec-buy">SPEC. BUY</span>** — Bull \$28–34 · Base \$21–25 · Bear \$11–14.
 
-| Company | Ticker | Primary Focus | 2025 Silver Production | AISC (Silver) | Jurisdiction |
-|---------|--------|---------------|------------------------|---------------|--------------|
-| **First Majestic** | AG | Primary Silver | ~13.5M oz | \$14–16/oz | Mexico |
-| Pan American Silver | PAAS | Primary Silver | ~22.8M oz | \$14.50–16/oz | Americas |
-| Hecla Mining | HL | Primary Silver | ~12M oz | \$16–18/oz | Americas |
-| Fresnillo | FRES | Primary Silver | ~55M oz | \$12–14/oz | Mexico |
-| Wheaton Precious | WPM | Streaming | N/A | N/A | Global |
+The fundamental case is stronger than at any point in the company's history: a record \$1.25B treasury, 0.08 debt-to-equity, \$194.6M of quarterly free cash flow, guidance raised twice, and a funded growth pipeline across Santa Elena, Los Gatos and Jerritt Canyon. What holds the rating at SPEC. BUY rather than BUY is that none of that determines the return. Silver does, and silver is in a sharp drawdown from an extraordinary spike, with AISC inflation eating into the cushion.
 
-AG differentiates itself as the **largest primary silver producer listed on a major U.S. exchange** with the highest silver revenue concentration. Unlike diversified miners (Newmont, Barrick), AG offers pure silver leverage without gold dilution. Compared to PAAS, AG has a smaller but higher-grade portfolio and trades at a lower valuation multiple.
+**Position sizing.** Treat this as a commodity-beta position, not a core holding — 1–2% of a diversified portfolio, and size it as part of a broader precious-metals allocation alongside physical or royalty exposure rather than in isolation. Beta is ~1.00 against the market but effective beta to silver is well above 1.
 
-### Mexican Jurisdiction
+**Entry strategy.** The stock closed at \$17.95 on 2026-09-28 after gapping down 5.2% from \$19.01 — it opened at \$17.80 on roughly 2.1M shares as silver December futures slid to their lowest level since August 6. Price is below both the 50-day (\$18.86) and 200-day (\$20.14) moving averages, so the trend is not yet supportive. Scale in: a first tranche here or on any move into the \$16–17 area, a second only once silver stabilises above \$60/oz and price reclaims the 200-day. Avoid committing the full position ahead of Q3 earnings.
 
-Mexico is the world's largest silver-producing country (~25% of global supply). AG's assets are in established mining districts with strong infrastructure, skilled labor, and favorable geology. Political risk is moderate — the Mexican government has introduced mining reforms, but AG's long-standing relationships and community engagement mitigate regulatory headwinds.
+**Stop loss.** A close below \$14 breaks the structure and would imply silver has decisively broken lower; that is the exit for the trading portion. Longer-term holders anchoring on the \$1.25B treasury may tolerate more, but should recognise the \$10.19 52-week low as a realistic retest level in the bear case.
 
----
+**Catalyst calendar.** Q3 2026 results in late October or early November (watch whether the \$78.0M of held-back inventory converts, and whether AISC moderates); exploration updates before year-end; FY2027 guidance and the updated exploration programme in January 2027; quarterly dividend declarations, which will mechanically track revenue.
 
-## 5. Investment Thesis & Catalysts
+## Sentiment Analysis
 
-### Why AG Now?
+**News tone: mixed, deteriorating at the margin.** The last three months produced genuinely strong operating news — record treasury, raised guidance, the Jerritt Canyon restart plan, a bullish Mining Forum Americas presentation on 28 September — against a falling stock. Headlines on 28 September were about the gap down, not the growth plan.
 
-1. **Pure Silver Leverage:** AG is the closest thing to a "silver ETF with operating leverage." Every \$1 increase in silver price flows directly to margins and cash flow.
-2. **Operational Turnaround:** Q1 2026 proves the thesis — 95% revenue growth, 27% margins, and production tracking ahead of guidance.
-3. **Structural Silver Deficit:** Industrial demand is outpacing supply. Silver is a critical mineral for the energy transition and AI buildout.
-4. **Attractive Valuation:** Stock is ~50% off 52-week highs. P/E and EV/EBITDA multiples are below historical averages for silver miners.
-5. **Balance Sheet De-Risking:** Del Toro sale strengthens cash position. Debt is manageable and being reduced.
+**Analyst sentiment: constructive but cooling.** Consensus is Moderate Buy with a ~\$23.83 average target, 1 strong buy, 5 buy and 3 hold, high \$27.00 and low \$22.00 (MarketBeat, 9 analysts). TipRanks shows a ~\$25.41 average. Recent actions cut both ways: ATB Cormark upgraded to moderate buy on 10 July and HC Wainwright raised its target to \$27.00 with a buy on 31 July, while Wall Street Zen cut to hold on 25 July, Scotiabank trimmed to \$22.50 at sector perform on 14 July, and Weiss reiterated hold on 2 September. Every target sits above the current price.
 
-### Key Catalysts
+**Retail and social.** AG has one of the most devoted retail followings in mining, largely because Keith Neumeyer is the loudest institutional voice for the structural silver deficit thesis. That cuts both ways — the shareholder base is conviction-heavy and price-insensitive on the way up, which can make drawdowns slower to find a bid. Specific engagement metrics were not verifiable in this session.
 
-| Timeline | Catalyst | Impact |
-|----------|----------|--------|
-| **Q2 2026** | Q2 earnings (July/August) | Confirmation of production trajectory and margin sustainability |
-| **H2 2026** | 2027 guidance (December) | Potential guidance raise if silver prices remain elevated |
-| **Ongoing** | Silver price >$35/oz | Direct margin expansion and cash flow acceleration |
-| **Ongoing** | Exploration results | New high-grade discoveries at San Dimas or Santa Elena could extend mine life |
-| **2026** | Debt reduction | Improved balance sheet could lead to credit rating upgrades |
+**Institutional positioning.** Hedge funds and institutions own 27.16% of the stock (MarketBeat) — low for an \$8B company, consistent with a name treated as tactical commodity exposure rather than a core holding.
 
----
+**Options flow.** No verified unusual-options-activity data was available for AG in this session; we make no claim about positioning there.
 
-## 6. Valuation & Price Targets
+**Composite read: 6/10.** Fundamentals and analyst targets point up; price action and the commodity trend point down. The disagreement is the opportunity and the risk.
 
-### Valuation Framework
+## Readability Pass
 
-We value AG using a combination of:
-- **P/NAV:** Net asset value based on reserves and resources at varying silver price assumptions
-- **EV/EBITDA:** Relative to peer group (PAAS, HL, WPM)
-- **P/E:** Earnings power at different silver price decks
+First Majestic digs silver out of four mines in Mexico and sells it — more purely than almost any other big miner. When silver goes up, AG makes a lot of money; when silver goes down, it doesn't. Silver had a spectacular run to a record \$121 an ounce in January 2026 and has since fallen back to about \$61. The company banked the boom: it now sits on \$1.25 billion in cash, has almost no debt, generated \$195 million of free cash flow in one quarter, raised its production target twice this year, and pays a dividend set at 2% of revenue.
 
-### Price Targets
+The stock, though, has fallen 44% from its January high to \$17.95. The reason is simply that silver fell, plus costs have crept up — it now costs \$25.68 to produce an ounce-equivalent versus \$21 a year ago. Analysts think the stock is worth about \$24.
 
-| Scenario | Silver Price Assumption | Target Price | Implied Return |
-|----------|----------------------|--------------|----------------|
-| **Bull** | \$45–50/oz | **$24–28** | +50–75% |
-| **Base** | \$35–40/oz | **$18–22** | +12–37% |
-| **Bear** | \$25–28/oz | **$10–14** | -38% to -13% |
+Our take: this is a well-run, cash-rich business whose share price is a bet on silver. If silver holds around today's levels, \$21–25 looks right. If it runs to \$80–100, \$28–34. If it falls back to \$35–40, \$11–14. Buy it in small size, scale in rather than all at once, and understand that you are buying a commodity, not a compounder.
 
-**Bull Case ($24–28):** Silver breaks out to \$45–50/oz on supply deficit realization + investment demand surge. AG's operating leverage drives EPS to \$0.80–1.00. Market re-rates AG to 25–30x P/E (historical avg for silver miners in bull markets).
+## Sources Consulted
 
-**Base Case ($18–22):** Silver stabilizes at \$35–40/oz. AG delivers 13–15M oz silver annually with AISC of \$14–16/oz. EPS of \$0.50–0.65 supports 25–35x P/E (sector average for growth miners).
+1. First Majestic Silver Corp. — "First Majestic Announces Q2 2026 Financial Results and Quarterly Dividend Payment", 30 July 2026 (full release via Nasdaq press releases): revenue, earnings, AISC, treasury, production by mine, dividend, buyback
+2. Investing.com — "First Majestic raises 2026 output guidance after Q2 gains", July 2026: FY2026 guidance of 14.6–15.5M silver oz and 128,000–135,000 gold oz
+3. MarketBeat — "First Majestic Silver Eyes Growth, Jerritt Canyon Restart as Silver Deficit Deepens", 28 September 2026: Mining Forum Americas presentation, revenue mix, capital programme, mint economics, Santa Elena expansion, Jerritt Canyon plan, liquidity
+4. MarketBeat — "First Majestic Silver (NYSE:AG) Shares Gap Down", 28 September 2026: gap-down mechanics, market cap, P/E, liquidity ratios, analyst actions, institutional ownership, dividend change
+5. MarketBeat — First Majestic Silver forecast page: consensus Moderate Buy, ~\$23.83 average target, \$27.00 high, \$22.00 low
+6. TipRanks — First Majestic Silver forecast: ~\$25.41 average target
+7. MarketChameleon — "First Majestic Sets Multiple Production and Revenue Records", 19 February 2026: FY2025 revenue of \$1.26B, average realised silver price of \$41.52/oz
+8. First Majestic Silver Corp. — Q4 2025 and FY2025 financial results release, 19 February 2026: record Q4 2025 revenue of \$463.9M, 4.2M oz quarterly silver production
+9. First Majestic Silver Corp. — "First Majestic Announces Restart Plan for Jerritt Canyon Gold Mine" and news release nr-20260402: \$75M 2026 investment, H2 2027 production start
+10. Kitco — silver spot price, 29 September 2026 (~\$60.80/oz); Yahoo Finance — silver December futures at \$61.03 on 29 September 2026, lowest since 6 August
+11. Discovery Alert / TradingEconomics / CoinCodex — silver's record \$121.62/oz on 29 January 2026 and subsequent ~50% retracement; UBS \$80/oz target reference
+12. Yahoo Finance quote data for AG as of 2026-09-28: price \$17.95, 52-week range \$10.19–\$32.04, 50-day MA \$18.86, 200-day MA \$20.14, one-year return +44.6%
 
-**Bear Case ($10–14):** Silver retreats to \$25–28/oz on macro headwinds (strong dollar, recession). Margins compress but remain positive. Stock trades at 15–20x depressed earnings. Downside is cushioned by low-cost operations and gold by-product credits.
+Note on precision: share count and trailing EPS are inferred from MarketBeat's reported market capitalisation and P/E at a \$19.01 price and are labelled as implied rather than company-disclosed. No options-flow or social-engagement data was verifiable in this session.
 
----
-
-## 7. Key Risks
-
-| Risk | Description | Mitigation |
-|------|-------------|------------|
-| **Silver Price Volatility** | Silver is highly volatile; a 20% price drop would compress margins significantly | Low AISC ($14–16/oz) provides margin cushion; gold by-product credits further reduce net costs |
-| **Mexican Regulatory Risk** | Mining reforms, tax changes, or environmental restrictions could impact operations | Long-standing operations; strong community relations; diversified across three mines |
-| **Operational Risk** | Underground mining is inherently risky — accidents, flooding, or grade variability can disrupt production | Modern mining practices; experienced management; multiple operating assets provide diversification |
-| **Foreign Exchange Risk** | Costs are in Mexican pesos; revenue in USD. Peso appreciation could compress margins | Natural hedge; limited FX exposure relative to revenue scale |
-| **Debt Servicing** | \$297.4M in convertible debentures and credit facilities | Strong cash flow generation; Del Toro sale improves liquidity; debt is small relative to market cap |
-| **Exploration Risk** | Reserves deplete without replacement; exploration may not yield economic discoveries | Active brownfields programs; San Dimas has 100+ year history of high-grade discoveries |
-
----
-
-## 8. Sources Consulted
-
-1. First Majestic Silver Corp. Q1 2026 Earnings Release (May 2026)
-2. First Majestic Silver Corp. 2024 Annual Report (SEDAR/SEC filings)
-3. First Majestic Silver Corp. Investor Presentation (June 2026)
-4. MarketBeat — Analyst Price Targets for AG (June 2026)
-5. Google Finance — AG Stock Quote (June 25, 2026)
-6. StockInvest.us — AG 52-Week Range and Technical Analysis (June 2026)
-7. Silver Institute — World Silver Survey 2026 (Supply/Demand Forecasts)
-8. Mining.com — "First Majestic sells Del Toro to Sierra Madre for up to \$60M" (June 2026)
-9. CEO Keith Neumeyer — Interview on Silver Market Outlook (June 2026)
-10. Bloomberg — Silver Price Forecasts and Commodity Research (June 2026)
-
----
-
-## Appendix: Quick Reference
+## Appendix — Quick Reference
 
 | | |
 |:---|:---|
-| **Ticker** | AG |
-| **Exchange** | NYSE |
+| **Ticker** | AG (NYSE) |
+| **Company** | First Majestic Silver Corp. |
 | **CEO** | Keith Neumeyer |
-| **Headquarters** | Vancouver, Canada |
-| **Founded** | 2002 |
-| **Employees** | ~4,000 (est.) |
-| **Primary Metals** | Silver, Gold |
-| **2026 Guidance** | ~13.5M oz silver (midpoint) |
-| **AISC (Silver)** | \$14–16/oz (est.) |
-| **Debt** | \$297.4M (convertible + revolving credit) |
-| **Market Cap** | ~$8.3B |
+| **Headquarters** | Vancouver, British Columbia |
+| **Producing mines** | Los Gatos (70%), San Dimas, Santa Elena, La Encantada — all Mexico |
+| **Development** | Jerritt Canyon (Nevada), restart H2 2027 |
+| **FY2026 guidance** | 14.6–15.5M attributable silver oz; 128,000–135,000 gold oz |
+| **Q2 2026 revenue** | \$415.5M (+57% YoY) |
+| **Q2 2026 EPS** | \$0.22 (\$0.21 adjusted) |
+| **Q2 2026 FCF** | \$194.6M |
+| **Treasury** | \$1,252.7M (incl. \$159.4M restricted) |
+| **AISC** | \$25.68 / AgEq oz |
+| **Dividend policy** | 2% of net quarterly revenue (~0.3% yield) |
 | **Rating** | <span class="rating-spec-buy">SPEC. BUY</span> |
-| **Bull Target** | \$24–28 |
-| **Base Target** | \$18–22 |
-| **Bear Target** | \$10–14 |
-| **Last Updated** | 2026-06-25 |
+| **Bull / Base / Bear** | \$28–34 / \$21–25 / \$11–14 |
+| **Last Updated** | 2026-09-29 |

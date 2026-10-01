@@ -1,0 +1,85 @@
+{
+  "ticker": "XYZ",
+  "company": "Block, Inc.",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Payments / Digital Banking",
+  "industry": "Payments / Digital Banking & Consumer Fintech",
+  "exchange": "NYSE",
+  "price": 73.31,
+  "price_date": "2026-09-28",
+  "market_cap": "~$44.7B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Block runs two linked networks — Square for merchants and Cash App for consumers — and is converting scale into margin faster than the market has repriced. Q2 2026 gross profit rose 25% to $3.17B with a record 27% adjusted operating margin and adjusted diluted EPS of $1.02 (+65%), and FY2026 guidance was raised to $12.51B of gross profit (+21%), $3.47B of adjusted operating income and $4.02 of adjusted diluted EPS (+70%). At $73.31 the stock is ~18x guided adjusted EPS and ~12x $3.88B of TTM free cash flow with roughly zero net debt, versus a $95–$98 street consensus target. The bet is that the February 2026 restructuring (~4,000 roles cut, workforce targeted below 6,000) holds while Cash App lending keeps compounding above 40%; the primary risk is consumer credit deterioration hitting that lending book first and hardest.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "~$24.19B",
+    "revenue_growth": "+0.3%",
+    "gross_margin": "~43%",
+    "net_income": "~$1.31B",
+    "eps_diluted": "~$2.10",
+    "cash": "~$7.19B cash and investments",
+    "fcf": "~$2.43B"
+  },
+  "bull_case": {
+    "target": "$105–$120",
+    "drivers": [
+      "Gross profit growth holds near 20% into FY2027 and FY2027 adjusted EPS reaches ~$5.50, supporting ~20x",
+      "February 2026 AI restructuring savings land in full and adjusted operating margin pushes past 30%",
+      "Cash App lending (Borrow plus Afterpay) scales further without a credit break, keeping Financial Solutions gross profit above 40% growth",
+      "Square and Cash App cross-pollination (local merchant discovery, Cash App as tender at Square sellers) turns two networks into one flywheel",
+      "Bitcoin recovery revives the Bitcoin Ecosystem line and turns the 9,032 BTC treasury into a tailwind for reported GAAP earnings"
+    ]
+  },
+  "base_case": {
+    "target": "$88–$96",
+    "assumptions": "FY2026 guidance is met ($12.51B gross profit, $4.02 adjusted diluted EPS), FY2027 gross profit grows mid-to-high teens, FY2027 adjusted EPS lands near $5.20, and the multiple holds at 17–18x. Consumer credit normalises without a spike in loss rates and the headcount reduction is margin-accretive without visibly slowing product velocity. This is roughly where the 42–46 analyst consensus target of $95–$98 sits."
+  },
+  "bear_case": {
+    "target": "$50–$58",
+    "risks": [
+      "Consumer credit deteriorates and Cash App Borrow / Afterpay loan-loss provisions absorb the 2026 margin gains",
+      "The ~40% headcount reduction damages product velocity and gross profit growth decelerates two to four quarters out",
+      "Square GPV growth slows into single digits under pressure from Toast, Shopify, Clover, Stripe and Adyen",
+      "Multiple compresses to 11–12x on flat ~$4.30 adjusted EPS, with the $48.21 fifty-two-week low as reference floor",
+      "Continued bitcoin weakness keeps GAAP net income depressed (TTM $357M vs $1.31B in FY2025) and deters generalist buyers"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "5 November 2026",
+      "iso_date": "2026-11-05",
+      "event": "Q3 2026 earnings (expected) — guided to 18% gross profit growth and ~89% adjusted diluted EPS growth; first clean read on restructuring savings"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Realisation of February 2026 AI restructuring savings and progress toward the 28% full-year adjusted operating margin guide"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results with initial FY2027 guidance — the key test of whether ~20% gross profit growth is sustainable"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Cash App lending credit performance through the consumer cycle; Square Financial Services balance-sheet expansion retaining more lending economics"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Bitcoin price trajectory — drives Bitcoin Ecosystem revenue and fair-value marks on the 9,032 BTC treasury, and therefore reported GAAP earnings"
+    }
+  ],
+  "key_risks": [
+    "Consumer credit cycle exposure through Cash App Borrow and the Afterpay BNPL book",
+    "Execution risk on the February 2026 restructuring (~4,000 roles cut, AI agents substituted for internal work)",
+    "GAAP earnings volatility from fair-value accounting on the bitcoin treasury (TTM GAAP net income $357M vs $1.31B FY2025)",
+    "Competitive pressure on Square from Toast, Shopify, Clover, Stripe and Adyen",
+    "Regulatory and compliance overhang, including federal scrutiny of AML and consumer-compliance programmes (status unverified)",
+    "Bitcoin Ecosystem revenue decline (-12.8% YoY) depressing headline growth optics",
+    "Near-term sentiment drag from insider selling and a stock below its 50-day moving average"
+  ]
+}

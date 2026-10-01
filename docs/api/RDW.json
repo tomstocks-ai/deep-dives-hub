@@ -1,0 +1,94 @@
+{
+  "ticker": "RDW",
+  "company": "Redwire Corporation",
+  "sector": "Industrials",
+  "theme": "Space Economy",
+  "sub_theme": "Lunar / Deep Space",
+  "industry": "Aerospace & Defense / Space Infrastructure and Uncrewed Systems",
+  "exchange": "NYSE",
+  "price": 11.2,
+  "price_date": "2026-09-28",
+  "market_cap": "~$2.79B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Redwire is a two-segment space and defense technology company: a Space business supplying spacecraft platforms, sensors, avionics, deployable structures, in-space manufacturing (PIL-BOX/SpaceMD pharma payloads, Mason regolith printing) and VLEO spacecraft such as SabreSat, plus a Defense Tech business built on the 2025 Edge Autonomy acquisition (Stalker and Penguin uncrewed aerial systems, Octopus ISR payloads). The Edge Autonomy deal transformed the financial profile: Q2 2026 revenue rose 89.6% YoY to a record $117.1M, gross margin swung to a record 27.8% from -30.9%, contracted backlog hit a record $542.1M (+64.5% YoY) on a 1.42 book-to-bill, and management reaffirmed FY2026 revenue of $450M-$500M. Defense Tech is now the profit engine ($14.1M segment adjusted EBITDA in Q2) while the legacy Space segment shrank 3% YoY and posted a $4.2M segment EBITDA loss. Heavy 2026 equity issuance left $557M of cash against just $50M of term loans, so solvency risk is low, but the company is still net-loss and free-cash-flow negative, and at $11.20 the stock sits ~58% below its May 2026 record high after the SpaceX IPO derated the whole space complex. This is a speculative backlog-conversion story: the setup improves materially if H2 2026 converts and Space stops losing money.",
+  "financials": {
+    "fiscal_year": "FY2025 / TTM Q2 2026",
+    "revenue": "$335.4M (FY2025); $426.3M TTM through Q2 2026",
+    "revenue_growth": "+10.3% FY2025; +63.1% TTM; +89.6% in Q2 2026; FY2026 guide $450M-$500M (~+41.6% at midpoint)",
+    "gross_margin": "27.8% in Q2 2026 (record); 27.3% for H1 2026; negative (-8.1%) in H1 2025",
+    "net_income": "-$272.3M (FY2025); -$117.5M (H1 2026); -$41.0M (Q2 2026)",
+    "eps_diluted": "-$1.41 (TTM); -$0.58 (H1 2026); -$0.09 adjusted EPS in Q2 2026",
+    "cash": "$557.0M cash and equivalents at Jun 30, 2026; $607.8M total liquidity; $50M term loans",
+    "fcf": "-$48.0M (H1 2026, improved from -$142.7M in H1 2025)"
+  },
+  "bull_case": {
+    "target": "$19–25",
+    "drivers": [
+      "H2 2026 converts the record $542.1M backlog and revenue lands at or above the $500M top end of guidance",
+      "Defense Tech keeps scaling Stalker, Penguin and Octopus deliveries at ~20%+ segment EBITDA margins, pulling consolidated Adjusted EBITDA positive in 2027",
+      "Space segment returns to growth as VLEO (DARPA Otter / SabreSat), IBDM docking mechanisms and European Space Agency work ramp, removing the drag from the mix",
+      "NITE-STAR IDIQ task orders and other Space Systems Command awards convert a $980M multi-vendor ceiling into funded backlog",
+      "SpaceMD in-space pharmaceutical manufacturing turns into a commercial revenue line rather than an R and D cost centre",
+      "Consensus 12-month target of ~$14.69 proves conservative; institutional ownership of only ~8.1% leaves room for re-rating as coverage broadens"
+    ]
+  },
+  "base_case": {
+    "target": "$13–16",
+    "assumptions": "FY2026 revenue lands near the $475M midpoint with gross margin holding in the mid-to-high 20s. Defense Tech profitability offsets a roughly breakeven Space segment, Adjusted EBITDA stays modestly negative for FY2026 and free cash flow remains negative but improves through 2027. The $557M cash pile funds capacity expansion and bolt-on M and A without a further large equity raise. The stock trades roughly in line with the ~$14.69 analyst consensus target, i.e. ~4-5x EV to forward sales — still a premium to the ~2.4x aerospace and defense sub-industry average but justified by 40%+ growth."
+  },
+  "bear_case": {
+    "target": "$6–8",
+    "risks": [
+      "Backlog conversion slips, FY2026 revenue misses the $450M low end and the premium multiple (~4.9x forward sales versus ~2.4x for peers) compresses toward the group",
+      "Space segment stays in decline with negative segment EBITDA while R and D spend keeps rising",
+      "Continued free cash flow burn plus the $500M at-the-market program dilutes shareholders further after the share count already rose from 192M to 249M in H1 2026",
+      "Fixed-price contract estimate-at-completion adjustments produce renewed negative gross margin surprises as in 2025",
+      "Unresolved material weaknesses in internal controls trigger a restatement or delayed filing",
+      "Government shutdown, continuing-resolution delays or launch-schedule dependence on SpaceX defer revenue recognition",
+      "Warrant-exercise and insider supply (a director entity cut its stake ~86% in September 2026) caps the stock, and beta of ~3.1 amplifies any space-sector risk-off move"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "November 4, 2026",
+      "iso_date": "2026-11-04",
+      "event": "Q3 2026 earnings (estimated date) — the key test of H2 backlog conversion against the reaffirmed $450M-$500M FY2026 revenue forecast, plus updated Adjusted EBITDA and free cash flow trajectory"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "First task orders under Space Systems Command's NITE-STAR IDIQ vehicle (Redwire selected September 24, 2026 as one of 15 vendors on a contract with a ceiling above $980M)"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and first FY2027 guidance — the point at which management would be expected to guide to positive annual Adjusted EBITDA if Defense Tech scaling holds"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "DARPA Otter VLEO demonstration mission using Redwire's SabreSat platform (a $44M phase 2 award booked in Q4 2025) — validation of the very-low-Earth-orbit franchise"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2026",
+      "event": "Huntsville, Alabama and Georgetown, Indiana capacity expansions coming online to scale UAS production and in-space pharmaceutical R and D"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "SpaceMD commercial microgravity pharmaceutical missions, including the first commercial flight on SpaceX's Starfall spacecraft, plus further PIL-BOX campaigns with Bristol Myers Squibb and academic partners"
+    }
+  ],
+  "key_risks": [
+    "Still unprofitable and free-cash-flow negative — -$117.5M net loss and -$48.0M FCF in H1 2026 despite record revenue",
+    "Dilution — shares outstanding rose from 191.9M to 249.2M in H1 2026 and a $500M at-the-market program remains available",
+    "Space segment weakness — Q2 2026 Space revenue fell 3% YoY to $55.2M with a $4.2M segment adjusted EBITDA loss, leaving Defense Tech to carry the story",
+    "Contract accounting volatility — fixed-price programs produced deeply negative gross margins in 2025 and estimate-at-completion adjustments remain a recurring risk",
+    "Internal control material weaknesses disclosed by the company, which raise reporting and restatement risk",
+    "Government dependency — US and European defence budgets, shutdown risk and programme funding timing drive most revenue",
+    "Valuation and volatility — ~4.9x forward sales versus ~2.4x for the aerospace and defence sub-industry, with beta near 3.1 and a 58% drawdown from the May 2026 high showing how fast sentiment shifts",
+    "Integration and goodwill — $772M of goodwill on $1.63B of equity following Edge Autonomy and Hera Systems, exposing the balance sheet to impairment if growth stalls"
+  ]
+}

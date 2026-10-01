@@ -1,0 +1,85 @@
+{
+  "ticker": "KTOS",
+  "company": "Kratos Defense & Security Solutions, Inc.",
+  "sector": "Industrials",
+  "theme": "Defense",
+  "sub_theme": "Next-Generation Defense",
+  "industry": "Aerospace & Defense",
+  "exchange": "NASDAQ",
+  "price": 44.07,
+  "price_date": "2026-09-28",
+  "market_cap": "~$8.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Kratos is the affordable-mass arm of the US defense industrial base: jet-powered target and tactical drones (XQ-58 Valkyrie), hypersonic vehicles and solid rocket motors, small turbofan engines, microwave electronics and satellite ground software. Q2 2026 revenue grew 30.5% to $458.8 million (19.1% organic) with a 1.3-to-1 trailing book-to-bill, $2.084 billion backlog and a $15.0 billion bid pipeline, and management raised FY2026 revenue guidance to $1.750-1.810 billion. The stock has fallen roughly 67% from its January 2026 high of $134 as a 15x-sales multiple reset, a ~$1.35 billion equity raise diluted shares ~21% year over year, and CCA airframe awards went largely to the primes. The offset is that GAAP profit is still negligible and free cash flow is guided to a use of $85-105 million in 2026 with heavy investment continuing into 2027, so the thesis rests on the 2027 hypersonics, engine and Valkyrie production ramp converting backlog into cash.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$1.347B",
+    "revenue_growth": "18.5%",
+    "gross_margin": "22.9%",
+    "net_income": "$22.0M",
+    "eps_diluted": "$0.13",
+    "cash": "$1.44B",
+    "fcf": "-$125.4M"
+  },
+  "bull_case": {
+    "target": "$75–$95",
+    "drivers": [
+      "FY2027 revenue of ~$2.1-2.2B on guided 18-23% organic growth with adjusted EBITDA margin up another ~100bps to ~10.8%, implying ~$230M EBITDA",
+      "Hypersonics franchise scaling from ~$200M in 2025 toward $700M+ in 2027 on MACH-TB and the hoped-for ~$1B sole-source prime award",
+      "Valkyrie moving from prototypes to a program of record, ramping toward ~40 aircraft per year by the start of 2028, plus the Northrop-teamed USMC MUX TACAIR CCA",
+      "Small turbofan production ramp to 3,000 GEK-class engines in 2027 for cruise-missile demand, with GE Aerospace partnership de-risking the line",
+      "$1.44B cash and no funded debt let Kratos self-fund capacity while peers ration capital; analyst consensus targets sit near $98"
+    ]
+  },
+  "base_case": {
+    "target": "$50–$62",
+    "assumptions": "FY2026 lands inside guidance at $1.75-1.81B revenue and $173-176M adjusted EBITDA, FY2027 grows ~20% with modest margin expansion, and free cash flow stays negative through 2027 before inflecting in 2028. The market keeps Kratos at roughly 4-5x forward sales and ~40x forward EBITDA, rewarding backlog conversion but not paying a growth premium until cash generation turns."
+  },
+  "bear_case": {
+    "target": "$28–$36",
+    "risks": [
+      "Free cash flow use persists beyond 2027 as capex, rocket-motor inventory and Valkyrie builds outrun definitized customer orders",
+      "Tactical drone and hypersonic awards slip or go to primes and non-traditional rivals such as Anduril, leaving invested capacity underutilized",
+      "GAAP earnings stay near zero while stock compensation of $60-64M a year and further equity issuance keep diluting shareholders",
+      "A DoW continuing resolution, shutdown or budget reprioritization delays funding as it did in late 2025 and early 2026",
+      "Shekel strength and fixed-price contract cost inflation cap margin expansion in the Israeli microwave and legacy target businesses"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Nov 2026 (est.)",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 results plus initial full-year 2027 guidance, including the first framed view of 2027 margins and cash flow"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Management-flagged hope for an additional ~$1B hypersonic program opportunity believed to be sole source to Kratos as prime"
+    },
+    {
+      "date": "H2 2026 into 2027",
+      "iso_date": "2026-12",
+      "event": "Zeus and Oriole solid rocket motor deliveries begin arriving and ramp, unlocking recognized revenue on funded hypersonic work"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "GEK800 turbofan moves from first ignition (Sept 21, 2026, with GE Aerospace) toward a 3,000-engine annual production rate"
+    },
+    {
+      "date": "Early 2028",
+      "iso_date": "2028-01",
+      "event": "Planned start of ~40 Valkyrie aircraft per year production rate, the key test of the loyal-wingman thesis"
+    }
+  ],
+  "key_risks": [
+    "Free cash flow use of $85-105M guided for FY2026 with heavy investment continuing into FY2027",
+    "GAAP operating income of only $16-22M on ~$1.78B of guided revenue leaves almost no earnings cushion",
+    "Diluted share count rose from 157.4M to 190.1M year over year after ~$1.35B of equity issuance in H1 2026",
+    "Tactical drone and hypersonic programs may not convert into programs of record on the expected schedule",
+    "Dependence on US Department of War budgets, appropriations timing and shutdown risk",
+    "Israeli Shekel strength and fixed-price contracts pressuring Microwave Products profitability",
+    "Integration and goodwill risk from the Nomad and Orbit acquisitions, with goodwill at $871.2M"
+  ]
+}

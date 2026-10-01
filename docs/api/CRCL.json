@@ -1,92 +1,131 @@
 {
   "ticker": "CRCL",
   "company": "Circle Internet Group, Inc.",
-  "sector": "Fintech",
+  "sector": "Financials",
+  "theme": "Fintech & Digital Payments",
+  "sub_theme": "Stablecoins / Crypto Finance",
   "industry": "Stablecoin / Digital Payments",
   "exchange": "NYSE",
-  "price": 66.67,
-  "market_cap": "$19.9B",
+  "price": 85.8,
+  "price_date": "2026-09-28",
+  "market_cap": "$21.9B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-20",
-  "thesis": "Circle is the leading regulated stablecoin issuer (USDC, ~$77B circulation) with 64% revenue growth in FY2025 and solid Q1 2026 results ($694M revenue, $125M net income). Revenue is interest-rate sensitive (~95% from reserve income), but the GENIUS Act creates a powerful regulatory moat. At $80, the stock is ~24% below April levels, improving risk/reward. The Coinbase revenue-share agreement and valuation premium (~5.7x P/S) create binary risk/reward. SPEC. BUY for investors comfortable with crypto-sector volatility and Fed-policy sensitivity.",
+  "last_updated": "2026-09-29",
+  "thesis": "Circle is the issuer of USDC ($73.3B in circulation) and the only listed pure-play regulated stablecoin issuer, now holding a final OCC federal trust bank charter. Roughly 95% of revenue is interest on the Treasury reserves backing USDC, which makes the model a leveraged bet on the Fed — and that bet just turned favourable after the FOMC raised the funds rate 25 bps to 3.75-4.00% on 2026-09-16, the first hike since 2023, with one more signalled. The offsetting problem is deceleration: Q2 2026 revenue of $701M grew only 7% and missed the ~$742M consensus as the reserve return rate fell 66 bps. Circle is answering with fee revenue — Arc mainnet launched 2026-09-16 with BlackRock, DTCC, Visa and Mastercard as validators, the ~$400M all-stock Tazapay deal adds $25B of annualised cross-border volume, and Binance invested $100M alongside a five-year distribution renewal. At ~7.5x trailing sales and ~29x trailing free cash flow with $1.71B net cash, risk/reward is favourable but the outcome distribution is wide; the CFO and a co-founding director both announced exits on 2026-09-25. SPEC. BUY.",
   "financials": {
     "fiscal_year": "FY2025",
     "revenue": "$2.75B",
     "revenue_growth": "+64%",
-    "gross_margin": "39.4%",
-    "net_income": "-$70M (GAAP, impacted by $424M SBC)",
+    "gross_margin": "39.4% (revenue less distribution costs)",
+    "net_income": "-$70M (GAAP, impacted by $563M stock-based compensation)",
     "eps_diluted": "-$0.44",
     "cash": "$1.53B",
-    "fcf": "-$91M (Levered FCF TTM)",
-    "adjusted_ebitda": "$582M",
-    "usdc_supply": "$77B"
+    "fcf": "$530M"
   },
-  "q1_2026": {
-    "revenue": "$694M",
-    "revenue_growth": "+47% YoY",
-    "net_income": "$125M",
-    "adjusted_ebitda": "$148M",
-    "basic_eps": "$0.52",
-    "usdc_supply": "$77B",
-    "usdc_growth": "+72% YoY",
-    "onchain_volume": "$12.1T",
-    "onchain_growth": "+230% YoY"
+  "ttm": {
+    "period": "TTM through 2026-06-30",
+    "revenue": "$2.91B",
+    "revenue_growth": "+37%",
+    "reserve_income": "$2.77B (95.2% of revenue)",
+    "other_revenue": "$140M",
+    "operating_income": "$216M",
+    "net_income": "$451M",
+    "eps_diluted": "$1.80",
+    "operating_cash_flow": "$777M",
+    "fcf": "$762M (26.2% margin)",
+    "cash": "$1.73B",
+    "total_debt": "$16M",
+    "net_cash": "$1.71B",
+    "stock_based_comp": "$224M",
+    "buybacks": "$297M"
+  },
+  "q2_2026": {
+    "reported": "2026-08-05",
+    "revenue": "$701M",
+    "revenue_growth": "+7% YoY",
+    "consensus_revenue": "$741.8M (missed)",
+    "reserve_income": "$668M (+5% YoY)",
+    "other_revenue": "$34M (+41% YoY)",
+    "distribution_and_other_costs": "$412M (+1% YoY)",
+    "adjusted_opex": "$146M (+23% YoY)",
+    "net_income": "$48M",
+    "adjusted_ebitda": "$143M (+8% YoY)",
+    "eps_diluted": "$0.18",
+    "usdc_supply": "$73.3B (+19% YoY)",
+    "usdc_average_circulation": "$76.5B record (+25% YoY)",
+    "onchain_volume": "$14.8T (+151% YoY)",
+    "reserve_return_rate": "-66 bps YoY",
+    "cpn_annualised_tpv": "$14.7B (+76% QoQ)",
+    "cpn_institutions": "175 (+29% QoQ)"
   },
   "bull_case": {
-    "target": "$140–170",
+    "target": "$135–160",
     "drivers": [
-      "USDC supply reaches $150B+ by 2028",
-      "Fed funds rate stabilizes at 3.5–4.5% keeping reserve income elevated",
-      "GENIUS Act implementation creates regulated duopoly with Tether",
-      "Arc mainnet launch generates new gas-fee revenue",
-      "CPN reaches $50B+ TPV diversifying beyond reserve income"
-    ]
-  },
-  "bear_case": {
-    "target": "$55–75",
-    "risks": [
-      "Interest rates fall below 2% crushing reserve income",
-      "Bank-issued stablecoins capture 30%+ market share",
-      "Coinbase renegotiates revenue share or launches competitor",
-      "USDC loses share to Tether, Ethena, or alternatives",
-      "Regulatory reversal or restrictive GENIUS Act interpretation"
+      "USDC circulation compounds past $110B as bank mint/redeem rails (BNY, Standard Chartered, Grupo Bind, JCB, Kakao) convert pilots into flow",
+      "Fed funds rate holds at 4.0-4.5% through 2027, keeping reserve income elevated after the September 2026 hike",
+      "Arc monetises through transaction fees, services and staking against Circle's ~25% network stake, with BlackRock BUIDL and DTCC tokenisation live",
+      "Tazapay closes and pushes fee-based revenue toward 15-20% of the mix, adding $25B+ of annualised payment volume",
+      "GENIUS Act licensing settles into a regulated duopoly with Tether, formalising Circle's compliance moat",
+      "CPN scales from $14.7B toward $50B+ annualised TPV as the 175-institution roster activates"
     ]
   },
   "base_case": {
-    "target": "$110–135",
-    "assumptions": "USDC supply grows to $100B+ by 2027; interest rates stabilize 2.5–3.5%; GENIUS Act implemented without major restrictions; Coinbase share stays manageable; other revenue grows to 8–12%; stock trades at 8–10x forward revenue as growth normalizes."
+    "target": "$95–120",
+    "assumptions": "USDC circulation reaches $90-100B by 2028; Fed funds settles in the 3.25-4.0% band; other revenue compounds to 10-15% of total; Arc generates measurable but not transformative revenue in 2027; distribution costs stay near 59% of revenue; free cash flow margin holds above 25%; the stock trades at 7-8x forward sales. This range brackets the current street average of roughly $100-105."
+  },
+  "bear_case": {
+    "target": "$45–65",
+    "risks": [
+      "The hiking cycle reverses in 2027 and the funds rate falls below 2.5%, compressing reserve income 30-40%",
+      "Yield-bearing digital assets and tokenised money market funds pull trading float away from non-yielding USDC",
+      "Bank-issued stablecoins capture meaningful share under GENIUS Act rules",
+      "Arc fails to monetise and ARC token economics disappoint, with securities-law and milestone-repayment risk crystallising",
+      "Tazapay integration stumbles during the CFO transition; USDC circulation declines sequentially",
+      "Multiple compresses to 5-6x sales on a second consecutive revenue miss, retesting the $49.90 52-week low"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-05-11",
-      "event": "Q1 2026 Earnings — first normalized post-IPO quarter (reported solid results: $694M revenue, $125M net income, $77B USDC)",
-      "iso_date": "2026-05-11"
+      "date": "November 11, 2026 (est.)",
+      "iso_date": "2026-11-11",
+      "event": "Q3 2026 earnings — first quarter reflecting the September Fed hike; watch USDC circulation, reserve return rate and other-revenue trajectory"
     },
     {
-      "date": "2026-07-30",
-      "event": "Q2 2026 Earnings & potential FY2026 guidance",
-      "iso_date": "2026-07-30"
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Remaining 2026 FOMC meetings — the Committee signalled one further 25 bps hike this year, a direct tailwind to reserve income"
     },
     {
-      "date": "2026-06-30",
-      "event": "GENIUS Act draft rules expected (FinCEN/FDIC/SEC)",
-      "iso_date": "2026-06-30"
+      "date": "By December 2026",
+      "iso_date": "2026-12",
+      "event": "CFO successor named; Jeremy Fox-Geen departs after transition — the appointment signals strategic direction"
     },
     {
-      "date": "2026-12-31",
-      "event": "Arc mainnet launch (targeted 2026)",
-      "iso_date": "2026-12-31"
+      "date": "Q4 2026 onward",
+      "iso_date": "2026-12",
+      "event": "Arc mainnet fee, service and staking revenue ramp following the 2026-09-16 launch (~$1B network value and ~$500K of fees in week one)"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Tazapay acquisition expected to close (~$400M all-stock, $25B+ annualised cross-border payment volume)"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "GENIUS Act permitted-payment-stablecoin-issuer licensing and a possible CLARITY Act revival after the September 2026 Senate cloture failure"
     }
   ],
   "key_risks": [
-    "Interest rate sensitivity — 95%+ of revenue is reserve income tied to Fed policy",
-    "Single-product concentration — USDC dominates revenue; a depeg or regulatory action would be catastrophic",
-    "Coinbase revenue-sharing agreement eroding margins (50% of non-Coinbase interest)",
-    "Competition from Tether (USDT), bank-issued stablecoins, and Ethena",
-    "Regulatory uncertainty despite GENIUS Act progress",
-    "Valuation premium (~5.7x P/S, 60x+ forward P/E) prices in significant growth"
-  ],
-  "theme": "Fintech & Digital Payments",
-  "sub_theme": "Stablecoins / Crypto Finance",
-  "price_date": "2026-08-07"
+    "Revenue concentration — ~95% of revenue is reserve income on USDC; a depeg or adverse action against USDC would end the investment case",
+    "Interest-rate sensitivity cuts both ways — a 66 bps fall in the reserve return rate held Q2 2026 revenue growth to 7% despite 25% growth in average circulation",
+    "Growth deceleration already visible — Q2 revenue +7% versus +64% for FY2025, and it missed consensus; USDC circulation growth halved to 19%",
+    "Distribution economics — Coinbase takes 100% of interest on USDC in its wallets and 50% elsewhere; distribution and related costs consumed $412M of $701M of Q2 revenue, capping margins near 40%",
+    "Competition on three fronts — Tether's dominant supply, yield-bearing tokenised money market funds that pay holders while USDC does not, and bank-issued stablecoins",
+    "Arc and ARC token execution risk — adoption in a competitive L1 market, validator and governance dynamics, token securities-law uncertainty, and possible repayment obligations if launch milestones are missed",
+    "Key-person and integration risk — CFO Jeremy Fox-Geen and co-founding director P. Sean Neville both announced exits on 2026-09-25 while the largest acquisition in company history is being integrated",
+    "Valuation — ~7.5x trailing sales and ~69x forward earnings leave no room for a second consecutive miss; all-stock Tazapay consideration adds dilution at a depressed share price",
+    "Custodian and counterparty concentration — reserves depend on BlackRock as manager and BNY as custodian of the Circle Reserve Fund",
+    "Cybersecurity — custody of $73B+ of reserves makes Circle a top-tier target and a breach would be existential"
+  ]
 }

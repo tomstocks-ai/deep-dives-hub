@@ -1,0 +1,91 @@
+{
+  "ticker": "CCJ",
+  "company": "Cameco Corporation",
+  "sector": "Energy",
+  "theme": "Critical Minerals",
+  "sub_theme": "Uranium & Nuclear Fuel",
+  "industry": "Uranium Mining and Nuclear Fuel Services",
+  "exchange": "NYSE",
+  "price": 87.04,
+  "price_date": "2026-09-28",
+  "market_cap": "$38.0B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Cameco is the largest Western-listed uranium producer and the only company spanning the full non-Russian nuclear fuel cycle at scale: tier-one Saskatchewan mines, the world's largest commercial uranium refinery and Canada's only UF6 conversion plant, and a 49% stake in Westinghouse whose AP1000 is the only fully licensed and deployed Gen III+ reactor. The uranium long-term contract price set a nominal record of $96.50/lb in August 2026 and has not fallen in a single month since July 2025, yet the stock is flat over a year and 36% below its high because 2026 deliveries were deliberately held low and Westinghouse equity earnings lapped a one-off Dukovany project contribution. The debate is the Westinghouse mark: Bloomberg reports a US listing targeting over $50B (a $24.5B look-through stake against a $38B market cap) while Korean press implies $15-20B, and a registration statement could land in October 2026.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "C$3.48B",
+    "revenue_growth": "11.0%",
+    "gross_margin": "36.3%",
+    "net_income": "C$590M",
+    "eps_diluted": "C$1.35",
+    "cash": "C$1.21B",
+    "fcf": "C$1.08B"
+  },
+  "bull_case": {
+    "target": "$150–$180",
+    "drivers": [
+      "Westinghouse IPO prices at or above the reported US$50B valuation, validating a $24.5B look-through value for Cameco's 49% stake bought for US$2.1B in 2023",
+      "Definitive AP1000 orders convert from the DOE's US$17.5B conditional loan commitment for up to 10 US reactors, the Korean six-reactor discussions, or the July 2026 US-Saudi 123 agreement",
+      "Long-term uranium pushes above $100/lb from the record $96.50/lb August 2026 close, repricing the least-committed 2029-2030 delivery years",
+      "Uranium plus fuel services adjusted EBITDA scales toward C$2.5B as market-related contract pricing catches up to spot and term levels",
+      "Cigar Lake ownership consolidation and Westinghouse eVinci/AP300 small-reactor milestones add incremental value"
+    ]
+  },
+  "base_case": {
+    "target": "$105–$125",
+    "assumptions": "Long-term uranium holds $95/lb or better, 2026 production lands inside the 19.5-21.5M lb guidance despite the Saskatchewan flooding and unplanned outages, uranium segment adjusted EBITDA grows at a high-single-digit pace as realized prices catch up to contract terms, and Westinghouse lists at a US$30-40B valuation — a real step up from the US$2.1B cost basis without validating the $50B headline. Straddles the S&P Global consensus target of $127.77 from 21 analysts and sits below MarketBeat's $148.68 average from 17 analysts."
+  },
+  "bear_case": {
+    "target": "$62–$75",
+    "risks": [
+      "Westinghouse prices near the Korea Economic Daily implied US$15-20B valuation, or the IPO is shelved, removing the option value the bull case depends on",
+      "AP1000 opportunities stay a 91-project pipeline rather than a contracted backlog; DOE financing is not a signed reactor order",
+      "Recurring northern Saskatchewan disruptions at Key Lake, McArthur River and Cigar Lake force a 2026 production guidance cut on an already weak tape",
+      "Valuation compresses toward the GuruFocus GF Value of $68.24 from 61x forward earnings and 97x free cash flow",
+      "Uranium term prices stall as utilities step back, leaving Cameco's contracting discipline uncompensated"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Westinghouse public registration statement possible, per Bloomberg's 18 September 2026 report of a US listing targeting over US$50B — would disclose standalone financials and potentially contracted backlog"
+    },
+    {
+      "date": "October 30, 2026",
+      "iso_date": "2026-10-30",
+      "event": "Q3 2026 results — first test of whether second-half production recovers ground lost to spring flooding and unplanned outages at Key Lake, McArthur River and Cigar Lake"
+    },
+    {
+      "date": "Monthly through 2026-2027",
+      "iso_date": null,
+      "event": "UxC and TradeTech month-end long-term uranium price prints; the benchmark closed August 2026 at a record $96.50/lb and has not declined in any month since July 2025"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Remaining JV Inkai purchase allocation delivery — majority of Cameco's 4.2M lb 2026 share expected before year end, with only 0.8M lb received in H1"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and 2027 guidance, including production, delivery volumes and average realized price outlook"
+    },
+    {
+      "date": "Unscheduled",
+      "iso_date": null,
+      "event": "Definitive AP1000 reactor order tied to the DOE programme, the Korean US investment package or the US-Saudi 123 civil-nuclear agreement — highest-impact catalyst in the set"
+    }
+  ],
+  "key_risks": [
+    "Valuation offers no margin of safety at roughly 61x forward earnings, 152x trailing P/E and 97x price to free cash flow",
+    "Westinghouse valuation is a genuine binary with published marks spanning US$15-50B, a 2.5x spread on the single most important number in the thesis",
+    "Equity-method Westinghouse earnings swung to a C$56M first-half 2026 net loss on Cameco's share versus C$64M of earnings a year earlier, and the accounting opacity depresses the multiple the market will pay",
+    "Recurring operational risk in northern Saskatchewan — spring flooding, road closures and unplanned disruptions at all three core operations occurred in 2026 while guidance was maintained, loading the second half",
+    "Contracting discipline depresses near-term deliveries and earnings; Q2 2026 adjusted EPS of C$0.18 missed the C$0.38 consensus by more than half",
+    "Thin, opaque, contract-negotiated uranium market where spot is up only ~7% year over year despite record term pricing, and miner equities have de-rated far more than the commodity",
+    "JV Inkai exposes Cameco to Kazakh jurisdiction and export logistics; normalisation of Russian enrichment supply would compress the Western scarcity premium",
+    "CAD-reporting issuer with USD-traded shares adds a translation layer to every comparison; technical posture is weak with price below both the 50-day ($94.79) and 200-day ($105.79) averages"
+  ]
+}

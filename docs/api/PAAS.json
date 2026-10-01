@@ -5,86 +5,96 @@
   "theme": "Critical Minerals",
   "sub_theme": "Specialty Metals (Silver)",
   "industry": "Silver Mining",
-  "exchange": "NASDAQ",
-  "price": 51.22,
-  "market_cap": "$19.5B",
+  "exchange": "NYSE",
+  "price": 45.77,
+  "price_date": "2026-09-28",
+  "market_cap": "$19.1B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-25",
-  "thesis": "Pan American Silver is the world's largest primary silver producer, offering unmatched leverage to silver price moves. The Juanicipio JV has transformed the cost curve, lowering AISC to $14.50–$16/oz and driving record Q4 2025 results. Silver faces a structural supply deficit driven by solar, EV, and AI demand, while investment demand provides a monetary hedge kicker. Escobal restart and further Juanicipio ramp are key upside catalysts. Geopolitical and operational risks warrant a SPECULATIVE BUY rating.",
+  "last_updated": "2026-09-29",
+  "thesis": "Pan American Silver is the largest primary silver producer in the Americas and a mid-tier gold producer, with a 44% JV interest in the high-grade Juanicipio mine acquired with MAG Silver in September 2025 pulling H1 2026 Silver Segment AISC down to $12.64/oz against full-year guidance of $15.75-$18.25/oz. H1 2026 attributable free cash flow was $832M, the balance sheet holds $1.8B of cash and short-term investments against $841M of total debt, and management is returning up to $1B to shareholders in 2026 via a $0.184 quarterly dividend and buybacks (~7.3M shares retired at an average $49.22). The stock trades at ~12x the $3.81 FY2026 consensus and ~9x the $5.00 FY2027 consensus after silver fell ~49% from its $121.62/oz January 2026 peak to ~$62/oz. The offsetting concerns are that gold — the larger revenue line — is tracking to the low end of guidance on Jacobina seismicity mitigation and El Penon grade continuity, and that every valuation case here is ultimately a silver-price case.",
   "financials": {
     "fiscal_year": "FY2025",
-    "revenue": "$4.1B",
-    "revenue_growth": "+17%",
-    "gross_margin": "N/A",
-    "net_income": "$420M",
-    "eps_diluted": "$1.11 (Q4 2025 adj.)",
-    "cash": "$450M",
-    "fcf": "$300M"
+    "revenue": "$3.62B",
+    "revenue_growth": "+28.4%",
+    "gross_margin": "N/A (miner; Silver Segment AISC $12.64/oz in H1 2026)",
+    "net_income": "$980M",
+    "eps_diluted": "$2.56 (basic)",
+    "cash": "$1.8B (30 Jun 2026, incl. short-term investments)",
+    "fcf": "$1.2B attributable (FY2025); $832M in H1 2026"
   },
   "bull_case": {
-    "target": "$65–75",
+    "target": "$72–85",
     "drivers": [
-      "Silver rallies to $50+/oz on widening supply deficit and investment demand",
-      "Juanicipio reaches full design capacity, further lowering AISC",
-      "Escobal permit resolution adds $8–10/share in NAV",
-      "Critical minerals designation unlocks subsidies and strategic offtake flows",
-      "Gold remains elevated, supporting by-product revenue"
+      "Silver recovers toward the UBS path of $75-80/oz through late 2027 while gold holds above $4,000/oz",
+      "FY2027 EPS beats the $5.00 consensus and the stock re-rates to ~15x on higher realized prices",
+      "Market begins capitalizing the La Colorada Skarn revised PEA (after-tax NPV(5%) of $5.2B, 25% IRR at $75/oz silver — roughly $12/share)",
+      "Juanicipio at full 44% contribution keeps Silver Segment AISC in the low teens per ounce",
+      "Up to $1B of 2026 shareholder returns compounds per-share value with buybacks executed below intrinsic value",
+      "Escobal ILO 169 consultation breakthrough reopens a 2017-suspended world-class silver mine"
     ]
   },
   "base_case": {
-    "target": "$52–58",
+    "target": "$55–65",
     "assumptions": [
-      "Silver trades steady at $36–42/oz",
-      "Operational execution continues with modest volume growth",
-      "Margins compress slightly from current highs but remain healthy",
-      "Stock re-rates to peer-average EV/EBITDA",
-      "No Escobal restart in the 12–18 month horizon"
+      "Silver averages $60-70/oz and gold $4,000-4,400/oz",
+      "FY2026 guidance met: 25-27 Moz attributable silver, gold at the low end of 700-750 koz",
+      "FY2027 EPS approximates the $5.00 consensus; stock trades at 11-13x",
+      "Buybacks continue to shrink the share count from 417.1M at 30 June 2026",
+      "La Colorada Skarn next phase approved but contributes no cash flow before the 2030s",
+      "No Escobal restart within the 12-24 month horizon"
     ]
   },
   "bear_case": {
-    "target": "$32–38",
+    "target": "$30–38",
     "risks": [
-      "Global recession crushes industrial silver demand; spot falls to $25/oz",
-      "Cost inflation (labor, energy, consumables) erodes margins",
-      "Escobal remains suspended indefinitely, removing growth option",
-      "Political risk premium rises in Bolivia, Argentina, or Guatemala",
-      "Stronger USD and higher real rates suppress precious metals"
+      "Post-January unwind continues and silver mean-reverts to $40-45/oz with gold below $3,500/oz",
+      "Gold-segment underperformance at Jacobina and El Penon persists, with AISC above the $1,850/oz guidance high end",
+      "Cash taxes, royalties and labour costs absorb more of the price upside (2026 taxes-paid guide raised to $585-635M)",
+      "$1.9B La Colorada Skarn capital committed into a weaker price deck, with shaft, plant and tailings permits still outstanding",
+      "Latin American political, tax-reassessment and social-licence risk escalates in Bolivia, Argentina or Mexico",
+      "Stock retests the $33.08 52-week low as sector-wide precious-metals selling continues"
     ]
   },
   "catalysts": [
     {
-      "date": "2026-07",
-      "event": "Q2 2026 production report — watch Juanicipio volumes and AISC trends",
-      "iso_date": "2026-07"
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 results — watch gold production recovery at Timmins and Shahuindo, H2 realized silver and gold prices, and cash taxes paid"
     },
     {
-      "date": "2026-08",
-      "event": "Escobal legal/permit updates — any positive ruling is transformative",
-      "iso_date": "2026-08"
+      "date": "H2 2026",
+      "iso_date": "2026-12",
+      "event": "La Colorada Skarn next-phase board approval — engineering for the material handling system and ventilation shafts goes to the board"
     },
     {
-      "date": "2026-09",
-      "event": "Silver Institute mid-year supply/demand update",
-      "iso_date": "2026-09"
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results plus 2027 production, AISC and capital guidance, and the 2027 shareholder return framework"
     },
     {
-      "date": "2026-10",
-      "event": "Q3 2026 earnings — guidance for 2026 silver production and cost outlook",
-      "iso_date": "2026-10"
+      "date": "April 2027",
+      "iso_date": "2027-04",
+      "event": "Silver Institute World Silver Survey 2027 — confirmation or reversal of the sixth consecutive annual market deficit"
+    },
+    {
+      "date": "H1 2027",
+      "iso_date": "2027-06",
+      "event": "Timmins Camp Project preliminary economic assessment, following the $146M phase-one approval for the Bell Creek shaft extension"
     },
     {
       "date": "Ongoing",
-      "event": "Fed policy meetings — rate-cut trajectory affects precious metals sentiment",
-      "iso_date": null
+      "iso_date": null,
+      "event": "Escobal ILO 169 consultation with the Xinka and Guatemala's Ministry of Energy and Mines — no timeline and no restart date"
     }
   ],
   "key_risks": [
-    "Commodity price volatility — silver is more volatile than gold; 20% spot drop crushes margins",
-    "Geopolitical risk — Bolivia, Argentina, Guatemala face regulatory and social-license risks",
-    "Escobal uncertainty — suspended since 2017 with no clear restart timeline",
-    "Cost inflation — labor, energy, and consumable costs rising across the mining sector",
-    "Environmental incidents — tailings or water disputes can halt operations",
-    "FX risk — stronger local currencies vs. USD raise operating costs"
-  ],
-  "price_date": "2026-08-07"
+    "Silver price volatility — spot fell ~49% from $121.62/oz in January 2026 to ~$62/oz by late September 2026, and the equity multiple follows the metal",
+    "Gold execution — gold is the larger revenue line and FY2026 gold is tracking to the low end of 700-750 koz on Jacobina seismicity mitigation and El Penon grade continuity",
+    "Cost and tax leakage — royalties, labour and cash taxes scale with metal prices; 2026 taxes-paid guidance was raised to $585-635M",
+    "Jurisdiction concentration — permitting, tax-reassessment, social-licence and expropriation risk across Mexico, Peru, Bolivia, Argentina, Chile, Brazil and Guatemala",
+    "Escobal may never restart — suspended since 2017 with a court-mandated consultation that has no deadline",
+    "La Colorada Skarn execution — a $1.9B six-year underground build on a preliminary PEA that includes inferred resources, with shaft, plant and tailings permits still to be sought",
+    "Weather and operational disruption — El Nino rainstorms affected site access in Chile and Argentina in July and August 2026",
+    "Currency — stronger MXN, PEN, ARS, BOB, CAD, CLP or BRL against the USD raises in-country operating costs"
+  ]
 }

@@ -1,0 +1,86 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon.com, Inc.",
+  "sector": "Consumer Discretionary",
+  "theme": "Software",
+  "sub_theme": "Cloud & Enterprise Software",
+  "industry": "Broadline Retail / Cloud Infrastructure",
+  "exchange": "NASDAQ",
+  "price": 246.15,
+  "price_date": "2026-09-28",
+  "market_cap": "~$2.65T",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Amazon is the largest AI infrastructure builder in the world and is being penalised for it. Q2 2026 net sales hit $200.6B (+20%) with AWS accelerating to 36.7% growth ($42.2B, 39.4% segment margin) behind a $496B contracted backlog, while advertising grew 26%. The cost is ~$220B of 2026 cash capex, which has pushed trailing free cash flow to an outflow of $7.6B and will push reported FY2027 EPS below FY2026 as depreciation lands. At $246 the stock trades ~14% below its 52-week high and ~25% below the $321-331 analyst consensus: the demand is contracted, the returns are deferred to 2028.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$716.9B",
+    "revenue_growth": "12%",
+    "gross_margin": "50.3%",
+    "net_income": "$77.7B",
+    "eps_diluted": "$7.17",
+    "cash": "$123.0B",
+    "fcf": "$11.2B"
+  },
+  "bull_case": {
+    "target": "$340–$380",
+    "drivers": [
+      "AWS sustains 33%+ growth as the $496B contracted backlog converts; 2027 capacity already reserved",
+      "Trainium and Graviton5 give AWS a structural cost-per-token advantage; AI and chips each already above a $25B annualised run rate growing triple digits",
+      "Capex peaks in 2027 and free cash flow inflects sharply positive in 2028 against a far larger revenue base",
+      "Advertising compounds above 20% off a $19.8B quarterly base, aided by Alexa for Shopping and Ads Agent",
+      "Unmodelled optionality from Amazon Leo, Zoox paid robotaxi service, Amazon Supply Chain Services, and the Anthropic stake"
+    ]
+  },
+  "base_case": {
+    "target": "$285–$315",
+    "assumptions": "AWS decelerates gradually from 37% toward the high-20s, consolidated operating margin holds near 13%, 2027 capex plateaus rather than falling, and free cash flow returns to modestly positive in 2028. Reported EPS is flat to down in FY2027 (~$10.47 consensus) before resuming growth. Lands near the low end of the $321-331 analyst consensus range."
+  },
+  "bear_case": {
+    "target": "$185–$215",
+    "risks": [
+      "AI capacity demand digests while ~$220B of 2026 capex is already sunk; trailing FCF stays negative",
+      "Depreciation on $446B of net property and equipment compresses consolidated operating margin back toward 10%",
+      "AWS growth slows toward 20%, repeating the FY2025 pattern when it grew 19.7% versus Google Cloud at 35.8%",
+      "The $53.4B pre-tax Anthropic mark partially reverses, making reported EPS comparisons sharply negative",
+      "Market re-rates Amazon as a capital-intensive infrastructure business; the $196.00 52-week low sits inside this band"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "1 Oct 2026",
+      "iso_date": "2026-10-01",
+      "event": "Expanded FTC Prime settlement refunds begin reaching additional Prime customers"
+    },
+    {
+      "date": "Late Oct 2026",
+      "iso_date": "2026-10",
+      "event": "Q3 2026 results (expected ~29 October, not company-confirmed); AWS growth print is the swing factor for the thesis"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Holiday quarter; Amazon Leo initial satellite internet service from a ~400-satellite constellation; Zoox paid robotaxi ramp after NHTSA Part 555 exemption"
+    },
+    {
+      "date": "Feb 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results plus first formal 2027 capital expenditure framing"
+    },
+    {
+      "date": "Open-ended",
+      "iso_date": null,
+      "event": "Potential Anthropic liquidity event or further mark-to-market revaluation of the stake (press speculation, not company-guided)"
+    }
+  ],
+  "key_risks": [
+    "Capital intensity: ~$220B of 2026 cash capex has driven TTM free cash flow to negative $7.6B from positive $25.9B six quarters ago",
+    "Depreciation wave on $446B of net property and equipment; consensus FY2027 EPS (~$10.47) sits below FY2026 (~$12.88)",
+    "Reported earnings quality: Q2 2026 EPS of $5.75 included $53.4B of pre-tax Anthropic marks; comparable EPS was ~$1.88",
+    "AWS competitive and demand risk; a single decelerating quarter with capex still climbing would validate the bear case",
+    "Memory and component cost inflation was explicitly cited in raising capex guidance from $200B to $220B",
+    "Regulatory: FTC Prime billing settlement, ongoing marketplace antitrust scrutiny, and agentic-commerce access disputes",
+    "Consumer and macro exposure across ~79% of sales, plus an ~80bp unfavourable FX impact embedded in Q3 guidance",
+    "Long-term debt nearly doubled to $128.9B in H1 2026 as the build became partly debt-funded"
+  ]
+}

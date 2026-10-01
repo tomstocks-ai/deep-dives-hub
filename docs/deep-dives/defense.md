@@ -17,6 +17,9 @@ title: Defense
 | <tv-ticker-tag symbol="NYSE:LMT" hide-background></tv-ticker-tag> | Lockheed Martin Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LMT.md) |
 | <tv-ticker-tag symbol="NYSE:NOC" hide-background></tv-ticker-tag> | Northrop Grumman Corporation | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](NOC.md) |
 | <tv-ticker-tag symbol="NASDAQ:AVAV" hide-background></tv-ticker-tag> | AeroVironment, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](AVAV.md) |
+| <tv-ticker-tag symbol="NYSE:GD" hide-background></tv-ticker-tag> | General Dynamics Corporation | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](GD.md) |
+| <tv-ticker-tag symbol="NASDAQ:KTOS" hide-background></tv-ticker-tag> | Kratos Defense & Security Solutions, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](KTOS.md) |
+| <tv-ticker-tag symbol="NYSE:LHX" hide-background></tv-ticker-tag> | L3Harris Technologies, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](LHX.md) |
 
 ### Prime Contractors
 
@@ -50,6 +53,26 @@ Northrop Grumman is a top-tier U.S. defense prime with unmatched positions in st
 
 ---
 
+**GD — General Dynamics Corporation · <span class="rating-buy">BUY</span>**
+
+General Dynamics is a four-segment prime spanning nuclear submarines and surface ships, combat vehicles and munitions, government IT, and Gulfstream business jets, with FY2025 revenue of \$52.55B and \$15.45 diluted EPS. The July 2026 Navy award handed Electric Boat \$71.6B for five Columbia-class and nine Virginia-class submarines, lifting backlog 32% YoY to a record \$136.5B (~2.5x revenue) and prompting a guidance raise to \$16.80–\$16.90 FY2026 EPS on ~\$55.7B of revenue. The thesis is a dislocation: the stock sits near its 52-week low at ~19x forward EPS with a 1.9% dividend and a 34-year growth streak, because a Middle East de-escalation narrative de-rated the whole prime group even though GD's production is already contracted into the late 2030s. The primary risk is that the peace-dividend de-rating proves durable — signed backlog protects revenue, not the multiple — with submarine cost growth at a thin 7.3% Marine Systems margin the secondary concern.
+
+**Bull:** \$430–\$470 · **Base:** \$380–\$405 · **Bear:** \$280–\$310
+
+[:material-arrow-right: Full Deep Dive](GD.md)
+
+---
+
+**LHX — L3Harris Technologies, Inc. · <span class="rating-buy">BUY</span>**
+
+L3Harris is the fourth-largest U.S. defense prime, restructured in early 2026 into Space and Mission Systems (~\$11.5B 2026 revenue), Communications and Spectrum Dominance (~\$8B at a ~25% segment margin) and Missile Solutions (~\$4.4B, built around legacy Aerojet Rocketdyne with a \$1B Department of War anchor investment). Operations are accelerating — Q2 2026 brought 8% revenue growth, a 1.2x book-to-bill, a record \$42B backlog and a second guidance raise to \$11.80–\$12.00 EPS on ~\$3B of free cash flow — yet the stock sits at a 52-week low of \$234.59, about 37% below its high. The de-rating is governance-driven rather than operational: the Missile Solutions IPO slipped to 2027, CEO Chris Kubasik was removed in August 2026 for a code-of-conduct violation, and several law firms opened securities-fraud investigations. At ~20x 2026 EPS and a ~6.8% free-cash-flow yield the discount looks excessive, but the primary risk is that those investigations escalate into formal enforcement or a restatement.
+
+**Bull:** \$380–\$420 · **Base:** \$285–\$305 · **Bear:** \$190–\$210
+
+[:material-arrow-right: Full Deep Dive](LHX.md)
+
+---
+
 ### Next-Generation Defense
 
 **OSS — One Stop Systems, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
@@ -69,5 +92,15 @@ AeroVironment is the U.S. leader in small unmanned aircraft systems (Puma, JUMP 
 **Bull:** \$250–\$290 · **Base:** \$185–\$225 · **Bear:** \$110–\$140
 
 [:material-arrow-right: Full Deep Dive](AVAV.md)
+
+---
+
+**KTOS — Kratos Defense & Security Solutions, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Kratos builds affordable, mass-producible defense hardware — XQ-58 Valkyrie and target drones, hypersonic vehicles and solid rocket motors, small turbofan engines, microwave electronics and virtualized satellite ground software. Q2 2026 revenue grew 30.5% to \$458.8M (19.1% organic) with a 1.3-to-1 trailing book-to-bill, \$2.084B backlog and a \$15.0B bid pipeline, and FY2026 guidance was raised to \$1.750–1.810B revenue and \$173–176M adjusted EBITDA, backed by \$1.44B of cash and no funded debt. The thesis is the 2027 ramp: hypersonics scaling toward \$700M-plus, 3,000 GEK-class jet engines, and ~40 Valkyries a year from the start of 2028 — which is why the stock sits ~67% below its January high of \$134 after a 15x-sales multiple reset and ~21% year-over-year dilution. The primary risk is cash: free cash flow is guided to a use of \$85–105M in 2026 with heavy investment continuing into 2027, leaving GAAP operating income at roughly 1% of revenue until the production lines fill.
+
+**Bull:** \$75–\$95 · **Base:** \$50–\$62 · **Bear:** \$28–\$36
+
+[:material-arrow-right: Full Deep Dive](KTOS.md)
 
 ---

@@ -1,0 +1,90 @@
+{
+  "ticker": "GD",
+  "company": "General Dynamics Corporation",
+  "sector": "Industrials",
+  "theme": "Defense",
+  "sub_theme": "Prime Contractors",
+  "industry": "Aerospace & Defense — Submarines, Combat Vehicles, Munitions, Business Jets, Government IT",
+  "exchange": "NYSE",
+  "price": 334.16,
+  "price_date": "2026-09-28",
+  "market_cap": "$90.3B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "General Dynamics is the most backlog-secure of the US defense primes after the July 2026 Navy award handed Electric Boat $71.6B for five Columbia-class and nine Virginia-class submarines, lifting company backlog 32% YoY to a record $136.5B. All four segments booked above 1.0x in Q2 2026, Gulfstream is finally converting its order book into deliveries at 14.5% segment margin, and management raised FY2026 guidance to $16.80-$16.90 diluted EPS on ~$55.7B revenue. Yet the stock sits near its 52-week low at ~19x forward EPS because a Middle East de-escalation narrative has compressed the whole prime-contractor group — a dislocation between a contracted, decade-long production backlog and a sentiment-driven multiple.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$52.55B",
+    "revenue_growth": "+10.1% YoY",
+    "gross_margin": "10.2% (operating margin; GD does not report a gross margin line)",
+    "net_income": "$4.21B",
+    "eps_diluted": "$15.45",
+    "cash": "$2.33B (year-end 2025; $4.33B at Q2 2026)",
+    "fcf": "$3.96B"
+  },
+  "bull_case": {
+    "target": "$430–$470",
+    "drivers": [
+      "Submarine production ramps on schedule: the $71.6B Electric Boat award de-risks Marine Systems revenue into the late 2030s and Marine margin keeps climbing off the 7.3% Q2 2026 level",
+      "Gulfstream sustains a 1.3x-plus book-to-bill and delivers 165-plus aircraft annually, holding Aerospace margin above 14.5%",
+      "GD-OTS munitions and the seven-year Pentagon interceptor framework agreement turn artillery and missile-component replenishment into a durable growth line",
+      "Free cash flow conversion returns to 100% of net earnings, funding a 35th consecutive dividend increase plus larger buybacks",
+      "Defense primes re-rate back toward 24-25x forward EPS as the peace-dividend narrative fades"
+    ]
+  },
+  "base_case": {
+    "target": "$380–$405",
+    "assumptions": [
+      "FY2026 lands inside guidance at ~$55.7B revenue, 10.5% operating margin and $16.80-$16.90 diluted EPS",
+      "FY2027 EPS reaches ~$18 on high-single-digit revenue growth as backlog converts",
+      "Multiple holds at 21-22x forward EPS — roughly GD's five-year average, below the 2025 peak",
+      "Capex stays elevated near 3.5-4% of sales to fund shipyard and Gulfstream capacity, capping near-term FCF upside",
+      "Dividend grows ~6% annually and share count drifts lower via buybacks that more than cover dilution"
+    ]
+  },
+  "bear_case": {
+    "target": "$280–$310",
+    "risks": [
+      "A durable Middle East and Ukraine de-escalation triggers a full peace-dividend de-rating of the primes to 16-17x forward EPS",
+      "Submarine build-rate shortfalls or shipyard labour constraints push cost growth onto GD under incentive-fee terms",
+      "Business-jet demand rolls over with a macro slowdown, stalling the Aerospace margin story that has driven recent upside",
+      "FY2028 budget pressure or a Pentagon acquisition reset compresses Technologies and Combat Systems award flow",
+      "Continuing-resolution or shutdown dynamics delay obligations and push unbilled receivables higher"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 23, 2026",
+      "iso_date": "2026-10-23",
+      "event": "Q3 2026 earnings and call — first read on submarine award ramp, Gulfstream deliveries and FY2026 guidance confirmation"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "FY2027 defense appropriations progress — determines shipbuilding and munitions top-line visibility"
+    },
+    {
+      "date": "January 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 and FY2026 results plus initial FY2027 guidance; historically also the annual dividend-increase decision window"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-02",
+      "event": "FY2028 President's Budget request — first look at post-reconciliation shipbuilding and combat-vehicle profiles"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Incremental Navy, Army and GDIT awards; NATO and European rearmament orders for Combat Systems"
+    }
+  ],
+  "key_risks": [
+    "Geopolitical de-escalation compressing defense-prime multiples regardless of contracted backlog",
+    "Concentration in US government customers and exposure to appropriations timing, continuing resolutions and shutdowns",
+    "Fixed-price and incentive-fee shipbuilding contracts carry cost-overrun and schedule risk at Electric Boat",
+    "Skilled-labour and supply-chain constraints in submarine and munitions production capacity expansion",
+    "Business-jet cyclicality — Aerospace is the highest-margin segment and the most macro-sensitive",
+    "Elevated capex near 3.5-4% of sales suppresses free cash flow conversion while capacity is added"
+  ]
+}

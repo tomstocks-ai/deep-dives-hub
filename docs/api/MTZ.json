@@ -1,76 +1,79 @@
 {
   "ticker": "MTZ",
   "company": "MasTec, Inc.",
-  "sector": "Energy",
-  "industry": "Infrastructure Construction / Energy & Utilities",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Electrical Contractors",
+  "industry": "Engineering & Construction / Specialty Infrastructure Contracting",
   "exchange": "NYSE",
-  "price": 272.46,
-  "market_cap": "$28.3B",
-  "rating": "HOLD",
-  "last_updated": "2026-06-13",
-  "thesis": "MasTec is a leading North American infrastructure contractor benefiting from secular tailwinds in grid modernization, broadband expansion, clean energy buildout, and data center electrification. Q1 2026 revenue grew 34% YoY to $3.83B with adjusted EBITDA of $284M (+73% YoY) and record backlog of $20.3B. FY2026 guidance raised to $17.5B revenue and $1.5B adjusted EBITDA. Valuation at ~62x trailing P/E and ~21x EV/EBITDA is elevated, requiring continued execution. The $3.0B debt load is manageable if operating cash flow exceeds $1B as guided. HOLD at current levels — wait for a pullback to $320–$340 for better entry.",
+  "price": 204.09,
+  "price_date": "2026-09-28",
+  "market_cap": "$16.2B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "MasTec is a top-tier North American specialty infrastructure contractor levered to grid modernization, natural gas pipelines, renewables and — increasingly — inside-the-fence electrical work for AI data centers via the $1.65B Superior Group acquisition closed in July 2026. Q2 2026 set records: revenue $4.37B (+23% YoY), adjusted EBITDA $384M (+40%), adjusted EPS $2.22 (+49%), and an 18-month backlog of $21.4B (+30% YoY) on 1.2x book-to-bill. Management raised FY2026 guidance to $18.2B revenue, $1.6B adjusted EBITDA and $9.30 adjusted EPS, yet the stock has fallen ~54% from its 52-week high of $441 to $204 on a cut to the Communications outlook and a sector-wide AI-capex sentiment shock in September 2026. At 18.8x forward earnings, ~12x FY2026E EV/EBITDA and a PEG of 0.47 against a record backlog, the risk/reward has flipped in the buyer's favour — the main caveats are 2.2x pro-forma net leverage, thin trailing free cash flow of $245M, and the unresolved question of how much data-center work actually gets awarded.",
   "financials": {
-    "fiscal_year": "FY2026E",
-    "revenue": "$17.5B",
-    "revenue_growth": "+22%",
-    "gross_margin": "~15%",
-    "net_income": "$69.7M (Q1 2026 GAAP)",
-    "eps_diluted": "$1.39 (Q1 2026 adjusted)",
-    "cash": "$396M",
-    "fcf": ">$1B operating cash flow guided for FY2026"
+    "fiscal_year": "FY2026E (company guidance)",
+    "revenue": "$18.2B",
+    "revenue_growth": "+27%",
+    "gross_margin": "12.9% (TTM)",
+    "net_income": "$494M (TTM GAAP)",
+    "eps_diluted": "$9.30 (FY2026 adjusted guidance)",
+    "cash": "$316M",
+    "fcf": "$245M TTM; >$1B operating cash flow guided for FY2026, Q4-weighted"
   },
   "bull_case": {
-    "target": "$480–$520",
+    "target": "$380–$430",
     "drivers": [
-      "Infrastructure spending accelerates under federal programs (BEAD, IRA, grid hardening)",
-      "Margins expand to 10% as project mix improves and scale benefits kick in",
-      "Data center and clean energy backlog grows 40%+ annually",
-      "Operating cash flow exceeds $1B, enabling rapid deleveraging"
-    ]
-  },
-  "bear_case": {
-    "target": "$220–$260",
-    "risks": [
-      "Infrastructure spending slows due to economic weakness or political gridlock",
-      "Tariffs and labor inflation compress margins back to 6–7%",
-      "Backlog burns without replacement; revenue growth drops to single digits",
-      "Debt covenants tighten; equity dilution risk emerges"
+      "Mission-critical/data-center awards convert: management is pursuing several large turnkey and hyperscaler-connectivity packages expected to be awarded by year-end 2026 and to revenue in 2027",
+      "Superior Group ($1.65B, ~3,000 electricians, ~$1.4B 18-month backlog) lifts Power Delivery margins into the low double digits and opens cross-selling across the platform",
+      "FY2027 EPS reaches consensus ~$12.4 and the multiple re-rates back toward peer levels, closing the gap to the $414 average analyst target",
+      "Communications recovers in 2027 as new spectrum equipment ships and deferred wireline starts unlock",
+      "Pipeline Infrastructure sustains ~18% EBITDA margins with backlog at its highest level since 2020"
     ]
   },
   "base_case": {
-    "target": "$380–$420",
-    "assumptions": "Revenue grows 15% annually through 2028 on backlog execution. EBITDA margins stabilize at 8.5–9.0%. Debt is managed via operating cash flow. No equity raise needed."
+    "target": "$260–$300",
+    "assumptions": "FY2026 lands on guidance ($18.2B revenue, $1.6B adjusted EBITDA, $9.30 adjusted EPS) and Q4 delivers the bulk of the >$1B operating cash flow, taking net leverage below 2.0x. FY2027 revenue grows in the mid-to-high teens on the $21.4B backlog plus Superior, EPS reaches $11.50–12.40, and the stock trades at 22–24x forward earnings (~10x EV/EBITDA) — a discount to its own history that reflects lingering AI-capex uncertainty."
+  },
+  "bear_case": {
+    "target": "$150–$180",
+    "risks": [
+      "AI data-center capex digests: cancelled or paused projects and state-level moratoria push clean-energy and power-delivery awards into 2028, and backlog growth stalls",
+      "Communications weakness persists past 2026 — FY2026 segment revenue already cut to ~$3.25B with margins ~100bps lower YoY",
+      "Fixed-price execution misses repeat; the Q2 flow-through shortfall on fuel, equipment and project execution proves structural rather than timing",
+      "The Q4-weighted >$1B operating cash flow target is missed, leaving net leverage above 2.0x after the $1.65B Superior deal",
+      "Multiple compresses to 7–8x EV/EBITDA, the level cyclical E&C names trade at in a capex downturn"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-07-30",
-      "event": "Q2 2026 earnings release — watch margin trajectory and backlog update",
-      "iso_date": "2026-07-30"
+      "date": "October 29, 2026",
+      "iso_date": "2026-10-29",
+      "event": "Q3 2026 earnings (after close). Company guide: revenue $4.9B, adjusted EBITDA $482M, adjusted EPS $2.98. First reported Superior Group backlog and the Communications margin step-up of ~200bps versus the first half are the swing factors."
     },
     {
-      "date": "2026-08-15",
-      "event": "Potential data center or clean energy contract announcements",
-      "iso_date": "2026-08-15"
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Majority of the guided >$1B FY2026 operating cash flow is expected to land, with net leverage targeted below 2.0x by year-end. Management also expects additional large mission-critical and turnkey data-center awards before year-end."
     },
     {
-      "date": "2026-10-30",
-      "event": "Q3 2026 earnings release",
-      "iso_date": "2026-10-30"
+      "date": "Late February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and initial FY2027 guidance — the first hard read on whether the $21.4B+ backlog converts and whether Communications inflects."
     },
     {
-      "date": "2027-01-15",
-      "event": "FY2027 guidance and backlog update",
-      "iso_date": "2027-01-15"
+      "date": "First half 2027",
+      "iso_date": "2027",
+      "event": "New spectrum equipment becomes available to carriers, the stated trigger for the deferred wireless build cycle that hit the 2026 Communications outlook."
     }
   ],
   "key_risks": [
-    "Project execution risk on large fixed-price contracts",
-    "$3.0B debt load is material if EBITDA growth stalls",
-    "Labor availability and wage inflation are persistent cost pressures",
-    "Tariffs on steel and equipment directly impact material costs",
-    "Valuation at 62x trailing P/E leaves no room for error"
-  ],
-  "theme": "AI Buildout",
-  "sub_theme": "Electrical Contractors",
-  "price_date": "2026-08-07"
+    "AI/data-center capex sentiment: September 2026 brought an industry-wide AI-slowdown scare plus reports of cancelled and paused data-center projects, which can defer the awards underpinning the growth case",
+    "Communications segment: FY2026 revenue cut by ~$400M to ~$3.25B on wireless spectrum equipment delays and wireline project deferrals; Q2 segment EBITDA margin fell 170bps YoY to 8.2%",
+    "Leverage and integration: $3.24B total debt, ~$2.9B net debt, net leverage 1.8x reported and 2.2x pro forma for Superior — the largest acquisition in company history",
+    "Cash conversion: TTM free cash flow of only $245M on $16.1B of revenue; the >$1B operating cash flow guide is heavily back-half weighted and working capital has consumed the earnings growth so far",
+    "Fixed-price contract execution: unapproved change orders sat just above $200M at Q2, and one poor large project can absorb a quarter of segment profit",
+    "Beta of 1.82 and 6.8% of shares short mean the equity trades as a high-torque proxy for infrastructure and AI-capex sentiment rather than on fundamentals"
+  ]
 }

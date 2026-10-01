@@ -1,0 +1,107 @@
+{
+  "ticker": "QBTS",
+  "company": "D-Wave Quantum Inc.",
+  "sector": "Technology",
+  "theme": "Quantum Computing",
+  "sub_theme": "Pure Plays",
+  "industry": "Quantum Computing Systems, Cloud Services and Software",
+  "exchange": "NASDAQ",
+  "price": 16.78,
+  "price_date": "2026-09-28",
+  "market_cap": "~$6.2B",
+  "rating": "HOLD / SPEC.",
+  "last_updated": "2026-09-29",
+  "thesis": "D-Wave is the world's first commercial quantum computer vendor and, since the January 2026 acquisition of Quantum Circuits, the only dual-platform pure-play selling both annealing (Advantage2, 4,500 qubits) and error-detecting gate-model systems. The order book has genuinely inflected — H1 2026 bookings of $35.5M were up 1,120% YoY and remaining performance obligations reached $40.7M (+668%) — and a September 8, 2026 definitive agreement gives D-Wave access to up to $100M of CHIPS and Science Act funding in exchange for a minority, non-controlling Commerce Department equity stake. The problem is that none of it has reached the income statement: Q2 2026 revenue was $3.08M, flat YoY and 24% below consensus, trailing-twelve-month revenue is roughly $12.4M, and adjusted EBITDA loss more than doubled to $69.9M in H1 while cash and investments fell to $546.2M. At ~$6.2B market cap that is several hundred times sales — richer than either IonQ or Rigetti — and plaintiff firms opened securities investigations in September 2026 over the Q2 miss. Own it only as a small, high-risk position; the backlog has to convert into recognized revenue before the multiple is defensible.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$24.6M",
+    "revenue_growth": "+179%",
+    "gross_margin": "82.6% (GAAP)",
+    "net_income": "($355.1M)",
+    "eps_diluted": "($1.11)",
+    "cash": "$884.5M at 2025-12-31 (cash + marketable securities); $546.2M at 2026-06-30",
+    "fcf": "not disclosed in the FY2025 release; H1 2026 operating cash outflow was ($73.5M) plus ($5.9M) capex"
+  },
+  "bull_case": {
+    "target": "$34–$45",
+    "drivers": [
+      "The $40.7M RPO converts on schedule — 57% is guided to be recognized within 12 months — and the $20M Florida Atlantic University Advantage2 deployment lands by end-2026, taking FY2027 revenue to the $45-60M range",
+      "Up to $100M of CHIPS and Science Act funding is drawn down without dilution, underwriting the annealing roadmap (20,000 qubits in 2029, 100,000 qubits by 2031) and the gate-model roadmap",
+      "The Quantum Circuits dual-rail architecture — 90% erasure detection, >99.9% gate fidelity, validated in Nature — delivers logical qubits with an order of magnitude fewer physical qubits, making the 2028 181-qubit and 2030 10-logical-qubit milestones credible",
+      "Defense and government revenue scales through the new U.S. government business unit and the Anduril / Davidson air-and-missile-defense work, where hybrid solvers showed at least 10x faster time-to-solution",
+      "Sector sentiment recovers and a Moderate-to-Strong Buy consensus with a ~$35-36 average target reasserts itself after a 64% drawdown from the 52-week high"
+    ]
+  },
+  "base_case": {
+    "target": "$16–$22",
+    "assumptions": "Bookings stay lumpy but the backlog converts slowly, lifting FY2027 revenue into the $30-45M range off a ~$12.4M trailing base; gross margin normalizes in the 55-70% band as lower-margin services grow; adjusted EBITDA loss stays near $140M annualized, so the $546.2M cash pile plus the $100M CHIPS award funds roughly three years without a forced raise; the multiple stays compressed as investors wait for revenue recognition, and the stock trades around current levels"
+  },
+  "bear_case": {
+    "target": "$7–$11",
+    "risks": [
+      "Revenue stays flat for a third year — it has not moved in two — and the market stops paying several hundred times sales for a $12M-revenue company",
+      "Cash burn keeps accelerating from the ~$40M per quarter H1 2026 pace and forces an equity raise at depressed prices, on top of the 372M shares already outstanding",
+      "The September 2026 Pomerantz and Kessler Topaz investigations escalate into a securities class action, adding legal cost and a disclosure overhang",
+      "A quantum winter compresses the whole cohort; QBTS has already round-tripped from $46.75 to below $13 inside twelve months",
+      "Gate-model milestones slip, or competing modalities at IBM, Google, IonQ and Quantinuum reach useful fault tolerance first and annealing is left as a niche optimization tool",
+      "Goodwill and intangibles of $554M from the Quantum Circuits deal are impaired if the gate-model roadmap disappoints"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 28, 2026",
+      "iso_date": "2026-10-28",
+      "event": "Qubits Asia 2026 quantum computing user conference in Seoul — customer and partner announcements across the Korean and Japanese base"
+    },
+    {
+      "date": "Early November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 earnings — the first real test of whether the $40.7M RPO is converting into recognized revenue, plus an updated read on the ~$40M per quarter burn"
+    },
+    {
+      "date": "End of 2026",
+      "iso_date": "2026-12",
+      "event": "Florida Atlantic University $20M Advantage2 system deployment; revenue recognition on the largest booking in company history"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Delivery of the first 17-physical-qubit gate-model system with logical error rates 2x lower than physical error rates; launch of the error-aware gate-model simulator"
+    },
+    {
+      "date": "End of 2026",
+      "iso_date": "2026-12",
+      "event": "Corporate headquarters transition from Palo Alto to Boca Raton, Florida"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "49-physical-qubit gate-model system targeting a 20-fold error reduction factor"
+    },
+    {
+      "date": "2028",
+      "iso_date": "2028",
+      "event": "181-physical-qubit system targeting a 2,000-fold error reduction factor — the stated blueprint for fault-tolerant scaling"
+    },
+    {
+      "date": "2029",
+      "iso_date": "2029",
+      "event": "20,000-qubit multi-chip Advantage3 annealing system, the intermediate step toward 100,000 qubits by 2031"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Milestone-based drawdown of the up-to-$100M Department of Commerce CHIPS award finalized September 8, 2026"
+    }
+  ],
+  "key_risks": [
+    "Revenue has been flat for two years: Q2 2026 revenue of $3.08M was unchanged YoY and 24% below the ~$4.03M consensus, and trailing-twelve-month revenue is only about $12.4M",
+    "Valuation is the most extreme in the quantum cohort — a ~$6.2B market cap against ~$12.4M trailing revenue works out to several hundred times sales, versus roughly 68x for IonQ",
+    "Bookings are lumpy and concentrated: H1 2026's $35.5M leaned on a single $20M system sale, and Q2 2026 standalone bookings were just $2.1M",
+    "Cash burn is accelerating — H1 2026 adjusted EBITDA loss of $69.9M and $73.5M of operating cash outflow, roughly double the 2024-25 pace — and cash fell from $884.5M to $546.2M after the Quantum Circuits deal",
+    "Securities-law investigations opened by Pomerantz (September 10, 2026) and Kessler Topaz (September 2026) over the Q2 2026 results create a legal and disclosure overhang",
+    "Dilution risk: 372.0M shares outstanding as of June 30, 2026 versus 358.7M at year-end 2025, with a history of ATM and Lincoln Park issuance funding the balance sheet",
+    "$342.6M of goodwill and $211.8M of intangibles from Quantum Circuits are impairment candidates if the gate-model roadmap slips",
+    "Annealing has a narrower addressable problem set than gate-model computing, so D-Wave's commercial lead may not transfer to the fault-tolerant era"
+  ]
+}

@@ -12,6 +12,7 @@
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NYSE:SONY" hide-background></tv-ticker-tag> | Sony Group Corporation | <span class="rating-buy">BUY</span> | 2026-07-18 | [:material-file-document: Read](SONY.md) |
 | <tv-ticker-tag symbol="NYSE:WOLF" hide-background></tv-ticker-tag> | Wolfspeed, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-08-04 | [:material-file-document: Read](WOLF.md) |
+| <tv-ticker-tag symbol="NASDAQ:MPWR" hide-background></tv-ticker-tag> | Monolithic Power Systems, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](MPWR.md) |
 
 ### Analog / Power
 
@@ -22,6 +23,16 @@ Wolfspeed is the world's leading pure-play silicon carbide (SiC) semiconductor m
 **Bull:** \$35–\$50 · **Base:** \$18–\$26 · **Bear:** \$8–\$14
 
 [:material-arrow-right: Full Deep Dive](WOLF.md)
+
+---
+
+**MPWR — Monolithic Power Systems, Inc. · <span class="rating-buy">BUY</span>**
+
+Monolithic Power Systems designs the analog and power-management silicon — and increasingly the encapsulated power modules — that convert and deliver electricity inside AI servers, GPUs, memory, optical modules, switches and cars, and it owns the proprietary BCD process it ports across partner foundries. Growth is accelerating rather than fading: FY2025 revenue rose 26.4% to \$2.79B at a 55.2% gross margin with \$666M of free cash flow, then Q2 2026 revenue jumped 47.6% year over year to a record \$980.6M on a 37.5% non-GAAP operating margin, with Q3 2026 guided to ~\$1.15B — about 16% above consensus — and a GlobalFoundries 300mm Singapore agreement signed in September to lift the supply ceiling from early 2027. The balance sheet is pristine at \$1.39B net cash and 31.7% ROIC, and both published Street consensus targets (\$1,731 and \$1,840) sit 28-36% above the \$1,351.20 close. The primary risk is the price itself: 82x trailing GAAP earnings and 65x EV/EBITDA against a semiconductor peer median near 17x means an AI digestion cycle would compress the multiple far faster than earnings could offset.
+
+**Bull:** \$2,150–\$2,500 · **Base:** \$1,700–\$1,900 · **Bear:** \$850–\$1,050
+
+[:material-arrow-right: Full Deep Dive](MPWR.md)
 
 ---
 
@@ -47,6 +58,7 @@ Sony Group Corporation is a high-quality Japanese conglomerate being mispriced n
 | <tv-ticker-tag symbol="NASDAQ:AMAT" hide-background></tv-ticker-tag> | Applied Materials, Inc. | <span class="rating-buy">BUY</span> | 2026-08-04 | [:material-file-document: Read](AMAT.md) |
 | <tv-ticker-tag symbol="NASDAQ:LRCX" hide-background></tv-ticker-tag> | Lam Research Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](LRCX.md) |
 | <tv-ticker-tag symbol="NASDAQ:KLAC" hide-background></tv-ticker-tag> | KLA Corporation | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](KLAC.md) |
+| <tv-ticker-tag symbol="NASDAQ:SNPS" hide-background></tv-ticker-tag> | Synopsys, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](SNPS.md) |
 
 ---
 
@@ -110,12 +122,24 @@ KLA is the dominant global supplier of semiconductor process control and yield m
 
 ---
 
+**SNPS — Synopsys, Inc. · <span class="rating-buy">BUY</span>**
+
+Synopsys is one half of the EDA duopoly every advanced chip design must pass through, and the July 2025 Ansys acquisition extended that toll booth from silicon into system-level thermal, electromagnetic and structural simulation. Q3 FY2026 revenue grew 42% to \$2.477B with non-GAAP EPS of \$3.91 beating the high end of guidance, the previously shrinking Design IP segment returned to year-over-year growth, and management raised FY2026 guidance to ~\$9.715B revenue, ~41.5% non-GAAP operating margin and ~\$2.6B free cash flow. The stock is still down ~13% over the past year at ~28x guided non-GAAP earnings versus a ~\$575 consensus target, with Nvidia holding a \$2.0B stake and Elliott a multi-billion-dollar activist position. The primary risk is the unresolved question of whether AI design agents eventually compress the seat-based licensing model faster than Synopsys can reprice it, compounded by \$26.8B of Ansys goodwill and China export-control exposure.
+
+**Bull:** \$560–\$640 · **Base:** \$470–\$520 · **Bear:** \$320–\$370
+
+[:material-arrow-right: Full Deep Dive](SNPS.md)
+
+---
+
 ## Photonics & Optical Interconnects
 
 || Ticker | Company | Rating | Last Updated | Full DD |
 ||--------|---------|--------|--------------|---------|
 | <tv-ticker-tag symbol="NASDAQ:AAOI" hide-background></tv-ticker-tag> | Applied Optoelectronics, Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-06-15 | [:material-file-document: Read](AAOI.md) |
 | <tv-ticker-tag symbol="NYSE:COHR" hide-background></tv-ticker-tag> | Coherent Corp. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](COHR.md) |
+| <tv-ticker-tag symbol="NYSE:FN" hide-background></tv-ticker-tag> | Fabrinet | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](FN.md) |
+| <tv-ticker-tag symbol="NASDAQ:LITE" hide-background></tv-ticker-tag> | Lumentum Holdings Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](LITE.md) |
 
 ---
 
@@ -139,6 +163,26 @@ Coherent is a scaled, vertically integrated photonics leader and a primary benef
 
 ---
 
+**FN — Fabrinet · <span class="rating-buy">BUY</span>**
+
+Fabrinet is the largest independent contract manufacturer of high-speed optical transceivers, 400ZR/800ZR coherent DCI pluggables and HPC circuit-board assemblies, built mostly in Thailand for Cisco (20% of FY2026 revenue), NVIDIA (16%), Nokia (11%) and Amazon (11%). FY2026 revenue rose 36% to \$4.64B with non-GAAP EPS up 39% to \$14.09, Q4 data-center revenue hit \$669M (51% of total, +68% YoY), and Q1 FY2027 is guided to \$1.375–1.425B — yet the shares sit ~45% below their 52-week high because NVIDIA dual-sourced 800G, gross margin is stuck at 12%, and free cash flow collapsed to \$4M on doubled capex. At ~22x consensus FY2027 EPS with ~\$875M of net cash and no debt, the valuation prices in a stall the guidance does not support. The primary risk is the combination itself: four customers are ~58% of revenue on a 12% gross margin, so any AI capex digestion lands straight on earnings.
+
+**Bull:** \$700–820 · **Base:** \$480–560 · **Bear:** \$280–340
+
+[:material-arrow-right: Full Deep Dive](FN.md)
+
+---
+
+**LITE — Lumentum Holdings Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Lumentum makes the lasers, optical modules and optical circuit switches that carry data as light inside AI data centers, and FY2026 (ended June 2026) is the year the transition from telecom cyclical to AI infrastructure vendor showed up in the numbers: revenue +83% to \$3.01B, non-GAAP operating margin from 9.7% to 29.8%, non-GAAP EPS of \$8.67, and Q1 FY2027 guidance of \$1.225–1.275B implying ~130% growth. NVIDIA's March 2026 \$2B preferred-stock investment plus a multi-billion purchase commitment and capacity rights hard-coded Lumentum into the AI optics supply chain, while OCS (backlog well past \$400M), 1.6T cloud modules and in-rack CPO/ELS/NPO optics are only beginning to contribute. The \$6.9B FY2026 GAAP loss is an artifact of a one-time, non-cash \$7.8B debt-extinguishment charge from equitizing converts, not an operating event. The risk is the price: up 467% in twelve months at ~43x forward non-GAAP EPS, with NVIDIA and hyperscaler concentration, transceiver ASP erosion and ongoing dilution meaning any guidance wobble de-rates hard.
+
+**Bull:** \$1,350–\$1,600 · **Base:** \$1,000–\$1,150 · **Bear:** \$450–\$600
+
+[:material-arrow-right: Full Deep Dive](LITE.md)
+
+---
+
 ## Networking & Connectivity
 
 || Ticker | Company | Rating | Last Updated | Full DD |
@@ -152,6 +196,8 @@ Coherent is a scaled, vertically integrated photonics leader and a primary benef
 | <tv-ticker-tag symbol="NYSE:GLW" hide-background></tv-ticker-tag> | Corning Incorporated | <span class="rating-buy">BUY</span> | 2026-07-28 | [:material-file-document: Read](GLW.md) |
 | <tv-ticker-tag symbol="NYSE:ANET" hide-background></tv-ticker-tag> | Arista Networks, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-09 | [:material-file-document: Read](ANET.md) |
 | <tv-ticker-tag symbol="NASDAQ:ALAB" hide-background></tv-ticker-tag> | Astera Labs, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-30 | [:material-file-document: Read](ALAB.md) |
+| <tv-ticker-tag symbol="NYSE:CIEN" hide-background></tv-ticker-tag> | Ciena Corporation | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](CIEN.md) |
+| <tv-ticker-tag symbol="NASDAQ:VIAV" hide-background></tv-ticker-tag> | Viavi Solutions Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](VIAV.md) |
 
 
 **GLW — Corning Incorporated · <span class="rating-buy">BUY</span>**
@@ -251,6 +297,26 @@ Astera Labs is a fabless semiconductor company developing connectivity solutions
 **Bull:** \$390–450 · **Base:** \$260–300 · **Bear:** \$120–160
 
 [:material-arrow-right: Full Deep Dive](ALAB.md)
+
+---
+
+**CIEN — Ciena Corporation · <span class="rating-buy">BUY</span>**
+
+Ciena is the only large pure-play optical networking vendor, supplying the coherent modems, line systems and interconnects that move data between and inside data centers. AI has made that gear scarce: fiscal Q3 2026 revenue grew 37% to a record \$1.67B with adjusted operating margin at a company-record 22.5% and adjusted EPS tripling to \$2.11, while backlog jumped \$800M to \$8.5B and is guided above \$10B by fiscal year-end. Management guides FY2027 revenue to at least \$8.3–8.4B — explicitly a supply-constrained floor — at 25–27% adjusted operating margin, yet the stock sits ~46% below its June 2026 high on a sector-wide AI-optics de-rating, leaving a 30%-plus grower near 29x estimated FY2027 earnings. The main risk is concentration and cyclicality: two customers were 41.7% of Q3 revenue, and today's high-single-digit to low-20s percent price increases reverse if component supply catches up in FY2028.
+
+**Bull:** \$560–660 · **Base:** \$420–480 · **Bear:** \$190–240
+
+[:material-arrow-right: Full Deep Dive](CIEN.md)
+
+---
+
+**VIAV — Viavi Solutions Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Viavi sells the test and measurement instruments that qualify, screen and monitor optical networks — every 400G, 800G and 1.6T transceiver, switch and AI fabric has to pass through its lab, production and field tools. FY2026 (ended June 2026) revenue rose 40.0% to \$1.518B with non-GAAP operating margin up 630bps to 20.6% and non-GAAP EPS doubling to \$1.00, as the data center ecosystem grew to roughly half of the NSE segment and the \$425M Spirent high-speed-Ethernet acquisition integrated ahead of plan; Q1 FY2027 is guided to \$450–460M and \$0.40–0.42. At ~\$10.1B market cap and ~24x guided forward non-GAAP earnings with cash roughly matching \$650M of principal debt, the setup is attractive, and 1.6T reaching parity with 800G in calendar 2027 plus co-packaged optics and optical circuit switching extend the test cycle. The primary risk is concentration: roughly 40% of company revenue now rides on hyperscaler optical capex while the legacy service provider base grows only 1–2%, and the shares are up 226% in a year with a \$12.23–\$60.43 52-week range.
+
+**Bull:** \$62–\$72 · **Base:** \$48–\$56 · **Bear:** \$26–\$32
+
+[:material-arrow-right: Full Deep Dive](VIAV.md)
 
 ---
 
@@ -440,11 +506,12 @@ U.S.-based zinc-based (Znyth) long-duration battery manufacturer offering a non-
 | <tv-ticker-tag symbol="NASDAQ:TSSI" hide-background></tv-ticker-tag> | TSS, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-28 | [:material-file-document: Read](TSSI.md) |
 | <tv-ticker-tag symbol="NYSE:P" hide-background></tv-ticker-tag> | Everpure, Inc. | <span class="rating-hold">HOLD</span> | 2026-08-04 | [:material-file-document: Read](P.md) |
 | <tv-ticker-tag symbol="NYSE:PWR" hide-background></tv-ticker-tag> | Quanta Services, Inc. | <span class="rating-buy">BUY</span> | 2026-06-13 | [:material-file-document: Read](PWR.md) |
-| <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-hold">HOLD</span> | 2026-06-13 | [:material-file-document: Read](MTZ.md) |
+| <tv-ticker-tag symbol="NYSE:MTZ" hide-background></tv-ticker-tag> | MasTec, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](MTZ.md) |
 | <tv-ticker-tag symbol="NASDAQ:SMCI" hide-background></tv-ticker-tag> | Super Micro Computer, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](SMCI.md) |
 | <tv-ticker-tag symbol="NYSE:VRT" hide-background></tv-ticker-tag> | Vertiv Holdings Co | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](VRT.md) |
 | <tv-ticker-tag symbol="NYSE:TT" hide-background></tv-ticker-tag> | Trane Technologies plc | <span class="rating-hold">HOLD</span> | 2026-08-14 | [:material-file-document: Read](TT.md) |
 | <tv-ticker-tag symbol="NYSE:CLS" hide-background></tv-ticker-tag> | Celestica Inc. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](CLS.md) |
+| <tv-ticker-tag symbol="NYSE:ETN" hide-background></tv-ticker-tag> | Eaton Corporation plc | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](ETN.md) |
 
 ---
 
@@ -532,13 +599,23 @@ Largest North American infrastructure contractor with a near-record \$50 billion
 
 ---
 
-**MTZ — MasTec, Inc. · <span class="rating-hold">HOLD</span>**
+**MTZ — MasTec, Inc. · <span class="rating-buy">BUY</span>**
 
-Leading North American infrastructure contractor with record \$20.3B backlog. Q1 2026 revenue \$3.83B (+34% YoY) and adjusted EBITDA \$284M (+73% YoY). FY2026 guidance raised to \$17.5B revenue and \$1.5B adjusted EBITDA. Key beneficiary of broadband expansion, clean energy buildout, and data center electrification. Valuation at ~62x trailing P/E is elevated — wait for pullback to \$320–\$340.
+MasTec is one of North America's largest specialty infrastructure contractors, building transmission and substations, solar and heavy civil projects, natural gas pipelines, fiber networks and — since the \$1.65B Superior Group acquisition closed in July 2026 — the electrical systems inside hyperscale AI data centers. Q2 2026 set company records with revenue of \$4.37B (+23% YoY), adjusted EBITDA of \$384M (+40%) and an 18-month backlog of \$21.4B (+30%), and management raised FY2026 guidance to \$18.2B revenue, \$1.6B adjusted EBITDA and \$9.30 adjusted EPS. Yet the stock trades at \$204, ~54% below its 52-week high, after a \$400M cut to the Communications outlook on wireless spectrum timing and a sector-wide AI-capex sentiment shock in September — leaving 18.8x forward earnings and a 0.47 PEG against a record backlog. The primary risks are cash conversion (only \$245M of trailing free cash flow, with the guided >\$1B of operating cash flow loaded into Q4) and 2.2x pro-forma net leverage after the largest acquisition in company history.
 
-**Bull:** \$480–\$520 · **Base:** \$380–\$420 · **Bear:** \$220–\$260
+**Bull:** \$380–\$430 · **Base:** \$260–\$300 · **Bear:** \$150–\$180
 
 [:material-arrow-right: Full Deep Dive](MTZ.md)
+
+---
+
+**ETN — Eaton Corporation plc · <span class="rating-buy">BUY</span>**
+
+Eaton is the intelligent power management franchise that sells nearly everything between the utility line and the AI chip — medium-voltage switchgear, busway, UPS and power quality systems, modular power skids, and, since the Boyd Thermal acquisition, the cold plates and coolant distribution units that liquid-cool GPU racks, at roughly \$3.4M of content per data center megawatt. Q2 2026 was a record: revenue of \$8.53B (+21% total, +14% organic) and adjusted EPS of \$3.15, with data center organic revenue up ~65% against a market growing 23%, rolling twelve-month orders up 41% in Electrical Americas, total Electrical backlog up 43% year over year, and FY2026 adjusted EPS guidance raised to \$13.40–\$13.60. The thesis is duration: 307 GW of announced US data center backlog is roughly 15 years of building at 2025 rates, only ~20% of which converts near term, and the pending Dana Reverse Morris Trust separation of Mobility leaves a higher-growth, higher-margin Electrical and Aerospace company. The primary risks are valuation at ~32x guided FY2026 adjusted earnings and a balance sheet carrying \$21.3B of debt against \$695M of cash after ~\$11B of Q1 acquisitions, with Electrical Americas margins still below prior-year levels pending the guided second-half price/cost recovery.
+
+**Bull:** \$560–\$620 · **Base:** \$470–\$510 · **Bear:** \$310–\$350
+
+[:material-arrow-right: Full Deep Dive](ETN.md)
 
 ---
 

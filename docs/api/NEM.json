@@ -1,0 +1,85 @@
+{
+  "ticker": "NEM",
+  "company": "Newmont Corporation",
+  "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "industry": "Gold Mining",
+  "exchange": "NYSE",
+  "price": 116.05,
+  "price_date": "2026-09-28",
+  "market_cap": "$121.5B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "World's largest gold producer and the only gold miner in the S&P 500, guiding 5.26 million attributable ounces in 2026 at by-product AISC of $1,680/oz from a 13-mine core portfolio plus the 38.5% Nevada Gold Mines JV. H1 2026 delivered sales of $13.4B (+30% YoY), net income of $5.46B and record free cash flow of $5.35B at a $4,661/oz realized gold price, funding a $1.04 annualized dividend and $3.5B of buybacks that have cut the share count roughly 9% since February 2024. At $116.05 the stock trades on ~12.8x FY2026 consensus EPS of ~$9.09 and ~7x trailing adjusted EBITDA of $16.8B with a net cash balance sheet. The stock has de-rated with bullion, which sits ~26% below its January 2026 peak of ~$5,608/oz as the Fed resumed hiking — gold price direction remains the dominant variable.",
+  "financials": {
+    "fiscal_year": "FY2026 (H1 reported)",
+    "revenue": "$13.43B (H1 2026)",
+    "revenue_growth": "+30% (H1 YoY)",
+    "gross_margin": "~70% (sales less costs applicable to sales, H1 2026)",
+    "net_income": "$5.46B (H1 2026)",
+    "eps_diluted": "$5.07 (H1 2026)",
+    "cash": "$9.0B (net cash $3.4B at 30 Jun 2026)",
+    "fcf": "$5.35B (H1 2026)"
+  },
+  "bull_case": {
+    "target": "$150–$170",
+    "drivers": [
+      "Gold recovers toward $5,000–$5,500/oz as central bank buying and policy uncertainty reassert themselves; every $100/oz adds ~$505M of pre-tax revenue",
+      "2026 guidance met at 5.26Moz with by-product AISC tracking below the $1,680/oz plan (YTD $1,321/oz)",
+      "Buyback continues at pace — $4.3B remains of the $6B authorization — compounding per-share FCF and dividend growth",
+      "Red Chris Block Cave reaches a positive final investment decision and Cadia PC1-2, Tanami Expansion 2 and Cerro Negro Expansion add long-life ounces",
+      "Nevada Gold Mines JV settlement creates a ~100Moz Nevada complex, unlocking Fourmile, Mike and Fiberline value"
+    ]
+  },
+  "base_case": {
+    "target": "$125–$140",
+    "assumptions": "Gold averages $4,200–$4,600/oz through 2027, in line with the $4,500/oz guidance assumption. FY2026 attributable production lands near 5.26Moz with by-product AISC of $1,500–$1,680/oz. FY2026 EPS approximates the ~$9.09 consensus and free cash flow of roughly $8.5–9.0B (estimate, not company-guided) funds the $1.1B dividend plus ongoing repurchases. Multiple stays in a 13–15x earnings band."
+  },
+  "bear_case": {
+    "target": "$85–$100",
+    "risks": [
+      "Gold retraces to $3,500–$3,800/oz on further Fed tightening and 5%+ long-end Treasury yields, compressing margins and the multiple together",
+      "Cost inflation from higher Ghanaian royalties, diesel and labour pushes AISC above guidance",
+      "Repeat geotechnical or seismic disruption at Cadia, Lihir or Brucejack cuts production and lifts unit costs",
+      "Jurisdictional or FX shocks across PNG, Peru, Argentina, Ghana, Suriname and Mexico",
+      "Reclamation drag persists: $6.2B of reclamation liabilities with ~$1.8B of Yanacocha water treatment spend ($1.1B incurred) before normalising in 2028"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-10-22",
+      "iso_date": "2026-10-22",
+      "event": "Q3 2026 results — production broadly flat sequentially, with higher sustaining and development capital and the $1.95B Barrick payment hitting cash flow"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Red Chris Block Cave final investment decision following British Columbia environmental and Mines Act approvals"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results, 2027 production and cost guidance, and the annual per-share dividend reset off a lower share count"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Share repurchases under the $6B authorization — $4.3B remaining as of the Q2 filing"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Gold price path and Federal Reserve policy — bullion near $4,150/oz versus the $4,500/oz guidance assumption"
+    }
+  ],
+  "key_risks": [
+    "Gold price volatility — bullion is ~26% below its January 2026 peak of ~$5,608/oz and the equity is a levered proxy",
+    "Rate and real-yield risk: the Fed hiked in September 2026 and the 30-year Treasury yield reached 5.53%, its highest since 2004",
+    "Unit cost inflation — Q2 by-product AISC jumped to $1,621/oz on Ghana royalties, diesel and Cadia downtime costs",
+    "Operational and geotechnical risk at large block-cave and refractory assets (Cadia seismic event in April 2026, Lihir, Brucejack)",
+    "Geopolitical and FX exposure across PNG, Peru, Argentina, Ghana, Suriname and Mexico",
+    "$6.2B reclamation and remediation liabilities, including the ~$1.8B Yanacocha water treatment programme",
+    "Capital allocation: the $1.95B cash payment to Barrick reduces the net cash buffer that underpins the through-cycle dividend"
+  ]
+}

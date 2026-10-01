@@ -17,3 +17,7 @@ Thumbs.db
 
 # Private agent-runtime prompt supplement (never commit)
 BOT-PROMPT.private.md
+
+# Transient per-ticker gist staging for bulk refreshes
+# (merged into thematic pages by helpers/merge_staged_gists.py)
+.ddh-staging/

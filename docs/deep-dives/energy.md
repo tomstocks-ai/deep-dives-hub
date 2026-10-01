@@ -13,12 +13,13 @@
 | <tv-ticker-tag symbol="NYSE:OKLO" hide-background></tv-ticker-tag> | Oklo Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-12 | [:material-file-document: Read](OKLO.md) |
 | <tv-ticker-tag symbol="NASDAQ:IMSR" hide-background></tv-ticker-tag> | Terrestrial Energy Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](IMSR.md) |
 | <tv-ticker-tag symbol="NYSE:SMR" hide-background></tv-ticker-tag> | NuScale Power Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](SMR.md) |
-| <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-07 | [:material-file-document: Read](LEU.md) |
-| <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-10 | [:material-file-document: Read](ASPI.md) |
+| <tv-ticker-tag symbol="NYSE:LEU" hide-background></tv-ticker-tag> | Centrus Energy Corp. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](LEU.md) |
+| <tv-ticker-tag symbol="NASDAQ:ASPI" hide-background></tv-ticker-tag> | ASP Isotopes Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-09-29 | [:material-file-document: Read](ASPI.md) |
 | <tv-ticker-tag symbol="NYSEAMERICAN:UUUU" hide-background></tv-ticker-tag> | Energy Fuels Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-15 | [:material-file-document: Read](UUUU.md) |
 | <tv-ticker-tag symbol="NASDAQ:PESI" hide-background></tv-ticker-tag> | Perma-Fix Environmental Services, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-17 | [:material-file-document: Read](PESI.md) |
 | <tv-ticker-tag symbol="NASDAQ:TLN" hide-background></tv-ticker-tag> | Talen Energy Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-30 | [:material-file-document: Read](TLN.md) |
 | <tv-ticker-tag symbol="NASDAQ:NNE" hide-background></tv-ticker-tag> | NANO Nuclear Energy Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-08-30 | [:material-file-document: Read](NNE.md) |
+| <tv-ticker-tag symbol="NYSE:BWXT" hide-background></tv-ticker-tag> | BWX Technologies, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](BWXT.md) |
 
 ---
 
@@ -74,13 +75,23 @@ NANO Nuclear Energy is developing two portable microreactor designs — ZEUS (so
 
 ---
 
+**BWXT — BWX Technologies, Inc. · <span class="rating-buy">BUY</span>**
+
+BWX Technologies is the sole-source manufacturer of nuclear reactors for the U.S. Navy and the largest Western supplier of heavy components to the commercial nuclear fleet, with roughly 70 percent of revenue from U.S. government customers. FY2025 revenue was \$3.20B (+18.3 percent) with \$4.01 of non-GAAP EPS, and management has raised FY2026 guidance twice — to ~\$3.80B of revenue, \$662M–\$672M of adjusted EBITDA and \$4.70–\$4.80 of non-GAAP EPS — while backlog hit a record \$8.40B, up 40 percent year over year on naval propulsion, special materials and a 72 percent jump in Commercial Operations. The thesis is a mispricing: the shares closed at a 52-week low of \$134.35 on 28 September 2026, down 44 percent from their high, because the whole nuclear and AI-power complex de-rated, not because anything in the numbers broke. The main risk is that ~28x FY2026E earnings still leaves room for compression, particularly with Government Operations margins flat-to-down as favourable contract adjustments normalise.
+
+**Bull:** \$225–\$250 · **Base:** \$155–\$185 · **Bear:** \$100–\$120
+
+[:material-arrow-right: Full Deep Dive](BWXT.md)
+
+---
+
 ### Fuel Cycle
 
 **LEU — Centrus Energy Corp. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Only U.S.-licensed HALEU producer supplying enriched uranium to nuclear utilities and government customers. \$3.9B contracted backlog plus \$900M DOE investment provide multi-year revenue visibility. Q1 2026 revenue \$76.7M with raised FY2026 guidance to \$450–\$500M. High short interest at 21.6% creates squeeze potential. Stock down 65% from 52-week highs — asymmetric risk/reward.
+Centrus Energy is the only NRC-licensed HALEU producer in the United States and the only publicly traded pure-play uranium enricher in the West, selling separative work units and enriched uranium to utilities while building multi-billion-dollar enrichment capacity at Piketon, Ohio and Oak Ridge, Tennessee. Q2 2026 revenue rose 14% to \$176.1M with \$49.9M of gross profit and \$0.77 GAAP diluted EPS (\$1.77 adjusted), total backlog reached \$4.5B extending to 2040, and FY2026 revenue guidance of \$450–\$500M was reaffirmed alongside a signed \$900M DOE HALEU enrichment award and a multi-year Antares Nuclear supply contract. The thesis is the January 1, 2028 expiry of Russian uranium import waivers, which has no statutory extension and forces U.S. utilities toward domestic enrichment just as Centrus scales. The primary risk is funding and timing rather than demand: trailing free cash flow is roughly -\$164M, a ~\$500M share-and-warrant offering in September 2026 diluted a 20.45M-share base, and DOE's proposed FY2027 budget drops funding for the legacy HALEU cascade contract worth ~\$0.8B of backlog.
 
-**Bull:** \$280–\$320 · **Base:** \$200–\$240 · **Bear:** \$110–\$140
+**Bull:** \$260–\$310 · **Base:** \$175–\$215 · **Bear:** \$85–\$110
 
 [:material-arrow-right: Full Deep Dive](LEU.md)
 
@@ -88,11 +99,11 @@ Only U.S.-licensed HALEU producer supplying enriched uranium to nuclear utilitie
 
 ### Enrichment / Fuel Cycle
 
-**ASPI — ASP Isotopes Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+**ASPI — ASP Isotopes Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span>**
 
-Advanced materials company producing enriched isotopes for nuclear medicine, quantum computing, green energy, and semiconductors. Q1 2026 revenue surged 280% YoY to \$4.2M, with \$290.5M cash providing runway. Planned QLE spin-off (H1 2026) focuses on HALEU and lithium isotopes. Management targets \$300M+ EBITDA by 2030. Stock corrected 56% from \$14.49 highs. Analyst consensus price target \$13.26 implies >100% upside.
+ASP Isotopes is an advanced-materials group building isotope enrichment, helium/LNG, radiopharmacy and nuclear-fuel businesses, with operating assets concentrated in South Africa. The equity has lost roughly three-quarters of its value in twelve months — from \$10.35 a year ago and a 52-week high of \$14.49 down to \$2.60 — as repeated commercialisation delays, a heavy loss run-rate and persistent share issuance eroded the premium the market once paid for optionality. PET Labs is the one division with a genuine commercial base, growing organic revenue above 50% in 1H 2026 toward roughly \$14M for FY2026 against \$6M in 2025, while Renergen's Phase 1 helium and LNG ramp toward 250 kg/day and 2,500 GJ/day remains the swing factor. The assets are real and the helium backdrop is extraordinarily tight, but the pattern of slipped timelines is now the dominant fact in the story, so this refresh downgrades the rating from SPEC. BUY to HOLD / SPEC.
 
-**Bull:** \$12–\$14 · **Base:** \$8–\$10 · **Bear:** \$3–\$4
+**Bull:** \$7–\$9 · **Base:** \$3–\$4.50 · **Bear:** \$1–\$1.75
 
 [:material-arrow-right: Full Deep Dive](ASPI.md)
 
@@ -179,6 +190,7 @@ Marine renewable energy company commercializing the PowerBuoy wave-energy platfo
 | <tv-ticker-tag symbol="NYSE:GEV" hide-background></tv-ticker-tag> | GE Vernova Inc. | <span class="rating-buy">BUY</span> | 2026-06-20 | [:material-file-document: Read](GEV.md) |
 | <tv-ticker-tag symbol="NASDAQ:BWEN" hide-background></tv-ticker-tag> | Broadwind, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-06 | [:material-file-document: Read](BWEN.md) |
 | <tv-ticker-tag symbol="NYSE:VST" hide-background></tv-ticker-tag> | Vistra Corp. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](VST.md) |
+| <tv-ticker-tag symbol="NYSE:NRG" hide-background></tv-ticker-tag> | NRG Energy, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](NRG.md) |
 
 ---
 
@@ -241,5 +253,15 @@ Vistra Corp. is the largest competitive integrated retail electricity and power 
 [:material-arrow-right: Full Deep Dive](VST.md)
 
 *Watchlist: EQT, LNG, KMI, WMB.*
+
+---
+
+**NRG — NRG Energy, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+NRG Energy is a vertically integrated independent power producer pairing ~25 GW of mostly gas-fired dispatchable generation with one of the largest competitive US retail electricity books and the Vivint Smart Home platform. The January 2026 close of the ~\$12B LS Power acquisition (18 gas plants, ~13 GW, plus the CPower commercial and industrial virtual power plant) doubled capacity and lifted Q2 2026 adjusted EBITDA 34% YoY to \$1.22B on \$7.48B of revenue, with 2026 guidance of ~\$5.575B adjusted EBITDA and ~\$3.05B free cash flow before growth, and an announced 1.2 GW / \$3.2B Texas plant under a 15-year hyperscaler contract. Yet the stock is at a 52-week low of \$97, down ~41% in a year, because the deal was debt-funded (\$23.5B total debt, \$162M cash, debt/equity 5.17x), adjusted EPS has missed twice on rising interest expense, and Texas froze data center permits on 21 September 2026 pending ERCOT and water audits. At ~7.8x EV on guided 2026 EBITDA and a ~15% free-cash-flow yield against a ~\$189 analyst consensus target the setup is compelling, but the primary risk is that the Texas permitting freeze hardens into a lasting moratorium and strands the ERCOT load-growth thesis that the whole capital structure now depends on.
+
+**Bull:** \$170–200 · **Base:** \$125–150 · **Bear:** \$70–85
+
+[:material-arrow-right: Full Deep Dive](NRG.md)
 
 ---

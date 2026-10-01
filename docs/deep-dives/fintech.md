@@ -12,8 +12,8 @@ title: Fintech & Digital Payments
 
 | Ticker | Company | Rating | Last Updated | Full DD |
 |--------|---------|--------|--------------|---------|
-| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-27 | [:material-file-document: Read](FIGR.md) |
-| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](CRCL.md) |
+| <tv-ticker-tag symbol="NASDAQ:FIGR" hide-background></tv-ticker-tag> | Figure Technology Solutions | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](FIGR.md) |
+| <tv-ticker-tag symbol="NYSE:CRCL" hide-background></tv-ticker-tag> | Circle Internet Group, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](CRCL.md) |
 | <tv-ticker-tag symbol="NASDAQ:PURR" hide-background></tv-ticker-tag> | Hyperliquid Strategies Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-03 | [:material-file-document: Read](PURR.md) |
 | <tv-ticker-tag symbol="NYSE:BMNR" hide-background></tv-ticker-tag> | Bitmine Immersion Technologies, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-20 | [:material-file-document: Read](BMNR.md) |
 | <tv-ticker-tag symbol="NASDAQ:COIN" hide-background></tv-ticker-tag> | Coinbase Global, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-06-24 | [:material-file-document: Read](COIN.md) |
@@ -25,6 +25,7 @@ title: Fintech & Digital Payments
 | <tv-ticker-tag symbol="NASDAQ:IREN" hide-background></tv-ticker-tag> | Iris Energy Limited | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-07 | [:material-file-document: Read](IREN.md) |
 | <tv-ticker-tag symbol="NYSE:V" hide-background></tv-ticker-tag> | Visa Inc. | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](V.md) |
 | <tv-ticker-tag symbol="NYSE:APO" hide-background></tv-ticker-tag> | Apollo Global Management, Inc. | <span class="rating-buy">BUY</span> | 2026-08-30 | [:material-file-document: Read](APO.md) |
+| <tv-ticker-tag symbol="NYSE:XYZ" hide-background></tv-ticker-tag> | Block, Inc. | <span class="rating-buy">BUY</span> | 2026-09-29 | [:material-file-document: Read](XYZ.md) |
 
 ---
 ### Stablecoins / Crypto Finance
@@ -51,9 +52,9 @@ Strategy Inc, formerly MicroStrategy, is the largest public-company Bitcoin trea
 
 **CRCL — Circle Internet Group, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Circle is the issuer of USDC, the second-largest stablecoin with ~\$77B in circulation and ~25% market share. Revenue of \$2.75B in FY2025 (+64% YoY) comes almost entirely from interest on Treasury-backed reserves managed by BlackRock. Q1 2026 results were solid: \$694M revenue (+47% YoY), \$125M net income, USDC supply \$77B (+72% YoY). The GENIUS Act (stablecoin regulation) is the key catalyst — passage would solidify Circle's regulatory moat. At \$80, the stock is ~24% below April levels, improving risk/reward. The biggest structural concern is Coinbase's revenue-sharing agreement, which captures ~56% of total reserve revenue.
+Circle issues USDC, the largest regulated dollar stablecoin at \$73.3B in circulation, and is the only listed pure-play stablecoin issuer — now holding a final OCC federal trust bank charter. Roughly 95% of revenue is interest on the Treasury reserves backing USDC, so the model is a leveraged bet on the Fed, and that bet just turned favourable: the FOMC raised the funds rate to 3.75–4.00% on 2026-09-16, the first hike since 2023, with one more signalled. The offsetting problem is deceleration — Q2 2026 revenue of \$701M grew just 7% and missed consensus as the reserve return rate fell 66 bps — which Circle is answering with fee revenue from the Arc mainnet launch (BlackRock, DTCC, Visa and Mastercard as validators), the ~\$400M Tazapay deal adding \$25B of cross-border volume, and Binance's \$100M investment plus five-year distribution renewal. At ~7.5x trailing sales and ~29x trailing free cash flow with \$1.71B net cash the risk/reward is favourable, but revenue concentration and the simultaneous CFO and co-founder departures on 2026-09-25 keep this speculative.
 
-**Bull:** \$140–170 · **Base:** \$110–135 · **Bear:** \$55–75
+**Bull:** \$135–160 · **Base:** \$95–120 · **Bear:** \$45–65
 
 [:material-arrow-right: Full Deep Dive](CRCL.md)
 
@@ -142,13 +143,23 @@ Visa operates the world's largest electronic payments network (VisaNet), a capit
 [:material-arrow-right: Full Deep Dive](V.md)
 
 ---
+
+**XYZ — Block, Inc. · <span class="rating-buy">BUY</span>**
+
+Block runs two linked networks — Square for merchants and Cash App for consumers — and is converting that scale into margin faster than the market has repriced. Q2 2026 gross profit grew 25% to \$3.17B at a record 27% adjusted operating margin, adjusted diluted EPS rose 65% to \$1.02, and FY2026 guidance was raised to \$12.51B of gross profit (+21%) and \$4.02 of adjusted EPS (+70%), helped by a February 2026 restructuring that cut ~4,000 roles. At \$73.31 that is ~18x guided adjusted earnings and ~12x \$3.9B of trailing free cash flow with roughly zero net debt, against a \$95–\$98 street consensus target. The main risk is credit: Block has deliberately levered its profit growth to Cash App Borrow and Afterpay lending, so a consumer downturn would hit the fastest-growing, highest-margin part of the company first.
+
+**Bull:** \$105–\$120 · **Base:** \$88–\$96 · **Bear:** \$50–\$58
+
+[:material-arrow-right: Full Deep Dive](XYZ.md)
+
+---
 ### Consumer Finance
 
 **FIGR — Figure Technology Solutions · <span class="rating-spec-buy">SPEC. BUY</span>**
 
-Figure Technology Solutions operates a consumer loan marketplace that originated $2.9B in Q1 2026, combined with blockchain-based loan servicing via its Provenance blockchain. The company is already profitable with 49.6% adjusted EBITDA margins and TTM revenue of $514.6M. Trading at $26.29, the stock is down ~66% from its January 2026 ATH of $78.00, offering asymmetric upside if origination growth continues and blockchain adoption expands. Key risks are credit cycle sensitivity and blockchain narrative volatility.
+Figure runs a blockchain-native capital marketplace for consumer credit: partners originate home equity, SMB, auto and DSCR loans on its system and sell them to institutional buyers through Figure Connect, which carried 65% of Q2 2026 volume. Q2 2026 marketplace volume hit \$4.3B (+132% y/y) on \$218M adjusted net revenue (+95%), \$87M of GAAP net income and a 54.6% adjusted EBITDA margin, and the \$590M Kiavi acquisition closed on 2026-09-01 with guided ~\$100M of annual EBITDA. Despite that, the stock is ~62% below its January 2026 high of \$78 after a short-seller report questioned the technology positioning, leaving it at ~18x consensus FY2027 EPS against a \$52.88 sell-side target. The primary risk is that credibility overhang proving justified, compounded by HELOC concentration and a take rate structurally compressing toward the low end of the 3.5%–4.0% band as Figure Connect mix rises.
 
-**Bull:** \$55–\$65 · **Base:** \$45–\$50 · **Bear:** \$30–\$35
+**Bull:** \$55–\$65 · **Base:** \$40–\$46 · **Bear:** \$20–\$25
 
 [:material-arrow-right: Full Deep Dive](FIGR.md)
 

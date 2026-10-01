@@ -1,0 +1,86 @@
+{
+  "ticker": "BWXT",
+  "company": "BWX Technologies, Inc.",
+  "sector": "Industrials",
+  "theme": "Energy",
+  "sub_theme": "Reactor Developers",
+  "industry": "Nuclear Components and Services / Aerospace and Defense",
+  "exchange": "NYSE",
+  "price": 134.35,
+  "price_date": "2026-09-28",
+  "market_cap": "$12.3B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "BWXT is the sole-source manufacturer of naval nuclear reactors for the U.S. Navy and the largest Western supplier of commercial nuclear components, giving it a regulatory-moated, multi-decade revenue base. FY2026 guidance was raised twice to ~$3.80B revenue, $662M-$672M adjusted EBITDA and $4.70-$4.80 non-GAAP EPS, with backlog at a record $8.40B (+40% YoY) and Commercial Operations revenue up 72% in Q2. The stock nonetheless set a 52-week low of $133.90 on 28 Sep 2026, down 26% over one year and 44% from its $241.82 high, as the entire nuclear/AI-power complex de-rated. The mismatch between accelerating fundamentals and a collapsing multiple is the opportunity; the risk is that ~28x forward earnings still leaves room for further compression.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$3.20B",
+    "revenue_growth": "+18.3%",
+    "gross_margin": "Not reported (FY2025 operating margin 12.6%)",
+    "net_income": "$329.9M (GAAP); $368.9M non-GAAP",
+    "eps_diluted": "$3.58 GAAP / $4.01 non-GAAP",
+    "cash": "$608.2M (30 Jun 2026)",
+    "fcf": "$295.3M"
+  },
+  "bull_case": {
+    "target": "$225–$250",
+    "drivers": [
+      "Backlog converts as guided: record $8.40B total backlog (+40% YoY), Government Operations alone $6.80B",
+      "Commercial Operations compounds at 40%+ — Q2 2026 revenue +72% YoY with segment adjusted EBITDA up 123%",
+      "Janus microreactor program scales from phased Fort Campbell award into a repeatable installed-base business",
+      "Up to $800M of Nordic Capital medical proceeds redeployed into commercial nuclear capacity or buybacks",
+      "Multiple re-rates back toward early-2026 levels (~30x EV/FY2026E adjusted EBITDA) as the nuclear de-rating exhausts"
+    ]
+  },
+  "base_case": {
+    "target": "$155–$185",
+    "assumptions": "FY2026 lands inside guidance (~$3.80B revenue, $4.70-$4.80 non-GAAP EPS, $345M-$360M FCF) and FY2027 non-GAAP EPS reaches the ~$5.26 consensus. Government Operations grows high single digits on naval propulsion and special materials; Commercial Operations grows 25-35% with PCG contributing a full year. The stock re-rates to 29-35x FY2027E EPS, roughly a 25-30% discount to the $213.75 sell-side consensus target."
+  },
+  "bear_case": {
+    "target": "$100–$120",
+    "risks": [
+      "Nuclear/AI-power theme keeps unwinding and BWXT is valued like a conventional defense prime at ~20-23x earnings",
+      "Government Operations margin erosion persists — Q2 2026 segment operating income fell 3% YoY on mix and fewer favorable contract adjustments",
+      "Federal budget disruption: continuing resolutions, shutdowns or appropriations delays push naval propulsion and NNSA bookings right",
+      "Bookings lumpiness bites: Q2 2026 bookings of $649M versus $1,640M a year earlier",
+      "Growth capex and $2.02B of long-term debt (debt/equity 1.51) compress free cash flow if commercial nuclear orders slow"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "FY2027 U.S. defense appropriations and naval propulsion / NNSA award flow — the main driver of Government Operations bookings"
+    },
+    {
+      "date": "Q3 2026 earnings — early November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 print: test of the raised FY2026 guidance (~$3.80B revenue, $4.70-$4.80 non-GAAP EPS) and first full quarter of PCG"
+    },
+    {
+      "date": "Pending regulatory approvals",
+      "iso_date": null,
+      "event": "Close of the up-to-$800M medical divestiture to Nordic Capital, including capital-allocation decision on proceeds"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and initiation of FY2027 guidance — first clean look at the post-medical, PCG-inclusive earnings base"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Janus Phase 1 milestones: Fort Campbell site selection, Army/NRC regulatory process start and TRISO fuel fabrication ramp"
+    }
+  ],
+  "key_risks": [
+    "Revenue concentration: roughly 70% of revenue comes from U.S. government customers, dominated by the Navy's nuclear propulsion program and NNSA",
+    "Still-premium valuation — ~28x FY2026E non-GAAP EPS and ~21x EV/FY2026E adjusted EBITDA despite the 44% drawdown",
+    "Government Operations margins are flat-to-down as favorable contract adjustments normalize",
+    "Balance sheet leverage: $2.02B long-term debt against $1.33B equity (debt/equity 1.51)",
+    "Advanced-reactor revenue is phased and small today; microreactor revenue actually declined in 2025",
+    "Heavy growth capex (FY2025 $184.6M, H1 2026 $83.9M) constrains near-term free cash flow conversion",
+    "Divesting the medical business removes a fast-growing, higher-margin unit and creates redeployment risk",
+    "Momentum and flows are hostile: below the 50-day ($159.46) and 200-day ($190.54) averages, and removed from several Russell 1000 Defensive-style indexes in June 2026"
+  ]
+}
