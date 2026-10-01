@@ -1,0 +1,86 @@
+{
+  "ticker": "RDDT",
+  "company": "Reddit, Inc.",
+  "sector": "Communication Services",
+  "theme": "Software",
+  "sub_theme": "Data & Analytics",
+  "industry": "Internet Content & Information / Digital Advertising",
+  "exchange": "NYSE",
+  "price": 143.08,
+  "price_date": "2026-09-28",
+  "market_cap": "$28B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Reddit is compounding revenue above 60% (Q2 2026 revenue $805M, +61%, eighth straight quarter over 60%) with 91% gross margins, 31% net margins, $2.8B net cash and no debt, yet the stock is down 41% over one year at ~21x FY2027 consensus EPS. The de-rating is entirely about traffic durability: 77.7M of 130.3M daily uniques are logged out and arrive largely via Google, US logged-in daily uniques grew just 1%, and management flagged that search referrals were choppy as Google shifts to AI answers. Monetisation is doing the work instead — global ARPU +36%, US ARPU +51% — and international (77.1M uniques at $2.26 ARPU versus $11.85 in the US) plus AI licensing renewals with Google and OpenAI are the upside levers. Speculative because nobody, including management, can yet quantify how much logged-out traffic survives the shift to AI search.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$2.2B",
+    "revenue_growth": "69%",
+    "gross_margin": "~91%",
+    "net_income": "$530M",
+    "eps_diluted": "~$2.64 (computed from $530M net income on ~201M diluted shares)",
+    "cash": "$2.79B (cash plus marketable securities at 2026-06-30, no debt)",
+    "fcf": "$684M"
+  },
+  "bull_case": {
+    "target": "$230–$270",
+    "drivers": [
+      "Search referrals stabilise and logged-out daily uniques resume growth, removing the structural overhang",
+      "International ARPU ($2.26) closes meaningfully on US ARPU ($11.85) across a 77.1M-user base growing 28%",
+      "AI data licensing renews well above the reported ~$60M/year Google rate; Google and OpenAI deals reprice upward",
+      "FY2027 EPS reaches or exceeds ~$7 and the multiple re-rates to 33–38x",
+      "$1B buyback executed aggressively below the $157.57 average Q2 purchase price"
+    ]
+  },
+  "base_case": {
+    "target": "$165–$195",
+    "assumptions": "Revenue growth decelerates from 61% toward 35–40% through 2027 as the search-referral tailwind flattens, but advertising ARPU gains and international expansion keep compounding. FY2027 EPS lands at roughly $6.50–$7.00 on 25–28x — earnings delivery without any multiple re-rating. Consistent with TIKR consensus 2028 revenue of ~$5.5B. The midpoint near $180 coincides with the 200-day moving average ($170.20) and the pre-Q2-selloff trading range."
+  },
+  "bear_case": {
+    "target": "$95–$120",
+    "risks": [
+      "Logged-out daily uniques turn negative as AI answer engines absorb query volume without linking through",
+      "US logged-in daily unique growth stays near zero, capping the highest-ARPU geography",
+      "Advertising revenue growth falls below 25%; ~90% gross margins make the operating leverage work in reverse",
+      "Google and OpenAI licensing renewals disappoint or lapse, removing the cleanest re-rating catalyst",
+      "Multiple compresses to 15–18x on flat-to-modest EPS; the 52-week low of $119.27 sits inside this band"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-10-29",
+      "iso_date": "2026-10-29",
+      "event": "Q3 2026 earnings — company guide of $860–870M revenue and $385–395M adjusted EBITDA; the DAUq table matters more than the beat"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Google and OpenAI AI data-licensing renewal decisions; Reddit has signalled it may not renew Google's reported ~$60M/year 2024 agreement on old terms"
+    },
+    {
+      "date": "Q4 2026 – 2027",
+      "iso_date": "2026-12",
+      "event": "Perplexity AI and SerpApi anti-circumvention litigation milestones after the motion to dismiss was largely denied in July 2026"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results plus FY2027 outlook — first full-year view of post-AI-search user economics"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "$1B share repurchase authorised February 2026; 1.5M shares bought in Q2 2026 at a $157.57 average, above the current price"
+    }
+  ],
+  "key_risks": [
+    "Search-referral dependency: 77.7M of 130.3M daily uniques are logged out and arrive substantially via Google, which is shifting to AI-generated answers",
+    "AI answer engines as substitutes: third-party tracking suggests Reddit's share of ChatGPT Search citations fell sharply in August 2026 (vendor estimate, not a company disclosure)",
+    "US user stagnation: US DAUq +6% and US logged-in DAUq +1%, so US revenue growth of 56% is almost entirely price-led",
+    "Advertising concentration and cyclicality: 95% of revenue is advertising, an early casualty in any downturn",
+    "Symmetric operating leverage: with ~90% gross margins and a fixed cost base, revenue misses flow to earnings at near-full rate",
+    "Multiple compression risk: the stock lost 41% in a year without a single quarterly miss, so re-rating can continue independently of results",
+    "Stock-based compensation of ~$101M per quarter (~12.5% of revenue) requires continuous buybacks to hold share count flat",
+    "Dual-class share structure concentrates voting control; content depends on unpaid volunteer moderators"
+  ]
+}

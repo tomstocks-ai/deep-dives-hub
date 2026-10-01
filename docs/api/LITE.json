@@ -1,0 +1,90 @@
+{
+  "ticker": "LITE",
+  "company": "Lumentum Holdings Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Photonics & Optical Interconnects",
+  "industry": "Optical Components, Lasers and Photonic Subsystems",
+  "exchange": "NASDAQ",
+  "price": 921.32,
+  "price_date": "2026-09-28",
+  "market_cap": "~$83B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Lumentum has completed its transformation from a cyclical telecom-component supplier into a core AI infrastructure optics vendor. FY2026 revenue rose 83% to $3.01B with non-GAAP operating margin expanding from 9.7% to 29.8%, and Q1 FY2027 guidance of $1.225-1.275B implies roughly 130% year-over-year growth. NVIDIA's March 2026 $2B preferred-stock investment plus a multi-billion purchase commitment hard-codes Lumentum into the AI optics supply chain, and newer lines (optical circuit switches, ultra-high-power CPO lasers, ELS/NPO modules) are only beginning to contribute. The offset is valuation and concentration: the stock is up 467% in twelve months and trades near 43x forward non-GAAP EPS, so the thesis now requires the scale-up to land on schedule.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$3.01B",
+    "revenue_growth": "83.2%",
+    "gross_margin": "46.0% non-GAAP (41.7% GAAP)",
+    "net_income": "-$6.94B GAAP (incl. $7.8B non-cash debt-extinguishment charge); $782.3M non-GAAP",
+    "eps_diluted": "-$92.96 GAAP; $8.67 non-GAAP",
+    "cash": "$2.74B cash and short-term investments",
+    "fcf": "~$300M (turned positive in FY2026)"
+  },
+  "bull_case": {
+    "target": "$1,350–$1,600",
+    "drivers": [
+      "Management's stated ~$40 of CY2028 EPS power is achieved, capitalised at 34-40x",
+      "Optical circuit switch backlog (well above $400M as of Q2 FY2026) converts and OCS becomes a multi-year, multi-billion product line — Citi frames an ~$11B opportunity shared with Coherent",
+      "1.6T cloud-module adoption plus ultra-high-power CPO lasers and ELS/NPO in-rack optics materially expand the addressable TAM",
+      "NVIDIA purchase commitment and capacity rights underwrite utilisation of the new U.S. fab, holding non-GAAP operating margin above 40%"
+    ]
+  },
+  "base_case": {
+    "target": "$1,000–$1,150",
+    "assumptions": "FY2027 revenue roughly doubles to the $5B area on the guided Q1 run-rate, non-GAAP operating margin holds near 40%, and FY2027 non-GAAP EPS lands around $19-22 (estimate, derived from the $4.05-4.35 Q1 guide and Street models, not company-guided for the full year). Applying ~50x to that stream brackets the $1,067-1,149 range of published analyst mean targets. Assumes no hyperscaler capex pause and orderly conversion of the remaining $1.6B of convertible notes."
+  },
+  "bear_case": {
+    "target": "$450–$600",
+    "risks": [
+      "AI optics orders digest after the 2026 pull-forward and the forward multiple compresses toward 20-25x",
+      "NVIDIA and hyperscaler concentration cuts the other way — a purchase commitment is not a volume guarantee, and a single roadmap change resets the model",
+      "Transceiver ASP erosion and competition from Coherent (also a $2B NVIDIA investee), Innolight, Eoptolink and Applied Optoelectronics compress the 50% gross margin",
+      "Execution risk on the U.S. fab and on OCS, UHP laser and CPO yields while capex runs above $150M per quarter",
+      "Further dilution: shares outstanding went from 69.8M to 88.6M common plus 2.9M preferred in one year, with $1.6B of converts still in current liabilities"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Nov 3, 2026 (estimated)",
+      "iso_date": "2026-11-03",
+      "event": "Q1 FY2027 results — guided to $1.225-1.275B revenue, 39.5-40.5% non-GAAP operating margin and $4.05-4.35 non-GAAP diluted EPS; the first test of the accelerated target model"
+    },
+    {
+      "date": "2H CY2026",
+      "iso_date": "2026-12",
+      "event": "Bulk of the optical circuit switch backlog ships, converting the stated $400M-plus OCS order book into recognised revenue"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "1.6T cloud transceiver ramp plus first volume ELS module and NPO engagements — the in-rack optics TAM expansion management flagged on the Q4 call"
+    },
+    {
+      "date": "FY2027–FY2028",
+      "iso_date": "2027-06",
+      "event": "New U.S. fab build-out funded by NVIDIA's $2B investment; capacity milestones and associated capex cadence"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": "2026-12",
+      "event": "Settlement or equitization of the remaining ~$1.6B of convertible notes now sitting in current liabilities — determines final share count"
+    },
+    {
+      "date": "CY2028",
+      "iso_date": "2028",
+      "event": "Management's ~$40 EPS power target for 2028, first articulated at the Deutsche Bank technology conference in late August 2026"
+    }
+  ],
+  "key_risks": [
+    "Valuation: ~43x forward non-GAAP EPS after a 467% twelve-month move, with the price 26% above the 200-day moving average — any guidance wobble de-rates hard",
+    "Customer concentration in NVIDIA and a short list of hyperscalers; the multi-billion purchase commitment does not guarantee delivered volumes",
+    "AI capex cyclicality — optics orders have historically been the first line item cut when data center spending pauses",
+    "Competitive pressure and ASP erosion from Coherent, Innolight, Eoptolink and Applied Optoelectronics in transceivers",
+    "Execution and yield risk on OCS, ultra-high-power CPO lasers and the new U.S. fab while capex runs above $150M per quarter",
+    "Dilution from convertible equitization and the NVIDIA preferred; $1.6B of converts remain in current liabilities",
+    "GAAP optics: the $7.8B non-cash debt-extinguishment charge leaves a $7.8B accumulated deficit and makes GAAP screens unusable",
+    "Persistent insider selling through the rally, including the President of Global Business Units and the General Counsel, albeit under Rule 10b5-1 plans"
+  ]
+}

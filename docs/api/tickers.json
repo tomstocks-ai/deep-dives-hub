@@ -1,8 +1,8 @@
 {
   "$schema": "/api/schema.json",
   "api_version": "1",
-  "last_updated": "2026-09-19",
-  "count": 146,
+  "last_updated": "2026-09-29",
+  "count": 171,
   "tickers": [
     {
       "ticker": "000660",
@@ -100,14 +100,14 @@
       "sector": "Materials",
       "industry": "Gold Mining",
       "rating": "BUY",
-      "price": 178.82,
-      "market_cap": "$98.2B",
-      "last_updated": "2026-06-07",
+      "price": 184.15,
+      "market_cap": "$93.9B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/AEM/",
       "api_url": "/api/AEM.json",
       "theme": "Critical Minerals",
       "sub_theme": "Gold",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "AG",
@@ -115,14 +115,14 @@
       "sector": "Materials",
       "industry": "Silver Mining",
       "rating": "SPEC. BUY",
-      "price": 18.4,
-      "market_cap": "$8.3B",
-      "last_updated": "2026-06-25",
+      "price": 17.95,
+      "market_cap": "$8.4B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/AG/",
       "api_url": "/api/AG.json",
       "theme": "Critical Minerals",
       "sub_theme": "Specialty Metals (Silver)",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "ALAB",
@@ -170,6 +170,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Discretionary",
+      "industry": "Broadline Retail / Cloud Infrastructure",
+      "rating": "BUY",
+      "price": 246.15,
+      "market_cap": "~$2.65T",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/AMZN/",
+      "api_url": "/api/AMZN.json",
+      "theme": "Software",
+      "sub_theme": "Cloud & Enterprise Software",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks, Inc.",
       "sector": "Technology",
@@ -198,6 +213,21 @@
       "theme": "Fintech",
       "sub_theme": "Alternative Asset Management",
       "price_date": "2026-08-29"
+    },
+    {
+      "ticker": "APP",
+      "company": "AppLovin Corporation",
+      "sector": "Technology",
+      "industry": "Advertising Technology / Mobile Marketing Software",
+      "rating": "SPEC. BUY",
+      "price": 308.24,
+      "market_cap": "~$103B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/APP/",
+      "api_url": "/api/APP.json",
+      "theme": "Software",
+      "sub_theme": "Game Engines & Marketing",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "ARM",
@@ -233,16 +263,16 @@
       "ticker": "ASPI",
       "company": "ASP Isotopes Inc.",
       "sector": "Materials",
-      "industry": "Enriched Isotopes / Critical Materials",
-      "rating": "SPEC. BUY",
-      "price": 4.43,
-      "market_cap": "$664M",
-      "last_updated": "2026-06-10",
+      "industry": "Enriched Isotopes / Helium and LNG / Nuclear Fuels",
+      "rating": "HOLD / SPEC.",
+      "price": 2.6,
+      "market_cap": "$399M",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/ASPI/",
       "api_url": "/api/ASPI.json",
       "theme": "Critical Minerals",
       "sub_theme": "Specialty Metals",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "ASTS",
@@ -395,6 +425,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "BWXT",
+      "company": "BWX Technologies, Inc.",
+      "sector": "Industrials",
+      "industry": "Nuclear Components and Services / Aerospace and Defense",
+      "rating": "BUY",
+      "price": 134.35,
+      "market_cap": "$12.3B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/BWXT/",
+      "api_url": "/api/BWXT.json",
+      "theme": "Energy",
+      "sub_theme": "Reactor Developers",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "CBRS",
       "company": "Cerebras Systems Inc.",
       "sector": "Technology",
@@ -408,6 +453,21 @@
       "theme": "AI Buildout",
       "sub_theme": "AI Compute",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "CCJ",
+      "company": "Cameco Corporation",
+      "sector": "Energy",
+      "industry": "Uranium Mining and Nuclear Fuel Services",
+      "rating": "BUY",
+      "price": 87.04,
+      "market_cap": "$38.0B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/CCJ/",
+      "api_url": "/api/CCJ.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Uranium & Nuclear Fuel",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "CCXI",
@@ -438,6 +498,21 @@
       "theme": "Nuclear",
       "sub_theme": "Reactor Developers",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena Corporation",
+      "sector": "Technology",
+      "industry": "Optical Networking Systems / Coherent Interconnects",
+      "rating": "BUY",
+      "price": 344.19,
+      "market_cap": "$48.8B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/CIEN/",
+      "api_url": "/api/CIEN.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "CLFD",
@@ -505,14 +580,14 @@
       "sector": "Materials",
       "industry": "Copper Mining",
       "rating": "BUY",
-      "price": 88.03,
-      "market_cap": "$1.5B",
-      "last_updated": "2026-06-07",
+      "price": 85.26,
+      "market_cap": "$7.26B (AUM / net assets)",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/COPX/",
       "api_url": "/api/COPX.json",
       "theme": "Critical Minerals",
       "sub_theme": "Copper",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "CORZ",
@@ -532,17 +607,17 @@
     {
       "ticker": "CRCL",
       "company": "Circle Internet Group, Inc.",
-      "sector": "Fintech",
+      "sector": "Financials",
       "industry": "Stablecoin / Digital Payments",
       "rating": "SPEC. BUY",
-      "price": 66.67,
-      "market_cap": "$19.9B",
-      "last_updated": "2026-06-20",
+      "price": 85.8,
+      "market_cap": "$21.9B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/CRCL/",
       "api_url": "/api/CRCL.json",
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Stablecoins / Crypto Finance",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "CRDO",
@@ -710,6 +785,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "ETN",
+      "company": "Eaton Corporation plc",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment / Intelligent Power Management",
+      "rating": "BUY",
+      "price": 431.41,
+      "market_cap": "$167.6B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/ETN/",
+      "api_url": "/api/ETN.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Electrical Contractors",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "FCEL",
       "company": "FuelCell Energy, Inc.",
       "sector": "Energy",
@@ -757,17 +847,17 @@
     {
       "ticker": "FIGR",
       "company": "Figure Technology Solutions",
-      "sector": "Fintech",
-      "industry": "Consumer Lending / Blockchain Financial Services",
+      "sector": "Financials",
+      "industry": "Blockchain Capital Marketplace / Consumer Lending",
       "rating": "SPEC. BUY",
-      "price": 28.62,
-      "market_cap": "$5.94B",
-      "last_updated": "2026-06-27",
+      "price": 29.33,
+      "market_cap": "$6.6B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/FIGR/",
       "api_url": "/api/FIGR.json",
       "theme": "Fintech & Digital Payments",
       "sub_theme": "Consumer Finance",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "FLNC",
@@ -785,19 +875,34 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "FN",
+      "company": "Fabrinet",
+      "sector": "Technology",
+      "industry": "Electronic Manufacturing Services / Optical Packaging",
+      "rating": "BUY",
+      "price": 409.96,
+      "market_cap": "$14.7B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/FN/",
+      "api_url": "/api/FN.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Photonics & Optical Interconnects",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "FNV",
       "company": "Franco-Nevada Corporation",
       "sector": "Materials",
-      "industry": "Gold Royalty & Streaming",
+      "industry": "Gold Royalty and Streaming",
       "rating": "BUY",
-      "price": 238.65,
-      "market_cap": "$45.7B",
-      "last_updated": "2026-06-08",
+      "price": 245.81,
+      "market_cap": "$47.4B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/FNV/",
       "api_url": "/api/FNV.json",
       "theme": "Critical Minerals",
       "sub_theme": "Gold",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "FRSH",
@@ -813,6 +918,21 @@
       "theme": "Software",
       "sub_theme": "Enterprise Software",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "GD",
+      "company": "General Dynamics Corporation",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense — Submarines, Combat Vehicles, Munitions, Business Jets, Government IT",
+      "rating": "BUY",
+      "price": 334.16,
+      "market_cap": "$90.3B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/GD/",
+      "api_url": "/api/GD.json",
+      "theme": "Defense",
+      "sub_theme": "Prime Contractors",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "GEV",
@@ -834,15 +954,15 @@
       "company": "SPDR Gold Shares",
       "sector": "Materials",
       "industry": "Precious Metals / Gold",
-      "rating": "BUY",
-      "price": 398.47,
-      "market_cap": "$70.2B",
-      "last_updated": "2026-06-07",
+      "rating": "HOLD",
+      "price": 377.91,
+      "market_cap": "$141.0B (AUM)",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/GLD/",
       "api_url": "/api/GLD.json",
       "theme": "Critical Minerals",
       "sub_theme": "Gold",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "GLW",
@@ -858,6 +978,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Networking & Connectivity",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Technology",
+      "industry": "Interactive Media & Services / Cloud Computing",
+      "rating": "BUY",
+      "price": 342.75,
+      "market_cap": "~$4.2T",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/GOOGL/",
+      "api_url": "/api/GOOGL.json",
+      "theme": "Software",
+      "sub_theme": "Cloud & Enterprise Software",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "HIMS",
@@ -1025,19 +1160,79 @@
       "price_date": "2026-08-29"
     },
     {
+      "ticker": "KRMN",
+      "company": "Karman Holdings Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense Components",
+      "rating": "SPEC. BUY",
+      "price": 33.68,
+      "market_cap": "~$4.5B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/KRMN/",
+      "api_url": "/api/KRMN.json",
+      "theme": "Space Economy",
+      "sub_theme": "Launch Vehicles",
+      "price_date": "2026-09-28"
+    },
+    {
+      "ticker": "KTOS",
+      "company": "Kratos Defense & Security Solutions, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "rating": "SPEC. BUY",
+      "price": 44.07,
+      "market_cap": "~$8.5B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/KTOS/",
+      "api_url": "/api/KTOS.json",
+      "theme": "Defense",
+      "sub_theme": "Next-Generation Defense",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "LEU",
       "company": "Centrus Energy Corp.",
       "sector": "Energy",
       "industry": "Uranium Enrichment / Nuclear Fuel",
       "rating": "SPEC. BUY",
-      "price": 191.37,
-      "market_cap": "$3.18B",
-      "last_updated": "2026-06-07",
+      "price": 140.37,
+      "market_cap": "$2.87B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/LEU/",
       "api_url": "/api/LEU.json",
       "theme": "Energy",
       "sub_theme": "Enrichment",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3Harris Technologies, Inc.",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense — Communications, Space Sensing and Solid Rocket Motors",
+      "rating": "BUY",
+      "price": 237.7,
+      "market_cap": "$44.4B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/LHX/",
+      "api_url": "/api/LHX.json",
+      "theme": "Defense",
+      "sub_theme": "Prime Contractors",
+      "price_date": "2026-09-28"
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "sector": "Technology",
+      "industry": "Optical Components, Lasers and Photonic Subsystems",
+      "rating": "SPEC. BUY",
+      "price": 921.32,
+      "market_cap": "~$83B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/LITE/",
+      "api_url": "/api/LITE.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Photonics & Optical Interconnects",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "LLY",
@@ -1115,6 +1310,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "sector": "Communication Services",
+      "industry": "Social Media & Digital Advertising",
+      "rating": "HOLD",
+      "price": 715.62,
+      "market_cap": "$1.83T",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/META/",
+      "api_url": "/api/META.json",
+      "theme": "Software",
+      "sub_theme": "Cloud & Enterprise Software",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "MP",
       "company": "MP Materials Corp.",
       "sector": "Materials",
@@ -1128,6 +1338,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Rare Earths",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "MPWR",
+      "company": "Monolithic Power Systems, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors — Analog and Power Management",
+      "rating": "BUY",
+      "price": 1351.2,
+      "market_cap": "$66.4B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/MPWR/",
+      "api_url": "/api/MPWR.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Analog / Power",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "MRVL",
@@ -1177,17 +1402,17 @@
     {
       "ticker": "MTZ",
       "company": "MasTec, Inc.",
-      "sector": "Energy",
-      "industry": "Infrastructure Construction / Energy & Utilities",
-      "rating": "HOLD",
-      "price": 272.46,
-      "market_cap": "$28.3B",
-      "last_updated": "2026-06-13",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction / Specialty Infrastructure Contracting",
+      "rating": "BUY",
+      "price": 204.09,
+      "market_cap": "$16.2B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/MTZ/",
       "api_url": "/api/MTZ.json",
       "theme": "AI Buildout",
       "sub_theme": "Electrical Contractors",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "MU",
@@ -1233,6 +1458,21 @@
       "theme": "AI Buildout",
       "sub_theme": "AI / HPC Operators",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "NEM",
+      "company": "Newmont Corporation",
+      "sector": "Materials",
+      "industry": "Gold Mining",
+      "rating": "BUY",
+      "price": 116.05,
+      "market_cap": "$121.5B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/NEM/",
+      "api_url": "/api/NEM.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Gold",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "NET",
@@ -1338,6 +1578,21 @@
       "theme": "Software",
       "sub_theme": "Enterprise Software",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "NRG",
+      "company": "NRG Energy, Inc.",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "rating": "SPEC. BUY",
+      "price": 97.0,
+      "market_cap": "$20.4B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/NRG/",
+      "api_url": "/api/NRG.json",
+      "theme": "Energy",
+      "sub_theme": "Natural Gas & AI Power Demand",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "NVDA",
@@ -1465,14 +1720,14 @@
       "sector": "Materials",
       "industry": "Silver Mining",
       "rating": "SPEC. BUY",
-      "price": 51.22,
-      "market_cap": "$19.5B",
-      "last_updated": "2026-06-25",
+      "price": 45.77,
+      "market_cap": "$19.1B",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/PAAS/",
       "api_url": "/api/PAAS.json",
       "theme": "Critical Minerals",
       "sub_theme": "Specialty Metals (Silver)",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "PANW",
@@ -1580,6 +1835,21 @@
       "price_date": "2026-08-07"
     },
     {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "sector": "Technology",
+      "industry": "Quantum Computing Systems, Cloud Services and Software",
+      "rating": "HOLD / SPEC.",
+      "price": 16.78,
+      "market_cap": "~$6.2B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/QBTS/",
+      "api_url": "/api/QBTS.json",
+      "theme": "Quantum Computing",
+      "sub_theme": "Pure Plays",
+      "price_date": "2026-09-28"
+    },
+    {
       "ticker": "QCOM",
       "company": "Qualcomm Incorporated",
       "sector": "Technology",
@@ -1608,6 +1878,36 @@
       "theme": "AI Buildout",
       "sub_theme": "Solid-State Batteries",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information / Digital Advertising",
+      "rating": "SPEC. BUY",
+      "price": 143.08,
+      "market_cap": "$28B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/RDDT/",
+      "api_url": "/api/RDDT.json",
+      "theme": "Software",
+      "sub_theme": "Data & Analytics",
+      "price_date": "2026-09-28"
+    },
+    {
+      "ticker": "RDW",
+      "company": "Redwire Corporation",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense / Space Infrastructure and Uncrewed Systems",
+      "rating": "SPEC. BUY",
+      "price": 11.2,
+      "market_cap": "~$2.79B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/RDW/",
+      "api_url": "/api/RDW.json",
+      "theme": "Space Economy",
+      "sub_theme": "Lunar / Deep Space",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "RGTI",
@@ -1778,16 +2078,16 @@
       "ticker": "SLV",
       "company": "iShares Silver Trust",
       "sector": "Materials",
-      "industry": "Precious Metals / Silver",
-      "rating": "BUY",
-      "price": 57.5,
-      "market_cap": "$12.1B",
-      "last_updated": "2026-06-07",
+      "industry": "Precious Metals / Physically-Backed Silver ETP",
+      "rating": "HOLD",
+      "price": 54.95,
+      "market_cap": "$30.3B (trust net assets)",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/SLV/",
       "api_url": "/api/SLV.json",
       "theme": "Critical Minerals",
       "sub_theme": "Specialty Metals (Silver)",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "SMCI",
@@ -1848,6 +2148,21 @@
       "theme": "Software",
       "sub_theme": "Data & Analytics",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys, Inc.",
+      "sector": "Technology",
+      "industry": "Electronic Design Automation (EDA) Software and Semiconductor IP",
+      "rating": "BUY",
+      "price": 417.61,
+      "market_cap": "~$80.0B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/SNPS/",
+      "api_url": "/api/SNPS.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Semiconductor Equipment",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "SOFI",
@@ -1938,6 +2253,21 @@
       "theme": "Critical Minerals",
       "sub_theme": "Copper",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "TEM",
+      "company": "Tempus AI, Inc.",
+      "sector": "Health Care",
+      "industry": "Health Information Services / Molecular Diagnostics",
+      "rating": "HOLD",
+      "price": 85.08,
+      "market_cap": "~$15.4B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/TEM/",
+      "api_url": "/api/TEM.json",
+      "theme": "Biotechnology & Health Technology",
+      "sub_theme": "Precision Medicine & Diagnostics",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "TER",
@@ -2050,14 +2380,29 @@
       "sector": "Energy",
       "industry": "Uranium Mining",
       "rating": "BUY",
-      "price": 44.91,
-      "market_cap": "$2.5B",
-      "last_updated": "2026-06-07",
+      "price": 40.13,
+      "market_cap": "$5.74B AUM",
+      "last_updated": "2026-09-29",
       "deep_dive_url": "/deep-dives/URA/",
       "api_url": "/api/URA.json",
       "theme": "Critical Minerals",
       "sub_theme": "Uranium & Nuclear Fuel",
-      "price_date": "2026-08-07"
+      "price_date": "2026-09-28"
+    },
+    {
+      "ticker": "USAR",
+      "company": "USA Rare Earth, Inc.",
+      "sector": "Materials",
+      "industry": "Rare Earth Mining, Metals and Permanent Magnets",
+      "rating": "SPEC. BUY",
+      "price": 14.41,
+      "market_cap": "~$5.1B (est. ~353M shares after the Serra Verde issuance; data providers still show ~$3.5B on a stale 244.7M share count)",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/USAR/",
+      "api_url": "/api/USAR.json",
+      "theme": "Critical Minerals",
+      "sub_theme": "Rare Earths",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "UUUU",
@@ -2103,6 +2448,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Robotics & Automation",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "VIAV",
+      "company": "Viavi Solutions Inc.",
+      "sector": "Technology",
+      "industry": "Communication Equipment / Network Test and Measurement",
+      "rating": "SPEC. BUY",
+      "price": 40.87,
+      "market_cap": "$10.1B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/VIAV/",
+      "api_url": "/api/VIAV.json",
+      "theme": "AI Buildout",
+      "sub_theme": "Networking & Connectivity",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "VRT",
@@ -2178,6 +2538,21 @@
       "theme": "AI Buildout",
       "sub_theme": "Analog / Power",
       "price_date": "2026-08-07"
+    },
+    {
+      "ticker": "XYZ",
+      "company": "Block, Inc.",
+      "sector": "Financials",
+      "industry": "Payments / Digital Banking & Consumer Fintech",
+      "rating": "BUY",
+      "price": 73.31,
+      "market_cap": "~$44.7B",
+      "last_updated": "2026-09-29",
+      "deep_dive_url": "/deep-dives/XYZ/",
+      "api_url": "/api/XYZ.json",
+      "theme": "Fintech & Digital Payments",
+      "sub_theme": "Payments / Digital Banking",
+      "price_date": "2026-09-28"
     },
     {
       "ticker": "ZS",

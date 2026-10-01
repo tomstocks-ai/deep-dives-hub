@@ -2,69 +2,84 @@
   "ticker": "FNV",
   "company": "Franco-Nevada Corporation",
   "sector": "Materials",
-  "industry": "Gold Royalty & Streaming",
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
+  "industry": "Gold Royalty and Streaming",
   "exchange": "NYSE",
-  "price": 238.65,
-  "market_cap": "$45.7B",
+  "price": 245.81,
+  "price_date": "2026-09-28",
+  "market_cap": "$47.4B",
   "rating": "BUY",
-  "last_updated": "2026-06-08",
-  "thesis": "Franco-Nevada is the world's largest gold-focused royalty and streaming company, offering asset-light exposure to precious metals without operational or debt risk. Record Q1 2026 results ($650.7M revenue, +77% YoY) demonstrate leverage to gold prices above $3,000/oz. Zero debt, 19 consecutive dividend increases, and a diversified portfolio of 400+ assets provide a fortress balance sheet. Key catalysts include Cobre Panamá arbitration (Oct 2026), new stream acquisitions, and continued central bank gold demand.",
+  "last_updated": "2026-09-29",
+  "thesis": "Franco-Nevada is the world's largest gold-focused royalty and streaming company, giving asset-light exposure to precious metals with no operating cost, capex, or debt risk — H1 2026 delivered record revenue of $1,231.6M (+67%), a 91.1% adjusted EBITDA margin, and $807.5M of adjusted net income ($4.19/share), on top of FY2025 revenue of $1.82B (+64%). The company is debt-free with $1.0B cash and $4.3B of available capital, is tracking toward the upper half of its 510,000-570,000 GEO guidance for 2026, and has H2-weighted production plus first Cobre Panama stockpile stream deliveries ahead. At ~32x trailing earnings the multiple is full, and the main risks are gold's correction to roughly $4,300/oz (below the $4,500/oz guidance assumption) and an unresolved Cobre Panama situation now in the hands of a Panamanian ministerial commission after the company suspended its ICSID arbitration.",
   "financials": {
-    "fiscal_year": "FY2025 / Q1 2026",
-    "revenue": "$1.82B (FY2025); $650.7M (Q1 2026)",
-    "revenue_growth": "+64% YoY (FY2025); +77% YoY (Q1 2026)",
-    "gross_margin": "~90% (royalty model)",
-    "net_income": "$458.3M adjusted (Q1 2026)",
-    "eps_diluted": "$2.38 adjusted (Q1 2026)",
-    "cash": "~$2.0B",
-    "fcf": "~$1.5B annual run-rate"
+    "fiscal_year": "FY2025 / H1 2026",
+    "revenue": "$1.82B (FY2025); $1,231.6M (H1 2026)",
+    "revenue_growth": "+64% (FY2025); +67% YoY (H1 2026)",
+    "gross_margin": "91.1% adjusted EBITDA margin (H1 2026)",
+    "net_income": "$1.08B adjusted (FY2025); $807.5M adjusted (H1 2026)",
+    "eps_diluted": "$5.58 adjusted (FY2025); $4.19 adjusted, $4.26 GAAP diluted (H1 2026)",
+    "cash": "$1,014.2M cash; $4.3B available capital; zero debt",
+    "fcf": "$1.49B operating cash flow (FY2025); $1,002.9M (H1 2026), effectively all free cash flow"
   },
   "bull_case": {
-    "target": "$285–$300",
+    "target": "$310–$340",
     "drivers": [
-      "Gold sustains $3,200+/oz on central bank buying and geopolitical risk premium",
-      "Cobre Panamá arbitration delivers partial or full $5B recovery",
-      "New acquisitions (Casa Berardi, i-80 Gold) add incremental GEOs",
-      "Dividend yield compounds at 10–15% annually"
-    ]
-  },
-  "bear_case": {
-    "target": "$165–$180",
-    "risks": [
-      "Gold drops below $2,500/oz on rate hikes or risk-on sentiment",
-      "Cobre Panamá arbitration fails; asset permanently impaired",
-      "Miners cut production at key assets due to lower metal prices",
-      "Multiple compression to 18x P/E on lower earnings"
+      "Gold sustains $4,800/oz or higher on central bank and sovereign demand, lifting adjusted EPS toward ~$10.75",
+      "GEOs land at the top of the 510,000-570,000 guidance range as Candelaria, Cote Gold, Greenstone, Valentine and Tocantinzinho ramp in H2 2026",
+      "Panama's ministerial commission clears a Cobre Panama restart, restoring an asset that once produced ~15% of quarterly revenue and carries no cost to Franco-Nevada",
+      "$4.3B of available capital converted into accretive streams and royalties at scale, as with the A$200M Minerals 260 package",
+      "Elevated oil and NGL prices keep Diversified revenue above the $245-285M guidance range"
     ]
   },
   "base_case": {
-    "target": "$235–$250",
-    "assumptions": "Gold averages $3,000/oz through 2026–2027; GEO production hits mid-point of guidance (~540K oz); Cobre Panamá remains unresolved but stockpile deliveries offset some loss; modest multiple compression offset by earnings growth."
+    "target": "$265–$285",
+    "assumptions": "Gold averages $4,300-$4,500/oz through 2026-2027 and silver stays below the $75/oz guidance assumption; GEOs land in the upper half of guidance at ~550K; FY2026 revenue ~$2.5B with ~91% adjusted EBITDA margin and adjusted EPS near the ~$8.55 FY2027 consensus; Cobre Panama stockpile deliveries proceed as scheduled (~23,100 gold oz and ~265,000 silver oz in total) but no restart is assumed; the premium multiple holds near 31x forward earnings."
+  },
+  "bear_case": {
+    "target": "$185–$205",
+    "risks": [
+      "Gold retraces to $3,400-$3,600/oz as long-term yields stay at multi-decade highs, cutting adjusted EPS to roughly $6.25",
+      "Premium multiple de-rates from ~32x toward the low 20s, compounding the earnings decline",
+      "Panama's ministerial commission rules against a restart and the stockpile programme ends in 2027 with no recovery path, the arbitration having been suspended",
+      "Further consensus misses as third-party operators slip — Q2 2026 already missed on both revenue and EPS",
+      "Canada Revenue Agency audit exposure or changes to Canadian tax treatment of offshore streams reduce after-tax cash flow"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-08-01",
-      "event": "Q2 2026 earnings release",
-      "iso_date": "2026-08-01"
+      "date": "Nov 2, 2026 (est.)",
+      "iso_date": "2026-11-02",
+      "event": "Q3 2026 results — first quarter including Cobre Panama stockpile stream deliveries and H2-weighted production ramp"
     },
     {
-      "date": "2026-10-01",
-      "event": "Cobre Panamá arbitration hearing",
-      "iso_date": "2026-10-01"
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Cote Gold reserve update and 40,000 tpd expansion study; Copper World sanctioning decision; AurMac final EIS and Record of Decision; Castle Mountain final EIS"
     },
     {
-      "date": "2027-01-01",
-      "event": "Potential dividend increase (20th consecutive year)",
-      "iso_date": "2027-01-01"
+      "date": "January 2027",
+      "iso_date": "2027-01",
+      "event": "Expected annual dividend increase (quarterly dividend was raised 16% to $0.44 in January 2026)"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-03",
+      "event": "FY2026 results and 2027 guidance, including updated commodity price assumptions and GEO outlook"
+    },
+    {
+      "date": "Open-ended",
+      "iso_date": null,
+      "event": "Panamanian ministerial commission decision on the future of the Cobre Panama mine"
     }
   ],
   "key_risks": [
-    "Cobre Panamá arbitration outcome uncertainty",
-    "Gold price volatility and macro sensitivity",
-    "Geopolitical risk in Latin American operating jurisdictions",
-    "Interest rate environment reducing dividend stock attractiveness"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Gold",
-  "price_date": "2026-08-07"
+    "Cobre Panama unresolved: mine in Preservation and Safe Management since November 2023, ICSID arbitration voluntarily suspended, outcome now dependent on a Panamanian ministerial commission with no deadline",
+    "Gold price sensitivity — roughly 70% of revenue is gold and 86% precious metals, with spot below the $4,500/oz guidance assumption",
+    "Premium valuation at ~32x trailing earnings is procyclical and de-rates alongside lower metal prices and higher long-term yields",
+    "Full dependence on third-party operators for production timing and volumes, with no operational control",
+    "Jurisdictional concentration in Latin America (40% of revenue from South America, 7% from Central America and Mexico)",
+    "Canada Revenue Agency audit exposure and potential changes to Canadian tax treatment of offshore streams",
+    "Capital deployment risk — overpaying for streams in a high gold price environment permanently impairs returns"
+  ]
 }

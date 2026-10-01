@@ -1,0 +1,99 @@
+{
+  "ticker": "TEM",
+  "company": "Tempus AI, Inc.",
+  "sector": "Health Care",
+  "theme": "Biotechnology & Health Technology",
+  "sub_theme": "Precision Medicine & Diagnostics",
+  "industry": "Health Information Services / Molecular Diagnostics",
+  "exchange": "NASDAQ",
+  "price": 85.08,
+  "price_date": "2026-09-28",
+  "market_cap": "~$15.4B",
+  "rating": "HOLD",
+  "last_updated": "2026-09-29",
+  "thesis": "Tempus AI runs a two-sided precision-medicine platform: a genomic diagnostics lab (oncology, hereditary, MRD, cardiology AI) that generates multimodal clinical data, and a Data and Applications business that licenses that de-identified library plus AI models to pharma. Q2 2026 delivered $382.5M revenue (+22% YoY), the first GAAP profitable quarter ($5.6M, flattered by $98.5M of unrealized securities gains), $8.0M adjusted EBITDA, and ~$200M of new data bookings from AstraZeneca, GSK, Merck, BioNTech and others. FY2026 guidance is $1.595-1.605B revenue and ~$65M adjusted EBITDA, with management flagging $330-400M of annualized revenue uplift from xT and xF ADLT reimbursement pricing plus a $20B+ MRD opportunity via the pending $1.5B Personalis acquisition. The problem is price: after a 54% one-month run the stock trades at ~10x forward sales and ~24% above the $68.56 consensus target, with a 3.7 beta, ongoing GAAP losses and heavy stock-based compensation.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$1.272B",
+    "revenue_growth": "+83.4%",
+    "gross_margin": "62.7%",
+    "net_income": "-$245.0M",
+    "eps_diluted": "-$1.41",
+    "cash": "$759.7M (cash and marketable securities, 31-Dec-2025; $820.7M at 30-Jun-2026)",
+    "fcf": "-$245.4M (operating cash flow -$218.1M less $21.0M capex and $6.2M capitalized software)"
+  },
+  "bull_case": {
+    "target": "$130–$155",
+    "drivers": [
+      "xT ADLT pricing adds $80-100M of annualized revenue in 2027 and xF approval/pricing adds a further $250-300M, taking the 2028 uplift to ~$400M as guided on the Q2 call",
+      "Personalis closes and NeXT Personal MRD scales into Tempus' commercial footprint, attacking a management-estimated $20B+ MRD market",
+      "Data and Applications keeps compounding near 30% with 126% net revenue retention and ~$200M of quarterly bookings, dragging blended gross margin toward 70%",
+      "Oncology volume growth stays above 30% and diagnostics gross margin extends past the 62.6% posted in Q2 2026",
+      "Sustained GAAP profitability and positive free cash flow re-rate the multiple toward high-growth software rather than lab-services comparables"
+    ]
+  },
+  "base_case": {
+    "target": "$85–$100",
+    "assumptions": [
+      "FY2026 lands inside the $1.595-1.605B guide with ~$65M adjusted EBITDA; FY2027 revenue approaches the ~$1.97B consensus",
+      "Reimbursement uplift arrives but phases in over 2027-2028 rather than immediately",
+      "Personalis closes late 2026 or early 2027 with up to 50% cash funding and modest near-term dilution",
+      "Stock holds ~8-9x forward EV/sales as sell-side targets migrate up toward the market price",
+      "Stock-based compensation stays elevated (~$54M per quarter), keeping GAAP results volatile"
+    ]
+  },
+  "bear_case": {
+    "target": "$45–$58",
+    "risks": [
+      "Momentum unwinds: a 3.7 beta name that ran 54% in a month mean-reverts toward the $60 50-day and $56 200-day moving averages",
+      "ADLT and xF reimbursement timing slips, so the $330-400M uplift never shows up in the modelled years",
+      "Personalis integration disappoints or MRD reimbursement stays slow, leaving $1.5B of enterprise value poorly deployed",
+      "Hereditary growth stays weak (+5% in Q2 2026) and Ambry's contribution fades as the acquisition laps",
+      "Cash burn resumes; the company carries ~$1.36B of converts and promissory notes against $820.7M of cash and securities"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "November 3, 2026",
+      "iso_date": "2026-11-03",
+      "event": "Q3 2026 results — first print after the reimbursement-driven re-rating; watch oncology volumes, MRD test count and whether FY2026 guidance moves again"
+    },
+    {
+      "date": "Q4 2026 / early 2027",
+      "iso_date": "2026-12",
+      "event": "Expected close of the $1.5B Personalis acquisition, including the funding mix (up to 50% cash) and any dilution"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "xF liquid biopsy FDA approval and ADLT pricing — management sizes this at $250-300M of annualized revenue"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "xT Tumor Only migration to ADLT pricing flows through tissue testing revenue, sized at $80-100M annualized"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Additional pharma data-licensing and foundation-model deals following the AstraZeneca model delivery and the Recursion RNA foundation-model license"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results plus first FY2027 guidance, the first test of the 25%+ multiyear growth claim"
+    }
+  ],
+  "key_risks": [
+    "Valuation and positioning — ~$15.4B market cap on ~$1.6B of 2026 revenue (~10x sales) with the $68.56 consensus target sitting ~24% below the market price",
+    "Still GAAP loss-making: the Q2 2026 profit depended on $98.5M of unrealized marketable-securities gains, while operating loss was -$75.9M",
+    "Stock-based compensation of $54.1M in Q2 2026 alone (~14% of revenue) dilutes shareholders and flatters adjusted metrics",
+    "Reimbursement risk — the bull case leans on CMS/ADLT pricing decisions and payer behaviour that Tempus does not control",
+    "Leverage: ~$1.17B of convertible senior notes plus a ~$188M convertible promissory note against $820.7M of cash and securities",
+    "Insider selling — CEO Eric Lefkofsky sold ~$16.1M of stock on 17-Sep-2026 into the rally, alongside other executive sales",
+    "Competition in genomics and MRD from Natera, Guardant Health, Foundation Medicine (Roche), Exact Sciences and Illumina",
+    "Beta of 3.7 makes the position highly sensitive to biotech and broader risk-asset drawdowns"
+  ],
+  "deep_dive_url": "/deep-dives/TEM/",
+  "api_url": "/api/TEM.json"
+}

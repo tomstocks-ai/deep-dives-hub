@@ -1,0 +1,84 @@
+{
+  "ticker": "GOOGL",
+  "company": "Alphabet Inc.",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Cloud & Enterprise Software",
+  "industry": "Interactive Media & Services / Cloud Computing",
+  "exchange": "NASDAQ",
+  "price": 342.75,
+  "price_date": "2026-09-28",
+  "market_cap": "~$4.2T",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Alphabet is the only company that owns the full AI stack end to end — frontier models (Gemini), custom silicon (TPU), a hyperscale cloud, and the two largest consumer attention platforms on earth. Q2 2026 showed the thesis working: revenue +24% to $119.8B, Google Cloud +82% to $24.8B with a $514B backlog, and the first externally disclosed TPU hardware sales. The cost is brutal capex — FY2026 guidance of $195–205B pushed quarterly free cash flow negative for the first time since the 2004 IPO, and the market has knocked ~16% off the highs on ROI doubts. At ~25x forward earnings, the cheapest mega-cap AI platform, we think the buildout is being priced as a cost rather than as the asset it is.",
+  "financials": {
+    "fiscal_year": "FY2025 (plus TTM to Q2 2026)",
+    "revenue": "$402.8B FY2025; $445.9B TTM",
+    "revenue_growth": "+15% FY2025; +20% TTM",
+    "gross_margin": "59.7% FY2025; 60.9% TTM",
+    "net_income": "$132.2B FY2025; $244.1B TTM (TTM inflated by ~$99B of equity gains)",
+    "eps_diluted": "$10.80 FY2025; $19.93 TTM",
+    "cash": "$242.5B cash and investments vs $120.8B total debt (Jun 30, 2026)",
+    "fcf": "$73.3B FY2025; $53.3B TTM (Q2 2026 alone was -$5.9B)"
+  },
+  "bull_case": {
+    "target": "$460–$520",
+    "drivers": [
+      "Google Cloud sustains 50%+ growth as the $514B backlog converts — management indicated more than half lands inside 24 months — carrying Cloud operating margin from ~36% toward 40%",
+      "External TPU sales become a second silicon franchise: Piper Sandler models ~$8B in 2026 scaling to ~$51B in 2027 and ~$104B by 2028, a stream the Street has barely capitalised (broker estimate, not company-guided)",
+      "Search proves AI-expansionary rather than AI-disrupted: 17% Search growth in Q2 2026 with AI Mode and Gemini raising query volume and commercial intent",
+      "Gemini Enterprise scales past 8M paid seats into the Workspace base, adding a high-margin subscription layer on top of ads",
+      "Capex intensity peaks in 2027 and free cash flow inflects sharply as depreciation is absorbed, allowing the multiple to re-rate toward the ~30x forward the peer group commands"
+    ]
+  },
+  "base_case": {
+    "target": "$390–$430",
+    "assumptions": "Revenue compounds 15–18% through 2027 as Cloud decelerates from 82% to a still-excellent 40–50% and Search holds low-double-digit growth. Capex lands inside the $195–205B guide, full-year FCF stays positive but well below the FY2025 $73.3B, and the stock trades at 26–28x forward operating EPS — broadly the $420–429 consensus target range."
+  },
+  "bear_case": {
+    "target": "$240–$280",
+    "risks": [
+      "AI capex produces a depreciation wall without matching revenue: FCF stays negative for multiple quarters and Alphabet keeps funding the buildout with debt, which grew from $67.0B at end-2025 to $120.8B by June 2026",
+      "Search query share genuinely erodes to OpenAI and Anthropic assistants — both shipped cheaper frontier models in September 2026 — compressing the highest-margin revenue line in the company",
+      "Cloud backlog conversion slips or is renegotiated, and the 82% growth rate is revealed as a pull-forward of capacity-constrained AI contracts rather than durable demand",
+      "Antitrust and DMA remedies bite: US ad-tech conduct remedies, EU orders to open search data and Gemini services to rivals, and a steady drip of fines change unit economics",
+      "Multiple compression in a higher-rate environment — the 10-year hitting its highest level since 2007 in September 2026 pressured the whole complex"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-10-28",
+      "iso_date": "2026-10-28",
+      "event": "Q3 2026 earnings (date unconfirmed) — first read on whether Cloud holds 50%+ growth, whether FCF returns positive, and any update to the $195–205B capex guide"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "External TPU hardware disclosure cadence — a second quarter of reported third-party chip revenue would validate the new silicon franchise"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 and FY2026 results with initial FY2027 capex guidance — the CFO has already flagged capex rising again in 2027"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Broadcom-supplied next-generation TPU capacity comes online from 2027, plus the ramp of the up-to-$40B Anthropic arrangement covering 5GW of TPU capacity"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Regulatory docket — EU appeals of the DMA search-data and Gemini access orders, implementation of the US ad-tech conduct remedies, and further EU fines"
+    }
+  ],
+  "key_risks": [
+    "Capex of $195–205B in FY2026 with quarterly free cash flow already negative; returns on the AI buildout are unproven and depreciation is rising fast",
+    "Total debt nearly doubled to $120.8B in six months to fund infrastructure, a structural change from Alphabet's historically fortress-like, debt-light balance sheet",
+    "Search disruption risk from OpenAI and Anthropic assistants, now shipping cheaper frontier models, against a revenue line that is still over half of group revenue",
+    "Reported earnings quality is poor: ~$99B of Q2 2026 equity gains on SpaceX and Anthropic stakes are unrealised, illiquid, and mark-to-market volatile in both directions",
+    "Antitrust and regulatory overhang across the US ad-tech remedies, EU DMA orders on search data and Gemini access, and recurring fines",
+    "Cloud growth is supply-constrained, so upside depends on physically delivering power and data centre capacity on schedule"
+  ]
+}

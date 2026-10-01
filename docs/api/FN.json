@@ -1,0 +1,87 @@
+{
+  "ticker": "FN",
+  "company": "Fabrinet",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Photonics & Optical Interconnects",
+  "industry": "Electronic Manufacturing Services / Optical Packaging",
+  "exchange": "NYSE",
+  "price": 409.96,
+  "price_date": "2026-09-28",
+  "market_cap": "$14.7B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Fabrinet is the largest independent contract manufacturer of high-speed optical transceivers, coherent DCI pluggables and HPC PCBAs, built almost entirely in Thailand for customers including Cisco (20% of FY2026 revenue), NVIDIA (16%), Nokia (11%) and Amazon (11%). FY2026 revenue rose 36% to $4.64B with non-GAAP EPS up 39% to $14.09, and Q4 data-center revenue reached $669M (51% of total, +68% YoY), yet the stock sits ~45% below its 52-week high because NVIDIA has dual-sourced 800G, gross margin is stuck near 12%, and FY2026 free cash flow collapsed to $4M on doubled capex. At ~22x consensus FY2027 EPS with ~$875M net cash and no debt, the valuation prices in a stall that guidance does not support. The primary risk is that four customers are ~58% of revenue on a 12% gross margin, so any AI capex digestion hits hard.",
+  "financials": {
+    "fiscal_year": "FY2026",
+    "revenue": "$4.64B",
+    "revenue_growth": "+35.7%",
+    "gross_margin": "12.0% GAAP (12.2% non-GAAP)",
+    "net_income": "$473.0M GAAP ($510.9M non-GAAP)",
+    "eps_diluted": "$13.05 GAAP ($14.09 non-GAAP)",
+    "cash": "$875M (incl. short-term investments), no debt",
+    "fcf": "$4.2M (capex $252.5M)"
+  },
+  "bull_case": {
+    "target": "$700–820",
+    "drivers": [
+      "Datacom re-accelerates as merchant transceiver makers and hyperscalers replace NVIDIA's earlier growth contribution",
+      "Building 10 at Chonburi fills quickly, lifting capacity toward $8.5-9.3B and the full footprint plan toward $12.5-14B of annualized revenue",
+      "400ZR/800ZR data-center interconnect scales well beyond the $1B annualized run rate reached at the end of FY2026",
+      "Co-packaged and near-package optics plus optical circuit switching shift mix and finally push gross margin above the 12-13% band",
+      "FY2028 non-GAAP EPS of $23-25 re-rated at ~30x as free cash flow turns positive again"
+    ]
+  },
+  "base_case": {
+    "target": "$480–560",
+    "assumptions": "FY2027 tracks consensus of ~$18.56 non-GAAP EPS (~32% growth) on revenue building from the $1.375-1.425B Q1 guidance range, gross margin flat at 12.0-12.5%, Pillar Two tax remaining a ~$0.40/quarter drag, and free cash flow turning positive during FY2027 as the Building 10 capex wave peaks. Multiple re-rates to 26-30x forward earnings — above the current ~22x but well below the $650-734 sell-side average targets."
+  },
+  "bear_case": {
+    "target": "$280–340",
+    "risks": [
+      "Hyperscale AI capex digestion in calendar 2027 slows transceiver and HPC PCBA build rates",
+      "Further NVIDIA share loss plus insourcing or dual-sourcing by Cisco, Nokia or Amazon",
+      "Gross margin stays at or below 12% while depreciation from the new footprint lands on a lower revenue base",
+      "$1.02B inventory balance requires write-downs if end demand rolls over before it ships",
+      "Multiple compresses to 18-20x on flat $15-16 non-GAAP EPS"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "2026-11-02",
+      "iso_date": "2026-11-02",
+      "event": "Q1 FY2027 earnings (estimated date): tests guidance of $1.375-1.425B revenue and $4.10-4.25 non-GAAP EPS, plus management's claim that datacom returns to sequential growth"
+    },
+    {
+      "date": "Q2 FY2027 (early Feb 2027)",
+      "iso_date": "2027-02",
+      "event": "Q2 FY2027 earnings: December-quarter datacom trajectory and first read on Building 10 contribution"
+    },
+    {
+      "date": "March 2027",
+      "iso_date": "2027-03",
+      "event": "OFC 2027: Fabrinet investor sessions, CPO/NPO, 1.6T and optical circuit switching updates"
+    },
+    {
+      "date": "Q3 FY2027 (May 2027)",
+      "iso_date": "2027-05",
+      "event": "Q3 FY2027 earnings: gross margin check against the 12.5% threshold and free cash flow inflection"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "Building 10 Chonburi ramp (~2M sq ft, ~$3.0-3.5B revenue capacity) and Santa Clara NPI facility coming online"
+    }
+  ],
+  "key_risks": [
+    "Customer concentration: Cisco 20%, NVIDIA 16%, Nokia 11%, Amazon 11% of FY2026 revenue (~58% in four accounts)",
+    "NVIDIA has diversified 800G transceiver supply away from Fabrinet as sole source",
+    "Structurally thin margins: 12.0% GAAP gross margin, ~10.8% non-GAAP operating margin, no pricing power over OEM customers",
+    "Free cash flow of only $4.2M in FY2026 with inventories nearly doubled to $1.02B",
+    "Capacity bet: a $12.5-14B footprint plan against $4.6B of current revenue",
+    "Manufacturing concentrated in Thailand, with China and Israel operations — flood, tariff, export-control and geopolitical exposure",
+    "OECD Pillar Two global minimum tax is a permanent effective tax rate step-up ($57.4M in FY2026, $0.40/share guided in Q1 FY2027)",
+    "Competition from Jabil, Flex, TTM Technologies, customer in-house lines and lower-cost Chinese optical module makers",
+    "High sector beta: the AI optics complex trades as a block, with FN falling on peer news it has no exposure to"
+  ]
+}

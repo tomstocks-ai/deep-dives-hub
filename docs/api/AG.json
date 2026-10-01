@@ -6,76 +6,85 @@
   "sub_theme": "Specialty Metals (Silver)",
   "industry": "Silver Mining",
   "exchange": "NYSE",
-  "price": 18.4,
-  "market_cap": "$8.3B",
+  "price": 17.95,
+  "price_date": "2026-09-28",
+  "market_cap": "$8.4B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-25",
-  "thesis": "First Majestic Silver is the world's largest primary silver producer, offering the purest leverage to silver price appreciation among large-cap miners. Q1 2026 demonstrated a dramatic operational turnaround with revenue up 95% YoY, net income of $128.1M, and profit margins expanding to 27%. Silver is in a structural supply deficit driven by solar, EV, and AI demand, while AG trades at a discounted valuation ~50% off 52-week highs. The recent Del Toro sale streamlines the portfolio and strengthens the balance sheet.",
+  "last_updated": "2026-09-29",
+  "thesis": "First Majestic is the largest primary silver producer on a major U.S. exchange, with 63% of 2026 revenue from silver across four Mexican underground mines plus its own Las Vegas bullion mint. The 2026 silver spike transformed the balance sheet: Q2 2026 revenue rose 57% YoY to $415.5M, free cash flow hit $194.6M, treasury reached a record $1,252.7M, and FY2026 guidance was raised twice to 14.6-15.5M attributable silver ounces. The stock sits 44% below its January high as silver retraced from a record $121.62/oz to ~$61/oz, leaving a debt-free producer at ~24x trailing earnings with a funded growth pipeline. The whole return depends on the silver price, and AISC inflation to $25.68/AgEq oz is eating into the margin cushion.",
   "financials": {
-    "fiscal_year": "Q1 2026",
-    "revenue": "$476.7M",
-    "revenue_growth": "+95% YoY",
-    "gross_margin": "~40% (est.)",
-    "net_income": "$128.1M",
-    "eps_diluted": "$0.26",
-    "cash": "Improving (post-Del Toro sale)",
-    "fcf": "Positive and growing"
+    "fiscal_year": "Q2 2026",
+    "revenue": "$415.5M",
+    "revenue_growth": "+57% YoY",
+    "gross_margin": "~54% (mine operating margin)",
+    "net_income": "$109.4M",
+    "eps_diluted": "$0.22",
+    "cash": "$1,093.3M ($1,252.7M treasury incl. restricted)",
+    "fcf": "$194.6M"
   },
   "bull_case": {
-    "target": "$24–28",
+    "target": "$28–34",
     "drivers": [
-      "Silver breaks out to $45–50/oz on supply deficit realization and investment demand surge",
-      "AG's operating leverage drives EPS to $0.80–1.00",
-      "Market re-rates AG to 25–30x P/E (historical avg for silver miners in bull markets)",
-      "Exploration success at San Dimas or Santa Elena extends mine life and reserves"
+      "Silver re-accelerates to $80-100/oz as the six-year structural deficit (840M cumulative oz per management) reasserts itself; UBS has published an $80/oz target",
+      "Production lands at the top of the 14.6-15.5M attributable silver oz guidance range with 128,000-135,000 gold oz",
+      "AISC normalises back toward $22-23/AgEq oz as the Mexican peso eases and the Los Gatos rockfall and San Dimas labour disruptions stay resolved",
+      "EPS run-rate exceeds $1.50 and the market pays a mid-20s multiple on a debt-free producer with $1.2-1.3B of cash",
+      "Jerritt Canyon de-risking toward its H2 2027 restart plus the 90M oz Santo Nino and Navidad resource additions supply the growth narrative"
     ]
   },
   "base_case": {
-    "target": "$18–22",
-    "assumptions": [
-      "Silver stabilizes at $35–40/oz",
-      "AG delivers 13–15M oz silver annually with AISC of $14–16/oz",
-      "EPS of $0.50–0.65 supports 25–35x P/E (sector average for growth miners)",
-      "Debt continues to decline; balance sheet strengthens"
-    ]
+    "target": "$21–25",
+    "assumptions": "Silver holds a $55-70/oz band around today's ~$61/oz. AG delivers FY2026 guidance of 14.6-15.5M attributable silver ounces and 128,000-135,000 gold ounces, AISC stays in the $25-27/AgEq oz range, EPS lands near $0.90-1.10, and the stock trades at 22-25x. This range brackets the MarketBeat consensus target of ~$23.83 and sits below the TipRanks ~$25.41 average."
   },
   "bear_case": {
-    "target": "$10–14",
+    "target": "$11–14",
     "risks": [
-      "Silver retreats to $25–28/oz on macro headwinds (strong dollar, recession)",
-      "Margins compress but remain positive due to low AISC and gold by-product credits",
-      "Stock trades at 15–20x depressed earnings",
-      "Mexican regulatory changes increase costs or restrict operations"
+      "Silver retraces to $35-40/oz as the 2026 investment-demand surge unwinds",
+      "AISC inflation does not reverse and a strong Mexican peso keeps costs elevated",
+      "The revenue-linked dividend shrinks mechanically as prices fall (Q2 declaration of $0.0152 was already below Q1's $0.0171)",
+      "Jerritt Canyon capital is spent into a weaker price environment, or the H2 2027 restart slips",
+      "Stock retests the $10.19 52-week low area on a 15-18x multiple against depressed earnings; the $1,252.7M treasury is the floor"
     ]
   },
   "catalysts": [
     {
-      "date": "2026-07",
-      "event": "Q2 2026 Earnings Release — confirmation of production trajectory and margin sustainability",
-      "iso_date": "2026-07"
+      "date": "Late Oct / early Nov 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 results — whether the $78.0M of held-back silver and gold inventory converts to revenue and whether AISC moderates from $25.68/AgEq oz"
     },
     {
-      "date": "2026-12",
-      "event": "2027 Production Guidance — potential guidance raise if silver prices remain elevated",
-      "iso_date": "2026-12"
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Exploration updates from the ~300 km 2026 drilling programme, including 117 km at San Dimas"
+    },
+    {
+      "date": "January 2027",
+      "iso_date": "2027-01",
+      "event": "FY2027 production guidance and updated exploration programme"
+    },
+    {
+      "date": "H2 2027",
+      "iso_date": "2027-07",
+      "event": "Targeted Jerritt Canyon gold mine restart in Nevada after $75M of 2026 investment, new owner-operated fleet and mill modernisation"
+    },
+    {
+      "date": "Late 2027 / early 2028",
+      "iso_date": "2027-12",
+      "event": "Santa Elena mill expansion to 3,500 tpd from ~3,100 tpd delivering incremental output from Santo Nino and Navidad"
     },
     {
       "date": "Ongoing",
-      "event": "Silver price movements above $35/oz drive direct margin expansion",
-      "iso_date": null
-    },
-    {
-      "date": "2026",
-      "event": "Debt reduction initiatives improve balance sheet and credit profile",
-      "iso_date": "2026"
+      "iso_date": null,
+      "event": "Silver price direction — each $10/oz move is worth on the order of $150M+ of annualised pre-tax cash flow; the dividend is set at 2% of net quarterly revenue and tracks price mechanically"
     }
   ],
   "key_risks": [
-    "Silver price volatility — a 20% price drop would compress margins significantly",
-    "Mexican regulatory risk — mining reforms, tax changes, or environmental restrictions",
-    "Operational risk — underground mining accidents, flooding, or grade variability",
-    "Foreign exchange risk — Mexican peso appreciation could compress margins",
-    "Exploration risk — reserves deplete without replacement; exploration may not yield economic discoveries"
-  ],
-  "price_date": "2026-08-07"
+    "Silver price is the entire thesis — the metal fell from a record $121.62/oz on 29 January 2026 to ~$61/oz by late September, and AG's earnings, dividend and multiple all move with it",
+    "Cost inflation is partly structural — AISC rose 22% YoY to $25.68/AgEq oz on a stronger peso, higher royalties, production taxes and worker-participation costs that scale with metal prices",
+    "Consecutive consensus misses — Q2 2026 came in at $0.21 adjusted EPS versus $0.25 expected and $415.5M revenue versus ~$496M forecast, as concentrate mark-to-market and inventory timing make quarters hard to model",
+    "Execution risk on the Jerritt Canyon restart — a mine suspended since March 2023, restarting with a new fleet and a self-perform mining model",
+    "Single-jurisdiction concentration — all four producing mines are in Mexico, exposing the company to mining-law reform, tax disputes (a $10.1M one-time charge settled a historic dispute in Q2 2026), permitting and community relations",
+    "Operational fragility — the Los Gatos main-ramp rockfall and San Dimas labour disruption both hit a single quarter",
+    "The dividend is not a floor — at 2% of revenue it falls automatically with prices, and the ~0.3% yield offers no income support"
+  ]
 }

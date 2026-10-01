@@ -1,0 +1,99 @@
+{
+  "ticker": "USAR",
+  "company": "USA Rare Earth, Inc.",
+  "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Rare Earths",
+  "industry": "Rare Earth Mining, Metals and Permanent Magnets",
+  "exchange": "NASDAQ",
+  "price": 14.41,
+  "price_date": "2026-09-28",
+  "market_cap": "~$5.1B (est. ~353M shares after the Serra Verde issuance; data providers still show ~$3.5B on a stale 244.7M share count)",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "USA Rare Earth is assembling the most complete non-China rare earth value chain in the Western world — the Pela Ema heavy rare earth mine in Brazil (Serra Verde, closed September 3, 2026), LCM's metal and alloy plants in the UK and France, sintered NdFeB magnet manufacturing in Stillwater, Oklahoma, a hydrometallurgical and swarf-recycling facility in Colorado, and the wholly owned Round Top deposit in Texas. It is funded far beyond its size: a $1.5B PIPE in January 2026, up to $1.6B in CHIPS Act grants and senior secured loans from the Department of Commerce, and a $1.55B U.S.-government-backed SPV that takes 100% of Pela Ema Phase 1 output with escalating price floors. The catch is that essentially none of it is commercial yet — TTM revenue is only ~$13M at a gross loss, Serra Verde does not declare commercial operations until 2027, Round Top does not produce until late 2028, and the Serra Verde deal added ~126.8M shares plus ~$325M of SOFR+4% debt. With the stock 67% below its 52-week high and near multi-month lows on U.S.-China detente headlines, this is a SPEC. BUY on the asset base, not on the current P&L.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$1.6M",
+    "revenue_growth": "n/a (first revenue; FY2024 was $0)",
+    "gross_margin": "11.9%",
+    "net_income": "-$297.6M (net loss; includes $244.5M non-cash warrant/earnout fair-value losses — adjusted net loss $80.0M)",
+    "eps_diluted": "-$3.31 (adjusted -$0.82)",
+    "cash": "$359.9M (12/31/2025; $1.53B at 6/30/2026, ~$1.39B pro forma after the Serra Verde payment)",
+    "fcf": "-$86.3M (operating cash flow -$49.0M less $37.4M capex; H1 2026 FCF -$183.7M)"
+  },
+  "bull_case": {
+    "target": "$28–38",
+    "drivers": [
+      "Serra Verde's Pela Ema mine hits its ~4,000 tpa TREO Stage 1 run-rate by end-2026 and declares commercial operations in 2027, giving USAR the only scaled ex-Asia source of all four magnetic rare earths",
+      "The $1.55B government-backed SPV offtake with escalating price floors on 100% of Phase 1 output turns a development asset into contracted, price-protected cash flow",
+      "Stillwater reaches its 600 MTPA magnet run-rate in Q4 2026 and 1,200 MTPA in Q1 2027, converting a qualification pipeline in defense, semis, aerospace and industrial motors into repeat orders",
+      "Up to $1.6B of CHIPS Act funding ($277M grant plus $1.3B senior secured loans) is drawn on milestones, funding Blacksburg and Round Top without equity dilution",
+      "Persistent non-China price premiums (Dy oxide ~9.2x and yttrium oxide ~208x Chinese prices in August 2026) plus China's export-control posture keep Western buyers paying up",
+      "Round Top DFS in Q1 2027 validates project economics and analyst targets converge on the current consensus range near $33–36"
+    ]
+  },
+  "base_case": {
+    "target": "$17–22",
+    "assumptions": "Revenue scales from a ~$13M TTM base into the tens of millions through 2027 as LCM alloy sales, first Stillwater magnet deliveries and Pela Ema concentrate ramp, but gross margin stays around breakeven while heavy rare earth input costs and commissioning inefficiencies persist. Serra Verde commercial operations slip into mid-2027, CHIPS milestones are met with modest delays, cash burn runs $400M+ per year against ~$1.39B pro forma liquidity plus government loans, and the equity re-rates back toward its 50-day (~$17) and 200-day (~$19) moving averages as the U.S.-China rare earth narrative stabilizes without a full policy reversal."
+  },
+  "bear_case": {
+    "target": "$8–11",
+    "risks": [
+      "A durable U.S.-China rare earth detente collapses non-China price premiums and with them the entire reshoring re-rating — the sector already fell hard around the September 2026 Trump-Xi summit",
+      "Pela Ema commissioning slips again (H1 2026: $0.6M revenue, $4.7M gross loss, $39.8M operating loss) while ~$325M of SOFR+4% DFC debt service starts ahead of mature cash flow",
+      "Stillwater and Blacksburg ramps miss on yield or customer qualification, leaving magnet revenue far below the 10,000 tpa 2030 ambition",
+      "Further dilution from the $1.25B mixed shelf, the 126.48M-share resale registration overhang, and warrant/earnout instruments on top of the 126.8M shares already issued for Serra Verde",
+      "CHIPS Act disbursements are milestone-contingent and politically exposed; scrutiny of the Lutnick-linked deal process or a change in Washington's appetite could stall funding",
+      "15.18% of the float was short as of August 31, 2026 with a 2.6 beta — sentiment reversals move this equity violently in both directions"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 1, 2026",
+      "iso_date": "2026-10-01",
+      "event": "CEO transition — Barbara Humpton retires, Serra Verde CEO Thras Moraitis takes over the combined company"
+    },
+    {
+      "date": "November 5, 2026",
+      "iso_date": "2026-11-05",
+      "event": "Q3 2026 results (estimated date) — first quarter with Serra Verde consolidated, plus magnet revenue and repriced product margins"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Stillwater reaches 600 MTPA magnet run-rate; Pela Ema Stage 1 reaches ~4,000 tpa TREO run-rate; Round Top DFS completed"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-03",
+      "event": "Round Top Definitive Feasibility Study published with definitive project economics; Stillwater Phase 1b lifts capacity to 1,200 MTPA"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Serra Verde declares commercial operations and begins Stage 2 construction toward 6,400 tpa average TREO"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Milestone-based drawdowns of the $277M Department of Commerce grant and $1.3B CHIPS senior secured loan facility"
+    },
+    {
+      "date": "2028",
+      "iso_date": "2028",
+      "event": "Blacksburg, South Carolina metals and magnet plant commissioning begins; Round Top targeted for commercial production in late 2028"
+    }
+  ],
+  "key_risks": [
+    "Pre-commercial economics — TTM revenue of only ~$13.2M at a gross loss (Q2 2026 gross loss $1.6M), with Serra Verde still accounted for as development-stage until commercial operations in 2027",
+    "Heavy and accelerating cash burn — H1 2026 operating cash outflow $75.3M plus $108.4M capex, against a multi-billion-dollar build programme in Stillwater, Blacksburg, Lacq and Round Top",
+    "Dilution — ~126.8M shares issued for Serra Verde, a 126.48M-share resale registration overhang, a new $1.25B mixed securities shelf, and outstanding warrants and earnouts",
+    "Inherited leverage — ~$325M principal of Serra Verde's DFC loan at an assumed Term SOFR plus 4%, with restrictive covenants and debt service preceding mature operating cash flow",
+    "Offtake structure caps upside — the SPV takes 100% of Pela Ema Phase 1 volumes and 30% of economics above the price floors for up to 20 years after commercial operations",
+    "Policy and geopolitical dependence — the thesis needs sustained non-China price premiums and CHIPS milestone funding; U.S.-China detente or political scrutiny of the award process would undercut both",
+    "Execution and integration risk — a brand-new CEO must simultaneously ramp Pela Ema, qualify Stillwater magnet customers, build Blacksburg, and finance Round Top",
+    "China designated the company on an export control list, constraining its ability to source certain raw materials and equipment",
+    "Extreme volatility — 2.6 beta, 15.18% of float short as of August 31, 2026, and a 52-week range of $11.45 to $43.98"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "ticker": "NRG",
+  "company": "NRG Energy, Inc.",
+  "sector": "Utilities",
+  "theme": "Energy",
+  "sub_theme": "Natural Gas & AI Power Demand",
+  "industry": "Utilities - Independent Power Producers",
+  "exchange": "NYSE",
+  "price": 97.0,
+  "price_date": "2026-09-28",
+  "market_cap": "$20.4B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "NRG is a vertically integrated independent power producer and home-services company that pairs ~25 GW of dispatchable generation (mostly natural gas) with one of the largest competitive retail electricity books in the U.S. plus the Vivint Smart Home platform. The January 2026 close of the ~$12B LS Power acquisition (18 gas plants, ~13 GW, plus the CPower commercial and industrial virtual power plant) doubled generation capacity and drove Q2 2026 adjusted EBITDA up 34% YoY to $1.217B, with 2026 guidance of ~$5.575B adjusted EBITDA, ~$8.90 adjusted EPS and ~$3.05B free cash flow before growth. The stock has nevertheless fallen ~41% over the past year to a fresh 52-week low, because the deal was debt-funded (total debt $23.5B and cash of only $162M at 30 Jun 2026), two consecutive quarters missed adjusted EPS on higher interest expense, and Texas Governor Abbott's data center permit freeze - expanded on 21 Sep 2026 to a TCEQ permit halt pending ERCOT and water audits - has cast doubt on the ERCOT load-growth thesis. At ~7.8x EV on guided 2026 EBITDA and a ~15% forward FCF-before-growth yield against a $189-198 analyst consensus target, the risk/reward is attractive but the leverage and Texas regulatory overhang make it speculative.",
+  "financials": {
+    "fiscal_year": "TTM (2026-06-30)",
+    "revenue": "$33.13B",
+    "revenue_growth": "12.8% YoY",
+    "gross_margin": "~10% (TTM EBITDA margin; IPP reporting has no gross profit line)",
+    "net_income": "$782M",
+    "eps_diluted": "$3.87",
+    "cash": "$162M",
+    "fcf": "$348M"
+  },
+  "bull_case": {
+    "target": "$170–200",
+    "drivers": [
+      "Texas lifts the TCEQ data center permit freeze after the ERCOT and Texas Water Development Board audits clear, restoring the ERCOT load-growth narrative that drove the 2025 re-rating",
+      "The 1.2 GW / $3.2B Bring Your Own Power combined-cycle plant in Texas converts to a signed 15-year hyperscaler contract, validating ~$500M of annual adjusted EBITDA and ~$375M of annual FCF before growth from late 2029",
+      "LS Power synergies and PJM capacity value step-ups push 2027 adjusted EBITDA above the $5.575B 2026 guide, compounding through the contracted development pipeline",
+      "Free cash flow before growth of ~$3.05B funds ~$1B of annual debt repayment plus $1.4B+ of buybacks and dividends, pulling leverage back toward 3.0x and compressing the credit-risk discount",
+      "The stock re-rates toward the ~$189–198 analyst consensus target as the AI-power trade recovers and NRG closes its EV/EBITDA discount to Vistra and Constellation"
+    ]
+  },
+  "base_case": {
+    "target": "$125–150",
+    "assumptions": "NRG delivers 2026 adjusted EBITDA near but slightly below the $5.575B guidance midpoint (management has said results are tracking below the midpoint), converts it to ~$3.0B of FCF before growth, and keeps the ~$1B debt repayment plus $1.4B shareholder-return plan intact. The Texas permit freeze delays but does not cancel ERCOT data center load, and the BYOP contract is signed with late-2029 commercial operation. Multiple recovers from ~7.8x toward 8.5–9x EV/guided EBITDA — roughly 10–12x the ~$8.90–10.50 adjusted EPS band — which lands well short of the analyst consensus but well above the current 52-week low."
+  },
+  "bear_case": {
+    "target": "$70–85",
+    "risks": [
+      "The Texas permit halt hardens into a durable moratorium or the legislature strips data center incentives, removing the demand growth that underwrites both the BYOP plant and ERCOT forward power prices — BloombergNEF puts 49.8 GW of Texas data center load at risk of delay",
+      "Leverage bites: $23.5B of total debt, debt/equity of 5.17x and TTM interest expense of $1.025B (up from $741M in FY2025) force NRG to choose between deleveraging and shareholder returns",
+      "The hyperscaler walks from the 1.2 GW deal or the $3.2B build overruns, leaving NRG with an uncontracted merchant plant and a leverage target already pushed from 2028 to 2029",
+      "A third consecutive adjusted EPS miss or a 2026 guidance cut at the 5 Nov 2026 print breaks confidence in the LS Power integration story",
+      "Mild weather, collapsing natural gas prices or PJM capacity price mean reversion compress merchant spark spreads, while retail churn erodes the customer book that funds the hedge"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Nov 5, 2026",
+      "iso_date": "2026-11-05",
+      "event": "Q3 2026 earnings — the key test of whether 2026 adjusted EBITDA guidance of ~$5.575B and adjusted EPS of ~$8.90 hold after two consecutive adjusted EPS misses"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-12",
+      "event": "Definitive contract signing for the 1.2 GW / $3.2B Bring Your Own Power combined-cycle plant in Texas with a global cloud and AI hyperscaler (15-year term, ~$500M annual adjusted EBITDA, late-2029 commercial operation)"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2026",
+      "event": "Completion of the ERCOT and Texas Water Development Board audits of ~250–300 interconnection-queue projects and the lifting of Governor Abbott's 21 Sep 2026 TCEQ data center permit halt — no completion date has been announced"
+    },
+    {
+      "date": "2026",
+      "iso_date": "2026",
+      "event": "Commercial operation of the ~415 MW Texas gas plant backed by the Texas Energy Fund, the first increment of the in-ERCOT brownfield development pipeline"
+    },
+    {
+      "date": "Feb 2027",
+      "iso_date": "2027-02",
+      "event": "FY2026 results and first formal 2027 guidance, including a full year of LS Power asset ownership versus ~11 months in 2026"
+    },
+    {
+      "date": "2027–2029",
+      "iso_date": "2027",
+      "event": "Deleveraging milestones toward the 3.0x net leverage target, pushed back from 2028 to 2029 by the BYOP capex commitment"
+    }
+  ],
+  "key_risks": [
+    "Texas regulatory risk — Governor Abbott's TCEQ data center permit halt (21 Sep 2026) and the ERCOT interconnection audit directly threaten the ERCOT load-growth thesis; BloombergNEF estimates 49.8 GW of Texas data center load faces delay",
+    "Leverage — $23.5B total debt, $162M cash and debt/equity of 5.17x at 30 Jun 2026 after the ~$12B LS Power acquisition; the 3.0x leverage target slipped from 2028 to 2029",
+    "Rising interest expense — TTM interest expense of $1.025B versus $741M in FY2025 was the primary driver of the Q2 2026 adjusted EPS miss",
+    "Execution and integration risk on 18 acquired gas facilities plus the CPower virtual power plant platform, alongside $3.2B of new-build capex",
+    "Counterparty concentration — a single unnamed hyperscaler underwrites the 1.2 GW BYOP project's economics",
+    "Weather and commodity exposure — mild Texas weather already hurt Q1 2026; gas and power price volatility plus PJM capacity price mean reversion can compress merchant margins",
+    "Retail competition and customer churn in ERCOT and the East, and Vivint Smart Home subscriber economics",
+    "Thin GAAP earnings cover — TTM GAAP EPS of $3.87 against a $1.90 dividend leaves the payout dependent on non-GAAP free cash flow before growth"
+  ]
+}

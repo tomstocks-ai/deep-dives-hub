@@ -2,74 +2,92 @@
   "ticker": "URA",
   "company": "Global X Uranium ETF",
   "sector": "Energy",
+  "theme": "Critical Minerals",
+  "sub_theme": "Uranium & Nuclear Fuel",
   "industry": "Uranium Mining",
   "exchange": "NYSE Arca",
-  "price": 44.91,
-  "market_cap": "$2.5B",
+  "price": 40.13,
+  "price_date": "2026-09-28",
+  "market_cap": "$5.74B AUM",
   "rating": "BUY",
-  "last_updated": "2026-06-07",
-  "thesis": "Nuclear power is experiencing a global renaissance as countries seek baseload zero-carbon energy. Uranium demand (~204M lbs) already exceeds mine supply (~173M lbs), creating a structural deficit. Prices must reach $100+/lb to incentivize new production.",
+  "last_updated": "2026-09-29",
+  "thesis": "URA is the largest and most liquid uranium/nuclear fuel-cycle ETF ($5.74B AUM, 0.69% expense ratio, 62 holdings, Cameco 21.81%). A clear dislocation has opened up: URA trades 36% below its 52-week high of $62.28 while spot U3O8 is ~$89.50/lb (up ~7% y/y) and the UxC long-term contract price hit an all-time high of ~$96/lb in August 2026, above the 2007 cycle peak. The drawdown is a de-rating of nuclear-adjacent equities — especially the pre-revenue reactor-developer sleeve (Oklo 5.75%, NuScale 2.92%) — not a deterioration in uranium fundamentals, where US utility contract coverage collapses from ~60% in 2030 to 9% by 2033. The main risk is that the speculative ~10% of the portfolio keeps compressing on its own: the fund's ~35x aggregate P/E carries equity-valuation risk independent of the uranium price.",
   "financials": {
-    "fiscal_year": "N/A",
-    "revenue": "N/A",
-    "revenue_growth": "N/A",
-    "gross_margin": "N/A",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
-    "cash": "N/A",
-    "fcf": "N/A"
+    "fiscal_year": "Fund data as of 2026-09-28",
+    "revenue": "AUM (net assets): $5.74B",
+    "revenue_growth": "AUM +~40% y/y (est., from 'over $4B' Aug 2025) despite -17.6% price — implies net creations",
+    "gross_margin": "Expense ratio: 0.69% (cost, not a margin)",
+    "net_income": "N/A for an ETF — 1-yr total return -13.07%; since-inception avg annual -3.14%",
+    "eps_diluted": "Distribution per share: $2.08 TTM (annual, ex-div 2025-12-30)",
+    "cash": "62 holdings; top 10 = 60.92% of assets; largest = Cameco 21.81%",
+    "fcf": "Trailing distribution yield: 5.19%; portfolio P/E ~35.4; beta 1.16"
   },
   "bull_case": {
-    "target": "$70–85",
+    "target": "$58–70",
     "drivers": [
-      "Supply deficit forces utility panic-buying",
-      "Kazatomprom further cuts production guidance",
-      "New reactor announcements accelerate (China, U.S., EU)",
-      "Sprott Physical Trust continues removing supply from market"
-    ]
-  },
-  "bear_case": {
-    "target": "$30–38",
-    "risks": [
-      "Nuclear accident freezes global reactor development",
-      "Prolonged recession reduces electricity demand",
-      "Secondary supply floods market temporarily",
-      "Political instability in Kazakhstan"
+      "Post-symposium contracting cycle converts into large multi-year utility RFPs at rising floors and ceilings",
+      "UxC long-term price pushes above $105/lb from its August 2026 record of ~$96/lb; spot retakes the $107/lb cycle peak",
+      "NNSA domestic procurement (~4M lbs/yr of US-origin U3O8, ~100% of current US output) moves from RFI to contracts",
+      "Producer discipline holds — Kazatomprom declines to sell into prices, tightening an already thin spot market",
+      "Reactor-developer sleeve re-rates on first firm orders or final investment decisions for new US reactors"
     ]
   },
   "base_case": {
-    "target": "$55–65",
-    "assumptions": "Steady reactor demand growth; supply slowly responds; uranium trades $90–110/lb; URA returns 20–30% annually."
+    "target": "$46–54",
+    "assumptions": "Spot holds $90–105/lb and the term price stays in the $95–100/lb range. Producer earnings catch up with record contract economics and URA reclaims its 200-day moving average of $48.30, while the pre-revenue developer holdings stay range-bound rather than re-rating. Implies roughly 15–35% upside from $40.13 over 18–36 months."
+  },
+  "bear_case": {
+    "target": "$30–36",
+    "risks": [
+      "Reactor-developer sleeve (Oklo, NuScale, X-energy, Lightbridge, NANO Nuclear) de-rates further — ~35x portfolio P/E is vulnerable independent of uranium",
+      "Spot drifts back to $70–80/lb as utility contracting stays paused, as it did in September 2026",
+      "Cameco-specific setback at 21.81% weight — a repeat of the July 2026 Cigar Lake sulfuric acid outage or a guidance miss",
+      "Continued Solactive index additions of small speculative nuclear names dilute average holding quality",
+      "Thematic outflows reverse the 2026 net creations; the 52-week low of $37.18 is only ~7% below spot",
+      "Nuclear accident anywhere in the world freezes reactor development and the entire basket"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-06-15",
-      "event": "Monthly uranium spot price update (UxC)",
-      "iso_date": "2026-06-15"
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "Seasonal post-World-Nuclear-Symposium utility contracting: watch for the material RFPs from US and European utilities flagged at the September conference"
     },
     {
-      "date": "2026-07-20",
-      "event": "Kazatomprom Q2 production report",
-      "iso_date": "2026-07-20"
+      "date": "Late October 2026",
+      "iso_date": "2026-10",
+      "event": "Kazatomprom Q3 2026 operations and trading update — 2026 guidance stands at 27,500–29,000 tU (100% basis) with management warning of Kazakh depletion after 2026–2027"
     },
     {
-      "date": "2026-08-05",
-      "event": "U.S. DOE uranium supply chain funding announcement",
-      "iso_date": "2026-08-05"
+      "date": "Monthly",
+      "iso_date": null,
+      "event": "UxC and TradeTech spot and long-term price prints — key question is whether the term price holds above its ~$96/lb August 2026 record"
     },
     {
-      "date": "2026-09-10",
-      "event": "Japan Nuclear Regulation Authority restart decision",
-      "iso_date": "2026-09-10"
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Cameco Q3 2026 results — 21.81% of the fund, so the single largest driver of URA NAV"
+    },
+    {
+      "date": "December 2026",
+      "iso_date": "2026-12",
+      "event": "Solactive Global Uranium and Nuclear Components index rebalance plus URA's annual distribution ex-date (prior year: $2.08/share)"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "NNSA uranium acquisition programme progressing from the August 2026 request for information toward contracted purchases beginning as early as 2030"
     }
   ],
   "key_risks": [
-    "Nuclear accident or Fukushima-type event",
-    "Recession delaying reactor builds",
-    "Secondary supply filling deficit gap",
-    "Junior miner equity dilution"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Uranium & Nuclear Fuel",
-  "price_date": "2026-08-07"
+    "Portfolio composition: ~10% of the fund is pre-revenue reactor developers whose ~35x aggregate P/E creates equity-valuation risk independent of the uranium price",
+    "Index dilution — Solactive added Lightbridge, Eagle Nuclear and Terra Innovatum in July–August 2026, lowering average holding quality",
+    "Single-name concentration: Cameco at 21.81% makes URA substantially a leveraged Cameco position",
+    "Downtrend intact — price $40.13 sits below the 50-day ($43.28) and 200-day ($48.30) moving averages with the 50-day below the 200-day",
+    "Spot price stall near $89–90/lb, still 16% below the $107/lb current-cycle peak, with utility contracting paused in September 2026",
+    "Jurisdictional risk — Kazakhstan is ~20% of primary supply; Canada has floated uranium export taxes",
+    "Nuclear accident tail risk would freeze global reactor development regardless of supply fundamentals",
+    "Structural fund drags: 0.69% fee, foreign dividend withholding, and lumpy annual capital-gains distributions (payout ratio screens at ~169%) creating tax friction",
+    "Non-diversified thematic fund — since-inception average annual return is -3.14%, and 30%+ drawdowns are normal"
+  ]
 }

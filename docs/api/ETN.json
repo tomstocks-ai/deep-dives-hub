@@ -1,0 +1,85 @@
+{
+  "ticker": "ETN",
+  "company": "Eaton Corporation plc",
+  "sector": "Industrials",
+  "theme": "AI Buildout",
+  "sub_theme": "Electrical Contractors",
+  "industry": "Electrical Equipment / Intelligent Power Management",
+  "exchange": "NYSE",
+  "price": 431.41,
+  "price_date": "2026-09-28",
+  "market_cap": "$167.6B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Eaton is the highest-quality large-cap way to own data center electrification, selling the switchgear, busway, UPS, medium-voltage gear, modular power skids and (post-Boyd) liquid cooling that sit between the utility and the chip. Q2 2026 was a record: revenue $8.53B (+21% total, +14% organic), adjusted EPS $3.15, and data center organic revenue up ~65% against an underlying market growing 23%. Rolling 12-month orders are up 41% in Electrical Americas and 33% in Electrical Global, total Electrical backlog is up 43% YoY, and management raised FY2026 adjusted EPS guidance to $13.40–$13.60. The offsets are valuation (~32x FY2026 adjusted EPS, 44x trailing GAAP), a balance sheet that carried $21.3B of debt and only $695M of cash after ~$11B of Q1 acquisitions, and the fact that Electrical Americas margins are still below prior-year levels while the capacity ramp works through price/cost.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$27.45B",
+    "revenue_growth": "+10.3%",
+    "gross_margin": "37.8%",
+    "net_income": "$4.09B",
+    "eps_diluted": "$10.45 GAAP / $12.07 adjusted",
+    "cash": "$803M at 2025-12-31 ($695M at 2026-06-30)",
+    "fcf": "$3.55B"
+  },
+  "bull_case": {
+    "target": "$560–$620",
+    "drivers": [
+      "Data center orders keep compounding: 307 GW of announced US data center backlog is ~15 years of build at 2025 rates, with only ~20% converting near term and the bulk landing 2028+",
+      "Electrical Americas margins reach the 2030 target of 32% as price/cost turns neutral and the two dozen capacity projects hit full productivity",
+      "Boyd Thermal scales past the raised $1.8B FY2026 revenue plan and joins the organic base in 2027, making Eaton a grid-to-chip supplier with cold plates and CDUs",
+      "The 800-volt DC transition raises content per megawatt above the current ~$3.4M, with Resilient Power solid-state transformers as a differentiator",
+      "Mobility exits via the Dana RMT in Q1 2027, leaving a higher-growth, higher-margin Electrical plus Aerospace company that re-rates on mix"
+    ]
+  },
+  "base_case": {
+    "target": "$470–$510",
+    "assumptions": "FY2026 lands near the guided midpoint of 12% organic growth and $13.50 adjusted EPS, with Q3 adjusted EPS of $3.46–$3.56 and segment margins of 24.6–25.0%. FY2027 adjusted EPS reaches roughly $15 on low-double-digit organic growth plus the Boyd and COL contributions, and the stock holds ~31–34x forward adjusted earnings. This range brackets the S&P Global consensus target of ~$480."
+  },
+  "bear_case": {
+    "target": "$310–$350",
+    "risks": [
+      "Hyperscaler capex digestion: orders decelerate from a 1.3 book-to-bill and the 43% backlog growth reverses, compressing the multiple toward 22–24x",
+      "Electrical Americas margin recovery slips again — the year-over-year decline was driven by price/cost and the ramp has already disrupted two quarters",
+      "$21.3B of total debt against $695M of cash leaves little flexibility if rates stay high and the acquisition pace continues",
+      "Tariffs, copper and steel inflation, or supply chain constraints re-open a negative price/cost gap",
+      "Dana RMT closing risk or dis-synergies, plus integration risk across Boyd, Ultra PCS, Fibrebond, Resilient Power and COL Group simultaneously"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "Q3 2026 earnings — November 3, 2026 (estimated)",
+      "iso_date": "2026-11-03",
+      "event": "Q3 2026 results; guidance is adjusted EPS of $3.46–$3.56 and segment margin of 24.6–25.0%, the first clean test of the promised 250 bp sequential Electrical Americas margin step-up"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Electrical Americas margin exit rate — management guided a further 200–250 bp sequential improvement, of which 150 bp is price/cost"
+    },
+    {
+      "date": "Q1 2027",
+      "iso_date": "2027-03",
+      "event": "Expected close of the Reverse Morris Trust combining Eaton's Mobility Group with Dana, creating a company valued above $10B with Eaton holders owning at least 50.1%; accretive to Eaton's organic growth and margins on close"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results plus initial FY2027 guidance, including the first full-year framing of a post-Mobility Eaton"
+    },
+    {
+      "date": "Pending regulatory approval",
+      "iso_date": null,
+      "event": "Close of the EUR810M COL Group acquisition from Oaktree, adding EMEA medium-voltage distribution capacity for data center and utility customers (signed 2026-09-24)"
+    }
+  ],
+  "key_risks": [
+    "Valuation: ~32x FY2026 guided adjusted EPS and ~44x trailing GAAP EPS leaves no room for a guidance miss",
+    "AI capex concentration — data center is the growth engine and hyperscaler spending is discretionary and lumpy",
+    "Electrical Americas operating margin fell year over year on negative price/cost; the recovery is guided, not delivered",
+    "Leverage: $21.3B total debt and $695M cash at 2026-06-30 after roughly $11B of Q1 2026 acquisitions",
+    "Execution risk across five acquisitions being integrated at once plus two dozen in-flight capacity projects",
+    "Mobility/Dana RMT is not yet closed; delay or renegotiation would muddy the 2027 growth and margin story",
+    "Tariff and commodity cost volatility, and a residential end market that management describes as weak"
+  ]
+}

@@ -2,76 +2,104 @@
   "ticker": "ASPI",
   "company": "ASP Isotopes Inc.",
   "sector": "Materials",
-  "industry": "Enriched Isotopes / Critical Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Specialty Metals",
+  "industry": "Enriched Isotopes / Helium and LNG / Nuclear Fuels",
   "exchange": "NasdaqCM",
-  "price": 4.43,
-  "market_cap": "$664M",
-  "rating": "SPEC. BUY",
-  "last_updated": "2026-06-10",
-  "thesis": "ASP Isotopes is an advanced materials company producing enriched isotopes for nuclear medicine, quantum computing, green energy, and semiconductors. The January 2026 Renergen acquisition adds helium and LNG assets, while the planned QLE spin-off targets HALEU and lithium isotopes. Q1 2026 revenue surged 280% YoY to $4.2M. High short interest (23% of float) and analyst consensus price target of $13+ create asymmetric upside on execution.",
+  "price": 2.6,
+  "price_date": "2026-09-28",
+  "market_cap": "$399M",
+  "rating": "HOLD / SPEC.",
+  "last_updated": "2026-09-29",
+  "thesis": "ASP Isotopes runs five businesses: the Renergen/Tetra4 helium and LNG project in South Africa, the PET Labs radiopharmacy chain, Silicon-28 and carbon isotope enrichment for semiconductors and quantum computing, the Quantum Leap Energy nuclear-fuels subsidiary, and Alpa Theranostics. The shares have fallen ~75% in twelve months to $2.60 as commercialisation deadlines slipped repeatedly, leaving a ~$399M market cap against ~$255M of Q2 2026 cash and TTM revenue of $30.85M. Phase 1 liquid helium commissioning began in August 2026 into a market where roughly half of global supply is offline, with contracted helium above $600/Mcf. Downgraded to HOLD / SPEC.: the sum-of-the-parts discount is real but management has missed nearly every self-imposed date, Phase 2's ~$750M DFC and Standard Bank debt is undocumented, and a fiduciary-duty investigation was announced on 28 September 2026.",
   "financials": {
-    "fiscal_year": "FY2025/Q1 2026",
-    "revenue": "$4.2M (Q1 2026)",
-    "revenue_growth": "+280% YoY",
-    "gross_margin": "N/A (pre-profitability)",
-    "net_income": "-$6.9M (Q1 2026)",
-    "eps_diluted": "-$0.14 (Q1 2026)",
-    "cash": "$290.5M",
-    "fcf": "Negative"
+    "fiscal_year": "FY2025 (TTM to 30 Jun 2026 where noted)",
+    "revenue": "$23.85M FY2025; $30.85M TTM",
+    "revenue_growth": "+475.5% FY2025; +573.4% TTM",
+    "gross_margin": "~17.6% (TTM)",
+    "net_income": "-$175.09M FY2025; -$132.05M TTM",
+    "eps_diluted": "-$1.22 (TTM); -$0.28 Q2 2026",
+    "cash": "~$255M (30 Jun 2026)",
+    "fcf": "Negative (~-$35M/quarter burn)"
   },
   "bull_case": {
-    "target": "$12–$14",
+    "target": "$7–$9",
     "drivers": [
-      "QLE spin-off unlocks value and focuses core isotope business",
-      "Silicon-28 commercial shipments scale for quantum computing",
-      "Renergen Phase 1 completion positions ASPI as major helium producer",
-      "HALEU contracts secured from advanced reactor developers",
-      "High short interest creates squeeze potential on positive catalysts"
-    ]
-  },
-  "bear_case": {
-    "target": "$3–$4",
-    "risks": [
-      "Commercial delays in isotope shipments and Renergen ramp",
-      "Cash burn of ~$25M/quarter forces dilutive capital raise",
-      "Regulatory hurdles delay HALEU licensing",
-      "Technology scale-up proves more costly than projected"
+      "Phase 1 liquid helium reaches nameplate 250 kg/day and 2,500 GJ/day LNG, delivering the ~$27M annualised revenue management has published",
+      "50-75% of Phase 1 helium capacity locked into 5-15 year take-or-pay contracts at ~$600/Mcf against spot prints above $2,000/Mcf",
+      "First commercial Silicon-28 shipment at 99% enrichment against three already-signed U.S. customer contracts",
+      "Noble Africa reverse merger with ENDRA closes and NOBA lists, crystallising the helium asset value with ASPI at ~89%",
+      "QLE listing plus South African civilian enrichment authorisation and the Necsa services contract put a separate value on HALEU optionality",
+      "DFC and Standard Bank sign ~$750M of Phase 2 senior debt, de-risking the $360M revenue expansion"
     ]
   },
   "base_case": {
-    "target": "$8–$10",
-    "assumptions": "Revenue ramps to $50–80M by 2027 as commercial contracts materialize. Renergen contributes steady cash flow by 2027–2028. QLE spin-off completes at modest valuation."
+    "target": "$3–$4.50",
+    "assumptions": "Helium production starts late in 2026 and ramps through 2027 rather than hitting nameplate immediately. Renergen approaches the ~$27M annualised revenue figure during 2027 while PET Labs delivers ~$14M FY2026 and keeps compounding above 30%. Noble Africa lists, QLE listing slips, and stable-isotope revenue stays immaterial. No equity raise below $3 and the existing ~$255M cash pile funds operations into 2028."
+  },
+  "bear_case": {
+    "target": "$1–$1.75",
+    "risks": [
+      "Helium ramp slips again beyond 2026, extending the pattern of missed self-imposed deadlines",
+      "Silicon-28 remains pre-commercial into 2027 as the remaining OEM compressor upgrades drag on",
+      "Equity raise at or below the current price on top of 153.31M shares already outstanding and 23.16M registered in July 2026",
+      "Phase 2 DFC and Standard Bank debt never reaches binding definitive agreement, stranding the $360M revenue plan",
+      "Halper Sadeh fiduciary-duty investigation escalates into litigation or a governance event",
+      "Helium prices normalise as Qatari capacity returns, undercutting the ~$600/Mcf contract assumption"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-06-30",
-      "event": "QLE spin-off expected H1 2026",
-      "iso_date": "2026-06-30"
+      "date": "September–October 2026",
+      "iso_date": "2026-10",
+      "event": "Confirmation of first liquid helium production at Tetra4 Phase 1 — management committed to production prior to 30 September 2026 and had not confirmed it as of 29 September"
     },
     {
-      "date": "2026-12-31",
-      "event": "Renergen Virginia Gas Project Phase 1 completion",
-      "iso_date": "2026-12-31"
+      "date": "2H 2026",
+      "iso_date": "2026-12",
+      "event": "First commercial Silicon-28 shipment at 99% enrichment to one of three signed U.S. customers"
     },
     {
-      "date": "2026-08-15",
-      "event": "Q2 2026 earnings (expected)",
-      "iso_date": "2026-08-15"
+      "date": "2H 2026",
+      "iso_date": "2026-12",
+      "event": "Noble Africa reverse merger with ENDRA Life Sciences closes and lists on Nasdaq as NOBA with ~$50M private placement"
     },
     {
-      "date": "2026-06-30",
-      "event": "Silicon-28 commercial shipment ramp",
-      "iso_date": "2026-06-30"
+      "date": "November 18, 2026",
+      "iso_date": "2026-11-18",
+      "event": "Q3 2026 earnings — first quarter that could include helium revenue"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Updated Tetra4 geological resource estimate, first comprehensive review since the 2021 Sproule assessment"
+    },
+    {
+      "date": "2H 2026 onward",
+      "iso_date": "2026-12",
+      "event": "Phase 2 construction start and binding definitive agreements for ~$750M of DFC and Standard Bank senior debt"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2027",
+      "event": "Quantum Leap Energy standalone listing and potential tax-efficient distribution of QLE stock to ASPI holders"
+    },
+    {
+      "date": "Next 12 months",
+      "iso_date": "2027",
+      "event": "Alpa Theranostics first nanobody radiotherapeutic candidate enters human clinical trials, initial results 1H 2027"
     }
   ],
   "key_risks": [
-    "Pre-profitability with high cash burn rate",
-    "Dilution risk from future equity raises",
-    "Regulatory and licensing delays for nuclear materials",
-    "South Africa geopolitical and infrastructure risks (Renergen)",
-    "Technology scale-up execution risk"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Specialty Metals",
-  "price_date": "2026-08-07"
+    "Chronic schedule slippage — Silicon-28 shipped samples in August 2025 and is still pre-commercial; the QLE spin-off targeted for H1 2026 has not happened",
+    "Cash burn of roughly $35M per quarter against ~$255M of cash, with TTM EBITDA near -$69.1M",
+    "Dilution risk on 153.31M shares outstanding, a ~$210M raise earlier in 2026 priced far above today, and 23.16M shares registered in July 2026",
+    "Phase 2 is unfunded — the ~$750M DFC and Standard Bank package has no binding definitive agreement and the build is ~44 months",
+    "Single-asset concentration in one Free State, South Africa gas field, with local power, permitting and currency exposure",
+    "Halper Sadeh LLC fiduciary-duty investigation of officers and directors announced 28 September 2026",
+    "Helium price normalisation if Qatari and Russian supply returns faster than expected",
+    "Nuclear licensing risk — ASPI has not applied its enrichment technology to U-235 beyond the Necsa services contract",
+    "$79.1M of third-party QLE convertible notes convert into QLE equity on a listing, diluting ASPI's subsidiary stake",
+    "Sell-side targets averaging $13.00 have not been revised down alongside a 75% decline, so consensus offers no valuation anchor"
+  ]
 }

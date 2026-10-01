@@ -19,6 +19,7 @@ title: Biotechnology & Health Technology
 | <tv-ticker-tag symbol="NYSE:LLY" hide-background></tv-ticker-tag> | Eli Lilly and Company | <span class="rating-buy">BUY</span> | 2026-07-29 | [:material-file-document: Read](LLY.md) |
 | <tv-ticker-tag symbol="NASDAQ:CRSP" hide-background></tv-ticker-tag> | CRISPR Therapeutics AG | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](CRSP.md) |
 | <tv-ticker-tag symbol="NASDAQ:ATEC" hide-background></tv-ticker-tag> | Alphatec Holdings, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-31 | [:material-file-document: Read](ATEC.md) |
+| <tv-ticker-tag symbol="NASDAQ:TEM" hide-background></tv-ticker-tag> | Tempus AI, Inc. | <span class="rating-hold">HOLD</span> | 2026-09-29 | [:material-file-document: Read](TEM.md) |
 
 ---
 
@@ -75,6 +76,16 @@ Commercial-stage biotech leading the minimal residual disease (MRD) testing mark
 **Bull:** \$28–\$32 · **Base:** \$18–\$22 · **Bear:** \$10–\$13
 
 [:material-arrow-right: Full Deep Dive](ADPT.md)
+
+---
+
+**TEM — Tempus AI, Inc. · <span class="rating-hold">HOLD</span>**
+
+Tempus AI runs a cancer-genomics lab (oncology, hereditary, MRD, cardiology AI) and monetises the resulting multimodal dataset by licensing it — and AI models built on it — to pharma at ~70% gross margins. Q2 2026 revenue rose 22% to \$382.5M with oncology volumes +31% and data licensing +36%, delivering the first GAAP profitable quarter (\$5.6M, flattered by \$98.5M of unrealised securities gains) and \$8.0M adjusted EBITDA; FY2026 guidance is \$1.595–1.605B and ~\$65M adjusted EBITDA. The thesis is repricing rather than new volume: FDA approval of tumour-only xT CDx migrates tissue testing to ADLT rates, and management sizes xT plus a pending xF approval at \$330–400M of annualised uplift, with the \$1.5B Personalis deal adding ultrasensitive MRD. The risk is the price — after a 54% one-month run TEM trades near 10x forward sales, ~24% above the \$68.56 consensus target, on a 3.7 beta, with the CEO selling ~\$16.1M of stock into the rally.
+
+**Bull:** \$130–\$155 · **Base:** \$85–\$100 · **Bear:** \$45–\$58
+
+[:material-arrow-right: Full Deep Dive](TEM.md)
 
 ---
 

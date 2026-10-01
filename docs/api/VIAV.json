@@ -1,0 +1,103 @@
+{
+  "ticker": "VIAV",
+  "company": "Viavi Solutions Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Networking & Connectivity",
+  "industry": "Communication Equipment / Network Test and Measurement",
+  "exchange": "NASDAQ",
+  "price": 40.87,
+  "price_date": "2026-09-28",
+  "market_cap": "$10.1B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Viavi is the pure-play test-and-measurement toll booth on optical networking: every 400G, 800G and 1.6T transceiver, switch and AI fabric has to be validated, and Viavi sells the lab, production and field instruments that do it. FY2026 revenue grew 40% to $1.518B with non-GAAP operating margin up 630bps to 20.6% and non-GAAP EPS doubling to $1.00, as the data center ecosystem grew to roughly 50% of the NSE segment and the $425M Spirent high-speed-Ethernet acquisition closed and integrated ahead of plan. At ~25x guided forward non-GAAP EPS with a roughly net-cash balance sheet, the setup is attractive, but the stock is up 226% in a year and the growth is now levered to hyperscaler optical capex — a cycle Viavi does not control.",
+  "financials": {
+    "fiscal_year": "FY2026 (ended June 27, 2026)",
+    "revenue": "$1.518B",
+    "revenue_growth": "+40.0%",
+    "gross_margin": "57.7% GAAP / 61.7% non-GAAP",
+    "net_income": "-$30.4M GAAP / $243.8M non-GAAP",
+    "eps_diluted": "-$0.13 GAAP / $1.00 non-GAAP",
+    "cash": "$656.7M cash, short-term investments and restricted cash (vs $650M principal debt)",
+    "fcf": "~$83M (operating cash flow $113.9M less capex $31.1M)",
+    "adjusted_ebitda": "$352.5M",
+    "segments": "Network and Service Enablement $1,182.9M (+52.3%); Optical Security and Performance Products $335.4M (+9.0%)"
+  },
+  "bull_case": {
+    "target": "$62–$72",
+    "drivers": [
+      "1.6T Ethernet reaches volume parity with 800G during calendar 2027 while the 800G installed base keeps upgrading, extending the test cycle rather than ending it",
+      "Co-packaged optics and optical circuit switching broaden beyond the initial hyperscaler; both are more complex to build, so test intensity per port rises",
+      "Quarterly revenue crosses $500M during calendar 2027 (management now expects this earlier than the original fiscal-2028 target)",
+      "Operating leverage carries non-GAAP operating margin to the mid-to-high 20s as NSE lab and production mix (high-70s gross margin) outgrows field instruments",
+      "Aerospace and defense — ~17% of NSE and now CMMC Level 2 certified across radio test, avionics, synthetic/modular and PNT lines — compounds on PNT resilience and allied defense budgets",
+      "Spirent synergies plus the seasonally stronger December quarter lift FY2027 non-GAAP EPS toward $2.00, supporting a re-rating to the $70 top-of-street target"
+    ]
+  },
+  "base_case": {
+    "target": "$48–$56",
+    "assumptions": [
+      "FY2027 revenue of roughly $1.85–1.95B (Q1 guided to $450–460M) as data center and A&D growth offsets a service provider base growing only 1–2%",
+      "Non-GAAP operating margin holds in the 24–27% range; Q1 FY2027 is guided to 27.1% but includes a one-off $11M tariff refund worth ~100bps",
+      "FY2027 non-GAAP EPS of approximately $1.65–1.80 (consensus, not company-guided beyond the $0.40–0.42 Q1 range)",
+      "Multiple holds near 28–30x forward non-GAAP EPS, in line with the current 9-analyst consensus target of ~$55",
+      "GAAP results stay near breakeven as acquisition amortization (~$68M/yr) and contingent-consideration remeasurement continue to absorb operating income"
+    ]
+  },
+  "bear_case": {
+    "target": "$26–$32",
+    "risks": [
+      "Hyperscaler optical capex digests; data center is now ~50% of NSE, so a pause hits the fastest-growing half of the business directly",
+      "1.6T adoption is partly substitution for 800G rather than incremental, tempering the blended growth rate management has guided to",
+      "Service provider and wireless remain the drag — wireless demand is described as anemic and the base carrier business grows only 1–2%",
+      "Multiple compression: the shares carry a 1.23 beta and a $12.23–$60.43 52-week range, and already fell ~32% from the high once this year",
+      "GAAP loss-making ($0.13 loss per share in FY2026) makes the story dependent on non-GAAP adjustments that exclude $208M of FY2026 charges",
+      "$650M principal debt and $47.4M FY2026 interest expense limit buyback capacity — no shares were repurchased in Q4 FY2026",
+      "Tariffs, semiconductor cost inflation and China exposure (Asia-Pacific is 30.9% of revenue) pressure gross margin and supply"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 28, 2026 (estimated)",
+      "iso_date": "2026-10-28",
+      "event": "Q1 FY2027 results — guided to $450–460M revenue, non-GAAP EPS $0.40–0.42 and 27.1% operating margin; watch whether data center holds above 50% of NSE"
+    },
+    {
+      "date": "December quarter FY2027",
+      "iso_date": "2026-12",
+      "event": "Co-packaged optics revenue acceleration and Spirent's seasonally strongest quarter (55% of Spirent revenue falls in the second half of the calendar year)"
+    },
+    {
+      "date": "Late January 2027",
+      "iso_date": "2027-01",
+      "event": "Q2 FY2027 results — first read on whether the $500M quarterly revenue milestone is reachable within calendar 2027"
+    },
+    {
+      "date": "Calendar 2027",
+      "iso_date": "2027",
+      "event": "1.6T Ethernet expected to reach volume parity with 800G, the single largest swing factor for NSE growth"
+    },
+    {
+      "date": "Calendar 2027",
+      "iso_date": "2027",
+      "event": "Optical circuit switching adoption broadening beyond the initial hyperscaler customer"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Extension of CMMC Level 2 certification to the Inertial Labs PNT product lines acquired in 2025, widening eligibility for US defense contracts"
+    }
+  ],
+  "key_risks": [
+    "Concentration in hyperscaler AI/optical capex — data center is roughly half of the NSE segment",
+    "1.6T partly substitutes 800G rather than adding to it, which could temper the data center growth rate",
+    "Service provider and wireless product lines are stagnant (1–2% growth; wireless demand described as anemic)",
+    "GAAP net loss driven by ~$68M annual acquisition amortization and contingent-consideration fair-value swings ($33M in FY2026)",
+    "Valuation and momentum risk after a 226% one-year move, with a 52-week range of $12.23–$60.43",
+    "$650M principal debt ($250M 0.625% converts, $400M 3.75% notes) and $47.4M FY2026 interest expense",
+    "Tariff and semiconductor cost inflation; Asia-Pacific is 30.9% of revenue, exposing the company to China trade measures",
+    "OSP segment (anti-counterfeiting pigments, 3D sensing) grows only high-single-digits and is tied to banknote and consumer electronics cycles",
+    "Integration and execution risk on serial M&A (Spirent, Inertial Labs) after a period of heavy restructuring charges"
+  ]
+}

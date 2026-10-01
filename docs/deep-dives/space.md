@@ -17,6 +17,8 @@
 | <tv-ticker-tag symbol="NYSE:SPCE" hide-background></tv-ticker-tag> | Virgin Galactic Holdings, Inc. | <span class="rating-spec">SPECULATIVE</span> | 2026-08-04 | [:material-file-document: Read](SPCE.md) |
 | <tv-ticker-tag symbol="NASDAQ:RKLB" hide-background></tv-ticker-tag> | Rocket Lab USA, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-16 | [:material-file-document: Read](RKLB.md) |
 | <tv-ticker-tag symbol="NASDAQ:LUNR" hide-background></tv-ticker-tag> | Intuitive Machines, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-08-04 | [:material-file-document: Read](LUNR.md) |
+| <tv-ticker-tag symbol="NYSE:KRMN" hide-background></tv-ticker-tag> | Karman Holdings Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](KRMN.md) |
+| <tv-ticker-tag symbol="NYSE:RDW" hide-background></tv-ticker-tag> | Redwire Corporation | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-09-29 | [:material-file-document: Read](RDW.md) |
 
 ---
 
@@ -98,6 +100,16 @@ The leading commercial pure-play on the cislunar economy and the first company t
 
 ---
 
+**RDW — Redwire Corporation · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Redwire builds space infrastructure — sensors and avionics, deployable structures, docking mechanisms, SabreSat VLEO spacecraft, lunar regolith construction and ISS in-space pharmaceutical manufacturing — and, since the 2025 Edge Autonomy acquisition, combat-proven Stalker and Penguin uncrewed aerial systems with Octopus ISR payloads. Q2 2026 set records across the board: revenue \$117.1M (+89.6% YoY), 27.8% gross margin versus -30.9% a year earlier, and \$542.1M of contracted backlog (+64.5%) on a 1.42 book-to-bill, with FY2026 revenue guidance reaffirmed at \$450M–\$500M. A large 2026 equity raise left \$557M of cash against just \$50M of term loans, so the thesis is simply backlog conversion plus a profitable Defense Tech segment (+\$14.1M segment EBITDA) carrying the company to breakeven. The primary risks are that the Space segment is still shrinking (-3% YoY, negative segment EBITDA), free cash flow remains negative at -\$48M in H1 2026, and the \$500M at-the-market programme keeps dilution live after the share count rose 30% in six months.
+
+**Bull:** \$19–25 · **Base:** \$13–16 · **Bear:** \$6–8
+
+[:material-arrow-right: Full Deep Dive](RDW.md)
+
+---
+
 ### Launch Vehicles
 
 **RKLB — Rocket Lab USA, Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
@@ -107,5 +119,15 @@ Vertically integrated space company with the only reusable small-lift orbital ve
 **Bull:** \$130–160 · **Base:** \$95–115 · **Bear:** \$55–75
 
 [:material-arrow-right: Full Deep Dive](RKLB.md)
+
+---
+
+**KRMN — Karman Holdings Inc. · <span class="rating-spec-buy">SPEC. BUY</span>**
+
+Karman Space and Defense is a sole/limited-source supplier of payload protection systems, hydro/aerodynamic interstage structures and propulsion and launch systems into hypersonics, strategic and tactical missiles, space launch and, since the Seemann/MSC deal, submarines. Operationally it is excellent: Q2 FY2026 revenue rose 58.2% to a record \$182.1 million on 24.4% organic growth with a 30.0% adjusted EBITDA margin, backlog hit a record \$1.3 billion (+65% year to date), and FY2026 guidance was raised to \$730-745 million. Yet the stock has fallen ~53% in a year to \$33.68 because an abrupt CFO transition, an auditor change, a J Capital short report on internal controls and acquisition accounting, and the absence of a disclosed free cash flow figure have destroyed trust in the reporting rather than the business. The primary risk is that those accounting concerns prove real — a material weakness or restatement — with leverage near 3.2x net funded debt to FY2026E EBITDA and a still-demanding ~24x forward EV/EBITDA leaving no margin for error; the Q3 print on 5 November is the binary event.
+
+**Bull:** \$60–\$75 · **Base:** \$40–\$50 · **Bear:** \$20–\$26
+
+[:material-arrow-right: Full Deep Dive](KRMN.md)
 
 ---

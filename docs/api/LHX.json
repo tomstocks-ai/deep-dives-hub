@@ -1,0 +1,86 @@
+{
+  "ticker": "LHX",
+  "company": "L3Harris Technologies, Inc.",
+  "sector": "Industrials",
+  "theme": "Defense",
+  "sub_theme": "Prime Contractors",
+  "industry": "Aerospace & Defense — Communications, Space Sensing and Solid Rocket Motors",
+  "exchange": "NYSE",
+  "price": 237.7,
+  "price_date": "2026-09-28",
+  "market_cap": "$44.4B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "L3Harris is the fourth-largest U.S. defense prime, restructured in early 2026 into three segments: Space & Mission Systems (~$11.5B 2026 revenue), Communications & Spectrum Dominance (~$8B at a ~25% margin) and Missile Solutions (~$4.4B, built around legacy Aerojet Rocketdyne). Fundamentals are accelerating — Q2 2026 delivered 8% revenue growth, a 1.2x book-to-bill, record $42B backlog and a second guidance raise to $11.80–$12.00 EPS — yet the stock sits at a 52-week low of $234.59, roughly 37% below its high. The de-rating is governance-driven, not operational: the missile IPO slipped to 2027, CEO Chris Kubasik was removed in August 2026 for a code-of-conduct violation, and multiple law firms opened securities-fraud investigations. At ~20x 2026 EPS and a ~6.8% free-cash-flow yield on the $3B guide, investors are paid to wait for the overhang to clear.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$21.9B",
+    "revenue_growth": "+2.5% YoY (+5% organic)",
+    "gross_margin": "22.5% (LTM reported); FY2025 operating margin 9.7%, adjusted segment operating margin 15.8%",
+    "net_income": "$1.61B",
+    "eps_diluted": "$8.53 GAAP / $10.73 non-GAAP",
+    "cash": "$1.07B at FY2025 year-end ($1.52B at Q2 2026; net debt ~$9.5B)",
+    "fcf": "$2.8B adjusted (+21% YoY)"
+  },
+  "bull_case": {
+    "target": "$380–$420",
+    "drivers": [
+      "2028 financial framework delivered: $27B revenue (8% organic CAGR), $4.4B segment operating income, $3.5B free cash flow — roughly $18.80 per share of FCF",
+      "Missile Solutions IPO completes in 2027 at a premium solid-rocket-motor multiple, crystallising a sum-of-the-parts discount while L3Harris retains an 80% stake",
+      "Communications & Spectrum Dominance holds its ~25% segment margin as allied tactical-radio and spectrum programs scale internationally",
+      "Governance overhang clears with no material restatement or enforcement action, and the new CEO is credited with cleaner execution",
+      "Multiple re-rates from ~20x toward the 24x+ paid for peer primes, aided by a 0.50 beta and a ~2.1% dividend during a risk-off rotation"
+    ]
+  },
+  "base_case": {
+    "target": "$285–$305",
+    "assumptions": "L3Harris lands 2026 inside the raised $23.2B–$23.7B revenue and $11.80–$12.00 EPS guide with ~$3B free cash flow, then compounds EPS at high single digits toward ~$13 in 2027. The Missile Solutions IPO happens in 2027 rather than being abandoned. Securities-fraud investigations end in disclosure-only or immaterial settlements. The stock recovers to ~22x forward EPS — roughly 17x free cash flow — which is still a discount to the 2028 framework and well below the $355.92 average sell-side target."
+  },
+  "bear_case": {
+    "target": "$190–$210",
+    "risks": [
+      "Securities-fraud investigations escalate into an SEC or DOJ action, a restatement, or disclosure that the Kubasik conduct touched reported results",
+      "Missile Solutions IPO is shelved rather than delayed, stranding the sum-of-the-parts thesis and complicating the Department of War's convertible preferred and warrants",
+      "U.S. budget disruption — continuing resolutions, a shutdown, or reprioritisation away from space sensing and missile defense — stalls the record backlog's conversion to revenue",
+      "Capacity expansion at Missile Solutions and the space portfolio absorbs more capex and R&D than planned, pushing free cash flow below the $3B guide",
+      "Unfavourable estimate-at-completion adjustments on fixed-price development work compress segment margins back toward the mid-15% range",
+      "Multiple compresses to ~16x on continued sell-side downgrades, of which there have been four since late July 2026"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "October 29, 2026",
+      "iso_date": "2026-10-29",
+      "event": "Q3 2026 earnings — first full quarter under CEO Sam Mehta; watch book-to-bill, segment margins and any update on the Missile Solutions IPO timetable"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "FY2027 U.S. defense budget request and NDAA appropriations — visibility on space sensing, hypersonic tracking and solid-rocket-motor funding lines"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "Resolution or escalation of the securities-fraud investigations opened by Pomerantz, SBS Law and Scott+Scott — the single largest swing factor for the multiple"
+    },
+    {
+      "date": "January 2027",
+      "iso_date": "2027-01",
+      "event": "Q4 and full-year 2026 results plus initial 2027 guidance — the first checkpoint against the 2028 framework under new leadership"
+    },
+    {
+      "date": "2027",
+      "iso_date": "2027",
+      "event": "Missile Solutions IPO, delayed from 2H 2026; the Department of War's $1B convertible preferred converts to common equity on listing"
+    }
+  ],
+  "key_risks": [
+    "Governance and legal overhang: CEO removed for a code-of-conduct violation in August 2026, with multiple securities-fraud and fiduciary-duty investigations still open",
+    "Missile Solutions IPO timing is now 2027 at the earliest and is not guaranteed, removing a value-crystallising catalyst investors had underwritten",
+    "Concentration in U.S. government demand leaves revenue exposed to appropriations delays, shutdowns and program reprioritisation",
+    "Net debt of roughly $9.5B against $20.9B of equity, with goodwill and intangibles of about $26.5B — a large share of the balance sheet is acquisition-derived",
+    "Fixed-price development contracts carry estimate-at-completion risk that has already produced unfavourable adjustments at Missile Solutions",
+    "Heavy capex and R&D to expand missile and space capacity could push free cash flow conversion below plan",
+    "Momentum is adverse: price sits below both the 50-day (~$269) and 200-day (~$312) moving averages at a fresh 52-week low"
+  ]
+}

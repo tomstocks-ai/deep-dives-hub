@@ -1,0 +1,86 @@
+{
+  "ticker": "APP",
+  "company": "AppLovin Corporation",
+  "sector": "Technology",
+  "theme": "Software",
+  "sub_theme": "Game Engines & Marketing",
+  "industry": "Advertising Technology / Mobile Marketing Software",
+  "exchange": "NASDAQ",
+  "price": 308.24,
+  "price_date": "2026-09-28",
+  "market_cap": "~$103B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "AppLovin is a pure-play AI advertising platform whose AXON engine and MAX mediation stack deliver 53% revenue growth at an 84% adjusted EBITDA margin and roughly $4B of annual free cash flow with almost no capital intensity. The stock has fallen 57% in a year to $308.24 after a narrow $16M Q2 2026 revenue miss ended a long beat-and-raise streak, triggering downgrades, channel checks suggesting MAX share has plateaued, and a September 2026 securities class action. At ~19x estimated FY2026 EPS the multiple is anomalously low for the growth and margin profile, but the discount is justified until the November Q3 print resolves whether the take rate is structurally compressing or the Q2 stumble was genuine model-improvement timing.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$5.48B",
+    "revenue_growth": "70%",
+    "gross_margin": "88%",
+    "net_income": "$3.33B",
+    "eps_diluted": "$9.75",
+    "cash": "$2.49B",
+    "fcf": "$3.95B"
+  },
+  "bull_case": {
+    "target": "$520–$600",
+    "drivers": [
+      "Q3 and Q4 2026 prints confirm the Q2 miss was model-improvement timing, restoring the beat-and-raise cadence",
+      "E-commerce and consumer-vertical advertising scales beyond mobile gaming, holding revenue growth above 35% into 2027",
+      "Self-service Ads Manager expands the advertiser long tail without proportional cost, defending the 83-84% EBITDA margin band",
+      "FY2027 EPS near $20 re-rated at 27-30x for a capital-light compounder with a shrinking share count",
+      "Securities class action dismissed or settled immaterially, removing the governance discount"
+    ]
+  },
+  "base_case": {
+    "target": "$390–$450",
+    "assumptions": "Growth decelerates as MAX supply aggregation hits a functional ceiling and competition compresses net revenue spreads, but the business stays exceptional: revenue growth settles in the 25-35% range through 2027, adjusted EBITDA margin holds near 82-83%, and FY2027 EPS reaches roughly $19-$20. The market applies a 20-23x multiple — durable profitability, no re-acceleration premium — with buybacks at depressed prices adding a few percent a year to per-share figures."
+  },
+  "bear_case": {
+    "target": "$210–$260",
+    "risks": [
+      "Spread compression proves structural rather than temporary, taking the take rate and margin structure down together",
+      "Revenue growth falls toward 15% as MAX share plateaus and Meta, Google and Amazon defend e-commerce budgets",
+      "Rising compute costs push adjusted EBITDA margin below 80%, ending the flat-cost-base operating leverage story",
+      "Class action discovery produces damaging detail on how AXON performance claims were made",
+      "Multiple compresses to 12-15x as AppLovin is re-rated from AI platform to cyclical ad network"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "Q3 2026 results — guidance of $2.055-$2.085B revenue and 83% adjusted EBITDA margin; the decisive test of whether the Q2 miss was timing or structural deceleration"
+    },
+    {
+      "date": "16 November 2026",
+      "iso_date": "2026-11-16",
+      "event": "Lead plaintiff deadline in the securities-fraud class action alleging misrepresentation of the AI business; resolution path becomes clearer"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-10",
+      "event": "Self-service Ads Manager and e-commerce vertical scaling — the mechanism to grow the advertiser base beyond the mobile gaming supply ceiling"
+    },
+    {
+      "date": "February 2027",
+      "iso_date": "2027-02",
+      "event": "Q4 and FY2026 results plus first FY2027 commentary, including whether margin guidance stabilises above 82%"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "Buyback execution — $1.53B repurchased in H1 2026 and far more accretive at $308 than at $700 with $4B of annual free cash flow and negligible net debt"
+    }
+  ],
+  "key_risks": [
+    "Net revenue spread compression: Edgewater Research channel checks in September 2026 found share-of-wallet and share-of-voice metrics no longer rising, attributed to MAX reaching a functional ceiling and competitive pressure on spreads",
+    "Visible growth deceleration from 70% in FY2025 to 59% in Q1 2026 to 53% in Q2 2026, with Q3 guidance implying only 7-8.6% sequential growth",
+    "Rising compute costs: R&D more than doubled to $99.9M in Q2 2026 and Q3 EBITDA margin guidance stepped down to 83% from 84% delivered",
+    "Securities-fraud class action filed mid-September 2026 alleging misrepresentation of the strength and development of the AI-based business model; allegations unproven, lead plaintiff deadline 16 November 2026",
+    "Concentration in mobile gaming user acquisition, exposed to consumer discretionary spend and to Apple and Google identifier and attribution policy changes",
+    "Competitive asymmetry versus Meta, Google and Amazon, which hold far larger first-party datasets and can subsidise performance advertising to defend share",
+    "AXON model opacity — performance is not independently verifiable, so a single weak quarter forces investors to accept management's explanation on faith",
+    "Technical damage: price below both the 50-day ($341.09) and 200-day ($464.32) moving averages with the 50-day under the 200-day, and only 3.5% above the 52-week low"
+  ]
+}

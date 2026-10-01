@@ -1,0 +1,91 @@
+{
+  "ticker": "KRMN",
+  "company": "Karman Holdings Inc.",
+  "sector": "Industrials",
+  "theme": "Space Economy",
+  "sub_theme": "Launch Vehicles",
+  "industry": "Aerospace & Defense Components",
+  "exchange": "NYSE",
+  "price": 33.68,
+  "price_date": "2026-09-28",
+  "market_cap": "~$4.5B",
+  "rating": "SPEC. BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Karman Space & Defense is a sole/limited-source supplier of payload protection systems, hydro/aerodynamic interstage structures and propulsion & launch systems into the highest-priority U.S. programs: hypersonics, strategic and tactical missiles, space launch and now submarines. Q2 FY2026 revenue grew 58.2% to a record $182.1 million with 24.4% organic growth, 30.0% adjusted EBITDA margin and record $1.3 billion backlog, and FY2026 guidance was raised to $730-745 million. The stock is nonetheless down ~53% over a year and ~72% from its 52-week high because governance and cash-conversion questions — an abrupt CFO transition, an auditor change, a J Capital short report on internal controls and acquisition accounting, and negative free cash flow — have overwhelmed the operating results. The setup is an attractive franchise at a de-rated multiple where the Q3 print on 5 November is the binary event.",
+  "financials": {
+    "fiscal_year": "FY2025",
+    "revenue": "$471.5M",
+    "revenue_growth": "36.6%",
+    "gross_margin": "40.3%",
+    "net_income": "$17.4M",
+    "eps_diluted": "$0.13",
+    "cash": "$34.0M",
+    "fcf": "n/a — not disclosed in the FY2025 earnings release; cash conversion is the central bear point and management guides to positive FCF in H2 FY2026"
+  },
+  "bull_case": {
+    "target": "$60–$75",
+    "drivers": [
+      "Clean Q3 FY2026 print on 5 November acts as the 'clearing event' RBC describes: audited-quality disclosure on organic growth, margins and working capital removes the governance discount",
+      "Management delivers the guided positive free cash flow in H2 FY2026, converting the ~30% adjusted EBITDA margin into cash and resetting the leverage narrative",
+      "The three long-term defense agreements under negotiation (combined potential value above $1 billion) are signed, pushing backlog well past $1.3 billion and de-risking FY2027",
+      "Generational demand backdrop holds: more than $90 billion of recent THAAD/PAC-3 interceptor awards and over $76 billion for Columbia and Virginia class submarines flow down to Karman content",
+      "Walker Precision Engineering closes and opens European defense budgets, adding a second geographic growth vector at a roughly 30% margin profile"
+    ]
+  },
+  "base_case": {
+    "target": "$40–$50",
+    "assumptions": "FY2026 lands inside the raised $730-745 million revenue and $215-222.5 million adjusted EBITDA guidance, organic growth moderates from 24% toward the high teens in FY2027, free cash flow turns modestly positive but stays thin, net debt of roughly $0.8 billion including finance leases keeps leverage near 3.5x, and the shares re-rate only partway back toward a ~20-22x forward EV/adjusted EBITDA multiple as the accounting questions fade without a clean resolution. Sell-side consensus sits far above this at roughly $88-90 average."
+  },
+  "bear_case": {
+    "target": "$20–$26",
+    "risks": [
+      "An internal-controls finding, material weakness or restatement emerges under the new CFO and new auditor, validating the J Capital thesis",
+      "Free cash flow stays negative through FY2027 as contract assets keep absorbing cash, forcing equity issuance or curtailed M&A at ~3.5x leverage",
+      "Organic growth decelerates to the low teens as prime contractors second-source Karman content and press for price concessions",
+      "The multiple compresses toward the 13-15x EV/EBITDA that mature primes such as GD and LHX command, which alone implies a share price in the low $20s",
+      "A flat or delayed FY2027 defense appropriation after the U.S. midterms pushes program awards to the right"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "5 November 2026",
+      "iso_date": "2026-11-05",
+      "event": "Q3 FY2026 results — first report under new CFO Chris Boynton; RBC frames it as the 'clearing event' for organic growth, margin and working-capital disclosure"
+    },
+    {
+      "date": "Q4 2026",
+      "iso_date": "2026-11",
+      "event": "Guided inflection to positive free cash flow in H2 FY2026 — the single most watched number in the story"
+    },
+    {
+      "date": "H2 2026",
+      "iso_date": "2026-12",
+      "event": "Closing and integration of Walker Precision Engineering (~$94 million), Karman's entry into the European defense supply chain"
+    },
+    {
+      "date": "2026–2027",
+      "iso_date": "2026",
+      "event": "Award of three long-term defense agreements under negotiation with combined potential value above $1 billion"
+    },
+    {
+      "date": "November 2026",
+      "iso_date": "2026-11-03",
+      "event": "U.S. midterm elections and the FY2027 defense appropriation path for missile, missile-defense and submarine programs"
+    },
+    {
+      "date": "March 2027",
+      "iso_date": "2027-03",
+      "event": "FY2026 full-year results, first full audit cycle under the new auditor, and initial FY2027 guidance"
+    }
+  ],
+  "key_risks": [
+    "Governance and accounting overhang: abrupt CFO transition announced 26 August 2026, an auditor change, and a J Capital short report questioning internal controls and the disclosure of acquisitions as 'not material' despite high prices",
+    "Free cash flow has not been demonstrated; contract assets grew to $187.1 million by 30 June 2026 and the FY2025 release did not present a cash flow statement",
+    "Leverage: $756.9 million of term debt plus roughly $102 million of finance leases against $51.7 million of cash, about 3.2x net funded debt to FY2026E adjusted EBITDA (3.7x including finance leases)",
+    "Growth is substantially acquisition-fed — Seemann/MSC, Five Axis, MTI, ISP and now Walker — so reported growth of 58% versus 24% organic invites integration and quality-of-earnings scrutiny",
+    "Valuation remains demanding: roughly 24x FY2026E EV/adjusted EBITDA and ~7x EV/revenue even after a ~72% drawdown from the 52-week high",
+    "Customer and program concentration with U.S. prime contractors, exposed to second-sourcing, price pressure and award timing",
+    "Revenue depends on U.S. defense appropriations and on launch cadence at both legacy and emerging space customers",
+    "Short interest was 6.94% of float as of 15 June 2026 and the shares trade below both the 50-day (~$46) and 200-day (~$70) moving averages"
+  ]
+}

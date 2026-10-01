@@ -1,0 +1,90 @@
+{
+  "ticker": "SNPS",
+  "company": "Synopsys, Inc.",
+  "sector": "Technology",
+  "theme": "AI Buildout",
+  "sub_theme": "Semiconductor Equipment",
+  "industry": "Electronic Design Automation (EDA) Software and Semiconductor IP",
+  "exchange": "NASDAQ",
+  "price": 417.61,
+  "price_date": "2026-09-28",
+  "market_cap": "~$80.0B",
+  "rating": "BUY",
+  "last_updated": "2026-09-29",
+  "thesis": "Synopsys is one half of the EDA duopoly that gates every advanced chip design, and the July 2025 Ansys acquisition extends that toll booth from silicon into system-level simulation. Q3 FY2026 revenue rose 42% to $2.477B with non-GAAP EPS of $3.91 beating guidance, Design IP returned to year-over-year growth, and management raised FY2026 guidance to ~$9.715B revenue and ~$15.07 non-GAAP EPS. The stock is down ~13% over the past year on AI-disruption fear, Intel and China exposure, and Ansys integration noise, leaving it at ~28x FY2026 non-GAAP EPS versus a ~$575 consensus target. The main risk is that the same AI that drives design complexity eventually automates away seat-based EDA revenue faster than Synopsys can monetize it.",
+  "financials": {
+    "fiscal_year": "FY2026 (guided; 9M reported through 2026-07-31)",
+    "revenue": "$9.69B–$9.74B guided (9M actual: $7.162B)",
+    "revenue_growth": "~+38% guided vs FY2025 $7.054B",
+    "gross_margin": "72.8% (9M FY2026 GAAP)",
+    "net_income": "$628M GAAP / $2.115B non-GAAP (9M FY2026)",
+    "eps_diluted": "$3.27 GAAP / $11.02 non-GAAP (9M FY2026); FY2026 guide $3.84–$4.08 GAAP, $15.04–$15.10 non-GAAP",
+    "cash": "$3.61B cash and short-term investments (2026-07-31) vs $10.04B total debt",
+    "fcf": "~$2.6B guided FY2026 (9M actual ~$2.14B)"
+  },
+  "bull_case": {
+    "target": "$560–$640",
+    "drivers": [
+      "EDA grows double digits as AI, multi-die and physical-AI designs raise tool intensity per chip; Design Automation segment already at 45% adjusted operating margin",
+      "Ansys cross-sell converts to revenue ahead of the $400M cumulative annual synergy target set for year four post-close, lifting non-GAAP operating margin above the guided ~41.5%",
+      "Design IP recovery sustains after returning to year-over-year growth in Q3 FY2026, removing the single biggest bear talking point",
+      "Agentic AI workflows built with Nvidia, Microsoft and AMD (early evaluations cut design cycle times ~25–40%) reprice Synopsys as an AI beneficiary rather than an AI victim",
+      "Deleveraging continues — $3.46B of debt repaid in 9M FY2026 — freeing FCF for buybacks against a ~3% FCF yield"
+    ]
+  },
+  "base_case": {
+    "target": "$470–$520",
+    "assumptions": "FY2026 lands near the guided $9.715B revenue and $15.07 non-GAAP EPS midpoints, FY2027 non-GAAP EPS reaches roughly the ~$17.7 implied Street average, and the multiple holds at 27–29x forward non-GAAP earnings. Ansys synergies arrive broadly on schedule, Design IP grows low-to-mid single digits, and China and export-control conditions neither improve nor deteriorate materially."
+  },
+  "bear_case": {
+    "target": "$320–$370",
+    "risks": [
+      "AI coding and design agents compress seat counts and per-seat pricing, turning the EDA growth story into a share-of-workflow fight at 18–21x earnings",
+      "Ansys integration stalls — synergy slippage, sales-force disruption or churn in the simulation base — against $26.8B of goodwill and $11.5B of acquired intangibles",
+      "Renewed US export controls or a China demand air pocket reverses the Design IP recovery; management explicitly guides assuming no further export-control changes",
+      "Intel's foundry and design roadmap slips further, pressuring a large advanced-node customer",
+      "GAAP earnings stay near $4 per share while non-GAAP sits near $15, and investors start discounting the ~$1.6B annual intangible amortization and ~$950M stock compensation as real cost"
+    ]
+  },
+  "catalysts": [
+    {
+      "date": "December 2026 (estimated)",
+      "iso_date": "2026-12",
+      "event": "Q4 and full-year FY2026 results plus first FY2027 guidance — the key test of whether EDA double-digit growth and Ansys synergies carry into a clean post-integration year"
+    },
+    {
+      "date": "Q1 FY2027",
+      "iso_date": "2027-02",
+      "event": "Q1 FY2027 results — first quarter lapping a fully consolidated Ansys, so reported growth normalizes to organic"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "Completion of the Design IP portfolio reallocation and restructuring program ($380M–$410M of FY2026 charges) — margin proof point"
+    },
+    {
+      "date": "FY2027",
+      "iso_date": "2027",
+      "event": "Continued debt paydown and buyback execution under the $2.0B repurchase authorization replenished in February 2026"
+    },
+    {
+      "date": "FY2029 (year four post-close)",
+      "iso_date": "2029",
+      "event": "Target of $400M cumulative annual Ansys cost and revenue synergies"
+    },
+    {
+      "date": "Ongoing",
+      "iso_date": null,
+      "event": "US export-control and Entity List changes affecting China EDA and IP sales — guidance assumes no further restrictions"
+    }
+  ],
+  "key_risks": [
+    "AI-driven disruption of the seat-based EDA licensing model — the dominant reason the stock de-rated in 2026",
+    "Ansys integration and synergy execution risk against $26.8B goodwill and $11.5B acquired intangibles",
+    "China export controls and Entity List restrictions; FY2026 guidance explicitly assumes no further tightening",
+    "Customer concentration among a small number of large semiconductor and hyperscaler customers, including Intel",
+    "$10.04B of total debt with ~$1.0B current, and ~$429M of interest expense in 9M FY2026",
+    "Wide GAAP-to-non-GAAP gap: ~$1.6B of annual intangible amortization and ~$950M of stock-based compensation",
+    "Design IP remains the volatile segment — it declined year over year for much of FY2026 before recovering in Q3"
+  ]
+}

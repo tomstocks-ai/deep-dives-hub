@@ -12,6 +12,7 @@
 | <tv-ticker-tag symbol="NYSE:INFQ" hide-background></tv-ticker-tag> | Infleqtion, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-28 | [:material-file-document: Read](INFQ.md) |
 | <tv-ticker-tag symbol="NYSE:IONQ" hide-background></tv-ticker-tag> | IonQ, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](IONQ.md) |
 | <tv-ticker-tag symbol="NASDAQ:RGTI" hide-background></tv-ticker-tag> | Rigetti Computing, Inc. | <span class="rating-spec-buy">SPEC. BUY</span> | 2026-07-29 | [:material-file-document: Read](RGTI.md) |
+| <tv-ticker-tag symbol="NASDAQ:QBTS" hide-background></tv-ticker-tag> | D-Wave Quantum Inc. | <span class="rating-spec-hold">HOLD / SPEC.</span> | 2026-09-29 | [:material-file-document: Read](QBTS.md) |
 
 ---
 
@@ -46,6 +47,16 @@ Rigetti is a full-stack superconducting quantum pure-play building QPUs and sell
 **Bull:** \$30–\$45 · **Base:** \$18–\$25 · **Bear:** \$6–\$10
 
 [:material-arrow-right: Full Deep Dive](RGTI.md)
+
+---
+
+**QBTS — D-Wave Quantum Inc. · <span class="rating-spec-hold">HOLD / SPEC.</span>**
+
+D-Wave sold the world's first commercial quantum computer and, since acquiring Quantum Circuits in January 2026, is the only pure-play offering both annealing (Advantage2, ~4,500 qubits) and error-detecting gate-model systems. The order book has genuinely inflected — H1 2026 bookings of \$35.5M were up 1,120% YoY, remaining performance obligations reached \$40.7M, and a September 8, 2026 agreement gives access to up to \$100M of CHIPS Act funding for a minority Commerce Department equity stake — but none of it has reached the income statement: Q2 2026 revenue was \$3.08M, flat YoY and 24% below consensus, with trailing revenue of roughly \$12.4M against a ~\$6.2B market cap. Cash of \$546.2M funds about three years at the ~\$40M quarterly burn, and consensus still carries a ~\$35-36 average target, but the stock sits ~64% below its high and plaintiff firms opened investigations in September over the Q2 miss. The primary risk is that revenue stays flat for a third year and the market stops paying several hundred times sales — the backlog has to convert before the multiple is defensible.
+
+**Bull:** \$34–\$45 · **Base:** \$16–\$22 · **Bear:** \$7–\$11
+
+[:material-arrow-right: Full Deep Dive](QBTS.md)
 
 ---
 

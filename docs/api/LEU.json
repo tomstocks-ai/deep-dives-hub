@@ -2,77 +2,93 @@
   "ticker": "LEU",
   "company": "Centrus Energy Corp.",
   "sector": "Energy",
+  "theme": "Energy",
+  "sub_theme": "Enrichment",
   "industry": "Uranium Enrichment / Nuclear Fuel",
   "exchange": "NYSE",
-  "price": 191.37,
-  "market_cap": "$3.18B",
+  "price": 140.37,
+  "price_date": "2026-09-28",
+  "market_cap": "$2.87B",
   "rating": "SPEC. BUY",
-  "last_updated": "2026-06-07",
-  "thesis": "Only U.S.-licensed HALEU producer with a $3.9B contracted backlog and $900M DOE investment. High short interest (21.6%) and 65% drawdown from highs create asymmetric risk/reward for risk-tolerant investors.",
+  "last_updated": "2026-09-29",
+  "thesis": "Centrus is the only NRC-licensed HALEU producer in the U.S. and the only publicly traded pure-play enricher in the West, with $4.5B of backlog to 2040 and a signed $900M DOE HALEU enrichment award. The stock is down ~70% from its high because the equity math got worse: a ~$500M share-and-warrant raise in September 2026, trailing free cash flow of roughly -$164M, and a DOE FY2027 budget that no longer funds the legacy HALEU Operation Contract. At $140 with ~$33.78/share of net cash and 26.5% short interest, it is an asymmetric option on the January 2028 Russian import ban rather than a core holding.",
   "financials": {
-    "fiscal_year": "FY2025",
-    "revenue": "$448.7M",
-    "revenue_growth": "+1.5%",
-    "gross_margin": "26%",
-    "net_income": "$60.0M (9mo FY2025)",
-    "eps_diluted": "$0.45 (Q1 2026)",
-    "cash": "$1.87B",
-    "fcf": "Negative (expansion phase)"
+    "fiscal_year": "Q2 2026 (TTM)",
+    "revenue": "$473.9M (TTM); $176.1M in Q2 2026",
+    "revenue_growth": "+14% YoY in Q2 2026",
+    "gross_margin": "28.3% in Q2 2026 (23.7% TTM)",
+    "net_income": "$16.8M GAAP in Q2 2026 ($38.7M adjusted); $48.5M TTM",
+    "eps_diluted": "$0.77 GAAP in Q2 2026 ($1.77 adjusted); $2.17 TTM",
+    "cash": "$1.87B (net cash ~$691M)",
+    "fcf": "-$163.8M (TTM); H1 2026 operating cash flow -$16.7M, capex $94.8M"
   },
   "bull_case": {
-    "target": "$280–$320",
+    "target": "$260–$310",
     "drivers": [
-      "HALEU demand accelerates for SMRs and advanced reactors",
-      "DOE awards expand beyond $900M initial investment",
-      "SWU prices rise on supply tightness",
-      "Multi-billion expansion succeeds and 3-5x capacity",
-      "Short squeeze on positive catalysts (21.6% short interest)"
-    ]
-  },
-  "bear_case": {
-    "target": "$110–$140",
-    "risks": [
-      "Uranium/SWU price collapse compresses margins",
-      "Expansion cost overruns or delays",
-      "Regulatory shifts reduce domestic enrichment urgency",
-      "High beta amplifies downside in risk-off markets",
-      "Customer concentration in nuclear utilities"
+      "Piketon and Oak Ridge milestones land on schedule, starting with the first new centrifuge completed by year-end 2026",
+      "Roughly $3.0B of contingent LEU and HALEU commitments convert to firm orders as construction progresses",
+      "January 1, 2028 expiry of Russian uranium import waivers forces U.S. utilities into domestic SWU, lifting enrichment prices",
+      "More commercial HALEU offtake contracts with prepayments, following the Antares Nuclear agreement",
+      "Warrant exercises from the September 2026 offering fund expansion without a further primary raise",
+      "26.5% short interest amplifies any upside move"
     ]
   },
   "base_case": {
-    "target": "$200–$240",
-    "assumptions": "Steady execution on backlog and guidance. HALEU production scales gradually 2026-2028. SWU prices remain firm. Stock recovers toward analyst consensus as execution proves out."
+    "target": "$175–$215",
+    "assumptions": "FY2026 revenue lands inside the reaffirmed $450–$500M guidance range and capital deployment stays within $350–$500M. The first Oak Ridge centrifuge completes on time and HALEU output scales slowly toward the initial 12 tonnes per year, with full rate after 2030. SWU prices stay firm without spiking. Free cash flow remains negative but funded from the $1.87B cash balance plus offering proceeds. The stock recovers toward the low end of a $218 median sell-side target as execution de-risks."
+  },
+  "bear_case": {
+    "target": "$85–$110",
+    "risks": [
+      "DOE FY2027 defunding of the HALEU Operation Contract removes ~$0.8B of Technical Solutions backlog in a segment already running a gross loss",
+      "Capex overruns or schedule slippage force another dilutive equity raise on top of the ~$500M September 2026 offering",
+      "General Matter or Orano scale faster than expected on their own $900M DOE awards, erasing the HALEU scarcity premium",
+      "Contingent backlog lapses because financing or construction milestones are missed",
+      "SWU unit costs keep rising faster than realized prices, as they did in Q2 2026",
+      "Multiple compresses toward net cash plus a modest operating business in a nuclear-sector risk-off move"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-08-01",
-      "event": "Q2 2026 Earnings (expected)",
-      "iso_date": "2026-08-01"
+      "date": "November 4, 2026",
+      "iso_date": "2026-11-04",
+      "event": "Q3 2026 earnings (estimated, after market close) — watch Technical Solutions revenue, capex pace, and contingent backlog conversion"
     },
     {
-      "date": "2026-06-01",
-      "event": "DOE Funding Milestones (ongoing)",
-      "iso_date": "2026-06-01"
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Completion of the first new centrifuge at Oak Ridge, Tennessee — management's hardest near-dated commitment"
     },
     {
-      "date": "2026-09-01",
-      "event": "HALEU Production Update (expected H2)",
-      "iso_date": "2026-09-01"
+      "date": "Q4 2026",
+      "iso_date": "2026-12",
+      "event": "Release of the Certified for Construction package for the Piketon expansion"
     },
     {
-      "date": "2026-12-01",
-      "event": "Oklo JV Progress Update (expected H2)",
-      "iso_date": "2026-12-01"
+      "date": "FY2027 appropriations cycle",
+      "iso_date": "2027-03",
+      "event": "Federal FY2027 appropriations determine whether the ~$0.8B HALEU Operation Contract backlog survives DOE's proposed defunding"
+    },
+    {
+      "date": "January 1, 2028",
+      "iso_date": "2028-01-01",
+      "event": "Russian uranium import waivers expire with no statutory extension mechanism, forcing U.S. utilities to replacement enrichment supply"
+    },
+    {
+      "date": "2029",
+      "iso_date": "2029",
+      "event": "Targeted start of commercial-scale HALEU production at Piketon"
     }
   ],
   "key_risks": [
-    "High short-term volatility (beta 1.34, weekly volatility ~11%)",
-    "Capital-intensive expansion strains free cash flow",
-    "Uranium price sensitivity",
-    "Regulatory and geopolitical uncertainty",
-    "Lumpy quarterly revenue due to contract timing"
-  ],
-  "theme": "Energy",
-  "sub_theme": "Enrichment",
-  "price_date": "2026-08-07"
+    "Dilution: the September 11, 2026 offering priced ~$500M at a combined $199.64 per share and warrant, adding 500,000 shares, pre-funded warrants for 2,005,513 shares, and common warrants over up to 6,992,382 shares against ~20.45M shares outstanding; share count is already up ~31% YoY",
+    "Trailing free cash flow of ~-$163.8M with FY2026 capital deployment guided to $350–$500M; H1 2026 operating cash flow was negative",
+    "DOE's proposed FY2027 budget does not fund operation of the HALEU cascade and DOE does not intend to exercise further options, putting ~$0.8B of Technical Solutions backlog at risk",
+    "Competition funded on the same terms: DOE awarded $900M each to Centrus, General Matter and Orano in January 2026; per Politico reporting General Matter targets 355 tonnes of HALEU annually versus Centrus's initial 12 tonnes",
+    "Roughly $3.0B of the $4.5B backlog is contingent on Centrus actually building the capacity",
+    "Weak earnings quality — trailing operating income is ~$0.5M and reported profit leans on investment income; Altman Z-Score ~2.67, Piotroski F-Score 3",
+    "Extreme volatility: 85 daily moves greater than 5% in the past year, beta ~1.33, and 26.5% short interest creating gap risk in both directions",
+    "SWU and uranium price sensitivity — Q2 2026 average SWU unit cost rose 13% against a 3% price increase",
+    "Lumpy quarterly revenue because LEU contracts carry annual rather than quarterly purchase commitments"
+  ]
 }

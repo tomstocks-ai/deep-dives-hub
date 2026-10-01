@@ -2,74 +2,91 @@
   "ticker": "GLD",
   "company": "SPDR Gold Shares",
   "sector": "Materials",
+  "theme": "Critical Minerals",
+  "sub_theme": "Gold",
   "industry": "Precious Metals / Gold",
   "exchange": "NYSE Arca",
-  "price": 398.47,
-  "market_cap": "$70.2B",
-  "rating": "BUY",
-  "last_updated": "2026-06-07",
-  "thesis": "Gold is in a structural bull market driven by record central bank buying, fiscal debasement concerns, and geopolitical fragmentation. Fed rate cuts in 2026 will reduce the opportunity cost of holding gold. J.P. Morgan targets $5,055 by Q4 2026.",
+  "price": 377.91,
+  "price_date": "2026-09-28",
+  "market_cap": "$141.0B (AUM)",
+  "rating": "HOLD",
+  "last_updated": "2026-09-29",
+  "thesis": "The world's largest physically backed gold ETF: $141.0B AUM, ~34.0M oz (~1,059 t) of bullion, 0.40% expense ratio, NAV $379.97 against LBMA PM gold of $4,144.55/oz. The structural bid is the strongest of the cycle — record 289t of central bank net purchases in Q2 2026 and global gold-ETF holdings above 4,250t for the first time ever — but the cyclical driver has flipped: the Fed hiked 25bp on 2026-09-16 to 3.75-4.00%, the first increase since 2023, with better-than-even odds of another in October and the 30-year Treasury yield at a 22-year high. Gold is ~26% below its late-January 2026 record and GLD trades below a declining 50-day and 200-day average. Hold core allocations, stage new money, and prefer GLDM (0.10%) or IAUM (0.09%) for pure buy-and-hold given GLD's ~$564M annual fee drag.",
   "financials": {
-    "fiscal_year": "N/A",
-    "revenue": "N/A",
-    "revenue_growth": "N/A",
-    "gross_margin": "N/A",
-    "net_income": "N/A",
-    "eps_diluted": "N/A",
-    "cash": "N/A",
-    "fcf": "N/A"
+    "fiscal_year": "FY2026 (grantor trust — no operating income; data as of 2026-09-28)",
+    "revenue": "$0 — trust has no revenue; AUM $141.05B",
+    "revenue_growth": "AUM -7.8% vs $152.9B in early Sep 2026 (gold price driven, not redemptions)",
+    "gross_margin": "N/A — gross expense ratio 0.40%",
+    "net_income": "$0 — no earnings or distributions; NAV tracks LBMA Gold Price PM less expenses",
+    "eps_diluted": "$0 — no EPS; NAV per share $379.97, shares outstanding 371.20M",
+    "cash": "$0 cash — assets are ~34.0M oz gold (~1,059 t, derived) vaulted with HSBC and JPMorgan in London",
+    "fcf": "-$564M/yr implied fee drag (0.40% of $141.05B AUM, paid by selling bullion)"
   },
   "bull_case": {
-    "target": "$5,000–5,500/oz",
+    "target": "$495–550",
     "drivers": [
-      "Fed cuts aggressively; real rates turn negative",
-      "Central bank buying accelerates (China, BRICS+)",
-      "Geopolitical shock triggers flight-to-safety",
-      "U.S. fiscal crisis concerns intensify"
-    ]
-  },
-  "bear_case": {
-    "target": "$3,200–3,500/oz",
-    "risks": [
-      "Fed holds or hikes on reaccelerating inflation",
-      "Dollar surges above 110",
-      "Risk-on environment reduces safe-haven demand",
-      "Crypto absorbs 'digital gold' demand"
+      "Fed hiking cycle ends by early 2027 and reverses; Goldman's first expected cut is June 2027",
+      "Central bank net purchases stay near the record 289t/quarter pace set in Q2 2026",
+      "Global gold-ETF holdings keep compounding above the 4,250t record set in September 2026",
+      "Goldman Sachs reiterates $5,400/oz for end-2027; J.P. Morgan's 2027 average forecast is $6,263/oz",
+      "Term-premium or fiscal stress at the long end drives reserve diversification"
     ]
   },
   "base_case": {
-    "target": "$4,000–4,500/oz",
-    "assumptions": "2–3 Fed rate cuts in 2026; steady central bank demand; moderate geopolitical tension; GLD returns 10–15% from current levels."
+    "target": "$420–460",
+    "assumptions": "Fed funds peak near 4.25% then plateau through 2027; official-sector demand persists at 200t+ per quarter; Asian investment demand offsets record-weak jewellery volumes. Implies gold of ~$4,600-5,000/oz at the current ~0.0917 oz/share ratio, consistent with ICICI Bank's $4,600-5,000/oz H1 2027 range and UBS's reiterated $5,000/oz by H1 2027. Roughly +11% to +22% from $377.91."
+  },
+  "bear_case": {
+    "target": "$320–360",
+    "risks": [
+      "Fed hikes at both the October and December 2026 meetings and signals more",
+      "30-year Treasury yield pushes through 5.75% from 5.53%, raising real opportunity cost",
+      "Dollar rallies; five-session gold correlation to DXY and yields is roughly -0.97 to -0.99",
+      "Momentum cohort that drove the 2025-26 advance unwinds; price already below 50-day and 200-day averages",
+      "Macquarie's bearish ~$4,323/oz average forecast proves closer to the mark"
+    ]
   },
   "catalysts": [
     {
-      "date": "2026-06-18",
-      "event": "FOMC meeting — rate decision and dot plot",
-      "iso_date": "2026-06-18"
+      "date": "October 2026",
+      "iso_date": "2026-10",
+      "event": "September core CPI — Citi's economist argues this is the one data point that could stop an October Fed hike"
     },
     {
-      "date": "2026-07-04",
-      "event": "Monthly U.S. nonfarm payrolls",
-      "iso_date": "2026-07-04"
+      "date": "2026-10-28",
+      "iso_date": "2026-10-28",
+      "event": "FOMC decision and statement; markets price better-than-even odds of a second consecutive 25bp hike"
     },
     {
-      "date": "2026-07-15",
-      "event": "Q2 Treasury refunding announcement",
-      "iso_date": "2026-07-15"
+      "date": "Late October 2026",
+      "iso_date": "2026-10",
+      "event": "World Gold Council Gold Demand Trends Q3 2026 — Q3 central bank net purchases and ETF flows"
     },
     {
-      "date": "2026-10-22",
-      "event": "BRICS summit — watch for reserve currency developments",
-      "iso_date": "2026-10-22"
+      "date": "November 2026",
+      "iso_date": "2026-11",
+      "event": "GLD Form 10-K for the fiscal year ended 2026-09-30"
+    },
+    {
+      "date": "2026-12-09",
+      "iso_date": "2026-12-09",
+      "event": "FOMC decision; the Fed signalled one more 2026 hike at its September meeting"
+    },
+    {
+      "date": "H1 2027",
+      "iso_date": "2027-01",
+      "event": "Window in which UBS sees $5,000/oz gold and Goldman's first expected rate cut (June 2027) falls"
     }
   ],
   "key_risks": [
-    "Strong dollar / DXY >110",
-    "Fed hawkish pivot on inflation",
-    "Bitcoin competition for store-of-value demand",
-    "Profit-taking after 80% rally from 2022 lows"
-  ],
-  "theme": "Critical Minerals",
-  "sub_theme": "Gold",
-  "price_date": "2026-08-07"
+    "Fed actively hiking — 25bp to 3.75-4.00% on 2026-09-16, first increase since 2023, with one more signalled for 2026",
+    "Rising real yields; 30-year Treasury at 5.53%, highest since 2004, against a zero-yield asset",
+    "Dollar strength dominating price action; short-run correlations near -0.98",
+    "Negative price structure — ~26% below the late-January 2026 record, below declining 50-day ($395.62) and 200-day ($416.39) averages",
+    "0.40% expense ratio versus 0.09-0.25% for identical wrappers (GLDM, IAU, IAUM) — ~$564M/yr drag and persistent share rotation out of GLD ($603M redeemed in the week to 2026-09-12)",
+    "Zero income while cash yields near 4%, making opportunity cost material",
+    "Price-elastic demand destruction — Q2 jewellery demand of 278t was one of the weakest on record",
+    "Structural: shares are a claim on a trust, not allocated metal; no 1940 Act or Commodity Exchange Act protections; custody concentrated at HSBC and JPMorgan",
+    "Forced-liquidation reflexivity — GLD's liquidity makes it a first source of funds in a broad deleveraging, selling bullion into a falling market"
+  ]
 }
